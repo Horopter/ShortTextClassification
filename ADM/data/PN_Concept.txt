@@ -1,0 +1,633 @@
+PN additive	albumin	1	1	2	2	NULL	NULL	NULL	878	345	0.0005694760820045558
+PN additive	heparin	1	1	2	2	NULL	NULL	NULL	1158	314	0.0004317789291882556
+PN associated complication	infection	3	3	3	1	NULL	NULL	NULL	5942	1309	0.0005048805116122518
+PN code	Barker code	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+PN code series	M series	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+PN code series	Gold series	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+PN construct	marking dependency	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PN exponent	MEP Simon Busuttil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PN exponent	Carm Mifsud Bonnici	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PN extension	CPN	1	1	1	1	1.000000000000	NULL	NULL	13	13	0.07692307692307693
+PN junction	shown at 882a	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PN junction	emitter-base junctions of a transistor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PN junction	laser diode	1	1	3	3	NULL	NULL	NULL	354	159	0.0009416195856873823
+pn junction device	diode	1	1	2	2	NULL	NULL	NULL	1209	405	0.00041356492969396195
+pn junction device	LEDs	1	1	2	2	NULL	NULL	NULL	685	325	0.00072992700729927
+pn junction parameter	built-in potential	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+pn junction parameter	impurity concentration	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+PN object	Circular Waits	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PN object	Critical Siphons	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PN official	Austin Gatt	1	1	1	1	NULL	NULL	NULL	1	1	1
+PN qualitative property	boundedness	1	1	1	1	1.000000000000	NULL	NULL	28	15	0.03571428571428571
+PN sequence	Gold	2	2	5	4	NULL	NULL	NULL	10877	2626	0.00007354969201066471
+PN sequence	maximal length sequence	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+pn sequence	short pn sequence	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+PN sequence	Barker	1	1	5	4	NULL	NULL	NULL	37	21	0.005405405405405406
+PN symptom	cramping	1	1	2	2	0.500000000000	NULL	NULL	439	154	0.0011389521640091116
+PN symptom	muscle stiffness	1	1	2	2	0.500000000000	NULL	NULL	52	30	0.009615384615384616
+pn-associated complication	cholestasis	1	1	2	2	1.000000000000	NULL	NULL	34	23	0.014705882352941176
+pn-associated complication	catheter-related sepsis	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+pn-junction	pn-junction J3 in FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+PN17 firm	Talam Corp Bhd	2	2	2	1	NULL	NULL	NULL	2	1	1
+PN37 publication	Gebreselassie et al.	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNA	mio c320	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+PNA information	Constitution	1	1	3	3	NULL	NULL	NULL	437	193	0.0007627765064836002
+PNA information	registration form	1	1	3	3	NULL	NULL	NULL	101	43	0.0033003300330033
+PNA information	Members Guide	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+PNA staff	teacher	1	1	1	1	NULL	NULL	NULL	4365	1382	0.0002290950744558992
+pna-sponsored outreach event	neighborhood potluck	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNAC member	Paul Wolfowitz	1	1	2	2	0.333333333333	NULL	NULL	66	36	0.007575757575757576
+PNAC member	Donald Rumsfeld	1	1	2	2	0.333333333333	NULL	NULL	40	30	0.0125
+PNAd-forming sialomucins	podocalyxin	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+PNAs	forodesine	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+PNAs	nelarabine	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+PNC building	Three PNC Plaza	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PNC business partner	agent	1	1	3	3	NULL	NULL	NULL	519	251	0.0006422607578676942
+PNC business partner	consultant	1	1	3	3	NULL	NULL	NULL	1056	445	0.00031565656565656563
+PNC business partner	vendor	1	1	3	3	NULL	NULL	NULL	566	280	0.0005889281507656066
+PNC inside store	Giant	1	1	1	1	NULL	NULL	NULL	334	185	0.0029940119760479044
+PNC worker	33-year-old executive assistant from Fishers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PNC worker	Christie Moran	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PND maker	Kan.-based Garmin Ltd.	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+PND manufacturer	Globalsat Technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PND manufacturer	Panasonic	1	1	2	2	NULL	NULL	NULL	2159	664	0.0002315886984715146
+PND markegt leader	TomTom	1	1	2	2	NULL	NULL	NULL	257	134	0.0019455252918287938
+PND markegt leader	Garmin	1	1	2	2	NULL	NULL	NULL	443	184	0.001128668171557562
+PND specification	dimension	1	1	2	2	NULL	NULL	NULL	1006	421	0.0004970178926441351
+PND specification	weight	1	1	2	2	NULL	NULL	NULL	8102	1947	0.00006171315724512466
+PNDs	sensory neuronopathy	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+PNE application	oil stimulation	2	2	2	1	NULL	NULL	NULL	2	1	1
+pneuamtic tool	Paving breaker	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pneumatic accessory	fitting	1	1	6	6	NULL	NULL	NULL	587	262	0.00028392958546280523
+pneumatic accessory	connector	1	1	6	6	NULL	NULL	NULL	893	364	0.0001866368047779022
+pneumatic accessory	tubing	1	1	6	6	NULL	NULL	NULL	824	355	0.00020226537216828477
+pneumatic accessory	filter	1	1	6	6	NULL	NULL	NULL	3205	1326	0.00005200208008320333
+pneumatic accessory	ballon	1	1	6	6	NULL	NULL	NULL	4	4	0.041666666666666664
+pneumatic accessory	jar	1	1	6	6	NULL	NULL	NULL	368	186	0.00045289855072463763
+pneumatic actuation system	oxidizer system	2	1	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+pneumatic actuation system	cryogenic fuel	2	1	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+pneumatic actuation system	sound suppression system	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+pneumatic actuation system	firex system	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+pneumatic actuator	piston actuator	2	2	11	9	0.500000000000	NULL	NULL	3	2	0.12121212121212122
+pneumatic actuator	diaphragm actuator	2	2	11	9	0.500000000000	NULL	NULL	3	2	0.12121212121212122
+pneumatic actuator	typically ahydraulic or pneumatic actuator	1	1	11	9	0.500000000000	NULL	NULL	2	2	0.045454545454545456
+pneumatic actuator	standard actuator	1	1	11	9	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+pneumatic actuator	air cylinder shown in Fig	1	1	11	9	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+pneumatic actuator	double acting actuator	1	1	11	9	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+pneumatic actuator	gripper	1	1	11	9	0.500000000000	NULL	NULL	90	53	0.00101010101010101
+pneumatic actuator	hydraulic or pneumatic actuator	1	1	11	9	0.500000000000	NULL	NULL	2	2	0.045454545454545456
+pneumatic actuator	rodless pneumatic cylinder	1	1	11	9	0.500000000000	NULL	NULL	17	16	0.005347593582887701
+pneumatic actuator related offer	Flange Ball Valve	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+pneumatic air gun	nail gun	1	1	2	2	NULL	NULL	NULL	100	45	0.005
+pneumatic air gun	used for roofing	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pneumatic air rifle	Daisy M853	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic air tool	impact wrench	1	1	6	6	0.333333333333	NULL	NULL	104	42	0.0016025641025641025
+pneumatic air tool	angle grinder	1	1	6	6	0.333333333333	NULL	NULL	115	37	0.0014492753623188406
+pneumatic air tool	rachet wrench	1	1	6	6	0.333333333333	NULL	NULL	3	3	0.05555555555555555
+pneumatic air tool	screw driver	1	1	6	6	0.333333333333	NULL	NULL	320	117	0.0005208333333333333
+pneumatic air tool	impact wrench kits with socket	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+pneumatic air tool	micro die grinder	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+pneumatic air-powered vehicle	dune buggy	1	1	3	3	NULL	NULL	NULL	60	34	0.005555555555555555
+pneumatic air-powered vehicle	crane	1	1	3	3	NULL	NULL	NULL	1152	493	0.00028935185185185184
+pneumatic air-powered vehicle	forklift	1	1	3	3	NULL	NULL	NULL	668	297	0.000499001996007984
+pneumatic and air tool	air cutting tool	1	1	10	10	0.714285714285	NULL	NULL	3	3	0.03333333333333333
+pneumatic and air tool	air compressor	1	1	10	10	0.714285714285	NULL	NULL	326	179	0.00030674846625766873
+pneumatic and air tool	air saw	1	1	10	10	0.714285714285	NULL	NULL	7	4	0.014285714285714287
+pneumatic and air tool	air tools kit	1	1	10	10	0.714285714285	NULL	NULL	1	1	0.1
+pneumatic and air tool	air drill	1	1	10	10	0.714285714285	NULL	NULL	13	13	0.007692307692307693
+pneumatic and air tool	spray gun	1	1	10	10	0.714285714285	NULL	NULL	91	56	0.001098901098901099
+pneumatic and air tool	air grinder	1	1	10	10	0.714285714285	NULL	NULL	16	15	0.00625
+pneumatic and air tool	air sander	1	1	10	10	0.714285714285	NULL	NULL	18	17	0.005555555555555556
+pneumatic and air tool	air screwdriver	1	1	10	10	0.714285714285	NULL	NULL	21	15	0.004761904761904762
+pneumatic and air tool	air impact wrench	1	1	10	10	0.714285714285	NULL	NULL	26	19	0.0038461538461538464
+pneumatic and electric hand tool	screwdriver	1	1	1	1	0.500000000000	NULL	NULL	1586	373	0.0006305170239596469
+pneumatic and electric power tool	drill	5	3	11	3	NULL	NULL	NULL	1600	496	0.0014204545454545453
+pneumatic and electric power tool	wrench	3	2	11	3	NULL	NULL	NULL	763	183	0.0010723221732396044
+pneumatic and electric power tool	screw driver	3	2	11	3	NULL	NULL	NULL	320	117	0.002556818181818182
+pneumatic and electrical hand tool	drill	1	1	2	2	NULL	NULL	NULL	1600	496	0.0003125
+pneumatic and electrical hand tool	grinder	1	1	2	2	NULL	NULL	NULL	591	226	0.0008460236886632825
+pneumatic and electro-pneumatic procedure	mechanical adjustment	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+pneumatic and electro-pneumatic procedure	manipulator speed control	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic and electronic device	stainless steel cylinder	1	1	2	2	0.500000000000	NULL	NULL	9	8	0.05555555555555555
+pneumatic and electronic device	air cylinder	1	1	2	2	0.500000000000	NULL	NULL	90	60	0.005555555555555556
+pneumatic and hydraulic machine	compressor	1	1	4	4	NULL	NULL	NULL	1160	512	0.00021551724137931034
+pneumatic and hydraulic machine	steam turbine	1	1	4	4	NULL	NULL	NULL	128	78	0.001953125
+pneumatic and hydraulic machine	generator	1	1	4	4	NULL	NULL	NULL	1597	672	0.00015654351909830932
+pneumatic and hydraulic machine	blower	1	1	4	4	NULL	NULL	NULL	432	210	0.0005787037037037037
+pneumatic application	tire	1	1	2	2	NULL	NULL	NULL	2102	655	0.0002378686964795433
+pneumatic application	connecting air tool	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic assembly	air actuator	2	1	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+pneumatic assembly	spring	1	1	3	2	NULL	NULL	NULL	2397	949	0.00013906271728549575
+pneumatic assembly tool	grinder	1	1	4	4	NULL	NULL	NULL	591	226	0.00042301184433164127
+pneumatic assembly tool	drill	1	1	4	4	NULL	NULL	NULL	1600	496	0.00015625
+pneumatic assembly tool	sander	1	1	4	4	NULL	NULL	NULL	246	98	0.0010162601626016261
+pneumatic assembly tool	screwdriver	1	1	4	4	NULL	NULL	NULL	1586	373	0.00015762925598991173
+Pneumatic blowback	G&G blowback AK	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Pneumatic blowback	system used in the CM046	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Pneumatic blowback	G&G Combat Machine M4	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic bone	humerus	1	1	1	1	1.000000000000	NULL	NULL	74	21	0.013513513513513514
+pneumatic brake system	used on tractor-trailer type truck	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic component	pneumatic actuator	3	3	23	19	0.500000000000	NULL	NULL	51	32	0.007672634271099744
+pneumatic component	pressure relief valve	2	2	23	19	0.500000000000	NULL	NULL	88	50	0.001976284584980237
+pneumatic component	valve	2	2	23	19	0.500000000000	NULL	NULL	2401	900	0.00007243358745450265
+pneumatic component	vacuum pump	1	1	23	19	0.500000000000	NULL	NULL	246	137	0.00017674089784376105
+pneumatic component	stainless steel guide & plunger	1	1	23	19	0.500000000000	NULL	NULL	1	1	0.043478260869565216
+pneumatic component	directional control valve	1	1	23	19	0.500000000000	NULL	NULL	32	23	0.001358695652173913
+pneumatic component	air adjusting valve	1	1	23	19	0.500000000000	NULL	NULL	1	1	0.043478260869565216
+pneumatic component	flow control valve	1	1	23	19	0.500000000000	NULL	NULL	46	33	0.000945179584120983
+pneumatic component	solenod valve	1	1	23	19	0.500000000000	NULL	NULL	1	1	0.043478260869565216
+pneumatic component	air fitting	1	1	23	19	0.500000000000	NULL	NULL	5	4	0.008695652173913044
+pneumatic component	air filter	1	1	23	19	0.500000000000	NULL	NULL	446	226	0.00009748488984207447
+pneumatic component	receiver	1	1	23	19	0.500000000000	NULL	NULL	363	224	0.00011977482333213558
+pneumatic component	actuator shaft	1	1	23	19	0.500000000000	NULL	NULL	2	2	0.021739130434782608
+pneumatic component	air spray gun	1	1	23	19	0.500000000000	NULL	NULL	13	12	0.0033444816053511705
+pneumatic component	piston	1	1	23	19	0.500000000000	NULL	NULL	720	278	0.00006038647342995169
+pneumatic component	pinion	1	1	23	19	0.500000000000	NULL	NULL	117	82	0.0003716090672612412
+pneumatic component	quick disconnects	1	1	23	19	0.500000000000	NULL	NULL	7	5	0.006211180124223602
+pneumatic component	quick-clutch fitting	1	1	23	19	0.500000000000	NULL	NULL	1	1	0.043478260869565216
+pneumatic component	mint eliminators	1	1	23	19	0.500000000000	NULL	NULL	1	1	0.043478260869565216
+pneumatic component related offer	Pneumatic Fitting	1	1	1	1	1.000000000000	NULL	NULL	24	18	0.041666666666666664
+pneumatic compression device	SCD machine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic compression device	air compression boot	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic compression stocking	Flowtron stocking	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic construction component	valve	1	1	1	1	NULL	NULL	NULL	2401	900	0.00041649312786339027
+pneumatic contracting tool	stapling gun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic contracting tool	nail	1	1	2	2	NULL	NULL	NULL	2129	646	0.00023485204321277596
+pneumatic control	processing pressing pressure	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pneumatic control	thermostat	1	1	4	4	NULL	NULL	NULL	625	276	0.0004
+pneumatic control	foot pedal	1	1	4	4	NULL	NULL	NULL	88	47	0.002840909090909091
+pneumatic control	cutter pressure	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pneumatic controller	thermostat	1	1	1	1	NULL	NULL	NULL	625	276	0.0016
+pneumatic conveyor	deep bucket conveyor	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic coupling accessory	full pressure blow gun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic coupling accessory	controlled pressure blow gun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic cylinder	electrical pneumatic cylinder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic cylinder	industrial pneumatic cylinder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic cylinder	hydraulic pneumatic cylinder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic cylinder related offer	Air Cylinder	1	1	2	2	NULL	NULL	NULL	90	60	0.005555555555555556
+pneumatic cylinder related offer	Hydraulic Cylinder	1	1	2	2	NULL	NULL	NULL	227	107	0.0022026431718061676
+pneumatic design topic	sequencing	1	1	3	3	0.500000000000	NULL	NULL	449	181	0.0007423904974016332
+pneumatic design topic	valve theory	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+pneumatic design topic	pipe sizing	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+pneumatic device	valve	2	1	31	28	0.409090909090	NULL	NULL	2401	900	0.000053741048756566485
+pneumatic device	liquid level controller	2	2	31	28	0.409090909090	NULL	NULL	6	5	0.02150537634408602
+pneumatic device	air tool	2	2	31	28	0.409090909090	NULL	NULL	53	33	0.002434570906877663
+pneumatic device	air brake	1	1	31	28	0.409090909090	NULL	NULL	27	22	0.0011947431302270011
+pneumatic device	air cylinder	1	1	31	28	0.409090909090	NULL	NULL	90	60	0.00035842293906810036
+pneumatic device	thermostat	1	1	31	28	0.409090909090	NULL	NULL	625	276	0.00005161290322580645
+pneumatic device	B-B gun	1	1	31	28	0.409090909090	NULL	NULL	2	2	0.016129032258064516
+pneumatic device	pellet gun	1	1	31	28	0.409090909090	NULL	NULL	51	25	0.0006325110689437065
+pneumatic device	inflatable bladder	1	1	31	28	0.409090909090	NULL	NULL	5	5	0.0064516129032258064
+pneumatic device	piston driven ram	1	1	31	28	0.409090909090	NULL	NULL	1	1	0.03225806451612903
+pneumatic device	motor	1	1	31	28	0.409090909090	NULL	NULL	2780	997	0.000011603620329542817
+pneumatic device	transmitter	1	1	31	28	0.409090909090	NULL	NULL	298	161	0.00010824853864472829
+pneumatic device	blowgun	1	1	31	28	0.409090909090	NULL	NULL	14	8	0.002304147465437788
+pneumatic device	rhyme	1	1	31	28	0.409090909090	NULL	NULL	321	136	0.00010049241282283187
+pneumatic device	nail gun	1	1	31	28	0.409090909090	NULL	NULL	100	45	0.0003225806451612903
+pneumatic device	pressure controller	1	1	31	28	0.409090909090	NULL	NULL	22	20	0.001466275659824047
+pneumatic device	pressure transducer	1	1	31	28	0.409090909090	NULL	NULL	114	58	0.0002829654782116582
+pneumatic device	pressure	1	1	31	28	0.409090909090	NULL	NULL	4442	1435	0.000007262058648385644
+pneumatic device	pressure regulator	1	1	31	28	0.409090909090	NULL	NULL	109	64	0.0002959455460195324
+pneumatic device	compressor	1	1	31	28	0.409090909090	NULL	NULL	1160	512	0.000027808676307007784
+pneumatic device	tool	1	1	31	28	0.409090909090	NULL	NULL	3208	1144	0.000010055506395302067
+pneumatic device	temperature controller	1	1	31	28	0.409090909090	NULL	NULL	84	48	0.00038402457757296467
+pneumatic device	spray paint gun	1	1	31	28	0.409090909090	NULL	NULL	12	11	0.0026881720430107525
+pneumatic device	electro-pneumatic transducer	1	1	31	28	0.409090909090	NULL	NULL	1	1	0.03225806451612903
+pneumatic device	paintball gun	1	1	31	28	0.409090909090	NULL	NULL	40	27	0.0008064516129032258
+pneumatic device	pressurized spray paint gun	1	1	31	28	0.409090909090	NULL	NULL	1	1	0.03225806451612903
+pneumatic device	pneumatic motor	1	1	31	28	0.409090909090	NULL	NULL	22	15	0.001466275659824047
+pneumatic device	roller coaster brake	1	1	31	28	0.409090909090	NULL	NULL	1	1	0.03225806451612903
+Pneumatic device A powder	abrasive powder	1	1	1	1	1.000000000000	NULL	NULL	40	31	0.025
+pneumatic device emission factor	transmitter	1	1	1	1	NULL	NULL	NULL	298	161	0.003355704697986577
+pneumatic diaphragm valve	t shape diaphragm valve	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+pneumatic diaphragm valve	industrial diaphragm valve	1	1	5	5	NULL	NULL	NULL	4	2	0.05
+pneumatic diaphragm valve	stainless steel diaphragm valve	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+pneumatic diaphragm valve	manual diaphragm valve	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+pneumatic diaphragm valve	sanitary diaphragm valve	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+pneumatic dredge	Pneuma Pump	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic drill	jackhammer	1	1	1	1	NULL	NULL	NULL	97	51	0.010309278350515464
+pneumatic driven metal fastener	staple	2	2	4	2	NULL	NULL	NULL	671	251	0.0014903129657228018
+pneumatic driven metal fastener	nail	2	2	4	2	NULL	NULL	NULL	2129	646	0.0004697040864255519
+pneumatic element	valve	1	1	6	6	0.400000000000	NULL	NULL	2401	900	0.00006941552131056504
+pneumatic element	cylinder	1	1	6	6	0.400000000000	NULL	NULL	1169	518	0.000142571998859424
+pneumatic element	air tank	1	1	6	6	0.400000000000	NULL	NULL	38	25	0.0043859649122807015
+pneumatic element	F. R. L Combination	1	1	6	6	0.400000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic element	pneumatic valve	1	1	6	6	0.400000000000	NULL	NULL	26	18	0.00641025641025641
+pneumatic element	pump	1	1	6	6	0.400000000000	NULL	NULL	3215	1354	0.00005184033177812338
+pneumatic equipment	valve board	3	0	10	8	0.500000000000	NULL	NULL	3	1	0.3
+pneumatic equipment	valve	1	1	10	8	0.500000000000	NULL	NULL	2401	900	0.000041649312786339026
+pneumatic equipment	ventilator	1	1	10	8	0.500000000000	NULL	NULL	269	161	0.00037174721189591083
+pneumatic equipment	pressure regulator	1	1	10	8	0.500000000000	NULL	NULL	109	64	0.0009174311926605505
+pneumatic equipment	innovative hydraulic and pneumatic equipment	1	1	10	8	0.500000000000	NULL	NULL	2	2	0.05
+pneumatic equipment	hydraulic press brake	1	1	10	8	0.500000000000	NULL	NULL	39	38	0.002564102564102564
+pneumatic equipment	air tool	1	1	10	8	0.500000000000	NULL	NULL	53	33	0.0018867924528301887
+pneumatic equipment	pneumatic actuator	1	1	10	8	0.500000000000	NULL	NULL	51	32	0.00196078431372549
+pneumatic feeder	industrial pneumatic feeder	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic fitting product	pipe fitting	1	1	1	1	NULL	NULL	NULL	191	127	0.005235602094240838
+pneumatic flow mechanism	vacuum suction system	4	3	4	1	NULL	NULL	NULL	4	1	1
+pneumatic fluid	air	2	1	4	3	NULL	NULL	NULL	4803	1359	0.00020820320632937748
+pneumatic fluid	cylinder air	1	1	4	3	NULL	NULL	NULL	9	5	0.027777777777777776
+pneumatic fluid	pressurized air from a suitable source	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+pneumatic forklift	industrial Pneumatic Forklifts	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic function	flow setting	2	2	6	4	0.500000000000	NULL	NULL	8	3	0.08333333333333333
+pneumatic function	maximum pressure	2	2	6	4	0.500000000000	NULL	NULL	15	10	0.04444444444444444
+pneumatic function	engine	1	1	6	4	0.500000000000	NULL	NULL	2149	764	0.00007755545214828601
+pneumatic function	maxim umpressureand PEEP	1	1	6	4	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic grinder	Roto	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+pneumatic gun	paintball gun	2	1	2	1	1.000000000000	NULL	NULL	40	27	0.05
+pneumatic hand power tool	Impact wrench	1	1	1	2	NULL	NULL	NULL	104	42	0.009615384615384616
+pneumatic hand tool	air grinder	1	1	4	4	0.500000000000	NULL	NULL	16	15	0.015625
+pneumatic hand tool	drill	1	1	4	4	0.500000000000	NULL	NULL	1600	496	0.00015625
+pneumatic hand tool	router	1	1	4	4	0.500000000000	NULL	NULL	2575	830	0.0000970873786407767
+pneumatic hand tool	edge preparation	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+pneumatic hold open device	gas spring strut	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pneumatic hold-open device	gas spring strut	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pneumatic impact tool	riveting gun	4	4	8	4	1.000000000000	NULL	NULL	6	3	0.3333333333333333
+pneumatic impact tool	jackhammer	2	2	8	4	1.000000000000	NULL	NULL	97	51	0.005154639175257732
+pneumatic impact tool	rivet gun	1	1	8	4	1.000000000000	NULL	NULL	17	11	0.007352941176470588
+pneumatic impact tool	air scribe	1	1	8	4	1.000000000000	NULL	NULL	1	1	0.125
+pneumatic impulse tool	impact wrench	1	1	1	1	NULL	NULL	NULL	104	42	0.009615384615384616
+pneumatic instrument	control valve	1	1	7	7	0.142857142857	NULL	NULL	157	88	0.0009099181073703366
+pneumatic instrument	controller	1	1	7	7	0.142857142857	NULL	NULL	877	311	0.00016289297931259162
+pneumatic instrument	transmitter	1	1	7	7	0.142857142857	NULL	NULL	298	161	0.00047938638542665386
+pneumatic instrument	transducer	1	1	7	7	0.142857142857	NULL	NULL	161	79	0.0008873114463176574
+pneumatic instrument	relay	1	1	7	7	0.142857142857	NULL	NULL	910	373	0.00015698587127158556
+pneumatic instrument	recorder	1	1	7	7	0.142857142857	NULL	NULL	411	190	0.00034758428919012856
+pneumatic instrument	pneumatic actuator	1	1	7	7	0.142857142857	NULL	NULL	51	32	0.0028011204481792717
+pneumatic lubricator	oil lubricator	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+pneumatic lubricator	industrial lubricator	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+pneumatic lubricator	adjustable lubricator	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+pneumatic machine	pneumatic doublehead machine	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic mean	controlling the vertical movement of the wheel-holder arm	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic mean	lifting mean	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic member	shock absorbers	1	1	2	2	0.500000000000	NULL	NULL	202	103	0.0024752475247524753
+pneumatic member	gas strut	1	1	2	2	0.500000000000	NULL	NULL	6	4	0.08333333333333333
+pneumatic method	sparging	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+pneumatic motor	used by the Garden Railroad person	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic nail gun	framing nail gun	1	1	1	1	NULL	NULL	NULL	8	4	0.125
+pneumatic nailer	putting in the shoe molding	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pneumatic Nailers	electric Pneumatic Nailers	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Pneumatic Nailers	pressure Pneumatic Nailers	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Pneumatic Nailers	industrial Pneumatic Nailers	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Pneumatic Nailers	pneumatic coil nailers	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Pneumatic Nailers	hand Pneumatic Nailers	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+pneumatic or hydraulic tool	impact	1	1	1	1	NULL	NULL	NULL	407	215	0.002457002457002457
+pneumatic or mechanical method	conveyor	1	1	1	1	NULL	NULL	NULL	356	198	0.0028089887640449437
+pneumatic percussion tool	riveting gun	1	1	3	3	1.000000000000	NULL	NULL	6	3	0.05555555555555555
+pneumatic percussion tool	air hammer	1	1	3	3	1.000000000000	NULL	NULL	31	18	0.01075268817204301
+pneumatic percussion tool	pavement breaker	1	1	3	3	1.000000000000	NULL	NULL	11	9	0.0303030303030303
+pneumatic pliers	combination pliers	1	1	6	6	1.000000000000	NULL	NULL	13	6	0.01282051282051282
+pneumatic pliers	industrial pliers	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic pliers	locking pliers	1	1	6	6	1.000000000000	NULL	NULL	9	7	0.018518518518518517
+pneumatic pliers	top cutter pliers	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+pneumatic pliers	side cutting pliers	1	1	6	6	1.000000000000	NULL	NULL	8	5	0.020833333333333332
+pneumatic pliers	water pump pliers	1	1	6	6	1.000000000000	NULL	NULL	5	5	0.03333333333333333
+pneumatic press	bucher pneumatic press	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pneumatic product	valve	3	2	26	23	0.285714285714	NULL	NULL	2401	900	0.00014417069810655815
+pneumatic product	cylinder	2	2	26	23	0.285714285714	NULL	NULL	1169	518	0.00013160492202408372
+pneumatic product	spiral hose	1	1	26	23	0.285714285714	NULL	NULL	4	4	0.009615384615384616
+pneumatic product	FRLS	1	1	26	23	0.285714285714	NULL	NULL	1	1	0.038461538461538464
+pneumatic product	automation	1	1	26	23	0.285714285714	NULL	NULL	456	198	0.0000843454790823212
+pneumatic product	push-on fittings & tubing	1	1	26	23	0.285714285714	NULL	NULL	1	1	0.038461538461538464
+pneumatic product	pressure sensor	1	1	26	23	0.285714285714	NULL	NULL	524	319	0.0000733998825601879
+pneumatic product	pneumatic fitting	1	1	26	23	0.285714285714	NULL	NULL	24	18	0.0016025641025641027
+pneumatic product	industrial shock absorbers	1	1	26	23	0.285714285714	NULL	NULL	4	4	0.009615384615384616
+pneumatic product	fitting	1	1	26	23	0.285714285714	NULL	NULL	587	262	0.00006552221202987814
+pneumatic product	tooling plate	1	1	26	23	0.285714285714	NULL	NULL	2	2	0.019230769230769232
+pneumatic product	inline flow monitor	1	1	26	23	0.285714285714	NULL	NULL	1	1	0.038461538461538464
+pneumatic product	solenoid valve	1	1	26	23	0.285714285714	NULL	NULL	303	190	0.00012693577050012695
+pneumatic product	vacuum cup	1	1	26	23	0.285714285714	NULL	NULL	40	34	0.0009615384615384616
+pneumatic product	miniature filter	1	1	26	23	0.285714285714	NULL	NULL	3	2	0.012820512820512822
+pneumatic product	pneumatic cylinders & actuator	1	1	26	23	0.285714285714	NULL	NULL	1	1	0.038461538461538464
+pneumatic product	pneumatic cylinder	1	1	26	23	0.285714285714	NULL	NULL	105	60	0.0003663003663003663
+pneumatic product	pneumatics cylinder	1	1	26	23	0.285714285714	NULL	NULL	1	1	0.038461538461538464
+pneumatic product	rotary actuator	1	1	26	23	0.285714285714	NULL	NULL	14	8	0.0027472527472527475
+pneumatic product	gripper	1	1	26	23	0.285714285714	NULL	NULL	90	53	0.00042735042735042735
+pneumatic product	dryer	1	1	26	23	0.285714285714	NULL	NULL	1116	294	0.000034463744141163496
+pneumatic product	filter	1	1	26	23	0.285714285714	NULL	NULL	3205	1326	0.000012000480019200768
+pneumatic product	pneumatic caliper disc brake	1	1	26	23	0.285714285714	NULL	NULL	1	1	0.038461538461538464
+pneumatic pump	Thoratec's Paracorporeal Ventricular Assist Device	2	2	2	1	NULL	NULL	NULL	2	1	1
+pneumatic resistance machine	Keiser	1	1	1	1	1.000000000000	NULL	NULL	13	13	0.07692307692307693
+pneumatic restrictor	dashpot	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pneumatic riveter	industrial pneumatic riveter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic riveter	structural blind pneumatic riveter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneumatic roller	Leeboy 420 Pneumatic Roller	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic screwdriver	angle type pneumatic screw driver	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic screwdriver	pneumatic impact screw driver	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic screwdriver	pistol type push start screw driver	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic sensor	altimeter	1	1	1	1	NULL	NULL	NULL	124	62	0.008064516129032258
+pneumatic separator	jig	1	1	1	1	0.666666666666	NULL	NULL	204	115	0.004901960784313725
+pneumatic source	plant air	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+pneumatic source	utility air	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pneumatic stapler	industrial pneumatic stapler	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pneumatic stapler	pneumatic carton stapler	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+pneumatic star	Jordan	1	1	1	1	NULL	NULL	NULL	1993	444	0.0005017561465127947
+pneumatic structure	Airtecture Hall	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pneumatic structure	tennis bubble	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pneumatic structure	air hall	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pneumatic structure	football	1	1	4	4	NULL	NULL	NULL	10605	1568	0.000023573785950023575
+pneumatic surgical drill	Midas Rex MR7 High-Speed Pneumatic Drills	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic system	pneumatic systems of motor vehicle	2	2	15	12	0.500000000000	NULL	NULL	2	1	0.13333333333333333
+pneumatic system	sold by numerous vendor	2	2	15	12	0.500000000000	NULL	NULL	2	1	0.13333333333333333
+pneumatic system	vacuum system	2	1	15	12	0.500000000000	NULL	NULL	54	34	0.0049382716049382715
+pneumatic system	clamping & control	1	1	15	12	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+pneumatic system	disclosedby Peter	1	1	15	12	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+pneumatic system	air brake	1	1	15	12	0.500000000000	NULL	NULL	27	22	0.0024691358024691358
+pneumatic system	airlift fermenters	1	1	15	12	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+pneumatic system	disclosed by Peter	1	1	15	12	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+pneumatic system	regulators for the conversion of human power of children's play in school playground	1	1	15	12	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+pneumatic system	motor	1	1	15	12	0.500000000000	NULL	NULL	2780	997	0.00002398081534772182
+pneumatic system	valve	1	1	15	12	0.500000000000	NULL	NULL	2401	900	0.000027766208524226015
+pneumatic system	cylinder	1	1	15	12	0.500000000000	NULL	NULL	1169	518	0.0000570287995437696
+pneumatic system device	valve	1	1	3	3	NULL	NULL	NULL	2401	900	0.00013883104262113008
+pneumatic system device	compressor	1	1	3	3	NULL	NULL	NULL	1160	512	0.00028735632183908046
+pneumatic system device	control	1	1	3	3	NULL	NULL	NULL	1621	738	0.00020563438206868187
+pneumatic technology	Circulation Control airfoil	2	2	2	1	NULL	NULL	NULL	2	1	1
+pneumatic tire	used for passenger vehicle	1	1	6	6	0.200000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic tire	truck	1	1	6	6	0.200000000000	NULL	NULL	2917	860	0.00005713632727688264
+pneumatic tire	pneumatic tire for agricultural	1	1	6	6	0.200000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic tire	industrial	1	1	6	6	0.200000000000	NULL	NULL	1095	481	0.00015220700152207
+pneumatic tire	light truck	1	1	6	6	0.200000000000	NULL	NULL	97	37	0.001718213058419244
+pneumatic tire	used for passenger	1	1	6	6	0.200000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic tired vehicle	mining truck	1	1	3	3	0.666666666666	NULL	NULL	15	12	0.02222222222222222
+pneumatic tired vehicle	logging truck	1	1	3	3	0.666666666666	NULL	NULL	16	14	0.020833333333333332
+pneumatic tired vehicle	semi-trailers	1	1	3	3	0.666666666666	NULL	NULL	54	21	0.006172839506172839
+pneumatic tool	drill	9	8	99	55	0.620689655172	NULL	NULL	1600	496	0.0005113636363636364
+pneumatic tool	impact wrench	9	5	99	55	0.620689655172	NULL	NULL	104	42	0.007867132867132868
+pneumatic tool	nail gun	7	7	99	55	0.620689655172	NULL	NULL	100	45	0.004949494949494949
+pneumatic tool	Air leg rock drill	7	4	99	55	0.620689655172	NULL	NULL	7	1	0.0707070707070707
+pneumatic tool	Pneumatic Breakers	7	4	99	55	0.620689655172	NULL	NULL	7	1	0.0707070707070707
+pneumatic tool	stapler	3	3	99	55	0.620689655172	NULL	NULL	357	155	0.0002546473134708429
+pneumatic tool	air hammer	3	3	99	55	0.620689655172	NULL	NULL	31	18	0.002932551319648094
+pneumatic tool	framing nailers	2	2	99	55	0.620689655172	NULL	NULL	7	6	0.005772005772005773
+pneumatic tool	air saw	2	2	99	55	0.620689655172	NULL	NULL	7	4	0.005772005772005773
+pneumatic tool	nut runner	2	2	99	55	0.620689655172	NULL	NULL	10	6	0.00404040404040404
+pneumatic tool	ratchet	2	2	99	55	0.620689655172	NULL	NULL	141	71	0.0002865534780428398
+pneumatic tool	power sprayer	2	2	99	55	0.620689655172	NULL	NULL	25	22	0.0016161616161616164
+pneumatic tool	nailer	2	2	99	55	0.620689655172	NULL	NULL	18	8	0.002244668911335578
+pneumatic tool	common pneumatic tool	1	1	99	55	0.620689655172	NULL	NULL	2	2	0.005050505050505051
+pneumatic tool	tube expanders	1	1	99	55	0.620689655172	NULL	NULL	5	4	0.00202020202020202
+pneumatic tool	cushion clutch screwdriver	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	drilling tool	1	1	99	55	0.620689655172	NULL	NULL	12	11	0.0008417508417508418
+pneumatic tool	fastener	1	1	99	55	0.620689655172	NULL	NULL	714	383	0.000014147072970602383
+pneumatic tool	industrial stapler	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	nailing machine	1	1	99	55	0.620689655172	NULL	NULL	7	5	0.0014430014430014432
+pneumatic tool	power saw	1	1	99	55	0.620689655172	NULL	NULL	109	39	0.00009266981744045964
+pneumatic tool	plug drill	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	pneumatic screwdriver	1	1	99	55	0.620689655172	NULL	NULL	10	9	0.00101010101010101
+pneumatic tool	wet environment	1	1	99	55	0.620689655172	NULL	NULL	6	6	0.0016835016835016836
+pneumatic tool	wrench	1	1	99	55	0.620689655172	NULL	NULL	763	183	0.000013238545348637093
+pneumatic tool	routing tool	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	screwdriver	1	1	99	55	0.620689655172	NULL	NULL	1586	373	0.000006368858827875222
+pneumatic tool	air nailers	1	1	99	55	0.620689655172	NULL	NULL	7	5	0.0014430014430014432
+pneumatic tool	air compressor	1	1	99	55	0.620689655172	NULL	NULL	326	179	0.000030984693561380684
+pneumatic tool	air brush	1	1	99	55	0.620689655172	NULL	NULL	26	22	0.00038850038850038855
+pneumatic tool	extraction tool	1	1	99	55	0.620689655172	NULL	NULL	2	2	0.005050505050505051
+pneumatic tool	paint sprayer	1	1	99	55	0.620689655172	NULL	NULL	27	18	0.00037411148522259637
+pneumatic tool	pneumatic tapping machine	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	pneumatic hammer	1	1	99	55	0.620689655172	NULL	NULL	18	13	0.0005611672278338945
+pneumatic tool	roofing nailers	1	1	99	55	0.620689655172	NULL	NULL	2	2	0.005050505050505051
+pneumatic tool	hold & drive fastening tool	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	grinder	1	1	99	55	0.620689655172	NULL	NULL	591	226	0.000017091387649763285
+pneumatic tool	air hoses	1	1	99	55	0.620689655172	NULL	NULL	25	18	0.0004040404040404041
+pneumatic tool	cutting tool	1	1	99	55	0.620689655172	NULL	NULL	171	95	0.000059070234508831
+pneumatic tool	compressed air grease gun	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	pneumatic drill	1	1	99	55	0.620689655172	NULL	NULL	24	15	0.0004208754208754209
+pneumatic tool	pneumatic grinder	1	1	99	55	0.620689655172	NULL	NULL	4	3	0.0025252525252525255
+pneumatic tool	pneumatic miter saw	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	pneumatic sander	1	1	99	55	0.620689655172	NULL	NULL	2	2	0.005050505050505051
+pneumatic tool	pneumatic saw	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	tapper	1	1	99	55	0.620689655172	NULL	NULL	9	9	0.001122334455667789
+pneumatic tool	tyre inflators	1	1	99	55	0.620689655172	NULL	NULL	4	4	0.0025252525252525255
+pneumatic tool	air drill in a rainy	1	1	99	55	0.620689655172	NULL	NULL	1	1	0.010101010101010102
+pneumatic tool	air ratchet wrench	1	1	99	55	0.620689655172	NULL	NULL	8	5	0.0012626262626262627
+pneumatic tool	demolition tool	1	1	99	55	0.620689655172	NULL	NULL	4	4	0.0025252525252525255
+pneumatic tool	chipping gun	1	1	99	55	0.620689655172	NULL	NULL	2	2	0.005050505050505051
+pneumatic tool	hammer head	1	0	99	55	0.620689655172	NULL	NULL	7	6	0.0014430014430014432
+pneumatic tool	impact	1	1	99	55	0.620689655172	NULL	NULL	407	215	0.000024818206636388456
+pneumatic tool	pulse tool	1	1	99	55	0.620689655172	NULL	NULL	3	3	0.0033670033670033673
+pneumatic tool	reciprocating tool	1	1	99	55	0.620689655172	NULL	NULL	2	2	0.005050505050505051
+pneumatic tool & accessory	simplex rammer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic tool & accessory	breaker chisel	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+pneumatic tool & accessory	air line lubricator	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumatic traction unit	Pronex Pneumatic Cervical Traction unit	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic transmitter sense process variable	temperature	1	1	4	4	0.250000000000	NULL	NULL	21509	4199	0.0000116230415175043
+pneumatic transmitter sense process variable	flow	1	1	4	4	0.250000000000	NULL	NULL	879	440	0.0002844141069397042
+pneumatic transmitter sense process variable	liquid level	1	1	4	4	0.250000000000	NULL	NULL	21	17	0.011904761904761904
+pneumatic transmitter sense process variable	pressure	1	1	4	4	0.250000000000	NULL	NULL	4442	1435	0.000056280954524988743
+pneumatic tube system	ones seen at bank	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic valve	Sidel 3-Way Valves used in the manufacturing of PET bottle	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic weapon	pellet	1	1	2	2	NULL	NULL	NULL	461	262	0.0010845986984815619
+pneumatic weapon	rifle	1	1	2	2	NULL	NULL	NULL	577	202	0.0008665511265164644
+pneumatic welding machine	industrial welding machine	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic welding machine	TIG welding machine	1	1	6	6	1.000000000000	NULL	NULL	8	8	0.020833333333333332
+pneumatic welding machine	MIG welding machine	1	1	6	6	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+pneumatic welding machine	rectifier transformer	1	1	6	6	1.000000000000	NULL	NULL	6	5	0.027777777777777776
+pneumatic welding machine	electrical welding machine	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+pneumatic welding machine	PUG machine	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pneumatic working fluid	air	1	1	1	1	NULL	NULL	NULL	4803	1359	0.00020820320632937748
+pneumatic working system	pneumatically operated valve	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic-activated valve	Leslie severe service control valve	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatic-drive pump	DVP	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+pneumatically fracture tight soil	clay	1	1	1	1	NULL	NULL	NULL	4516	1432	0.00022143489813994686
+pneumatically-driven actuator	pneumatic cylinder	1	1	1	1	NULL	NULL	NULL	105	60	0.009523809523809525
+pneumatically-operated projectile launching device	paintball gun	2	2	2	1	1.000000000000	NULL	NULL	40	27	0.05
+pneumatological issue	Baptism of the Spirit	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumatolytic mineral	topaz	1	1	2	2	NULL	NULL	NULL	391	163	0.0012787723785166241
+pneumatolytic mineral	tourmaline	1	1	2	2	NULL	NULL	NULL	339	139	0.0014749262536873156
+pneumo tube	ones seen in Fort Frolic	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumococcal bacterium	Streptococcus pneumoniae	1	1	1	1	NULL	NULL	NULL	155	68	0.0064516129032258064
+pneumococcal candidate antigen	autolysin	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+pneumococcal candidate antigen	neuraminidase	1	1	2	2	1.000000000000	NULL	NULL	18	12	0.027777777777777776
+pneumococcal complication	empyema	1	1	1	1	1.000000000000	NULL	NULL	70	38	0.014285714285714285
+pneumococcal component	pneumolysin	1	1	1	1	1.000000000000	NULL	NULL	15	8	0.06666666666666667
+pneumococcal disease	pneumonia	7	6	16	5	NULL	NULL	NULL	3534	784	0.0008665817770232032
+pneumococcal disease	meningitis	6	6	16	5	NULL	NULL	NULL	1506	369	0.00149402390438247
+pneumococcal disease	otitis medium	1	1	16	5	NULL	NULL	NULL	227	113	0.00027533039647577095
+pneumococcal disease	typical pneumococcal disease	1	1	16	5	NULL	NULL	NULL	2	2	0.03125
+pneumococcal disease	pneumococci cause invasive pneumococcal disease	1	1	16	5	NULL	NULL	NULL	3	3	0.020833333333333332
+pneumococcal infection	pneumonia	5	5	13	9	NULL	NULL	NULL	3534	784	0.0005441643811762658
+pneumococcal infection	childhood pneumococcal infection	1	1	13	9	NULL	NULL	NULL	2	2	0.038461538461538464
+pneumococcal infection	otitis medium	1	1	13	9	NULL	NULL	NULL	227	113	0.00033886818027787193
+pneumococcal infection	sinusitis	1	1	13	9	NULL	NULL	NULL	719	230	0.00010698619878035734
+pneumococcal infection	common pneumococcal infection	1	1	13	9	NULL	NULL	NULL	2	2	0.038461538461538464
+pneumococcal infection	conjunctivitis	1	1	13	9	NULL	NULL	NULL	409	163	0.0001880759826970096
+pneumococcal infection	non-invasive pneumococcal infection	1	1	13	9	NULL	NULL	NULL	2	2	0.038461538461538464
+pneumococcal infection	bacteremia	1	1	13	9	NULL	NULL	NULL	175	81	0.00043956043956043956
+pneumococcal infection	serious pneumococcal infection	1	1	13	9	NULL	NULL	NULL	2	2	0.038461538461538464
+pneumococcal lesion	pneumonia	1	1	1	1	NULL	NULL	NULL	3534	784	0.0002829654782116582
+pneumococcal protein	cytosolic pneumococcal protein	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+pneumococcal protein	autolysin	1	1	4	4	1.000000000000	NULL	NULL	9	7	0.027777777777777776
+pneumococcal protein	neuraminidase	1	1	4	4	1.000000000000	NULL	NULL	18	12	0.013888888888888888
+pneumococcal protein	pneumolysin	1	1	4	4	1.000000000000	NULL	NULL	15	8	0.016666666666666666
+pneumococcal protein vaccine candidate	nontoxic pneumolysin derivates	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumococcal protein vaccine candidate	pneumococcal surface protein	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumococcal protein vaccine candidate	pneumococcal surface adhesin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pneumococcal serotypes	6B	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+pneumococcal serotypes	9A	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+pneumococcal surface protein	enolase	2	1	2	1	1.000000000000	NULL	NULL	32	10	0.0625
+pneumococcal surface-exposed protein	lipoprotein SlrA	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumoconioses	asbestosis	2	2	4	3	0.333333333333	NULL	NULL	298	89	0.003355704697986577
+pneumoconioses	silicosis	1	1	4	3	0.333333333333	NULL	NULL	129	60	0.001937984496124031
+pneumoconioses	berylliosis	1	1	4	3	0.333333333333	NULL	NULL	13	11	0.019230769230769232
+pneumocystis component	MSG	1	0	2	2	0.500000000000	NULL	NULL	344	115	0.0014534883720930232
+pneumocystis component	mannan	1	0	2	2	0.500000000000	NULL	NULL	11	13	0.045454545454545456
+pneumology society	Italian	1	1	2	2	NULL	NULL	NULL	1796	512	0.00027839643652561246
+pneumology society	British	1	1	2	2	NULL	NULL	NULL	341	166	0.001466275659824047
+pneumonccocal disease	blood infection	1	1	3	3	0.333333333333	NULL	NULL	28	14	0.011904761904761904
+pneumonccocal disease	meningitis	1	1	3	3	0.333333333333	NULL	NULL	1506	369	0.00022133687472332888
+pneumonccocal disease	pneumonia	1	1	3	3	0.333333333333	NULL	NULL	3534	784	0.00009432182607055272
+pneumonectomy-specific complication	empyema	1	1	1	1	1.000000000000	NULL	NULL	70	38	0.014285714285714285
+pneumonia	tuberculosis	1	1	10	10	0.181818181818	NULL	NULL	3768	738	0.00002653927813163482
+pneumonia	tubercular	1	1	10	10	0.181818181818	NULL	NULL	1	1	0.1
+pneumonia	fungal	1	1	10	10	0.181818181818	NULL	NULL	71	46	0.0014084507042253522
+pneumonia	cancer	1	1	10	10	0.181818181818	NULL	NULL	12145	2003	0.000008233841086867025
+pneumonia	Legionnaires disease	1	1	10	10	0.181818181818	NULL	NULL	48	28	0.0020833333333333333
+pneumonia	viral	1	1	10	10	0.181818181818	NULL	NULL	139	59	0.0007194244604316547
+pneumonia	parasitic	1	1	10	10	0.181818181818	NULL	NULL	25	18	0.004
+pneumonia	influenza	1	1	10	10	0.181818181818	NULL	NULL	1839	402	0.0000543773790103317
+pneumonia	Pneumococcal Pneumonia	1	1	10	10	0.181818181818	NULL	NULL	24	16	0.004166666666666667
+pneumonia	bacterial	1	1	10	10	0.181818181818	NULL	NULL	235	109	0.00042553191489361707
+pneumonia severity assessment system	pneumonia severity index	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+pneumonia severity assessment tool	Pneumonia Severity Index	2	1	4	2	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+pneumonia severity assessment tool	CURB65	2	1	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+pneumonia symptom	lethargy	1	1	5	5	NULL	NULL	NULL	894	282	0.00022371364653243848
+pneumonia symptom	fever	1	1	5	5	NULL	NULL	NULL	6376	1113	0.000031367628607277294
+pneumonia symptom	chest pain	1	1	5	5	NULL	NULL	NULL	1493	360	0.00013395847287340926
+pneumonia symptom	cold	1	1	5	5	NULL	NULL	NULL	4004	980	0.00004995004995004995
+pneumonia symptom	sudden chill	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+Pneumonics	TEMPFICH	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumoperitoneum gas	nitrous oxide	1	1	3	3	NULL	NULL	NULL	1128	312	0.0002955082742316785
+pneumoperitoneum gas	helium	1	1	3	3	NULL	NULL	NULL	2032	429	0.00016404199475065617
+pneumoperitoneum gas	argon	1	1	3	3	NULL	NULL	NULL	2635	461	0.00012650221378874128
+Pneumoproteins	surfactant protein-d	1	1	1	1	NULL	NULL	NULL	1	1	1
+pneumotoxins	silica	1	1	1	1	NULL	NULL	NULL	2326	833	0.0004299226139294927
+pneurop technical publication	noise test code	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pneurop technical publication	safety recommendation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PNF duty	lowering the landing gear	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+PNFC sector transport infrastructure	Queensland Rail's track network	2	1	2	1	NULL	NULL	NULL	2	1	1
+png	file atari battlezone screenshot png	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNG characteristic	32-bit color	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+PNG coffee company	Kongo Coffee	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+PNG coffee company	Carpenter Estates	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+PNG control option	compression level	1	1	2	2	0.500000000000	NULL	NULL	11	10	0.045454545454545456
+PNG control option	resolution	1	1	2	2	0.500000000000	NULL	NULL	1240	468	0.0004032258064516129
+PNG department	Forestry	1	1	1	1	NULL	NULL	NULL	1736	613	0.000576036866359447
+PNG excursion	trekking the Kokoda Trail	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNG feature	gamma correction	1	1	2	2	NULL	NULL	NULL	91	58	0.005494505494505495
+PNG feature	transparency	1	1	2	2	NULL	NULL	NULL	1743	654	0.00028686173264486515
+PNG food crop	taro	1	1	6	6	0.166666666666	NULL	NULL	339	166	0.0004916420845624385
+PNG food crop	yam	1	1	6	6	0.166666666666	NULL	NULL	845	298	0.0001972386587771203
+PNG food crop	sweet potato	1	1	6	6	0.166666666666	NULL	NULL	2558	814	0.00006515506906437321
+PNG food crop	banana	1	1	6	6	0.166666666666	NULL	NULL	8340	1751	0.000019984012789768184
+PNG food crop	aibika	1	1	6	6	0.166666666666	NULL	NULL	6	6	0.027777777777777776
+PNG food crop	cassava	1	1	6	6	0.166666666666	NULL	NULL	1112	315	0.00014988009592326138
+PNG format	JPEG	1	1	1	1	NULL	NULL	NULL	1388	422	0.0007204610951008645
+PNG government agency	DPE	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+PNG image	album art	1	1	1	1	1.000000000000	NULL	NULL	29	12	0.034482758620689655
+PNG many infectious disease	malaria	1	1	3	3	NULL	NULL	NULL	4105	774	0.00008120178643930166
+PNG many infectious disease	chronic respiratory tract disease	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PNG many infectious disease	tuberculosis	1	1	3	3	NULL	NULL	NULL	3768	738	0.00008846426043878272
+PNG niche product	fishing	1	1	2	2	NULL	NULL	NULL	9087	1769	0.000055023660173874766
+PNG niche product	diving	1	1	2	2	NULL	NULL	NULL	1835	440	0.00027247956403269756
+PNG person	Stanley Mamu	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNG public servant	Chief Secretary Robert Igara	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+PNG public servant	Chief Secretary	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+PNG public servant	Director of Bougainville Affairs	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+PNG public servant	Robert Igara	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+PNG reliesonlarge development project	gas projects o r mine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PNG reliesonlarge development project	oil	1	1	2	2	NULL	NULL	NULL	15331	4205	0.00003261365860022177
+PNG research institution	National Agricultural Research Institution	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PNG research institution	National Research Institution	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PNG species	Dendrobium lawesii	1	1	1	1	NULL	NULL	NULL	1	1	1
+png's abundant natural resource	timber	1	1	2	2	NULL	NULL	NULL	2191	725	0.00022820629849383843
+png's abundant natural resource	mineral	1	1	2	2	NULL	NULL	NULL	3163	894	0.00015807777426493836
+png's social indicator	adult literacy	1	1	1	1	NULL	NULL	NULL	72	40	0.013888888888888888
+png-creation feature	uncertain compression	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNGases	yeast png1	1	1	1	1	NULL	NULL	NULL	1	1	1
+pni-based lifestyle intervention	humor	1	1	1	1	NULL	NULL	NULL	592	240	0.0016891891891891893
+pnline source	Thoroughbred Times	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+PNM event	general council meeting	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNM leader	Dr Lateef Adegbite	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+PNM leader	Dr Tunji Braithwaite	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+PNM leader	Barr Olisa Agbakoba	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+PNM leader	Chief Audu Ogbeh	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+PNM leader	Prof Ben Nwabueze	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+PNM leader	Dr Kalu Idika Kalu	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+PNM leader	Alhaji Maitama Sule	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+pnm's heaviest consumer	manufacturing plant	1	1	1	1	NULL	NULL	NULL	193	112	0.0051813471502590676
+PNMS feature	Help Desk facility	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+PNMS feature	financial management	1	1	2	2	NULL	NULL	NULL	626	291	0.0007987220447284345
+pnn array	p02	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+pnn array	p01	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+PNN's equipment	traveling laptop	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PNNI parameter	Mean Available Cell Rate	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNNI variable	thresholds for advertising changes in available bandwidth across link	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNNL directorate	Fundamental Science	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+PNP	Starmate Reply	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+PNP activist	Seymour Mullings	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNP bipolar transistor	2N3906 for a common anode display	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNP callback	Surprise Removal	1	0	1	1	NULL	NULL	NULL	1	1	1
+PNP category	Saskatchewan's Hospitality Sector Project	1	1	1	1	NULL	NULL	NULL	1	1	1
+pnp device	network card	1	1	3	3	NULL	NULL	NULL	261	106	0.0012771392081736908
+pnp device	sound card	1	1	3	3	NULL	NULL	NULL	460	131	0.0007246376811594203
+pnp device	video card	1	1	3	3	NULL	NULL	NULL	395	135	0.0008438818565400843
+pnp driver	drivers for KVM device	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNP figure	president of the Puerto Rican Senate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PNP figure	Pedro Pierluisi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pnp game	Dungeons & Dragons	2	2	3	2	1.000000000000	NULL	NULL	103	40	0.012944983818770225
+pnp game	post-apocalyptic pnp game	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+PNP national support unit	Special Action Force	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PNP national support unit	Maritime Group	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PNP national support unit	Provincial Mobile Groups	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pnp part	torque rod	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+pnp part	reaction wheel	1	1	2	2	0.500000000000	NULL	NULL	17	16	0.029411764705882353
+PNP regulator feature	reverse battery protection	4	4	9	4	1.000000000000	NULL	NULL	11	5	0.1616161616161616
+PNP regulator feature	transient protection	2	2	9	4	1.000000000000	NULL	NULL	5	4	0.08888888888888888
+PNP regulator feature	overvoltage shutdown	2	2	9	4	1.000000000000	NULL	NULL	2	1	0.2222222222222222
+PNP regulator feature	thermal shutdown	1	1	9	4	1.000000000000	NULL	NULL	23	12	0.004830917874396135
+PnP RPG	Dragons	1	1	2	2	NULL	NULL	NULL	112	82	0.004464285714285714
+PnP RPG	Dungeons	1	1	2	2	NULL	NULL	NULL	131	47	0.003816793893129771
+pnp rpgs	classical pnp rpgs	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PNP security measure	doubling-up of checkpoint	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNP silicon transistor	2N3906	1	1	1	1	1.000000000000	NULL	NULL	16	4	0.0625
+PNP subsidiary	UWI	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+PNP transistor	2N2907	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+PNP unit	provincial	1	1	1	1	NULL	NULL	NULL	53	44	0.018867924528301886
+PnP-compatible operating system	Windows 98	1	1	2	2	NULL	NULL	NULL	241	67	0.002074688796680498
+PnP-compatible operating system	XP	1	1	2	2	NULL	NULL	NULL	338	134	0.0014792899408284023
+PNPLA family protein	PNPLA2	2	2	2	1	NULL	NULL	NULL	2	1	1
+pnpm-rural main actor	KPMD	1	1	1	1	NULL	NULL	NULL	1	1	1
+pnpn semiconductor device	silicon controlled rectifier	2	2	2	1	1.000000000000	NULL	NULL	46	31	0.043478260869565216
+pnpregulator feature	transient protection	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+pnpregulator feature	reverse battery protection	1	1	2	2	NULL	NULL	NULL	11	5	0.045454545454545456
+PNR datum	ticketing remark	1	1	4	5	NULL	NULL	NULL	1	1	0.25
+PNR datum	credit card information	1	1	4	5	NULL	NULL	NULL	493	95	0.0005070993914807302
+PNR datum	telephone number	1	1	4	5	NULL	NULL	NULL	2511	442	0.00009956192751891676
+PNR datum	itinerary segment	1	1	4	5	NULL	NULL	NULL	1	1	0.25
+PNR feature	frequent flyer number	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+PNRN programming	Musique de Verre	1	1	1	1	NULL	NULL	NULL	1	1	1
+PNS	Liechtenstein Red Cross	1	1	7	7	0.285714285714	NULL	NULL	1	1	0.14285714285714285
+PNS	Red Cross of Monaco	1	1	7	7	0.285714285714	NULL	NULL	1	1	0.14285714285714285
+PNS	Hong Kong Red Cross	1	1	7	7	0.285714285714	NULL	NULL	8	4	0.017857142857142856
+PNS	Irish Red Cross	1	1	7	7	0.285714285714	NULL	NULL	3	3	0.047619047619047616
+PNS	Japanese Red Cross Society	1	1	7	7	0.285714285714	NULL	NULL	1	1	0.14285714285714285
+PNS	Belgian Red Cross	1	1	7	7	0.285714285714	NULL	NULL	2	2	0.07142857142857142
+PNS	Canadian Red Cross	1	1	7	7	0.285714285714	NULL	NULL	48	28	0.002976190476190476
+PNS activity	singing	1	1	2	2	NULL	NULL	NULL	1760	574	0.0002840909090909091
+PNS activity	laughing	1	1	2	2	NULL	NULL	NULL	146	97	0.003424657534246575
+PNS disorder	herniated disc	1	1	1	1	NULL	NULL	NULL	210	81	0.004761904761904762
+PNS neuron	superior cervical ganglion	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+pnsrequiremore dynamic, spontaneous discovery feature	impromptu community formation	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+pnsrequiremore dynamic, spontaneous discovery feature	minimal administration	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+pnsrequiremore dynamic, spontaneous discovery feature	low bit rate	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+pnsrequiremore dynamic, spontaneous discovery feature	scalability	1	1	8	8	NULL	NULL	NULL	778	271	0.00016066838046272492
+pnsrequiremore dynamic, spontaneous discovery feature	low processing power	1	1	8	8	NULL	NULL	NULL	5	4	0.025
+pnsrequiremore dynamic, spontaneous discovery feature	mobile	1	1	8	8	NULL	NULL	NULL	1078	528	0.00011595547309833024
+pnsrequiremore dynamic, spontaneous discovery feature	resiliency to fault	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+pnsrequiremore dynamic, spontaneous discovery feature	proximity-based service discovery	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+PNT case	allodynia	1	1	1	1	1.000000000000	NULL	NULL	29	17	0.034482758620689655
+pnt-domain fusion	TEL-acute myeloid leukemia1	1	1	1	1	NULL	NULL	NULL	1	1	1
+pnuematic fluid	UBD	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+pnuematic fluid	foam	1	1	2	2	NULL	NULL	NULL	1379	580	0.00036258158085569254
+pnuematic system	conveyor	1	1	1	2	NULL	NULL	NULL	356	198	0.0028089887640449437

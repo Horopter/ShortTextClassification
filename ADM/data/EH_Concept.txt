@@ -1,0 +1,179 @@
+EH casino	Caribbean Gold	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+EH casino	English Harbour	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+EH casino	Super Slots	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EH commitment	Food Safety Bill	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EH domain	third EH domain of human Eps15	1	1	1	1	NULL	NULL	NULL	1	1	1
+EH initiative	Rapid Coastal Zone Assessment Surveys	1	1	1	1	NULL	NULL	NULL	1	1	1
+EH issue	noise	1	1	1	1	NULL	NULL	NULL	3954	1241	0.00025290844714213456
+EH&S operational expense	materials & equipment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EH&S operational expense	supply	1	1	2	2	NULL	NULL	NULL	2244	801	0.0002228163992869875
+EH&S service	industrial hygiene	1	1	3	3	0.666666666666	NULL	NULL	47	29	0.0070921985815602835
+EH&S service	environmental compliance	1	1	3	3	0.666666666666	NULL	NULL	29	24	0.011494252873563218
+EH&S service	safety	1	1	3	3	0.666666666666	NULL	NULL	4771	1315	0.00006986655488017886
+EH&S training program	Chemical Hygiene Plan	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+EH&S training program	New Hire Safety	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EH&S training program	Fire Life Safety	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EH&S training program	Hazard Communication Training	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EH.sub.3 gas	NH.sub.3 for the formation of metal nitrides	1	1	1	1	NULL	NULL	NULL	1	1	1
+EH101 operator	Canadian Air Force	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EH101 operator	Royal Danish Air Force	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ehavioral measure	home ownership	1	1	2	2	NULL	NULL	NULL	158	86	0.0031645569620253164
+ehavioral measure	political engagement	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ehavioral modification	reducing alcohol intake	1	1	1	1	1.000000000000	NULL	NULL	20	10	0.05
+ehavioral risk factor	smoking	1	1	5	5	NULL	NULL	NULL	12009	2006	0.000016654176034640688
+ehavioral risk factor	poor diet	1	1	5	5	NULL	NULL	NULL	982	205	0.00020366598778004074
+ehavioral risk factor	drug use	1	1	5	5	NULL	NULL	NULL	837	298	0.00023894862604540026
+ehavioral risk factor	alcohol consumption	1	1	5	5	NULL	NULL	NULL	945	253	0.00021164021164021165
+ehavioral risk factor	lack of exercise	1	1	5	5	NULL	NULL	NULL	704	141	0.00028409090909090913
+ehaviors	vocaliza tion	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+ehaviors	drinking	1	1	3	3	0.333333333333	NULL	NULL	1758	609	0.00018960940462646946
+ehaviors	eating	1	1	3	3	0.333333333333	NULL	NULL	1972	643	0.00016903313049357674
+EHAVIOUR challenge behaviour	withdrawal from an activity	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehaviour-related risk factor	having high blood pressure	1	1	5	5	0.666666666666	NULL	NULL	10	5	0.02
+ehaviour-related risk factor	having an elevated cholesterol level	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ehaviour-related risk factor	being a regular smoker	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ehaviour-related risk factor	being overweight	1	1	5	5	0.666666666666	NULL	NULL	371	88	0.0005390835579514825
+ehaviour-related risk factor	being physically inactive	1	1	5	5	0.666666666666	NULL	NULL	14	9	0.014285714285714287
+EHD inkjet characteristic	drop-to-substrate impact velocity	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EHD inkjet characteristic	drop size	1	1	3	3	1.000000000000	NULL	NULL	11	11	0.0303030303030303
+EHD inkjet characteristic	drop-separation distance	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EHD protein	intersectin 1	1	1	1	1	NULL	NULL	NULL	1	1	1
+EHDA solvent	Ethylene Glycol	1	1	1	1	NULL	NULL	NULL	873	297	0.001145475372279496
+ehealth analysis technique	trend analysis	1	1	1	1	NULL	NULL	NULL	161	98	0.006211180124223602
+ehealth application	digital infrastructure	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ehealth application	implementations of electronic health card	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ehealth area	disease prevention	1	1	2	2	NULL	NULL	NULL	83	49	0.006024096385542169
+ehealth area	health promotion	1	1	2	2	NULL	NULL	NULL	212	98	0.0023584905660377358
+ehealth initiative	Winnipeg RHA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ehealth initiative	Canada Health Infoway	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ehealth investment	interoperable EPRs	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehealth issue	public health	1	1	2	2	0.500000000000	NULL	NULL	847	355	0.0005903187721369539
+ehealth issue	data privacy	1	1	2	2	0.500000000000	NULL	NULL	53	29	0.009433962264150943
+ehealth laggard country	Romania	1	1	2	2	NULL	NULL	NULL	1893	323	0.0002641310089804543
+ehealth laggard country	Poland	1	1	2	2	NULL	NULL	NULL	4250	680	0.00011764705882352942
+ehealth operating tool	electronic Hospital Information Systems	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+ehealth service	online appointment request	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+ehealth service	online patient registration form	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ehealth service	medication refill	1	1	3	3	1.000000000000	NULL	NULL	16	11	0.020833333333333332
+ehealth situation	pharmaceutical products sold via Internet	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehealth solution	patient portal	1	1	2	2	0.500000000000	NULL	NULL	17	11	0.029411764705882353
+ehealth solution	electronic health record	1	1	2	2	0.500000000000	NULL	NULL	139	75	0.0035971223021582736
+ehealth technology	electronic patient portal	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehealth tool	electronic Hospital Information Systems	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+EHEC serotypes	O26	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+EHEC virulence factor	motility	1	1	1	1	NULL	NULL	NULL	178	101	0.0056179775280898875
+eheim accessory	tube	1	1	3	3	NULL	NULL	NULL	1226	603	0.0002718868950516585
+eheim accessory	link	1	1	3	3	NULL	NULL	NULL	958	477	0.00034794711203897004
+eheim accessory	pipe	1	1	3	3	NULL	NULL	NULL	2486	1047	0.00013408420488066506
+EHEs	encounters with saint	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+EHF	X-rays	1	1	1	1	NULL	NULL	NULL	3587	832	0.00027878449958182325
+ehicle alternative	bicycling	1	1	1	1	NULL	NULL	NULL	1567	445	0.0006381620931716656
+ehicle collision notification system	rural mayday system	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ehicle fluid leak	fuel	1	1	2	2	NULL	NULL	NULL	3530	1145	0.00014164305949008498
+ehicle fluid leak	oil	1	1	2	2	NULL	NULL	NULL	15331	4205	0.00003261365860022177
+ehicle technology	intelligent speed adaptation device	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EHICLE vehicle	tractor	1	1	2	2	NULL	NULL	NULL	1088	427	0.00045955882352941176
+EHICLE vehicle	car	1	1	2	2	NULL	NULL	NULL	7866	2381	0.00006356470887363335
+ehm author	Irvine Welsh	1	1	1	1	1.000000000000	NULL	NULL	43	10	0.023255813953488372
+ehnc's customer	ebay	1	1	2	2	NULL	NULL	NULL	4789	1206	0.00010440593025683859
+ehnc's customer	Dell Computer	1	1	2	2	NULL	NULL	NULL	246	85	0.0020325203252032522
+ehnic group	indians	1	1	2	2	NULL	NULL	NULL	379	150	0.0013192612137203166
+ehnic group	asians	1	1	2	2	NULL	NULL	NULL	404	95	0.0012376237623762376
+EHOE vendor	Red Hat	1	1	1	1	NULL	NULL	NULL	639	195	0.001564945226917058
+ehome application	multi-media	1	1	3	3	0.500000000000	NULL	NULL	74	50	0.0045045045045045045
+ehome application	appliance control	1	1	3	3	0.500000000000	NULL	NULL	9	7	0.037037037037037035
+ehome application	remote room monitoring	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+EHR	Sage Intergy	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EHR application	software from Chicago-based Allscripts LLC	1	1	1	1	NULL	NULL	NULL	1	1	1
+EHR capability	e-prescribing	1	1	1	1	NULL	NULL	NULL	63	41	0.015873015873015872
+EHR champion	Dr. Robert Burns	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EHR champion	Dr. Lynn Nagle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EHR company	Allscripts	1	1	1	1	1.000000000000	NULL	NULL	27	18	0.037037037037037035
+ehr datum	episode summary	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+ehr datum	diagnosis	1	1	2	2	NULL	NULL	NULL	783	300	0.0006385696040868455
+EHR feature	e-prescribing	2	2	9	8	0.666666666666	NULL	NULL	63	41	0.007054673721340388
+EHR feature	clinical decision support	1	1	9	8	0.666666666666	NULL	NULL	25	13	0.0044444444444444444
+EHR feature	immunization registry tracking	1	1	9	8	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+EHR feature	sharing of electronic record	1	1	9	8	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+EHR feature	clinical messaging	1	1	9	8	0.666666666666	NULL	NULL	3	3	0.037037037037037035
+EHR feature	referral tracking	1	1	9	8	0.666666666666	NULL	NULL	7	5	0.015873015873015872
+EHR feature	reporting	1	1	9	8	0.666666666666	NULL	NULL	972	476	0.00011431184270690443
+EHR feature	patient reminder	1	1	9	8	0.666666666666	NULL	NULL	6	5	0.018518518518518517
+EHR function	data analysis for retrospective research	1	1	9	9	0.833333333333	NULL	NULL	1	1	0.1111111111111111
+EHR function	decision support	1	1	9	9	0.833333333333	NULL	NULL	106	66	0.0010482180293501047
+EHR function	computerized physician order entry	1	1	9	9	0.833333333333	NULL	NULL	51	37	0.0021786492374727667
+EHR function	public health surveillance	1	1	9	9	0.833333333333	NULL	NULL	6	6	0.018518518518518517
+EHR function	cost analysis	1	1	9	9	0.833333333333	NULL	NULL	82	53	0.0013550135501355014
+EHR function	outcomes measurement	1	1	9	9	0.833333333333	NULL	NULL	2	2	0.05555555555555555
+EHR function	improved efficiency of clinical care	1	1	9	9	0.833333333333	NULL	NULL	1	1	0.1111111111111111
+EHR function	statistical reporting	1	1	9	9	0.833333333333	NULL	NULL	15	12	0.007407407407407407
+EHR function	support for prospective study	1	1	9	9	0.833333333333	NULL	NULL	1	1	0.1111111111111111
+EHR functionality	interoperability	1	1	2	2	NULL	NULL	NULL	356	145	0.0014044943820224719
+EHR functionality	connectivity	1	1	2	2	NULL	NULL	NULL	432	222	0.0011574074074074073
+EHR implementation organization	Massachusetts eHealth Collaborative	1	1	1	1	NULL	NULL	NULL	1	1	1
+EHR initiative	CPOE	1	1	1	1	1.000000000000	NULL	NULL	42	28	0.023809523809523808
+EHR solution	Medisoft Clinical	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EHR solution	Practice Partner	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EHR system	Google Health	1	1	2	2	0.333333333333	NULL	NULL	64	39	0.0078125
+EHR system	Cerner	1	1	2	2	0.333333333333	NULL	NULL	74	38	0.006756756756756757
+EHR topic	hardware requirement	1	1	4	4	0.333333333333	NULL	NULL	16	14	0.015625
+EHR topic	implementation	1	1	4	4	0.333333333333	NULL	NULL	509	224	0.0004911591355599214
+EHR topic	picking the right EHR	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+EHR topic	planning	1	1	4	4	0.333333333333	NULL	NULL	3605	1345	0.00006934812760055478
+EHR vendor	Allscripts	1	1	3	3	0.333333333333	NULL	NULL	27	18	0.012345679012345678
+EHR vendor	Epic	1	1	3	3	0.333333333333	NULL	NULL	186	96	0.0017921146953405018
+EHR vendor	Cerner	1	1	3	3	0.333333333333	NULL	NULL	74	38	0.0045045045045045045
+ehr's comprehensive datum tracking capability	scope withdrawal time	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehr-sponsored program	Advanced Technology Education	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ehr-sponsored program	State Systemic Initiatives	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ehr-sponsored program	Alliances for Minority Participation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EHRA document	position paper	1	1	1	1	NULL	NULL	NULL	60	33	0.016666666666666666
+Ehrhard	late fi fteenth-century New Jerusalem of the Sacro Monte di Varallo Sesia in northern Italy	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehrle antiadhesion substance	xylitol	1	1	1	1	NULL	NULL	NULL	442	138	0.0022624434389140274
+ehrlich's management student	Erika Taugher	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehrlichia equi-infected cell	E. equi-infected IDE8 tick cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehrlichial agent	E. canis	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Ehrlichioses	heartwater	1	1	1	1	1.000000000000	NULL	NULL	12	3	0.08333333333333333
+ehrman's earlier book	God's Problem	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ehrman's earlier book	Misquoting Jesus	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+ehrshavehidden cost	entry rule	1	1	6	6	0.200000000000	NULL	NULL	2	2	0.08333333333333333
+ehrshavehidden cost	custom report	1	1	6	6	0.200000000000	NULL	NULL	23	16	0.007246376811594202
+ehrshavehidden cost	interface	1	1	6	6	0.200000000000	NULL	NULL	490	242	0.0003401360544217687
+ehrshavehidden cost	conversion	1	1	6	6	0.200000000000	NULL	NULL	362	204	0.0004604051565377532
+ehrshavehidden cost	training	1	1	6	6	0.200000000000	NULL	NULL	7685	2537	0.00002168726957276079
+ehrshavehidden cost	setup	1	1	6	6	0.200000000000	NULL	NULL	187	98	0.00089126559714795
+EHS activity	open house	1	1	10	10	0.142857142857	NULL	NULL	628	235	0.00015923566878980894
+EHS activity	inspection	1	1	10	10	0.142857142857	NULL	NULL	1202	552	0.00008319467554076539
+EHS activity	house keeping audit	1	1	10	10	0.142857142857	NULL	NULL	1	1	0.1
+EHS activity	committee meeting	1	1	10	10	0.142857142857	NULL	NULL	67	43	0.0014925373134328358
+EHS activity	orientation	1	1	10	10	0.142857142857	NULL	NULL	1142	558	0.00008756567425569177
+EHS activity	fundraising	1	1	10	10	0.142857142857	NULL	NULL	494	208	0.00020242914979757087
+EHS activity	audit	1	1	10	10	0.142857142857	NULL	NULL	901	454	0.00011098779134295228
+EHS activity	EHS committee	1	1	10	10	0.142857142857	NULL	NULL	1	1	0.1
+EHS activity	training	1	1	10	10	0.142857142857	NULL	NULL	7685	2537	0.000013012361743656475
+EHS activity	housekeeping audit	1	1	10	10	0.142857142857	NULL	NULL	1	1	0.1
+EHS constituent agency	Department of Transitional Assistance	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EHS incident	death	1	1	2	2	NULL	NULL	NULL	4423	1491	0.00011304544426859598
+EHS incident	explosion hazard	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EHS issue	WSH regulation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EHS issue	SCDF	1	1	4	4	NULL	NULL	NULL	6	4	0.041666666666666664
+EHS issue	Fire Safety	1	1	4	4	NULL	NULL	NULL	297	145	0.0008417508417508417
+EHS issue	Risk Assessment	1	1	4	4	NULL	NULL	NULL	603	249	0.00041459369817578774
+EHS program	environmental monitoring	1	1	3	3	NULL	NULL	NULL	207	103	0.001610305958132045
+EHS program	chemical inventory management	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+EHS program	workplace ergonomics design	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EHS project	category 4 interlocking upgrading	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EHS project	traffic management	1	1	4	4	NULL	NULL	NULL	163	101	0.0015337423312883436
+EHS project	ISO 14001 certification	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+EHS project	safe guarding of machinery	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EHS requirement	SEMI S8	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EHS requirement	SEMI S2	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EHSA program	ISO 14001	1	1	1	1	NULL	NULL	NULL	209	89	0.004784688995215311
+ehsi's medical specialty service	subacute care	3	3	3	1	NULL	NULL	NULL	6	3	0.5
+EHSS supply chain audit	EICC	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+EHT rectifier	SU2150A for use in CRT power supply	1	1	1	1	NULL	NULL	NULL	1	1	1
+ehtnic group	asians	1	1	3	3	NULL	NULL	NULL	404	95	0.000825082508250825
+ehtnic group	africans	1	1	3	3	NULL	NULL	NULL	86	52	0.003875968992248062
+ehtnic group	indians	1	1	3	3	NULL	NULL	NULL	379	150	0.0008795074758135443
+EHVIRONMENT recommended retaining distinctive feature	size	1	1	1	1	NULL	NULL	NULL	44267	2716	0.00002259019133892064
+ehythmic activity	dancing	1	1	1	1	NULL	NULL	NULL	3281	887	0.00030478512648582747

@@ -1,0 +1,186 @@
+cz	high quality cz	1	1	1	1	NULL	NULL	NULL	1	1	1
+CZ copywriting service	Text Ad Writing Service	1	1	1	1	NULL	NULL	NULL	1	1	1
+CZ earring related offer	Fashion Wooden Earring	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+CZ earring related offer	Girl Earring	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CZ earring related offer	Wood Earring	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+CZ jewelry	CZ bracelet	4	4	13	4	0.333333333333	NULL	NULL	10	7	0.12307692307692308
+CZ jewelry	earring	4	4	13	4	0.333333333333	NULL	NULL	1525	531	0.000807061790668348
+CZ jewelry	necklace	4	4	13	4	0.333333333333	NULL	NULL	2291	723	0.0005372192190175604
+cz jewelry	wholesale cubic zirconia cz jewelry	1	1	13	4	0.333333333333	NULL	NULL	2	2	0.038461538461538464
+CZ pistol	P-01	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CZ rifle	CZ 550 American	1	1	1	1	NULL	NULL	NULL	1	1	1
+cz ring	sterling silver wedding band	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+cz ring	sterling silver engagement ring	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+cz ring	antique cubic zirconia ring	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+cz ring	cubic zirconia band	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+cz ring	cubic zirconia earring	1	1	8	8	1.000000000000	NULL	NULL	4	4	0.03125
+cz ring	sterling silver earring	1	1	8	8	1.000000000000	NULL	NULL	13	7	0.009615384615384616
+cz ring	wholesale sterling silver promise ring	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+cz ring	rhodium finish cubic zirconia ring	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+CZ Sp01's	polymer-framed Phantom	1	1	1	1	NULL	NULL	NULL	1	1	1
+cz's excellent quality	reliability	1	1	2	2	NULL	NULL	NULL	3181	964	0.00015718327569946557
+cz's excellent quality	great accuracy	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+CZ-75 part	spring	1	1	1	1	NULL	NULL	NULL	2397	949	0.00041718815185648727
+Cz-compounds	ethanol	1	1	1	1	NULL	NULL	NULL	3455	934	0.0002894356005788712
+CZ75 clone	Fratelli Tanfoglio TA90	1	1	1	1	NULL	NULL	NULL	1	1	1
+czander theorist	Kets de Vries	1	1	1	1	NULL	NULL	NULL	9	3	0.1111111111111111
+czar	Peter I	4	3	15	11	1.000000000000	NULL	NULL	8	5	0.13333333333333333
+czar	Ivan IV	2	2	15	11	1.000000000000	NULL	NULL	2	1	0.13333333333333333
+czar	infamous drug czar	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+czar	Cass Sunstien	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+czar	Drug Czar	1	1	15	11	1.000000000000	NULL	NULL	2	2	0.03333333333333333
+czar	Carol Browner	1	1	15	11	1.000000000000	NULL	NULL	5	5	0.013333333333333332
+czar	white house czar	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+czar	National Security Advisor	1	1	15	11	1.000000000000	NULL	NULL	3	3	0.022222222222222223
+czar	John Holdren	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+czar	moral value czar	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+czar	Peter the Great	1	1	15	11	1.000000000000	NULL	NULL	33	26	0.00202020202020202
+czar position	cyber security czar	1	1	1	1	NULL	NULL	NULL	1	1	1
+czars	health czar Nancy-Ann DeParle	2	2	2	1	NULL	NULL	NULL	2	1	1
+CZE buffer	borate	1	1	1	1	NULL	NULL	NULL	98	50	0.01020408163265306
+czech and foreign orchestra	Nagoya Philharmony	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+czech and foreign orchestra	Prague Philharmonia	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+czech and foreign orchestra	Hamburger Symphoniker	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+czech and foreign orchestra	Symphonic Orchestra of the Bavarian Radio	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+czech and mexican folk textile	tablecloth	1	1	1	1	NULL	NULL	NULL	443	218	0.002257336343115124
+czech animator	Jiri Trnka	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+czech animator	Karel Zeman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech artist	Lucie	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+czech artist	painters Frantisek Kysela	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+czech artist	sculptor Vojtech Sucharda	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+czech artist	Iva Bittova	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+czech author	Franz Kafka	1	1	4	4	1.000000000000	NULL	NULL	52	28	0.004807692307692308
+czech author	Vrana	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+czech author	Manak	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+czech author	Milan Kundera	1	1	4	4	1.000000000000	NULL	NULL	12	8	0.020833333333333332
+czech baked good	Houska	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+czech baked good	Kolacky	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech baked good	Rye bread	1	1	3	3	NULL	NULL	NULL	74	48	0.0045045045045045045
+czech band	Fast Food Orchestra	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech baseball official	Jakub Vancura	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech beer brand	Platan	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+czech beverage	Czech beer	2	2	3	2	NULL	NULL	NULL	5	2	0.26666666666666666
+czech beverage	beer	1	1	3	2	NULL	NULL	NULL	2612	778	0.00012761613067891782
+czech boast superstar	Tomas Rosicky	1	1	3	3	1.000000000000	NULL	NULL	14	8	0.023809523809523808
+czech boast superstar	Pavel Nedved	1	1	3	3	1.000000000000	NULL	NULL	14	12	0.023809523809523808
+czech boast superstar	Petr Cech	1	1	3	3	1.000000000000	NULL	NULL	12	8	0.027777777777777776
+czech brand	Staropramen	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+czech carrier	Vodafone Group	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+czech cartoon	Krtek	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech cartoon	Bunny with the suitcase	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech castle	Hrad Veveri	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech city	Brno	3	3	5	2	1.000000000000	NULL	NULL	22	10	0.0818181818181818
+czech city	Ostrava	2	2	5	2	1.000000000000	NULL	NULL	15	10	0.05333333333333334
+czech company	pharma producer Zentiva	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+czech company	Eurotel	1	1	6	6	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+czech company	Czech Radio-telecommunications	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+czech company	Czech Savings Bank	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+czech company	energy firm CEZ	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+czech company	Albatros	1	1	6	6	1.000000000000	NULL	NULL	11	10	0.01515151515151515
+czech composer	Viktor Ullmann	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+czech composer	Hans Krasa	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+czech composer	famous czech composer	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+czech cubist painter	Bohumil Kubista	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech dark lager	Bernard Dark	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech delicacy	cold meat	1	1	1	1	1.000000000000	NULL	NULL	58	34	0.017241379310344827
+czech dinner	pork	1	1	1	1	NULL	NULL	NULL	2559	680	0.00039077764751856197
+czech dish	traditional czech dish	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+czech dish	dumpling	1	1	2	2	NULL	NULL	NULL	202	127	0.0024752475247524753
+czech easter tradition	free-hand painting of Easter egg	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech exporter	Tatra	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+czech exporter	Czech glassmakers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech favorite	offering czech favorite	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+czech firm	Illusion Softworks	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech firm	Skoda Plzen	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+czech folk craft	cornhusk doll	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+Czech food	sausage	1	1	1	1	NULL	NULL	NULL	2572	731	0.00038880248833592535
+czech football club	Slavia	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+czech GAAP acquisition related cost	legal	1	1	4	4	NULL	NULL	NULL	2438	876	0.00010254306808859722
+czech GAAP acquisition related cost	accounting	1	1	4	4	NULL	NULL	NULL	5188	1624	0.00004818812644564379
+czech GAAP acquisition related cost	valuation	1	1	4	4	NULL	NULL	NULL	298	159	0.0008389261744966443
+czech GAAP acquisition related cost	advisory	1	1	4	4	NULL	NULL	NULL	86	53	0.0029069767441860465
+czech government agency	Customs	1	1	2	2	NULL	NULL	NULL	174	80	0.0028735632183908046
+czech government agency	Postal Service	1	1	2	2	NULL	NULL	NULL	317	166	0.0015772870662460567
+czech great	Radek Stepanek	3	3	6	2	NULL	NULL	NULL	5	3	0.3
+czech great	Jiri Novak	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+czech group	Federation of Jewish Communities	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+czech group	old Smetana Quartet	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+czech group	Czech Union of Freedom Fighters	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+czech group	Handa Gote	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+czech industry	textile	1	1	1	1	NULL	NULL	NULL	3810	1081	0.00026246719160104987
+czech ingredient	goose	1	1	2	2	NULL	NULL	NULL	202	84	0.0024752475247524753
+czech ingredient	rabbit	1	1	2	2	NULL	NULL	NULL	5092	1052	0.00009819324430479184
+czech intellectual	Vaclav Havel	1	1	1	1	1.000000000000	NULL	NULL	31	26	0.03225806451612903
+czech juice brand	Toma	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+czech language feature	Czech alphabet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech language feature	Czech pronunciation rule	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech language feature	Czech grammar	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech leader	Gottwald	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+czech legend	Pavael Nedved	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+czech legend	Pavel Nedved	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+czech legislation	Act on Environmental Impact Assessment	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech line	Faro Policia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech line	Titus z Pohranicni Straze line	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech line	Car Policia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech location	Orlik	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+czech location	Slapy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech manufacturer	Pallme Konig	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech mark instrument	Cerveny	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+czech mark instrument	Lidl at favourable price	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Czech meal	dumpling	1	1	1	1	NULL	NULL	NULL	202	127	0.0049504950495049506
+czech minority sport	softball	1	1	5	5	NULL	NULL	NULL	2536	392	0.00007886435331230284
+czech minority sport	golf	1	1	5	5	NULL	NULL	NULL	6842	1226	0.000029231218941829874
+czech minority sport	rugby	1	1	5	5	NULL	NULL	NULL	1841	356	0.00010863661053775122
+czech minority sport	handball	1	1	5	5	NULL	NULL	NULL	366	113	0.000546448087431694
+czech minority sport	basketball	1	1	5	5	NULL	NULL	NULL	10932	1509	0.000018294914013904136
+czech model	Petra Nemcova	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+czech musician	Rawe	1	1	1	1	NULL	NULL	NULL	1	1	1
+Czech NGOs	People in Need	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+czech opposition party	Social Democrats	1	1	1	1	1.000000000000	NULL	NULL	17	14	0.058823529411764705
+czech painter	Ludvik Kuba	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech painter	Ferdinand Velc	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech painter	Adolf Liebscher	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech patriotic organization	Sokol	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+czech photographer	Miloslav Stibor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech photographer	Vladimir Birgus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech pilsners	traditional czech pilsners	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+czech pilsners	classic czech pilsners	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+czech pilsners	great czech pilsners	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+Czech pilsners	Pilsner Urquell	1	1	4	4	1.000000000000	NULL	NULL	39	21	0.00641025641025641
+czech pollution source	improper waste	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech pollution source	sewage disposal	1	1	2	2	NULL	NULL	NULL	66	41	0.007575757575757576
+czech processing tool	part-of-speech tagger	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+czech processing tool	morphological analyzer	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+czech processing tool	lemmatizer	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+czech publication	Houser	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+czech publication	Metropolis	1	1	2	2	0.500000000000	NULL	NULL	120	66	0.004166666666666667
+czech quality bead	seed bead	1	1	1	1	1.000000000000	NULL	NULL	31	17	0.03225806451612903
+czech republic multinational company	IBM	1	1	1	1	NULL	NULL	NULL	11151	2595	0.0000896780557797507
+Czech Republic synthetic pyrethroids	permethrin	1	1	1	1	NULL	NULL	NULL	319	105	0.003134796238244514
+czech school	Charles University	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+czech sniper	Martin Havlat	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+czech sniper	Milan Hedjuk before the draft	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+czech specialty	schnitzel	1	1	1	1	NULL	NULL	NULL	56	44	0.017857142857142856
+czech state institution	Office of the President of the Czech Republic	2	2	2	1	NULL	NULL	NULL	2	1	1
+czech surname	Sokol	2	2	3	2	1.000000000000	NULL	NULL	15	10	0.08888888888888888
+czech surname	Zajic	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+czech sweet	cake	2	1	4	2	NULL	NULL	NULL	4260	1150	0.00023474178403755868
+czech sweet	cookie	2	1	4	2	NULL	NULL	NULL	5329	1507	0.00018765246762994934
+czech traditional meal	Beef Goulash with Dumplings	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech traditional meal	Dill Soup with Poached Egg	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+czech transaction	mobile telephone company	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+czech transaction	Oskar	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+czech transaction	fuel card provider CCS	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+czech writer	Jachym Topol	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+czech writer	V. Nezval	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+czech writer	Milan Kundera	1	1	5	5	1.000000000000	NULL	NULL	12	8	0.016666666666666666
+czech writer	Ivan Jirous	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+czech writer	Vaclav Havel	1	1	5	5	1.000000000000	NULL	NULL	31	26	0.0064516129032258064
+czech-based fund	Kilcullen Kapital Partners	1	1	1	1	NULL	NULL	NULL	1	1	1
+czech-built skoda tank	t h e PzKpfw 35 light tank	1	1	1	1	NULL	NULL	NULL	1	1	1
+Czech-produced machinery	weaving loom	2	1	2	1	1.000000000000	NULL	NULL	8	7	0.25
+czechoslovak administrator	Dr. Frank J. Jirka	2	2	2	1	NULL	NULL	NULL	2	1	1
+czechoslovak athlete	world champion runner Jarmila Kratochvilova	1	1	1	1	NULL	NULL	NULL	1	1	1
+czechoslovakian company	Preciosa	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Czechs	Saskatoon Blades wing Matej Stransky	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Czechs	Red Deer Rebels goalie Patrik Bartosak	1	1	2	2	NULL	NULL	NULL	1	1	0.5

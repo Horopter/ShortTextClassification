@@ -1,0 +1,381 @@
+ii	highway class ii	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ii	omc gel-seal ii	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+II economy service	organized tour	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ii inhibitor	cyclooxygenase ii inhibitor	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ii inhibitor	topo ii inhibitor	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ii inhibitor	dna topo ii inhibitor	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+ii inhibitor	kininase ii inhibitor	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ii nnovative housing technique	attached single family	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+II reason perfluorinated chemical	PFOS	1	1	1	1	1.000000000000	NULL	NULL	26	17	0.038461538461538464
+ii region	optically visible h ii region	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+II region	Orion Nebula	1	1	2	2	1.000000000000	NULL	NULL	42	27	0.011904761904761904
+II young adult group activity	sport	1	1	1	1	NULL	NULL	NULL	7765	2042	0.000128783000643915
+ii's new feature	arbitrary correlation	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+II-13 estimated toxic emission	formaldehyde	1	1	2	2	NULL	NULL	NULL	1714	518	0.00029171528588098014
+II-13 estimated toxic emission	benzene	1	1	2	2	NULL	NULL	NULL	4065	919	0.0001230012300123001
+II-24 physical barrier	road	1	1	1	1	NULL	NULL	NULL	6806	2297	0.00014692918013517486
+II-Bmetals	Znand Cd	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ii-negative cell	hepatocytes	1	1	2	2	NULL	NULL	NULL	188	59	0.0026595744680851063
+ii-negative cell	DP thymocytes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+II-VI compound	CdTe	2	2	12	9	0.200000000000	NULL	NULL	130	69	0.002564102564102564
+II-VI compound	ZnSe	2	2	12	9	0.200000000000	NULL	NULL	48	31	0.006944444444444444
+II-VI compound	zinc oxide	2	2	12	9	0.200000000000	NULL	NULL	1245	447	0.0002677376171352075
+ii-vi compound	ii-vi dms ii-vi compound	1	1	12	9	0.200000000000	NULL	NULL	2	2	0.041666666666666664
+ii-vi compound	iii-vand ii-vi compound	1	1	12	9	0.200000000000	NULL	NULL	2	2	0.041666666666666664
+II-VI compound	zinc sulfide	1	1	12	9	0.200000000000	NULL	NULL	92	48	0.0009057971014492753
+II-VI compound	ZnO	1	1	12	9	0.200000000000	NULL	NULL	426	185	0.00019561815336463222
+ii-vi compound	wide bandgap ii-vi compound	1	1	12	9	0.200000000000	NULL	NULL	2	2	0.041666666666666664
+ii-vi compound	technological important ii-vi compound	1	1	12	9	0.200000000000	NULL	NULL	2	2	0.041666666666666664
+II-VI compound semiconductor	Cadmium Sulfide CdS	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+II-VI compound semiconductor	BeMgZnCdS compound semiconductor	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+II-VI compound semiconductor	CdS	1	1	4	4	0.500000000000	NULL	NULL	2459	934	0.00010166734444896299
+II-VI compound semiconductor	ZnS	1	1	4	4	0.500000000000	NULL	NULL	12	7	0.020833333333333332
+II-VI group compound semiconductor material	ZnTe	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+II-VI group semiconductor	ZnSe	1	1	1	1	1.000000000000	NULL	NULL	48	31	0.020833333333333332
+II-VI material	ZnSe	1	1	5	5	0.500000000000	NULL	NULL	48	31	0.004166666666666667
+ii-vi material	category ii-vi material	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+II-VI material	zinc sulfide	1	1	5	5	0.500000000000	NULL	NULL	92	48	0.002173913043478261
+II-VI material	zinc selenide	1	1	5	5	0.500000000000	NULL	NULL	43	23	0.004651162790697674
+II-VI material	cadmium telluride	1	1	5	5	0.500000000000	NULL	NULL	113	55	0.001769911504424779
+II-VI related system	HgZnTe	1	1	1	1	NULL	NULL	NULL	1	1	1
+II-VI semiconductor material	ZnO	1	1	1	1	NULL	NULL	NULL	426	185	0.002347417840375587
+II-VI semiconductor nanocrystals	CdTe	1	1	3	3	0.333333333333	NULL	NULL	130	69	0.002564102564102564
+II-VI semiconductor nanocrystals	CdSe	1	1	3	3	0.333333333333	NULL	NULL	61	37	0.00546448087431694
+II-VI semiconductor nanocrystals	ZnSe	1	1	3	3	0.333333333333	NULL	NULL	48	31	0.006944444444444444
+ii-vi semiconductor nanoparticles	introduction ii-vi semiconductor nanoparticles	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+II-VI semiconductor QDs	CdSe	1	1	1	1	NULL	NULL	NULL	61	37	0.01639344262295082
+II-VI wide bandgap semiconductor	ZnTe	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+II-VI Zn-chalcogenides	ZnSe	1	1	1	1	1.000000000000	NULL	NULL	48	31	0.020833333333333332
+II-VIs	cadmium sulfide	1	1	1	1	0.500000000000	NULL	NULL	178	58	0.0056179775280898875
+IIABA initiative	Project CAP	1	1	1	1	NULL	NULL	NULL	1	1	1
+iiany database application	banking	1	1	1	1	NULL	NULL	NULL	4474	1123	0.00022351363433169424
+IIAs	2004 Canadian model BIT	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IIAs	BIT between Australia	1	1	3	3	0.500000000000	NULL	NULL	3	2	0.1111111111111111
+IIAs	IIAs negotiated by the United States	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IIAS store	Longs	1	1	2	2	0.500000000000	NULL	NULL	30	21	0.016666666666666666
+IIAS store	Target	1	1	2	2	0.500000000000	NULL	NULL	5227	1096	0.00009565716472163765
+iias-certified merchant	Walgreens	1	1	2	2	NULL	NULL	NULL	1147	265	0.00043591979075850045
+iias-certified merchant	Wal-Mart	1	1	2	2	NULL	NULL	NULL	6827	1533	0.00007323861139592794
+IIB fundraiser	garden tour	1	1	1	1	1.000000000000	NULL	NULL	42	22	0.023809523809523808
+iib-iiia anti-platelet drug	abciximab	2	1	2	1	1.000000000000	NULL	NULL	14	13	0.14285714285714285
+iib-iiiia anti-platelet drug	abciximab	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+iicd's approach	Roundtable process	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iiconic landmark	KL Tower	1	1	2	2	1.000000000000	NULL	NULL	16	13	0.03125
+iiconic landmark	Petronas Twin Tower	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+IIDC compliant firewire camera	ones from The Imaging Source	1	1	1	1	NULL	NULL	NULL	1	1	1
+iidentifies practice	iterative development	1	0	5	5	0.666666666666	NULL	NULL	30	21	0.006666666666666667
+iidentifies practice	team practice	1	0	5	5	0.666666666666	NULL	NULL	7	6	0.028571428571428574
+iidentifies practice	architecture driven development	1	0	5	5	0.666666666666	NULL	NULL	4	2	0.05
+iidentifies practice	process practice	1	0	5	5	0.666666666666	NULL	NULL	3	2	0.06666666666666667
+iidentifies practice	use case	1	0	5	5	0.666666666666	NULL	NULL	166	89	0.0012048192771084338
+IIDF student	Jason Friesen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIDF student	Kristie Assu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIE-GDC procedure	Member Satisfaction Survey	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+IIE-GDC procedure	Chapter Activity report	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iied-funded study	study by Mendes	1	1	1	1	NULL	NULL	NULL	1	1	1
+iif man	Gandhi	1	1	1	1	NULL	NULL	NULL	304	153	0.003289473684210526
+IIGS text-graphic adventure	Tass Times in Tonetown	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IIHF international tournament	World U20	1	1	1	1	NULL	NULL	NULL	1	1	1
+iii	correctional officer iii	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iii	selective phosphodiesterase inhibitor iii	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+III A. LEGAL CONTEXT township	Howell Township	1	1	1	1	NULL	NULL	NULL	8	4	0.125
+III era character	Kent Paul	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+III era character	Rosenberg on the in-game internet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+III facility	industrial irradiation facility	1	1	1	1	NULL	NULL	NULL	1	1	1
+iii famous competitor	Aston Actor	1	1	1	1	NULL	NULL	NULL	1	1	1
+III II state	Connecticut	1	1	2	2	NULL	NULL	NULL	1873	199	0.00026695141484249865
+III II state	Ohio	1	1	2	2	NULL	NULL	NULL	3073	397	0.00016270745200130165
+III nitride-based compound semiconductor	gallium nitride	3	3	3	1	1.000000000000	NULL	NULL	121	56	0.024793388429752067
+III project output	manual	1	1	1	1	NULL	NULL	NULL	1348	559	0.000741839762611276
+III uniform A. item	sunglasses	1	1	5	5	0.200000000000	NULL	NULL	1222	408	0.00016366612111292964
+III uniform A. item	hat	1	1	5	5	0.200000000000	NULL	NULL	4593	1302	0.000043544524276072285
+III uniform A. item	bandanna	1	1	5	5	0.200000000000	NULL	NULL	73	33	0.0027397260273972603
+III uniform A. item	baseball cap	1	1	5	5	0.200000000000	NULL	NULL	198	115	0.00101010101010101
+III uniform A. item	kerchief	1	1	5	5	0.200000000000	NULL	NULL	9	7	0.022222222222222223
+III-1320 BACKGROUND non-metallic component	pressure vessel	1	1	3	3	NULL	NULL	NULL	227	97	0.0014684287812041115
+III-1320 BACKGROUND non-metallic component	piping	1	1	3	3	NULL	NULL	NULL	483	259	0.0006901311249137336
+III-1320 BACKGROUND non-metallic component	storage tank	1	1	3	3	NULL	NULL	NULL	267	140	0.0012484394506866417
+III-14A-3	Trading Bridge	1	1	1	1	NULL	NULL	NULL	1	1	1
+III-3 service	research	1	1	1	1	NULL	NULL	NULL	3399	1283	0.0002942041776993233
+III-5 area	large area surrounding the Salton Sea in southern California	1	1	1	1	NULL	NULL	NULL	1	1	1
+III-IV channel material	InSb	1	1	1	1	1.000000000000	NULL	NULL	56	39	0.017857142857142856
+iii-nitride material	aluminum nitride	1	1	3	3	0.333333333333	NULL	NULL	241	100	0.0013831258644536651
+iii-nitride material	indium nitride	1	1	3	3	0.333333333333	NULL	NULL	12	7	0.027777777777777776
+iii-nitride material	gallium nitride	1	1	3	3	0.333333333333	NULL	NULL	121	56	0.002754820936639118
+iii-nitride photonic device	light emitting diode	1	1	3	3	NULL	NULL	NULL	604	272	0.0005518763796909492
+iii-nitride photonic device	solar cell	1	1	3	3	NULL	NULL	NULL	550	258	0.0006060606060606061
+iii-nitride photonic device	photodetectors	1	1	3	3	NULL	NULL	NULL	101	55	0.0033003300330033
+III-severe extracolonic manifestation	pyoderma gangrenosa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+III-severe extracolonic manifestation	arthritis	1	1	2	2	NULL	NULL	NULL	6085	1050	0.00008216926869350862
+III-V 3-terminal device	HEMT	1	1	2	2	1.000000000000	NULL	NULL	21	15	0.023809523809523808
+III-V 3-terminal device	HBT	1	1	2	2	1.000000000000	NULL	NULL	14	13	0.03571428571428571
+III-V channel material	InSb	1	1	2	2	0.500000000000	NULL	NULL	56	39	0.008928571428571428
+III-V channel material	InGaAs	1	1	2	2	0.500000000000	NULL	NULL	50	34	0.01
+III-V compound	InSb	4	4	13	10	0.714285714285	NULL	NULL	56	39	0.02197802197802198
+III-V compound	InP	1	1	13	10	0.714285714285	NULL	NULL	16	13	0.004807692307692308
+iii-v compound	antimony-containing iii-v compound	1	1	13	10	0.714285714285	NULL	NULL	2	2	0.038461538461538464
+III-V compound	GaAs shown in Fig	1	1	13	10	0.714285714285	NULL	NULL	1	1	0.07692307692307693
+III-V compound	gallium arsenide	1	1	13	10	0.714285714285	NULL	NULL	412	136	0.00018670649738610905
+III-V compound	AISb	1	1	13	10	0.714285714285	NULL	NULL	1	1	0.07692307692307693
+III-V compound	AlAs	1	1	13	10	0.714285714285	NULL	NULL	4	4	0.019230769230769232
+III-V compound	InAs	1	1	13	10	0.714285714285	NULL	NULL	9	9	0.008547008547008548
+III-V compound	GaP	1	1	13	10	0.714285714285	NULL	NULL	1911	667	0.00004025278750553476
+iii-v compound	alternate iii-v compound	1	1	13	10	0.714285714285	NULL	NULL	2	2	0.038461538461538464
+III-V compound semiconductor	gallium arsenide	2	1	5	4	NULL	NULL	NULL	412	136	0.0019417475728155341
+III-V compound semiconductor	AlGaInP-GaInP double heterostructures	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+iii-v compound semiconductor	conventional iii-v compound semiconductor	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+iii-v compound semiconductor	covalent and iii-v compound semiconductor	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+III-V compound semiconductor device	bipolar transitors	1	1	7	7	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+III-V compound semiconductor device	heterojunction phototransistors	1	1	7	7	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+III-V compound semiconductor device	heterojunction bipolar transistor	1	1	7	7	0.250000000000	NULL	NULL	26	20	0.005494505494505494
+III-V compound semiconductor device	light emitting diode	1	1	7	7	0.250000000000	NULL	NULL	604	272	0.00023651844843897824
+III-V compound semiconductor device	laser	1	1	7	7	0.250000000000	NULL	NULL	2863	1216	0.000049897709695124994
+III-V compound semiconductor device	high-speed optoelectronic integrated circuit	1	1	7	7	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+III-V compound semiconductor device	photodetectors	1	1	7	7	0.250000000000	NULL	NULL	101	55	0.0014144271570014143
+III-V compound semiconductor laser	GaAs laser	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+III-V compound semiconductor material	gallium arsenide	1	1	5	5	0.500000000000	NULL	NULL	412	136	0.00048543689320388353
+III-V compound semiconductor material	gallium nitride	1	1	5	5	0.500000000000	NULL	NULL	121	56	0.0016528925619834713
+III-V compound semiconductor material	InSb	1	1	5	5	0.500000000000	NULL	NULL	56	39	0.0035714285714285718
+III-V compound semiconductor material	n-type InGaN	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+III-V compound semiconductor material	indium phosphide	1	1	5	5	0.500000000000	NULL	NULL	92	46	0.002173913043478261
+III-V compound semiconductor substrate	SiGe	1	1	1	1	NULL	NULL	NULL	57	32	0.017543859649122806
+III-V compound semiconductor system	indium phosphide	2	1	2	1	1.000000000000	NULL	NULL	92	46	0.021739130434782608
+III-V device	indium-phosphide high electron mobility transistor	1	1	1	1	NULL	NULL	NULL	1	1	1
+III-V group compound semiconductor	AlGaAs	1	1	4	4	0.750000000000	NULL	NULL	22	17	0.011363636363636364
+III-V group compound semiconductor	indium phosphide	1	1	4	4	0.750000000000	NULL	NULL	92	46	0.002717391304347826
+III-V group compound semiconductor	AlGaInP	1	1	4	4	0.750000000000	NULL	NULL	6	6	0.041666666666666664
+III-V group compound semiconductor	gallium arsenide	1	1	4	4	0.750000000000	NULL	NULL	412	136	0.0006067961165048543
+III-V group compound semiconductor material	GaAsP	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+III-V group compound semiconductor material	AlGaAs	1	1	2	2	1.000000000000	NULL	NULL	22	17	0.022727272727272728
+III-V group semiconductor	InGaAs	2	2	2	1	1.000000000000	NULL	NULL	50	34	0.04
+III-V heterojunction device	transmission p hot ocathodes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+III-V heterojunction device	laser	1	1	2	2	NULL	NULL	NULL	2863	1216	0.00017464198393293747
+III-V material	GaAs	1	1	5	5	1.000000000000	NULL	NULL	29	20	0.006896551724137932
+III-V material	InSb	1	1	5	5	1.000000000000	NULL	NULL	56	39	0.0035714285714285718
+III-V material	InGaP	1	1	5	5	1.000000000000	NULL	NULL	5	4	0.04
+III-V material	InP	1	1	5	5	1.000000000000	NULL	NULL	16	13	0.0125
+III-V material	AlAs	1	1	5	5	1.000000000000	NULL	NULL	4	4	0.05
+III-V material structure	laser	1	1	2	2	NULL	NULL	NULL	2863	1216	0.00017464198393293747
+III-V material structure	modulator	1	1	2	2	NULL	NULL	NULL	138	96	0.0036231884057971015
+III-V semiconductor	gallium arsenide	2	2	6	5	0.500000000000	NULL	NULL	412	136	0.0016181229773462782
+III-V semiconductor	Gallium Nitride	1	1	6	5	0.500000000000	NULL	NULL	121	56	0.001377410468319559
+III-V semiconductor	InSb	1	1	6	5	0.500000000000	NULL	NULL	56	39	0.002976190476190476
+III-V semiconductor	InGaAlN	1	1	6	5	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+III-V semiconductor	AlGaInP	1	1	6	5	0.500000000000	NULL	NULL	6	6	0.027777777777777776
+III-V semiconductor compound	AlGaAs	1	1	2	2	1.000000000000	NULL	NULL	22	17	0.022727272727272728
+iii-v semiconductor compound	group iii-v semiconductor compound	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+III-V semiconductor layer	InP semiconductor layer	1	1	1	1	NULL	NULL	NULL	1	1	1
+III-V semiconductor material	InSb	2	1	3	2	0.500000000000	NULL	NULL	56	39	0.023809523809523808
+III-V semiconductor material	gallium arsenide	1	1	3	2	0.500000000000	NULL	NULL	412	136	0.0008090614886731391
+III-V substrate	InSb	1	1	2	2	1.000000000000	NULL	NULL	56	39	0.008928571428571428
+III-V substrate	GaAs	1	1	2	2	1.000000000000	NULL	NULL	29	20	0.017241379310344827
+III-V technology	Indium Phosphide	2	2	3	2	1.000000000000	NULL	NULL	92	46	0.014492753623188404
+III-V technology	Silicon Germanium	1	1	3	2	1.000000000000	NULL	NULL	43	25	0.007751937984496124
+iii-vand II-VI compound	cadmium sulphide	1	1	3	3	0.333333333333	NULL	NULL	17	10	0.0196078431372549
+iii-vand II-VI compound	zinc oxide	1	1	3	3	0.333333333333	NULL	NULL	1245	447	0.0002677376171352075
+iii-vand II-VI compound	gallium arsenide	1	1	3	3	0.333333333333	NULL	NULL	412	136	0.0008090614886731391
+III-Vsemiconductors	Gallium Nitride	1	1	2	2	NULL	NULL	NULL	121	56	0.004132231404958678
+III-Vsemiconductors	GaAs theMnatomisan acceptor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+III.19 key debt sustainability indicator	debt to GDP ratio	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+iii.19key debt sustainability indicator	debt to GDP ratio	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+iii.semi-additive fact	average daily balance	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IIIA-VA compound	gallium arsenide	1	1	1	1	NULL	NULL	NULL	412	136	0.0024271844660194173
+IIIb group element	Ga	1	1	1	1	NULL	NULL	NULL	70	50	0.014285714285714285
+iiicas product	inner meat portions of com dog	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iiicas product	hotdog	1	1	2	2	NULL	NULL	NULL	293	129	0.0017064846416382253
+Iiigh-claShoes	Bussian Calf	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Iiigh-claShoes	Vlci Kid	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+iil's unique marketing channel	Abhay Clinics	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIlustrators	Will Bradley	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+iim-itedto noncritical or infrequent operation	press-to-talk communication	1	1	1	1	NULL	NULL	NULL	1	1	1
+iimeiiifal sprirtitj	Mont Dore	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+iimeiiifal sprirtitj	La Bourlwule	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iimeiiifal sprirtitj	oyat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iiml's portfolio company	Electrosteel Integrated	1	1	1	1	NULL	NULL	NULL	1	1	1
+iimovative gear	ring seine	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iimportant information	payment total	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIMs	IIM-C	1	1	1	1	0.500000000000	NULL	NULL	3	2	0.3333333333333333
+Iin akwuatic mamals	whale	1	1	1	1	NULL	NULL	NULL	1427	374	0.000700770847932726
+iin ancient culture	Incas	1	1	7	7	NULL	NULL	NULL	72	45	0.001984126984126984
+iin ancient culture	Romans	1	1	7	7	NULL	NULL	NULL	503	131	0.00028401022436807724
+iin ancient culture	Celts	1	1	7	7	NULL	NULL	NULL	105	58	0.0013605442176870747
+iin ancient culture	Egyptians	1	1	7	7	NULL	NULL	NULL	610	120	0.000234192037470726
+iin ancient culture	Greeks	1	1	7	7	NULL	NULL	NULL	704	175	0.0002029220779220779
+iin ancient culture	Mayans	1	1	7	7	NULL	NULL	NULL	238	68	0.0006002400960384153
+iin ancient culture	Native Americans	1	1	7	7	NULL	NULL	NULL	539	128	0.00026504108136761196
+Iin Asien ocuntries	Chena	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+iin ceratin case	taht of teh contravercial Hens Sedlmair	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin ceratin field	plasma phisics	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin ceratin ocuntries	teh Untied Kengdom	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+Iin ceratin situatoins	auto accidennts	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iin ceratin situatoins	sports injurys	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iin chronical opioid usirs	thsoe on Chronical Opioid Enalgesic Therapi fo manageng sevire	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin conjunctoin wiht otehr orgenizations	teh Erd Cros	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin eletronic vaccum device	cathode rai tube	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin ergions	Subsaharen Africa	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin field	microbiologi adn chemestry	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin fluid	air adn watir	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin group	dragonflies adn spidir s	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin high prevelance aeras	Chena adn Sourth East Asia	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin imunocompromised patiennts	thsoe wiht AIDS	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin ionic sollution s	salt watir	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin large state	NSW	1	1	2	2	NULL	NULL	NULL	199	32	0.002512562814070352
+iin large state	Victoria	1	1	2	2	NULL	NULL	NULL	757	195	0.0006605019815059445
+Iin limited ovir cricket matchs	one-dai cricket adn twenti20	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin local goverment	Hirat	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin low prevelance aeras	teh contenental Untied States adn Westirn Europe	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin mamals	dog s adn cat s	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin many field	petroleum	1	1	5	6	0.250000000000	NULL	NULL	1645	473	0.00012158054711246201
+iin many field	mechanical	1	1	5	6	0.250000000000	NULL	NULL	1078	503	0.0001855287569573284
+iin many field	metallurgical	1	1	5	6	0.250000000000	NULL	NULL	56	19	0.0035714285714285718
+iin many field	chemical	1	1	5	6	0.250000000000	NULL	NULL	5436	1619	0.00003679175864606328
+iin many field	national defense industry	1	1	5	6	0.250000000000	NULL	NULL	3	2	0.06666666666666667
+Iin most ocuntries	Austrailia adn Cenada adn on teh contenent of Africa	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin Nastik erligions	Jaenism adn Buddhism	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin natoins	Mianmar	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin ocuntries	teh Netherland's	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+Iin ocuntries	teh Untied Kengdom adn Austrailia	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+Iin ocuntries	teh Untied Kengdom	1	1	9	9	0.666666666666	NULL	NULL	4	3	0.027777777777777776
+Iin ocuntries	Austrailia	1	1	9	9	0.666666666666	NULL	NULL	15	9	0.007407407407407407
+Iin ocuntries	iin whcih refirendums aer niether manditory	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+Iin ocuntries	Itali	1	1	9	9	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+Iin ocuntries	Puirto Rico adn Spaen	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+Iin ocuntries	Chena adn Vietnam	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+Iin ocuntries	Cenada adn teh Untied States	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+Iin otehr aeras	teh Davao Plaen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iin otehr aeras	teh Graet Plaens iin teh U.S. adn Cenada	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iin otehr case	New Zealend adn Cenada	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin otehr consumir item	clock radios adn steret light	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iin otehr consumir item	camira lite metirs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iin otehr consumir item	photocoenductor s aer offen unsed rathir tahn photodiodes	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iin otehr monarchy	Sweeden	1	1	1	1	NULL	NULL	NULL	11	5	0.09090909090909091
+Iin otehr ocuntries	Belguim	1	1	1	1	1.000000000000	NULL	NULL	13	6	0.07692307692307693
+Iin otehr sistems	teh Dutch adn teh Belgien	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin otheres	teh Romen Cathlic Curch	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin place	Scottland	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+iin place	Noth Africa adn teh Middle East	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iin post-Soviet erpublics	Rusian adn Ukrane	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin profesional clasifications	teh Amirican Psichiatric Asociation s Diagnostic adn Statistical Menual	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin rocket	teh F1 unsed iin teh Saturn V programe	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin Slavic laguages	Rusian	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iin Slavic laguages	Sirbo-Croatien	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iin smoe aeras	agricultuer wass allready underwai bi teh eend of teh Pleistocenne	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Iin smoe aeras	philisophy	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Iin smoe aeras	teh Near East	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Iin smoe aeras	Tenah Toraja	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Iin smoe atols	Wotje	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+Iin smoe eastirn cultuers	Chena adn Hong Kong	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin smoe ergions	Gaul adn Itali	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin smoe laguages	Enlish	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Iin smoe otehr mamals	dog s adn horse s	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin smoe raer case	wiht Ethiopia adn Qeng Dinasty Chena	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin smoe sistems	teh Brittish	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin species	teh Comon Guilemot	1	1	1	1	NULL	NULL	NULL	1	1	1
+iin temparate latitude	northwest Europe adn teh Graet Plaens adn Califronia iin Noth Amercia	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iin totalitarien ergimes	Nazi Germani	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iin warmir climate	iin Califronia s Impirial Vallei	1	1	1	1	NULL	NULL	NULL	1	1	1
+iincorporate human value	humility	1	1	2	2	NULL	NULL	NULL	682	216	0.0007331378299120235
+iincorporate human value	love	1	1	2	2	NULL	NULL	NULL	4970	1397	0.00010060362173038229
+iindi fitting	bend	1	1	2	2	NULL	NULL	NULL	356	176	0.0014044943820224719
+iindi fitting	collar	1	1	2	2	NULL	NULL	NULL	853	311	0.0005861664712778429
+iindustrial gas	oxygen	1	1	2	2	NULL	NULL	NULL	4210	1106	0.00011876484560570071
+iindustrial gas	nitrogen	1	1	2	2	NULL	NULL	NULL	6796	1291	0.00007357268981753973
+iinear system	riparian area	1	1	1	1	NULL	NULL	NULL	124	84	0.008064516129032258
+Iinformation	device status	1	1	1	1	1.000000000000	NULL	NULL	14	6	0.07142857142857142
+iingredients	benzyl alcohol	1	1	2	2	NULL	NULL	NULL	236	105	0.00211864406779661
+iingredients	benzoic acid	1	1	2	2	NULL	NULL	NULL	316	115	0.0015822784810126582
+iinime-style campaign	R. Talsorian's Rubblegum Crisis RPG	1	1	1	1	NULL	NULL	NULL	1	1	1
+iintense stimulant	Adderall	1	1	2	2	NULL	NULL	NULL	660	115	0.0007575757575757576
+iintense stimulant	Ritalin	1	1	2	2	NULL	NULL	NULL	1298	220	0.0003852080123266564
+iintensity technique	super set	1	1	5	5	0.666666666666	NULL	NULL	14	9	0.014285714285714287
+iintensity technique	forced rep	1	1	5	5	0.666666666666	NULL	NULL	36	23	0.005555555555555556
+iintensity technique	drop set	1	1	5	5	0.666666666666	NULL	NULL	61	27	0.003278688524590164
+iintensity technique	partial rep	1	1	5	5	0.666666666666	NULL	NULL	6	4	0.03333333333333333
+iintensity technique	slow negative	1	1	5	5	0.666666666666	NULL	NULL	3	3	0.06666666666666667
+iinternet portal	Hulu	1	1	1	1	NULL	NULL	NULL	669	257	0.0014947683109118087
+iintraoral item	impression	3	2	3	1	1.000000000000	NULL	NULL	121	84	0.024793388429752067
+iinvolve male relative	uncle	1	1	2	2	NULL	NULL	NULL	425	96	0.001176470588235294
+iinvolve male relative	grandfather	1	1	2	2	NULL	NULL	NULL	39	26	0.01282051282051282
+IIOs	SunWater in Queensland	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIP student	Madoka Sugihara	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IIP student	Kenichiro Otsuka	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IIP student	Michiyo Yamashita	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iip UK initiative	Building a Better Busines	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIPF activist	Abbas Abdi	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+IIPPMs	Major Economies Forum in the climate change arena	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIR fil-terdesigns	Chebyshev	1	1	2	2	0.500000000000	NULL	NULL	38	26	0.013157894736842105
+IIR fil-terdesigns	elliptical	1	1	2	2	0.500000000000	NULL	NULL	277	132	0.0018050541516245488
+iir filter	alternatively iir filter	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+IIR filter	exponential filter	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+iir filter	digital iir filter	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+IIR filter	RLC filter	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+IIR filter	Nyquist filter	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+IIR filter	notch filter	1	1	6	6	1.000000000000	NULL	NULL	50	29	0.003333333333333333
+iiragation system	drip line	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IIRC big, event oriented operation	arena	1	1	1	1	NULL	NULL	NULL	355	218	0.0028169014084507044
+IIRC electric organ	Hammonds	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+IIRC further functionality	Music Choice On Demand	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIRC rifle	Weatherly Vanguard	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIRC temporary structure	shed	1	1	1	1	NULL	NULL	NULL	884	318	0.0011312217194570137
+iiricusuric drug	probenecid	1	1	2	2	0.500000000000	NULL	NULL	166	30	0.0030120481927710845
+iiricusuric drug	sulfinpyrazone	1	1	2	2	0.500000000000	NULL	NULL	47	12	0.010638297872340425
+iis	conventional myosin iis	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIS administration tool	IIS Manager	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IIS based web application	Outlook Web Access	2	2	4	2	1.000000000000	NULL	NULL	47	32	0.02127659574468085
+IIS based web application	Remote Web Workplace	2	2	4	2	1.000000000000	NULL	NULL	5	4	0.2
+IIS COM component	table object	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IIS COM component	chart	1	1	2	2	NULL	NULL	NULL	2668	849	0.0001874062968515742
+IIS control panel	Helm	1	1	1	1	1.000000000000	NULL	NULL	28	18	0.03571428571428571
+IIS customization	host header	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IIS feature	ISAPI filter	1	1	5	6	0.666666666666	NULL	NULL	5	5	0.04
+IIS feature	security	1	1	5	6	0.666666666666	NULL	NULL	8153	2525	0.000024530847540782535
+IIS feature	application pooling	1	1	5	6	0.666666666666	NULL	NULL	1	1	0.2
+IIS feature	HTTP-based authentication	1	1	5	6	0.666666666666	NULL	NULL	1	1	0.2
+IIS feature	virtual directory	1	1	5	6	0.666666666666	NULL	NULL	13	11	0.015384615384615385
+IIS functional directorate	M22	1	1	1	1	0.500000000000	NULL	NULL	14	12	0.07142857142857142
+IIS information	Semconsole path	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIS information	AppRoot	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIS process management feature	on-demand activation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIS process management feature	process health monitoring	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIS property	authentication type	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+IIS related service	Gopher	1	1	1	1	NULL	NULL	NULL	317	127	0.0031545741324921135
+IIS related setting	endpoint configuration	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IIS resource	virtual server	2	2	4	2	0.500000000000	NULL	NULL	65	43	0.015384615384615385
+IIS resource	site	2	2	4	2	0.500000000000	NULL	NULL	374	190	0.00267379679144385
+IIS setting	application pool	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+IIS setting	authentication method	1	1	2	2	1.000000000000	NULL	NULL	23	16	0.021739130434782608
+IIS technology	Web Deploy	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IIS technology	FTP publishing service	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIS Web site	Default Web Site	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IIS win NT authentication provider	NTLM	1	1	3	3	1.000000000000	NULL	NULL	26	19	0.01282051282051282
+IIS win NT authentication provider	Kerberos authentication	1	1	3	3	1.000000000000	NULL	NULL	10	8	0.03333333333333333
+IIS win NT authentication provider	Site Server authentication	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+IIS window NT authentication provider	Kerberos authentication	1	1	3	3	1.000000000000	NULL	NULL	10	8	0.03333333333333333
+IIS window NT authentication provider	Site Server authentication	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+IIS window NT authentication provider	NTLM	1	1	3	3	1.000000000000	NULL	NULL	26	19	0.01282051282051282
+IIS-based wiki	FogBugz	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IISs	Michigan Care Improvement Registry	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IIT coaching centre	Kota-based Resonance	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIT s	IIT Roorkee	1	1	5	5	1.000000000000	NULL	NULL	4	4	0.05
+IIT s	IIT Kharagpur	1	1	5	5	1.000000000000	NULL	NULL	5	5	0.04
+IIT s	IIT Guwahati	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+IIT s	IIT Delhi	1	1	5	5	1.000000000000	NULL	NULL	9	8	0.022222222222222223
+IIT s	IIT Bombay	1	1	5	5	1.000000000000	NULL	NULL	7	5	0.028571428571428574
+IIT's	ones in Mumbai	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+iit's administrative department	Office of Educational Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iit's administrative department	Office of Undergraduate Academic Affairs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iit-bombay's current research project	Media Lab Asia	1	1	1	1	NULL	NULL	NULL	1	1	1
+IIT-JEE book	OP Aggarwal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IIT-JEE book	IIT PHYSICS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Iitems	paint	1	1	5	5	NULL	NULL	NULL	7733	1968	0.000025863183757920602
+Iitems	newsletter	1	1	5	5	NULL	NULL	NULL	3095	1282	0.00006462035541195476
+Iitems	departmental manual	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Iitems	pamphlet	1	1	5	5	NULL	NULL	NULL	1030	422	0.0001941747572815534
+Iitems	oil	1	1	5	5	NULL	NULL	NULL	15331	4205	0.00001304546344008871
+IITs	Kharagpur	2	2	9	7	0.500000000000	NULL	NULL	5	4	0.08888888888888888
+IITs	IIT Bombay	2	2	9	7	0.500000000000	NULL	NULL	7	5	0.06349206349206349
+IITs	IIT Delhi	1	1	9	7	0.500000000000	NULL	NULL	9	8	0.012345679012345678
+IITs	part time MTech	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+IITs	IIT Guwahati	1	1	9	7	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+IITs	IIT Kharagpur	1	1	9	7	0.500000000000	NULL	NULL	5	5	0.02222222222222222
+IITs	IIT Roorkee	1	1	9	7	0.500000000000	NULL	NULL	4	4	0.027777777777777776

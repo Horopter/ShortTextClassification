@@ -1,0 +1,115 @@
+IW activity	terrorism	2	2	4	2	0.500000000000	NULL	NULL	2042	628	0.0004897159647404506
+IW activity	transnational crime	2	2	4	2	0.500000000000	NULL	NULL	49	26	0.02040816326530612
+iw command	iwlist	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IW scenario	counterinsurgency operation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iw-stressed billet	tactical air control p arty	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+iw-stressed billet	transportation	1	1	3	3	0.500000000000	NULL	NULL	8378	2254	0.000039786743057213336
+iw-stressed billet	security force	1	1	3	3	0.500000000000	NULL	NULL	56	36	0.005952380952380952
+IWA model	ASM1	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IWA model	ASM2	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IWA porkchoppers	blowhard Jack Munro	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWA resource	4Rs Lesson Overviews	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWA specialist conference important topic	drinking water treatment	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+iwako puzzle eraser	elephant	1	1	6	6	NULL	NULL	NULL	2497	651	0.00006674676278200507
+iwako puzzle eraser	frog	1	1	6	6	NULL	NULL	NULL	1993	544	0.00008362602441879912
+iwako puzzle eraser	giraffe	1	1	6	6	NULL	NULL	NULL	978	312	0.0001704158145875937
+iwako puzzle eraser	mouse	1	1	6	6	NULL	NULL	NULL	3242	739	0.00005140859551717047
+iwako puzzle eraser	panda	1	1	6	6	NULL	NULL	NULL	225	129	0.0007407407407407407
+iwako puzzle eraser	pig	1	1	6	6	NULL	NULL	NULL	2963	686	0.00005624929688378895
+iwate ingredient	hitomebore rice	1	1	1	1	NULL	NULL	NULL	1	1	1
+iwatsu gateway solution	PC Attendant	3	3	4	2	NULL	NULL	NULL	5	3	0.45
+iwatsu gateway solution	PC attenant	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+IWB	Galco's Royal Guard	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWB functionality	touch screen	1	1	1	1	NULL	NULL	NULL	618	235	0.0016181229773462784
+IWB holster	leather DeSantis Cozy Partner	1	0	4	4	NULL	NULL	NULL	1	1	0.25
+IWB holster	Galco Triton Kydex	1	0	4	4	NULL	NULL	NULL	1	1	0.25
+IWB holster	Crossbreeds Super Tuck	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IWB holster	DeSantis Pro Stealth	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IWB nings	SMART Board Revolution	1	1	1	1	NULL	NULL	NULL	1	1	1
+iWB use	preparing presentation	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+IWC country	Slovenia	1	1	1	1	NULL	NULL	NULL	785	169	0.0012738853503184713
+IWC expert	Jack Freeman for the movement finishing by IWC	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IWC expert	Richard Paige	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IWC heavyweight	Dave Meltzer	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+IWC heavyweight	Lance Storm	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+IWC member	Australia	2	2	2	1	NULL	NULL	NULL	16600	2128	0.00012048192771084337
+IWC model	Portuguese 7-day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IWC model	looks of Portuguese Chrono	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iweb object	html script	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+iweb object	Runtime Applet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iweb object	iWEB image	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iweb template	podcast	1	0	2	2	0.333333333333	NULL	NULL	21	56	0.023809523809523808
+iweb template	photo	1	0	2	2	0.333333333333	NULL	NULL	4315	1298	0.00011587485515643106
+iweb-specific upload feature	automatic Facebook update	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWebsites	boards.ie	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+IWGs	Information Security Workgroup	1	1	1	1	NULL	NULL	NULL	1	1	1
+iwhen contaminant	soot	1	1	2	2	NULL	NULL	NULL	443	192	0.001128668171557562
+iwhen contaminant	bird droppings	1	1	2	2	NULL	NULL	NULL	115	61	0.004347826086956522
+iwi	Ngai Tahu	4	3	8	5	1.000000000000	NULL	NULL	10	7	0.2
+iwi	Ngati Tama	1	1	8	5	1.000000000000	NULL	NULL	2	2	0.0625
+iwi	Te Arawa	1	1	8	5	1.000000000000	NULL	NULL	3	2	0.041666666666666664
+iwi	Tainui	1	1	8	5	1.000000000000	NULL	NULL	5	5	0.025
+iwi	Whanganui	1	1	8	5	1.000000000000	NULL	NULL	7	5	0.017857142857142856
+iwi authority	Runanga	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IWI specialist	installers listed on the website of the British Urethane Foam Contractors Association	1	1	1	1	NULL	NULL	NULL	1	1	1
+iwillnotletpetty inconvenience	stoplight	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+iwin hit	Mahjong Quest	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iwin hit	Jewel Quest III	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+iWitnessing tool	iPod Touch	1	1	1	1	NULL	NULL	NULL	440	169	0.0022727272727272726
+IWM activity	prescribed fire	1	1	1	1	NULL	NULL	NULL	176	100	0.005681818181818182
+IWM technique	burning	1	1	3	3	NULL	NULL	NULL	1384	533	0.00024084778420038535
+IWM technique	tickle cultivation next season	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IWM technique	seed catching at harvest	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IWM vehicle	Bedford truck on display in AirSpace	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWMF air contaminant emission	landfill gas flare station emission	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWMS implementation consulting service	training	1	1	6	6	0.500000000000	NULL	NULL	7685	2537	0.00002168726957276079
+IWMS implementation consulting service	ongoing management	1	1	6	6	0.500000000000	NULL	NULL	6	6	0.027777777777777776
+IWMS implementation consulting service	system integration	1	1	6	6	0.500000000000	NULL	NULL	133	62	0.0012531328320802004
+IWMS implementation consulting service	project management	1	1	6	6	0.500000000000	NULL	NULL	1814	676	0.00009187798603454612
+IWMS implementation consulting service	system customization	1	1	6	6	0.500000000000	NULL	NULL	3	2	0.05555555555555555
+IWMS implementation consulting service	needs analysis	1	1	6	6	0.500000000000	NULL	NULL	35	25	0.0047619047619047615
+IWN TCs	Comestible	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IWO formation method	metal sputtering	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+IWOG event	Xmas Bazaar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IWOG event	June Luncheon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iWork app	Pages	1	1	1	1	NULL	NULL	NULL	157	79	0.006369426751592357
+iwork application	Pages	3	3	6	3	0.333333333333	NULL	NULL	157	79	0.009554140127388535
+iwork application	Keynote	2	2	6	3	0.333333333333	NULL	NULL	158	87	0.004219409282700422
+iwork application	Numbers	1	1	6	3	0.333333333333	NULL	NULL	50	39	0.003333333333333333
+iWork apps	Keynote	2	2	4	3	NULL	NULL	NULL	158	87	0.006329113924050633
+iWork apps	Numbers	1	1	4	3	NULL	NULL	NULL	50	39	0.005
+iWork apps	Pages	1	1	4	3	NULL	NULL	NULL	157	79	0.0015923566878980893
+iwork product	Pages	1	1	1	1	NULL	NULL	NULL	157	79	0.006369426751592357
+iwork productivity application	Keynote	2	2	5	4	NULL	NULL	NULL	158	87	0.005063291139240506
+iwork productivity application	Pages	2	1	5	4	NULL	NULL	NULL	157	79	0.005095541401273886
+iwork productivity application	Numbers for word processing	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+iWork software	Pages	1	1	1	1	NULL	NULL	NULL	157	79	0.006369426751592357
+iworks program	Pages	1	0	1	1	NULL	NULL	NULL	157	79	0.006369426751592357
+iwouldmakeover meal	spaghetti bolognaise	1	1	1	1	1.000000000000	NULL	NULL	43	24	0.023255813953488372
+IWP technology	chlor-floc tablet	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWRM initiative	Water Quality Management project	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWRM institution	catchment agency	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWRM principle	sustainability in environmental term	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IWRM principle	efficiency of water use in economic sector	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IWRM-NET website stakeholder	NGOs	1	1	4	4	NULL	NULL	NULL	1252	399	0.00019968051118210862
+IWRM-NET website stakeholder	researcher	1	1	4	4	NULL	NULL	NULL	426	200	0.0005868544600938967
+IWRM-NET website stakeholder	water manager	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+IWRM-NET website stakeholder	water policymakers	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IWRM-problems	Environmental flow	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+IWRM-problems	Land	1	1	2	2	0.500000000000	NULL	NULL	2765	917	0.00018083182640144665
+IWS development	workpiece-ada pt ed heat management	1	1	1	1	NULL	NULL	NULL	1	1	1
+iwstressed billet	transportation	1	1	2	2	0.500000000000	NULL	NULL	8378	2254	0.000059680114585820004
+iwstressed billet	security force	1	1	2	2	0.500000000000	NULL	NULL	56	36	0.008928571428571428
+IWT equipment maker	Leader Environmetal	1	1	1	1	NULL	NULL	NULL	1	1	1
+iwth account	Valley Vet	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+iwth account	MWI Vet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iwth writer ad historian	Ernie PYle	1	1	3	3	0.500000000000	NULL	NULL	14	11	0.023809523809523808
+iwth writer ad historian	Eric Lomax	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+iwth writer ad historian	George MacDonald Fraser	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IWU alumnus	Maralyn Higgins Lyne	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWW leader	Elizabeth Gurley Flynn	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+IWW many important principle	need for organized direct action	1	1	1	1	NULL	NULL	NULL	1	1	1
+IWW member	Tom Glynn	1	1	1	1	NULL	NULL	NULL	1	1	1
+iww star	Seamus O'Shaunessy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iww star	International Heavyweight Champion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iww-aligned organization	International Socialist League	1	1	1	1	NULL	NULL	NULL	1	1	1

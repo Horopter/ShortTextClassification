@@ -1,0 +1,629 @@
+NC act	Space Centauri	1	1	2	2	0.666666666666	NULL	NULL	1	1	0.5
+NC act	Unconscious Rascals	1	1	2	2	0.666666666666	NULL	NULL	1	1	0.5
+NC barn	Linda Shelhart in Wilmington	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC barn	Liz McBride Jones near Fayetteville	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC beach	Ocean Isle	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+NC CACGP initiative	CFNC Navigator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC CACGP initiative	Parental Engagement Curriculum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC children's hospital service	Hospital School	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+NC city	Charlotte	1	1	1	1	NULL	NULL	NULL	604	186	0.0016556291390728477
+NC commercial bank	Bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+NC company	Cree	1	1	3	3	0.333333333333	NULL	NULL	143	77	0.002331002331002331
+NC company	Quintiles	1	1	3	3	0.333333333333	NULL	NULL	49	25	0.006802721088435374
+NC company	Duke Energy	1	1	3	3	0.333333333333	NULL	NULL	151	59	0.002207505518763797
+NC consumer self-service operation	buffet	1	1	1	1	NULL	NULL	NULL	326	133	0.003067484662576687
+NC county	Johnston	1	1	2	2	0.500000000000	NULL	NULL	38	27	0.013157894736842105
+NC county	Orange	1	1	2	2	0.500000000000	NULL	NULL	12312	2565	0.00004061078622482131
+NC datum	zero offset list	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+NC datum	D-corrections	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+NC datum	NC variable	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+NC device	machining center for performing a position control of a movable part holding tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+NC entertainer	SQ Da Truth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC entertainer	Miz Jerzi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC flex pre-tax plan	pre-tax dental	1	1	1	1	NULL	NULL	NULL	1	1	1
+NC function	position control	1	1	2	2	1.000000000000	NULL	NULL	18	13	0.027777777777777776
+NC function	block preparation	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NC gene	FOXD3	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+NC gene	MSX1	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+NC gene	PITX1	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NC item	Sneaky Meowclops Foreground	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC item	Moltara City Background	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC LAMP key leader	Admiral Edwin H. Daniels	1	1	1	1	NULL	NULL	NULL	1	1	1
+NC language	Spanish	1	1	3	3	NULL	NULL	NULL	2682	571	0.00012428535918468804
+NC language	Italian	1	1	3	3	NULL	NULL	NULL	1796	512	0.0001855976243504083
+NC language	Czech	1	1	3	3	NULL	NULL	NULL	201	65	0.0016583747927031507
+NC leader	Sujata Koirala	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+NC leader	allegedly corrupt former ministers Govinda Raj Joshi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC LIVE permanent collection resource	Alexander Press	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+NC machine	Turret Punch	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+NC machine	deep-drawing press	1	1	7	7	NULL	NULL	NULL	5	2	0.02857142857142857
+nc machine	precise nc machine	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+NC machine	punch	1	1	7	7	NULL	NULL	NULL	677	280	0.00021101498206372652
+NC machine	end milling NC machine	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NC machine	bending press	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+NC machine	pressure lathe	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NC machining operation	milling	1	1	2	2	NULL	NULL	NULL	777	306	0.0006435006435006435
+NC machining operation	wirecut discharge machining operation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC metal wire	copper wire	1	1	1	1	NULL	NULL	NULL	222	112	0.0045045045045045045
+NC mountain attraction	Linville Falls	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+NC mountain attraction	Grandfather Mountain	1	1	2	2	1.000000000000	NULL	NULL	28	18	0.017857142857142856
+NC phone	celebrated Bose QCs	1	1	1	1	NULL	NULL	NULL	1	1	1
+NC program associated datum file	CAD drawing	1	1	2	2	NULL	NULL	NULL	76	44	0.006578947368421052
+NC program associated datum file	parts information	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+NC protein	NCp7 of HIV-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+NC PTP feature	cam plate	2	1	2	1	1.000000000000	NULL	NULL	9	6	0.2222222222222222
+NC scene	tobacco market	1	1	1	1	1.000000000000	NULL	NULL	4	3	0.25
+NC school	Elon	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+NC stalwart	Ram Chandra Poudel	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NC state agency	Department of Transportation	1	1	1	1	NULL	NULL	NULL	212	49	0.0047169811320754715
+NC state player	David Thompson	1	1	1	1	1.000000000000	NULL	NULL	20	15	0.05
+NC state post player	Brandon Costner	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NC state post player	Dennis Horner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC state star	Chris Corchiani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC state star	Levi Watkins	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NC state university employee	Dean	1	1	2	2	0.500000000000	NULL	NULL	231	126	0.0021645021645021645
+NC state university employee	Vice Chancellor	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+NC successor	Ram Chandra Poudel	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+NC successor	Sushil Koirala	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+NC tation vehicle	plane	1	1	2	2	NULL	NULL	NULL	772	396	0.0006476683937823834
+NC tation vehicle	train	1	1	2	2	NULL	NULL	NULL	1369	590	0.0003652300949598247
+NC title	1966 Oldsmobile Cutlass	1	1	1	1	NULL	NULL	NULL	1	1	1
+NC tool	Re-sequence	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NC tool	File Sync	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+NC tool	Reformatting	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NC tool	Math Transformations	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NC topic	symmetry	1	1	3	3	NULL	NULL	NULL	419	218	0.0007955449482895783
+NC topic	shape	1	1	3	3	NULL	NULL	NULL	3964	1303	0.00008409014463504877
+NC topic	graph	1	1	3	3	NULL	NULL	NULL	2074	703	0.0001607200257152041
+NC TV station	WRAL	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NC-17 film	Bad Education	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+NCA employee	Jorge Lopez	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NCA water quality indicator	dissolved inorganic nitrogen	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+NCA water quality indicator	phosphorus	1	1	2	2	0.500000000000	NULL	NULL	3102	588	0.00016118633139909736
+nca's officer	Mr. Moffett	2	2	2	1	NULL	NULL	NULL	2	1	1
+NCAA academic monitoring procedure	Academic Progress Report	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA athletic division	tennis	1	1	1	1	NULL	NULL	NULL	8416	1354	0.0001188212927756654
+NCAA basketball ticket	Kansas jayhawks mens basketball ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCAA basketball ticket	Syracuse Orangemen mens basketball ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCAA basketball ticket	Kentucky wildcats mens basketball ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCAA bluebloods	Duke	1	1	1	1	NULL	NULL	NULL	737	278	0.0013568521031207597
+NCAA bubble team	South Florida	1	1	2	2	0.500000000000	NULL	NULL	206	97	0.0024271844660194173
+NCAA bubble team	Seton Hall	1	1	2	2	0.500000000000	NULL	NULL	36	22	0.013888888888888888
+NCAA champ	Kellen Russell	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA champion	Tee Martin	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NCAA conference	Big East	1	1	1	1	1.000000000000	NULL	NULL	52	25	0.019230769230769232
+NCAA division 1A powerhouse	Duke	1	1	1	1	NULL	NULL	NULL	737	278	0.0013568521031207597
+NCAA division I athletic program	University of Dayton	1	1	3	3	1.000000000000	NULL	NULL	13	11	0.02564102564102564
+NCAA division I athletic program	Duke Univeristy	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NCAA division I athletic program	North Carolina Central University	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+NCAA division I FBS school	Louisiana State University	1	1	2	2	1.000000000000	NULL	NULL	28	17	0.017857142857142856
+NCAA division I FBS school	University of Wisconsin	1	1	2	2	1.000000000000	NULL	NULL	85	38	0.0058823529411764705
+NCAA division I player	Richie Williams	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCAA division I player	Cameron Koford	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCAA division I program	Marquette	1	1	6	6	0.400000000000	NULL	NULL	84	49	0.001984126984126984
+NCAA division I program	Western Michigan	1	1	6	6	0.400000000000	NULL	NULL	23	15	0.007246376811594202
+NCAA division I program	Wisconsin	1	1	6	6	0.400000000000	NULL	NULL	2038	234	0.00008177952240758913
+NCAA division I program	Wright State	1	1	6	6	0.400000000000	NULL	NULL	10	8	0.016666666666666666
+NCAA division I program	UW-Green Bay	1	1	6	6	0.400000000000	NULL	NULL	4	4	0.041666666666666664
+NCAA division I program	Bradley	1	1	6	6	0.400000000000	NULL	NULL	93	65	0.0017921146953405018
+NCAA division I school	Winthrop	1	1	6	6	0.400000000000	NULL	NULL	20	16	0.008333333333333333
+NCAA division I school	Portland	1	1	6	6	0.400000000000	NULL	NULL	1449	289	0.00011502185415228893
+NCAA division I school	Duke	1	1	6	6	0.400000000000	NULL	NULL	737	278	0.0002261420171867933
+NCAA division I school	Gonzaga State	1	1	6	6	0.400000000000	NULL	NULL	1	1	0.16666666666666666
+NCAA division I school	Notre Dame	1	1	6	6	0.400000000000	NULL	NULL	497	185	0.00033534540576794097
+NCAA division I school	San Diego State	1	1	6	6	0.400000000000	NULL	NULL	48	20	0.003472222222222222
+NCAA division I sport	football	1	1	1	1	NULL	NULL	NULL	10605	1568	0.0000942951438000943
+NCAA division I standout	Brock Lesnar	3	3	9	3	1.000000000000	NULL	NULL	64	28	0.015625
+NCAA division I standout	Cain Velasquez	3	3	9	3	1.000000000000	NULL	NULL	23	12	0.043478260869565216
+NCAA division I standout	Matt Hughes	3	3	9	3	1.000000000000	NULL	NULL	43	24	0.023255813953488372
+NCAA division I university	Duke	1	1	3	3	0.750000000000	NULL	NULL	737	278	0.0004522840343735866
+NCAA division I university	East Carolina	1	1	3	3	0.750000000000	NULL	NULL	33	15	0.0101010101010101
+NCAA division I university	Elon	1	1	3	3	0.750000000000	NULL	NULL	10	7	0.03333333333333333
+NCAA division I-A college	Army	1	1	5	5	NULL	NULL	NULL	598	262	0.0003344481605351171
+NCAA division I-A college	Boston College	1	1	5	5	NULL	NULL	NULL	207	77	0.0009661835748792271
+NCAA division I-A college	Colorado	1	1	5	5	NULL	NULL	NULL	2800	379	0.00007142857142857143
+NCAA division I-A college	Oklahoma	1	1	5	5	NULL	NULL	NULL	1318	248	0.00015174506828528073
+NCAA division I-A college	Miami	1	1	5	5	NULL	NULL	NULL	1765	506	0.00011331444759206799
+NCAA division III program	Salisbury	1	1	1	1	NULL	NULL	NULL	109	44	0.009174311926605505
+NCAA division III school	Bluffton Beavers from Ohio	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA event	Men's Basketball Quarterfinals	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+NCAA event	Men?s Basketball Quarterfinals	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+NCAA event	Women's Final Four	1	1	4	3	NULL	NULL	NULL	4	3	0.0625
+NCAA football conference	Western Athletic Conference	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+NCAA football conference	Mountain West	1	1	2	2	1.000000000000	NULL	NULL	19	12	0.02631578947368421
+ncaa football odds.com broker	Massart Grasse Trading House	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA football team	Arkansas	1	1	6	6	NULL	NULL	NULL	1118	147	0.0001490757304710793
+NCAA football team	Georgia	1	1	6	6	NULL	NULL	NULL	3170	454	0.00005257623554153522
+NCAA football team	Alabama	1	1	6	6	NULL	NULL	NULL	1712	254	0.00009735202492211838
+NCAA football team	LSU	1	1	6	6	NULL	NULL	NULL	175	64	0.0009523809523809524
+NCAA football team	Florida state	1	1	6	6	NULL	NULL	NULL	177	70	0.0009416195856873823
+NCAA football team	Auburn	1	1	6	6	NULL	NULL	NULL	316	123	0.0005274261603375527
+NCAA heavy-hitters	NBA legend Earvin Magic Johnson	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA icon	Alan Chapman	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NCAA icon	Marcus Plant	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NCAA icon	Earl Ramer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NCAA icon	Harry Cross	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NCAA icon	Robert Ray	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+NCAA II scholarship program	Tarleton State	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NCAA issue	Ed O'Bannon lawsuit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCAA issue	effect of realignment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCAA member institution	Le Moyne College	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA official	McCloskey	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+NCAA platform	NCAA.org	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA powerhouse program	Nebraska	1	1	3	3	NULL	NULL	NULL	885	148	0.0003766478342749529
+NCAA powerhouse program	Tennessee	1	1	3	3	NULL	NULL	NULL	1456	213	0.00022893772893772894
+NCAA powerhouse program	Penn State	1	1	3	3	NULL	NULL	NULL	301	110	0.0011074197120708748
+NCAA program	Fellows Leadership Development Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCAA program	Minority Leadership Institutes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCAA requirement	purchasing cap	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA resource	Student-Athlete Opportunity Fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA revenue sport	Football	1	1	1	1	NULL	NULL	NULL	10605	1568	0.0000942951438000943
+NCAA school	University of Utah	3	3	13	8	0.666666666666	NULL	NULL	45	22	0.015384615384615384
+NCAA school	Florida State University	3	3	13	8	0.666666666666	NULL	NULL	95	38	0.0072874493927125505
+NCAA school	University of Illinois	2	2	13	8	0.666666666666	NULL	NULL	99	45	0.003108003108003108
+ncaa school	top ncaa school	1	1	13	8	0.666666666666	NULL	NULL	2	2	0.038461538461538464
+NCAA school	Syracuse	1	1	13	8	0.666666666666	NULL	NULL	341	120	0.00022558087074216106
+ncaa school	big time ncaa school	1	1	13	8	0.666666666666	NULL	NULL	2	2	0.038461538461538464
+NCAA school	Duquesne	1	1	13	8	0.666666666666	NULL	NULL	25	16	0.003076923076923077
+NCAA school	Pittsburgh	1	1	13	8	0.666666666666	NULL	NULL	828	218	0.0000929022668153103
+NCAA setting penalty	loss of scholarship	1	1	1	1	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+NCAA sport	basketball	3	2	12	10	0.100000000000	NULL	NULL	10932	1509	0.00006860592755214051
+NCAA sport	tennis	1	1	12	10	0.100000000000	NULL	NULL	8416	1354	0.000009901774397972116
+NCAA sport	women's volleyball	1	1	12	10	0.100000000000	NULL	NULL	9	6	0.009259259259259259
+NCAA sport	baseball	1	1	12	10	0.100000000000	NULL	NULL	6093	1077	0.000013676896985611903
+NCAA sport	lacrosse	1	1	12	10	0.100000000000	NULL	NULL	765	171	0.00010893246187363834
+NCAA sport	track	1	1	12	10	0.100000000000	NULL	NULL	1719	449	0.000048477797168896646
+NCAA sport	golf	1	1	12	10	0.100000000000	NULL	NULL	6842	1226	0.000012179674559095781
+NCAA sport	hockey	1	1	12	10	0.100000000000	NULL	NULL	2679	470	0.00003110613412965036
+NCAA sport	soccer	1	1	12	10	0.100000000000	NULL	NULL	7482	1247	0.000011137841931747303
+NCAA sport	swimming	1	1	12	10	0.100000000000	NULL	NULL	15629	2556	0.0000053319683494358774
+NCAA talent	David Cubillan of Marquette Golden Eagles	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA team	Texas	1	1	11	11	0.250000000000	NULL	NULL	6401	772	0.000014202326341054666
+NCAA team	UVM	1	1	11	11	0.250000000000	NULL	NULL	14	10	0.006493506493506494
+NCAA team	Bowdoin	1	1	11	11	0.250000000000	NULL	NULL	59	27	0.0015408320493066256
+NCAA team	Saint Mary's	1	1	11	11	0.250000000000	NULL	NULL	11	9	0.008264462809917356
+NCAA team	Colorado	1	1	11	11	0.250000000000	NULL	NULL	2800	379	0.00003246753246753247
+NCAA team	Middlebury	1	1	11	11	0.250000000000	NULL	NULL	65	34	0.0013986013986013986
+NCAA team	Dartmouth	1	1	11	11	0.250000000000	NULL	NULL	226	89	0.0004022526146419952
+NCAA team	Boston College	1	1	11	11	0.250000000000	NULL	NULL	207	77	0.0004391743522178305
+NCAA team	Bates	1	1	11	11	0.250000000000	NULL	NULL	60	29	0.0015151515151515152
+NCAA team	Syracuse	1	1	11	11	0.250000000000	NULL	NULL	341	120	0.00026659557451346307
+NCAA team	Williams	1	1	11	11	0.250000000000	NULL	NULL	437	199	0.00020802995631370917
+NCAA team s	Saint Mary's	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+ncaa tournament brackes broker	Rohr Ahlin Trading House	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAA tournament team	UNLV	1	1	3	3	0.666666666666	NULL	NULL	39	13	0.008547008547008546
+NCAA tournament team	Purdue	1	1	3	3	0.666666666666	NULL	NULL	182	61	0.0018315018315018315
+NCAA tournament team	Kansas State	1	1	3	3	0.666666666666	NULL	NULL	58	18	0.005747126436781609
+NCAA violation	taking bribe	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+NCAA watchdog group	Knight Commission on Intercollegiate Athletics	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ncaa-affiliated sport program	soccer	1	1	6	6	NULL	NULL	NULL	7482	1247	0.000022275683863494607
+ncaa-affiliated sport program	softball	1	1	6	6	NULL	NULL	NULL	2536	392	0.00006572029442691903
+ncaa-affiliated sport program	volleyball	1	1	6	6	NULL	NULL	NULL	5132	828	0.000032475967783839954
+ncaa-affiliated sport program	basketball	1	1	6	6	NULL	NULL	NULL	10932	1509	0.000015245761678253444
+ncaa-affiliated sport program	football	1	1	6	6	NULL	NULL	NULL	10605	1568	0.000015715857300015714
+ncaa-affiliated sport program	baseball	1	1	6	6	NULL	NULL	NULL	6093	1077	0.000027353793971223806
+ncaa-bound team	DePaul	1	1	5	5	0.200000000000	NULL	NULL	31	14	0.0064516129032258064
+ncaa-bound team	Louisville	1	1	5	5	0.200000000000	NULL	NULL	378	110	0.0005291005291005291
+ncaa-bound team	Memphis	1	1	5	5	0.200000000000	NULL	NULL	533	158	0.000375234521575985
+ncaa-bound team	Marquette	1	1	5	5	0.200000000000	NULL	NULL	84	49	0.002380952380952381
+ncaa-bound team	Cincinnati	1	1	5	5	0.200000000000	NULL	NULL	628	156	0.00031847133757961787
+ncaa-licensed product	EA Sports video game	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ncaa-licensed product	commemorative DVD set	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCAAB ticket	Florida Gators ticket	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NCAAB ticket	UCLA basketball ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCAAB ticket	LSU Tigers ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncaabaseball guide umpire	Bob Lothian	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCAC committee	Transfer of Development committee	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCACPA program	conference	1	1	1	1	NULL	NULL	NULL	2864	1022	0.00034916201117318437
+NCAs	AGCM	1	1	4	4	0.200000000000	NULL	NULL	1	1	0.25
+NCAs	Bundeskartellamt	1	1	4	4	0.200000000000	NULL	NULL	1	1	0.25
+NCAs	Gadomer-17 dendrimer conjugate	1	1	4	4	0.200000000000	NULL	NULL	1	1	0.25
+NCAs	Finish NCA	1	1	4	4	0.200000000000	NULL	NULL	1	1	0.25
+NCBI database	PubMed	2	2	3	2	NULL	NULL	NULL	251	121	0.005312084993359893
+NCBI database	GenBank	1	1	3	2	NULL	NULL	NULL	121	48	0.002754820936639118
+NCBO tool	service for automatic creation of ontology-based text annotation	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCBs	ACFID	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NCC athlete	wrestler	1	1	2	2	NULL	NULL	NULL	125	33	0.004
+NCC athlete	football player	1	1	2	2	NULL	NULL	NULL	133	38	0.0037593984962406013
+NCC communion	United Church of Christ	1	1	2	2	NULL	NULL	NULL	105	45	0.004761904761904762
+NCC communion	Episcopal Church	1	1	2	2	NULL	NULL	NULL	62	39	0.008064516129032258
+NCC special service call	Integrity Lines	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCC special service call	Serious Incident Reports	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCCA development	equipment	1	1	2	2	0.500000000000	NULL	NULL	4707	1559	0.00010622477161674102
+NCCA development	new chemical	1	1	2	2	0.500000000000	NULL	NULL	6	5	0.08333333333333333
+NCCA sport	Football	1	1	1	1	NULL	NULL	NULL	10605	1568	0.0000942951438000943
+NCCA-accredited certification	ACE Personal Trainer Certification	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCCBP benchmark	resulting revenue	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCCBP benchmark	graduation rate	1	1	2	2	NULL	NULL	NULL	259	97	0.0019305019305019305
+NCCE climate factor	perception of communication	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCCH lab screen	cholesterol	1	1	1	1	NULL	NULL	NULL	1324	518	0.0007552870090634441
+NCCHC publication	Standards for health service	1	1	1	1	NULL	NULL	NULL	1	1	1
+nccm-related event	car care clinic	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCCP member	Salvation Army	1	1	3	3	NULL	NULL	NULL	1920	494	0.0001736111111111111
+NCCP member	United Methodist Church in the Philippines	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCCP member	Philippine Independent Church	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+nccpa-offered specialty examination	surgical examination	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCCT stone characteristic	stone size	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+NCD	cardiovascular disease	4	4	4	1	NULL	NULL	NULL	2270	593	0.001762114537444934
+NCD device	relay	1	1	2	2	0.500000000000	NULL	NULL	910	373	0.0005494505494505495
+NCD device	motor controller	1	1	2	2	0.500000000000	NULL	NULL	50	40	0.01
+NCD priority action	tobacco control	2	2	2	1	1.000000000000	NULL	NULL	53	36	0.03773584905660377
+NCD risk factor	smoking	1	1	4	4	NULL	NULL	NULL	12009	2006	0.000020817720043300857
+NCD risk factor	physical inactivity	1	1	4	4	NULL	NULL	NULL	516	146	0.00048449612403100775
+NCD risk factor	hypertension	1	1	4	4	NULL	NULL	NULL	7750	1658	0.000032258064516129034
+NCD risk factor	obesity	1	1	4	4	NULL	NULL	NULL	7193	1475	0.00003475601279021271
+ncd-related complication	end-stage renal disease	1	1	2	2	1.000000000000	NULL	NULL	44	31	0.011363636363636364
+ncd-related complication	diabetes-related sepsis	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NCDA leader	Incoming NCDA president Darrell Luzzo	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncdc's innovative program	Clean Ports USA	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ncdc's innovative program	Clean School Bus USA	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+NCDC's staff	book	1	1	1	1	0.500000000000	NULL	NULL	13029	3482	0.00007675186123263489
+NCDDR informational source	Research Exchange	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCDs	chronic respiratory disease	7	7	22	14	0.242424242424	NULL	NULL	115	29	0.019367588932806323
+NCDs	ischaemic heart disease	2	2	22	14	0.242424242424	NULL	NULL	88	54	0.002066115702479339
+NCDs	type 2 diabetes	2	2	22	14	0.242424242424	NULL	NULL	836	250	0.00021748586341887777
+NCDs	type 1 diabetes	1	1	22	14	0.242424242424	NULL	NULL	272	73	0.00016711229946524066
+ncds	turkey diet-related ncds	1	1	22	14	0.242424242424	NULL	NULL	1	1	0.045454545454545456
+NCDs	CVD	1	1	22	14	0.242424242424	NULL	NULL	299	138	0.00015202189115232594
+NCDs	chronic lung disease	1	1	22	14	0.242424242424	NULL	NULL	122	60	0.00037257824143070045
+NCDs	various forms of cancer	1	1	22	14	0.242424242424	NULL	NULL	21	14	0.0021645021645021645
+NCDs	asthma	1	1	22	14	0.242424242424	NULL	NULL	8602	1433	0.0000052841833823001
+NCDs	congenital anomalies along with accident	1	1	22	14	0.242424242424	NULL	NULL	1	1	0.045454545454545456
+NCDs	major cancer	1	1	22	14	0.242424242424	NULL	NULL	2	2	0.022727272727272728
+NCDs	lipid NCD	1	1	22	14	0.242424242424	NULL	NULL	1	1	0.045454545454545456
+NCDs	heart aliment	1	1	22	14	0.242424242424	NULL	NULL	1	1	0.045454545454545456
+NCDs	myocardial inf arction	1	1	22	14	0.242424242424	NULL	NULL	1	1	0.045454545454545456
+NCE	sexual	1	1	2	2	NULL	NULL	NULL	221	125	0.0022624434389140274
+NCE	neglect	1	1	2	2	NULL	NULL	NULL	414	199	0.0012077294685990338
+nce book	Goss Principles of Plant Culture	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCE decoder	D13SR decoder	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCE FM radio station	WKCS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCE FM radio station	WNTH	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCE project	toxicology study	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+NCE project	late discovery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCE tool	GSTD	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+NCE tool	DMAIC	1	1	5	5	1.000000000000	NULL	NULL	33	24	0.006060606060606061
+NCE tool	5Y	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+NCE tool	World Almanac	1	1	5	5	1.000000000000	NULL	NULL	25	18	0.008
+NCE tool	Compton's Pictured Encyclopedia	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ncealgorithms	dynamic Bayesiannetworks	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+nced mutant	notabilis of tomato	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nced mutant	vp14 of maize	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCED's experimental facilties	Wax Lake Delta	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncedgreat american triumph	civil rights law	1	1	2	2	0.500000000000	NULL	NULL	16	13	0.03125
+ncedgreat american triumph	Constitution	1	1	2	2	0.500000000000	NULL	NULL	437	193	0.0011441647597254005
+ncednoneofthe possible side effect	fatigue	1	1	1	1	NULL	NULL	NULL	7827	1619	0.00012776287210936502
+nceevaluations	temperature response	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+nceinEconophysics	Applications of Physics in Financial Analysis	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nceinEconophysics	Nikkei Econophysics Symposium	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nceinholdingsof financial asset	stock	1	1	2	2	NULL	NULL	NULL	3840	947	0.00013020833333333333
+nceinholdingsof financial asset	bond	1	1	2	2	NULL	NULL	NULL	4385	908	0.00011402508551881414
+nceinphysical examination finding	petechiae	1	1	3	3	0.500000000000	NULL	NULL	62	32	0.005376344086021505
+nceinphysical examination finding	focal bacterial infection	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+nceinphysical examination finding	mental status	1	1	3	3	0.500000000000	NULL	NULL	30	22	0.01111111111111111
+nceisthatwhen long-distant migrant	Reed Warbler	1	1	1	1	1.000000000000	NULL	NULL	31	16	0.03225806451612903
+nceitemsmaybe pencil-and-paper task	writing sample	1	1	1	1	NULL	NULL	NULL	74	33	0.013513513513513514
+NCELLULAR code-division multiple access system	third-generation universal mobile telecomm unications system	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncentives	rebate	1	1	4	4	0.285714285714	NULL	NULL	440	175	0.0005681818181818182
+ncentives	swimming	1	1	4	4	0.285714285714	NULL	NULL	15629	2556	0.000015995905048307635
+ncentives	tax credit	1	1	4	4	0.285714285714	NULL	NULL	623	259	0.0004012841091492777
+ncentives	movie	1	1	4	4	0.285714285714	NULL	NULL	4206	1513	0.00005943889681407513
+NCEO staff	Senior Staff Member Corey Rosen	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCEO text	ESOP Reader	1	1	1	1	NULL	NULL	NULL	1	1	1
+nceofinitial boundary condition	depth of the initial slope	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+nceofmoreand more application level protocol	LDAP	1	1	2	2	NULL	NULL	NULL	283	167	0.0017667844522968198
+nceofmoreand more application level protocol	SOAP	1	1	2	2	NULL	NULL	NULL	2849	1032	0.0001755001755001755
+nceofportals	Yahoo	2	1	2	1	NULL	NULL	NULL	8994	2110	0.00022237046920169
+nceofthemutant hepatocytes	RXR homodimers	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCEP activity	puppet show	1	1	1	1	0.500000000000	NULL	NULL	195	97	0.005128205128205128
+NCEP program	Storm Prediction Center in Oklahoma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCEP program	Aviation Weather Center in Kansas City	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ncepts	notice	1	1	1	1	NULL	NULL	NULL	318	158	0.0031446540880503146
+ncequantity	point estimate	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+NCERT textbook	Modern Indian History	1	1	1	1	NULL	NULL	NULL	1	1	1
+nces	causing shoreline damage along the Beaufort Sea coast	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+nces	ozone	1	1	6	6	0.250000000000	NULL	NULL	1944	568	0.00008573388203017832
+nces	unvented fuel-burning applia nces	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+nces	typical pseudoscie nces	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+nces	water	1	1	6	6	0.250000000000	NULL	NULL	25348	6311	0.000006575140708011151
+nces	life's experie nces	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+NCES database	Early Childhood Longitudinal Study	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NCES discovery CESs	Person Discovery	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NCES discovery CESs	Content Discovery	1	1	2	2	1.000000000000	NULL	NULL	6	4	0.08333333333333333
+NCES publication	Digest of Education Statistics	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ncesarenotdueto technological factor	quality of the video communication channel	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncesatevents	recent benefit for Ronald McDonald House	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncesbetweenthe instance	variations in the field strength experienced by the ion	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncesbyarea performer	Jackson County Youth Theater	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncesbyarea performer	Black River Area Community Band	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncesbyarea performer	Black River Falls High School Marching Band	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncesexistin model input	emission	1	1	1	1	NULL	NULL	NULL	294	168	0.003401360544217687
+ncesforfacial trait	symmetry	2	1	4	3	0.333333333333	NULL	NULL	419	218	0.002386634844868735
+ncesforfacial trait	masculinity	1	1	4	3	0.333333333333	NULL	NULL	66	33	0.003787878787878788
+ncesforfacial trait	sexual dimorphism	1	1	4	3	0.333333333333	NULL	NULL	7	7	0.03571428571428571
+ncesinfactors	study design	1	1	1	1	NULL	NULL	NULL	93	45	0.010752688172043012
+ncesinmeal processing condition	temperature	1	1	2	2	NULL	NULL	NULL	21509	4199	0.0000232460830350086
+ncesinmeal processing condition	moisture	1	1	2	2	NULL	NULL	NULL	1479	459	0.0003380662609871535
+ncesinother parameter	islet selection through handpicking	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ncesinother parameter	culture medium	1	1	2	2	NULL	NULL	NULL	51	31	0.00980392156862745
+ncesinotherdive parameter	dive duration	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ncesinphysical attribute	hunger level	1	1	1	1	1.000000000000	NULL	NULL	4	3	0.25
+ncesintherateof specific event	stroke	1	1	1	1	NULL	NULL	NULL	6064	1490	0.00016490765171503957
+ncesmaybedueto technical artifact	differences in chromosome condensation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncesoveruse injury	tendinitis	1	1	2	2	NULL	NULL	NULL	206	98	0.0024271844660194173
+ncesoveruse injury	tendinosis	1	1	2	2	NULL	NULL	NULL	6	3	0.08333333333333333
+ncespectra	synthetic Co-AlLDH	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncestotheworkof 1S1 colleague	Henry Small	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+ncetools	Markovchain Monte Carlo method	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NCF access service	dial-up	1	1	1	1	NULL	NULL	NULL	104	58	0.009615384615384616
+NCFs	cell-derived NCF	1	1	1	1	NULL	NULL	NULL	1	1	1
+nch range option	fresh sandwich	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+nch's national event	National Homeless Voter Registration Week	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncha's most successful horseman	Sam Wilson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncha's most successful horseman	Pat Earnheart	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncha's most successful horseman	Rock Hedlund	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCHD program	family planning	1	1	4	4	0.200000000000	NULL	NULL	431	191	0.000580046403712297
+NCHD program	WIC	1	1	4	4	0.200000000000	NULL	NULL	351	121	0.0007122507122507123
+NCHD program	immunization	1	1	4	4	0.200000000000	NULL	NULL	1008	404	0.000248015873015873
+NCHD program	car seat safety	1	1	4	4	0.200000000000	NULL	NULL	15	13	0.016666666666666666
+nchor large exterior item	shed	1	1	1	1	NULL	NULL	NULL	884	318	0.0011312217194570137
+NCHS datum set	NHANES	1	1	1	1	1.000000000000	NULL	NULL	46	29	0.021739130434782608
+NCHS procedure	tabular evaluation	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCHS program	Family Nutrition Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCHS quality control activity	translation of medication names into English	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCHS quality control activity	correction of transcription error	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCHS qualitycontrol activity	correction of transcription error	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCHS qualitycontrol activity	translation of medication names into English	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCHS survey	NHANES	1	1	1	1	1.000000000000	NULL	NULL	46	29	0.021739130434782608
+nchsaa-sanctioned team	South View	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+nchsaa-sanctioned team	Clash entrants Seventy-First	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nchssurvey program	National Health CareUtilization Survey	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCI initiative	Cancer Genome Atlas	1	1	1	1	1.000000000000	NULL	NULL	28	21	0.03571428571428571
+NCI resource	Cancer Information Service	2	1	2	1	NULL	NULL	NULL	5	4	0.4
+NCI scientist	Dr. Beebe	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCI staff	Cancer Diagnosis Program	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCI staff	Radiation Oncology Sciences Program	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCI staff	members of the Investigational Drug Branch	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nci's effort	cabig	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+nci's flagship research dissemination tool	Cancer Trends Progress Report	3	2	9	4	NULL	NULL	NULL	3	1	0.3333333333333333
+nci's flagship research dissemination tool	State Cancer Profiles	3	2	9	4	NULL	NULL	NULL	3	1	0.3333333333333333
+nci's flagship research dissemination tool	Cancer Control P.L.A.N.E.T	2	1	9	4	NULL	NULL	NULL	2	1	0.2222222222222222
+nci's flagship research dissemination tool	Cancer Control P.L.A.N.E.T.	1	1	9	4	NULL	NULL	NULL	2	2	0.05555555555555555
+nci's home design brand	New England Home	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+nci's home design brand	Atlanta Homes & Lifestyles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCI-15 chemical group	cigarette smoke	1	1	1	1	NULL	NULL	NULL	881	246	0.0011350737797956867
+nci-designated cancer center	Moffitt	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+nci-designated comprehensive cancer center	Abramson Cancer Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+nci-wide initiative	nanotechnology	1	1	2	2	NULL	NULL	NULL	837	267	0.0005973715651135006
+nci-wide initiative	TCGA	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+NCIC offense category	theft	1	1	2	2	NULL	NULL	NULL	2731	768	0.0001830831197363603
+NCIC offense category	assault	1	1	2	2	NULL	NULL	NULL	2388	478	0.00020938023450586265
+ncicreagan school	Streator	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ncicreagan school	Ottawa	1	1	2	2	NULL	NULL	NULL	469	121	0.0010660980810234541
+ncident-related information	safety reminder	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ncident-related information	carpool information	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ncidentals	electricity	1	1	3	3	NULL	NULL	NULL	7822	1808	0.000042614847012699225
+ncidentals	water	1	1	3	3	NULL	NULL	NULL	25348	6311	0.000013150281416022302
+ncidentals	gas	1	1	3	3	NULL	NULL	NULL	7329	2137	0.00004548142083958703
+ncidents	Virginia Tech	1	1	3	3	0.333333333333	NULL	NULL	203	67	0.0016420361247947454
+ncidents	Northern Illinois University	1	1	3	3	0.333333333333	NULL	NULL	26	14	0.01282051282051282
+ncidents	recent ones at Columbine	1	1	3	3	0.333333333333	NULL	NULL	2	2	0.16666666666666666
+ncient or genuine landmark	corner station	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+ncient personality	Homer	1	1	1	1	NULL	NULL	NULL	240	109	0.004166666666666667
+nciia-sponsored event	Open	1	1	1	1	NULL	NULL	NULL	544	300	0.001838235294117647
+NCILLARY S TRUCTURES ancillary structure	recreational structure	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NCILLARY S TRUCTURES ancillary structure	barn	1	1	5	5	NULL	NULL	NULL	846	321	0.0002364066193853428
+NCILLARY S TRUCTURES ancillary structure	guest house	1	1	5	5	NULL	NULL	NULL	139	86	0.0014388489208633094
+NCILLARY S TRUCTURES ancillary structure	garage	1	1	5	5	NULL	NULL	NULL	2179	772	0.00009178522257916476
+NCILLARY S TRUCTURES ancillary structure	shed	1	1	5	5	NULL	NULL	NULL	884	318	0.00022624434389140272
+ncillary service	laboratory	1	1	2	3	NULL	NULL	NULL	1401	551	0.00035688793718772306
+ncillary service	nutrition	1	1	2	3	NULL	NULL	NULL	3736	954	0.00013383297644539615
+ncillary support ancillary measure	client education	1	1	2	2	0.500000000000	NULL	NULL	14	12	0.03571428571428571
+ncillary support ancillary measure	nutritional support	1	1	2	2	0.500000000000	NULL	NULL	51	29	0.00980392156862745
+NCJ stakeholder	NCJ partner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCJ stakeholder	NGO employee	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+NCL sampling measure	storytelling	1	1	1	1	NULL	NULL	NULL	662	313	0.0015105740181268882
+NCL ship	NCL Pearl	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+NCL ship	Gem	1	1	6	5	NULL	NULL	NULL	379	165	0.0004397537379067722
+NCL ship	Pride of Aloha	1	1	6	5	NULL	NULL	NULL	3	3	0.05555555555555555
+NCL ship	Epic	1	1	6	5	NULL	NULL	NULL	186	96	0.0008960573476702509
+NCL ship	Norwegain Sun	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+ncl's innovation	private Garden Villas	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCLB datum	attendance rate	1	1	1	1	1.000000000000	NULL	NULL	49	31	0.02040816326530612
+NCLB info	percent proficient	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCLB program	Reading First	1	1	2	2	0.500000000000	NULL	NULL	33	20	0.015151515151515152
+NCLB program	Title I	1	1	2	2	0.500000000000	NULL	NULL	141	68	0.0035460992907801418
+NCLB requirement	requirements for annual yearly progress	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCLB requirement	performance standard	1	1	2	2	NULL	NULL	NULL	57	44	0.008771929824561403
+NCLB sanction	school choice	1	1	2	2	NULL	NULL	NULL	109	57	0.0045871559633027525
+NCLB sanction	transfer	1	1	2	2	NULL	NULL	NULL	1346	530	0.0003714710252600297
+NCLB testing hawk	Citizens Commission on Civil Rights	1	1	1	1	0.500000000000	NULL	NULL	3	3	0.3333333333333333
+NCLEMENT W EATHER Severe weather	snow	1	1	2	2	NULL	NULL	NULL	2306	735	0.0002168256721595837
+NCLEMENT W EATHER Severe weather	ice storm	1	1	2	2	NULL	NULL	NULL	365	143	0.0013698630136986301
+NCLEX review book	Silvestri comprehensive NCLEX Review	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NCLEX review book	Saunders	1	1	2	2	1.000000000000	NULL	NULL	18	16	0.027777777777777776
+NCLEX study book	Saunders	1	1	2	2	0.500000000000	NULL	NULL	18	16	0.027777777777777776
+NCLEX study book	Kaplan	1	1	2	2	0.500000000000	NULL	NULL	277	156	0.0018050541516245488
+NCLEX-PN review book	Mosby's review	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCLEX-RN first-time pass predictor	cumulative GPA at the time of graduation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCLEX-RN first-time pass predictor	ATI test score	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nclive online resource	Novelist K-8	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nclive online resource	Learning Express Library	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+nclude additional information	job title	1	1	2	2	NULL	NULL	NULL	289	110	0.0017301038062283738
+nclude additional information	company name	1	1	2	2	NULL	NULL	NULL	547	217	0.0009140767824497258
+nclude factor	ncludng FSM	1	0	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+nclude factor	EAL	1	0	3	3	1.000000000000	NULL	NULL	12	11	0.027777777777777776
+nclude factor	pupl profile n Academes	1	0	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+nclude phenomenon	ter	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+NCLUSIO NS igneous rock	granite	1	1	2	2	0.500000000000	NULL	NULL	2971	919	0.0001682935038707506
+NCLUSIO NS igneous rock	anorthosite	1	1	2	2	0.500000000000	NULL	NULL	23	9	0.021739130434782608
+NCM client application	adapter	1	1	2	2	NULL	NULL	NULL	400	174	0.00125
+NCM client application	console	1	1	2	2	NULL	NULL	NULL	117	67	0.004273504273504274
+NCM fundraiser	future raffle After the dinner	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCM server	domain manager	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+NCM server	global manager	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NCM server	Open Integration server	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NCMA exhibition glimpse personality	Maria Theresa of Austria	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+NCMEC department	Hotline	1	0	3	3	0.333333333333	NULL	NULL	203	87	0.0016420361247947454
+NCMEC department	Case Analysis	1	0	3	3	0.333333333333	NULL	NULL	20	26	0.016666666666666666
+NCMEC department	Case Management	1	0	3	3	0.333333333333	NULL	NULL	641	251	0.0005200208008320332
+NCMEC resource	DNA protocol	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NCMEC resource	database searches into the investigation	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NCMEC resource	search expert	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NCMEC resource	poster distribution	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+NCmetal wire	copper wire	1	1	1	1	NULL	NULL	NULL	222	112	0.0045045045045045045
+NCMS function	gateway	1	1	2	2	NULL	NULL	NULL	997	413	0.0005015045135406219
+NCMS function	router service	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ncntc infectious disease	diphtheria	1	1	3	3	NULL	NULL	NULL	621	159	0.0005367686527106817
+ncntc infectious disease	typhoid fever	1	1	3	3	NULL	NULL	NULL	447	121	0.0007457121551081282
+ncntc infectious disease	scarlet fever	1	1	3	3	NULL	NULL	NULL	329	109	0.0010131712259371832
+NCO ceremony	NCO Academy graduation	2	2	2	1	NULL	NULL	NULL	2	1	1
+NCO donor	IPDI	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+NCO duty	budget	1	1	1	1	NULL	NULL	NULL	2634	864	0.00037965072133637056
+NCO educational syst em course	Basic NCO Course	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCO principle	concentration of combat power	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCO principle	battlespace awareness	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+NCO principle	dispersed force	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCO principle	dominant maneuver	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+nco-type polymer	polyvinylpyrrolidone	2	1	2	1	NULL	NULL	NULL	200	83	0.01
+ncoa's electronic communication	Public Policy Update	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncoa's electronic communication	Benefits Alert	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ncoa's electronic communication	NCOA Week	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NCOES course standard	distinguished	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+NCOLCTL member organization	African Language Teachers Association	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+NCOLCTL member organization	South Asia Language Teachers Association	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+ncology related professional organization	O ncology N ursing Society	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncome	investment	1	1	3	3	NULL	NULL	NULL	1600	601	0.00020833333333333332
+ncome	pension	1	1	3	3	NULL	NULL	NULL	1951	746	0.00017085255424568595
+ncome	saving	1	1	3	3	NULL	NULL	NULL	1396	488	0.0002387774594078319
+ncome african country	Zimbabwe	1	1	1	1	NULL	NULL	NULL	1553	230	0.000643915003219575
+ncome amount	capital gain	1	1	1	1	NULL	NULL	NULL	142	69	0.007042253521126761
+ncome country	Mexico	1	1	4	4	NULL	NULL	NULL	7263	1033	0.000034421038138510255
+ncome country	Bolivia	1	1	4	4	NULL	NULL	NULL	1363	192	0.00018341892883345562
+ncome country	Haiti	1	1	4	4	NULL	NULL	NULL	1078	204	0.00023191094619666049
+ncome country	Guatemala	1	1	4	4	NULL	NULL	NULL	1096	151	0.0002281021897810219
+ncome security	zero coupon bond	2	2	2	1	1.000000000000	NULL	NULL	51	17	0.0392156862745098
+ncome vehicle	bond	1	1	1	1	NULL	NULL	NULL	4385	908	0.00022805017103762827
+ncome-producing historic structure	private residence	1	1	1	1	1.000000000000	NULL	NULL	38	26	0.02631578947368421
+ncome-statement agency cost	private costs of bonding incurred by the manager	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ncome-statement agency cost	private monitoring costs by the non-management shareholder	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCOMPUTER vision application	human-machine interaction	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+NCOMPUTER vision application	object based video encoding	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCOMPUTER vision application	video surveillance	1	1	4	4	NULL	NULL	NULL	281	142	0.0008896797153024911
+NCOMPUTER vision application	human motion analysis	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+ncontainable fluid	electricity	1	1	2	2	0.500000000000	NULL	NULL	7822	1808	0.00006392227051904884
+ncontainable fluid	caloric	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05
+ncontinence product	adult diaper	1	1	1	1	NULL	NULL	NULL	91	56	0.01098901098901099
+nconventional variable	soil temperature	1	1	2	2	NULL	NULL	NULL	182	77	0.0027472527472527475
+nconventional variable	soil moisture	1	1	2	2	NULL	NULL	NULL	491	203	0.0010183299389002036
+NCOs	1st Bn	1	1	5	5	0.625000000000	NULL	NULL	1	1	0.2
+NCOs	CTZ	1	1	5	5	0.625000000000	NULL	NULL	2	2	0.1
+NCOs	CMSgt	1	1	5	5	0.625000000000	NULL	NULL	1	1	0.2
+NCOs	Company B	1	1	5	5	0.625000000000	NULL	NULL	7	7	0.028571428571428574
+NCOs	Sgt Michael R. Ramirez	1	1	5	5	0.625000000000	NULL	NULL	1	1	0.2
+NCOs compound	Wings Day	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncounties	Phi ladelphia County	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncourage third party	university	1	1	1	1	NULL	NULL	NULL	4258	1447	0.00023485204321277596
+NCOURAGED solid color	black	1	1	2	2	NULL	NULL	NULL	7897	1968	0.00006331518298087882
+NCOURAGED solid color	green	1	1	2	2	NULL	NULL	NULL	6694	1904	0.00007469375560203167
+NCP	IPCP	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+NCP inner core member	Ali Osman	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCP negotiation	IPCP	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+NCP process	call for proposal	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCP process	assoc iated review process	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCP promotional item	colorful silicone wristband	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCP supremos	Mr. Anil Deshmukh	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCP supremos	Mr. Dilip Valse-Patil	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCP supremos	Mr. Chhagan Bhujbal	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCP supremos	Mr. R. R. Patil	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCP tool	Noise Overlay Zones	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+NCP tool	buffer	2	2	4	2	NULL	NULL	NULL	797	312	0.0012547051442910915
+NCP yer protocol	Internet Protocol	1	1	1	1	NULL	NULL	NULL	112	61	0.008928571428571428
+NCPM feature	walk-off corrected	2	1	2	1	NULL	NULL	NULL	2	1	1
+NCPs	IPCP	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+ncqma's special event	bike	1	1	4	4	NULL	NULL	NULL	787	350	0.0003176620076238882
+ncqma's special event	skateboard	1	1	4	4	NULL	NULL	NULL	387	154	0.0006459948320413437
+ncqma's special event	Green Machines	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ncqma's special event	Region 3 Dixie Cup Series & States Race event	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NCR business-related item	cell phone	1	1	1	1	NULL	NULL	NULL	8165	2060	0.0001224739742804654
+NCR camp	Forlorn Hope	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NCR camp	Camp McCarran	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCR city	Gurgaon	3	3	7	3	1.000000000000	NULL	NULL	100	44	0.012857142857142855
+NCR city	Faridabad	2	2	7	3	1.000000000000	NULL	NULL	20	9	0.02857142857142857
+NCR city	Noida	2	2	7	3	1.000000000000	NULL	NULL	38	20	0.015037593984962405
+NCR leader	Kimball	1	1	1	1	1.000000000000	NULL	NULL	23	15	0.043478260869565216
+NCR market	Gurgaon	1	1	2	2	0.333333333333	NULL	NULL	100	44	0.005
+NCR market	Noida	1	1	2	2	0.333333333333	NULL	NULL	38	20	0.013157894736842105
+NCR partner	Arlington County Transit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCR partner	USPP	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ncr's business consulting service	Branch Effectiveness Modeling	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncr's business medium product	ink ribbon	2	2	4	2	1.000000000000	NULL	NULL	24	13	0.041666666666666664
+ncr's business medium product	paper role	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+ncr's next generation LCD display	5964 Touch Screen	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCRA certification	RPR	2	2	8	5	1.000000000000	NULL	NULL	29	18	0.017241379310344827
+NCRA certification	CRR	2	2	8	5	1.000000000000	NULL	NULL	8	7	0.0625
+NCRA certification	RMR	2	2	8	5	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+NCRA certification	CMRS	1	1	8	5	1.000000000000	NULL	NULL	5	5	0.025
+NCRA certification	RDR	1	1	8	5	1.000000000000	NULL	NULL	12	6	0.010416666666666666
+ncra-sponsored certification	RDR	1	1	5	5	1.000000000000	NULL	NULL	12	6	0.016666666666666666
+ncra-sponsored certification	RPR	1	1	5	5	1.000000000000	NULL	NULL	29	18	0.006896551724137932
+ncra-sponsored certification	CMRS	1	1	5	5	1.000000000000	NULL	NULL	5	5	0.04
+ncra-sponsored certification	CRR	1	1	5	5	1.000000000000	NULL	NULL	8	7	0.025
+ncra-sponsored certification	RMR	1	1	5	5	1.000000000000	NULL	NULL	11	9	0.018181818181818184
+NCRE resource	wave energy	1	1	1	1	1.000000000000	NULL	NULL	53	37	0.018867924528301886
+NCRHA event	NCRHA National Championship Tournament	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncrna family	snorna	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ncRNAs	microrna	1	1	3	3	1.000000000000	NULL	NULL	32	18	0.010416666666666666
+ncrnas	well-documented regulatory ncrnas	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ncRNAs	RNase P RNA	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+NCRs	murine NKG2D	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NCs	recoverin	1	1	4	4	0.250000000000	NULL	NULL	11	10	0.022727272727272728
+NCs	hippocalcin	1	1	4	4	0.250000000000	NULL	NULL	3	2	0.08333333333333333
+NCs	Sun's JavaStation	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+ncs	biologically active ncs	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+NCS component	Novell Directory Services	1	1	1	1	1.000000000000	NULL	NULL	24	8	0.041666666666666664
+NCS feature	autonomous access point	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+NCS feature	controller CLI template	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+NCS player	Statoil	1	1	1	1	NULL	NULL	NULL	117	57	0.008547008547008548
+NCS project	Alloria's park	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCSA member	consultant	1	1	4	4	0.333333333333	NULL	NULL	1056	445	0.00023674242424242425
+NCSA member	chief	1	1	4	4	0.333333333333	NULL	NULL	174	118	0.0014367816091954023
+NCSA member	working fire prevention officer	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+NCSA member	fire marshal	1	1	4	4	0.333333333333	NULL	NULL	34	20	0.007352941176470588
+ncsc's service	information service	1	1	3	3	NULL	NULL	NULL	143	85	0.002331002331002331
+ncsc's service	education	1	1	3	3	NULL	NULL	NULL	21642	5033	0.000015402150140159565
+ncsc's service	research	1	1	3	3	NULL	NULL	NULL	3399	1283	0.00009806805923310777
+NCSITE informational material	NCSITE Information Pamphlet	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCSL program	New Visions	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ncsoft's game	Dungeon Runners	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ncsoft's game	Lineage	1	1	4	4	NULL	NULL	NULL	101	66	0.0024752475247524753
+ncsoft's game	Linage series	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ncsoft's game	Guild Wars	1	1	4	4	NULL	NULL	NULL	135	37	0.001851851851851852
+NCSS program	attendance at the Summer Leadership Institute	2	2	5	4	1.000000000000	NULL	NULL	2	1	0.4
+NCSS program	legislative networking	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+NCSS program	submitting nominations for NCSS award	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+NCSS program	nominations for the Programs of Excellence	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+NCSS publication	Curriculum Standards for Social Studies	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncsshavemany attractive advantage	low weight	1	1	2	2	NULL	NULL	NULL	94	48	0.005319148936170213
+ncsshavemany attractive advantage	space	1	1	2	2	NULL	NULL	NULL	2040	725	0.00024509803921568627
+NCT event	coffee morning	1	1	1	1	NULL	NULL	NULL	146	47	0.00684931506849315
+NCTE consultant	Danling Fu	1	1	1	1	NULL	NULL	NULL	1	1	1
+nctions	s for assault	1	1	1	1	NULL	NULL	NULL	1	1	1
+NCTM yearbook	Discrete Mathematics Across the Curriculum K-12	1	1	1	1	NULL	NULL	NULL	1	1	1
+nctvous shock	prolonged anxiety	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+nctvous shock	fright	1	1	2	2	NULL	NULL	NULL	102	51	0.004901960784313725
+ncua's regulation	eligible obligations rule	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ncua-insured credit union retirement account	Individual Retirement Accounts	1	1	1	1	NULL	NULL	NULL	104	42	0.009615384615384616
+ncurological feature	lesion size	1	1	2	2	1.000000000000	NULL	NULL	30	19	0.016666666666666666
+ncurological feature	presence of cerebral atrophy	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NCV condition	depression	1	1	2	2	NULL	NULL	NULL	15330	3151	0.000032615786040443576
+NCV condition	malignancy	1	1	2	2	NULL	NULL	NULL	365	167	0.0013698630136986301
+NCVPS course	journalism	1	1	1	1	0.500000000000	NULL	NULL	774	285	0.0012919896640826874
+NCW enabler	Digital Rosetta Stone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NCW enabler	Blue Force Tracking System	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ncw material	silicon carbide	1	1	1	1	NULL	NULL	NULL	821	328	0.001218026796589525
+NCW process	cooperation	1	1	1	1	NULL	NULL	NULL	1120	444	0.0008928571428571428
+ncwiseowl database	Student Research Center	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NCWMEA event	Solo & Small Ensemble Contest	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncyfundinasafe, liquid account	savings accountormoneymarketfund	1	1	1	1	NULL	NULL	NULL	1	1	1
+ncywherebyfruitful idea	focus group	1	1	1	1	NULL	NULL	NULL	1376	517	0.0007267441860465116

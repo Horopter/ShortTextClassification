@@ -1,0 +1,24 @@
+Xh	estimated position	3	1	5	2	NULL	NULL	NULL	12	2	0.15
+Xh	estimated velocity in the current sample	2	1	5	2	NULL	NULL	NULL	2	1	0.4
+xhosa tribe	Fingo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xhosa tribe	Bhaca	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Xhosas	President Mandela	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+XHTML attribute	class	1	1	1	1	NULL	NULL	NULL	2573	947	0.000388651379712398
+XHTML design tool	validation tool	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+XHTML design tool	text editor	1	1	2	2	NULL	NULL	NULL	179	86	0.002793296089385475
+XHTML feature	mobile phone	1	1	3	3	NULL	NULL	NULL	6991	1839	0.00004768035092738282
+XHTML feature	PDAs	1	1	3	3	NULL	NULL	NULL	3267	824	0.00010203040506070809
+XHTML feature	pager	1	1	3	3	NULL	NULL	NULL	1516	404	0.0002198768689533861
+XHTML formatting tool	bold	1	1	2	3	NULL	NULL	NULL	949	386	0.0005268703898840885
+XHTML formatting tool	paragraph	1	1	2	3	NULL	NULL	NULL	291	156	0.001718213058419244
+XHTML readily-accessible Dublin Core metadata	creator	1	1	3	3	NULL	NULL	NULL	142	74	0.002347417840375587
+XHTML readily-accessible Dublin Core metadata	document title description	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XHTML readily-accessible Dublin Core metadata	date	1	1	3	3	NULL	NULL	NULL	5860	1522	0.00005688282138794084
+XHTML style	color	1	1	1	1	NULL	NULL	NULL	11347	3399	0.00008812902088657794
+XHTML tag	address	2	2	2	1	NULL	NULL	NULL	8879	1453	0.00022525059128280213
+XHTML-compliant web browser	Mozilla Firefox	1	1	1	1	NULL	NULL	NULL	1394	226	0.0007173601147776184
+XHTML-compliant webbrowser	Mozilla Firefox	1	1	1	1	NULL	NULL	NULL	1394	226	0.0007173601147776184
+xhtml-only feature	XML declaration	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+xhtml-only feature	namespaces	1	1	4	4	NULL	NULL	NULL	64	37	0.00390625
+xhtml-only feature	XML CDATA section	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+xhtml-only feature	self-closing non-empty tag	1	1	4	4	NULL	NULL	NULL	1	1	0.25

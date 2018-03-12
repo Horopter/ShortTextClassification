@@ -1,0 +1,28 @@
+XU1 color	Plumdinger Purple	1	1	1	1	NULL	NULL	NULL	1	1	1
+xuanfei huatanzhike drug	balloonflower	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+xuanfei huatanzhike drug	Arctiin	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+xuanfei san evil drug	Gui	1	1	1	1	1.000000000000	NULL	NULL	16	14	0.0625
+xue rengui symptom	Xueding Shan Zheng Xi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xue rengui symptom	Xue Gang Recovery Tang	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XUL element	button	1	1	1	1	NULL	NULL	NULL	4383	1440	0.00022815423226100844
+XUL interface object	toolbars	1	1	2	2	NULL	NULL	NULL	222	118	0.0022522522522522522
+XUL interface object	windows with menu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XUL specific feature	XUL fragment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XUL specific feature	overlay	1	0	2	2	NULL	NULL	NULL	268	148	0.0018656716417910447
+XUL toolkit	SwiXML	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XUL toolkit	Thinlet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XUL widgets	menu	1	1	1	1	NULL	NULL	NULL	1327	581	0.0007535795026375283
+xun zi's disciple	Han Feizi	10	9	20	3	1.000000000000	NULL	NULL	14	3	0.35714285714285715
+xun zi's disciple	Li Si	9	8	20	3	1.000000000000	NULL	NULL	13	3	0.31153846153846154
+xun zi's disciple	Han Feiziand Li Si	1	1	20	3	1.000000000000	NULL	NULL	1	1	0.05
+xUnit framework	NUnit	1	1	2	2	1.000000000000	NULL	NULL	38	24	0.013157894736842105
+xunit framework	open-sourced xunit framework	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+xunit-type tool	JUnit	1	1	2	2	0.500000000000	NULL	NULL	67	36	0.007462686567164179
+xunit-type tool	NUnit	1	1	2	2	0.500000000000	NULL	NULL	38	24	0.013157894736842105
+xunliang animal	cat	1	1	3	3	NULL	NULL	NULL	6578	1177	0.00005067396371744198
+xunliang animal	Roe Deer	1	1	3	3	NULL	NULL	NULL	110	49	0.0030303030303030303
+xunliang animal	rabbit	1	1	3	3	NULL	NULL	NULL	5092	1052	0.00006546216286986121
+xunzi's anti-confucian disciple	Han Feizi	1	1	1	1	1.000000000000	NULL	NULL	14	3	0.07142857142857142
+xunzi's disciple	Han Feizi	3	3	6	2	1.000000000000	NULL	NULL	14	3	0.10714285714285714
+xunzi's disciple	Li Si	3	3	6	2	1.000000000000	NULL	NULL	13	3	0.11538461538461539
+XuRe	FanWeiQi wu peici	1	1	1	1	NULL	NULL	NULL	1	1	1

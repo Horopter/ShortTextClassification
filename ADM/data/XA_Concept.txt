@@ -1,0 +1,139 @@
+XA compliant application	Oracle SOA component	1	1	1	1	NULL	NULL	NULL	1	1	1
+XA compliant database	Oracle	1	1	1	1	NULL	NULL	NULL	4631	1430	0.00021593608291945585
+XA resource	JDBC driver	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+XA resource manager	Oracle8i	2	1	3	2	NULL	NULL	NULL	4	3	0.3333333333333333
+XA resource manager	Oracle	1	1	3	2	NULL	NULL	NULL	4631	1430	0.00007197869430648528
+Xa single octet character	ASCII	1	1	1	1	NULL	NULL	NULL	161	103	0.006211180124223602
+XA-compliant resource manager	Oracle	1	1	1	1	NULL	NULL	NULL	4631	1430	0.00021593608291945585
+xa-enabled relational database	Oracle	1	1	2	2	NULL	NULL	NULL	4631	1430	0.00010796804145972792
+xa-enabled relational database	Informix	1	1	2	2	NULL	NULL	NULL	219	100	0.00228310502283105
+XACML compliant producs	Oracle Entitlement Server	1	1	1	1	NULL	NULL	NULL	1	1	1
+xactly customer	Compellent	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+xactware team	training	1	1	2	2	NULL	NULL	NULL	7685	2537	0.00006506180871828237
+xactware team	support	1	1	2	2	NULL	NULL	NULL	1379	560	0.00036258158085569254
+XAF module	ConditionalFormatting	1	1	1	1	NULL	NULL	NULL	1	1	1
+XAF service	presentation layer	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+xall surface repair	concrete	1	1	1	1	NULL	NULL	NULL	5791	1660	0.0001726817475392851
+xam-pleinsomesystems	one-dimensional resonant tunneling diode	1	1	1	1	NULL	NULL	NULL	1	1	1
+XAML authoring tool	Microsoft Expression Blend	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+xaml document	resource dictionary file	1	1	1	1	NULL	NULL	NULL	1	1	1
+XAML html tag	bold	1	1	1	1	NULL	NULL	NULL	949	386	0.001053740779768177
+XAML related tool	Expression Design	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+XAML related tool	Expression Blend	1	1	2	2	1.000000000000	NULL	NULL	14	5	0.03571428571428571
+XAML resource	style	1	1	1	1	NULL	NULL	NULL	1511	547	0.0006618133686300463
+xanadu's most innovative feature	general-purpose transclusion	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+xanax benzodiezepajns	Alprazolam	1	1	1	1	NULL	NULL	NULL	424	98	0.0023584905660377358
+xanax consultation benzodiezepajns	Alprazolam	1	1	1	1	NULL	NULL	NULL	424	98	0.0023584905660377358
+xanax mixed oxycodone medical product	diazepam	1	1	1	1	NULL	NULL	NULL	1164	255	0.000859106529209622
+xanax side effect	drowsiness	1	1	1	1	NULL	NULL	NULL	1134	267	0.0008818342151675485
+xanax virus infection	common cold	1	1	1	1	NULL	NULL	NULL	1119	242	0.0008936550491510277
+xanboo use industry standard effort	Secure Socket Layers	1	1	2	2	0.500000000000	NULL	NULL	17	9	0.029411764705882353
+xanboo use industry standard effort	firewall	1	1	2	2	0.500000000000	NULL	NULL	2973	1055	0.00016818028927009755
+xanth's significant place	Lake Ogre-Chobee	1	1	1	1	NULL	NULL	NULL	1	1	1
+xanthan gum	Rhodigel 200 available from Rhone Poulenc	1	1	1	1	NULL	NULL	NULL	1	1	1
+xanthan trivalent metal salt	aluminum	1	1	1	1	NULL	NULL	NULL	10290	2216	0.00009718172983479106
+xanthates	sodium isobutyl xanthate	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+xanthates	high-purity pellet xanthates	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xanthene derivative	caffeine	1	1	2	2	NULL	NULL	NULL	3958	796	0.00012632642748863063
+xanthene derivative	theophylline	1	1	2	2	NULL	NULL	NULL	465	131	0.001075268817204301
+xanthene dye	fluorescein	3	3	12	9	0.600000000000	NULL	NULL	357	104	0.0021008403361344537
+xanthene dye	eosin Y	2	2	12	9	0.600000000000	NULL	NULL	9	5	0.037037037037037035
+xanthene dye	certain rhodamine dye	1	1	12	9	0.600000000000	NULL	NULL	1	1	0.08333333333333333
+xanthene dye	phloxine B	1	1	12	9	0.600000000000	NULL	NULL	3	3	0.027777777777777776
+xanthene dye	nonhalogenated xanthene dye	1	1	12	9	0.600000000000	NULL	NULL	2	2	0.041666666666666664
+xanthene dye	erythrosine B	1	1	12	9	0.600000000000	NULL	NULL	2	2	0.041666666666666664
+xanthene dye	Rose Bengal	1	1	12	9	0.600000000000	NULL	NULL	47	25	0.0017730496453900709
+xanthene dye	erythrocin	1	1	12	9	0.600000000000	NULL	NULL	8	5	0.010416666666666666
+xanthene dye	amino derivative xanthene dye	1	1	12	9	0.600000000000	NULL	NULL	2	2	0.041666666666666664
+Xanthene-based fluorophores	fluorescein	1	1	1	1	NULL	NULL	NULL	357	104	0.0028011204481792717
+xanthenes	caffeine	2	2	4	3	0.500000000000	NULL	NULL	3958	796	0.00025265285497726126
+xanthenes	fluoresceins	1	1	4	3	0.500000000000	NULL	NULL	4	7	0.0625
+xanthenes	theophylline	1	1	4	3	0.500000000000	NULL	NULL	465	131	0.0005376344086021505
+xanthin derivative	caffeine	1	1	1	1	NULL	NULL	NULL	3958	796	0.00025265285497726126
+xanthine alkaloid	theobromine	1	1	1	1	NULL	NULL	NULL	117	45	0.008547008547008548
+xanthine antagonist	caffeine	1	1	1	1	NULL	NULL	NULL	3958	796	0.00025265285497726126
+xanthine based adenosine antagonist	caffeine	2	2	2	1	NULL	NULL	NULL	3958	796	0.0005053057099545225
+Xanthine bronchodilators	aminophylline	1	1	1	1	NULL	NULL	NULL	103	37	0.009708737864077669
+xanthine compound	theophylline	3	2	6	4	NULL	NULL	NULL	465	131	0.0032258064516129032
+xanthine compound	caffeine	1	1	6	4	NULL	NULL	NULL	3958	796	0.00004210880916287687
+xanthine compound	known bronchodilator aminophylline	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+xanthine compound	pentoxifylline	1	1	6	4	NULL	NULL	NULL	105	42	0.0015873015873015873
+xanthine derivative	theophylline	9	7	20	6	0.200000000000	NULL	NULL	465	131	0.008709677419354838
+xanthine derivative	caffeine	6	5	20	6	0.200000000000	NULL	NULL	3958	796	0.0004547751389590702
+xanthine derivative	lisofylline	2	2	20	6	0.200000000000	NULL	NULL	5	4	0.04
+xanthine derivative	coffee	1	1	20	6	0.200000000000	NULL	NULL	11509	2489	0.000004344426101312017
+xanthine derivative	tea	1	1	20	6	0.200000000000	NULL	NULL	7608	1710	0.000006572029442691904
+xanthine derivative	chocolate	1	1	20	6	0.200000000000	NULL	NULL	7342	1984	0.000006810133478616182
+xanthine drug	theophylline	1	1	2	2	NULL	NULL	NULL	465	131	0.001075268817204301
+xanthine drug	caffeine	1	1	2	2	NULL	NULL	NULL	3958	796	0.00012632642748863063
+xanthine level	use with caution	1	1	1	1	NULL	NULL	NULL	1	1	1
+xanthine molecule	caffeine	2	2	2	1	NULL	NULL	NULL	3958	796	0.0005053057099545225
+xanthine oxidase inhibitor	allopurinol	10	9	10	1	1.000000000000	NULL	NULL	205	66	0.04878048780487805
+xanthine oxidase inhibitor adverse reaction	somnolence	1	1	1	1	NULL	NULL	NULL	198	78	0.005050505050505051
+xanthine oxidase inhibitor therapy	allopurinol	1	1	1	1	NULL	NULL	NULL	205	66	0.004878048780487805
+xanthine oxidase substrate drug	azathioprine	1	1	2	2	0.500000000000	NULL	NULL	1042	210	0.0004798464491362764
+xanthine oxidase substrate drug	mercaptopurine	1	1	2	2	0.500000000000	NULL	NULL	22	15	0.022727272727272728
+xanthine-containing food	spicy food	2	2	8	4	NULL	NULL	NULL	369	126	0.0013550135501355014
+xanthine-containing food	chocolate	2	2	8	4	NULL	NULL	NULL	7342	1984	0.00006810133478616181
+xanthine-containing food	tea	2	2	8	4	NULL	NULL	NULL	7608	1710	0.00006572029442691903
+xanthine-containing food	coffee	2	2	8	4	NULL	NULL	NULL	11509	2489	0.00004344426101312017
+xanthine-containing plant	coffee	1	1	1	1	NULL	NULL	NULL	11509	2489	0.00008688852202624034
+xanthines	caffeine	19	18	59	10	0.500000000000	NULL	NULL	3958	796	0.0015458928923184968
+xanthines	theophylline	14	13	59	10	0.500000000000	NULL	NULL	465	131	0.007144158921086204
+xanthines	theobromine	9	8	59	10	0.500000000000	NULL	NULL	117	45	0.011734028683181227
+xanthines	aminophylline	7	7	59	10	0.500000000000	NULL	NULL	103	37	0.008063189073556031
+xanthines	dyphylline	4	4	59	10	0.500000000000	NULL	NULL	5	2	0.05423728813559322
+xanthines	cafaminol theophylline	2	2	59	10	0.500000000000	NULL	NULL	2	1	0.03389830508474576
+xanthines	3-isobutyl-1-methylxanthine	1	1	59	10	0.500000000000	NULL	NULL	5	4	0.003389830508474576
+xanthines	aminophylline bamyphylline	1	1	59	10	0.500000000000	NULL	NULL	1	1	0.01694915254237288
+xanthines	extraction process certain methyl-substituted xanthines	1	1	59	10	0.500000000000	NULL	NULL	1	1	0.01694915254237288
+xanthines	intravenous aminophylline	1	1	59	10	0.500000000000	NULL	NULL	14	3	0.0012106537530266344
+xanthohumol hard resin compound	humulinic acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+xanthomas	eruptive xanthoma	1	1	1	1	NULL	NULL	NULL	1	1	1
+xanthomonadaceae member	Stenotrophomonas spp.	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+Xanthones	euxanthone	2	2	2	1	NULL	NULL	NULL	2	1	1
+Xanthophyll carotenoids	astaxanthin	1	1	3	3	NULL	NULL	NULL	81	37	0.004115226337448559
+Xanthophyll carotenoids	zeaxanthin	1	1	3	3	NULL	NULL	NULL	191	54	0.001745200698080279
+Xanthophyll carotenoids	lutein	1	1	3	3	NULL	NULL	NULL	418	121	0.0007974481658692185
+Xanthophyll-containing oleoresin	marigold oleoresin	1	1	1	1	NULL	NULL	NULL	1	1	1
+Xanthophylls	zeaxanthin	14	12	22	5	1.000000000000	NULL	NULL	191	54	0.04664445502141837
+Xanthophylls	astaxanthin	4	4	22	5	1.000000000000	NULL	NULL	81	37	0.008978675645342313
+Xanthophylls	fucoxanthin	2	2	22	5	1.000000000000	NULL	NULL	23	16	0.007905138339920948
+Xanthophylls	astaxanthine	1	1	22	5	1.000000000000	NULL	NULL	3	3	0.015151515151515152
+Xanthophylls	cryptoxanthin	1	1	22	5	1.000000000000	NULL	NULL	10	5	0.004545454545454545
+xany undertaking	trado nuotlngs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xany undertaking	religious endeovors	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xany undertaking	bnsinoss conf uroncee	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xanyparticular semantics	set	2	2	3	2	NULL	NULL	NULL	381	203	0.0034995625546806646
+xanyparticular semantics	ora bag ora FIFO queue	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+xanysemantics	ora bag ora FIFO queue	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xap file	Native Keyboard	1	1	1	1	NULL	NULL	NULL	1	1	1
+XAPI implementation	Apache XIndice	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+XAPI implementation	exist	1	1	3	3	1.000000000000	NULL	NULL	10	7	0.03333333333333333
+XAPI implementation	reference implementation	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+Xapplications	multispectral image	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xara 3D attribute	bevel type	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+xara 3D attribute	texture	1	1	5	5	NULL	NULL	NULL	2287	815	0.00008745080891998251
+xara 3D attribute	extrude depth	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+xara 3D attribute	color	1	1	5	5	NULL	NULL	NULL	11347	3399	0.00001762580417731559
+xara 3D attribute	shadow	1	1	5	5	NULL	NULL	NULL	825	381	0.00024242424242424245
+xara RGB screen color	bright green	1	1	2	2	NULL	NULL	NULL	104	53	0.004807692307692308
+xara RGB screen color	purple	1	1	2	2	NULL	NULL	NULL	2740	728	0.0001824817518248175
+Xara's widgets	Google Maps	2	2	2	1	NULL	NULL	NULL	1092	411	0.0018315018315018315
+xarepre-program variable	gender	1	1	2	2	NULL	NULL	NULL	16818	2908	0.000029730051135687954
+xarepre-program variable	race	1	1	2	2	NULL	NULL	NULL	8280	1787	0.00006038647342995169
+xaresource implementation	IBM MQ Series	2	1	3	2	1.000000000000	NULL	NULL	9	7	0.14814814814814814
+xaresource implementation	WebSphere MQ	1	1	3	2	1.000000000000	NULL	NULL	22	18	0.01515151515151515
+Xasalow-level language	assembly	1	1	1	1	NULL	NULL	NULL	1098	424	0.0009107468123861566
+XAT institute	XIM Bhubhaneswar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XAT institute	GIM Goa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Xaverians	Julian Sullivan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Xaverians	event's media co-ordinator Sunder Subramanian	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xavier great	Byron Larkin	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+xavier great	Dexter Bailey	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+xavier great	Anthony Hicks	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+xavier great	Victor Fleming	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+xavier university's newcomer	Ephraim Dahilan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xavier university's newcomer	Jigger Sabal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xavier university's newcomer	Noel Yaranon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xavier's specific need	use by the university's sports team	1	1	1	1	NULL	NULL	NULL	1	1	1

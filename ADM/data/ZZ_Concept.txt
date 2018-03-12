@@ -1,0 +1,6 @@
+ZZ macroeconomic aggregate	output	1	1	1	1	NULL	NULL	NULL	378	200	0.0026455026455026454
+ZZ top hit	Sharp Dressed Man	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+ZZ top's early album	Tres Hombres	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Zzangs	Zzang of the body	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zzangs	Zzang of the face	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZZO formation method	sputtering	1	1	1	1	NULL	NULL	NULL	693	239	0.001443001443001443

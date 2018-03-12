@@ -1,0 +1,325 @@
+MT	Cytotechnology	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+Mt Bike park	South SeaTac park	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MT binding agent	taxanes	1	1	1	1	NULL	NULL	NULL	204	78	0.004901960784313725
+MT city	Billings Belgrade	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MT city	Kalispell	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+MT component	vesicles from MT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MT component	polysaccharides	1	1	2	2	NULL	NULL	NULL	571	217	0.0008756567425569177
+Mt Crosby Weir Native fish	Australian bass	1	1	1	1	1.000000000000	NULL	NULL	26	15	0.038461538461538464
+MT depolymerizing agent compound	colchicine	1	1	1	1	NULL	NULL	NULL	320	116	0.003125
+MT device	automated guided vehicle	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+mt evaluation -metric	introduction automated mt evaluation -metric	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MT inhibitor	estramustine	1	1	2	2	1.000000000000	NULL	NULL	21	12	0.023809523809523808
+MT inhibitor	nocodazole	1	1	2	2	1.000000000000	NULL	NULL	53	32	0.009433962264150943
+MT initiative	Anglabharati	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MT initiative	C-DAC : Vyakarta MANTRA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MT initiative	NCST Mumbai : MaTra IITs Anusaaraka	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MT isfoundinnormal mammalian tissue	myoepithelial cell	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MT macroscopic property	stretching modulus	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MT macroscopic property	bending stiffness	1	1	3	3	1.000000000000	NULL	NULL	16	13	0.020833333333333332
+MT macroscopic property	bending modulus	1	1	3	3	1.000000000000	NULL	NULL	10	7	0.03333333333333333
+MT plus-end-binding factor	yeast CLIP-170 homologs	1	1	1	1	NULL	NULL	NULL	1	1	1
+MT response function	phase	1	1	2	2	0.333333333333	NULL	NULL	318	157	0.0015723270440251573
+MT response function	impedance	1	1	2	2	0.333333333333	NULL	NULL	190	113	0.002631578947368421
+MT software	Systran Enterprise Language Translation software	1	1	1	1	NULL	NULL	NULL	1	1	1
+MT stabilizer	microtubule-associated protein	2	1	2	1	NULL	NULL	NULL	7	5	0.2857142857142857
+MT strain	HIV Bal	1	1	1	1	NULL	NULL	NULL	1	1	1
+MT system	syntax-based system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MT system	statistical phrase-based	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mt's use quality tool	calibration	1	1	1	1	NULL	NULL	NULL	378	180	0.0026455026455026454
+MT-6 traditional professional school	medicine	1	1	2	2	NULL	NULL	NULL	6368	1503	0.0000785175879396985
+MT-6 traditional professional school	dentistry	1	1	2	2	NULL	NULL	NULL	750	253	0.0006666666666666666
+mt-associated protein	tau	2	2	4	3	1.000000000000	NULL	NULL	71	32	0.014084507042253521
+mt-associated protein	MAP2	1	1	4	3	1.000000000000	NULL	NULL	33	16	0.007575757575757576
+mt-associated protein	MAP4	1	1	4	3	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+mt-based molecular motor	kinesin	3	2	3	1	1.000000000000	NULL	NULL	101	48	0.0297029702970297
+mt-daapd aware software	itunes	1	1	1	1	NULL	NULL	NULL	1829	691	0.0005467468562055768
+mt-damaging drug	stabilizing drug taxol	1	1	1	1	NULL	NULL	NULL	1	1	1
+mt-depolymerizing agent	Colcemid	1	1	1	1	1.000000000000	NULL	NULL	22	13	0.045454545454545456
+mt-destabilizing map	Stathmin	2	2	2	1	1.000000000000	NULL	NULL	12	8	0.16666666666666666
+mt-disrupting drug	nocodazole	1	1	1	1	1.000000000000	NULL	NULL	53	32	0.018867924528301886
+mt-inducing metal	cadmium	1	1	1	1	NULL	NULL	NULL	4180	633	0.00023923444976076556
+mt-interacting protein	collapsin response mediator protein	2	2	3	2	NULL	NULL	NULL	4	2	0.3333333333333333
+mt-interacting protein	MT-associated protein	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+mt-null cell	fibroblasts	1	1	1	1	NULL	NULL	NULL	685	215	0.00145985401459854
+mt-stabilizing agent	dimethyl sulfoxide	1	1	2	2	NULL	NULL	NULL	314	119	0.0015923566878980893
+mt-stabilizing agent	taxol	1	1	2	2	NULL	NULL	NULL	274	124	0.0018248175182481751
+mt. big dance band	Tommy Dorsey	1	1	1	1	NULL	NULL	NULL	57	36	0.017543859649122806
+mt. lebanon parent	Stephanie Fedro-Byrom	1	1	1	1	NULL	NULL	NULL	1	1	1
+mt. lebanon resident	board chairman Ron Hoffman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mt. lebanon resident	board member Tim Johnson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mt. lebanon tradition	Halloween parade	1	1	2	2	1.000000000000	NULL	NULL	47	27	0.010638297872340425
+mt. lebanon tradition	Fourth of July firework	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+mt. pleasant new home community	Rivertown	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mt. rokko animal	wild boar	1	1	1	1	NULL	NULL	NULL	505	162	0.0019801980198019802
+mt. SAC on-campus outreach event	EOPS outreach activity	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mt. SAC on-campus outreach event	high school counselor event	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mt. SAC on-campus outreach event	seniors day	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mt. sinai doctor	Stephen Levin	1	1	1	1	NULL	NULL	NULL	1	1	1
+Mt. Washington guidebook	National Geographic-Trails Illustrated	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Mt. Washington guidebook	AMC White Mountain Guide	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MT5 clean soft metal	zinc	1	1	5	5	NULL	NULL	NULL	8418	1394	0.000023758612497030174
+MT5 clean soft metal	copper	1	1	5	5	NULL	NULL	NULL	15607	2840	0.000012814762606522715
+MT5 clean soft metal	terneplate	1	1	5	5	NULL	NULL	NULL	11	4	0.018181818181818184
+MT5 clean soft metal	lead	1	1	5	5	NULL	NULL	NULL	9600	1602	0.000020833333333333336
+MT5 clean soft metal	tin	1	1	5	5	NULL	NULL	NULL	1966	607	0.00010172939979654121
+MTA	postfix	3	3	10	6	0.750000000000	NULL	NULL	77	50	0.011688311688311687
+MTA	sendmail	3	2	10	6	0.750000000000	NULL	NULL	161	94	0.005590062111801242
+MTA	Exim	1	1	10	6	0.750000000000	NULL	NULL	28	22	0.0035714285714285718
+mta	big commercial mta	1	1	10	6	0.750000000000	NULL	NULL	1	1	0.1
+MTA	qmail	1	1	10	6	0.750000000000	NULL	NULL	37	32	0.002702702702702703
+MTA	exim4	1	1	10	6	0.750000000000	NULL	NULL	3	3	0.03333333333333333
+MTA agency	NYC Transit	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MTA agency	Metro-North Railroad	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+MTA agent	exim	1	1	1	1	1.000000000000	NULL	NULL	28	22	0.03571428571428571
+MTA application	iPlanet Messaging server	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTA application	Microsoft Exchange	1	1	2	2	NULL	NULL	NULL	355	195	0.0014084507042253522
+MTA bus	B67	1	1	2	2	0.250000000000	NULL	NULL	3	3	0.16666666666666666
+MTA bus	B69	1	1	2	2	0.250000000000	NULL	NULL	1	1	0.5
+MTA channel	MTA's multi-threaded SMTP channel	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTA configuration file	imta.cnf file	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTA critic	Aaron Epstein	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTA datum	exit	1	1	1	1	0.500000000000	NULL	NULL	54	40	0.018518518518518517
+MTA initiative	Safe Homes	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MTA program	qmail	2	2	3	2	0.500000000000	NULL	NULL	37	32	0.036036036036036036
+MTA program	sendmail	1	1	3	2	0.500000000000	NULL	NULL	161	94	0.0020703933747412005
+MTA service	Dispatcher	1	1	1	1	NULL	NULL	NULL	67	43	0.014925373134328358
+MTA software	Postfix	1	1	4	4	0.500000000000	NULL	NULL	77	50	0.003246753246753247
+MTA software	Fetch mail	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+MTA software	Exim	1	1	4	4	0.500000000000	NULL	NULL	28	22	0.008928571428571428
+MTA software	Sendmail	1	1	4	4	0.500000000000	NULL	NULL	161	94	0.0015527950310559005
+MTA train	Long Island Railroad	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+MTA train	Metro-North Railroad	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+MTAs	Sendmail	6	6	16	7	0.666666666666	NULL	NULL	161	94	0.013975155279503106
+MTAs	Postfix	4	4	16	7	0.666666666666	NULL	NULL	77	50	0.012987012987012988
+MTAs	Exim	2	2	16	7	0.666666666666	NULL	NULL	28	22	0.008928571428571428
+MTAs	Qmail	1	1	16	7	0.666666666666	NULL	NULL	37	32	0.0016891891891891893
+MTAs	exim4	1	1	16	7	0.666666666666	NULL	NULL	3	3	0.020833333333333332
+mtas	mail transfer application mtas	1	1	16	7	0.666666666666	NULL	NULL	1	1	0.0625
+mtas	free and open source mtas	1	1	16	7	0.666666666666	NULL	NULL	1	1	0.0625
+MTases	DNA adenine methyltransferase	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTB brand	Ellsworth	1	1	2	2	1.000000000000	NULL	NULL	28	17	0.017857142857142856
+MTB brand	KTM	1	1	2	2	1.000000000000	NULL	NULL	62	36	0.008064516129032258
+MTB facility	trail centre	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTB pedal	Shimano SPD	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MTB professional	Alexander Pscheidl	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+MTB professional	team manager	2	1	4	2	1.000000000000	NULL	NULL	24	15	0.041666666666666664
+MTB related offer	BMX Bike	1	1	2	2	0.500000000000	NULL	NULL	13	12	0.038461538461538464
+MTB related offer	Mountain Bike	1	1	2	2	0.500000000000	NULL	NULL	142	98	0.0035211267605633804
+MTB style guard	Crud Catcher	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTB trail centre	Brechfa	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MTB trail centre	Nant yr Arian	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtb-specific protein	ESAT-6 in combination with intracellular cytokine staining	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTBE by-products	TBF	2	1	3	2	1.000000000000	NULL	NULL	9	7	0.14814814814814814
+MTBE by-products	TBA	1	1	3	2	1.000000000000	NULL	NULL	17	13	0.0196078431372549
+MTBE manufacturer	ConocoPhillips	1	1	1	1	NULL	NULL	NULL	359	116	0.002785515320334262
+MTBE source	gasoline storage tank	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+MTBE source	gasoline station	1	1	2	2	NULL	NULL	NULL	90	56	0.005555555555555556
+MTC bus	deluxe bus	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTC device	vending machine	1	1	3	3	NULL	NULL	NULL	351	168	0.0009496676163342829
+MTC device	machine of measuring a water level at a dam	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTC device	MTC devices 202a	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTC investment	Housing Incentive Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTC investment	Transportation for Livable Communities	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTC performer	Jane Menelaus	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+MTC performer	Rhys McConnochie	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MTC performer	David Roberts	1	1	5	5	1.000000000000	NULL	NULL	11	9	0.018181818181818184
+MTC performer	Alison Whyte	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MTC performer	Richard Piper	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MTC project	Telecommunications Transaction Tax Project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTC project	Hotel Intermediary Project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTC student organization	Student Advisory Board	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+MTC student organization	Phi Theta Kappa	1	1	2	2	NULL	NULL	NULL	47	25	0.010638297872340425
+MTC studentorganizations	Phi Theta Kappa	1	1	2	2	NULL	NULL	NULL	47	25	0.010638297872340425
+MTC studentorganizations	Student Advisory Board	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+MTC willworkwith employer	Michelin	1	1	1	1	NULL	NULL	NULL	534	197	0.0018726591760299626
+MTCD configuration parameter	uncertainty areas buffer	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTCES special event	annual golf outing	1	1	2	2	1.000000000000	NULL	NULL	15	11	0.03333333333333333
+MTCES special event	Derby Night	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MTD brand	Troy Bilt	1	1	2	2	1.000000000000	NULL	NULL	20	9	0.025
+MTD brand	White Outdoor	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+MTD lawn mower part	MTD Pulleys	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+MTD lawn mower part	MTD Belts	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+MTD lawn tractor	MTD 134L667F118	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTD-based ROMs	CM7	1	1	1	1	1.000000000000	NULL	NULL	19	10	0.05263157894736842
+mtdna alteration	deletion	1	1	2	2	NULL	NULL	NULL	695	333	0.0007194244604316547
+mtdna alteration	common deletion	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+mtDNA defect	single deletion	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtdna disease	mitochondrial myopathy	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+mtdna fragment	nad 1 intron	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtdna genetic marker	cytochrome b gene	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+mtdna genetic marker	mtDNA control region	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtdna lineage	L0	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+mtdna lineage	african mtdna lineage	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+mtdna modification	point mutation	1	1	1	1	NULL	NULL	NULL	98	53	0.01020408163265306
+mtdna mutation	deletion	1	1	2	2	NULL	NULL	NULL	695	333	0.0007194244604316547
+mtdna mutation	T414G mutation in the mtDNA control region	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtdna typing method	sequencing analysis of multiplexed short PCR product	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTE performance parameter	hysteresis	1	1	2	2	NULL	NULL	NULL	142	84	0.0035211267605633804
+MTE performance parameter	nonlinearity	1	1	2	2	NULL	NULL	NULL	62	38	0.008064516129032258
+mterials	SBPP	1	1	1	1	0.333333333333	NULL	NULL	1	1	1
+MTF case	Christie Lee Littleton's	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTF dark pool	Chi-X Europe's Chi-Delta	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MTF process	meeting	1	1	1	1	NULL	NULL	NULL	1898	768	0.0005268703898840885
+MTF shape datum	size	1	1	2	2	NULL	NULL	NULL	44267	2716	0.00001129509566946032
+MTF shape datum	shape	1	1	2	2	NULL	NULL	NULL	3964	1303	0.00012613521695257316
+MTF share	AIM share	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MTF star	Candis Cayne	3	2	6	2	NULL	NULL	NULL	4	2	0.375
+MTF star	Calpernia Addams	3	2	6	2	NULL	NULL	NULL	5	2	0.3
+MTF target	line	1	1	1	1	NULL	NULL	NULL	1652	716	0.0006053268765133172
+MTFs	Chi-X	7	6	15	6	0.750000000000	NULL	NULL	56	30	0.058333333333333334
+MTFs	Chi-X Europe	3	3	15	6	0.750000000000	NULL	NULL	15	10	0.04000000000000001
+MTFs	LSE's Turquoise	2	2	15	6	0.750000000000	NULL	NULL	2	1	0.13333333333333333
+MTFs	Equiduct	1	1	15	6	0.750000000000	NULL	NULL	3	3	0.022222222222222223
+MTFs	Tripler Army Medical Center	1	1	15	6	0.750000000000	NULL	NULL	3	3	0.022222222222222223
+MTFs	National Naval Medical Center	1	1	15	6	0.750000000000	NULL	NULL	3	3	0.022222222222222223
+MTG senior member	Audrey Lim	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTG senior member	Shivcharan Kaur	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTG senior member	Ravindran	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MTH imperial model	J	1	1	1	1	1.000000000000	NULL	NULL	14	14	0.07142857142857142
+mth's custom engineered product	sea-less canned versions of MTH's turbine product	1	1	1	1	NULL	NULL	NULL	1	1	1
+mthinsideufessentires	Czech Crysting	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTI co-investment program	North Star Alliance	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+mti's communication vehicle	annual report	1	1	3	4	NULL	NULL	NULL	1058	467	0.000315059861373661
+mti's communication vehicle	web site	1	1	3	4	NULL	NULL	NULL	1093	552	0.0003049710277523635
+mti's communication vehicle	media relation	1	1	3	4	NULL	NULL	NULL	128	76	0.0026041666666666665
+MTiters	learned P. Beregssassi	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTJs	MTJs 221	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtk's player	Kristzian Nemeth	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtk's player	Andres Simon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtk's player	Peter Gulacsi	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+MTL region	hippocampus	1	1	2	2	NULL	NULL	NULL	382	100	0.0013089005235602095
+MTL region	amygdala	1	1	2	2	NULL	NULL	NULL	259	77	0.0019305019305019305
+MTL structure	entorhinal cortex	2	2	4	3	0.500000000000	NULL	NULL	24	17	0.041666666666666664
+MTL structure	hippocampus	1	1	4	3	0.500000000000	NULL	NULL	382	100	0.0006544502617801048
+MTL structure	hippoc ampus	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+MTM place	Spiros	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MTM program	Asheville Project	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+MTM-ers	Evening Shade producers Harry Thomason	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTM-specific functionality	address list	1	1	2	2	1.000000000000	NULL	NULL	17	11	0.029411764705882353
+MTM-specific functionality	subject field	1	1	2	2	1.000000000000	NULL	NULL	5	3	0.1
+MTN activation	141 Loyalty Dancers	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtn ski	K2 Kung Fujas	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtn ski	Volkl Bridge	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtn ski	Rossignol S3	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTO proper cultural practice	irrigation	1	1	2	2	NULL	NULL	NULL	1571	697	0.00031826861871419476
+MTO proper cultural practice	pruning	1	1	2	2	NULL	NULL	NULL	708	341	0.0007062146892655367
+mto's asset management tool	Priority Economic Analysis Tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTOCs	centrosome	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+MTOE medical unit	battalion aid station	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtor inhibitor	rapamycin	14	13	30	7	0.714285714285	NULL	NULL	125	63	0.05226666666666666
+mtor inhibitor	everolimus	6	6	30	7	0.714285714285	NULL	NULL	51	26	0.023529411764705885
+mtor inhibitor	CCI-779	4	3	30	7	0.714285714285	NULL	NULL	20	8	0.026666666666666665
+mtor inhibitor	RAD001	3	3	30	7	0.714285714285	NULL	NULL	10	8	0.030000000000000006
+mtor inhibitor	Staurosporine	1	1	30	7	0.714285714285	NULL	NULL	80	35	0.00041666666666666664
+mtor inhibitor	sirolimus	1	1	30	7	0.714285714285	NULL	NULL	140	48	0.0002380952380952381
+mtor inhibitor	rapamycin analog	1	1	30	7	0.714285714285	NULL	NULL	6	4	0.005555555555555556
+mTOR inhibitor s	temsirolimus	2	2	3	2	0.500000000000	NULL	NULL	27	17	0.04938271604938271
+mTOR inhibitor s	everolimus	1	1	3	2	0.500000000000	NULL	NULL	51	26	0.0065359477124183
+mtor-dependent outcome	Akt activity	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mtor-dependent outcome	cellular growth	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+mtor-regulated process	glycolytic activity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtor-regulated process	cell size control	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtorc1 inhibitor	everolimus	1	1	2	2	NULL	NULL	NULL	51	26	0.00980392156862745
+mtorc1 inhibitor	rapamycin analogs temsirolimus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtorinhibition promotesproinflammatory response	IL-12	1	1	2	2	NULL	NULL	NULL	216	74	0.0023148148148148147
+mtorinhibition promotesproinflammatory response	production	1	1	2	2	NULL	NULL	NULL	1725	660	0.0002898550724637681
+mTORinhibitors	temsirolimus andeverolimus	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtos	money transfer organization mtos	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTP case management issue	dispute resolution	1	1	1	1	NULL	NULL	NULL	126	67	0.007936507936507936
+MTP device	Clix	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+MTP memory	flash memory	2	2	4	2	NULL	NULL	NULL	594	246	0.0016835016835016834
+MTP memory	EEPROM	2	2	4	2	NULL	NULL	NULL	145	86	0.006896551724137931
+MTP-aware program	Winamp	1	1	1	1	NULL	NULL	NULL	338	100	0.0029585798816568047
+mtp-enabled device	ZEN Vision W	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTP2 layer function	error checking	1	1	1	1	NULL	NULL	NULL	49	35	0.02040816326530612
+MTPO planning document	current meeting packet	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTPs	fallback	1	1	4	4	1.000000000000	NULL	NULL	8	6	0.03125
+MTPs	Hochberg	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+MTPs	Holm	1	1	4	4	1.000000000000	NULL	NULL	9	8	0.027777777777777776
+MTPs	John Leaf	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+mtrc's project	Tseung Kwan O Extension	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtrc's project	Tsim Sha Tsui Station Extension	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mtrhnnitut rrrtujttrs	Hcasiekness	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+MTRs	Ofcom spure LRIC	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTs	Black Dome	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MTS activity	Brandon seminar	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTS carrier ethernet feature	sub-50 ms protection	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MTS carrier ethernet feature	QinQ	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+MTS carrier ethernet feature	flow classification	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+MTS carrier ethernet feature	QoS	1	1	4	4	NULL	NULL	NULL	263	120	0.0009505703422053232
+MTS centre building chemical	hand soap	1	1	2	2	0.500000000000	NULL	NULL	204	109	0.0024509803921568627
+MTS centre building chemical	cleaning soap	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+MTS device	CMTS	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+MTS drug	taxanes	1	1	2	2	0.500000000000	NULL	NULL	204	78	0.0024509803921568627
+MTS drug	epothilones	1	1	2	2	0.500000000000	NULL	NULL	20	17	0.025
+mts option	SwissTool	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+MTS reagent	2-sulfonatoethyl MTS	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MTS reagent	5-sulfonatopentyl MTS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTS service	free SMSs	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MTS service	staff assistance	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+mts's accounting function	payroll	1	1	2	2	NULL	NULL	NULL	2453	1024	0.00020383204239706482
+mts's accounting function	accounts payable	1	1	2	2	NULL	NULL	NULL	707	340	0.0007072135785007072
+MTT poker pro	Annie Duke	2	2	2	1	1.000000000000	NULL	NULL	43	24	0.046511627906976744
+MTT study rou-tinelyuse immunosuppressant drug	cyclosporine	1	1	1	1	NULL	NULL	NULL	840	205	0.0011904761904761906
+mtt substrate	trimethylamine N-oxide reductase	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTU link	jumbo MTU of the AB	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTU link	CD link	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTU material	acrylic	1	1	2	2	NULL	NULL	NULL	2269	706	0.00022036139268400177
+MTU material	polystyrene	1	1	2	2	NULL	NULL	NULL	1417	538	0.00035285815102328866
+MTV act	Alarm	1	1	4	4	0.600000000000	NULL	NULL	1762	665	0.00014188422247446084
+MTV act	Flock of Seagulls	1	1	4	4	0.600000000000	NULL	NULL	14	8	0.017857142857142856
+MTV act	Berlin	1	1	4	4	0.600000000000	NULL	NULL	922	273	0.00027114967462039046
+MTV act	Thomas Dolby	1	1	4	4	0.600000000000	NULL	NULL	15	11	0.016666666666666666
+MTV artist	Pack	1	1	2	2	0.500000000000	NULL	NULL	111	64	0.0045045045045045045
+MTV artist	Tyga	1	1	2	2	0.500000000000	NULL	NULL	28	15	0.017857142857142856
+MTV award	Best Villain	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MTV award	Best Male Performance	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+MTV celebs	Bill Bellamy	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+MTV centric apps	MTV News App	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTV icon	Pharrell Williams	1	1	1	1	NULL	NULL	NULL	63	25	0.015873015873015872
+MTV networks's business operation	Finance	1	1	3	3	NULL	NULL	NULL	7520	2058	0.00004432624113475177
+MTV networks's business operation	Broadcast Services	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MTV networks's business operation	Productions Europe	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTV program	Hills	1	1	1	1	NULL	NULL	NULL	131	75	0.007633587786259542
+MTV show	Hills	2	2	18	13	0.714285714285	NULL	NULL	131	75	0.0016963528413910093
+MTV show	Real World	2	1	18	13	0.714285714285	NULL	NULL	81	33	0.0027434842249657062
+MTV show	Butt-head	2	2	18	13	0.714285714285	NULL	NULL	2	1	0.1111111111111111
+MTV show	Laguna Beach	2	1	18	13	0.714285714285	NULL	NULL	89	52	0.0024968789013732834
+MTV show	Beavis	2	2	18	13	0.714285714285	NULL	NULL	9	7	0.024691358024691357
+MTV show	Total Request Live	1	1	18	13	0.714285714285	NULL	NULL	3	3	0.018518518518518517
+mtv show	mindless mtv show	1	1	18	13	0.714285714285	NULL	NULL	2	2	0.027777777777777776
+MTV show	MTV Diary	1	1	18	13	0.714285714285	NULL	NULL	1	1	0.05555555555555555
+MTV show	Jersey Shore	1	1	18	13	0.714285714285	NULL	NULL	80	37	0.0006944444444444444
+mtv show	vintage mtv show	1	1	18	13	0.714285714285	NULL	NULL	2	2	0.027777777777777776
+MTV show	City	1	1	18	13	0.714285714285	NULL	NULL	3651	1059	0.000015216531239538634
+MTV show	Road Rules	1	1	18	13	0.714285714285	NULL	NULL	6	5	0.009259259259259259
+MTV show	MTV Total Britney Live	1	1	18	13	0.714285714285	NULL	NULL	1	1	0.05555555555555555
+MTV video award reviewer	People Magazine Senior Editor Julie Dam	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTV video music award	Best Group Video	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MTV video music award	Best Video	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+MTV video music award	Viewers Choice	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mtv's animated show	Liquid Television	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtv's international long-form program	MTV Brand New	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+mtv's international long-form program	MTV Hip Hop	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+mtv's major advertiser	Domino's Pizza	1	1	2	2	NULL	NULL	NULL	219	69	0.00228310502283105
+mtv's major advertiser	Dell	1	1	2	2	NULL	NULL	NULL	6439	1426	0.00007765180928715639
+mtv's overseas operation	MTV Japan	2	2	4	2	NULL	NULL	NULL	5	4	0.2
+mtv's overseas operation	MTV Latino	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+mtv's style category	best new comer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtv's style category	best couple	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtv's style category	best soundtrack	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mtv-generation contest	X-Games	1	1	1	1	1.000000000000	NULL	NULL	20	13	0.05
+MTV-inspired dreck	13 Ghosts	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MTW activity	resident case management	1	1	1	1	NULL	NULL	NULL	1	1	1
+MTWD feature	Lord's Pub Guide	1	1	1	1	NULL	NULL	NULL	1	1	1
+mtx side effect	mouth sore	1	1	1	1	NULL	NULL	NULL	91	35	0.01098901098901099
+mtx-related side effect	stomatitis	2	2	14	8	0.250000000000	NULL	NULL	72	44	0.003968253968253968
+mtx-related side effect	pharyngitis	2	2	14	8	0.250000000000	NULL	NULL	153	82	0.0018674136321195143
+mtx-related side effect	leukopenia	2	2	14	8	0.250000000000	NULL	NULL	115	68	0.0024844720496894407
+mtx-related side effect	gastrointestinal upset	2	2	14	8	0.250000000000	NULL	NULL	71	35	0.004024144869215291
+mtx-related side effect	thrombocytopenia	2	2	14	8	0.250000000000	NULL	NULL	357	155	0.0008003201280512204
+mtx-related side effect	conjunctivitis	2	2	14	8	0.250000000000	NULL	NULL	409	163	0.0006985679357317499
+mtx-related side effect	vomiting	1	1	14	8	0.250000000000	NULL	NULL	5583	1025	0.000012793940789642026
+mtx-related side effect	nausea	1	1	14	8	0.250000000000	NULL	NULL	10577	1695	0.000006753197639082105
+MTX75-equipped vehicle	Focus	1	1	1	1	NULL	NULL	NULL	844	385	0.001184834123222749

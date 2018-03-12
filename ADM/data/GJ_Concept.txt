@@ -1,0 +1,3 @@
+GJIM transaction	funds transfer	1	1	3	3	NULL	NULL	NULL	101	38	0.0033003300330033
+GJIM transaction	interdepartmental invoice	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+GJIM transaction	expenditure transfer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

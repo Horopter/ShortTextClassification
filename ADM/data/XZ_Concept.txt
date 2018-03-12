@@ -1,0 +1,2 @@
+XZ depositor produce item	angel kiss	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+XZ depositor produce item	snow ball	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456

@@ -1,0 +1,26 @@
+YTD high beta name	Lamprell	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+YTD high beta name	CGGVeritas	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+ything	announcement	1	1	3	3	NULL	NULL	NULL	336	186	0.000992063492063492
+ything	promotion	1	1	3	3	NULL	NULL	NULL	2086	789	0.00015979546180888463
+ything	new	1	1	3	3	NULL	NULL	NULL	1979	778	0.00016843523665150748
+ytical abstract	Value Cards	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+YTL hotel	Tanjung Jara Resort	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ytll's project	Lake Edge in Puchong	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+ytll's SHARE PRICE CHART project	Lake Edge in Puchong	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ytocompute statistic	expectation	1	1	2	2	NULL	NULL	NULL	363	153	0.0013774104683195593
+ytocompute statistic	variance	1	1	2	2	NULL	NULL	NULL	525	261	0.0009523809523809524
+ytodosofor financial incentive	coupon	1	1	1	1	NULL	NULL	NULL	777	350	0.001287001287001287
+ytoprotective agent	sucralfate	1	1	1	1	NULL	NULL	NULL	78	33	0.01282051282051282
+Ytrail website access information	date	1	1	1	1	NULL	NULL	NULL	5860	1522	0.00017064846416382253
+ytsara spa wellness programme	Siamese Retreat	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ytsara spa wellness programme	Pure Bliss	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+yttrium compound	sulfate	1	1	5	6	NULL	NULL	NULL	1194	460	0.00016750418760469013
+yttrium compound	nitrate	1	1	5	6	NULL	NULL	NULL	2341	763	0.00008543357539513029
+yttrium compound	hydroxide	1	1	5	6	NULL	NULL	NULL	248	111	0.0008064516129032258
+yttrium compound	chloride	1	1	5	6	NULL	NULL	NULL	1809	576	0.0001105583195135434
+yttrium compound	acetate	1	1	5	6	NULL	NULL	NULL	950	396	0.0002105263157894737
+yttrium-aluminum-garnet laser	erbium YAG laser	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+yttrium-aluminum-garnet laser	neodimium YAG	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yttrium-aluminum-garnet laser	horonium YAG	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+YTY industry's glove	Nitrile	1	1	1	1	NULL	NULL	NULL	241	99	0.004149377593360996
+YTY Industry's glove s	Nitrile	1	1	1	1	NULL	NULL	NULL	241	99	0.004149377593360996

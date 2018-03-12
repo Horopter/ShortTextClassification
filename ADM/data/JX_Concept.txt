@@ -1,0 +1,14 @@
+JXTA message	query	1	1	2	2	NULL	NULL	NULL	342	190	0.0014619883040935672
+JXTA message	response	1	1	2	2	NULL	NULL	NULL	180	111	0.002777777777777778
+JXTA security component	SSLEngine secure pipe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JXTA security component	signed advertisement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JXTA service	discovery service	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+JXTA service	pipe service	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JXTA-C shell command	talk	1	1	4	4	NULL	NULL	NULL	386	178	0.0006476683937823834
+JXTA-C shell command	peer	1	1	4	4	NULL	NULL	NULL	289	140	0.0008650519031141869
+JXTA-C shell command	whoami	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+JXTA-C shell command	group	1	1	4	4	NULL	NULL	NULL	1049	514	0.00023832221163012392
+jxta-cshell command	group	1	1	4	4	NULL	NULL	NULL	1049	514	0.00023832221163012392
+jxta-cshell command	whoami	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+jxta-cshell command	talk	1	1	4	4	NULL	NULL	NULL	386	178	0.0006476683937823834
+jxta-cshell command	peer	1	1	4	4	NULL	NULL	NULL	289	140	0.0008650519031141869

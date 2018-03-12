@@ -1,0 +1,400 @@
+Yi	Dai across China Land	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yi aromatization	use of nitrite	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yi's PE's	Hyperdunk for the Olympics	1	1	1	1	NULL	NULL	NULL	1	1	1
+YIACS intervention	counselling	1	1	1	1	NULL	NULL	NULL	1080	339	0.000925925925925926
+yicld-related factor	berry si7x andclusterwcight	1	1	1	1	NULL	NULL	NULL	1	1	1
+YIDA financial inducement	exemptions from sales tax	1	1	1	1	NULL	NULL	NULL	1	1	1
+yidam practice	Chenrezig	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+yidams	Hevajra	3	3	5	3	1.000000000000	NULL	NULL	12	8	0.15
+yidams	White Mahakala	1	1	5	3	1.000000000000	NULL	NULL	1	1	0.2
+yidams	Vajrasattva	1	1	5	3	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+yiddish author	Sholem Aleichem	1	1	2	2	1.000000000000	NULL	NULL	14	11	0.03571428571428571
+yiddish author	Peretz	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+yiddish community	Monsey	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+yiddish community	Crown Heights	1	1	2	2	1.000000000000	NULL	NULL	16	7	0.03125
+yiddish critic	Avrom Abtshuk of the proletarian school	1	1	1	1	NULL	NULL	NULL	1	1	1
+yiddish cultural organization	Sholem Aleichem Folk Institute	1	1	1	1	NULL	NULL	NULL	1	1	1
+yiddish language feature	Yiddish pronunciation rule	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yiddish language feature	Yiddish alphabet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yiddish language feature	Yiddish grammar	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yiddish language planner	Max Weinreich	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yiddish literary luminary	Mendele Moykher-Sforim	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+yiddish magazine	Di Post	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yiddish magazine	Radomer Sztyme	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yiddish magazine	Mazowszer Wort	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yiddish magazine	Piotrkow Jidisze Sztyme	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yiddish magazine	Unzer Jiddisze Sztyme	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yiddish newspaper	Forward	2	2	3	2	NULL	NULL	NULL	115	82	0.011594202898550725
+yiddish newspaper	Jewish Daily Forward	1	1	3	2	NULL	NULL	NULL	5	4	0.06666666666666667
+yiddish or slavic language	Russian	1	1	1	1	NULL	NULL	NULL	1005	282	0.0009950248756218905
+yiddish player	Molly Picon	3	3	3	1	1.000000000000	NULL	NULL	12	8	0.25
+yiddish poet	Avrom Sutzkever	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yiddish poet	fought in the resistance against the Nazis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yiddish scholar	Hugh Denman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yiddish scholar	Dovid Katz	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yiddish term	schnorrer	1	1	1	1	NULL	NULL	NULL	1	1	1
+yiddish word	schmaltz	5	5	18	7	NULL	NULL	NULL	6	2	0.23148148148148148
+yiddish word	chutzpah	5	5	18	7	NULL	NULL	NULL	10	5	0.1388888888888889
+yiddish word	schlep	4	4	18	7	NULL	NULL	NULL	6	3	0.14814814814814814
+yiddish word	schlep with phrases from the Ojibwe language	1	1	18	7	NULL	NULL	NULL	1	1	0.05555555555555555
+yiddish word	mensch	1	1	18	7	NULL	NULL	NULL	5	5	0.01111111111111111
+yiddish word	kvetch	1	1	18	7	NULL	NULL	NULL	2	2	0.027777777777777776
+yiddish word	shayn	1	1	18	7	NULL	NULL	NULL	1	1	0.05555555555555555
+yiddish writer	Peretz	1	1	8	8	1.000000000000	NULL	NULL	7	6	0.017857142857142856
+yiddish writer	Sholem Asch	1	1	8	8	1.000000000000	NULL	NULL	4	3	0.03125
+yiddish writer	Sholem Aleichem	1	1	8	8	1.000000000000	NULL	NULL	14	11	0.008928571428571428
+yiddish writer	great yiddish writer	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+yiddish writer	Hirsh Osherovich	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+yiddish writer	Rachel Baumvol	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+yiddish writer	Meir Kharats	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+yiddish writer	Mendele	1	1	8	8	1.000000000000	NULL	NULL	4	4	0.03125
+Yiddish-Hebrew double name	Menachem Mendel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yiddish-Hebrew double name	Tzvi Hirsh	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yiddish-Hebrew double name	Dov Ber	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yiddishpiel hit	Comedy of the Year	1	1	1	1	NULL	NULL	NULL	1	1	1
+yield	egg	1	1	15	15	NULL	NULL	NULL	9254	1960	0.000007204091924212953
+yield	medicine	1	1	15	15	NULL	NULL	NULL	6368	1503	0.000010469011725293133
+yield	wiring resistance yield	1	1	15	15	NULL	NULL	NULL	1	1	0.06666666666666667
+yield	serving fuss	1	1	15	15	NULL	NULL	NULL	1	1	0.06666666666666667
+yield	corn	1	1	15	15	NULL	NULL	NULL	11029	2454	0.00000604467011212863
+yield	food	1	1	15	15	NULL	NULL	NULL	18353	4439	0.0000036324669899562286
+yield	peripheral bond yield	1	1	15	15	NULL	NULL	NULL	2	2	0.03333333333333333
+yield	supplement	1	1	15	15	NULL	NULL	NULL	425	201	0.00015686274509803922
+yield	sustainable target yield	1	1	15	15	NULL	NULL	NULL	1	1	0.06666666666666667
+yield	family living amount of inputs used	1	1	15	15	NULL	NULL	NULL	1	1	0.06666666666666667
+yield	labor	1	1	15	15	NULL	NULL	NULL	2579	832	0.000025849812588858732
+yield	tax	1	1	15	15	NULL	NULL	NULL	5258	1534	0.000012679092177000126
+yield	soy	1	1	15	15	NULL	NULL	NULL	2533	796	0.000026319252533228056
+yield	meat	1	1	15	15	NULL	NULL	NULL	9410	1886	0.000007084661707403472
+yield	milk	1	1	15	15	NULL	NULL	NULL	11681	2213	0.000005707273920611819
+yield alchemy ingredient	hawk beak	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield alchemy ingredient	hawk feather	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yield alternative	master limited partnership	2	2	5	4	1.000000000000	NULL	NULL	11	8	0.07272727272727274
+yield alternative	high-dividend-paying stock	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+yield alternative	high dividend yield paying stock	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+yield alternative	REIT	1	1	5	4	1.000000000000	NULL	NULL	11	12	0.018181818181818184
+yield asset	mortgage	1	1	1	1	NULL	NULL	NULL	3229	997	0.0003096934035305048
+yield attribute	girth	1	1	11	11	0.800000000000	NULL	NULL	38	24	0.0023923444976076554
+yield attribute	test weight	1	1	11	11	0.800000000000	NULL	NULL	38	26	0.0023923444976076554
+yield attribute	plant height	1	1	11	11	0.800000000000	NULL	NULL	364	131	0.00024975024975024975
+yield attribute	pupation rate	1	1	11	11	0.800000000000	NULL	NULL	2	2	0.045454545454545456
+yield attribute	head diameter	1	1	11	11	0.800000000000	NULL	NULL	8	7	0.011363636363636364
+yield attribute	effective tiller	1	1	11	11	0.800000000000	NULL	NULL	2	2	0.045454545454545456
+yield attribute	panicle weight	1	1	11	11	0.800000000000	NULL	NULL	2	2	0.045454545454545456
+yield attribute	number of pods per plant	1	1	11	11	0.800000000000	NULL	NULL	11	8	0.008264462809917356
+yield attribute	number of grains per panicle	1	1	11	11	0.800000000000	NULL	NULL	1	1	0.09090909090909091
+yield attribute	single head weight	1	1	11	11	0.800000000000	NULL	NULL	1	1	0.09090909090909091
+yield attribute	number of filled seeds per plant	1	1	11	11	0.800000000000	NULL	NULL	1	1	0.09090909090909091
+yield component	grain number	3	3	66	53	0.636363636363	NULL	NULL	6	3	0.022727272727272724
+yield component	1000-grain weight	3	2	66	53	0.636363636363	NULL	NULL	7	5	0.01948051948051948
+yield component	cob length	3	3	66	53	0.636363636363	NULL	NULL	4	2	0.03409090909090909
+yield component	cob diameter	2	2	66	53	0.636363636363	NULL	NULL	3	2	0.020202020202020204
+yield component	spikelets per panicle	2	2	66	53	0.636363636363	NULL	NULL	3	2	0.020202020202020204
+yield component	panicle number	2	2	66	53	0.636363636363	NULL	NULL	2	1	0.030303030303030304
+yield component	grain-filling percentage	2	2	66	53	0.636363636363	NULL	NULL	2	1	0.030303030303030304
+yield component	number of spikelets per spike	2	2	66	53	0.636363636363	NULL	NULL	6	4	0.010101010101010102
+yield component	plant height	2	2	66	53	0.636363636363	NULL	NULL	364	131	0.0001665001665001665
+yield component	numbers of branch	2	1	66	53	0.636363636363	NULL	NULL	2	1	0.030303030303030304
+yield component	height	1	1	66	53	0.636363636363	NULL	NULL	4847	1409	0.000003125957324430607
+yield component	effective tiller	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	number of plants per square meter	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of pods per plant	1	1	66	53	0.636363636363	NULL	NULL	11	8	0.0013774104683195593
+yield component	number of seeds per head	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of seeds pod-1	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	pod number	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	stem diameter	1	1	66	53	0.636363636363	NULL	NULL	44	29	0.0003443526170798898
+yield component	spikelet number	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	flower dry weight	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	ear length	1	1	66	53	0.636363636363	NULL	NULL	18	16	0.0008417508417508418
+yield component	capsules per plant	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	lint percentage	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	individual grain weight	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	marketable fruit weight	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of rows cob-1	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of grains per ear	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	number of cobs per plant	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	single tuber weight	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	head number	1	1	66	53	0.636363636363	NULL	NULL	7	6	0.0021645021645021645
+yield component	kernel number	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	kernel weight	1	1	66	53	0.636363636363	NULL	NULL	12	9	0.0012626262626262627
+yield component	cob weight	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	spike grain nunmber	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	spike length	1	1	66	53	0.636363636363	NULL	NULL	8	7	0.001893939393939394
+yield component	total number of boll	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	total grain yield	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of ear	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of bolls per plant	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	weight of boll	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	tiller number	1	1	66	53	0.636363636363	NULL	NULL	13	11	0.0011655011655011655
+yield component	tuber yield	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	tuber number	1	1	66	53	0.636363636363	NULL	NULL	3	3	0.005050505050505051
+yield component	total fresh cob yield	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	ear diameter	1	1	66	53	0.636363636363	NULL	NULL	3	3	0.005050505050505051
+yield component	grain weight per ear	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	boll weight	1	1	66	53	0.636363636363	NULL	NULL	3	2	0.005050505050505051
+yield component	fresh weight of panicles	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of grains per spicklet	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	number of grains cob-1	1	1	66	53	0.636363636363	NULL	NULL	1	1	0.015151515151515152
+yield component	yield component yield component	1	1	66	53	0.636363636363	NULL	NULL	2	2	0.007575757575757576
+yield component	weight	1	1	66	53	0.636363636363	NULL	NULL	8102	1947	0.0000018700956740946867
+yield component	seed number	1	1	66	53	0.636363636363	NULL	NULL	10	8	0.0015151515151515152
+yield concrete result	better customer service	2	2	4	2	1.000000000000	NULL	NULL	21	15	0.047619047619047616
+yield concrete result	increased productivity	2	2	4	2	1.000000000000	NULL	NULL	133	64	0.007518796992481203
+yield criterion	Shima	2	2	10	8	0.500000000000	NULL	NULL	7	4	0.05714285714285715
+yield criterion	Hoffman	2	2	10	8	0.500000000000	NULL	NULL	55	41	0.007272727272727273
+yield criterion	Von Mises isotropic yield function	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+yield criterion	modified von Mises	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+yield criterion	von Mises yield	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+yield criterion	pressure sensitive yield criterion	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+yield criterion	modifi ed von Mises	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+yield criterion	Tresca	1	1	10	8	0.500000000000	NULL	NULL	4	4	0.025
+yield currency	Australian	1	1	3	3	NULL	NULL	NULL	272	116	0.0012254901960784314
+yield currency	Aussie	1	1	3	3	NULL	NULL	NULL	54	37	0.006172839506172839
+yield currency	Kiwi	1	1	3	3	NULL	NULL	NULL	1146	299	0.00029086678301337986
+yield curve	Treasury curve	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield curve	standard swap curve	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield curve flattener trade	interest rate swap	1	0	1	1	NULL	NULL	NULL	379	103	0.002638522427440633
+yield curve variable	slope	1	1	2	2	NULL	NULL	NULL	1694	609	0.00029515938606847696
+yield curve variable	spot-forward spread	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield determinant	208 Po	1	1	1	1	NULL	NULL	NULL	1	1	1
+yield enhancing technology	mulching	1	1	1	1	NULL	NULL	NULL	541	261	0.0018484288354898336
+yield function climate variable	rainfall	1	1	1	1	NULL	NULL	NULL	1573	499	0.0006357279084551812
+yield investment	real estate property	1	1	1	1	1.000000000000	NULL	NULL	30	28	0.03333333333333333
+yield large-cap value strategy	Dogs of the Dow	1	0	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+yield level indicator	remotely-sensed estimations of crop biomass	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+yield market	Canada	1	1	2	2	NULL	NULL	NULL	14882	1900	0.000033597634726515254
+yield market	Australia	1	1	2	2	NULL	NULL	NULL	16600	2128	0.000030120481927710842
+yield nuclear explosion	1kt bomb	1	1	1	1	NULL	NULL	NULL	1	1	1
+yield related character	1000 seed weight	1	1	5	5	0.600000000000	NULL	NULL	3	2	0.06666666666666667
+yield related character	pod width	1	1	5	5	0.600000000000	NULL	NULL	2	2	0.1
+yield related character	number of pods per plant	1	1	5	5	0.600000000000	NULL	NULL	11	8	0.018181818181818184
+yield related character	plant height	1	1	5	5	0.600000000000	NULL	NULL	364	131	0.0005494505494505495
+yield related character	pod length	1	1	5	5	0.600000000000	NULL	NULL	12	8	0.016666666666666666
+yield related component	pod length	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+yield related component	100 seed weight	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+yield security	mortgage REITs	2	1	4	2	1.000000000000	NULL	NULL	7	5	0.14285714285714285
+yield security	energy MLPs	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+yield trait	core length	1	1	9	9	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+yield trait	grain yield	1	1	9	9	0.500000000000	NULL	NULL	46	27	0.0024154589371980675
+yield trait	productivity	1	1	9	9	0.500000000000	NULL	NULL	1123	481	0.00009894132779261898
+yield trait	weight	1	1	9	9	0.500000000000	NULL	NULL	8102	1947	0.000013714034943361035
+yield trait	carcass weight	1	1	9	9	0.500000000000	NULL	NULL	18	12	0.006172839506172839
+yield trait	grain number	1	1	9	9	0.500000000000	NULL	NULL	6	3	0.018518518518518517
+yield trait	lean meat yield	1	1	9	9	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+yield trait	panicle length	1	1	9	9	0.500000000000	NULL	NULL	8	8	0.013888888888888888
+yield trait	plant height	1	1	9	9	0.500000000000	NULL	NULL	364	131	0.00030525030525030525
+yield transistor	MOSFET	1	1	1	1	NULL	NULL	NULL	69	67	0.014492753623188406
+yield variable	dividend price ratio	2	1	4	3	NULL	NULL	NULL	3	2	0.3333333333333333
+yield variable	sum of the first	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+yield variable	boll retention in the first	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+yield variance	gauge variances with steel	1	1	1	1	NULL	NULL	NULL	1	1	1
+yield-based insurance policy	Actual Production History	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+yield-based parameter	stomatal characteristic	1	1	5	5	0.666666666666	NULL	NULL	2	2	0.1
+yield-based parameter	stomatal conductance	1	1	5	5	0.666666666666	NULL	NULL	45	26	0.0044444444444444444
+yield-based parameter	water use efficiency	1	1	5	5	0.666666666666	NULL	NULL	32	25	0.00625
+yield-based parameter	transpiration	1	1	5	5	0.666666666666	NULL	NULL	82	50	0.0024390243902439024
+yield-based parameter	photosynthesis rate	1	1	5	5	0.666666666666	NULL	NULL	5	5	0.04
+yield-based policy	income protection insurance	1	1	2	2	1.000000000000	NULL	NULL	24	17	0.020833333333333332
+yield-based policy	multi- peril crop insurance	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yield-contributing character	fruit weight	1	1	1	1	1.000000000000	NULL	NULL	34	23	0.029411764705882353
+yield-enhancing input	fertilizer	1	1	2	2	NULL	NULL	NULL	3071	945	0.00016281341582546403
+yield-enhancing input	purchased labor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield-enhancing technique	Optical Proximity Correction	1	1	2	2	0.500000000000	NULL	NULL	62	26	0.008064516129032258
+yield-enhancing technique	Design for Manufacturing	1	1	2	2	0.500000000000	NULL	NULL	41	24	0.012195121951219513
+yield-enhancing technology	hybrid seed	2	1	4	2	1.000000000000	NULL	NULL	31	24	0.03225806451612903
+yield-enhancing technology	mechanization	2	1	4	2	1.000000000000	NULL	NULL	28	23	0.03571428571428571
+yield-increasing input	improved seed variety	1	1	3	3	0.500000000000	NULL	NULL	9	6	0.037037037037037035
+yield-increasing input	chemical	1	1	3	3	0.500000000000	NULL	NULL	5436	1619	0.0000613195977434388
+yield-increasing input	drives up costs of land	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yield-increasing technology	improved seed	2	2	5	4	0.500000000000	NULL	NULL	70	28	0.011428571428571429
+yield-increasing technology	pesticide	1	1	5	4	0.500000000000	NULL	NULL	4878	1151	0.00004100041000410004
+yield-increasing technology	new variety	1	1	5	4	0.500000000000	NULL	NULL	10	7	0.02
+yield-increasing technology	fertilizer	1	1	5	4	0.500000000000	NULL	NULL	3071	945	0.00006512536633018561
+yield-limiting factors	excessive tillage	2	2	4	2	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+yield-limiting factors	dependence on technology	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+yield-limiting foliar disease	northern corn leaf blight	1	1	3	3	1.000000000000	NULL	NULL	16	6	0.020833333333333332
+yield-limiting foliar disease	anthracnose leaf blight	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yield-limiting foliar disease	gray leaf spot	1	1	3	3	1.000000000000	NULL	NULL	51	12	0.0065359477124183
+yield-loss mechanism	random defect	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield-loss mechanism	within-die process variation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yield-related factor	boll retention percentage	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yield-related factor	boll number	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yield-related factor	flower production	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+yield-related variable	number of pods per plant	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+yield-responsive variety	Traill	1	1	1	1	NULL	NULL	NULL	1	1	1
+yield-surface parameter	h 0	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+yieldable material	polymer	1	1	3	3	NULL	NULL	NULL	1622	629	0.0002055076037813399
+yieldable material	liquid	1	1	3	3	NULL	NULL	NULL	1066	434	0.00031269543464665416
+yieldable material	rubber	1	1	3	3	NULL	NULL	NULL	4143	1304	0.00008045699573577922
+yieldable mean	leaf spring	1	1	1	1	NULL	NULL	NULL	136	76	0.007352941176470588
+yieldable object	elastomeric material	1	1	2	2	0.666666666666	NULL	NULL	19	15	0.02631578947368421
+yieldable object	rubber	1	1	2	2	0.666666666666	NULL	NULL	4143	1304	0.00012068549360366884
+yieldable or resilient mean	strap-spring 657	1	1	1	1	NULL	NULL	NULL	1	1	1
+yieldable solid plastic sheet	polystyrene	1	1	2	2	NULL	NULL	NULL	1417	538	0.00035285815102328866
+yieldable solid plastic sheet	polypropylene	1	1	2	2	NULL	NULL	NULL	3078	933	0.00016244314489928524
+yieldable substance	silicone rubber	1	1	1	1	NULL	NULL	NULL	296	156	0.0033783783783783786
+yielders	Hungary	1	1	6	6	0.166666666666	NULL	NULL	2851	449	0.000058459020226820995
+yielders	Brazil	1	1	6	6	0.166666666666	NULL	NULL	12719	1532	0.000013103755536336714
+yielders	Prospect Capital	1	1	6	6	0.166666666666	NULL	NULL	1	1	0.16666666666666666
+yielders	Apollo Investment	1	1	6	6	0.166666666666	NULL	NULL	2	2	0.08333333333333333
+yielders	Turkey	1	1	6	6	0.166666666666	NULL	NULL	7587	1715	0.000021967400377839286
+yielders	Colombia	1	1	6	6	0.166666666666	NULL	NULL	2272	330	0.00007335680751173709
+yielding asset	equity REITs	3	3	14	7	0.333333333333	NULL	NULL	5	3	0.12857142857142856
+yielding asset	utility	3	3	14	7	0.333333333333	NULL	NULL	5186	1541	0.00012396011239050188
+yielding asset	S & P 500	2	2	14	7	0.333333333333	NULL	NULL	9	6	0.031746031746031744
+yielding asset	bond	2	1	14	7	0.333333333333	NULL	NULL	4385	908	0.00006515719172503664
+yielding asset	equity	2	2	14	7	0.333333333333	NULL	NULL	1378	476	0.0002073398299813394
+yielding asset	S&P 500	1	1	14	7	0.333333333333	NULL	NULL	313	105	0.00022820629849383843
+yielding asset	Japanese Yen	1	1	14	7	0.333333333333	NULL	NULL	91	34	0.0007849293563579277
+yielding cheese	Mozzarella	1	1	1	1	NULL	NULL	NULL	440	178	0.0022727272727272726
+yielding country	Venezuela	1	1	3	3	NULL	NULL	NULL	1885	371	0.00017683465959328028
+yielding country	Argentina	1	1	3	3	NULL	NULL	NULL	4312	655	0.00007730364873222015
+yielding country	Ukraine	1	1	3	3	NULL	NULL	NULL	1691	356	0.00019712201852946972
+yielding currency	Australian dollar	6	4	24	14	0.583333333333	NULL	NULL	179	45	0.008379888268156424
+yielding currency	Australian	6	6	24	14	0.583333333333	NULL	NULL	272	116	0.0055147058823529415
+yielding currency	dollar	2	2	24	14	0.583333333333	NULL	NULL	405	156	0.00041152263374485596
+yielding currency	euro	1	1	24	14	0.583333333333	NULL	NULL	525	129	0.00007936507936507937
+yielding currency	Turkish lira	1	0	24	14	0.583333333333	NULL	NULL	14	6	0.002976190476190476
+yielding currency	South African rand	1	0	24	14	0.583333333333	NULL	NULL	58	16	0.0007183908045977011
+yielding currency	GBP	1	1	24	14	0.583333333333	NULL	NULL	24	7	0.001736111111111111
+yielding currency	Canadian Dollar	1	1	24	14	0.583333333333	NULL	NULL	139	38	0.00029976019184652276
+yielding currency	Indian rupee	1	0	24	14	0.583333333333	NULL	NULL	35	9	0.0011904761904761904
+yielding currency	NZD	1	1	24	14	0.583333333333	NULL	NULL	10	5	0.004166666666666667
+yielding currency	Brazilian real	1	0	24	14	0.583333333333	NULL	NULL	58	21	0.0007183908045977011
+yielding currency	Mexican peso	1	0	24	14	0.583333333333	NULL	NULL	35	14	0.0011904761904761904
+yielding currency	Aussie dollar	1	1	24	14	0.583333333333	NULL	NULL	21	15	0.001984126984126984
+yielding ingredient	gluten	1	1	2	2	NULL	NULL	NULL	333	132	0.0015015015015015015
+yielding ingredient	flour	1	1	2	2	NULL	NULL	NULL	2825	760	0.00017699115044247788
+yielding offering	Master Limited Partnerships	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+yielding route	ZRH	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+yielding route	LHR	1	1	2	2	1.000000000000	NULL	NULL	29	18	0.017241379310344827
+yielding sector	retail warehousing	1	1	1	1	NULL	NULL	NULL	1	1	1
+yielding stock	utility	1	1	2	2	NULL	NULL	NULL	5186	1541	0.00009641342074816814
+yielding stock	high-dividend yielding stock	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yielding string	thin 1st string	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yielding string	coiled 4th string	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yielding surface	snow	1	1	2	2	NULL	NULL	NULL	2306	735	0.0002168256721595837
+yielding surface	rubber mats around feedbunks	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yielding training track surface	wood chip	1	1	2	2	NULL	NULL	NULL	1230	438	0.0004065040650406504
+yielding training track surface	turf surface	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yielding tree	mango	1	1	2	2	NULL	NULL	NULL	4062	1036	0.00012309207287050715
+yielding tree	avocado	1	1	2	2	NULL	NULL	NULL	3431	888	0.0001457301078402798
+yieldivision service	discussion group	1	1	5	5	0.200000000000	NULL	NULL	302	178	0.0006622516556291391
+yieldivision service	newsletter	1	1	5	5	0.200000000000	NULL	NULL	3095	1282	0.00006462035541195476
+yieldivision service	seminar	1	1	5	5	0.200000000000	NULL	NULL	2782	981	0.00007189072609633358
+yieldivision service	conference	1	1	5	5	0.200000000000	NULL	NULL	2864	1022	0.00006983240223463688
+yieldivision service	educational event	1	1	5	5	0.200000000000	NULL	NULL	28	21	0.0071428571428571435
+yiewsley insect	house flea	1	1	1	1	1.000000000000	NULL	NULL	561	558	0.0017825311942959
+Yifan brand mobile rock crusher	jaw crusher	1	1	1	1	1.000000000000	NULL	NULL	130	38	0.007692307692307693
+Yijunqinglei	lead water metaphor extraordinary	2	1	2	1	NULL	NULL	NULL	2	1	1
+yimarelysoncommod-ityoff-the-shelf hardware component	standard personal computer	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+Yiming vision	electricity	1	1	1	1	NULL	NULL	NULL	7822	1808	0.00012784454103809768
+yin & yang item	gift	1	1	1	1	NULL	NULL	NULL	1190	479	0.0008403361344537816
+yin aspect	challenge	1	1	1	1	NULL	NULL	NULL	193	107	0.0051813471502590676
+yin building activity	yoga	1	1	1	1	NULL	NULL	NULL	10229	2367	0.00009776126698602014
+yin currency	Balinese Time currency	2	2	2	1	NULL	NULL	NULL	2	1	1
+yin deficiency sign	afternoon fever	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+yin deficiency sign	five center heat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yin deficiency sign	night sweat	1	1	3	3	NULL	NULL	NULL	741	143	0.00044984255510571296
+Yin disease	cancer	1	1	1	1	NULL	NULL	NULL	12145	2003	0.00008233841086867023
+yin dish	vegetable	1	1	1	1	NULL	NULL	NULL	11661	2612	0.00008575593859874797
+yin element	rounded edge	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+yin element	floral print	1	1	2	2	1.000000000000	NULL	NULL	38	26	0.013157894736842105
+yin emotion	sadness	1	1	1	1	NULL	NULL	NULL	1965	400	0.0005089058524173028
+yin energy food	bean starch noodle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yin energy food	cabbage	1	1	2	2	NULL	NULL	NULL	6090	1120	0.00008210180623973728
+yin energy place	hospital	1	1	3	3	0.333333333333	NULL	NULL	12116	3276	0.000027511830086937383
+yin energy place	graveyard	1	1	3	3	0.333333333333	NULL	NULL	71	52	0.004694835680751174
+yin energy place	funeral	1	1	3	3	0.333333333333	NULL	NULL	1355	419	0.0002460024600246002
+yin evil	Cold	1	1	2	2	NULL	NULL	NULL	4004	980	0.00012487512487512488
+yin evil	Dampness	1	1	2	2	NULL	NULL	NULL	85	39	0.0058823529411764705
+yin fire symptom	pimples on the face	1	1	1	1	NULL	NULL	NULL	1	1	1
+yin food	alcohol	4	4	26	16	NULL	NULL	NULL	12820	3081	0.00004800192007680307
+yin food	sugar	4	4	26	16	NULL	NULL	NULL	9798	2484	0.00006280716629767456
+yin food	water	3	2	26	16	NULL	NULL	NULL	25348	6311	0.000013656061470484699
+yin food	coffee	2	2	26	16	NULL	NULL	NULL	11509	2489	0.000013367464927113899
+yin food	fruit	2	2	26	16	NULL	NULL	NULL	15318	3376	0.00001004348830435787
+yin food	cucumber	1	1	26	16	NULL	NULL	NULL	3938	1031	0.000009766769543305856
+yin food	drug	1	1	26	16	NULL	NULL	NULL	5262	1715	0.000007309300353770137
+yin food	tofu	1	1	26	16	NULL	NULL	NULL	2457	541	0.00001565386180770796
+yin food	avocado	1	1	26	16	NULL	NULL	NULL	3431	888	0.00001121000829540614
+yin food	fruit juice	1	1	26	16	NULL	NULL	NULL	1614	546	0.0000238299494805071
+yin food	bean sprout	1	1	26	16	NULL	NULL	NULL	252	92	0.00015262515262515263
+yin food	juice	1	1	26	16	NULL	NULL	NULL	2975	876	0.00001292824822236587
+yin food	lettuce	1	1	26	16	NULL	NULL	NULL	5133	1104	0.000007492994050562724
+yin food	egg	1	1	26	16	NULL	NULL	NULL	9254	1960	0.000004156206879353627
+yin food	crab	1	1	26	16	NULL	NULL	NULL	2211	674	0.000017395539783599486
+yin food	melon	1	1	26	16	NULL	NULL	NULL	1844	542	0.000020857667278491573
+yin fruit	kiwi	1	1	3	3	NULL	NULL	NULL	1146	299	0.00029086678301337986
+yin fruit	watermelon	1	1	3	3	NULL	NULL	NULL	1942	524	0.00017164435290078955
+yin fruit	sugar cane	1	1	3	3	NULL	NULL	NULL	863	303	0.0003862495171881035
+yin herb	Ophiopogon	3	3	8	4	1.000000000000	NULL	NULL	13	9	0.08653846153846154
+yin herb	Glehnia	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+yin herb	American Ginseng	2	2	8	4	1.000000000000	NULL	NULL	65	31	0.007692307692307693
+yin herb	AmericanGinseng	1	1	8	4	1.000000000000	NULL	NULL	1	1	0.125
+yin hue	purple	1	1	2	2	NULL	NULL	NULL	2740	728	0.0001824817518248175
+yin hue	magenta	1	1	2	2	NULL	NULL	NULL	318	136	0.0015723270440251573
+yin material	timber	1	1	1	1	NULL	NULL	NULL	2191	725	0.00045641259698767686
+yin motion	wu sau	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yin motion	tan sau	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yin nourishing herb	Sheng Di Huang	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+yin nourishing herb	Xuan Shen	1	1	2	2	NULL	NULL	NULL	5	2	0.1
+yin organ	solid yin organ	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yin organ	lung	1	1	2	2	NULL	NULL	NULL	2556	599	0.00019561815336463224
+yin place	doctors surgery	1	1	2	2	NULL	NULL	NULL	71	40	0.007042253521126761
+yin place	church	1	1	2	2	NULL	NULL	NULL	6841	2094	0.0000730887297178775
+yin quality	feminine quality	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+yin quality	oneness	1	1	4	4	0.500000000000	NULL	NULL	16	12	0.015625
+yin quality	beng	1	1	4	4	0.500000000000	NULL	NULL	4	4	0.0625
+yin quality	creativity	1	1	4	4	0.500000000000	NULL	NULL	1669	503	0.00014979029358897544
+yin rain pant	UGG Ultimate Braid	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yin room	bedroom	1	1	1	1	NULL	NULL	NULL	909	328	0.0011001100110011
+yin surrounding	wooded meadow	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yin symptom	thirst	1	1	4	4	NULL	NULL	NULL	479	200	0.0005219206680584551
+yin symptom	night sweat	1	1	4	4	NULL	NULL	NULL	741	143	0.00033738191632928474
+yin symptom	dry mouth	1	1	4	4	NULL	NULL	NULL	1148	261	0.00021777003484320557
+yin symptom	heat at night	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yin therapy	surgery	1	1	1	1	NULL	NULL	NULL	3491	1070	0.0002864508736751647
+yin tissue	fascia	1	1	2	2	NULL	NULL	NULL	111	72	0.0045045045045045045
+yin tissue	bone	1	1	2	2	NULL	NULL	NULL	2998	988	0.0001667778519012675
+yin tonic	millet	1	1	2	2	0.200000000000	NULL	NULL	1957	510	0.0002554931016862545
+yin tonic	mung bean sprout	1	1	2	2	0.200000000000	NULL	NULL	10	8	0.05
+YIN type	Tai Qi Chuan	1	1	1	1	NULL	NULL	NULL	1	1	1
+yin vacuity sign	excessive thirst	1	1	2	2	1.000000000000	NULL	NULL	71	23	0.007042253521126761
+yin vacuity sign	night heat	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+yin value	connectedness	1	1	1	1	NULL	NULL	NULL	70	42	0.014285714285714285
+yin warming eating food	yam	1	1	5	5	NULL	NULL	NULL	845	298	0.0002366863905325444
+yin warming eating food	brown sugar	1	1	5	5	NULL	NULL	NULL	311	118	0.0006430868167202572
+yin warming eating food	rice	1	1	5	5	NULL	NULL	NULL	11473	2640	0.00001743223219733287
+yin warming eating food	jujube	1	1	5	5	NULL	NULL	NULL	53	32	0.0037735849056603774
+yin warming eating food	longan	1	1	5	5	NULL	NULL	NULL	113	63	0.001769911504424779
+yin yoga posture	Child's Pose	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yin-benefiting food	lily's root	2	2	8	4	0.333333333333	NULL	NULL	2	1	0.25
+yin-benefiting food	almond	2	2	8	4	0.333333333333	NULL	NULL	4195	930	0.00011918951132300358
+yin-benefiting food	pear	2	2	8	4	0.333333333333	NULL	NULL	3815	883	0.0001310615989515072
+yin-benefiting food	lotus root	2	2	8	4	0.333333333333	NULL	NULL	41	23	0.012195121951219513
+yin-nourishing herb	Tian Men Dong Tuber Asparagi cochinchinensis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yin-nourishing herb	Sheng Di Huang Radix Rehmanniae glutinosae	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yin-nourishing herb	Mai Men Dong Tuber Ophiopogonis japonici	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yin-yang meridian pair	Heart Constrictor	1	1	1	1	NULL	NULL	NULL	1	1	1
+ying organism	owl	1	1	1	1	NULL	NULL	NULL	1154	336	0.0008665511265164644
+yingluck's popular vote-grabbing promise	higher rice prices for farmer	1	1	2	2	1.000000000000	NULL	NULL	7	4	0.07142857142857142
+yingluck's popular vote-grabbing promise	minimum wage hike	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+yingluck's vote-grabbing promise	minimum wage hike	2	2	4	2	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+yingluck's vote-grabbing promise	higher rice prices for farmer	2	2	4	2	1.000000000000	NULL	NULL	7	4	0.14285714285714285
+yinvolve complication	conjunction	1	1	2	2	NULL	NULL	NULL	232	116	0.0021551724137931034
+yinvolve complication	equality	1	1	2	2	NULL	NULL	NULL	1205	414	0.0004149377593360996
+yip man student	William Cheung	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+yip man student	Duncan Leung	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yip man student	Harkin Cheung	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yip member	babblish yip member	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+YIP member	Maelstrom	1	1	2	2	1.000000000000	NULL	NULL	20	14	0.025
+yippy dog	so-called ``yippy'' dog	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Yipsels	sociologist Daniel Bell	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+yishuv	Neve Daniel	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+YIVO	Yiddish poet Moyshe Kulbak	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YIVO	utopia-writer Kalman Zingman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yiwu attraction	Hangzhou Theatre	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+yiwu cosmetic enterprise	Diefei cosmetic	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yiwu cosmetic enterprise	ZhongYimei cosmetic	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yiwu cosmetic enterprise	Yanxue cosmetic	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

@@ -1,0 +1,350 @@
+HS	french club	1	1	4	4	0.750000000000	NULL	NULL	37	21	0.006756756756756757
+hs	4-ring pa hs	1	1	4	4	0.750000000000	NULL	NULL	2	2	0.125
+HS	Coast Guard	1	1	4	4	0.750000000000	NULL	NULL	203	104	0.0012315270935960591
+hs	high performance air hs	1	1	4	4	0.750000000000	NULL	NULL	1	1	0.25
+HS activity	student government	1	1	3	5	0.500000000000	NULL	NULL	246	90	0.0013550135501355014
+HS activity	model UN	1	1	3	5	0.500000000000	NULL	NULL	52	30	0.00641025641025641
+HS activity	Constitutional Law team	1	1	3	5	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+HS bond aqueous -toxic	heavy metal	1	1	1	1	NULL	NULL	NULL	1911	524	0.0005232862375719519
+HS characteristic	aromatic functional group	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+HS semester course	computer	1	1	1	1	NULL	NULL	NULL	13729	3711	0.00007283851700779372
+HS sport	cross country	1	1	3	3	NULL	NULL	NULL	696	121	0.0004789272030651341
+HS sport	softball	1	1	3	3	NULL	NULL	NULL	2536	392	0.00013144058885383806
+HS sport	basketball	1	1	3	3	NULL	NULL	NULL	10932	1509	0.000030491523356506888
+HS-containing proteoglycans	collagen XVIII	2	1	5	3	1.000000000000	NULL	NULL	3	2	0.26666666666666666
+HS-containing proteoglycans	perlecan	2	1	5	3	1.000000000000	NULL	NULL	31	17	0.025806451612903226
+HS-containing proteoglycans	agrin	1	1	5	3	1.000000000000	NULL	NULL	9	7	0.022222222222222223
+HS-SPME experimental condition	fiber coating	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05
+HS-SPME experimental condition	extraction temperature	1	1	2	2	0.500000000000	NULL	NULL	56	24	0.008928571428571428
+HS-SPME parameter	extraction time	2	2	5	4	0.500000000000	NULL	NULL	147	42	0.0054421768707483
+HS-SPME parameter	extraction temperature	1	1	5	4	0.500000000000	NULL	NULL	56	24	0.0035714285714285718
+HS-SPME parameter	stirring rate	1	1	5	4	0.500000000000	NULL	NULL	53	28	0.0037735849056603774
+HS-SPME parameter	fiber coating	1	1	5	4	0.500000000000	NULL	NULL	10	9	0.02
+HS-SPME sampling condition	ionic strength	1	1	3	3	0.333333333333	NULL	NULL	341	94	0.0009775171065493646
+HS-SPME sampling condition	fiber coating	1	1	3	3	0.333333333333	NULL	NULL	10	9	0.03333333333333333
+HS-SPME sampling condition	temperature	1	1	3	3	0.333333333333	NULL	NULL	21509	4199	0.000015497388690005733
+hs-undaunted feature eevee evolution	Umbreon	3	3	3	1	1.000000000000	NULL	NULL	12	8	0.25
+HS2 infrastructure element	bridge	1	1	1	1	NULL	NULL	NULL	5081	2007	0.000196811651249754
+HSA account	HSA from a previous employer	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSA event	Cash Raffle	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+HSA event	Chicken BBQ	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+HSA event	Halloween Party	1	1	3	3	NULL	NULL	NULL	155	80	0.002150537634408602
+HSA industry leader	HSA Bank	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HSA-compatible health plan	Lumenos HSA plan	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSA-compatible plan	Traditional Health Coverage component included in the Lumenos HSA plan	2	1	2	1	NULL	NULL	NULL	2	1	1
+HSAN-1	familial trophoneurosis	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSAS	glycolate	3	3	6	2	0.400000000000	NULL	NULL	15	9	0.1
+HSAS	amine salts of formate	3	3	6	2	0.400000000000	NULL	NULL	3	1	0.5
+HSB policy	fire	1	1	1	1	NULL	NULL	NULL	9681	2693	0.00010329511414110113
+HSBB triple play service	High Speed Internet	2	1	4	2	NULL	NULL	NULL	211	80	0.004739336492890996
+HSBB triple play service	Video	2	1	4	2	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+HSBC amanah account	Home Takaful	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HSBC amanah account	Islamic current account	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+HSBC card service	user name	1	1	1	1	NULL	NULL	NULL	644	223	0.0015527950310559005
+HSBC credit rating card	HDFC credit card	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSBC finance corporation contract	interest rate swap	1	1	1	1	NULL	NULL	NULL	379	103	0.002638522427440633
+HSBC function	HR	1	1	1	1	NULL	NULL	NULL	868	411	0.001152073732718894
+HSBC s online service	Personal Internet Banking	3	3	3	1	NULL	NULL	NULL	6	4	0.5
+HSBC specialist asset manager	active manager Halbis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSBC specialist asset manager	cash specialist Liquidity	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSBC specialist asset manager	quantitative investor Sinopia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+hsbc's local capability	acquisition finance	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+hsbc's online service	Personal Internet Banking	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+hsbc's stakeholder	client	2	2	6	3	0.333333333333	NULL	NULL	485	214	0.001374570446735395
+hsbc's stakeholder	NGOs	2	2	6	3	0.333333333333	NULL	NULL	1252	399	0.0005324813631522896
+hsbc's stakeholder	government organization	2	2	6	3	0.333333333333	NULL	NULL	71	46	0.009389671361502348
+HSBCdisclosureswerenotavailableuntilafterpersonal identification	social security number	1	1	1	1	NULL	NULL	NULL	3686	549	0.00027129679869777537
+HSBV chain	unbranded Big Night Out with food	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+HSBV chain	Edwards	1	1	4	4	0.333333333333	NULL	NULL	155	85	0.0016129032258064516
+HSBV chain	Flares	1	1	4	4	0.333333333333	NULL	NULL	10	10	0.025
+HSBV chain	Reflex	1	1	4	4	0.333333333333	NULL	NULL	132	78	0.001893939393939394
+HSC	HSC from chronic alcohol-fed rat	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HSC	Ly-bi HSC	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HSC	myofibroblasts	1	1	3	3	1.000000000000	NULL	NULL	13	9	0.02564102564102564
+HSC course	Mathematics	1	1	1	1	NULL	NULL	NULL	3159	796	0.00031655587211142766
+HSC course civil structure	building	1	1	1	1	NULL	NULL	NULL	5956	1998	0.000167897918065816
+HSC expansion factor	IGF2	1	1	3	3	0.500000000000	NULL	NULL	8	6	0.041666666666666664
+HSC expansion factor	DLK	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+HSC expansion factor	SCF	1	1	3	3	0.500000000000	NULL	NULL	49	27	0.006802721088435374
+HSC facility	garrison	1	1	4	4	0.500000000000	NULL	NULL	26	20	0.009615384615384616
+HSC facility	hospital	1	1	4	4	0.500000000000	NULL	NULL	12116	3276	0.000020633872565203038
+HSC facility	dental lab	1	1	4	4	0.500000000000	NULL	NULL	7	7	0.03571428571428571
+HSC facility	clinic	1	1	4	4	0.500000000000	NULL	NULL	1405	563	0.00017793594306049823
+HSC fund raiser	Walkathon	1	1	1	1	1.000000000000	NULL	NULL	36	19	0.027777777777777776
+HSC marker	aldehyde dehydrogenase	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+HSC science subject	Chemistry	1	1	1	2	NULL	NULL	NULL	2911	760	0.00034352456200618345
+HSC specific marker	CD34	1	1	2	2	0.500000000000	NULL	NULL	85	45	0.0058823529411764705
+HSC specific marker	CD133	1	1	2	2	0.500000000000	NULL	NULL	32	21	0.015625
+hsc-derived factor	leptin	1	1	2	2	NULL	NULL	NULL	477	154	0.0010482180293501049
+hsc-derived factor	angiotensin	1	1	2	2	NULL	NULL	NULL	48	26	0.010416666666666666
+hscei's constituent	Angang Steel Co	1	1	1	1	NULL	NULL	NULL	1	1	1
+hscsproduceshort-lived progenitor	common myeloid progenitor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hsct-related complication	transplant-related mortality	1	1	1	1	NULL	NULL	NULL	1	1	1
+hsd-focused grantee	North Richmond YouthBuild	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hsd-focused grantee	LA CAUSA YouthBuild	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HSDAs	North Vancouver Island	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSDAs	Thompson Cariboo Shuswap	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSDPA ethernet modem	Netgear MBM621 HSDPA Modem	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSDPA ethernet modem	NexAira NexConnect Wireless Broadband Router	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSDPA feature	HS-SCCH-less operation	1	1	1	1	NULL	NULL	NULL	1	1	1
+hsdpa-based service	downloading large volumes of business datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+hsdpa-enabled mobile phone	Nokia N95	1	1	1	1	NULL	NULL	NULL	62	40	0.016129032258064516
+HSDS version	Adam Cheng version	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE	Hazardous Installations Directorate	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE activity	HSE meeting	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+HSE activity	training	1	1	4	3	NULL	NULL	NULL	7685	2537	0.000032530904359141185
+HSE activity	program	1	1	4	3	NULL	NULL	NULL	1312	601	0.00019054878048780488
+HSE approved organization	Support Training	2	1	2	1	NULL	NULL	NULL	4	2	0.5
+HSE component	message definition	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE consulting service	occupational health program	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HSE course	HSE induction	1	1	4	4	0.166666666666	NULL	NULL	2	2	0.125
+HSE course	fire safety	1	1	4	4	0.166666666666	NULL	NULL	297	145	0.0008417508417508417
+HSE course	Accident Investigation	1	1	4	4	0.166666666666	NULL	NULL	60	38	0.004166666666666667
+HSE course	risk management	1	1	4	4	0.166666666666	NULL	NULL	1241	478	0.000201450443190975
+HSE device	linking device	2	2	2	1	NULL	NULL	NULL	5	4	0.4
+HSE event	cargo damage	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+HSE event	marine injury	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+HSE event	vessel casualty	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSE guidance book	Essentials of health	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE incident	spilling chemical	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE matter	monthly report	2	1	4	2	0.500000000000	NULL	NULL	62	47	0.016129032258064516
+HSE matter	accident	2	1	4	2	0.500000000000	NULL	NULL	2025	742	0.0004938271604938272
+HSE program	Environment aspect & impact assessment	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE promotional activity	observance of Road Safety Day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSE promotional activity	National Safety Week	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HSE publication	HSG41 & Association for Petroleum	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE related activity	Safety Campaign	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+HSE related activity	Emergency drill	1	1	2	2	1.000000000000	NULL	NULL	15	11	0.03333333333333333
+HSE related matter	HSE internal audit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSE related matter	HSE improvement plan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSE related meeting	HSE Committee Meetings	2	2	2	1	NULL	NULL	NULL	2	1	1
+HSE review	HAZID	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+HSE risk assessment	Bow-Tie analysis	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+HSE service	development of Safety Management Systems	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HSE service	home help	1	1	5	5	NULL	NULL	NULL	83	38	0.0024096385542168677
+HSE service	Workplace Safety & Health audit	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HSE service	mental health	1	1	5	5	NULL	NULL	NULL	1255	435	0.00015936254980079682
+HSE service	provision of quality HSE professional	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HSE staff	Public Health Nurses	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+HSE study	HAZID	3	3	14	9	0.750000000000	NULL	NULL	11	8	0.05844155844155843
+HSE study	Safety Integrity level	2	2	14	9	0.750000000000	NULL	NULL	3	2	0.09523809523809523
+HSE study	Simultaneous Operations	2	2	14	9	0.750000000000	NULL	NULL	2	1	0.14285714285714285
+HSE study	HAZOP	2	2	14	9	0.750000000000	NULL	NULL	17	12	0.01680672268907563
+HSE study	HAZAN	1	1	14	9	0.750000000000	NULL	NULL	9	4	0.007936507936507936
+hse study	technical hse study	1	1	14	9	0.750000000000	NULL	NULL	2	2	0.03571428571428571
+HSE study	HSEIA	1	1	14	9	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+HSE study	PHSER	1	1	14	9	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+HSE study	SIL	1	1	14	9	0.750000000000	NULL	NULL	6	6	0.011904761904761904
+HSE system	risk assessment	1	1	1	1	NULL	NULL	NULL	603	249	0.001658374792703151
+HSE tool	safe job analysis	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSE topic	fire safety	1	1	2	2	0.500000000000	NULL	NULL	297	145	0.0016835016835016834
+HSE topic	safe driving	1	1	2	2	0.500000000000	NULL	NULL	29	16	0.017241379310344827
+HSE training program	Induction	1	1	2	2	NULL	NULL	NULL	316	183	0.0015822784810126582
+HSE training program	PTW	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+HSE-approved first aid training	3-day First Aid at Work Qualifying course	1	1	1	1	NULL	NULL	NULL	1	1	1
+hse-type service	FMS Read Rsp	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSF	big typhoon	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+hsf	good quiet hsf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSGC event	May 2nd Spring Green Up Day	1	1	1	1	NULL	NULL	NULL	1	1	1
+hsh.com's tool	mortgage payment calculator	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+HSI technique	spectral end-member classification	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+HSI technique	spectral endmember classification	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+HSI upgrade	alarm system	1	1	1	1	NULL	NULL	NULL	410	212	0.0024390243902439024
+HSIs	University of Texas at El Paso	1	1	2	2	1.000000000000	NULL	NULL	12	7	0.041666666666666664
+HSIs	University of Texas Pan American	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HSK material	vocab	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+HSL chair	comfort chair	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSL chair	sofa	1	1	2	2	NULL	NULL	NULL	1051	353	0.0004757373929590866
+HSLA steel outstanding functional property	weldability	1	1	1	1	1.000000000000	NULL	NULL	26	12	0.038461538461538464
+HSLI activity	ALSA mentorship program	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HSLI activity	College Day	1	1	3	4	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+HSLI activity	teacher college recommendation	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HSM capable solution	IBM TSM	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+HSM capable solution	Storage Migrator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSM function	migration	3	2	6	2	NULL	NULL	NULL	1514	630	0.0009907529722589167
+HSM function	recall	3	2	6	2	NULL	NULL	NULL	259	149	0.005791505791505791
+HSM game	cheerleading competition with pom pom s	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSM performfunctions	security information management	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+HSM performfunctions	security information backup	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSM performfunctions	security information generation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSM requirement	cutting tool	1	1	2	2	NULL	NULL	NULL	171	95	0.0029239766081871343
+HSM requirement	machine tool	1	1	2	2	NULL	NULL	NULL	350	166	0.0014285714285714286
+hsm-type software product	IBM's Tivoli Storage Manager	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+HSMs	movements around health-care equity	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+hsmsaredeployed insecurity critical environment	cash machine network	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSN product	crystal drop earring	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HSP	HSP Central	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+HSP	Hsp70 Ssa1	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSP	Hsp70	1	1	3	3	NULL	NULL	NULL	109	31	0.0030581039755351682
+HSP association	bowel perforation	1	1	1	1	0.500000000000	NULL	NULL	50	28	0.02
+HSP fusion protein	gp96 fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSP fusion protein	calreticulin fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSP fusion protein	hsp110 fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSP fusion protein	hsp60 fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSP fusion protein	hsp90 fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSP fusion protein	grp170 fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSP fusion protein	hsp70 fusion protein	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+hsp inducer	hyperthermic stress	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSP protein	HSPA1L	2	2	2	1	NULL	NULL	NULL	2	1	1
+HSP staff	Clerical	1	1	1	1	NULL	NULL	NULL	204	121	0.004901960784313725
+HSP-72 inducer	ethanol	1	1	2	2	0.333333333333	NULL	NULL	3455	934	0.0001447178002894356
+HSP-72 inducer	heat stress	1	1	2	2	0.333333333333	NULL	NULL	121	59	0.004132231404958678
+HSP1 important health issue	equity	1	1	1	1	NULL	NULL	NULL	1378	476	0.000725689404934688
+hsp27 inhibitor	quercetin	1	1	1	1	NULL	NULL	NULL	772	189	0.0012953367875647669
+hsp40 protein	bacterial DnaJ	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hsp40-like protein	bacterial DnaJ	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Hsp40s	YdJ1 from S. cerevisiae	1	1	1	1	NULL	NULL	NULL	1	1	1
+Hsp70 co-chaperones	Hop	2	2	4	3	0.666666666666	NULL	NULL	29	21	0.034482758620689655
+Hsp70 co-chaperones	Hip	1	1	4	3	0.666666666666	NULL	NULL	1346	408	0.00018573551263001485
+Hsp70 co-chaperones	Hsp40	1	1	4	3	0.666666666666	NULL	NULL	12	7	0.020833333333333332
+Hsp70 cofactors	Hip	1	1	2	2	0.500000000000	NULL	NULL	1346	408	0.0003714710252600297
+Hsp70 cofactors	Hsp90	1	1	2	2	0.500000000000	NULL	NULL	50	23	0.01
+hsp70 family member	Grp78	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+hsp70 family member	Hsc70	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+hsp70-binding protein	nucleotide exchange protein Mge1	1	1	1	1	NULL	NULL	NULL	1	1	1
+hsp90 antagonist	geldanamycin	1	1	1	1	1.000000000000	NULL	NULL	85	29	0.011764705882352941
+hsp90 binding agent	benzoquinone ansamycines	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+hsp90 client	Raf-1	1	1	1	1	1.000000000000	NULL	NULL	21	19	0.047619047619047616
+hsp90 client protein	glucocorticoid receptor	1	1	2	2	1.000000000000	NULL	NULL	40	17	0.0125
+hsp90 client protein	tumor suppressor protein p53	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+Hsp90 co-chaperones	Hop	1	1	1	1	1.000000000000	NULL	NULL	29	21	0.034482758620689655
+hsp90 inhibitor	geldanamycin	18	11	38	12	0.800000000000	NULL	NULL	85	29	0.1003095975232198
+hsp90 inhibitor	radicicol	5	4	38	12	0.800000000000	NULL	NULL	16	8	0.041118421052631575
+hsp90 inhibitor	17-AAG	5	5	38	12	0.800000000000	NULL	NULL	33	19	0.01993620414673046
+hsp90 inhibitor	17-DMAG	2	2	38	12	0.800000000000	NULL	NULL	10	9	0.010526315789473684
+hsp90 inhibitor	17AAG in combination with conventional cytotoxic agent	1	1	38	12	0.800000000000	NULL	NULL	1	1	0.02631578947368421
+hsp90 inhibitor	geldanamycin derivatives like 17-allylamino-17-demethoxygeldanamycin	1	1	38	12	0.800000000000	NULL	NULL	1	1	0.02631578947368421
+hsp90 inhibitor	potent hsp90 inhibitor	1	1	38	12	0.800000000000	NULL	NULL	2	2	0.013157894736842105
+hsp90 inhibitor	purine-scaffold inhibitor	1	1	38	12	0.800000000000	NULL	NULL	1	1	0.02631578947368421
+hsp90 inhibitor	benzoquinone ansamycin 17-allylamino-17-desmethoxygeldanamycin	1	1	38	12	0.800000000000	NULL	NULL	1	1	0.02631578947368421
+hsp90 inhibitor	ansamycin antibiotics geldanamycin	1	1	38	12	0.800000000000	NULL	NULL	1	1	0.02631578947368421
+hsp90 inhibitor	ansamycin benzoquinone hsp90 inhibitor	1	1	38	12	0.800000000000	NULL	NULL	2	2	0.013157894736842105
+hsp90 inhibitor	concentration hsp90 inhibitor	1	1	38	12	0.800000000000	NULL	NULL	2	2	0.013157894736842105
+hsp90-associated protein	peptidylprolyl isomerases	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+hsp90-associated protein	hsp70	1	1	3	2	NULL	NULL	NULL	109	31	0.0030581039755351682
+Hsp90-associatedpeptidylprolyl isomerases	FKBP52	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+hsp90-inhibited cell	proteasome-inhibited cell	2	2	2	1	NULL	NULL	NULL	2	1	1
+HSP90-inhibitors	geldanamycin	1	1	1	1	1.000000000000	NULL	NULL	85	29	0.011764705882352941
+Hsp90clients	progesterone receptor	1	1	1	1	1.000000000000	NULL	NULL	36	23	0.027777777777777776
+HSPA evolution feature	64	2	2	4	2	1.000000000000	NULL	NULL	37	24	0.02702702702702703
+HSPA evolution feature	simultaneous use of MIMO	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+HSPA innovation	dual-carrier21 HSPA	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSPF model parameter	infiltration	1	1	2	2	NULL	NULL	NULL	184	99	0.002717391304347826
+HSPF model parameter	inactive ground water	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSPGs	Glypicans	8	2	17	9	0.800000000000	NULL	NULL	14	6	0.2689075630252101
+HSPGs	syndecan	3	1	17	9	0.800000000000	NULL	NULL	20	14	0.026470588235294117
+HSPGs	Syndecan-1	2	2	17	9	0.800000000000	NULL	NULL	17	11	0.01384083044982699
+HSPGs	syndecan-1 on cell surface	1	1	17	9	0.800000000000	NULL	NULL	1	1	0.058823529411764705
+hspgs	cell surface hspgs	1	1	17	9	0.800000000000	NULL	NULL	1	1	0.058823529411764705
+hspgs	cell layer hspgs	1	1	17	9	0.800000000000	NULL	NULL	1	1	0.058823529411764705
+HSPGs	perlecan	1	1	17	9	0.800000000000	NULL	NULL	31	17	0.0018975332068311196
+hspgsarein-volvedinbiologic process	differentiation	1	1	5	5	0.200000000000	NULL	NULL	570	239	0.00035087719298245617
+hspgsarein-volvedinbiologic process	cell adhesion	1	1	5	5	0.200000000000	NULL	NULL	82	44	0.0024390243902439024
+hspgsarein-volvedinbiologic process	proliferation	1	1	5	5	0.200000000000	NULL	NULL	346	146	0.0005780346820809249
+hspgsarein-volvedinbiologic process	glomerular filtration	1	1	5	5	0.200000000000	NULL	NULL	7	7	0.028571428571428574
+hspgsarein-volvedinbiologic process	migration	1	1	5	5	0.200000000000	NULL	NULL	1514	630	0.0001321003963011889
+HSPH diversity related committee	Committee for Concerned Women Faculty	1	1	1	1	NULL	NULL	NULL	1	1	1
+hspnet report	student profile	1	1	2	2	1.000000000000	NULL	NULL	17	14	0.029411764705882353
+hspnet report	class list	1	1	2	2	1.000000000000	NULL	NULL	23	14	0.021739130434782608
+HSPR issue	continuity of care	1	1	1	1	1.000000000000	NULL	NULL	38	22	0.02631578947368421
+Hsps	Hsp70	15	11	33	9	0.875000000000	NULL	NULL	109	31	0.06255212677231026
+Hsps	Hsp27	5	5	33	9	0.875000000000	NULL	NULL	24	12	0.03156565656565657
+Hsps	HSP60	3	2	33	9	0.875000000000	NULL	NULL	23	11	0.011857707509881422
+Hsps	Hsp90	3	3	33	9	0.875000000000	NULL	NULL	50	23	0.005454545454545454
+Hsps	chloroplast Hsp90s	2	2	33	9	0.875000000000	NULL	NULL	2	1	0.06060606060606061
+Hsps	Gp96	2	2	33	9	0.875000000000	NULL	NULL	11	8	0.011019283746556474
+Hsps	GroEL	1	1	33	9	0.875000000000	NULL	NULL	47	19	0.0006447453255963894
+Hsps	hsp10	1	1	33	9	0.875000000000	NULL	NULL	1	1	0.030303030303030304
+Hsps	Hsp104 in yeast	1	1	33	9	0.875000000000	NULL	NULL	1	1	0.030303030303030304
+HSPVA alumnus	drummers Jamire Williams	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSPVA alumnus	Cory Cox	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSQ property	conversation into silica by annealing	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HSQ property	fluidity	1	1	2	2	1.000000000000	NULL	NULL	49	31	0.01020408163265306
+HSR innovation	integration	1	1	1	1	NULL	NULL	NULL	743	301	0.0013458950201884253
+HSR line	Beijing-Tianjin Intercity Railway	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSR model	Shortlist	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+HSR opponent	Senator Alan Lowenthal	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSR structure	railway viaduct	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+HSR structure	bridge	1	1	2	2	0.500000000000	NULL	NULL	5081	2007	0.000098405825624877
+HSR system	Japanese Shinkhansen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSR system	Florida	1	1	2	2	NULL	NULL	NULL	7654	980	0.00006532532009406845
+HSR term	acquisition	1	1	1	1	NULL	NULL	NULL	985	460	0.0010152284263959391
+hsr&d's general publication	QUERI Quarterly	2	2	2	1	NULL	NULL	NULL	2	1	1
+HSRP attribute	authentication	1	1	1	1	NULL	NULL	NULL	1169	500	0.000855431993156544
+HSRP disease	malaria	1	1	1	1	NULL	NULL	NULL	4105	774	0.000243605359317905
+HSRP group parameter	name	1	1	3	3	NULL	NULL	NULL	13911	2278	0.000023961852730453116
+HSRP group parameter	tracking	1	1	3	3	NULL	NULL	NULL	756	361	0.0004409171075837742
+HSRP group parameter	priority	1	1	3	3	NULL	NULL	NULL	428	200	0.000778816199376947
+HSRP protocol event	change of HSRP state	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSS	IMS-only HSS	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+HSS	3GPP standard HSS	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+HSS 3G software framework	Core Network	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+HSS activity	mentoring	1	1	3	3	NULL	NULL	NULL	1216	504	0.00027412280701754384
+HSS activity	monitoring	1	1	3	3	NULL	NULL	NULL	1507	705	0.0002211900022119
+HSS activity	training	1	1	3	3	NULL	NULL	NULL	7685	2537	0.00004337453914552158
+HSS application	drive-through restaurant	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+HSS application	point-of-purchase display	1	1	2	2	1.000000000000	NULL	NULL	18	14	0.027777777777777776
+HSS character	Nightcrawler	1	1	1	1	1.000000000000	NULL	NULL	14	5	0.07142857142857142
+HSS cutting tool	HSS hex die nut	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSS drill related offer	Cordless Drill	1	1	2	2	NULL	NULL	NULL	56	45	0.008928571428571428
+HSS drill related offer	Power Tool	1	1	2	2	NULL	NULL	NULL	511	215	0.0009784735812133072
+HSS event	Diwali Food Drive	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSS matrix operation	compression	1	1	2	2	NULL	NULL	NULL	1079	472	0.0004633920296570899
+HSS matrix operation	structure generation	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+HSS operation	matrix multiplication	1	1	2	2	NULL	NULL	NULL	66	43	0.007575757575757576
+HSS operation	providing Headquarters security protection	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSS tool s	HSS circular saw blade	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSS tool s	square bit	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSS tool s	flat bit	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSS tool s	paper cutting knife	1	1	7	7	NULL	NULL	NULL	9	3	0.015873015873015872
+HSS tool s	chiper knife	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSS tool s	din standard slitting saw	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+HSS tool s	slotting cutter	1	1	7	7	NULL	NULL	NULL	6	5	0.023809523809523808
+HSSA staple product	Hot Dogs of Tucson calendar	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSSI parameter	Tx jitter	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSSV service	doggie daycare	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+HSSV service	grooming	1	1	2	2	0.500000000000	NULL	NULL	801	295	0.0006242197253433209
+HST imaging	WFPC2 mosaic released by ESA	1	1	1	1	NULL	NULL	NULL	1	1	1
+HST philosophy	mental discipline	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+HST value	intermediate HST value	1	1	1	1	NULL	NULL	NULL	1	1	1
+hst's competitor	Ashford Hostpitality Trust	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSTcameras	NICMOS	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HSU department	Engineering	1	1	3	3	0.333333333333	NULL	NULL	5664	1535	0.00005885122410546139
+HSU department	Environmental Science	1	1	3	3	0.333333333333	NULL	NULL	304	127	0.0010964912280701754
+HSU department	Industrial Technology	1	1	3	3	0.333333333333	NULL	NULL	37	24	0.009009009009009009
+hsuand wongintegrated surface property	inclination	1	1	1	1	1.000000000000	NULL	NULL	52	37	0.019230769230769232
+hsucu's member service	Car Buying Made Easy	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSUPA functionalities	scheduling	1	1	1	1	NULL	NULL	NULL	1696	777	0.0005896226415094339
+HSUPA technology service	high-quality multi-media messaging	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HSUPA technology service	live video show	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HSUPA technology service	video sharing service	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HSUPA technology service	multimedia instant messaging	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HSV	VL Group A Walkinshaw	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSV	Calais based SV88	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSV antigen detection test	enzyme-linked virus inducible system	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSV consideration	frame rate	1	1	2	2	NULL	NULL	NULL	457	142	0.0010940919037199124
+HSV consideration	resolution trade-offs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HSV DNA	synthetic CpG DNA	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSV entry-defective cell line	CHO cell	1	1	1	1	1.000000000000	NULL	NULL	66	16	0.015151515151515152
+HSV expert	folks at University of Washington's virology department	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSV gene	ICP0 gene	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSV glycoproteins	gc	1	1	1	1	NULL	NULL	NULL	129	64	0.007751937984496124
+hsv infection	nonmucosal hsv infection	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HSV protein	viral tegument-associated protein	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HSV protein	ubiquitin ligase ICP0	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HSV protein	thymidine kinase	1	1	3	3	1.000000000000	NULL	NULL	15	11	0.02222222222222222
+HSV quantitation strategy	gel-based liquid hybridization	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HSV research expert	Terri Warren	1	1	1	1	NULL	NULL	NULL	1	1	1
+HSV therapy	acyclovir	1	1	1	1	NULL	NULL	NULL	450	122	0.0022222222222222222
+HSV vector	amplicon	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+HSV-2 trial datum	ships speed	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hsv-based vector quantitation strategy	gel-based liquid hybridization	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hsv-borne infection	cold sore	1	1	3	3	NULL	NULL	NULL	101	48	0.0033003300330033
+hsv-borne infection	chickenpox	1	1	3	3	NULL	NULL	NULL	388	91	0.000859106529209622
+hsv-borne infection	shingle	1	1	3	3	NULL	NULL	NULL	520	199	0.000641025641025641
+hsv-permissive cell	Vero cell	1	1	1	1	1.000000000000	NULL	NULL	19	11	0.05263157894736842
+HSV1 medication	Acyclovir	1	1	2	2	NULL	NULL	NULL	450	122	0.0011111111111111111
+HSV1 medication	Zovirax	1	1	2	2	NULL	NULL	NULL	93	47	0.005376344086021506
+HSVTC volunteer opportunity	VTM Backpacking Trips	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSVTC volunteer opportunity	VTM Base Camp Trips	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HSVTC volunteer opportunity	Reconnaissance Team	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

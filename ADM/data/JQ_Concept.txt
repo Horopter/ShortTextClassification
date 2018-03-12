@@ -1,0 +1,37 @@
+jql command	LIST	1	1	1	1	NULL	NULL	NULL	1193	582	0.0008382229673093043
+jquery construct	datum	2	2	2	1	NULL	NULL	NULL	1021	462	0.0019588638589618022
+jquery different javascript framework	Prototype	8	3	24	12	0.666666666666	NULL	NULL	380	146	0.007017543859649122
+jquery different javascript framework	jquery	4	2	24	12	0.666666666666	NULL	NULL	557	194	0.0011968880909634949
+jquery different javascript framework	photo gallery MooTool	2	2	24	12	0.666666666666	NULL	NULL	7	3	0.023809523809523808
+jquery different javascript framework	inspiration MooTool	2	1	24	12	0.666666666666	NULL	NULL	5	4	0.03333333333333333
+jquery different javascript framework	caption MooTool	1	1	24	12	0.666666666666	NULL	NULL	4	4	0.010416666666666666
+jquery different javascript framework	design jquery	1	1	24	12	0.666666666666	NULL	NULL	1	1	0.041666666666666664
+jquery different javascript framework	web design jquery	1	1	24	12	0.666666666666	NULL	NULL	2	2	0.020833333333333332
+jquery different javascript framework	gallery jquery	1	1	24	12	0.666666666666	NULL	NULL	5	4	0.008333333333333333
+jquery different javascript framework	kevin MooTool	1	1	24	12	0.666666666666	NULL	NULL	10	7	0.004166666666666667
+jquery different javascript framework	photo jquery	1	1	24	12	0.666666666666	NULL	NULL	2	2	0.020833333333333332
+jquery different javascript framework	freebies MooTool	1	1	24	12	0.666666666666	NULL	NULL	5	3	0.008333333333333333
+jquery different javascript framework	demo MooTool	1	1	24	12	0.666666666666	NULL	NULL	4	4	0.010416666666666666
+jquery effect	scrolling	1	0	1	1	NULL	NULL	NULL	130	79	0.007692307692307693
+jquery event	click	1	1	1	1	NULL	NULL	NULL	324	180	0.0030864197530864196
+jquery feature	event handling	1	1	3	3	1.000000000000	NULL	NULL	39	28	0.008547008547008546
+jquery feature	custom gallery	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+jquery feature	post slider for special blogs	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+jquery interactive feature	slideshows	1	1	1	1	NULL	NULL	NULL	156	90	0.00641025641025641
+Jquery plugin	jQuery Suggest	1	1	1	1	NULL	NULL	NULL	1	1	1
+jQuery plugins	Image slider	1	1	9	9	NULL	NULL	NULL	2	2	0.05555555555555555
+jQuery plugins	Image gallery	1	1	9	9	NULL	NULL	NULL	81	50	0.0013717421124828531
+jQuery plugins	Navigations	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+jQuery plugins	popular lightbox	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+jQuery plugins	jQuery-ui Scrollable tab	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+jQuery plugins	innerfade for the footer ad	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+jQuery plugins	fancybox plugins	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+jQuery plugins	accessible news slider for the image gallery	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+jQuery plugins	custom scroller	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+JQuery table sorting	jQuery Form plug-dragging	1	1	1	1	NULL	NULL	NULL	1	1	1
+jquery UI component	Accordions	1	1	1	2	NULL	NULL	NULL	6	6	0.16666666666666666
+jQuery UI widgets	Dialogs	1	1	3	4	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+jQuery UI widgets	Accordions	1	1	3	4	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+jQuery UI widgets	Tabs	1	1	3	4	1.000000000000	NULL	NULL	6	13	0.05555555555555555
+jquery-ui native widgets	datepicker	1	0	2	2	0.500000000000	NULL	NULL	3	2	0.16666666666666666
+jquery-ui native widgets	tab	1	0	2	2	0.500000000000	NULL	NULL	696	228	0.0007183908045977011

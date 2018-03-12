@@ -1,0 +1,17 @@
+FK fanzine	Dreaming of the Knight	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FK fanzine	Daydreams	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+fk-down gene	doublecortin	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+fk506-binding protein	FKBP52	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+fk506-binding protein	cyclosporin-binding cyclophilin	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+fkbp12-binding agent	rapamycin	1	1	2	2	NULL	NULL	NULL	125	63	0.004
+fkbp12-binding agent	tacrolimus	1	1	2	2	NULL	NULL	NULL	375	115	0.0013333333333333333
+fkcess plant	oil refinery	1	1	2	2	NULL	NULL	NULL	394	189	0.0012690355329949238
+fkcess plant	major chemical manufacturing plant	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fkhr-induced downstream target	Fas ligand	1	1	2	2	1.000000000000	NULL	NULL	37	26	0.013513513513513514
+fkhr-induced downstream target	Bim in brain ischemia	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+fkn-producing cell	endothelial cell	1	1	1	1	NULL	NULL	NULL	354	118	0.002824858757062147
+FKNME	flash converting furnaces of sulfide concentrate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FKNME	flash smelting	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+fkquent word	determiner	1	1	2	2	NULL	NULL	NULL	90	50	0.005555555555555556
+fkquent word	preposition	1	1	2	2	NULL	NULL	NULL	308	129	0.0016233766233766235
+fkventive maintenance strategy	condition monitoring	1	1	1	1	1.000000000000	NULL	NULL	30	27	0.03333333333333333

@@ -1,0 +1,36 @@
+QD	Gloss Enhancer by Optimum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QD	Instant Detailer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QD agent	Emtriva	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+QD agent	Reyataz	1	1	2	2	NULL	NULL	NULL	10	5	0.05
+QD application	DC current standard turnstile	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QD application	single-electron memory	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+QD application	high-resolution electrometer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QD property	fast carrier dynamic	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+QD property	multiplexing potential	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+QD property	photoluminescence	1	1	5	5	0.500000000000	NULL	NULL	63	37	0.0031746031746031746
+QD property	inhomogeneous broadening	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+QD property	carrier mobility	1	1	5	5	0.500000000000	NULL	NULL	25	15	0.008
+QD setup	Robinson Arms XCR	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+QDA software	QSR NUD-IST	1	1	1	1	NULL	NULL	NULL	1	1	1
+qdebugging parallel program	MPI	1	1	1	1	NULL	NULL	NULL	196	120	0.00510204081632653
+QDIA option	Target Risk fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+QDIA provision	Intuit Quicken	1	1	2	2	0.500000000000	NULL	NULL	9	9	0.05555555555555555
+QDIA provision	Microsoft Money	1	1	2	2	0.500000000000	NULL	NULL	164	76	0.003048780487804878
+qdiscs	Stochastic Fairness Queuing	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+qdiscs	Token Bucket Filter	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+qdiscs	Class Based Queuing	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QdNOs	carbadox	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+qdoba's popular signature flavor	Three-Cheese Queso	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qdoba's popular signature flavor	Ancho Chile BBQ	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qdos's great facility	pipe	1	1	1	1	NULL	NULL	NULL	2486	1047	0.00040225261464199515
+qdot shape	dome	2	2	4	2	NULL	NULL	NULL	330	183	0.0030303030303030303
+qdot shape	pyramid	2	2	4	2	NULL	NULL	NULL	515	307	0.001941747572815534
+qdr-unique requirement	Dynamic Commitment seminar war game	1	1	1	1	NULL	NULL	NULL	1	1	1
+QDRO product	test kinds for releasing Individual retirement account money in divorce proceeding	1	1	1	1	NULL	NULL	NULL	1	1	1
+QDRO use	maintenance	1	1	2	2	NULL	NULL	NULL	4873	1506	0.00010260619741432382
+QDRO use	collection of child support	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QDs	cadmium selenide	2	2	5	3	0.666666666666	NULL	NULL	38	19	0.021052631578947368
+QDs	PbSe	2	1	5	3	0.666666666666	NULL	NULL	10	8	0.08
+QDs	CdSe	1	1	5	3	0.666666666666	NULL	NULL	61	37	0.003278688524590164
+QDSparameters	quantum dot size	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+QDswithWZcrystal structure	ZnOand GaN nanostructures	1	1	1	1	NULL	NULL	NULL	1	1	1

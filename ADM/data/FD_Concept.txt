@@ -1,0 +1,340 @@
+FD	S'pore	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FD camera	AE-1 Program	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+FD fruit chip	FD apple chip	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FD fruit chip	FD peach chip	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FD fruit chip	FD pineapple chip	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FD lesion	large	1	1	1	1	NULL	NULL	NULL	523	285	0.0019120458891013384
+FD option	Shriram Transport Finance	1	1	1	1	NULL	NULL	NULL	10	4	0.1
+FD project	Caernarvon	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+FD series	AD series	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+FD series	champignon	2	2	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+FD series	shallot	2	2	6	3	NULL	NULL	NULL	251	99	0.0026560424966799467
+FD vegetable	FD sweet pea	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD vegetable	FD cabbage	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD vegetable	FD carrot	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD vegetable	FD onion	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD vegetable	FD spinach	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD vegetable	FD chive	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD vegetable	FD green bean	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+FD&C color	blue 2	1	1	2	2	1.000000000000	NULL	NULL	6	4	0.08333333333333333
+FD&C color	blue 1	1	1	2	2	1.000000000000	NULL	NULL	15	8	0.03333333333333333
+FD&C food color	Brown	1	1	2	2	NULL	NULL	NULL	4244	1139	0.000117813383600377
+FD&C food color	Orange	1	1	2	2	NULL	NULL	NULL	12312	2565	0.00004061078622482131
+FDA action	withdrawal from the market	4	2	5	2	NULL	NULL	NULL	4	1	0.8
+FDA action	implementation of a risk minimization action plan	1	1	5	2	NULL	NULL	NULL	1	1	0.2
+FDA additional form page	biographical sketch	1	1	2	2	0.500000000000	NULL	NULL	27	17	0.018518518518518517
+FDA additional form page	budget	1	1	2	2	0.500000000000	NULL	NULL	2634	864	0.00018982536066818528
+FDA approval hyaluronic acid filler	Restylane	1	1	2	2	NULL	NULL	NULL	1325	289	0.0003773584905660377
+FDA approval hyaluronic acid filler	Juvederm	1	1	2	2	NULL	NULL	NULL	877	189	0.0005701254275940707
+FDA Approved Direct-acting antivirals	boceprevir	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+FDA Approved Direct-acting antivirals	telaprevir	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+FDA approved hair regrowth medication	minoxidil	1	1	1	1	NULL	NULL	NULL	300	105	0.0033333333333333335
+FDA approved material	sponge made of hydrophilic polyurethane foam	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+FDA approved material	sponge material made of hydrophilic polyurethane foam	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+FDA award	Outstanding Achievement Award	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FDA class B narcotic	dilaudid	1	1	2	2	NULL	NULL	NULL	96	39	0.005208333333333333
+FDA class B narcotic	morphine	1	1	2	2	NULL	NULL	NULL	2785	591	0.00017953321364452425
+FDA component	Office of the Commissioner	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA concept	creating initial baseline for equipment	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA decision	approval of the Sapien transcatheter heart valve	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA demand stricter measure	training	1	1	1	1	NULL	NULL	NULL	7685	2537	0.00013012361743656474
+FDA division	CBER	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+FDA document	2009 FDA Food Code	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FDA document	QSR manual	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FDA document	letters from Dance	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FDA document	Medical Officer's Review	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FDA document	QSIT manual	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FDA enforcement action	import refusal	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FDA enforcement action	warning letter	1	1	2	2	1.000000000000	NULL	NULL	17	14	0.029411764705882353
+FDA enforcement activity	Warning Letters	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+FDA enforcement activity	Consent Decrees	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+FDA enforcement activity	Seizures	1	1	3	3	1.000000000000	NULL	NULL	4	8	0.08333333333333333
+FDA enforcement decision	noncompliance with GMP	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA enforcement mechanism	seizure	2	1	6	3	NULL	NULL	NULL	1803	638	0.0003697541135145128
+FDA enforcement mechanism	injunction	2	1	6	3	NULL	NULL	NULL	232	108	0.0028735632183908046
+FDA enforcement mechanism	voluntary recall	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+FDA export requirement	21CFR 801	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA incentive	accelerated approval	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FDA incentive	orphan status	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FDA initiative	Drug-Diagnostic Co-Development Concept Paper	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FDA initiative	Critical Path Initiative	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+FDA licensed assay	Abbott Prism HCV	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDA licensed assay	Procleix Ultrio Assay	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+FDA medical device regulation	Requirements Specifications	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA official	Dr. Robert Califf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDA official	Dr. David Graham	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+FDA order	denial	1	1	1	1	NULL	NULL	NULL	506	202	0.001976284584980237
+FDA passive surveillance system	Drug Quality Reporting System	2	1	4	2	NULL	NULL	NULL	4	3	0.25
+FDA passive surveillance system	Office of Regulatory Affairs Consumer Complaint System	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+FDA program	E Pedigree	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FDA program	Sentinel Network	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FDA program	adverse-event reporting	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FDA publication	MedWatch	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FDA rate antidepressant	fluoxetine	1	1	2	2	NULL	NULL	NULL	1057	164	0.0004730368968779565
+FDA rate antidepressant	Prozac	1	1	2	2	NULL	NULL	NULL	2041	325	0.0002449779519843214
+FDA registered equipment	PSE Reba device	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA registration number	FCE number	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA regulation	safety	1	1	6	6	0.250000000000	NULL	NULL	4771	1315	0.00003493327744008943
+FDA regulation	1998 Pediatric Rule	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+FDA regulation	GMP regulation	1	1	6	6	0.250000000000	NULL	NULL	3	3	0.05555555555555555
+FDA regulation	improved standards for mammography	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+FDA regulation	GMP	1	1	6	6	0.250000000000	NULL	NULL	68	41	0.0024509803921568627
+FDA regulation	speeding up the drug approval process	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+FDA regulator	David Kessler	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+FDA requirement	FDA labeling regulation	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDA staffer	Dr Ellis Unger	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDA staffer	deputy director of the office of drug evaluation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDA stronger enforcement tool	mandatory recall authority	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+FDA website	National Library of Medicine	1	1	1	1	1.000000000000	NULL	NULL	31	18	0.03225806451612903
+fda's enforcement activity	Seizures	1	1	3	3	1.000000000000	NULL	NULL	4	8	0.08333333333333333
+fda's enforcement activity	Consent Decrees	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+fda's enforcement activity	Warning Letters	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+fda's initiative	identification of new data source	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fda's initiative	draft policy on major postmarket decision making	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fda's many new initiative	risk-based approach	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+fda's planning document	2007 Food Protection Plan	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda's primary regulation	CGMP & Standards of Compendia's	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-approved ADHD medication	Ritalin	1	1	1	1	NULL	NULL	NULL	1298	220	0.0007704160246533128
+fda-approved agent	pilocarpine	1	1	2	2	0.500000000000	NULL	NULL	173	68	0.002890173410404624
+fda-approved agent	cevimeline	1	1	2	2	0.500000000000	NULL	NULL	13	12	0.038461538461538464
+fda-approved anti-itch ingredient	benzocaine	1	1	4	4	0.200000000000	NULL	NULL	217	86	0.001152073732718894
+fda-approved anti-itch ingredient	camphor	1	1	4	4	0.200000000000	NULL	NULL	397	177	0.0006297229219143577
+fda-approved anti-itch ingredient	calamine	1	1	4	4	0.200000000000	NULL	NULL	84	37	0.002976190476190476
+fda-approved anti-itch ingredient	hydrocortisone	1	1	4	4	0.200000000000	NULL	NULL	446	161	0.0005605381165919282
+fda-approved antidepressant	Desipramine	1	1	1	1	NULL	NULL	NULL	278	64	0.0035971223021582736
+fda-approved antioxidant	butylated hydroxyanisole	1	1	1	1	NULL	NULL	NULL	225	52	0.0044444444444444444
+fda-approved arsenic-containing compound	roxarsone	1	1	1	1	1.000000000000	NULL	NULL	10	6	0.1
+fda-approved biodegradable and biocompatible polymer	polylactic acid	1	1	2	2	NULL	NULL	NULL	232	96	0.0021551724137931034
+fda-approved biodegradable and biocompatible polymer	polylacticco-glycolic acid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fda-approved bioidentical hormone	Estrace	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+fda-approved biological drug	Interleukin-2	1	1	1	1	NULL	NULL	NULL	208	70	0.004807692307692308
+fda-approved clinical trial	SCID-X1 trial	2	2	2	1	NULL	NULL	NULL	2	1	1
+fda-approved COX-2 inhibitor	celecoxib	1	1	2	2	NULL	NULL	NULL	385	96	0.0012987012987012987
+fda-approved COX-2 inhibitor	valdecoxib	1	1	2	2	NULL	NULL	NULL	44	19	0.011363636363636364
+fda-approved dermal filler	Restylane	1	1	1	1	NULL	NULL	NULL	1325	289	0.0007547169811320754
+fda-approved drug	dihydropyridine calcium channel blocker	1	1	11	11	0.285714285714	NULL	NULL	7	4	0.012987012987012988
+fda-approved drug	Vioxx	1	1	11	11	0.285714285714	NULL	NULL	299	93	0.0003040437823046519
+fda-approved drug	Naltrexone	1	1	11	11	0.285714285714	NULL	NULL	331	93	0.00027464982147761604
+fda-approved drug	toxic fda-approved drug	1	1	11	11	0.285714285714	NULL	NULL	2	2	0.045454545454545456
+fda-approved drug	alendronate	1	1	11	11	0.285714285714	NULL	NULL	301	68	0.0003020235578375113
+fda-approved drug	over-the-counter minoxidil	1	1	11	11	0.285714285714	NULL	NULL	1	1	0.09090909090909091
+fda-approved drug	Fen-phen	1	1	11	11	0.285714285714	NULL	NULL	18	13	0.005050505050505051
+fda-approved drug	Aricept	1	1	11	11	0.285714285714	NULL	NULL	194	41	0.00046860356138706655
+fda-approved drug	Ex- elon	1	1	11	11	0.285714285714	NULL	NULL	1	1	0.09090909090909091
+fda-approved drug	Suboxone	1	1	11	11	0.285714285714	NULL	NULL	81	33	0.001122334455667789
+fda-approved drug	raloxifene	1	1	11	11	0.285714285714	NULL	NULL	305	89	0.00029806259314456036
+fda-approved HIV antiretroviral medication	tenofovir	1	1	1	1	0.500000000000	NULL	NULL	79	36	0.012658227848101266
+fda-approved HRT product	Prometrium	1	1	3	3	1.000000000000	NULL	NULL	13	11	0.02564102564102564
+fda-approved HRT product	Climara	1	1	3	3	1.000000000000	NULL	NULL	7	5	0.047619047619047616
+fda-approved HRT product	Vivelle	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+FDA-approved hyaluronic-acid filler	Restylane	1	1	1	1	NULL	NULL	NULL	1325	289	0.0007547169811320754
+fda-approved imaging agent	iron oxide nanoparticle MRI contrast agent	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-approved induction agent	midazolam	2	1	2	1	NULL	NULL	NULL	251	65	0.00796812749003984
+fda-approved ingredient	aloe	1	1	1	1	NULL	NULL	NULL	761	288	0.001314060446780552
+fda-approved injectable dermal filler	Restylane	3	3	3	1	NULL	NULL	NULL	1325	289	0.0022641509433962265
+fda-approved injectable skin filler	Restylane	1	1	1	1	NULL	NULL	NULL	1325	289	0.0007547169811320754
+fda-approved laser vision correction method	LASIK eye surgery	1	1	1	1	0.500000000000	NULL	NULL	32	18	0.03125
+fda-approved material	silicone	1	1	1	1	NULL	NULL	NULL	1547	664	0.0006464124111182935
+fda-approved medical countermeasure	vaccine	1	1	3	3	NULL	NULL	NULL	892	410	0.0003736920777279521
+fda-approved medical countermeasure	drug	1	1	3	3	NULL	NULL	NULL	5262	1715	0.00006334726973267451
+fda-approved medical countermeasure	diagnostic test	1	1	3	3	NULL	NULL	NULL	107	68	0.003115264797507788
+fda-approved medication	pregabalin	2	2	12	11	0.250000000000	NULL	NULL	136	55	0.0024509803921568627
+fda-approved medication	anti-craving medication naltrexone	1	1	12	11	0.250000000000	NULL	NULL	1	1	0.08333333333333333
+fda-approved medication	Lucentis	1	1	12	11	0.250000000000	NULL	NULL	64	24	0.0013020833333333333
+fda-approved medication	OTC orlistat	1	1	12	11	0.250000000000	NULL	NULL	1	1	0.08333333333333333
+fda-approved medication	Avastin	1	1	12	11	0.250000000000	NULL	NULL	200	75	0.00041666666666666664
+fda-approved medication	effective fda-approved medication	1	1	12	11	0.250000000000	NULL	NULL	2	2	0.041666666666666664
+fda-approved medication	genuine, brand-name, fda-approved medication	1	1	12	11	0.250000000000	NULL	NULL	2	2	0.041666666666666664
+fda-approved medication	injected product Radiesse	1	1	12	11	0.250000000000	NULL	NULL	1	1	0.08333333333333333
+fda-approved medication	relapse prevention medication Campral	1	1	12	11	0.250000000000	NULL	NULL	1	1	0.08333333333333333
+fda-approved medication	valproic acid	1	1	12	11	0.250000000000	NULL	NULL	439	105	0.00018982536066818525
+fda-approved medication	authentic fda-approved medication	1	1	12	11	0.250000000000	NULL	NULL	2	2	0.041666666666666664
+fda-approved method	positron emission tomography	1	1	2	2	NULL	NULL	NULL	1000	349	0.0005
+fda-approved method	molecular breast imaging	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+fda-approved nicotine replacement product	patch	1	1	1	1	NULL	NULL	NULL	2709	504	0.00036913990402362494
+fda-approved opioid agonist medication	methadone	1	1	1	1	NULL	NULL	NULL	931	291	0.0010741138560687433
+fda-approved osteoporosis drug	Actonel work by slowing the rate of bone loss	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fda-approved osteoporosis drug	Fosamax	1	1	2	2	NULL	NULL	NULL	347	93	0.001440922190201729
+fda-approved pharmaceutical-based osteoporosis treatment	hormone therapy	1	1	2	2	NULL	NULL	NULL	143	67	0.0034965034965034965
+fda-approved pharmaceutical-based osteoporosis treatment	bisphosphonate drug	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+fda-approved pharmaceuticalbased osteoporosis treatment	bisphosphonate drug	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+fda-approved pharmaceuticalbased osteoporosis treatment	hormone therapy	1	1	2	2	NULL	NULL	NULL	143	67	0.0034965034965034965
+fda-approved prescription contraceptive	birth-control pill	1	1	5	5	0.600000000000	NULL	NULL	35	15	0.005714285714285714
+fda-approved prescription contraceptive	Depo-Provera injection	1	1	5	5	0.600000000000	NULL	NULL	10	8	0.02
+fda-approved prescription contraceptive	intrauterine device	1	1	5	5	0.600000000000	NULL	NULL	113	53	0.001769911504424779
+fda-approved prescription contraceptive	diaphragm	1	1	5	5	0.600000000000	NULL	NULL	616	261	0.0003246753246753247
+fda-approved prescription contraceptive	Norplant implant	1	1	5	5	0.600000000000	NULL	NULL	10	7	0.02
+fda-approved prescription medication	affordable fda-approved prescription medication	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+fda-approved prescription medication	Viagra	1	1	2	2	NULL	NULL	NULL	1169	317	0.000427715996578272
+fda-approved procedure	Leg Vein & Acne Laser Therapy	2	2	13	8	0.166666666666	NULL	NULL	2	1	0.15384615384615385
+fda-approved procedure	Sculptra	2	2	13	8	0.166666666666	NULL	NULL	124	48	0.0024813895781637717
+fda-approved procedure	Botox	2	2	13	8	0.166666666666	NULL	NULL	1565	521	0.0001966085033177685
+fda-approved procedure	Laser Hair Removal	2	2	13	8	0.166666666666	NULL	NULL	437	188	0.0007041013906002464
+fda-approved procedure	Microdermabrasion	2	2	13	8	0.166666666666	NULL	NULL	810	322	0.00037986704653371323
+fda-approved procedure	Restylane	2	2	13	8	0.166666666666	NULL	NULL	1325	289	0.00023222060957910016
+fda-approved procedure	newest fda-approved procedure	1	1	13	8	0.166666666666	NULL	NULL	2	2	0.038461538461538464
+fda-approved product	Estrace	2	2	9	7	0.600000000000	NULL	NULL	17	12	0.0261437908496732
+fda-approved product	Synvisc	2	2	9	7	0.600000000000	NULL	NULL	13	10	0.034188034188034185
+fda-approved product	Climara patch	1	1	9	7	0.600000000000	NULL	NULL	3	3	0.037037037037037035
+fda-approved product	Legend	1	1	9	7	0.600000000000	NULL	NULL	325	215	0.0003418803418803419
+fda-approved product	Hyalgan	1	1	9	7	0.600000000000	NULL	NULL	8	8	0.013888888888888888
+fda-approved product	Vivelle-Dot patch	1	1	9	7	0.600000000000	NULL	NULL	1	1	0.1111111111111111
+fda-approved product	patch	1	1	9	7	0.600000000000	NULL	NULL	2709	504	0.00004101554489151388
+fda-approved smoking cessation product	patch	1	1	1	1	NULL	NULL	NULL	2709	504	0.00036913990402362494
+fda-approved solution	Minoxidil	1	1	1	1	NULL	NULL	NULL	300	105	0.0033333333333333335
+fda-approved topical product	metronidazole	2	2	6	4	0.250000000000	NULL	NULL	490	120	0.0013605442176870747
+fda-approved topical product	azeleic acid	2	2	6	4	0.250000000000	NULL	NULL	5	4	0.13333333333333333
+fda-approved topical product	skin cream	1	1	6	4	0.250000000000	NULL	NULL	127	70	0.0013123359580052493
+fda-approved topical product	baby oil	1	1	6	4	0.250000000000	NULL	NULL	440	124	0.0003787878787878788
+fda-approved treatment	Betaseron	2	2	7	5	1.000000000000	NULL	NULL	33	19	0.017316017316017316
+fda-approved treatment	Avonex	2	2	7	5	1.000000000000	NULL	NULL	38	19	0.015037593984962405
+fda-approved treatment	Lucentis	1	1	7	5	1.000000000000	NULL	NULL	64	24	0.002232142857142857
+fda-approved treatment	Macugen	1	1	7	5	1.000000000000	NULL	NULL	15	9	0.009523809523809523
+fda-approved treatment	cholinesterase inhibitor	1	1	7	5	1.000000000000	NULL	NULL	51	26	0.0028011204481792717
+fda-authorized nicotine replacement good	patch	1	1	1	1	NULL	NULL	NULL	2709	504	0.00036913990402362494
+fda-compliant application	stainless steel food	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-driven activity	patient record keeping in clinical trial	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-listed pesticide	Triclosan	1	1	1	1	NULL	NULL	NULL	195	84	0.005128205128205128
+FDA-quality documentation	requirements trace-matrix	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-regulated bioidentical hormone	estradiol	1	1	1	1	NULL	NULL	NULL	279	109	0.0035842293906810036
+fda-regulated company	pharmaceutical	1	1	2	2	NULL	NULL	NULL	3698	910	0.00013520822065981613
+fda-regulated company	medical device	1	1	2	2	NULL	NULL	NULL	510	204	0.000980392156862745
+FDA-regulated context	medical device	1	1	1	1	NULL	NULL	NULL	510	204	0.00196078431372549
+fda-regulated environment	pre-clinical drug development	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-regulated firm	pharmaceutical	1	1	1	1	0.500000000000	NULL	NULL	3698	910	0.00027041644131963225
+fda-regulated industry	beverage	2	2	7	6	0.333333333333	NULL	NULL	1252	466	0.00045641259698767686
+fda-regulated industry	production of food	1	1	7	6	0.333333333333	NULL	NULL	9	6	0.015873015873015872
+fda-regulated industry	personal care product	1	1	7	6	0.333333333333	NULL	NULL	177	84	0.0008071025020177562
+fda-regulated industry	biopharmaceutical	1	1	7	6	0.333333333333	NULL	NULL	17	8	0.008403361344537815
+fda-regulated industry	food	1	1	7	6	0.333333333333	NULL	NULL	18353	4439	0.00000778385783562049
+fda-regulated industry	medical device	1	1	7	6	0.333333333333	NULL	NULL	510	204	0.00028011204481792715
+fda-regulated prescription drug	barbiturate	1	1	1	1	NULL	NULL	NULL	847	215	0.0011806375442739079
+fda-required precaution	temperature-controlled packaging	1	1	1	1	NULL	NULL	NULL	1	1	1
+fda-sanctioned synthetic version	Wyeth's Prempro	4	4	4	1	1.000000000000	NULL	NULL	4	1	1
+FDAfocusesona topic	produce safety	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDAfocusesona topic	Listeria in dairy product	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fdapassive surveillance system	Drug Quality Reporting System	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+FDC customer	FAA	1	1	1	1	NULL	NULL	NULL	150	58	0.006666666666666667
+FDC device	tape-backup drive	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDC objective	gaining autonomy	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+FDC objective	increasing awareness	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+FDCC office	promises of support	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+FDCC office	seeking committments	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+fdcpaprohibits various unfair practice	charging interest	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FDD application	aeronautics	1	1	1	1	NULL	NULL	NULL	141	60	0.0070921985815602835
+FDD multi-input transmission	uplinks with multiple user	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDDI datum link development consideration	throughput	1	1	3	3	NULL	NULL	NULL	568	252	0.0005868544600938967
+FDDI datum link development consideration	data integrity	1	1	3	3	NULL	NULL	NULL	137	73	0.0024330900243309003
+FDDI datum link development consideration	latency	1	1	3	3	NULL	NULL	NULL	516	253	0.0006459948320413436
+FDDI-II management agent	call controller	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+FDE containment structure	proprietary concrete	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDE product set	Synet's suite of product	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDG avid benign entity	thymic sarcoidosis	2	2	2	1	NULL	NULL	NULL	2	1	1
+fdg-avid tumor	melanoma	1	1	1	1	NULL	NULL	NULL	542	173	0.0018450184501845018
+FDI	Alcan into South Africa	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDI assignment	detailed presentation	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDI attraction tool	web site	1	1	2	2	NULL	NULL	NULL	1093	552	0.0004574565416285453
+FDI attraction tool	strategy	1	1	2	2	NULL	NULL	NULL	1029	403	0.00048590864917395527
+FDI brand hydraulic product	strut	1	1	2	2	NULL	NULL	NULL	171	89	0.0029239766081871343
+FDI brand hydraulic product	shock absorbers	1	1	2	2	NULL	NULL	NULL	202	103	0.0024752475247524753
+FDI component	reinvested earnings	2	2	2	1	NULL	NULL	NULL	5	4	0.4
+FDI deal	partnership between Italian owned Aria	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDI dependent country	Kenya	1	1	2	2	NULL	NULL	NULL	3203	448	0.00015610365282547612
+FDI dependent country	Gambia	1	1	2	2	NULL	NULL	NULL	380	59	0.0013157894736842105
+FDI destination	Egypt	1	1	1	1	NULL	NULL	NULL	5386	987	0.0001856665428889714
+FDI determinant	market size	1	1	1	1	NULL	NULL	NULL	209	84	0.004784688995215311
+FDI device	vend card device	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDI dimension	flow	1	1	1	1	NULL	NULL	NULL	879	440	0.0011376564277588168
+FDI flow	new foreign firms in the host country	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDI hotspot	Turkey	1	1	1	1	NULL	NULL	NULL	7587	1715	0.00013180440226703572
+FDI ion area	sustainable agriculture	1	1	1	1	NULL	NULL	NULL	76	46	0.013157894736842105
+FDI method	Euler	1	1	2	2	NULL	NULL	NULL	70	44	0.007142857142857143
+FDI method	neural network	1	1	2	2	NULL	NULL	NULL	1727	707	0.00028951939779965256
+FDI mode	joint venture	1	1	2	2	NULL	NULL	NULL	469	263	0.0010660980810234541
+FDI mode	wholly owned subsidiary	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+FDI new EU country	Rumania	1	1	1	1	1.000000000000	NULL	NULL	63	29	0.015873015873015872
+FDI oriented sector	textile	1	1	1	1	NULL	NULL	NULL	3810	1081	0.00026246719160104987
+FDI restriction	ownership barrier	2	1	2	1	NULL	NULL	NULL	2	1	1
+FDI scarce economy	Korea	1	1	2	2	NULL	NULL	NULL	4199	730	0.00011907597046915932
+FDI scarce economy	Taiwan	1	1	2	2	NULL	NULL	NULL	3397	645	0.00014718869590815426
+FDI source country	U.S	2	2	2	1	NULL	NULL	NULL	1028	276	0.0019455252918287938
+FDI-dependent LDCs	Singapore	1	1	2	2	NULL	NULL	NULL	7135	1325	0.0000700770847932726
+FDI-dependent LDCs	Nigeria	1	1	2	2	NULL	NULL	NULL	3333	572	0.00015001500150015003
+fdi-dominated urban economy	Xiamen in China	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+fdi-related activity	R&D undertaken by foreign affiliate	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+fdi-related activity	technology imports from parent company	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+fdi-related activity	export operations of affiliate	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+fdi-specific measure	national treatment	1	1	1	1	NULL	NULL	NULL	38	22	0.02631578947368421
+FDIC insured bank product	CDs	1	1	2	2	NULL	NULL	NULL	2459	934	0.00020333468889792598
+FDIC insured bank product	savings account	1	1	2	2	NULL	NULL	NULL	551	210	0.0009074410163339383
+FDIC insured interest bearing account	savings account	1	1	2	2	NULL	NULL	NULL	551	210	0.0009074410163339383
+FDIC insured interest bearing account	CDs	1	1	2	2	NULL	NULL	NULL	2459	934	0.00020333468889792598
+FDIC insured, state-chartered bank	Borel	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+FDIC insured, state-chartered bank	Boston Private Bank & Trust Company	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FDIC IT resource	telephone	1	1	2	2	NULL	NULL	NULL	6660	1994	0.00007507507507507507
+FDIC IT resource	E-mail	1	1	2	2	NULL	NULL	NULL	4959	1772	0.00010082677959265981
+FDIC organizational component	Office of Diversity	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+FDIC sensitive information	account number	1	1	2	2	NULL	NULL	NULL	1267	232	0.0003946329913180742
+FDIC sensitive information	Social Security	1	1	2	2	NULL	NULL	NULL	3475	1022	0.00014388489208633093
+fdic-insured institution	Ledger Bank	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+fdic-insured retirement account	Individual Retirement Accounts	1	1	1	1	NULL	NULL	NULL	104	42	0.009615384615384616
+fdic-sponsored event	bankers teleconference	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fdic-sponsored event	deposit insurance seminar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fdic-supervised institution	state-chartered savings bank	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDICIA requirement	formal internal control assessment	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDICpolicies	modified payout	1	0	1	1	NULL	NULL	NULL	1	1	1
+FDII option	extra inch of ground clearance	1	1	1	1	NULL	NULL	NULL	1	1	1
+fdl-scale morality drama	Castle of Perseverance	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+FDLE crime lab technician	Ms. Rainwater	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDLE event	fishing trip	1	1	4	4	0.500000000000	NULL	NULL	96	49	0.0026041666666666665
+FDLE event	party	1	1	4	4	0.500000000000	NULL	NULL	2492	715	0.00010032102728731942
+FDLE event	awards ceremony	1	1	4	4	0.500000000000	NULL	NULL	159	39	0.0015723270440251573
+FDLE event	retirement	1	1	4	4	0.500000000000	NULL	NULL	1526	506	0.000163826998689384
+FDLRS resource book	Vocabulary Cartoons	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+fdm's prestigious client	UBS	4	4	17	6	0.166666666666	NULL	NULL	626	245	0.0015034767900770532
+fdm's prestigious client	AA	3	3	17	6	0.166666666666	NULL	NULL	214	118	0.002473886750962067
+fdm's prestigious client	RBS	3	3	17	6	0.166666666666	NULL	NULL	253	103	0.0020925366193908393
+fdm's prestigious client	BBC	3	3	17	6	0.166666666666	NULL	NULL	2096	715	0.0002525819488100584
+fdm's prestigious client	HSBC	3	3	17	6	0.166666666666	NULL	NULL	1887	530	0.00028055737398297953
+fdm's prestigious client	Sony	1	1	17	6	0.166666666666	NULL	NULL	6122	1647	0.000009608547764090935
+FDMA system	CT2	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+FDMAEDMA based network	GSM	1	1	1	1	NULL	NULL	NULL	1084	455	0.0009225092250922509
+FDMAsystems	AMPS	1	1	1	1	NULL	NULL	NULL	80	60	0.0125
+FDN subscription service	antivirus	1	1	1	1	NULL	NULL	NULL	475	223	0.002105263157894737
+FDNY service	car accident	1	1	1	1	NULL	NULL	NULL	750	313	0.0013333333333333333
+FDO datum source	Oracle	1	1	2	2	NULL	NULL	NULL	4631	1430	0.00010796804145972792
+FDO datum source	SQL Server	1	1	2	2	NULL	NULL	NULL	862	354	0.000580046403712297
+FDO srelyonfine-grained profile information	basic block frequency	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+FDO srelyonfine-grained profile information	value profile	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDOE committee	Sunshine State Standards Writing Team for world language	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDOT financial commitment	debt service	1	1	1	1	NULL	NULL	NULL	140	59	0.007142857142857143
+FDOT index	Index No. 505 Embankment Utilization	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDP agency	DOE	1	1	3	3	0.666666666666	NULL	NULL	34	20	0.00980392156862745
+FDP agency	NIH	1	1	3	3	0.666666666666	NULL	NULL	11	9	0.0303030303030303
+FDP agency	NSF	1	1	3	3	0.666666666666	NULL	NULL	267	89	0.0012484394506866417
+FDP parameter	CT	1	1	1	1	NULL	NULL	NULL	2212	752	0.0004520795660036166
+FDR ally	Senator Wagner	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDR information	insurance company risk-based-capital amount	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FDR information	ratio	1	1	2	2	NULL	NULL	NULL	304	143	0.001644736842105263
+FDR operative	Richard Gilbert	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FDR operative	Leon Henderson	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FDR program	WPA	1	1	1	1	NULL	NULL	NULL	174	95	0.005747126436781609
+fdr's first new deal program	Civilian Conservation Corps	1	1	1	1	1.000000000000	NULL	NULL	80	32	0.0125
+fdr's most popular reform	Social Security	1	1	2	2	NULL	NULL	NULL	3475	1022	0.00014388489208633093
+fdr's most popular reform	unemployment benefit	1	1	2	2	NULL	NULL	NULL	239	137	0.0020920502092050207
+fdr's new deal program	Social Security	1	1	1	1	NULL	NULL	NULL	3475	1022	0.00028776978417266187
+fdr's policy	wage	1	1	1	1	NULL	NULL	NULL	1338	491	0.0007473841554559044
+fdr's program	Social Security	2	2	5	3	0.333333333333	NULL	NULL	3475	1022	0.00023021582733812951
+fdr's program	WPA	2	2	5	3	0.333333333333	NULL	NULL	174	95	0.004597701149425287
+fdr's program	Works Progress Administration	1	1	5	3	0.333333333333	NULL	NULL	69	29	0.002898550724637681
+fdr's project	TVA	1	1	3	3	NULL	NULL	NULL	73	38	0.0045662100456621
+fdr's project	Hoover damn	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+fdr's project	NRA	1	1	3	3	NULL	NULL	NULL	147	75	0.0022675736961451248
+fdr's signature achievement	Glass-Steagall Act	2	2	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+fdrs pre-war strictly domestic action	creation of a host of alphabit agency	1	1	1	1	NULL	NULL	NULL	1	1	1
+FDS game	Zelda	1	1	2	2	0.500000000000	NULL	NULL	289	132	0.0017301038062283738
+FDS game	Castlevania	1	1	2	2	0.500000000000	NULL	NULL	51	29	0.00980392156862745
+FDS sprinkler characteristic	droplet size	1	1	1	1	1.000000000000	NULL	NULL	45	23	0.022222222222222223
+FDSN global seismographic network	GSN	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+FDT frame application	engineering system	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FDTD simulation	scattering from dielectric sphere	1	1	1	1	NULL	NULL	NULL	1	1	1

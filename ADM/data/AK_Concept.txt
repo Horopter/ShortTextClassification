@@ -1,0 +1,248 @@
+AK component	stock	1	1	1	1	NULL	NULL	NULL	3840	947	0.00026041666666666666
+AK force	9 th Infantry Division in the north	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK model	Jones	1	1	1	1	NULL	NULL	NULL	288	131	0.003472222222222222
+AK new agent	inhibitors of factor Xa	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK procedure	therapy localization	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK russian optic	Kobra	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+AK technique	strain-counter strain	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+AK technique	insertion	1	1	4	4	NULL	NULL	NULL	328	163	0.0007621951219512195
+AK technique	reactive muscle pattern	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+AK technique	muscle spindle technique	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+AK thumbhole stock	SLR95 stock	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK variant	Saiga	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+AK variety	AKS-74U Krinkov	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK's	Tantal	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK-104 type	Saiga MK	1	1	1	1	NULL	NULL	NULL	1	1	1
+AK-22 program receipt	permit fee	1	1	1	1	0.333333333333	NULL	NULL	47	24	0.02127659574468085
+AK-47 rifle	Century Arms M70	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AK-47 rifle	Century Arms M70 rifle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AK-74 component	pistol grip	1	1	1	1	0.500000000000	NULL	NULL	54	32	0.018518518518518517
+AK6 sequence	Baker's yeast	1	1	1	1	0.250000000000	NULL	NULL	49	24	0.02040816326530612
+Aka center area	downtown	1	1	1	1	NULL	NULL	NULL	302	139	0.0033112582781456954
+AKA fighter	Josh The Punk Thomson	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+AKA fighter	Daniel Cormier	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+AKA fighter	Billy Evangelista	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+aka gem	Death Spank	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+aka gem	Shoot 1up	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+aka gem	Moon Diver	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+AKA goodie	SCM LPR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AKA goodie	Sidewinder HPR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AKA initiative	Health Committee	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+aka new yorker story	An Ocean Full of Bowling Balls	1	1	1	1	NULL	NULL	NULL	1	1	1
+AKA smoosh-face dog	pug	1	1	2	2	NULL	NULL	NULL	496	100	0.0010080645161290322
+AKA smoosh-face dog	boston terrier	1	1	2	2	NULL	NULL	NULL	189	38	0.0026455026455026454
+akademi fantasia star	Mila	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+AKADNS site	yahoo	1	0	1	1	NULL	NULL	NULL	8994	2110	0.000111185234600845
+AKAI service manual	DP-730 CD Player	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AKAI service manual	GX-W830 Cassette Deck	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AKAI service manual	DA-F830 Radio Tuner	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AKAI service manual	DA-E830 Graphic Equalizer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AKAI service manual	DA-U730 Stereo Integrated Amplifier	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+akali leader	Jagdev Singh Talwandi	1	1	1	1	NULL	NULL	NULL	1	1	1
+akali nihang veteran	Nihang Baba Mehr Singh of Sach Khand Hazoor Sahib	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akali nihang veteran	96 Crore Akali Nihang Baba Santa Singh	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akali nihang veteran	Akali Nihang Baba Bali Singh of Goindwal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akaline food	green	1	1	1	1	NULL	NULL	NULL	6694	1904	0.00014938751120406333
+akalinizing agent	sodium bicarbonate	1	1	1	1	NULL	NULL	NULL	533	221	0.001876172607879925
+akamai's edge delivery technology	dynamic content acceleration	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+akamai's edge delivery technology	mobile optimization	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+akamaru's heightened sense	hearing	3	3	6	2	NULL	NULL	NULL	954	391	0.0015723270440251573
+akamaru's heightened sense	smell	3	3	6	2	NULL	NULL	NULL	760	286	0.001973684210526316
+akamatsu's follower	Murakami Yasusuke	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+akan group	Ashanti federation	5	5	5	1	NULL	NULL	NULL	5	1	1
+akan region	Eastern	1	0	4	4	NULL	NULL	NULL	123	74	0.0020325203252032522
+akan region	Ashanti	1	0	4	4	NULL	NULL	NULL	94	40	0.0026595744680851063
+akan region	Central	1	0	4	4	NULL	NULL	NULL	332	151	0.0007530120481927711
+akan region	Brong Ahafo	1	0	4	4	NULL	NULL	NULL	1	1	0.25
+akan society	Asante	1	1	1	1	NULL	NULL	NULL	20	12	0.05
+AKAP	MMGL	1	1	1	1	NULL	NULL	NULL	1	1	1
+AKAPs	ezrin	1	1	1	1	1.000000000000	NULL	NULL	18	13	0.05555555555555555
+akas	Memphis in May	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+akashi visual consumer electronics unit	apple	1	1	1	1	NULL	NULL	NULL	15894	3432	0.00006291682395872656
+Akaviri peoples	Tsaeci practice dual wielding	1	1	1	1	NULL	NULL	NULL	1	1	1
+akb48's sister group	SKE48	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+akb48's song	Heavy Rotation	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+akbank product	emergency loan	1	1	3	3	0.500000000000	NULL	NULL	13	10	0.02564102564102564
+akbank product	credit card	1	1	3	3	0.500000000000	NULL	NULL	4647	1230	0.0000717308657915501
+akbank product	fixed-term deposit	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+akbar's famous courtier	Raja Todarmal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akbar's famous courtier	Abu Fazal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akbar's famous courtier	Birbal	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+akbar's step	ordering a systematic translation of Hindu religious classics from Sanskrit into Persian	1	1	1	1	NULL	NULL	NULL	1	1	1
+AKBITS service	MSN Hotmail	1	1	1	1	1.000000000000	NULL	NULL	41	32	0.024390243902439025
+AKC activity	tracking	1	1	5	5	0.250000000000	NULL	NULL	756	361	0.00026455026455026457
+AKC activity	lure coursing	1	1	5	5	0.250000000000	NULL	NULL	25	12	0.008
+AKC activity	obedience	1	1	5	5	0.250000000000	NULL	NULL	416	158	0.0004807692307692308
+AKC activity	agility	1	1	5	5	0.250000000000	NULL	NULL	867	280	0.0002306805074971165
+AKC activity	single track racing	1	1	5	5	0.250000000000	NULL	NULL	1	1	0.2
+AKC companion event	obedience	1	1	2	2	NULL	NULL	NULL	416	158	0.001201923076923077
+AKC companion event	rally	1	1	2	2	NULL	NULL	NULL	340	163	0.0014705882352941176
+AKC event	agility	13	10	45	19	0.500000000000	NULL	NULL	867	280	0.0043316673074458535
+AKC event	obedience	11	11	45	19	0.500000000000	NULL	NULL	416	158	0.006463675213675213
+AKC event	Rally	4	4	45	19	0.500000000000	NULL	NULL	340	163	0.0010457516339869282
+AKC event	Conformation	2	2	45	19	0.500000000000	NULL	NULL	108	46	0.0008230452674897119
+AKC event	Hunt Tests	2	1	45	19	0.500000000000	NULL	NULL	3	2	0.02962962962962963
+AKC event	Field Trials	2	1	45	19	0.500000000000	NULL	NULL	4	3	0.022222222222222223
+AKC event	agility obedience	1	1	45	19	0.500000000000	NULL	NULL	1	1	0.022222222222222223
+AKC event	confirmation	1	1	45	19	0.500000000000	NULL	NULL	304	129	0.00007309941520467836
+AKC event	junior show handling	1	1	45	19	0.500000000000	NULL	NULL	1	1	0.022222222222222223
+AKC event	Herding	1	1	45	19	0.500000000000	NULL	NULL	143	72	0.0001554001554001554
+AKC event	Obedience trial	1	0	45	19	0.500000000000	NULL	NULL	14	11	0.0015873015873015873
+AKC event	Sanctioned Matches	1	1	45	19	0.500000000000	NULL	NULL	1	1	0.022222222222222223
+AKC event	Supported Entries	1	1	45	19	0.500000000000	NULL	NULL	1	1	0.022222222222222223
+AKC event	tracking	1	1	45	19	0.500000000000	NULL	NULL	756	361	0.000029394473838918284
+AKC event	conformation showing	1	1	45	19	0.500000000000	NULL	NULL	1	1	0.022222222222222223
+AKC event	showmanship	1	1	45	19	0.500000000000	NULL	NULL	31	20	0.0007168458781362007
+AKC event	hunting test	1	1	45	19	0.500000000000	NULL	NULL	1	1	0.022222222222222223
+AKC licensed or member event	agility	1	1	4	4	0.250000000000	NULL	NULL	867	280	0.0002883506343713956
+AKC licensed or member event	water work	1	1	4	4	0.250000000000	NULL	NULL	27	23	0.009259259259259259
+AKC licensed or member event	obedience	1	1	4	4	0.250000000000	NULL	NULL	416	158	0.0006009615384615385
+AKC licensed or member event	tracking	1	1	4	4	0.250000000000	NULL	NULL	756	361	0.00033068783068783067
+AKC performance event	Agility	1	1	3	3	NULL	NULL	NULL	867	280	0.0003844675124951941
+AKC performance event	Herding	1	1	3	3	NULL	NULL	NULL	143	72	0.002331002331002331
+AKC performance event	Obedience	1	1	3	3	NULL	NULL	NULL	416	158	0.0008012820512820513
+AKC title	obedience	2	2	8	7	0.666666666666	NULL	NULL	416	158	0.001201923076923077
+AKC title	JH	1	1	8	7	0.666666666666	NULL	NULL	10	9	0.0125
+AKC title	championship	1	1	8	7	0.666666666666	NULL	NULL	49	35	0.002551020408163265
+AKC title	field championship	1	1	8	7	0.666666666666	NULL	NULL	1	1	0.125
+AKC title	hunting test tittle	1	1	8	7	0.666666666666	NULL	NULL	1	1	0.125
+AKC title	hunting test title	1	1	8	7	0.666666666666	NULL	NULL	1	1	0.125
+AKC title	show championship	1	1	8	7	0.666666666666	NULL	NULL	1	1	0.125
+AKC venue	agility	1	1	2	2	NULL	NULL	NULL	867	280	0.0005767012687427913
+AKC venue	obidience	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+akdart topic	global warming	1	1	3	3	0.666666666666	NULL	NULL	2453	645	0.00013588802826470988
+akdart topic	hate crime	1	1	3	3	0.666666666666	NULL	NULL	77	42	0.004329004329004329
+akdart topic	media bias	1	1	3	3	0.666666666666	NULL	NULL	13	10	0.02564102564102564
+AKDN institution	Aga Khan Health Services	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+akdn's pakistan-based agency	Aga Khan University	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ake home incredible prize	gift basket	1	0	1	1	NULL	NULL	NULL	309	117	0.003236245954692557
+AKE protocol	Menezes-Qu-Vanstone	2	2	2	1	NULL	NULL	NULL	2	1	1
+ake specific measure	providing targeted information	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+akebi activity	English Speaking Society	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+akebi activity	Social Events at the Akebi Dorms	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Akeying mechanism	mating configuration	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+AKF community-led initiative	well	1	1	2	2	NULL	NULL	NULL	712	394	0.0007022471910112359
+AKF community-led initiative	check dam	1	1	2	2	NULL	NULL	NULL	131	95	0.003816793893129771
+AKG advocate important value	courtesy	1	1	3	3	NULL	NULL	NULL	365	146	0.0009132420091324201
+AKG advocate important value	respect	1	1	3	3	NULL	NULL	NULL	2479	618	0.0001344628210299852
+AKG advocate important value	patience	1	1	3	3	NULL	NULL	NULL	1276	375	0.0002612330198537095
+AKG product	NO2	1	1	1	1	NULL	NULL	NULL	63	35	0.015873015873015872
+AKG's	AKG K240Studio	1	1	1	1	NULL	NULL	NULL	1	1	1
+akg's classic microphone	C12	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+akha missionary	Luka	1	1	3	3	1.000000000000	NULL	NULL	12	13	0.027777777777777776
+akha missionary	Yot	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+akha missionary	Aje	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+akhmetov's henchman	Boris Kolesnikov	1	1	1	1	NULL	NULL	NULL	1	1	1
+AKI classification system	Risk	1	1	1	1	NULL	NULL	NULL	1122	401	0.00089126559714795
+akibia's application delivery solution	WAN optimization	1	1	2	2	0.500000000000	NULL	NULL	24	15	0.020833333333333332
+akibia's application delivery solution	Load Balancing	1	1	2	2	0.500000000000	NULL	NULL	459	194	0.0010893246187363835
+Akick-off event	all-hands meeting	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+Akick-off social event	cocktail party	2	1	4	2	NULL	NULL	NULL	256	108	0.00390625
+Akick-off social event	luncheon	2	1	4	2	NULL	NULL	NULL	222	84	0.0045045045045045045
+akidnognathids	Moschorhinus	1	1	1	1	NULL	NULL	NULL	1	1	1
+akimbo weapon	full auto pistol	1	1	1	1	NULL	NULL	NULL	1	1	1
+akin process	strategic planning	1	1	1	1	NULL	NULL	NULL	805	351	0.0012422360248447205
+akin product	tablet	1	1	3	3	NULL	NULL	NULL	2918	735	0.00011423349326022389
+akin product	pill	1	1	3	3	NULL	NULL	NULL	1393	498	0.00023929169657812874
+akin product	mixture	1	1	3	3	NULL	NULL	NULL	64	41	0.005208333333333333
+akin unfilled technology	code signing	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+akin unfilled technology	root signing certificate	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+akin unfilled technology	SSL certificate	1	1	3	3	1.000000000000	NULL	NULL	58	34	0.005747126436781609
+akinetic-rigid state	FTD-17 dementia	1	1	1	1	NULL	NULL	NULL	1	1	1
+akinetic-rigid syndrome	Parkinson's disease	1	1	1	1	NULL	NULL	NULL	2257	385	0.00044306601683650863
+akings	multinatianal Indian Ocean Expeditian	1	1	1	1	NULL	NULL	NULL	1	1	1
+akio's toy	mechanical piano	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+akios toy	mechanical piano	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+akira kurosawa early film	Idiot	2	2	12	6	1.000000000000	NULL	NULL	102	33	0.00326797385620915
+akira kurosawa early film	Stray Dog	2	2	12	6	1.000000000000	NULL	NULL	53	23	0.006289308176100628
+akira kurosawa early film	Scandal	2	2	12	6	1.000000000000	NULL	NULL	45	33	0.007407407407407407
+akira kurosawa early film	Drunken Angel	2	2	12	6	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+akira kurosawa early film	Quiet Duel	2	2	12	6	1.000000000000	NULL	NULL	2	1	0.16666666666666666
+akira kurosawa early film	Seven Samurai	2	2	12	6	1.000000000000	NULL	NULL	37	20	0.009009009009009009
+akira kurosawa film	Yojimbo	1	1	3	3	1.000000000000	NULL	NULL	17	12	0.0196078431372549
+akira kurosawa film	Rashoman	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+akira kurosawa film	Hidden Fortress	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+Akira s hardware	laser satellite	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+Akira s hardware	police robot	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+akita s delicacy	Inaniwa cold noodle	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+akita's delicacy	Kiritanpo	4	2	14	8	NULL	NULL	NULL	4	1	0.2857142857142857
+akita's delicacy	Iburi gakko	3	3	14	8	NULL	NULL	NULL	3	1	0.21428571428571427
+akita's delicacy	Inaniwa Cold Noodle	2	2	14	8	NULL	NULL	NULL	3	2	0.09523809523809523
+akita's delicacy	Akita miso flaor honey chicken	1	1	14	8	NULL	NULL	NULL	1	1	0.07142857142857142
+akita's delicacy	Akita Miso Flavored Fried Chicken	1	1	14	8	NULL	NULL	NULL	1	1	0.07142857142857142
+akita's delicacy	Cold Inaniwa Noodles	1	1	14	8	NULL	NULL	NULL	1	1	0.07142857142857142
+akita's delicacy	Akita miso flavor honey chicken	1	1	14	8	NULL	NULL	NULL	1	1	0.07142857142857142
+akita's delicacy	Inaniwa cold udon noodle	1	1	14	8	NULL	NULL	NULL	1	1	0.07142857142857142
+akiza item	card holder	1	1	1	1	NULL	NULL	NULL	50	38	0.02
+AKJ help customer	NHS	1	1	1	1	NULL	NULL	NULL	494	196	0.0020242914979757085
+AKK value	respect	2	2	3	2	NULL	NULL	NULL	2479	618	0.0005378512841199408
+AKK value	integrity	1	1	3	2	NULL	NULL	NULL	2785	714	0.00011968880909634949
+AKL s	Chris Dvorak	1	1	1	1	NULL	NULL	NULL	1	1	1
+akl's few store	DFS Galleria	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+aklali metal	sodium	1	1	2	2	NULL	NULL	NULL	4080	988	0.00012254901960784314
+aklali metal	lithium	1	1	2	2	NULL	NULL	NULL	1924	438	0.0002598752598752599
+aklaline food	almond	1	1	2	2	NULL	NULL	NULL	4195	930	0.00011918951132300358
+aklaline food	lemon	1	1	2	2	NULL	NULL	NULL	4478	1053	0.00011165698972755694
+Aklanons	Melchor F. Cichon	7	7	14	3	NULL	NULL	NULL	7	1	0.5
+Aklanons	Niezel Rondario Fernando	4	4	14	3	NULL	NULL	NULL	4	1	0.2857142857142857
+Aklanons	Roman Aguirre	3	3	14	3	NULL	NULL	NULL	3	1	0.21428571428571427
+aklavik elder	Amos Paul	1	1	1	1	NULL	NULL	NULL	1	1	1
+aknownlimi-tationofschemes	acoustic code-breaking	1	1	1	1	NULL	NULL	NULL	1	1	1
+akonadi item	appointment	1	1	1	2	NULL	NULL	NULL	488	217	0.0020491803278688526
+akoya pearl related offer	Pearl Bracelet	1	1	2	2	1.000000000000	NULL	NULL	21	17	0.023809523809523808
+akoya pearl related offer	Pearl Jewellery	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+akqa's client	Mini	1	1	6	6	NULL	NULL	NULL	164	101	0.001016260162601626
+akqa's client	BMW	1	1	6	6	NULL	NULL	NULL	3327	977	0.00005009518084360284
+akqa's client	Land Rover	1	1	6	6	NULL	NULL	NULL	322	141	0.0005175983436853001
+akqa's client	Microsoft	1	1	6	6	NULL	NULL	NULL	11308	2573	0.000014738827968399952
+akqa's client	Nike	1	1	6	6	NULL	NULL	NULL	4837	1186	0.00003445661911653228
+akqa's client	Sainsbury's	1	1	6	6	NULL	NULL	NULL	446	146	0.0003736920777279521
+AKR1 enzyme	AKR1B1	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+akrebeia's professional service	Akrebeia Consulting	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akrebeia's professional service	Akrebeia Training	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akrebeia's professional service	Akrebeia Support	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+akrikaner-owned and run business	media giant Naspers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+akrikaner-owned and run business	lender Capitec Bank	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+akron attraction	University of Akron	1	1	2	2	1.000000000000	NULL	NULL	18	13	0.027777777777777776
+akron attraction	Akron Area Pride Collective	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+akron native	former Poet Laureate Consultant in Poetry to the Library of Congress Rita Dove	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+akron player	Darlington Nagbe	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+akron player	Perry Kitchen	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+akron player	Zarek Valentin	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+akron public school	Firestone	1	1	1	1	NULL	NULL	NULL	262	111	0.003816793893129771
+akron's extended learning opportunity	summer program	1	1	1	1	1.000000000000	NULL	NULL	41	31	0.024390243902439025
+Akronites	former Poet Laureate Consultant in Poetry to the Library of Congress Rita Dove	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AKRs	carbonyl reductase	5	4	7	2	0.500000000000	NULL	NULL	5	1	0.7142857142857143
+AKRs	aldehyde reductase	2	2	7	2	0.500000000000	NULL	NULL	4	3	0.14285714285714285
+AKs	Yugo	1	1	3	3	0.666666666666	NULL	NULL	14	14	0.023809523809523808
+AKs	Romanian WASR10	1	1	3	3	0.666666666666	NULL	NULL	1	1	0.3333333333333333
+AKs	Arsenals	1	1	3	3	0.666666666666	NULL	NULL	1	1	0.3333333333333333
+akshay's recent movie	Tees Maar Khan	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+aksu many historical site	Sayram Thousand-Buddha Caves	1	1	1	1	NULL	NULL	NULL	1	1	1
+aksyonov's last publica-russian writer	Solzhenitsyn	1	1	1	1	1.000000000000	NULL	NULL	20	15	0.05
+akt activator	Kras	1	1	1	1	0.666666666666	NULL	NULL	9	9	0.1111111111111111
+Akt effectors	FRAP	1	1	1	1	1.000000000000	NULL	NULL	36	19	0.027777777777777776
+Akt inhibition	PI3K inhibition	1	1	1	1	NULL	NULL	NULL	1	1	1
+akt inhibitor	amiloride	3	2	9	7	0.500000000000	NULL	NULL	90	21	0.011111111111111112
+akt inhibitor	phosphatidylinositol ester analog	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+akt inhibitor	Aktinhibitor VIII	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+akt inhibitor	Akt inhibitor VIII	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+akt inhibitor	myoinositol derivative	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+akt inhibitor	calmodulin-like inhibitor	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+akt inhibitor	phosphatidylinositol analog	1	1	9	7	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+akt substrate	GSK3	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+akt-binding protein	CTMP	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+Akteffectors	FRAP	1	1	1	1	1.000000000000	NULL	NULL	36	19	0.027777777777777776
+aktion T-4 site	Bernburg	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+aktion T-4 site	Grafeneck	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+aktion T-4 site	Hadamar	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+aktion T-4 site	Sonnenstein	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+aktion T-4 site	Hartheim	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+aktion-sarten	ingressive	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+aktion-sarten	semelfactive	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+akubra hat	Banjo Patterson	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+akubra hat	Fedora along with the Stylmaster	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+akutagawa's later autobiographical work	Fool's Life	1	1	1	1	NULL	NULL	NULL	1	1	1
+akvo tool	Marketplace	1	1	1	1	0.500000000000	NULL	NULL	160	68	0.00625
+akwuatic sport	boateng	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+akylene oxide	propene oxide	2	2	2	1	NULL	NULL	NULL	2	1	1

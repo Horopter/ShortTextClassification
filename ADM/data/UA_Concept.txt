@@ -1,0 +1,311 @@
+UA anatomical factor	fat surrounding the UA	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UA anatomical factor	neck circumference	1	1	2	2	1.000000000000	NULL	NULL	16	10	0.03125
+UA certification program	rigging certification	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UA certification program	16-week accelerated welder training program for returning veteran	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UA certification program	Certified Welder Inspector prep course	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UA department	aerospace	1	1	2	2	NULL	NULL	NULL	1841	426	0.00027159152634437803
+UA department	optic	1	1	2	2	NULL	NULL	NULL	356	143	0.0014044943820224719
+UA employee	maintenance worker	1	1	2	2	0.500000000000	NULL	NULL	61	41	0.00819672131147541
+UA employee	professor	1	1	2	2	0.500000000000	NULL	NULL	402	163	0.0012437810945273632
+UA ensemble	Concert Choir	1	1	6	6	0.500000000000	NULL	NULL	29	20	0.005747126436781609
+UA ensemble	Chamber Choir	1	1	6	6	0.500000000000	NULL	NULL	9	6	0.018518518518518517
+UA ensemble	Opera Workshop	1	1	6	6	0.500000000000	NULL	NULL	4	4	0.041666666666666664
+UA ensemble	University Band	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+UA ensemble	Marching Band	1	1	6	6	0.500000000000	NULL	NULL	114	65	0.0014619883040935672
+UA ensemble	Concert Band	1	1	6	6	0.500000000000	NULL	NULL	61	35	0.00273224043715847
+UA great	Frank Howard	1	1	5	5	0.800000000000	NULL	NULL	8	6	0.025
+UA great	Lee Roy Jordan	1	1	5	5	0.800000000000	NULL	NULL	10	8	0.02
+UA great	John Hannah	1	1	5	5	0.800000000000	NULL	NULL	13	12	0.015384615384615385
+UA great	Ozzie Newsome	1	1	5	5	0.800000000000	NULL	NULL	11	7	0.018181818181818184
+UA great	Johnny Musso	1	1	5	5	0.800000000000	NULL	NULL	4	3	0.05
+UA image	Bryant-Denny Stadium	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UA image	Denny Chimes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UA philosopher	Terry Horgan	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+UA philosopher	Uriah Kriegel	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+UA philosopher	Shaun Nichols	2	2	8	4	NULL	NULL	NULL	4	3	0.125
+UA philosopher	Regents Professors John Pollock	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+UA player	Jason Gardner	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+UA player	Isaiah Fox	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+UA program	Joseph S. Bruno Nursing Academy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UA program	Nightingale Day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UA station	PDX	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+UA student	Bryce Morrell	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UA student	sophomore Laura Reichhardt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UA student	sophomore majoring in education	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UA student	Leslie Jones	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+UA website	UK website	1	1	1	1	NULL	NULL	NULL	1	1	1
+UA&P stalwart	Joyce de Leon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UA&P stalwart	Cathy Limsoc	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UA&P stalwart	Ronnie Balbieran	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ua's cultural and technological resource	Center for Instructional Technology	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ua's cultural and technological resource	Center for Creative Photography	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ua's cultural and technological resource	Main Library	1	1	4	4	1.000000000000	NULL	NULL	11	10	0.022727272727272728
+ua's cultural and technological resource	Museum of Art	1	1	4	4	1.000000000000	NULL	NULL	35	20	0.007142857142857143
+UAA member institution	York College	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+uaa-wide meeting	board of regents meeting	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAAP school	National University	1	1	1	1	1.000000000000	NULL	NULL	20	13	0.05
+UAC activity	Homecoming	1	1	1	1	NULL	NULL	NULL	471	160	0.0021231422505307855
+UAC installation	Marine HQ in Mars City	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAC installation	Delta Labs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAC software	Windows Defender	1	1	1	1	NULL	NULL	NULL	157	87	0.006369426751592357
+UAC standard	currency	1	1	1	1	NULL	NULL	NULL	807	355	0.0012391573729863693
+uacn's business	UAC Restaurants	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+uacn's business	Grand Cereals Limited	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+uacn's business	GM Nigeria Limited	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+uacn's business	MDS Logistics	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UACs	Johannesburg Water	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+UACs	Vashon-Maury Island Community Council	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uaditionally sensitibe amas	legislation affecting thc federal halancc	1	1	1	1	NULL	NULL	NULL	1	1	1
+UADX name	Gerhard Werdin	2	2	2	1	NULL	NULL	NULL	2	1	1
+UAE authority	Central Bank	1	1	1	1	NULL	NULL	NULL	246	121	0.0040650406504065045
+UAE bank	Emirates Bank International Ltd	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAE business outfit	UAE Exchange	1	1	1	1	0.500000000000	NULL	NULL	6	5	0.16666666666666666
+UAE car dealer	AGMC	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+UAE car dealer	Al Habtoor Motors	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+UAE car dealer	Arabian Automobiles	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+UAE carrier	Emirates	2	2	3	2	0.500000000000	NULL	NULL	569	144	0.0023432923257176333
+UAE carrier	Emirates Airline	1	1	3	2	0.500000000000	NULL	NULL	41	28	0.008130081300813007
+UAE characteristic	particle load	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UAE characteristic	size of particles used	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAE city	Dubai	1	1	1	1	NULL	NULL	NULL	911	304	0.0010976948408342481
+UAE civil servant	teacher	1	1	1	1	NULL	NULL	NULL	4365	1382	0.0002290950744558992
+UAE company	Etisalat	2	2	9	8	1.000000000000	NULL	NULL	77	40	0.005772005772005772
+UAE company	Dp Planet	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+UAE company	Deeyar	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+UAE company	Limitless	1	1	9	8	1.000000000000	NULL	NULL	6	6	0.018518518518518517
+UAE company	ETA	1	1	9	8	1.000000000000	NULL	NULL	14	11	0.007936507936507936
+UAE company	DAMAC	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+UAE company	Emaar Properties	1	1	9	8	1.000000000000	NULL	NULL	25	13	0.0044444444444444444
+UAE company	Emaar	1	1	9	8	1.000000000000	NULL	NULL	56	36	0.001984126984126984
+UAE corporation	Etisalat	1	1	1	1	NULL	NULL	NULL	77	40	0.012987012987012988
+UAE developer	Emaar Properties	2	2	4	3	1.000000000000	NULL	NULL	25	13	0.04
+UAE developer	Emaar	1	1	4	3	1.000000000000	NULL	NULL	56	36	0.004464285714285714
+uae developer	reputed uae developer	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+UAE economic entity	Gas Commission	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UAE economic entity	National Bank of Ras Al-Khaimah	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UAE economic entity	RAK's National Oil Company	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UAE emirate	Abu Dhabi	1	1	2	2	0.500000000000	NULL	NULL	217	86	0.002304147465437788
+UAE emirate	Sharjah	1	1	2	2	0.500000000000	NULL	NULL	31	14	0.016129032258064516
+UAE firm	Sharjah-based Crescent	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAE government authority	Dubai Chamber of Commerce	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UAE investor	Gulf Finance House	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+UAE manufacturer	Al Islami Foods	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAE manufacturer	Al Kabeer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAE market	Abu Dhabi	1	1	1	1	NULL	NULL	NULL	217	86	0.004608294930875576
+UAE national	board member of Tennis Emirates	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAE national	Abdul Rahman Falaknaz	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAE national	Mohammad Al Merri	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAE national	Nasser Al Madani	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAE official's contact	Email	1	1	1	1	NULL	NULL	NULL	8680	2858	0.0001152073732718894
+UAE offshore company	Ras-al-Khaimah	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UAE offshore company	Jebel Ali	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+UAE parameter	extraction temperature	1	1	2	2	NULL	NULL	NULL	56	24	0.008928571428571428
+UAE parameter	methanol concentration	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UAE real estate company	Al Ghurair Group's ETA Star	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+UAE real estate company	Nakheel	1	1	3	3	1.000000000000	NULL	NULL	45	21	0.007407407407407407
+UAE real estate company	Al Rostamani Enterprises KM Properties	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+UAE retailer	Emke Group	2	2	2	1	NULL	NULL	NULL	2	1	1
+UAE stalwart	consistent Alsadeek	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAE stalwart	Listed winner Hammadi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAE umpire	Fidel Jary	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE umpire	Tariq Butt	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE umpire	Taleb Husain	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE umpire	Iftikhar Ali	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE umpire	Arshad Ansari	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE umpire	Razzaq Shah	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE umpire	Prem Mishra	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+UAE university	American University of Sharjah	1	1	2	2	NULL	NULL	NULL	8	5	0.0625
+UAE university	Zayed	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+uae's green project	Green Building Code	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+uae's green project	Masdar City	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+uae's home-based passenger carrier	Emirates Airline	1	1	3	3	0.666666666666	NULL	NULL	41	28	0.008130081300813007
+uae's home-based passenger carrier	Air Arabia	1	1	3	3	0.666666666666	NULL	NULL	42	22	0.007936507936507936
+uae's home-based passenger carrier	Etihad Airways	1	1	3	3	0.666666666666	NULL	NULL	84	24	0.003968253968253968
+uae's infrastructure project	marine transport network	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uae's infrastructure project	railway	1	1	2	2	NULL	NULL	NULL	1169	566	0.000427715996578272
+uae's infrastructure project u	railway	1	1	2	2	NULL	NULL	NULL	1169	566	0.000427715996578272
+uae's infrastructure project u	marine transport network	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uae's largest unlisted business	Dubai's Al-Futtaim Group	2	2	2	1	NULL	NULL	NULL	2	1	1
+uae's man-made'' island	Dubai Palm	2	2	2	1	NULL	NULL	NULL	2	1	1
+uae-based charitable organization	Red Crescent	2	2	3	2	1.000000000000	NULL	NULL	42	28	0.031746031746031744
+uae-based charitable organization	Khalifa Bin Zyed Al-Nahyan	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+uae-based expatriate	Matthew Morgan-Jones	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAF initiative	Love Music Hate Racism	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+UAF location	UA Museum of the North	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+UAF location	Student Recreation Center	1	1	4	4	0.500000000000	NULL	NULL	9	9	0.027777777777777776
+UAF location	bookstore	1	1	4	4	0.500000000000	NULL	NULL	447	215	0.0005592841163310962
+UAF location	Wood Center	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+UAF service	sync	2	2	4	3	1.000000000000	NULL	NULL	54	37	0.018518518518518517
+UAF service	metadatahandling	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+UAF service	metadata handling	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+uages	high level lang uages	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uages	powerful mapping lang uages	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UAH campus organization	Women's Studies Student Organization	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAH campus organization	Student Athletic Club	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAH leader	John Maxon	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+UAH leader	associate vice president for campus business operation	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+UAHC affiliate	American Conference of Cantors	1	1	1	1	NULL	NULL	NULL	1	1	1
+uaker abolitionist	Garrison	1	1	1	1	1.000000000000	NULL	NULL	26	20	0.038461538461538464
+ual orientation	homo ual	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAL worker	pilot	1	1	1	1	NULL	NULL	NULL	322	164	0.003105590062111801
+ualcomponents	interaction panel	1	1	1	1	NULL	NULL	NULL	1	1	1
+ualformalisms	finite state machine	1	1	1	1	1.000000000000	NULL	NULL	40	29	0.025
+ualinformation	color	1	1	4	4	0.250000000000	NULL	NULL	11347	3399	0.000022032255221644486
+ualinformation	shape	1	1	4	4	0.250000000000	NULL	NULL	3964	1303	0.00006306760847628658
+ualinformation	word	1	1	4	4	0.250000000000	NULL	NULL	4363	1194	0.00005730002292000917
+ualinformation	lemma	1	1	4	4	0.250000000000	NULL	NULL	9	9	0.027777777777777776
+ualitative m etrics	observations of behavior	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ualitative method	noting pattern	1	1	1	1	NULL	NULL	NULL	1	1	1
+ualitatively acceptable supplementary learning material	workbook	1	1	1	1	NULL	NULL	NULL	278	121	0.0035971223021582736
+uality backup support component	angle	1	1	2	2	NULL	NULL	NULL	795	371	0.0006289308176100629
+uality backup support component	structural tube	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uality control procedure s	site visit	1	1	3	3	NULL	NULL	NULL	163	95	0.0020449897750511245
+uality control procedure s	written evaluation	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+uality control procedure s	survey	1	1	3	3	NULL	NULL	NULL	2392	950	0.00013935340022296544
+uality-driven component	readmissions penalty	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ualizationareas	volume visualization	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ualizationof small structure	distal arterial branch	1	1	1	1	NULL	NULL	NULL	1	1	1
+ualizationsby well-known image mosaic technique	image selection	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+ualize GPS information	bearing	1	1	3	3	0.333333333333	NULL	NULL	1447	550	0.000230361667818475
+ualize GPS information	signal strength	1	1	3	3	0.333333333333	NULL	NULL	180	80	0.0018518518518518517
+ualize GPS information	satellite location	1	1	3	3	0.333333333333	NULL	NULL	7	7	0.047619047619047616
+UALR facility management staff	engineering	1	1	2	2	NULL	NULL	NULL	5664	1535	0.00008827683615819209
+UALR facility management staff	security	1	1	2	2	NULL	NULL	NULL	8153	2525	0.00006132711885195633
+UALR information	semester billing statement	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UALR information	registration information	1	1	2	2	1.000000000000	NULL	NULL	39	18	0.01282051282051282
+ualsymptomsof infestation	K-winged bee	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAM corporate partner	MTN	2	2	2	1	NULL	NULL	NULL	182	112	0.01098901098901099
+UAM system	solution provided by PacketMotion	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAMS student	Ethan Helm	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAN application	remote sensor monitoring	1	1	1	1	NULL	NULL	NULL	1	1	1
+uansforrnations	first differencing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uantifiable factor	environmental benefits for the public good	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UANTITATIVE trait	cholesterol levels in human	1	0	4	4	0.500000000000	NULL	NULL	2	2	0.125
+UANTITATIVE trait	milk yield in dairy cow	1	0	4	4	0.500000000000	NULL	NULL	2	2	0.125
+UANTITATIVE trait	blood pressure	1	1	4	4	0.500000000000	NULL	NULL	3384	1104	0.00007387706855791962
+UANTITATIVE trait	fasting glucose	1	1	4	4	0.500000000000	NULL	NULL	41	27	0.006097560975609756
+uantity component	metal	1	1	1	1	NULL	NULL	NULL	11430	2556	0.00008748906386701662
+UARCs	Oak Ridge Associated Universities	1	1	1	1	NULL	NULL	NULL	1	1	1
+uard Peronists	Herminio Iglesias	1	1	1	1	NULL	NULL	NULL	1	1	1
+uard representative	Onur Oymen	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uard representative	Sukru Elekdag	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UART	UART 72	1	1	1	1	NULL	NULL	NULL	1	1	1
+UART chip	Intersil type 1M6402	1	1	1	1	NULL	NULL	NULL	1	1	1
+UART communication parameter	baud rate	1	1	1	1	NULL	NULL	NULL	265	112	0.0037735849056603774
+UART configuration parameter	packet format	18	13	39	4	0.500000000000	NULL	NULL	21	3	0.39560439560439564
+UART configuration parameter	Baud rate	18	14	39	4	0.500000000000	NULL	NULL	265	112	0.03134978229317852
+UART configuration parameter	data rate	2	2	39	4	0.500000000000	NULL	NULL	136	74	0.0007541478129713423
+UART configuration parameter	flow control	1	1	39	4	0.500000000000	NULL	NULL	197	106	0.00013015749056358194
+UART protocol	RS 485 HART	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+UART protocol	Profibus DP	1	1	3	3	0.500000000000	NULL	NULL	15	14	0.02222222222222222
+UART protocol	Modbus	1	1	3	3	0.500000000000	NULL	NULL	97	62	0.003436426116838488
+UART setting	stop bits using the UART configuration control	2	2	10	5	0.250000000000	NULL	NULL	2	1	0.2
+UART setting	data bit	2	2	10	5	0.250000000000	NULL	NULL	36	22	0.011111111111111112
+UART setting	protocol	2	2	10	5	0.250000000000	NULL	NULL	435	188	0.0009195402298850575
+UART setting	Baud rate	2	2	10	5	0.250000000000	NULL	NULL	265	112	0.001509433962264151
+UART setting	parity	2	2	10	5	0.250000000000	NULL	NULL	557	217	0.000718132854578097
+UARTERLY C heck mechanicalwaterflow device	water motor gong	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UARTs	ones used in the FlexRay protocol	2	2	2	1	NULL	NULL	NULL	2	1	1
+UAS	RQ-11 Raven	1	1	4	4	0.250000000000	NULL	NULL	4	4	0.0625
+UAS	Global Hawk	1	1	4	4	0.250000000000	NULL	NULL	108	57	0.0023148148148148147
+UAS	RQ-11 Pathfinder Raven	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+UAS	RQ-7 Shadow	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+UAS faculty member	Dr. David Tallmon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAS faculty member	Dr. Brendan Kelly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAS link	Air Traffic Control Relay	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAS operation	new application installation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UAS operation	UAS installation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAS standard mission equipment package	data dissemination	1	1	2	2	0.400000000000	NULL	NULL	10	6	0.05
+UAS standard mission equipment package	air vehicle	1	1	2	2	0.400000000000	NULL	NULL	7	7	0.07142857142857142
+UAS system	Hermes 450	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+UAS tool	webmail	1	1	1	1	NULL	NULL	NULL	96	58	0.010416666666666666
+UASA program	diversity prevention education program	1	1	1	1	NULL	NULL	NULL	1	1	1
+UASA publication	Resource Guides	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+UASA publication	Survivor Guides	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+UASs	Octatron SkySeer	1	0	1	1	NULL	NULL	NULL	1	1	1
+UAT alumnus	Scott White	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+uate -logistic	Antibiotics	1	1	1	1	NULL	NULL	NULL	4	7	0.25
+UATIC resource	wetland	1	1	1	1	NULL	NULL	NULL	2401	852	0.00041649312786339027
+uatic system	permanently flooded wetland	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uatic system	pond	1	1	2	2	NULL	NULL	NULL	2056	813	0.00024319066147859923
+uations	serious illness	1	1	1	1	NULL	NULL	NULL	347	145	0.002881844380403458
+uav	short range uav	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UAV	Global Hawk	1	1	3	3	NULL	NULL	NULL	108	57	0.0030864197530864196
+UAV	Predator	1	1	3	3	NULL	NULL	NULL	593	264	0.0005621135469364812
+UAV ACTDs	Predator's	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAV application	ISR	2	2	2	1	1.000000000000	NULL	NULL	24	17	0.08333333333333333
+UAV commercial venture	agriculture	1	1	1	1	NULL	NULL	NULL	6485	1582	0.00015420200462606013
+UAV community	RQ-4A Global Hawk	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+UAV community	X-45 UCAV	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAV design	General Atomics RQ-1 Predator	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UAV design	Joint Unmanned Combat Air System	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UAV design	Northrop Grumman RQ-4 Global Hawk	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UAV flying hovercraft	Embla UAV	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAV implementation	Predator UAVs	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UAV implementation	Global Hawk	1	1	2	2	NULL	NULL	NULL	108	57	0.004629629629629629
+UAV issue	survivability	1	1	4	4	NULL	NULL	NULL	54	36	0.004629629629629629
+UAV issue	airspace integration	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAV issue	direct air traffic control communications link	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAV issue	weather avoidance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UAV manufacturer	Elbit	1	1	1	1	1.000000000000	NULL	NULL	22	11	0.045454545454545456
+UAV mission	strike	1	1	1	1	NULL	NULL	NULL	613	332	0.0016313213703099511
+UAV model	cool 6-rotor DraganFlyer X6	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAV platform	Predator	3	3	4	2	0.500000000000	NULL	NULL	593	264	0.0037942664418212477
+UAV platform	MQ-1 Predator	1	1	4	2	0.500000000000	NULL	NULL	20	12	0.0125
+UAV requirement	non-invasive sensing	3	2	15	5	1.000000000000	NULL	NULL	3	1	0.20000000000000004
+UAV requirement	light payload	3	2	15	5	1.000000000000	NULL	NULL	3	1	0.20000000000000004
+UAV requirement	high processing speed	3	2	15	5	1.000000000000	NULL	NULL	6	3	0.10000000000000002
+UAV requirement	low image quality	3	2	15	5	1.000000000000	NULL	NULL	3	1	0.20000000000000004
+UAV requirement	low power consumption	3	2	15	5	1.000000000000	NULL	NULL	214	63	0.0028037383177570096
+UAV service	electrical power alternator	1	1	1	1	NULL	NULL	NULL	1	1	1
+UAV system	Hermes 450	3	1	15	8	0.750000000000	NULL	NULL	7	5	0.08571428571428573
+UAV system	Reaper	3	1	15	8	0.750000000000	NULL	NULL	92	63	0.006521739130434784
+UAV system	Predator	3	3	15	8	0.750000000000	NULL	NULL	593	264	0.0010118043844856662
+UAV system	Global Hawk	2	2	15	8	0.750000000000	NULL	NULL	108	57	0.0024691358024691358
+UAV system	RQ-2 Pioneer	1	1	15	8	0.750000000000	NULL	NULL	1	1	0.06666666666666667
+UAV system	RQ-1 Predator	1	1	15	8	0.750000000000	NULL	NULL	2	2	0.03333333333333333
+UAV system	MQ-9 Reaper	1	1	15	8	0.750000000000	NULL	NULL	9	9	0.007407407407407408
+UAV system	General Atomics Aeronautical Systems MQ-1 Predator	1	1	15	8	0.750000000000	NULL	NULL	1	1	0.06666666666666667
+UAV tactical capability	speed	1	1	1	1	NULL	NULL	NULL	4847	1571	0.00020631318341242006
+UAV's	Phoenix in service with the British Army	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+UAV's	MQ-1 Predator	1	1	2	2	0.500000000000	NULL	NULL	20	12	0.025
+uav-relevant variable	weather	1	1	2	2	0.500000000000	NULL	NULL	6139	1357	0.00008144648965629581
+uav-relevant variable	initial velocity	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05
+UAVs	Global Hawk	16	15	50	32	0.500000000000	NULL	NULL	108	57	0.047407407407407405
+UAVs	Micro-Air Vehicle	2	1	50	32	0.500000000000	NULL	NULL	2	1	0.04
+UAVs	Searcher	2	2	50	32	0.500000000000	NULL	NULL	8	8	0.01
+UAVs	Unmanned Combat Armed Rotorcraft	2	1	50	32	0.500000000000	NULL	NULL	2	1	0.04
+uavs	small reconnaissance uavs	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	equipped with the Hellfire missile	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+uavs	high altitude uavs	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	hunter-killer MQ-9 Reaper	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+uavs	medium-altitude endurance uavs	1	1	50	32	0.500000000000	NULL	NULL	2	2	0.01
+UAVs	Reaper	1	1	50	32	0.500000000000	NULL	NULL	92	63	0.0002173913043478261
+uavs	large, high-endurance uavs	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	Hermes 450	1	1	50	32	0.500000000000	NULL	NULL	7	5	0.002857142857142857
+UAVs	Insitu's ScanEagle	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+uavs	today's large uavs	1	1	50	32	0.500000000000	NULL	NULL	2	2	0.01
+UAVs	MAV	1	1	50	32	0.500000000000	NULL	NULL	4	4	0.005
+UAVs	MLB's truck-launched UAV	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	Skylark	1	1	50	32	0.500000000000	NULL	NULL	230	72	0.00008695652173913044
+UAVs	Northrop Falconer	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	General Atomics RQ-1 Predator drone	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	General Atomics Predator	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+uavs	army's tactical uavs	1	1	50	32	0.500000000000	NULL	NULL	2	2	0.01
+UAVs	IAI Scout	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	Aerovironment Puma	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	Neptune mini-UAV operated by Navy Sea-Air-Land commando	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	RQ-1 Predator	1	1	50	32	0.500000000000	NULL	NULL	2	2	0.01
+UAVs	armed Predator	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	Boeing ScanEagle UAV	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	Radioplane OQ-1	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	MQ-1 Predator	1	1	50	32	0.500000000000	NULL	NULL	20	12	0.001
+UAVs	Northrop Grumman's RQ-4A Global Hawk	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+uavs	small or mini uavs	1	1	50	32	0.500000000000	NULL	NULL	1	1	0.02
+UAVs	ScanEagle	1	1	50	32	0.500000000000	NULL	NULL	7	7	0.002857142857142857
+UAW goal	enhanced status for woman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAW goal	improved welfare	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UAW retirement rule	pension	2	2	6	3	0.500000000000	NULL	NULL	1951	746	0.0003417051084913719
+UAW retirement rule	penalties for early retirement	2	2	6	3	0.500000000000	NULL	NULL	2	1	0.3333333333333333
+UAW retirement rule	retirement age	2	2	6	3	0.500000000000	NULL	NULL	44	28	0.01515151515151515
+uaw-represented supplier	Dana	1	1	1	1	NULL	NULL	NULL	49	30	0.02040816326530612

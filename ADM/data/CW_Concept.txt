@@ -1,0 +1,97 @@
+cw agent	low-molecular cw agent	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CW application	FM broadcast	1	1	1	1	1.000000000000	NULL	NULL	14	6	0.07142857142857142
+CW characteristic	phase	2	1	4	3	0.500000000000	NULL	NULL	318	157	0.0031446540880503146
+CW characteristic	threshold current	1	1	4	3	0.500000000000	NULL	NULL	20	17	0.0125
+CW characteristic	lasing wavelength	1	1	4	3	0.500000000000	NULL	NULL	3	2	0.08333333333333333
+CW decoding software	CW DecoderXP	1	1	1	1	NULL	NULL	NULL	1	1	1
+CW event	upcoming	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+CW hyperbolic navigation system	DECCA Navigator	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+CW hyperbolic navigation system	Omega	1	1	2	2	NULL	NULL	NULL	573	252	0.0008726003490401396
+CW laser	CW CO2	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+CW possessor state	Russia	1	1	1	1	NULL	NULL	NULL	8825	1448	0.00011331444759206799
+CW priority	dropping a CW with lower priority	1	1	1	1	NULL	NULL	NULL	1	1	1
+CW processing requirement	low phase noise	1	1	4	4	1.000000000000	NULL	NULL	7	5	0.03571428571428571
+CW processing requirement	wide dynamic range	1	1	4	4	1.000000000000	NULL	NULL	44	11	0.005681818181818182
+CW processing requirement	accurate gain	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+CW processing requirement	phase matching	1	1	4	4	1.000000000000	NULL	NULL	5	5	0.05
+CW show	Vampire Diaries	1	1	3	3	0.333333333333	NULL	NULL	81	39	0.004115226337448559
+CW show	Supernatural	1	1	3	3	0.333333333333	NULL	NULL	121	44	0.002754820936639118
+CW show	Nikita	1	1	3	3	0.333333333333	NULL	NULL	20	13	0.016666666666666666
+CW signal	frequency	1	1	1	1	NULL	NULL	NULL	2547	871	0.00039261876717707107
+CW spectroscopy	optical absorption	1	1	2	2	1.000000000000	NULL	NULL	54	33	0.009259259259259259
+CW spectroscopy	photoluminescence excitation	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+CW staple	Street Beat	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+CW staple	Community Planner	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+CW star	Tyra Banks from America's Next Top Model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CW star	Erica Durance from Smallville	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CW system	APT	1	1	1	1	NULL	NULL	NULL	49	38	0.02040816326530612
+cw's hit show	Gossip Girl	2	2	4	2	0.500000000000	NULL	NULL	155	64	0.0064516129032258064
+cw's hit show	Vampire Diaries	2	2	4	2	0.500000000000	NULL	NULL	81	39	0.012345679012345678
+CWA building project	library	1	1	1	1	NULL	NULL	NULL	6833	2108	0.00014634860237084735
+CWA metal	lead	1	1	4	4	NULL	NULL	NULL	9600	1602	0.00002604166666666667
+CWA metal	arsenic	1	1	4	4	NULL	NULL	NULL	3806	732	0.00006568575932737782
+CWA metal	mercury	1	1	4	4	NULL	NULL	NULL	6018	1029	0.00004154204054503157
+CWA metal	copper	1	1	4	4	NULL	NULL	NULL	15607	2840	0.000016018453258153393
+CWA program	State Clean Lakes Programs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CWA program	National Estuary Program	1	1	3	3	NULL	NULL	NULL	6	5	0.05555555555555555
+CWA program	Great Lakes National Program	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CWA star	Nick Hammonds	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CWA star	Tony The Dragon Givens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CWANA country	Morocco	2	1	6	4	NULL	NULL	NULL	1798	302	0.0003707823507601038
+CWANA country	Jordan	2	1	6	4	NULL	NULL	NULL	1993	444	0.0003345040976751965
+CWANA country	Pakistan	1	1	6	4	NULL	NULL	NULL	4402	776	0.00003786157807057398
+CWANA country	Turkey	1	1	6	4	NULL	NULL	NULL	7587	1715	0.000021967400377839286
+CWAs	VX	5	5	5	1	0.250000000000	NULL	NULL	92	35	0.05434782608695652
+cwassicaw music form	Hindustani cwassicaw music	1	1	1	1	NULL	NULL	NULL	1	1	1
+cwassicaw singer	Nusrat Fateh Awi Khan	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWB pricing alternative	BPC	3	1	4	2	1.000000000000	NULL	NULL	12	10	0.1875
+CWB pricing alternative	FlexPro	1	1	4	2	1.000000000000	NULL	NULL	1	1	0.25
+CWB station	Taichung	2	2	2	1	1.000000000000	NULL	NULL	11	6	0.18181818181818182
+CWC activity	quarterly advisory board meeting	2	1	6	3	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+CWC activity	fundraising event	2	1	6	3	1.000000000000	NULL	NULL	70	35	0.009523809523809523
+CWC activity	donor drive	2	1	6	3	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+CWC business partner	Lalo Handbags	1	0	1	1	NULL	NULL	NULL	1	1	1
+CWDEs	pectate lyases	2	2	3	2	NULL	NULL	NULL	4	3	0.3333333333333333
+CWDEs	polygalacturonas es	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+CWDM device	uncooled laser diode	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWDM topologies	bus	1	1	3	3	0.500000000000	NULL	NULL	3095	928	0.00010770059235325793
+CWDM topologies	hubbed ring	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+CWDM topologies	point-to-point	1	1	3	3	0.500000000000	NULL	NULL	46	33	0.007246376811594202
+CWE item	folder	1	1	2	2	NULL	NULL	NULL	794	340	0.0006297229219143577
+CWE item	document	1	1	2	2	NULL	NULL	NULL	2223	771	0.0002249212775528565
+cwed structure	towen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+cwed structure	bin	1	1	3	3	NULL	NULL	NULL	343	185	0.0009718172983479105
+cwed structure	silo	1	1	3	3	NULL	NULL	NULL	227	108	0.0014684287812041115
+cwertain action	taking of private property	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWF program	Violence Prevention Fund	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CWF program	Girls Fund	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CWF program	Economic Development Fund	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+CWI activity	welder qualification	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+CWI activity	documentation review	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+CWI common feature	sorting	1	1	1	1	NULL	NULL	NULL	822	370	0.0012165450121654502
+cwient characteristic	hewp-seeking attitude	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWIS factor	intake configuration	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+CWIS factor	screen approach velocity	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CWIS factor	proximity of the screenwash discharge	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CWL member	Diocesan	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+CWL member	Life member	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+CWLP staff member	chief utilities engineer Jay Bartlett	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWM class	Dimension	1	1	1	1	NULL	NULL	NULL	1006	421	0.0009940357852882703
+cwmbran insect	house flea	1	1	1	1	1.000000000000	NULL	NULL	561	558	0.0017825311942959
+CWN member	Alison Gelder	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+CWN member	June Boyce-Tilman	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+CWN program	UPEI Lunch n Learn	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWNs	NYCwireless	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+CWNs	Ile Sans Fil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CWP syndrome	fibromyalgia	1	1	1	1	NULL	NULL	NULL	1483	361	0.0006743088334457181
+CWPPRA-initiated tool development	Coast-wide Reference Monitoring System	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWPS mimotopes	peptide mimetics of polysaccharide molecule	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+CWPS mimotopes	protein	1	1	2	2	NULL	NULL	NULL	5809	1696	0.00008607333448097779
+cwrrective cosmetic foskin condition	acne	1	1	2	2	NULL	NULL	NULL	2553	581	0.00019584802193497845
+cwrrective cosmetic foskin condition	rosacea	1	1	2	2	NULL	NULL	NULL	578	148	0.0008650519031141869
+CWRU swing's own weekly event	SS Nord	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CWRU swing's own weekly event	Thursday lesson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+cwru-supported activity	music department's Windy	1	1	1	1	NULL	NULL	NULL	1	1	1
+CWS disaster response partner	secular relief agency	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CWS disaster response partner	denominational	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+cwubs	Girw Reserves	1	1	1	1	1.000000000000	NULL	NULL	1	1	1

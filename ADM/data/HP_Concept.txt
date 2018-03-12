@@ -1,0 +1,705 @@
+HP All-in-Ones	HP Photosmart C6180	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP application	HP Storage Systems Scripting Utility	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP application	drag racing	1	1	2	2	NULL	NULL	NULL	66	45	0.007575757575757576
+HP array controller	P600	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP array controller	6400	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP attack	Soul Eater	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+HP authorized resellers	Accent Micro	1	1	1	1	NULL	NULL	NULL	1	1	1
+hp bike	museum's 1903 California	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP boost	Turbine store potion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP boost	House D	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP booster	Platinum Bangle	1	1	1	1	NULL	NULL	NULL	1	1	1
+Hp buff	rod of age	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP Business Apps	Stamps.com web postage service	3	3	6	4	1.000000000000	NULL	NULL	3	1	0.5
+HP Business Apps	Receipt Scanning Apps from Shoeboxed	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+HP Business Apps	com web postage service	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+HP Business Apps	Biz Card Scanning	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+HP business technology optimization tool	HP Operations Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP C6602A ink-jet cartridge fiber	cotton	1	1	2	2	NULL	NULL	NULL	8381	1830	0.00005965875193890944
+HP C6602A ink-jet cartridge fiber	paper	1	1	2	2	NULL	NULL	NULL	10357	2799	0.000048276527952109686
+HP car	turbo	1	1	1	1	NULL	NULL	NULL	191	108	0.005235602094240838
+HP cartridge model	Dell	1	1	1	1	NULL	NULL	NULL	6439	1426	0.00015530361857431278
+HP cell-damaging event	ribosome conformational change	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+HP cell-damaging event	enzyme inactivation	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+HP cell-damaging event	protein denaturation	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+HP certification exam	HP0-M44 exam	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+HP certification exam	HP0-S31 exam	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+HP color laserjet printer	HP Color LaserJet CP2025n	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP competitor	IBM	1	1	2	2	NULL	NULL	NULL	11151	2595	0.00004483902788987535
+HP competitor	Lexmark	1	1	2	2	NULL	NULL	NULL	325	130	0.0015384615384615385
+HP component	valve	1	1	3	3	NULL	NULL	NULL	2401	900	0.00013883104262113008
+HP component	fitting	1	1	3	3	NULL	NULL	NULL	587	262	0.0005678591709256105
+HP component	pipe	1	1	3	3	NULL	NULL	NULL	2486	1047	0.00013408420488066506
+HP computer	HP Mini notebook computer	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP computer product	Desk top	1	1	2	2	0.500000000000	NULL	NULL	37	33	0.013513513513513514
+HP computer product	Laptop	1	1	2	2	0.500000000000	NULL	NULL	4510	1266	0.00011086474501108647
+HP Connectivity Pack software	100LX's Redirector	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP Connectivity Pack software	200LX's LapLink Remote	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP Connectivity Pack software	DOS InterLink	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP convenience feature	ink-backup printing	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP converged infrastructure component	c7000 enclosure	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP customer	Chamberlin Edmonds	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	assistant vice president of network operations for Germantown	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	Ohio	1	1	12	12	NULL	NULL	NULL	3073	397	0.000027117908666883607
+HP customer	Premier Bankcard's Erkonen	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	Holzer Clinic	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	Johns Hopkins University	1	1	12	12	NULL	NULL	NULL	86	46	0.0009689922480620155
+HP customer	Md.-based Hughes Network Systems Inc.	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	Department of Defense	1	1	12	12	NULL	NULL	NULL	448	108	0.00018601190476190475
+HP customer	Applied Medical	1	1	12	12	NULL	NULL	NULL	3	2	0.027777777777777776
+HP customer	Bryan W. Whitfield Memorial Hospital	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	Joseph Maloney	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP customer	Memorial Hospital of Fremont	1	1	12	12	NULL	NULL	NULL	1	1	0.08333333333333333
+HP dev environment	Allbase 4GL	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP developed tool	HP Cluster Management Utility	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP device	printer	2	2	10	9	0.333333333333	NULL	NULL	6991	1667	0.000057216421112859396
+HP device	desktop PCs	1	1	10	9	0.333333333333	NULL	NULL	49	36	0.0020408163265306124
+HP device	thin client	1	1	10	9	0.333333333333	NULL	NULL	72	39	0.001388888888888889
+HP device	tablet PCs	1	1	10	9	0.333333333333	NULL	NULL	257	112	0.0003891050583657588
+HP device	business notebook	1	1	10	9	0.333333333333	NULL	NULL	3	3	0.03333333333333333
+HP device	HP LaserJet	1	1	10	9	0.333333333333	NULL	NULL	9	8	0.011111111111111112
+HP device	iPAQ handhelds	1	1	10	9	0.333333333333	NULL	NULL	2	2	0.05
+HP device	smartphones	1	1	10	9	0.333333333333	NULL	NULL	1634	468	0.00006119951040391677
+HP device	HP DeskJet	1	1	10	9	0.333333333333	NULL	NULL	5	4	0.02
+HP digital entertainment portal request	catalog search	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+HP digital entertainment portal request	CD purchase	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP digital photography enhancement	digital flash	1	1	4	4	0.200000000000	NULL	NULL	6	6	0.041666666666666664
+HP digital photography enhancement	contrast enhancement	1	1	4	4	0.200000000000	NULL	NULL	85	50	0.0029411764705882353
+HP digital photography enhancement	red-eye removal	1	1	4	4	0.200000000000	NULL	NULL	79	51	0.0031645569620253164
+HP digital photography enhancement	sharpness	1	1	4	4	0.200000000000	NULL	NULL	278	151	0.0008992805755395684
+HP dv-series laptop	HP dv4t-1430us	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP eco solution	HP LaserJet P2055dn	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP editor	Paul Caulfield of the F&MScientific Division SPOTLIGHT	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP employee	Linux CTO	6	6	8	2	NULL	NULL	NULL	6	1	0.75
+HP employee	former Debian Project Leader Bdale Garbee	2	2	8	2	NULL	NULL	NULL	2	1	0.25
+HP engine	used in a Cessna 152	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP enhancement	improved multitasking with an additional feature	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+HP enterprise customer	HP 3000 migrators	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP enterprise product	storage	1	1	2	2	NULL	NULL	NULL	2511	1000	0.00019912385503783353
+HP enterprise product	server	1	1	2	2	NULL	NULL	NULL	1779	715	0.0002810567734682406
+HP eprint cellular print place	Hilton Globally	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HP eprint cellular print spot	Hilton Globally	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HP eprint web-enabled printer	HP Officejet Pro 8500A e-All-in-One printer	3	2	6	3	NULL	NULL	NULL	3	1	0.5
+HP eprint web-enabled printer	HP LaserJet Pro CM1415 Color MFP	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+HP eprint web-enabled printer	HP LaserJet Pro CM1415 fnw Color MFP	1	1	6	3	NULL	NULL	NULL	1	1	0.16666666666666666
+HP equipment	Laser Printers	1	1	1	1	NULL	NULL	NULL	2	5	0.5
+HP exclusive application	photosmart mobile	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP exclusive technology	HP Vivera ink	3	2	3	1	NULL	NULL	NULL	4	2	0.75
+HP executive	CEO Carley Fiorina	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP extra	HP TrueVision HD Webcam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP extra	full versions of Adobe Photoshop	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP feature	red-eye reduction	3	2	9	5	1.000000000000	NULL	NULL	116	51	0.008620689655172414
+HP feature	Adaptive Lighting	3	2	9	5	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+HP feature	TouchSmart frame	1	1	9	5	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+HP feature	Photo Print Gadget	1	1	9	5	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+HP feature	Smart Web Printing	1	1	9	5	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+HP General office scanner	HP Scanjet N6310 Document Flatbed Scanner with ADF	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP hardware	camera	1	1	1	1	NULL	NULL	NULL	5789	1712	0.00017274140611504577
+HP HP0-D14 exam training material	HP0-D14 Training material	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HP HP0-D14 exam training material	HP0-D14 Study Guide	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HP HP0-D14 exam training material	HP HP0-D14 Braindumps	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HP HP0-D14 exam training material	HP0-D14 Exam Questions	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HP HP0-D14 exam training material	HP0-D14 free demo	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+HP HSTNN-OB89 battery feature	backlit keyboard	1	1	1	1	NULL	NULL	NULL	62	29	0.016129032258064516
+HP hull	stepped hull	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP imaging product	HP Photo scanner	2	2	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+HP imaging product	digital cameras configured in disk drive mode	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+HP imaging software feature	viewing	1	1	2	2	NULL	NULL	NULL	111	68	0.0045045045045045045
+HP imaging software feature	saving	1	1	2	2	NULL	NULL	NULL	1396	488	0.00035816618911174784
+HP indigo unique special ink	white ink	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+HP indigo unique special ink	photo ink	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+HP indigo's special effect ink	sophisticated HP ElectroInk Digital Matte	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+HP ink	Fast Dry Black	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP ink	Versatile Black	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP Inkjet printer driver	920cxi driver	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP innovation	Dynamic Smart Cooling	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+HP innovation	Dynamic Power Saver	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+HP innovation	unique HP Double Swath Technology	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+HP innovation	Group Dynamic Power Capping	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+HP innovation	Insight Power Manager	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+HP innovation	Insight Control	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+HP innovation	Power Regulator	1	1	7	7	1.000000000000	NULL	NULL	10	8	0.014285714285714285
+HP innovative technology	Virtual Connect	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+HP innovative technology	Insight Control	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP instrument	HP 4140B	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP integrity server system	Foundation Server	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP interface	HP-IB	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HP iscsi SAN environment	HP P4300	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP IT essential resource	lab manual	1	1	2	2	1.000000000000	NULL	NULL	23	19	0.021739130434782608
+HP IT essential resource	instructor guide	1	1	2	2	1.000000000000	NULL	NULL	8	14	0.0625
+HP item	bumper sticker	2	2	6	3	NULL	NULL	NULL	202	112	0.0033003300330033
+HP item	toy	2	2	6	3	NULL	NULL	NULL	5414	1538	0.00012313754463735992
+HP item	House patch	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+HP jetsend application	HP Jetsend for Windows CE	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP laptop	HP Mini 311 laptop	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+HP laptop	hp's ultra portable laptop	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+HP laptop	HP Pavilion laptop	1	1	5	5	0.500000000000	NULL	NULL	4	4	0.05
+HP laptop	hp Pro Book	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+HP laptop	HP Envy laptop	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+HP Laptop application	using Muvee Auto Producer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP Laptop application	Quickplay Multimedia Application	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP laptop battery	Hp F2019 Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp F2019A Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp F2024A Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp EX941AA Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp F2024 Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp EV088AA Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp F1739A Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp F2019B Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp F2024B Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP laptop battery	Hp EX942AA Battery	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+HP large format medium	Durable SCRIM	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP laser printer	HP 6L	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP laserjet model	HP LaserJet P4014	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP laserjet model	HP LaserJet P2035	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP laserjet model	HP LaserJet 1020 Printers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP laserjet printer	HP LaserJet II	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HP machine	HP Pavilion Elites	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP machine	printer	1	1	3	3	NULL	NULL	NULL	6991	1667	0.00004768035092738282
+HP machine	scanner	1	1	3	3	NULL	NULL	NULL	2758	777	0.0001208605269518975
+HP management tool	Systems Insight Manager	1	1	1	2	NULL	NULL	NULL	4	4	0.25
+HP mediasmart server feature	backup	1	1	1	1	NULL	NULL	NULL	1021	515	0.0009794319294809011
+HP mobile device	laptop	1	1	1	1	NULL	NULL	NULL	4510	1266	0.00022172949002217295
+HP mobile product	Evo notebook	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HP mobile product	wireless PC card	1	1	3	3	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+HP mobile product	iPAQ Pocket PCs	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HP model	41 series	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP model	g6 series	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP monitor sport various connection	DVI	1	1	2	2	0.500000000000	NULL	NULL	206	113	0.0024271844660194173
+HP monitor sport various connection	Display Port	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+HP monitor various sport	Display Port	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+HP monitor various sport	DVI	1	1	2	2	0.500000000000	NULL	NULL	206	113	0.0024271844660194173
+HP MP proliant server	DL580 G5	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP netserver component	keyboard	3	1	6	2	NULL	NULL	NULL	4202	1048	0.0003569728700618753
+HP netserver component	mouse	3	1	6	2	NULL	NULL	NULL	3242	739	0.0004626773596545342
+HP network device	Kayak PC workstation	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+HP network device	Vectra corporate PCs	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+HP network management software solution	Network Node Manager	1	0	1	1	1.000000000000	NULL	NULL	8	6	0.125
+HP networking access control solution	Identity Driven Manager	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+HP new product	D 220	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP nonstop software product	DDL	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+HP notebook	Pavilion dv9830us Entertainment Notebook PC	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP opencall solution	Home Location Register	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+HP openview management tool	Service Desk	6	4	20	5	1.000000000000	NULL	NULL	43	23	0.04186046511627906
+HP openview management tool	Service Reporter	6	4	20	5	1.000000000000	NULL	NULL	9	2	0.19999999999999998
+HP openview management tool	HP OpenView Operations	5	3	20	5	1.000000000000	NULL	NULL	7	3	0.17857142857142858
+HP openview management tool	OpenView Operations	2	2	20	5	1.000000000000	NULL	NULL	10	4	0.02
+HP openview management tool	Network Node Manager	1	1	20	5	1.000000000000	NULL	NULL	8	6	0.00625
+HP openview product	Network Node Manager	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+HP openview solution	Network Node Manager	1	1	5	5	1.000000000000	NULL	NULL	8	6	0.025
+HP openview solution	OpenView Operations	1	1	5	5	1.000000000000	NULL	NULL	10	4	0.02
+HP openview solution	Omniback II	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HP openview solution	Service Information Portal	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HP openview solution	OpenView Reporter	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HP option	memory	1	1	1	1	NULL	NULL	NULL	3739	1244	0.0002674511901577962
+HP organization	Enterprise Services	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+HP outlet accessory	Laptop & Tablet PC accessory	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP OVOW service	OvMsmAccessManager	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP OVOW service	OvEpStatusEngine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP paper	HP High Gloss Laser paper	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP partner	Citrix	1	1	3	3	NULL	NULL	NULL	490	201	0.0006802721088435374
+HP partner	MS Virtual Server	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP partner	VMware	1	1	3	3	NULL	NULL	NULL	583	219	0.0005717552887364208
+HP partner company	Best buy	1	1	2	2	NULL	NULL	NULL	1103	298	0.00045330915684496827
+HP partner company	Walmart	1	1	2	2	NULL	NULL	NULL	738	241	0.0006775067750677507
+HP partner technology	VMware	1	1	1	1	NULL	NULL	NULL	583	219	0.0017152658662092624
+HP pavilion dv6 series laptop	HP Pavilion dv6i	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP pavilion dv6 series laptop	HP Pavilion dv6t	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP pavilion ZE4500 battery humanist	William Salesbury	1	1	1	1	NULL	NULL	NULL	12	2	0.08333333333333333
+HP personal medium drive	HP 500GB Pocket Media Drive	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP photo printer	DPI	1	1	1	1	1.000000000000	NULL	NULL	39	28	0.02564102564102564
+HP Photosmart All-in-Ones	HP Photosmart Plus All-in-One	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP Photosmart All-in-Ones	HP Photosmart Premium Fax All-in-One	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP photosmart printer	HP Photosmart Premium e-all-in-one	2	1	7	6	NULL	NULL	NULL	3	2	0.19047619047619047
+HP photosmart printer	HP Photosmart Premium All-in-One	1	1	7	6	NULL	NULL	NULL	2	2	0.07142857142857142
+HP photosmart printer	Copier	1	1	7	6	NULL	NULL	NULL	1675	419	0.00008528784648187633
+HP photosmart printer	HP Photosmart Premium Fax All-in-One Printer	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+HP photosmart printer	Scanner	1	1	7	6	NULL	NULL	NULL	2758	777	0.00005179736869367036
+HP photosmart printer	intuitive touchscreen	1	1	7	6	NULL	NULL	NULL	3	3	0.047619047619047616
+HP plotter supply	plotter paper	1	1	3	3	0.750000000000	NULL	NULL	6	6	0.05555555555555555
+HP plotter supply	print head	1	1	3	3	0.750000000000	NULL	NULL	20	16	0.016666666666666666
+HP plotter supply	ink cartridge	1	1	3	3	0.750000000000	NULL	NULL	199	86	0.001675041876046901
+HP POS peripheral	cash drawer	1	1	1	1	1.000000000000	NULL	NULL	54	34	0.018518518518518517
+HP Print Apps	Fandango app	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HP printer	DeskJet 970cxi	2	2	14	13	0.500000000000	NULL	NULL	2	1	0.14285714285714285
+HP printer	HP Photosmart Premium Fax All-in-One	1	1	14	13	0.500000000000	NULL	NULL	2	2	0.03571428571428571
+HP printer	HP Photosmart Premium Touchsmart Web All-in-One	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer	photo printer	1	1	14	13	0.500000000000	NULL	NULL	23	20	0.003105590062111801
+HP printer	printer	1	1	14	13	0.500000000000	NULL	NULL	6991	1667	0.000010217218055867747
+HP printer	HP Officejet 7500A Wide-Format e-all-in-one	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer	HP Photosmart eStation e-all-in-one	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer	HP Photosmart Plus e-all-in-one	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer	HP Photosmart Premium All-in-One	1	1	14	13	0.500000000000	NULL	NULL	2	2	0.03571428571428571
+HP printer	HP Photosmart Premium e-all-in-one	1	1	14	13	0.500000000000	NULL	NULL	3	2	0.023809523809523808
+HP printer	5L	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer	6L printer	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer	LaserJet 4L	1	1	14	13	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+HP printer driver	HP LaserJet III driver	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP printer driver	HP LaserJet 4 Plus	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP printer feature	duplexing	1	1	3	3	1.000000000000	NULL	NULL	41	24	0.008130081300813007
+HP printer feature	HP print apps	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HP printer feature	HP eprint	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HP printer file	help file	1	1	1	1	1.000000000000	NULL	NULL	46	32	0.021739130434782608
+HP printer series	HP LaserJet P4014n	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP printing material	HP Bright White Inkjet Paper with ColorPRO Technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP printing material	HP Universal Bond Paper	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP product	recommended types of paper	3	2	22	19	0.571428571428	NULL	NULL	3	1	0.13636363636363635
+HP product	Networking Hardware	2	2	22	19	0.571428571428	NULL	NULL	10	9	0.01818181818181818
+HP product	print cartridge	2	1	22	19	0.571428571428	NULL	NULL	23	13	0.007905138339920948
+HP product	HP Pavilion	1	1	22	19	0.571428571428	NULL	NULL	14	12	0.003246753246753247
+HP product	HP Premium Plus Photo Paper	1	1	22	19	0.571428571428	NULL	NULL	7	3	0.006493506493506494
+HP product	HP Accessories	1	1	22	19	0.571428571428	NULL	NULL	1	1	0.045454545454545456
+HP product	HP Laptop	1	1	22	19	0.571428571428	NULL	NULL	13	8	0.0034965034965034965
+HP product	HP Netbook	1	1	22	19	0.571428571428	NULL	NULL	1	1	0.045454545454545456
+HP product	HP Photo scanner	1	1	22	19	0.571428571428	NULL	NULL	3	2	0.015151515151515152
+HP product	industry-leading ProLiant server	1	1	22	19	0.571428571428	NULL	NULL	1	1	0.045454545454545456
+HP product	Storage	1	1	22	19	0.571428571428	NULL	NULL	2511	1000	0.00001810216863980305
+HP product	scanner	1	1	22	19	0.571428571428	NULL	NULL	2758	777	0.000016480980947986026
+HP product	printer	1	1	22	19	0.571428571428	NULL	NULL	6991	1667	0.000006501866035552204
+HP product	photo printer	1	1	22	19	0.571428571428	NULL	NULL	23	20	0.001976284584980237
+HP product	notebook	1	1	22	19	0.571428571428	NULL	NULL	1896	679	0.000023973916378979672
+HP product	ink cartridge	1	1	22	19	0.571428571428	NULL	NULL	199	86	0.00022841480127912289
+HP product	accessory	1	1	22	19	0.571428571428	NULL	NULL	1375	567	0.00003305785123966942
+HP product	Opsware	1	1	22	19	0.571428571428	NULL	NULL	14	12	0.003246753246753247
+HP professional innovation	HP Device Access Manager	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP program	calendar	1	1	3	4	NULL	NULL	NULL	4173	1466	0.00007987858455148175
+HP program	HP Advisor	1	1	3	4	NULL	NULL	NULL	4	4	0.08333333333333333
+HP program	update	1	1	3	4	NULL	NULL	NULL	356	179	0.0009363295880149812
+HP provider	Q Card	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Hp Quick-Ship Laptop PCs	HP Pavilion DV6	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP race part	HP Race Calibration Kit	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP raster printer	1005	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP real life technology	in-camera red-eye removal	4	1	17	5	1.000000000000	NULL	NULL	6	3	0.1568627450980392
+HP real life technology	HP Image Advice	4	1	17	5	1.000000000000	NULL	NULL	4	1	0.23529411764705882
+HP real life technology	image enhancement	4	1	17	5	1.000000000000	NULL	NULL	78	51	0.012066365007541479
+HP real life technology	red-eye removal	4	3	17	5	1.000000000000	NULL	NULL	79	51	0.011913626209977662
+HP real life technology	red eye removal	1	1	17	5	1.000000000000	NULL	NULL	49	32	0.0012004801920768306
+hp related book	book about Harry's parent	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hp related book	encyclopedia	1	1	2	2	NULL	NULL	NULL	1105	265	0.00045248868778280545
+HP remote management tool	HP Systems Insight Manager	1	1	1	1	1.000000000000	NULL	NULL	16	9	0.0625
+HP resource	computer system	1	1	1	1	NULL	NULL	NULL	428	194	0.002336448598130841
+HP rival	Dell	1	1	3	3	NULL	NULL	NULL	6439	1426	0.00005176787285810426
+HP rival	IBM	1	1	3	3	NULL	NULL	NULL	11151	2595	0.000029892685259916896
+HP rival	Apple	1	1	3	3	NULL	NULL	NULL	15894	3432	0.000020972274652908854
+HP SAM activity	manual	1	1	1	1	NULL	NULL	NULL	1348	559	0.000741839762611276
+HP SAN file system	VMFS from VMware	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+HP SAN file system	EMC's Celerra	2	2	4	2	NULL	NULL	NULL	4	3	0.25
+HP scanjet scanner	HP Scanjet G4010 Photo Scanner	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP scanjet scanner	HP Scanjet G4050	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+HP scanjet scanner	HP Scanjet G4050 Photo Scanner	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+HP scanner	HP Scanjet G4050 Photo Scanner	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+HP server	ProLiant DL8500 server	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+HP server	HP Workstations	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+HP server	HP Integrity	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+HP server	BL 465C	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+HP server	ProLiant DL580	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+HP server	ProLiant ML530 G2	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+HP server technology	HP ProLiant servers & HP Blade server	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP SIM page	Home page	1	1	1	1	NULL	NULL	NULL	165	99	0.006060606060606061
+HP single sheet scanner	4S	1	1	1	1	0.500000000000	NULL	NULL	14	11	0.07142857142857142
+HP site	Mugglenet	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+HP small business product	laptop	1	1	3	3	NULL	NULL	NULL	4510	1266	0.00007390983000739098
+HP small business product	printer	1	1	3	3	NULL	NULL	NULL	6991	1667	0.00004768035092738282
+HP small business product	desktop	1	1	3	3	NULL	NULL	NULL	635	305	0.0005249343832020997
+HP software	HP Standard Port	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP software capability	HP Serviceguard Extensions for SAP application	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+HP software capability	HP Serviceguard Extensions for SAP for increased security	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+HP software capability	availability	1	1	6	5	NULL	NULL	NULL	1826	585	0.00009127418765972982
+HP software capability	virtualization	1	1	6	5	NULL	NULL	NULL	781	254	0.00021340162185232606
+HP software capability	HP Serviceguard Extensions for SAP	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+HP software component	HP Scan Flow Manager	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP software component	Digital Imaging Monitor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP software component	Solution Center	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+HP software solution	HP Data Protector	2	1	4	2	NULL	NULL	NULL	5	4	0.2
+HP software solution	HP OpenView Storage Data Protector	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+HP solution	Managed Print Services	2	1	8	6	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+HP solution	thin client	2	1	8	6	1.000000000000	NULL	NULL	72	39	0.006944444444444444
+HP solution	Continuous Access	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+HP solution	HP Access Control	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+HP solution	Enterprise Volume Manager	1	1	8	6	1.000000000000	NULL	NULL	2	2	0.0625
+HP solution	Data Replication Manager	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+HP solution block	enterprise resource planning	1	1	2	2	NULL	NULL	NULL	398	199	0.001256281407035176
+HP solution block	customer relationship management	1	1	2	2	NULL	NULL	NULL	559	270	0.0008944543828264759
+HP specific program	hardware manager	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP storage consolidation option	storage area network	1	1	1	1	NULL	NULL	NULL	84	54	0.011904761904761904
+HP storage-management tool	Enterprise Volume Manager software	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP storage-management tool	HP OpenView Virtual Replicator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP storageworks solution	All-in-One Storage Systems	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP style	Sierra GameKing HP	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP sub user	Jirachi	1	1	1	1	1.000000000000	NULL	NULL	45	18	0.022222222222222223
+HP Superdome-specific functionality	Partition Manager	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+hp supply	easy-to-use original hp supply	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HP support feature	facial recognition	1	1	1	1	NULL	NULL	NULL	138	76	0.007246376811594203
+HP technology	new in-camera panorama stitching	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP technology solution	Cloud Computing	1	1	2	2	NULL	NULL	NULL	1051	333	0.0004757373929590866
+HP technology solution	Application Transformation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP testing & monitoring tool	QC	1	1	1	1	1.000000000000	NULL	NULL	22	15	0.045454545454545456
+HP testing tool	Quality Center	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+HP testing tool	QTP	1	1	2	2	1.000000000000	NULL	NULL	19	8	0.02631578947368421
+HP threat management product	HP Network Immunity Manager	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP threat management product	HP Threat Management Services Module	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP tool	Code Management System	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+HP tool	Insight Dynamics VSE	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HP tool	Module Management System	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+HP touchpad feature	speaker	1	1	3	3	NULL	NULL	NULL	1706	596	0.00019538882375928096
+HP touchpad feature	port	1	1	3	3	NULL	NULL	NULL	1082	501	0.0003080714725816389
+HP touchpad feature	switch	1	1	3	3	NULL	NULL	NULL	3437	1190	0.00009698380370478129
+HP touchsmart application	HP SmartCalendar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HP touchsmart application	HP Photosmart Touch	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hp tractor	Mahindra	1	1	2	2	0.500000000000	NULL	NULL	80	45	0.00625
+hp tractor	New Holland	1	1	2	2	0.500000000000	NULL	NULL	50	26	0.01
+HP unique feature	content protection	1	1	3	3	1.000000000000	NULL	NULL	11	5	0.0303030303030303
+HP unique feature	grid computing architecture	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HP unique feature	full text indexing	1	1	3	3	1.000000000000	NULL	NULL	7	5	0.047619047619047616
+HP unit	Carriers	1	1	3	3	1.000000000000	NULL	NULL	12	14	0.027777777777777776
+hp unit	high hp unit	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+HP unit	Battlecruisers	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+HP UPD tool	Driver Deployment Utility	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HP UPD tool	Driver Configuration Utility	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HP UPD tool	Managed Print Administration	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HP UPD tool	Active Directory Templates	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+hp virulence factor	CagA protein	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+hp virulence factor	vacuolating toxin VacA	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+hp virulence factor	cag pathogenicity island	1	1	3	3	1.000000000000	NULL	NULL	13	6	0.02564102564102564
+HP web jetadmin item	map	1	1	2	3	NULL	NULL	NULL	4332	1570	0.00011542012927054478
+HP web jetadmin item	group	1	1	2	3	NULL	NULL	NULL	1049	514	0.00047664442326024784
+HP webOS navigation apps	Fandango	1	1	2	2	1.000000000000	NULL	NULL	42	22	0.011904761904761904
+HP webOS navigation apps	OpenTable	1	1	2	2	1.000000000000	NULL	NULL	38	19	0.013157894736842105
+HP wireless access device	Pocket PCs	1	1	1	1	NULL	NULL	NULL	151	55	0.006622516556291391
+HP XP model	HP XP12000	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HP XP model	HP XP10000	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+HP XP model	HP XP10000 Disk Array	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HP XP model	HP XP12000 Disk Array	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HP's	Denon D2000	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hp's agility alliance partner	Symantec	1	1	1	1	NULL	NULL	NULL	858	305	0.0011655011655011655
+hp's all-in-one printer	HP Officejet Pro L7590	1	1	1	1	NULL	NULL	NULL	1	1	1
+hp's competitor	Asus	1	1	1	1	NULL	NULL	NULL	656	232	0.001524390243902439
+hp's corporate function	marketing	1	1	2	2	NULL	NULL	NULL	6527	1892	0.00007660487206986364
+hp's corporate function	finance	1	1	2	2	NULL	NULL	NULL	7520	2058	0.00006648936170212766
+hp's enterprise-level print management tool	Web Jetadmin	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+hp's eprint-enabled printer	HP LaserJet Pro CP1525 color printer	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP's Fine Art stock	Hahnemuhle Watercolor paper	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP's funtions	F11	1	1	1	1	0.666666666666	NULL	NULL	12	9	0.08333333333333333
+hp's hands-on cloud service	HP Cloud Discovery Workshop	1	1	1	1	NULL	NULL	NULL	1	1	1
+hp's highly scalable core technology	BladeSystem c-Class server blade	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+hp's highly scalable core technology	data center cooling service	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+hp's identity management solution	HP OpenView Select Identity	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hp's latest security feature	encryption	1	1	1	1	0.500000000000	NULL	NULL	1548	602	0.0006459948320413437
+hp's measurement instrument	impedance analyzer	1	1	3	3	1.000000000000	NULL	NULL	10	5	0.03333333333333333
+hp's measurement instrument	DC high resistance meter	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+hp's measurement instrument	LCR meter	1	1	3	3	1.000000000000	NULL	NULL	150	140	0.0022222222222222222
+hp's option	scanning	1	1	1	1	NULL	NULL	NULL	852	337	0.0011737089201877935
+HP's ProtectTools	HP DriveLock	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP's ProtectTools	HP Digitalpass	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hp's real life technology	adaptive lighting	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+hp's real life technology	red-eye removal	1	1	2	2	NULL	NULL	NULL	79	51	0.006329113924050633
+hp's rival	IBM	1	1	1	1	NULL	NULL	NULL	11151	2595	0.0000896780557797507
+hp's smart device	report toner level	2	1	2	2	NULL	NULL	NULL	2	1	1
+HP-41 style program	Othello	1	1	1	1	NULL	NULL	NULL	150	70	0.006666666666666667
+HP-6 accessory	soles	1	1	3	3	0.333333333333	NULL	NULL	31	27	0.01075268817204301
+HP-6 accessory	fence	1	1	3	3	0.333333333333	NULL	NULL	2735	975	0.0001218769043266301
+HP-6 accessory	iron	1	1	3	3	0.333333333333	NULL	NULL	11941	2300	0.000027915026658850457
+HP-GL device	plotter	1	1	1	1	NULL	NULL	NULL	214	88	0.004672897196261682
+hp-gl-compatible plotter	HP 7475A	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP-IB peripheral	59501A Isolated Digital-to-Analog Converter	1	1	1	1	NULL	NULL	NULL	1	1	1
+HP-IL controller	HP-71B	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HP-IL controller	HP-41C	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hp-related book	newly-published The Tales of Beedle the Bard	1	1	1	1	NULL	NULL	NULL	1	1	1
+hp-sponsored event	potluck	1	1	2	2	NULL	NULL	NULL	166	67	0.0030120481927710845
+hp-sponsored event	20k run	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hp-supported uninterruptible power supply	HP PowerTrust	2	1	2	1	NULL	NULL	NULL	2	1	1
+hp-treated product	turkey sausage	1	1	1	1	1.000000000000	NULL	NULL	31	19	0.03225806451612903
+HP-UX command	mailx	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+HP-UX component	server agent	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+HP-UX component	process	1	1	3	3	NULL	NULL	NULL	875	406	0.0003809523809523809
+HP-UX component	resource	1	1	3	3	NULL	NULL	NULL	1375	506	0.00024242424242424242
+HP-UX inter-process communication mechanism	shared memory	1	1	3	3	NULL	NULL	NULL	70	52	0.0047619047619047615
+HP-UX inter-process communication mechanism	socket	1	1	3	3	NULL	NULL	NULL	481	246	0.000693000693000693
+HP-UX inter-process communication mechanism	semaphore	1	1	3	3	NULL	NULL	NULL	192	118	0.001736111111111111
+HP-UX utility	cpio	1	1	1	1	1.000000000000	NULL	NULL	36	21	0.027777777777777776
+HPA	Mr. Cusack	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPA activity	free cortisol measured in salivary sample	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HPA axis hormone	corticotropin-releasing hormone	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+HPA inhibitor	phosphomannopentaose sulfate	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+HPA inhibitor	laminarin sulfate	2	1	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+hpa-axis hormone	cortisol	1	1	1	1	NULL	NULL	NULL	958	199	0.0010438413361169101
+HPA-induced homeostatic mediator	cortisol	1	1	1	1	NULL	NULL	NULL	958	199	0.0010438413361169101
+HPAA subscription	HP Alumni News	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPAs	MITs Daedalus	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPC application	computational chemistry	5	2	22	12	0.714285714285	NULL	NULL	42	19	0.027056277056277053
+HPC application	environmental forecasting	3	2	22	12	0.714285714285	NULL	NULL	3	1	0.13636363636363635
+HPC application	computer-aided engineering	2	1	22	12	0.714285714285	NULL	NULL	10	9	0.01818181818181818
+HPC application	protein synthesis	2	2	22	12	0.714285714285	NULL	NULL	124	66	0.001466275659824047
+HPC application	seismic processing	2	2	22	12	0.714285714285	NULL	NULL	3	2	0.06060606060606061
+HPC application	scientific research simulation	2	2	22	12	0.714285714285	NULL	NULL	2	1	0.09090909090909091
+HPC application	computeraided engineering	1	1	22	12	0.714285714285	NULL	NULL	1	1	0.045454545454545456
+HPC application	molecular simulat ion	1	1	22	12	0.714285714285	NULL	NULL	1	1	0.045454545454545456
+HPC application	molecular simulation	1	1	22	12	0.714285714285	NULL	NULL	11	10	0.004132231404958678
+HPC application	N-body simulation	1	1	22	12	0.714285714285	NULL	NULL	3	3	0.015151515151515152
+HPC application	high-rise building	1	1	22	12	0.714285714285	NULL	NULL	83	57	0.000547645125958379
+HPC application	molecular dynamic	1	1	22	12	0.714285714285	NULL	NULL	107	93	0.0004248088360237893
+HPC cluster application	grid	1	1	1	1	NULL	NULL	NULL	539	313	0.0018552875695732839
+HPC device	NVidia Tesla	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+HPC environment	LANL	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+HPC facility	PC cluster	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+HPC feature	parallel processing of the visualization come with VisIt	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPC feature	remote	1	1	2	2	NULL	NULL	NULL	194	102	0.002577319587628866
+HPC industry	IBM	1	1	2	2	NULL	NULL	NULL	11151	2595	0.00004483902788987535
+HPC industry	Intel	1	1	2	2	NULL	NULL	NULL	4286	1143	0.00011665888940737284
+HPC interconnection network	InfiniBand	1	1	1	1	NULL	NULL	NULL	72	47	0.013888888888888888
+HPC machine	Cray	2	1	2	1	1.000000000000	NULL	NULL	60	33	0.03333333333333333
+HPC market segment	oil & gas	1	1	1	1	NULL	NULL	NULL	250	80	0.004
+HPC memberassociations	Flower Growers Association	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPC milestone	optimized parallel computing performance on multi-core processor	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPC network	Myrinet	1	1	1	1	NULL	NULL	NULL	50	30	0.02
+HPC player	IBM	1	1	1	1	NULL	NULL	NULL	11151	2595	0.0000896780557797507
+HPC profession	Psychology	1	1	1	1	NULL	NULL	NULL	3044	631	0.000328515111695138
+HPC requirement	high availability data movement	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+HPC requirement	data movement	1	1	4	4	0.333333333333	NULL	NULL	8	7	0.03125
+HPC requirement	management	1	1	4	4	0.333333333333	NULL	NULL	2775	985	0.00009009009009009009
+HPC requirement	high availability	1	1	4	4	0.333333333333	NULL	NULL	213	106	0.0011737089201877935
+HPC resource	Inc.	1	1	2	2	NULL	NULL	NULL	1793	737	0.0002788622420524261
+HPC resource	R Smarr cluster by R Systems	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPC scheduling algorithm	tiling	1	1	1	1	NULL	NULL	NULL	322	143	0.003105590062111801
+HPC scheduling software	Condor	1	1	2	2	0.333333333333	NULL	NULL	193	103	0.0025906735751295338
+HPC scheduling software	Sun Grid Engine	1	1	2	2	0.333333333333	NULL	NULL	14	11	0.03571428571428571
+HPC setup	FireStream	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPC system	cluster	1	1	1	1	NULL	NULL	NULL	332	213	0.0030120481927710845
+HPC technique	simulation	1	1	1	1	NULL	NULL	NULL	1296	620	0.0007716049382716049
+HPC technology	InfiniBand	1	1	4	4	NULL	NULL	NULL	72	47	0.003472222222222222
+HPC technology	WCF Web Services	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+HPC technology	OpenMP	1	1	4	4	NULL	NULL	NULL	91	52	0.0027472527472527475
+HPC technology	MPI	1	1	4	4	NULL	NULL	NULL	196	120	0.0012755102040816326
+HPC tool	Shock project	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPC voltage regulator seminar	Westinghouse WTA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPC voltage regulator seminar	WDR Exciters	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hpc's famous baked good	chocolate meringue pie	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+hpc's famous baked good	zucchini muffin	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+hpc-crafted product	commercial airplane	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+hpc-only cluster system vendor	Linux Networx	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+hpc-only cluster system vendor	Appro	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+hpcc's energy efficient application	remote management of high power appliance	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+hpcc's energy efficient application	demand control	1	1	3	3	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+hpcc's energy efficient application	networking thermostats in home	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+HPCs	GR-1	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+HPCs	myeloid suppressor cells expressingcd11b	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HPCs	Sigmarion III	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HPCS language	X10	2	2	2	1	1.000000000000	NULL	NULL	50	36	0.04
+hpd's ancillary service	pet grooming	1	1	1	1	1.000000000000	NULL	NULL	27	15	0.037037037037037035
+hpd's grant program	Georgia Heritage grant	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPE gene	SIX3	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hpestimator linear filter	HP	1	1	1	1	NULL	NULL	NULL	5009	1443	0.00019964064683569574
+HPF EM application	sample preparation	1	1	1	1	0.500000000000	NULL	NULL	84	44	0.011904761904761904
+HPF feature	FORALL statement	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPF game chamber play game	scrabble	1	1	2	2	NULL	NULL	NULL	796	199	0.000628140703517588
+HPF game chamber play game	hangman	1	1	2	2	NULL	NULL	NULL	172	66	0.0029069767441860465
+HPFRCC material	ECC	1	1	1	1	NULL	NULL	NULL	81	62	0.012345679012345678
+HPFS many later file system	NTFS	1	1	1	1	NULL	NULL	NULL	111	45	0.009009009009009009
+HPG axisandgonadal steroid	E 2	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+HPGR circuit variable	aspect ratio	1	1	5	5	0.500000000000	NULL	NULL	276	150	0.0007246376811594203
+HPGR circuit variable	feed moisture	1	1	5	5	0.500000000000	NULL	NULL	3	3	0.06666666666666667
+HPGR circuit variable	feed PSD	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+HPGR circuit variable	rolls surface	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+HPGR circuit variable	roll speed	1	1	5	5	0.500000000000	NULL	NULL	16	10	0.0125
+HPH project	Intercultural Hospital	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPH project	Pain Therapy	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HPH-8 connection example night device	heater	2	1	3	2	NULL	NULL	NULL	1368	526	0.0009746588693957114
+HPH-8 connection example night device	dehumidifier	1	1	3	2	NULL	NULL	NULL	174	80	0.0019157088122605363
+HPI event	sensor threshold event	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HPI event	hot swap	1	1	2	2	1.000000000000	NULL	NULL	19	9	0.02631578947368421
+HPI interface	HPI-16 on TMS320C54x device	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPI rim	SS Monster	1	1	1	1	NULL	NULL	NULL	1	1	1
+hpioxb daily necessity	food	1	1	1	1	NULL	NULL	NULL	18353	4439	0.00005448700484934343
+HPIs	ritonavir	2	2	6	3	0.666666666666	NULL	NULL	151	51	0.004415011037527594
+HPIs	lopinavir	2	2	6	3	0.666666666666	NULL	NULL	36	15	0.018518518518518517
+HPIs	saquinavir	2	2	6	3	0.666666666666	NULL	NULL	109	32	0.0061162079510703364
+HPJAM condition	jet pressure	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPL area	computer room environment	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPL panel related offer	HPL	1	1	3	3	0.666666666666	NULL	NULL	19	15	0.017543859649122806
+HPL panel related offer	Aluminum Sheet	1	1	3	3	0.666666666666	NULL	NULL	51	34	0.0065359477124183
+HPL panel related offer	Aluminum Plate	1	1	3	3	0.666666666666	NULL	NULL	82	65	0.004065040650406504
+HPL related offer	Laminate Flooring	1	1	1	1	0.500000000000	NULL	NULL	73	50	0.0136986301369863
+HPLC accessory	column	1	1	1	1	NULL	NULL	NULL	1574	735	0.0006353240152477764
+HPLC analysis solvent	2-propanol	1	1	5	5	NULL	NULL	NULL	96	36	0.0020833333333333333
+HPLC analysis solvent	distilled water	1	1	5	5	NULL	NULL	NULL	157	80	0.0012738853503184715
+HPLC analysis solvent	acetonitrile	1	1	5	5	NULL	NULL	NULL	686	177	0.0002915451895043732
+HPLC analysis solvent	hexane	1	1	5	5	NULL	NULL	NULL	922	240	0.00021691973969631238
+HPLC analysis solvent	methanol	1	1	5	5	NULL	NULL	NULL	4016	908	0.000049800796812749006
+HPLC approach	reverse phase HPLC	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+HPLC approach	chromatofocusing	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+HPLC approach	2D LC	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+HPLC characteristic	low permeability	1	1	1	1	1.000000000000	NULL	NULL	17	10	0.058823529411764705
+hplc column	reversed phase hplc column	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HPLC column & related accessory	Guard Column	1	1	1	2	1.000000000000	NULL	NULL	2	2	0.5
+HPLC component	tubing	1	1	4	4	NULL	NULL	NULL	824	355	0.00030339805825242716
+HPLC component	column	1	1	4	4	NULL	NULL	NULL	1574	735	0.0001588310038119441
+HPLC component	injector	1	1	4	4	NULL	NULL	NULL	198	94	0.0012626262626262627
+HPLC component	filter	1	1	4	4	NULL	NULL	NULL	3205	1326	0.00007800312012480499
+HPLC condition	column selection	1	1	5	5	0.666666666666	NULL	NULL	4	4	0.05
+HPLC condition	mobile phase	1	1	5	5	0.666666666666	NULL	NULL	16	8	0.0125
+HPLC condition	column	1	1	5	5	0.666666666666	NULL	NULL	1574	735	0.00012706480304955527
+HPLC condition	oxidation potential	1	1	5	5	0.666666666666	NULL	NULL	8	7	0.025
+HPLC condition	solvents composition	1	1	5	5	0.666666666666	NULL	NULL	1	2	0.2
+HPLC detector	conductivity	1	1	2	2	0.500000000000	NULL	NULL	885	324	0.0005649717514124294
+HPLC detector	electrochemical detector	1	1	2	2	0.500000000000	NULL	NULL	8	6	0.0625
+HPLC grade solvent	methanol	4	4	8	5	NULL	NULL	NULL	4016	908	0.00049800796812749
+HPLC grade solvent	toluene	1	1	8	5	NULL	NULL	NULL	3021	715	0.000041377027474346244
+HPLC grade solvent	acetone	1	1	8	5	NULL	NULL	NULL	2962	700	0.00004220121539500338
+HPLC grade solvent	acetonitrile	1	1	8	5	NULL	NULL	NULL	686	177	0.00018221574344023323
+HPLC grade solvent	hexane	1	1	8	5	NULL	NULL	NULL	922	240	0.00013557483731019523
+HPLC gradesolvents	methanol	1	1	1	1	NULL	NULL	NULL	4016	908	0.000249003984063745
+HPLC instrument	refractive index detector	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+HPLC INTRODUCTION colloidal particulate carrier	liposomes	1	1	1	1	NULL	NULL	NULL	639	260	0.001564945226917058
+HPLC INTRODUCTION polyphenolic compound	phenolic acid	1	1	2	2	NULL	NULL	NULL	121	53	0.004132231404958678
+HPLC INTRODUCTION polyphenolic compound	flavonoids	1	1	2	2	NULL	NULL	NULL	812	259	0.0006157635467980296
+HPLC method	ion-exchange	1	1	3	3	0.500000000000	NULL	NULL	58	37	0.005747126436781609
+HPLC method	ion exchange	1	1	3	3	0.500000000000	NULL	NULL	454	171	0.0007342143906020558
+HPLC method	ion paired reverse phase HPLC	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+HPLC part	seal	1	1	2	2	NULL	NULL	NULL	1274	416	0.0003924646781789639
+HPLC part	column	1	1	2	2	NULL	NULL	NULL	1574	735	0.0003176620076238882
+HPLC part replacement task	changing pump seal	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPLC solvent	acetonitrile	3	3	10	9	NULL	NULL	NULL	686	177	0.0013119533527696792
+HPLC solvent	alkanes	1	1	10	9	NULL	NULL	NULL	166	83	0.0006024096385542169
+hplc solvent	pierce hplc solvent	1	1	10	9	NULL	NULL	NULL	2	2	0.05
+HPLC solvent	acetone	1	1	10	9	NULL	NULL	NULL	2962	700	0.000033760972316002705
+HPLC solvent	benzene	1	1	10	9	NULL	NULL	NULL	4065	919	0.000024600246002460025
+HPLC solvent	toluene	1	1	10	9	NULL	NULL	NULL	3021	715	0.000033101621979477
+HPLC solvent	alcohol	1	1	10	9	NULL	NULL	NULL	12820	3081	0.0000078003120124805
+hplc solvent	``universal'' hplc solvent	1	1	10	9	NULL	NULL	NULL	2	2	0.05
+HPLC system	high speed Accela HPLC	2	2	8	7	NULL	NULL	NULL	2	1	0.25
+HPLC system	Dionex BioLC	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+HPLC system	Surveyor Plus TM	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+HPLC system	Finnigan SpectraSYSTEM	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+HPLC system	Finnigan Surveyor Plus	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+HPLC system	Surveyor PlusTM	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+HPLC system	Akta purifier	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+HPLC system diagnostic parameter	cam revolution	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HPLC system diagnostic parameter	injection valve counter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HPLC system diagnostic parameter	UV lamp age	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HPLC technique	Ligand exchange HPLC	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+HPLC technique	Gel permeation HPLC	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+HPLC technique	Reverse phase HPLC	1	1	6	6	1.000000000000	NULL	NULL	7	6	0.023809523809523808
+HPLC technique	anion-exchange chromatography	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+HPLC technique	Affinity HPLC	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+hplc technique	high resolution hplc technique	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+hplc-grade solvent	methanol	2	2	12	8	0.125000000000	NULL	NULL	4016	908	0.00008300132802124833
+hplc-grade solvent	methylene chloride	2	2	12	8	0.125000000000	NULL	NULL	776	234	0.000429553264604811
+hplc-grade solvent	acetonitrile	2	2	12	8	0.125000000000	NULL	NULL	686	177	0.00048590864917395527
+hplc-grade solvent	hexane	2	2	12	8	0.125000000000	NULL	NULL	922	240	0.00036153289949385393
+hplc-grade solvent	acetone	1	1	12	8	0.125000000000	NULL	NULL	2962	700	0.000028134143596668917
+hplc-grade solvent	ethyl acetate	1	1	12	8	0.125000000000	NULL	NULL	545	198	0.0001529051987767584
+hplc-grade solvent	isopropanol	1	1	12	8	0.125000000000	NULL	NULL	658	166	0.0001266464032421479
+hplc-grade solvent	iso-octane	1	1	12	8	0.125000000000	NULL	NULL	14	12	0.005952380952380952
+HPLE product	D-galactose	1	1	3	3	0.333333333333	NULL	NULL	20	15	0.016666666666666666
+HPLE product	trehalose	1	1	3	3	0.333333333333	NULL	NULL	244	92	0.001366120218579235
+HPLE product	sucrose	1	1	3	3	0.333333333333	NULL	NULL	1726	398	0.00019312475859405175
+HPM group	Mind Dynamics	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HPM group	Lifespring	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+HPM source parameter	modulation	1	1	3	3	0.333333333333	NULL	NULL	178	107	0.0018726591760299624
+HPM source parameter	pulse width	1	1	3	3	0.333333333333	NULL	NULL	169	85	0.0019723865877712033
+HPM source parameter	pulse repetition frequency	1	1	3	3	0.333333333333	NULL	NULL	24	14	0.013888888888888888
+HPM system	Jackal	1	1	2	2	NULL	NULL	NULL	304	81	0.001644736842105263
+HPM system	Calilgo	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HPMS item	Year of Surface Improvement	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPMS sample datum item	number of signalized intersection	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPMS sample datum item	passing sight distance	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+HPN publication	quarterly Humanitarian Exchange magazine	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPOs	reductions in risk exposure	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPP affectsonlynoncovalent bond	hydrophobic	1	1	3	3	0.333333333333	NULL	NULL	48	26	0.006944444444444444
+HPP affectsonlynoncovalent bond	ionic	1	1	3	3	0.333333333333	NULL	NULL	38	26	0.008771929824561403
+HPP affectsonlynoncovalent bond	hydrogen bond	1	1	3	3	0.333333333333	NULL	NULL	157	77	0.0021231422505307855
+HPP function	client intake	1	1	3	3	0.500000000000	NULL	NULL	9	7	0.037037037037037035
+HPP function	client records in the database	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+HPP function	community outreach	1	1	3	3	0.500000000000	NULL	NULL	122	64	0.00273224043715847
+HPP product	guacamole	1	1	5	5	0.200000000000	NULL	NULL	304	146	0.0006578947368421052
+HPP product	fruit puree	1	1	5	5	0.200000000000	NULL	NULL	34	25	0.0058823529411764705
+HPP product	juice	1	1	5	5	0.200000000000	NULL	NULL	2975	876	0.00006722689075630252
+HPP product	ham	1	1	5	5	0.200000000000	NULL	NULL	1927	632	0.00010378827192527245
+HPP product	salsa	1	1	5	5	0.200000000000	NULL	NULL	1307	502	0.00015302218821729152
+HPP system component	intensifier pump	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+HPP system component	water module	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+hppcl-supported printer	HP LaserJet Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPPD inhibiting herbicide	Callisto	1	1	5	5	0.800000000000	NULL	NULL	16	11	0.0125
+HPPD inhibiting herbicide	Balance	1	1	5	5	0.800000000000	NULL	NULL	1508	591	0.00013262599469496023
+HPPD inhibiting herbicide	Lexar	1	1	5	5	0.800000000000	NULL	NULL	32	20	0.00625
+HPPD inhibiting herbicide	Lumax	1	1	5	5	0.800000000000	NULL	NULL	7	7	0.028571428571428574
+HPPD inhibiting herbicide	Corvus	1	1	5	5	0.800000000000	NULL	NULL	9	8	0.022222222222222223
+hppd-inhibiting herbicide	Callisto	4	4	9	6	0.666666666666	NULL	NULL	16	11	0.1111111111111111
+hppd-inhibiting herbicide	Balance Pro	1	1	9	6	0.666666666666	NULL	NULL	5	4	0.02222222222222222
+hppd-inhibiting herbicide	Balance	1	1	9	6	0.666666666666	NULL	NULL	1508	591	0.00007368110816386678
+hppd-inhibiting herbicide	Corvus	1	1	9	6	0.666666666666	NULL	NULL	9	8	0.012345679012345678
+hppd-inhibiting herbicide	Lexar	1	1	9	6	0.666666666666	NULL	NULL	32	20	0.003472222222222222
+hppd-inhibiting herbicide	Lumax	1	1	9	6	0.666666666666	NULL	NULL	7	7	0.015873015873015872
+HPPMG key government regulation	Labor Code	1	1	1	1	1.000000000000	NULL	NULL	18	12	0.05555555555555555
+hpq's competitor	Oracle	1	1	1	1	NULL	NULL	NULL	4631	1430	0.00021593608291945585
+HPR trait	okra leaf	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+HPRC system	HHPC use common bus architectures like PCI	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+HPRC system	HHPC usecommonbus architectures like PCI	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+HPRC system	Cray XD1	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+HPRCsystems	HHPC use common bus architectures like PCI	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HPRs	HPR	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+HPs	CCI Blazer	1	1	1	1	NULL	NULL	NULL	1	2	1
+HPS bulb	600W HPS	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+HPS bulb	400W HPS	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+HPS light bulb	Son Agro 430W HPS	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HPS90 inhibitor	geldanamycin	1	1	1	1	1.000000000000	NULL	NULL	85	29	0.011764705882352941
+hpsc marker	DLK1	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+hpsc marker	DKK1	1	1	5	5	0.500000000000	NULL	NULL	6	6	0.03333333333333333
+hpsc marker	TACSTD1	1	1	5	5	0.500000000000	NULL	NULL	3	2	0.06666666666666667
+hpsc marker	KRT19	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+hpsc marker	AFP	1	1	5	5	0.500000000000	NULL	NULL	134	78	0.0014925373134328358
+hpt protein	phosphorelay protein YPD1	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPTC filesystems	Lustre	1	1	1	1	NULL	NULL	NULL	97	47	0.010309278350515464
+HPV cytopathic change	perinuclear halos with displacement of nucleus	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPV disease	wart	1	1	1	1	NULL	NULL	NULL	445	174	0.0022471910112359553
+HPV early gene	E6	5	5	5	1	1.000000000000	NULL	NULL	13	8	0.38461538461538464
+HPV early protein	E7	2	2	2	1	1.000000000000	NULL	NULL	36	25	0.05555555555555555
+HPV genotyping test	Linear Array HPV genotyping	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPV infection	Salmonella Escherichia coli Shigella	1	1	1	1	NULL	NULL	NULL	1	1	1
+HPV luminary	Bernhard Rohloff Dieter Baumann	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPV luminary	Florian Schlumpf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPV oncogenic protein	E6	1	1	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+HPV product	oncoproteins E6	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+HPV protein	E2	2	2	4	2	1.000000000000	NULL	NULL	27	23	0.037037037037037035
+HPV protein	E6	2	1	4	2	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+HPV s	F-40	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HPV subtypes	HPV1	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HPV symptom	genital wart	1	1	1	1	NULL	NULL	NULL	271	51	0.0036900369003690036
+HPV type	HPVs 16	3	3	9	7	NULL	NULL	NULL	3	1	0.3333333333333333
+HPV type	HPV-1	1	1	9	7	NULL	NULL	NULL	3	3	0.037037037037037035
+hpv type	high-risk hpv type	1	1	9	7	NULL	NULL	NULL	2	2	0.05555555555555555
+hpv type	genital hpv type	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+HPV type	oncogenic HPV-18	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+hpv type	low risk hpv type	1	1	9	7	NULL	NULL	NULL	2	2	0.05555555555555555
+HPV type	HPV-1 & HPV-2	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+HPV vaccine	Gardasil	6	6	10	4	1.000000000000	NULL	NULL	47	19	0.07659574468085105
+HPV vaccine	Gardisil	2	2	10	4	1.000000000000	NULL	NULL	6	3	0.06666666666666667
+HPV vaccine	quadrivalent HPV vaccine	1	1	10	4	1.000000000000	NULL	NULL	1	1	0.1
+HPV vaccine	Cervarix	1	1	10	4	1.000000000000	NULL	NULL	11	7	0.009090909090909092
+hpv-associated neoplasm	cervical cancer	1	1	1	1	NULL	NULL	NULL	243	88	0.00411522633744856
+hpv-based technology	HPV test	2	2	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+hpv-encoded oncogenic protein	E7	2	2	3	2	1.000000000000	NULL	NULL	36	25	0.037037037037037035
+hpv-encoded oncogenic protein	E6	1	1	3	2	1.000000000000	NULL	NULL	13	8	0.02564102564102564
+hpv-induced lesion	plantar wart	2	2	4	2	1.000000000000	NULL	NULL	41	19	0.024390243902439025
+hpv-induced lesion	common wart	2	2	4	2	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+hpv-initiated cancer	cervical cancer	1	1	1	1	NULL	NULL	NULL	243	88	0.00411522633744856
+hpv-negative control cell	HepG2 hepatoma cell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hpv-negative control cell	primary keratinocytes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hpv-positive cell	HeLa cell	1	1	1	1	1.000000000000	NULL	NULL	81	33	0.012345679012345678
+hpv-positive tumor	cervical cancer	1	1	1	1	NULL	NULL	NULL	243	88	0.00411522633744856
+hpv-related disease	benign hpv-related disease	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hpv-related factor	HPV load	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+hpv-related factor	HPV persistence	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+hpv-related factor	multiple HPV infection	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+hpv-related factor	physical state of HPV	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+hpv-related parameter	viral load	1	1	2	2	NULL	NULL	NULL	112	54	0.004464285714285714
+hpv-related parameter	oncogenic type	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HPVCs	ware	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+hpvtypewith clinical parameter	tumor dimension	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+hpvtypewith clinical parameter	stage of disease	1	1	6	6	0.666666666666	NULL	NULL	44	19	0.0037878787878787876
+hpvtypewith clinical parameter	depth of infiltration	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+hpvtypewith clinical parameter	patient age	1	1	6	6	0.666666666666	NULL	NULL	394	93	0.00042301184433164127
+hpvtypewith clinical parameter	histologic classification	1	1	6	6	0.666666666666	NULL	NULL	2	2	0.08333333333333333
+hpvtypewith clinical parameter	lymph node status	1	1	6	6	0.666666666666	NULL	NULL	49	32	0.003401360544217687
+HPW practice	teamwork	1	1	1	1	NULL	NULL	NULL	2187	609	0.0004572473708276177
+HPWS practice	internal promotion	1	1	1	1	1.000000000000	NULL	NULL	14	14	0.07142857142857142

@@ -1,0 +1,138 @@
+EW aircraft	EF-111 Raven	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EW aircraft	EA-6B Prowler	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+EW algorithm	virtual demodulation	1	1	1	1	NULL	NULL	NULL	1	1	1
+EW application	Radar Warning Receiver system	3	3	3	1	NULL	NULL	NULL	3	1	1
+ew bright saturated color	purple	1	1	3	3	0.333333333333	NULL	NULL	2740	728	0.000121654501216545
+ew bright saturated color	mustard yellow	1	1	3	3	0.333333333333	NULL	NULL	55	35	0.006060606060606061
+ew bright saturated color	malachite green	1	1	3	3	0.333333333333	NULL	NULL	91	45	0.003663003663003663
+ew business application	e-commerce	1	1	3	3	NULL	NULL	NULL	1087	451	0.000306654400490647
+ew business application	data warehousing	1	1	3	3	NULL	NULL	NULL	343	159	0.0009718172983479105
+ew business application	online Internet access	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ew concept	swarming	1	1	2	2	1.000000000000	NULL	NULL	14	11	0.03571428571428571
+ew concept	netwar	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ew digital film technology	digital camera	1	1	2	2	NULL	NULL	NULL	3926	1175	0.00012735608762098828
+ew digital film technology	projector	1	1	2	2	NULL	NULL	NULL	733	381	0.0006821282401091405
+ew entrant	Vonage	2	2	2	1	NULL	NULL	NULL	596	183	0.003355704697986577
+ew event	heat wave	1	1	2	2	NULL	NULL	NULL	404	152	0.0012376237623762376
+ew event	storm	1	1	2	2	NULL	NULL	NULL	1899	661	0.0002632964718272775
+EW function	use of wartime reserve mode	1	0	1	1	NULL	NULL	NULL	1	1	1
+EW group	halogen	1	1	4	4	0.333333333333	NULL	NULL	731	251	0.0003419972640218878
+EW group	ethynyl	1	1	4	4	0.333333333333	NULL	NULL	6	5	0.041666666666666664
+EW group	nitro group	1	1	4	4	0.333333333333	NULL	NULL	59	24	0.00423728813559322
+EW group	cyano group	1	1	4	4	0.333333333333	NULL	NULL	27	13	0.009259259259259259
+ew institution	Lokpal	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+ew material	aramid	1	1	3	3	NULL	NULL	NULL	136	61	0.0024509803921568627
+ew material	carbon	1	1	3	3	NULL	NULL	NULL	2478	876	0.00013451708366962604
+ew material	glass	1	1	3	3	NULL	NULL	NULL	12254	3248	0.000027202002067352157
+ew medical technology	CT	1	1	1	1	NULL	NULL	NULL	2212	752	0.0004520795660036166
+EW method	wireless scanning	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EW method	wiretapping	1	1	2	2	NULL	NULL	NULL	61	36	0.00819672131147541
+ew packaging technique	3D stacking	1	1	1	1	1.000000000000	NULL	NULL	10	6	0.1
+ew resource	private sector engagement in prospecting	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ew resource	shovel-ready parcels of land	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ew resource	increasingly competitive incentive	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ew service delivery model	Patient-Centered Medical Homes	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ew stakeholder	social partner	1	1	1	1	1.000000000000	NULL	NULL	29	17	0.034482758620689655
+ew subject	German	1	1	1	1	NULL	NULL	NULL	1941	464	0.0005151983513652757
+EW system	airborne jammers	1	1	1	1	NULL	NULL	NULL	1	1	1
+ew technology	carbon sequestration	1	1	7	7	NULL	NULL	NULL	248	109	0.000576036866359447
+ew technology	membrane	1	1	7	7	NULL	NULL	NULL	458	229	0.00031191515907673113
+ew technology	PC-based GIS	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+ew technology	e-mail	1	1	7	7	NULL	NULL	NULL	4959	1772	0.000028807651312188516
+ew technology	Internet	1	1	7	7	NULL	NULL	NULL	10699	2978	0.00001335238273269865
+ew technology	WWW	1	1	7	7	NULL	NULL	NULL	160	95	0.0008928571428571428
+ew technology	SNOCAP	1	1	7	7	NULL	NULL	NULL	4	3	0.03571428571428571
+EW unit	communications jammers	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+EW unit	radar jammers	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+ew vocational subject	jewellery	1	1	1	1	NULL	NULL	NULL	2199	658	0.00045475216007276033
+ew weapon	tank	1	1	2	2	NULL	NULL	NULL	1826	785	0.0002738225629791895
+ew weapon	machine gun	1	1	2	2	NULL	NULL	NULL	443	175	0.001128668171557562
+ewa's newer face	Trent Ferrell	1	1	1	1	NULL	NULL	NULL	1	1	1
+ewable energy source	solar	1	1	1	1	NULL	NULL	NULL	4132	912	0.0002420135527589545
+EWACs	Seaport at Navy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EWACs	Eagle at DHS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ewald meal	Leube-Riegel meal	1	1	1	1	NULL	NULL	NULL	1	1	1
+eWallet	NETELLER	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+ewallet service	Moneybookers	1	1	1	1	NULL	NULL	NULL	128	63	0.0078125
+eWallets	moneybookers	1	1	2	2	0.333333333333	NULL	NULL	128	63	0.00390625
+eWallets	NETELLER	1	1	2	2	0.333333333333	NULL	NULL	11	9	0.045454545454545456
+ewalletxpress online gambling site	eWalletXpress Casinos	1	1	1	1	NULL	NULL	NULL	1	1	1
+ewan maccoll song	Dirty Old Town	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+EWAR	Target Painters	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EWAR	Tracking Disruptors	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ewar module	Tracking Disruptors	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+ewar module	Sensor Jammers	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ewar module	Sensor Dampeners	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ewar module	Target Painters	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+ewar module	Webbing Modules without bearing a high Electronic Load on the unit	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+EWAS area	culture	1	1	4	4	NULL	NULL	NULL	4206	1109	0.00005943889681407513
+EWAS area	physical environment	1	1	4	4	NULL	NULL	NULL	119	66	0.0021008403361344537
+EWAS area	work	1	1	4	4	NULL	NULL	NULL	2523	892	0.00009908838684106223
+EWAS area	education	1	1	4	4	NULL	NULL	NULL	21642	5033	0.000011551612605119674
+EWB program	high school outreach	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+EWB program	curriculum enhancement	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+EWC star	Jackal	1	1	4	4	NULL	NULL	NULL	304	81	0.0008223684210526315
+EWC star	Jesse Nunez	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EWC star	Jay Reynolds	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EWC star	Big Evil	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ewe	good native-type ewe	1	1	1	1	NULL	NULL	NULL	1	1	1
+ewe group	Tsome	2	1	18	9	1.000000000000	NULL	NULL	2	1	0.1111111111111111
+ewe group	Ho	2	1	18	9	1.000000000000	NULL	NULL	31	22	0.007168458781362007
+ewe group	Gbi	2	1	18	9	1.000000000000	NULL	NULL	10	8	0.02222222222222222
+ewe group	Akatsi	2	1	18	9	1.000000000000	NULL	NULL	3	2	0.07407407407407407
+ewe group	Taviefe	2	1	18	9	1.000000000000	NULL	NULL	2	1	0.1111111111111111
+ewe group	Anfoe	2	1	18	9	1.000000000000	NULL	NULL	2	1	0.1111111111111111
+ewe group	Anlo	2	1	18	9	1.000000000000	NULL	NULL	4	3	0.05555555555555555
+ewe group	Akpini	2	1	18	9	1.000000000000	NULL	NULL	2	1	0.1111111111111111
+ewe group	Atiave	2	1	18	9	1.000000000000	NULL	NULL	2	1	0.1111111111111111
+ewe's milk cheese	Ossau Iraty	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ewe's milk cheese	Bellwether Farm's San Andreas	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ewe's milk cheese	Abbaye Belloc	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ewe's milk cheese	Vermont Shepherd	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+eweb-owned facility	metering located beyond the point of delivery	1	1	1	1	NULL	NULL	NULL	1	1	1
+EWEC delegate	Claude Turmes	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+EWEC delegate	MEPs Britta Thompsen	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ewel tones-deep jewel tone color	green	1	1	3	3	NULL	NULL	NULL	6694	1904	0.00004979583706802111
+ewel tones-deep jewel tone color	blue	1	1	3	3	NULL	NULL	NULL	7681	1817	0.000043397127110185304
+ewel tones-deep jewel tone color	purple	1	1	3	3	NULL	NULL	NULL	2740	728	0.000121654501216545
+ewellery item	medical bracelet	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+ewelry item	safety pin	1	1	2	2	NULL	NULL	NULL	159	79	0.0031446540880503146
+ewelry item	paper clip	1	1	2	2	NULL	NULL	NULL	818	251	0.0006112469437652812
+ewer structure	gazebo at Heritage Park	1	1	1	1	NULL	NULL	NULL	1	1	1
+ewes milk cheese	feta	1	1	1	1	NULL	NULL	NULL	609	123	0.0016420361247947454
+EWG	quinoxalines	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EWH program	EWH Design Competition	1	1	1	1	NULL	NULL	NULL	1	1	1
+EWHM-compliant window manager	Openbox	1	1	1	1	1.000000000000	NULL	NULL	14	8	0.07142857142857142
+ewimaging technique	com- putedtomography	1	1	3	3	0.500000000000	NULL	NULL	8	8	0.041666666666666664
+ewimaging technique	magnetic resonance imaging	1	1	3	3	0.500000000000	NULL	NULL	2488	738	0.0001339764201500536
+ewimaging technique	trans- oesophageal echocardiography	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ewish intellectual	Thor Heyerdahl	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+EWN partner	state government	1	1	1	1	NULL	NULL	NULL	128	76	0.0078125
+EWN staff	chief engineer Christian Rohde	1	1	1	1	NULL	NULL	NULL	1	1	1
+ewoc's MDP operational component	Error Maintenance	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ewoc's MDP operational component	Work Flow	1	1	2	2	1.000000000000	NULL	NULL	31	21	0.016129032258064516
+ewod-based application	polymerase chain reaction	1	1	1	1	NULL	NULL	NULL	808	247	0.0012376237623762376
+Ewoks	Graak of Bright Tree Village	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ewood park star	Jason Roberts	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+ewood park star	Ryan Nelson	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+ewood park star	David Dunn	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+ewormer	fenbendazole	1	1	1	1	1.000000000000	NULL	NULL	48	32	0.020833333333333332
+EWP	glulam	2	2	2	1	1.000000000000	NULL	NULL	35	15	0.05714285714285714
+EWPs	glulam	2	2	3	2	0.500000000000	NULL	NULL	35	15	0.03809523809523809
+EWPs	OSLand PSL	1	1	3	2	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+EWs	ones for mobile phone	1	1	1	1	NULL	NULL	NULL	1	1	1
+EWS client	Apple-Mail 4	1	1	1	1	NULL	NULL	NULL	1	1	1
+ews organization	CBS News	1	1	4	4	0.250000000000	NULL	NULL	69	37	0.0036231884057971015
+ews organization	MSNBC	1	1	4	4	0.250000000000	NULL	NULL	559	208	0.0004472271914132379
+ews organization	C-SPAN	1	1	4	4	0.250000000000	NULL	NULL	47	35	0.005319148936170213
+ews organization	Fox News	1	1	4	4	0.250000000000	NULL	NULL	524	236	0.00047709923664122136
+EWS sign	stereotyped behavior	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ewspaper city	New York	1	1	1	1	NULL	NULL	NULL	13310	1915	0.00007513148009015778
+EWT vessel	Crystal Sea	1	1	1	1	NULL	NULL	NULL	1	1	1
+EWTA group	EA Program Office	2	2	2	1	NULL	NULL	NULL	2	1	1
+EWTN program	Journey Home	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+EWTN program	Nuestra Fe en Vivo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ewtonian fluid	power law fluid	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EWU degree program	management	1	1	1	1	NULL	NULL	NULL	2775	985	0.00036036036036036037
+eww-list reality star	Jake Pavelka	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+eww-list reality star	Snooki	1	1	2	2	1.000000000000	NULL	NULL	29	14	0.017241379310344827

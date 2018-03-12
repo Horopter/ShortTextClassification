@@ -1,0 +1,575 @@
+Rn	aircraft analog radio	1	1	1	1	NULL	NULL	NULL	1	1	1
+RN accomplishment	promotion	1	1	1	1	NULL	NULL	NULL	2086	789	0.00047938638542665386
+RN aircraft	ASaCs Sea King	1	1	1	1	NULL	NULL	NULL	1	1	1
+rn area	Gaibandha	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rn area	Nilphamari	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rn area	Lalmonirhat	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rn area	districts of Kurigram	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+RN career	community health nurse	1	1	3	3	1.000000000000	NULL	NULL	10	9	0.03333333333333333
+RN career	becoming a legal nurse consultant	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+RN career	nursing educator	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+RN carrier	Ark Royal	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+RN certification	CCRN by the AACN	1	1	1	1	NULL	NULL	NULL	1	1	1
+RN characteristic	demographic	1	1	2	2	0.500000000000	NULL	NULL	1417	509	0.00035285815102328866
+RN characteristic	overall health	1	1	2	2	0.500000000000	NULL	NULL	116	35	0.004310344827586207
+RN partner	Health Care Services Agency	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+RN specific duty	central line medicine administration	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RN specific duty	dressing maintenance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RN technical rate	Engine Room Artificer	1	1	1	1	NULL	NULL	NULL	1	1	1
+RN815 R parson city	Sheffield	1	1	1	1	NULL	NULL	NULL	322	108	0.003105590062111801
+RNA	total RNA	2	2	10	9	1.000000000000	NULL	NULL	3	2	0.13333333333333333
+rna	small double-stranded rna	1	1	10	9	1.000000000000	NULL	NULL	2	2	0.05
+RNA	transfer RNA	1	1	10	9	1.000000000000	NULL	NULL	22	12	0.004545454545454546
+RNA	soluble RNA	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+RNA	mRNA synthesized in the nucleus	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+RNA	phage T5 TGC-tRNA	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+RNA	cloned RNA	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+RNA	fetal RNA from amniotic fluid	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+rna	year non-coding small rna	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+RNA -metric	peak area	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+RNA -metric	peak height	1	1	2	2	1.000000000000	NULL	NULL	28	22	0.017857142857142856
+RNA 3D motif	loop E	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna amplification technique	vitro rna amplification technique	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+RNA amplification technique	RT-PCR	1	1	2	2	NULL	NULL	NULL	202	110	0.0024752475247524753
+RNA analysis	high-throughput RNA sequencing	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+RNA analysis	fingerprinting of authentic gld-2 mrna	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+RNA analysis	mass spectrometry	1	1	3	3	NULL	NULL	NULL	463	225	0.0007199424046076314
+RNA analysis technique	Northern Blotting	1	1	3	3	1.000000000000	NULL	NULL	63	32	0.005291005291005291
+RNA analysis technique	situ hybridization	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+RNA analysis technique	Rnase protection analysis	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+RNA based -therapeutic	ribozymes	1	1	1	1	NULL	NULL	NULL	93	57	0.010752688172043012
+RNA binding motif	arginine-rich motif	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+RNA binding motif	zinc finger	1	1	2	2	1.000000000000	NULL	NULL	18	14	0.027777777777777776
+RNA binding protein	ZBP1	2	2	23	19	0.666666666666	NULL	NULL	2	1	0.08695652173913043
+RNA binding protein	nucleolin	2	2	23	19	0.666666666666	NULL	NULL	18	10	0.00966183574879227
+RNA binding protein	hnRNP C	2	2	23	19	0.666666666666	NULL	NULL	7	4	0.024844720496894408
+RNA binding protein	hnRNP A1	2	2	23	19	0.666666666666	NULL	NULL	13	10	0.013377926421404682
+RNA binding protein	50 kDa polypyrimidine tract binding protein RBP50 in pumpkin	1	1	23	19	0.666666666666	NULL	NULL	1	1	0.043478260869565216
+RNA binding protein	triplet repeat expansion RNA-binding protein	1	1	23	19	0.666666666666	NULL	NULL	1	1	0.043478260869565216
+RNA binding protein	UNR	1	1	23	19	0.666666666666	NULL	NULL	9	9	0.004830917874396135
+RNA binding protein	KSRP	1	1	23	19	0.666666666666	NULL	NULL	6	5	0.007246376811594203
+RNA binding protein	nucleocapsid protein of HIV-1	1	1	23	19	0.666666666666	NULL	NULL	1	1	0.043478260869565216
+RNA binding protein	pyrimidine tract binding protein	1	1	23	19	0.666666666666	NULL	NULL	2	2	0.021739130434782608
+RNA binding protein	Hel-N1 RNA binding protein of the present invention	1	1	23	19	0.666666666666	NULL	NULL	1	1	0.043478260869565216
+RNA binding protein	Tat	1	1	23	19	0.666666666666	NULL	NULL	101	46	0.00043047783039173483
+RNA binding protein	SR	1	1	23	19	0.666666666666	NULL	NULL	50	42	0.0008695652173913043
+RNA binding protein	TDP43	1	1	23	19	0.666666666666	NULL	NULL	2	2	0.021739130434782608
+RNA binding protein	TDP-43	1	1	23	19	0.666666666666	NULL	NULL	6	4	0.007246376811594203
+RNA binding protein	Staufen	1	1	23	19	0.666666666666	NULL	NULL	10	5	0.004347826086956522
+RNA binding protein	A2	1	1	23	19	0.666666666666	NULL	NULL	62	46	0.0007012622720897616
+rna binding protein	non-specific rna binding protein	1	1	23	19	0.666666666666	NULL	NULL	3	3	0.014492753623188406
+RNA binding protein	Rev	1	1	23	19	0.666666666666	NULL	NULL	33	20	0.0013175230566534915
+RNA blotting technique	Northern blotting	1	1	1	1	1.000000000000	NULL	NULL	63	32	0.015873015873015872
+RNA cap guanine-N2 methyltransferases	Schizosaccharomyces pombe Tgs1	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA car-riers	exosomes	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+RNA carrier	exosomes	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+RNA chaperone	DEAD-box RNA helicases	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+RNA chaperone	hnRNP A1	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+RNA cofactors	NAD	1	1	1	1	0.500000000000	NULL	NULL	66	34	0.015151515151515152
+RNA context	secondary structure	1	1	1	1	NULL	NULL	NULL	51	26	0.0196078431372549
+RNA decoy	RRE decoy	3	3	3	1	NULL	NULL	NULL	3	1	1
+RNA dependent DNA polymerases	AMV	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+RNA detection method	Northern blot	4	4	9	6	0.750000000000	NULL	NULL	66	37	0.026936026936026935
+RNA detection method	end-point PCR	1	1	9	6	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+rna detection method	standard rna detection method	1	1	9	6	0.750000000000	NULL	NULL	3	3	0.037037037037037035
+RNA detection method	Northern blot analysis	1	1	9	6	0.750000000000	NULL	NULL	41	14	0.0027100271002710027
+RNA detection method	RNase protection assay	1	1	9	6	0.750000000000	NULL	NULL	24	14	0.004629629629629629
+RNA detection method	RT-PCR	1	1	9	6	0.750000000000	NULL	NULL	202	110	0.00055005500550055
+RNA function	pre-mRNA processing	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna gene	non-coding rna gene	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rna gene	structural rna gene	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rna gene	c.elegans rna gene	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+RNA genome	found in virus	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA helicases	RIG-I	2	2	5	4	1.000000000000	NULL	NULL	13	10	0.06153846153846154
+RNA helicases	retinoic acid inducible gene I	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+RNA helicases	retinoic acid-inducible gene I	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+RNA helicases	RHAU	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+RNA imaging technique	fluorescence in situ hybridization	1	1	1	1	NULL	NULL	NULL	132	66	0.007575757575757576
+RNA isolation method	chemical extraction	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+RNA isolation method	glass fiber filter purification	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+RNA isolation method	acid phenol extraction	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+RNA isolation method	solid-phase extraction on glass filter	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+RNA knockdown technology	ribozymes	1	1	2	2	NULL	NULL	NULL	93	57	0.005376344086021506
+RNA knockdown technology	antisense	1	1	2	2	NULL	NULL	NULL	40	27	0.0125
+RNA measurement	microarrays	1	1	1	1	NULL	NULL	NULL	399	197	0.002506265664160401
+RNA measurement technique	reporter gene assay	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+RNA measurement technique	PCR	1	1	2	2	0.500000000000	NULL	NULL	1196	402	0.0004180602006688963
+RNA metabolic process	transport of cellular RNAs	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+RNA metabolic process	pre-mRNA splicing	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+RNA method	multiplex induced heteroduplex analysis	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA modification	trimethylguanosine cap structure of the U RNAs	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA molecule	transfer RNA	6	5	42	22	0.833333333333	NULL	NULL	22	12	0.03896103896103896
+RNA molecule	ribosomal RNA	6	5	42	22	0.833333333333	NULL	NULL	23	19	0.037267080745341616
+RNA molecule	catalytic ribozyme	5	4	42	22	0.833333333333	NULL	NULL	5	1	0.11904761904761904
+RNA molecule	avocardo sunblotch viroid	3	1	42	22	0.833333333333	NULL	NULL	3	1	0.07142857142857142
+RNA molecule	lucerne transient streak virus	3	1	42	22	0.833333333333	NULL	NULL	3	1	0.07142857142857142
+RNA molecule	satellite RNAs of tobacco ringspot virus	3	1	42	22	0.833333333333	NULL	NULL	3	1	0.07142857142857142
+RNA molecule	single-stranded RNA	2	2	42	22	0.833333333333	NULL	NULL	3	2	0.031746031746031744
+RNA molecule	transfer RNAs	1	1	42	22	0.833333333333	NULL	NULL	7	6	0.003401360544217687
+RNA molecule	vasa	1	1	42	22	0.833333333333	NULL	NULL	14	12	0.0017006802721088435
+RNA molecule	ribozymes	1	1	42	22	0.833333333333	NULL	NULL	93	57	0.0002560163850486431
+RNA molecule	microrna	1	1	42	22	0.833333333333	NULL	NULL	32	18	0.000744047619047619
+RNA molecule	flavin adenine dinucleotide	1	1	42	22	0.833333333333	NULL	NULL	8	6	0.002976190476190476
+RNA molecule	ribosomal RNAsandtransferRNAs	1	1	42	22	0.833333333333	NULL	NULL	1	1	0.023809523809523808
+RNA molecule	RNase P	1	1	42	22	0.833333333333	NULL	NULL	9	7	0.0026455026455026454
+RNA molecule	nicotinamide adenine dinucleotide	1	1	42	22	0.833333333333	NULL	NULL	13	9	0.0018315018315018315
+RNA molecule	small interfering RNAs	1	1	42	22	0.833333333333	NULL	NULL	17	10	0.0014005602240896359
+rna molecule	biologically important rna molecule	1	1	42	22	0.833333333333	NULL	NULL	2	2	0.011904761904761904
+rna molecule	non-natural, functional rna molecule	1	1	42	22	0.833333333333	NULL	NULL	1	1	0.023809523809523808
+rna molecule	regulatory rna molecule	1	1	42	22	0.833333333333	NULL	NULL	2	2	0.011904761904761904
+RNA molecule	sirna	1	1	42	22	0.833333333333	NULL	NULL	102	59	0.0002334267040149393
+RNA molecule	small interfering RNA	1	1	42	22	0.833333333333	NULL	NULL	40	24	0.0005952380952380952
+RNA motif	bulge	1	1	1	1	1.000000000000	NULL	NULL	33	28	0.030303030303030304
+RNA phage	R17	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+RNA phages	MS2	3	3	5	2	1.000000000000	NULL	NULL	13	9	0.13846153846153844
+RNA phages	R17	2	2	5	2	1.000000000000	NULL	NULL	5	4	0.16
+RNA plant virus	alfalfa mosaic virus	1	1	4	4	0.500000000000	NULL	NULL	8	3	0.03125
+RNA plant virus	tobacco etch potyvirus	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+RNA plant virus	cowpea mosaic virus	1	1	4	4	0.500000000000	NULL	NULL	11	6	0.022727272727272728
+RNA plant virus	tobacco mosaic virus	1	1	4	4	0.500000000000	NULL	NULL	62	25	0.004032258064516129
+RNA plant virus system	sobemovirus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNA plant virus system	umbravirus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rna polymerase	adna-directed rna polymerase	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rna polymerase	bacteriophage rna polymerase	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+RNA polymerase	T7 polymerase	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+RNA polymerase	E. coli RNA polymerase	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+RNA polymerase 111-transcribed gene	human U6 small nuclear RNA	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna polymerase iii promoter	case rna polymerase iii promoter	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RNA polymerases	T7 RNA polymerase	2	2	10	9	1.000000000000	NULL	NULL	6	5	0.06666666666666667
+rna polymerases	t7-type rna polymerases	1	1	10	9	1.000000000000	NULL	NULL	2	2	0.05
+RNA polymerases	T3 RNA polymerase	1	1	10	9	1.000000000000	NULL	NULL	3	3	0.03333333333333333
+RNA polymerases	E. coli RNAP	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+rna polymerases	phage-coded rna polymerases	1	1	10	9	1.000000000000	NULL	NULL	2	2	0.05
+rna polymerases	phage-encoded rna polymerases	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+rna polymerases	bacteriophage rna polymerases	1	1	10	9	1.000000000000	NULL	NULL	2	2	0.05
+rna polymerases	dna-dependent rna polymerases	1	1	10	9	1.000000000000	NULL	NULL	2	2	0.05
+RNA polymerases	Qbeta replicase	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+RNA polynucleotides	transfer RNA	2	1	4	2	1.000000000000	NULL	NULL	22	12	0.045454545454545456
+RNA polynucleotides	ribosomal RNA	2	1	4	2	1.000000000000	NULL	NULL	23	19	0.043478260869565216
+RNA population	fetal-hemoglobin mRNA in fetal nucleated erythrocyte	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA processing event	splicing	2	2	9	6	0.666666666666	NULL	NULL	71	54	0.006259780907668231
+RNA processing event	RNA editing	2	1	9	6	0.666666666666	NULL	NULL	24	17	0.018518518518518517
+RNA processing event	polyadenylation	2	2	9	6	0.666666666666	NULL	NULL	12	9	0.037037037037037035
+RNA processing event	alternative splicing	1	1	9	6	0.666666666666	NULL	NULL	62	28	0.0017921146953405018
+RNA processing event	sorting	1	1	9	6	0.666666666666	NULL	NULL	822	370	0.00013517166801838335
+RNA processing event	editing	1	1	9	6	0.666666666666	NULL	NULL	1032	434	0.00010766580534022394
+RNA processing factor	SR protein	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+RNA processing reaction	mRNA export	1	1	3	3	0.500000000000	NULL	NULL	7	5	0.047619047619047616
+RNA processing reaction	pre-mRNA splicing	1	1	3	3	0.500000000000	NULL	NULL	6	6	0.05555555555555555
+RNA processing reaction	translation	1	1	3	3	0.500000000000	NULL	NULL	2226	437	0.00014974543276430067
+RNA processing step	labeling	1	1	2	2	0.500000000000	NULL	NULL	599	263	0.0008347245409015025
+RNA processing step	reverse transcription	1	1	2	2	0.500000000000	NULL	NULL	17	15	0.029411764705882353
+RNA purifi cation method	gel fi ltration	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNA purifi cation method	CsCl centrifugation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+RNA purification method	CsCl centrifugation	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rna purification method	conventional rna purification method	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+RNA purification method	gel filtration if necessary	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+RNA qualitative assay	Gen-Probe Aptima assay used in blood bank screening	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA quantitation technique	DNA microarrays	2	2	6	3	0.500000000000	NULL	NULL	229	116	0.0029112081513828236
+RNA quantitation technique	northern blot	2	2	6	3	0.500000000000	NULL	NULL	66	37	0.0101010101010101
+RNA quantitation technique	real-time quantitative PCR	2	2	6	3	0.500000000000	NULL	NULL	10	5	0.06666666666666667
+RNA reagent	antisense molecule	1	1	2	2	0.500000000000	NULL	NULL	22	9	0.022727272727272728
+RNA reagent	ribozymes	1	1	2	2	0.500000000000	NULL	NULL	93	57	0.005376344086021506
+RNA regulator	riboswitches	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+RNA regulatory process	transcription	1	1	2	2	NULL	NULL	NULL	511	252	0.0009784735812133072
+RNA regulatory process	degradation	1	1	2	2	NULL	NULL	NULL	163	89	0.003067484662576687
+RNA retrovirus	RSV	1	1	2	2	0.500000000000	NULL	NULL	143	54	0.0034965034965034965
+RNA retrovirus	MLV	1	1	2	2	0.500000000000	NULL	NULL	13	7	0.038461538461538464
+RNA sam-plesfrombody fluid	serum	1	1	1	1	NULL	NULL	NULL	608	270	0.001644736842105263
+RNA secondary structure	double-stranded RNA	1	1	1	1	1.000000000000	NULL	NULL	22	12	0.045454545454545456
+RNA segment	sense MRNA	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA sequence	AU-rich element	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+RNA sequencing application	Tag Profiling	2	1	4	3	NULL	NULL	NULL	5	3	0.2
+RNA sequencing application	Whole Transcriptome Analysis	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+RNA sequencing application	Small RNA	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+RNA silencing agent	antisense oligonucleotides	2	1	4	3	0.500000000000	NULL	NULL	63	43	0.015873015873015872
+RNA silencing agent	ribozymes	1	1	4	3	0.500000000000	NULL	NULL	93	57	0.002688172043010753
+RNA silencing agent	ribozymes identified in gene function target validation study	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+RNA silencing mechanism	microRNA regulation	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+RNA silencing mechanism	RNA interference	1	1	2	2	NULL	NULL	NULL	124	69	0.004032258064516129
+RNA silencing phenomenon	RNA interference	1	1	2	2	NULL	NULL	NULL	124	69	0.004032258064516129
+RNA silencing phenomenon	post-transcriptional gene silencing	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+RNA silencing suppressor	HcPro from potato virus Y	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNA silencing suppressor	p19 from tomato bushy stunt virus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNA species	U6 RNA	2	2	5	4	NULL	NULL	NULL	4	3	0.2
+rna species	small rna species	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+RNA species	snrna	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+RNA species	transfer RNAswere unaffected	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+RNA structural prediction software package	Mfoldby Zuker et al.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+RNA structural prediction software package	Vienna package by Hofacker et al.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+RNA structural prediction software package	CONTRAfoldbyDo et al.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rna structure	complex rna structure	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+RNA structure	shoed knot	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+RNA structure	kissing structure	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+rna structure	short, relatively simple rna structure	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+RNA structure	ribosomes	1	1	5	5	0.500000000000	NULL	NULL	106	50	0.0018867924528301887
+RNA substrate	74 nt RNA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNA substrate	bcr-abl substrate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNA target	HCV	1	1	4	4	NULL	NULL	NULL	124	55	0.0020161290322580645
+RNA target	HIV	1	1	4	4	NULL	NULL	NULL	3465	701	0.00007215007215007215
+RNA target	genomic RNA of enteric virus	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+RNA target	bacterial ribosomal RNA	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+RNA target assay	new enterovirus code	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA technology	microarrays	1	1	1	1	NULL	NULL	NULL	399	197	0.002506265664160401
+RNA transcript	T7 bacteriophage RNA	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+RNA transcription inhibitor	cytostatic drug	1	1	2	2	0.500000000000	NULL	NULL	9	6	0.05555555555555555
+RNA transcription inhibitor	antibiotic	1	1	2	2	0.500000000000	NULL	NULL	3419	824	0.00014624159110851126
+RNA tumor virus	HTLV-1	1	1	4	4	0.666666666666	NULL	NULL	30	14	0.008333333333333333
+RNA tumor virus	HIV	1	1	4	4	0.666666666666	NULL	NULL	3465	701	0.00007215007215007215
+RNA tumor virus	Rous sarcoma virus	1	1	4	4	0.666666666666	NULL	NULL	16	5	0.015625
+RNA tumor virus	Kirstenmouse sarcoma virus	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+RNA type	promoter-associated short RNAs	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA vimses	NDV	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+RNA virus	HIV	23	21	249	110	0.762711864406	NULL	NULL	3465	701	0.0006131307336126612
+RNA virus	influenza	16	15	249	110	0.762711864406	NULL	NULL	1839	402	0.0005590606034797154
+RNA virus	West Nile virus	11	5	249	110	0.762711864406	NULL	NULL	496	164	0.0009797253530250032
+RNA virus	HIV-1	9	8	249	110	0.762711864406	NULL	NULL	189	57	0.0017211703958691911
+RNA virus	hepatitis C virus	9	8	249	110	0.762711864406	NULL	NULL	125	52	0.002602409638554217
+RNA virus	influenza virus	9	9	249	110	0.762711864406	NULL	NULL	240	72	0.001355421686746988
+RNA virus	Dengue virus	9	4	249	110	0.762711864406	NULL	NULL	106	28	0.003068879290747897
+RNA virus	HCV	8	7	249	110	0.762711864406	NULL	NULL	124	55	0.0020728073584661225
+RNA virus	poliovirus	7	6	249	110	0.762711864406	NULL	NULL	136	42	0.0014469643278998347
+RNA virus	Venezuelan Equine Encephalitis virus	6	3	249	110	0.762711864406	NULL	NULL	22	9	0.006571741511500548
+RNA virus	Rift Valley fever virus	5	2	249	110	0.762711864406	NULL	NULL	9	4	0.011155734047300312
+RNA virus	respiratory syncytial virus	4	3	249	110	0.762711864406	NULL	NULL	186	57	0.00034546789307768707
+RNA virus	hepatitis C	4	4	249	110	0.762711864406	NULL	NULL	467	144	0.00013759534927719442
+RNA virus	DENV populations at a particular region	4	2	249	110	0.762711864406	NULL	NULL	4	1	0.01606425702811245
+RNA virus	hepatitis delta virus	3	3	249	110	0.762711864406	NULL	NULL	3	1	0.01204819277108434
+RNA virus	human immunodeficiency virus	3	2	249	110	0.762711864406	NULL	NULL	413	115	0.00008751713877300972
+RNA virus	vesicular stomatitis virus	3	2	249	110	0.762711864406	NULL	NULL	67	26	0.000539471318108254
+RNA virus	tobacco mosaic virus	3	3	249	110	0.762711864406	NULL	NULL	62	25	0.000582977069568597
+RNA virus	retrovirus	3	3	249	110	0.762711864406	NULL	NULL	202	51	0.00017893355600620306
+RNA virus	RSV	3	3	249	110	0.762711864406	NULL	NULL	143	54	0.00025275928890386727
+RNA virus	rabies	3	2	249	110	0.762711864406	NULL	NULL	722	157	0.00005006174281613991
+RNA virus	dengue	3	3	249	110	0.762711864406	NULL	NULL	593	164	0.00006095207135455821
+RNA virus	FMDV	2	2	249	110	0.762711864406	NULL	NULL	6	3	0.002677376171352075
+RNA virus	Mengo	2	2	249	110	0.762711864406	NULL	NULL	2	1	0.008032128514056224
+RNA virus	PRRSV	2	2	249	110	0.762711864406	NULL	NULL	7	6	0.002294893861158921
+RNA virus	polio virus	2	2	249	110	0.762711864406	NULL	NULL	22	10	0.0007301935012778385
+RNA virus	measles virus	2	2	249	110	0.762711864406	NULL	NULL	88	30	0.00018254837531945964
+RNA virus	Newcastle disease virus	2	2	249	110	0.762711864406	NULL	NULL	36	16	0.0004462293618920125
+RNA virus	reovirus	2	2	249	110	0.762711864406	NULL	NULL	54	22	0.00029748624126134165
+RNA virus	VSV	2	2	249	110	0.762711864406	NULL	NULL	22	11	0.0007301935012778385
+RNA virus	hepatitis virus	2	2	249	110	0.762711864406	NULL	NULL	55	24	0.00029207740051113545
+RNA virus	flu	2	2	249	110	0.762711864406	NULL	NULL	826	204	0.000019448253060668822
+RNA virus	filoviruses	2	2	249	110	0.762711864406	NULL	NULL	5	4	0.0032128514056224897
+RNA virus	measles	2	2	249	110	0.762711864406	NULL	NULL	2428	452	0.0000066162508353016675
+RNA virus	rabies virus	2	2	249	110	0.762711864406	NULL	NULL	36	16	0.0004462293618920125
+rna virus	medically important rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	encephalomyocarditis virus	1	1	249	110	0.762711864406	NULL	NULL	17	7	0.00023623907394283012
+RNA virus	enterovirus	1	1	249	110	0.762711864406	NULL	NULL	27	12	0.00014874312063067083
+RNA virus	EV71	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	double-stranded rna virus	1	1	249	110	0.762711864406	NULL	NULL	3	3	0.0013386880856760374
+RNA virus	Spumavirus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	tick-borne encephalitis virus	1	1	249	110	0.762711864406	NULL	NULL	7	5	0.0005737234652897303
+RNA virus	TMV	1	1	249	110	0.762711864406	NULL	NULL	15	6	0.00026773761713520745
+RNA virus	foot-and-mouth disease virus	1	1	249	110	0.762711864406	NULL	NULL	11	7	0.00036509675063891927
+RNA virus	avian influenza	1	1	249	110	0.762711864406	NULL	NULL	324	102	0.000012395260052555901
+RNA virus	hepatitis Cvirus	1	1	249	110	0.762711864406	NULL	NULL	7	5	0.0005737234652897303
+RNA virus	human respiratory syncytial virus	1	1	249	110	0.762711864406	NULL	NULL	4	4	0.001004016064257028
+rna virus	mammalian positive-strand rna virus	1	1	249	110	0.762711864406	NULL	NULL	3	3	0.0013386880856760374
+rna virus	lipid-enveloped rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	SARS-CoV	1	1	249	110	0.762711864406	NULL	NULL	19	6	0.0002113718030014796
+RNA virus	Sindbis virus	1	1	249	110	0.762711864406	NULL	NULL	45	14	0.00008924587237840248
+rna virus	neurotropic rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	theflavivirus HCV	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	utrsofpositive-stranded rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	cold	1	1	249	110	0.762711864406	NULL	NULL	4004	980	0.0000010030130512058222
+rna virus	enveloped rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	AIDS	1	1	249	110	0.762711864406	NULL	NULL	2841	648	0.0000014136093829736403
+rna virus	icosahedral rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	human polio virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	lethal and contagious rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	retro virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	rinderpest	1	1	249	110	0.762711864406	NULL	NULL	50	20	0.00008032128514056224
+RNA virus	Rhabdoviridae	1	1	249	110	0.762711864406	NULL	NULL	3	3	0.0013386880856760374
+RNA virus	SARS coronavirus	1	1	249	110	0.762711864406	NULL	NULL	17	10	0.00023623907394283012
+RNA virus	Sendai virus	1	1	249	110	0.762711864406	NULL	NULL	31	17	0.00012955045990413266
+rna virus	negative-stranded rna virus	1	1	249	110	0.762711864406	NULL	NULL	3	3	0.0013386880856760374
+rna virus	negative strand rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	mumps virus	1	1	249	110	0.762711864406	NULL	NULL	31	11	0.00012955045990413266
+RNA virus	Paramyxoviridae	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	picornaviruses	1	1	249	110	0.762711864406	NULL	NULL	22	12	0.00018254837531945964
+RNA virus	potato virus X	1	1	249	110	0.762711864406	NULL	NULL	14	7	0.00028686173264486515
+RNA virus	MHV	1	1	249	110	0.762711864406	NULL	NULL	10	7	0.0004016064257028112
+RNA virus	ISAV	1	1	249	110	0.762711864406	NULL	NULL	3	3	0.0013386880856760374
+RNA virus	HIV and Hepatitis C	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	human influenza A virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	human influenza virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	variable rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	deformed wing virus	1	1	249	110	0.762711864406	NULL	NULL	5	5	0.0008032128514056224
+rna virus	antigenically stable rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	alphavirus	1	1	249	110	0.762711864406	NULL	NULL	7	4	0.0005737234652897303
+rna virus	acute rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+rna virus	plus-strand rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+rna virus	pos-itive-strand  rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	Respiratory Syncytial Virus transcription signals flanking the lacz	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	simple rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+rna virus	segmented rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	SARS	1	1	249	110	0.762711864406	NULL	NULL	826	251	0.000004862063265167206
+RNA virus	Rous sarcoma Virus	1	1	249	110	0.762711864406	NULL	NULL	16	5	0.000251004016064257
+RNA virus	cytoplasmic polyhedrosis virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	cytoplasmic rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	flavivirus HCV	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	swine influenza virus	1	1	249	110	0.762711864406	NULL	NULL	5	5	0.0008032128514056224
+RNA virus	foot-and-mouth disease	1	1	249	110	0.762711864406	NULL	NULL	91	43	0.000044132574253056176
+RNA virus	flavivirus Hepatitis C virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	lettuce necrotic yellows virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	lymphocytic choriomeningitis virus	1	1	249	110	0.762711864406	NULL	NULL	14	7	0.00028686173264486515
+RNA virus	human-T-leukemia virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	influenzavirus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	H5N1 influenza A virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+RNA virus	Hantavirus	1	1	249	110	0.762711864406	NULL	NULL	71	28	0.0000565642853102551
+RNA virus	Hendra virus	1	1	249	110	0.762711864406	NULL	NULL	14	5	0.00028686173264486515
+rna virus	positive-stranded rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	porcine enteric calicivirus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	plant rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	New Castle Disease Virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	nonsegmented negative-sense rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	Nipah virus	1	1	249	110	0.762711864406	NULL	NULL	39	21	0.00010297600659046442
+RNA virus	sacbrood virus	1	1	249	110	0.762711864406	NULL	NULL	1	1	0.004016064257028112
+rna virus	single-stranded, positive-sense rna virus	1	1	249	110	0.762711864406	NULL	NULL	2	2	0.002008032128514056
+RNA virus	well-defined	1	1	249	110	0.762711864406	NULL	NULL	7	7	0.0005737234652897303
+RNA virus infection	influenza virus	1	1	3	3	NULL	NULL	NULL	240	72	0.0013888888888888887
+RNA virus infection	respiratory syncytial virus	1	1	3	3	NULL	NULL	NULL	186	57	0.0017921146953405018
+RNA virus infection	hepatitis C	1	1	3	3	NULL	NULL	NULL	467	144	0.0007137758743754461
+RNA virus model	vesicular stomatitis virus infection	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+RNA virus model	Venezuelan equine encephalitis virus	1	1	3	3	1.000000000000	NULL	NULL	22	9	0.01515151515151515
+RNA virus model	lymphocytic choriomeningitis virus	1	1	3	3	1.000000000000	NULL	NULL	14	7	0.023809523809523808
+rna-associated protein	XRN1	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-based analysis method	microarray analysis	1	1	2	2	NULL	NULL	NULL	98	63	0.00510204081632653
+rna-based analysis method	RT-PCR	1	1	2	2	NULL	NULL	NULL	202	110	0.0024752475247524753
+rna-based catalyst	ribozymes	1	1	1	1	NULL	NULL	NULL	93	57	0.010752688172043012
+rna-based enzyme	hepatitis delta ribozymes	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-based feature	presence of putative secondary structure	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-based method	Northern blotting	1	1	3	3	1.000000000000	NULL	NULL	63	32	0.005291005291005291
+rna-based method	nucleic acid sequence-based amplification method	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+rna-based method	transcriptome profiling by microarray	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+rna-based process	RNA virus encapsidation	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-based silencing mechanism	post-transcriptional gene silencing	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+rna-based silencing mechanism	post-tran-scriptional gene silencing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rna-based technique	protein-truncation test	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-based technology	real-time reverse transcription polymerase chain reaction	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+rna-based virus	cold	1	1	1	1	NULL	NULL	NULL	4004	980	0.00024975024975024975
+rna-binding domain	RNA Recognition Motif	2	2	6	5	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+rna-binding domain	Khomology domain	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+rna-binding domain	K homology domain	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+rna-binding domain	PUA domain	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+rna-binding domain	RBD	1	1	6	5	1.000000000000	NULL	NULL	12	11	0.013888888888888888
+rna-binding protein	poly-binding protein	4	4	40	31	0.750000000000	NULL	NULL	7	4	0.05714285714285715
+rna-binding protein	Rev	3	3	40	31	0.750000000000	NULL	NULL	33	20	0.006818181818181818
+rna-binding protein	Staufen	2	2	40	31	0.750000000000	NULL	NULL	10	5	0.01
+rna-binding protein	members of the Smaug	2	2	40	31	0.750000000000	NULL	NULL	2	1	0.05
+rna-binding protein	proteins involved in nonsense-mediated mRNA decay	2	2	40	31	0.750000000000	NULL	NULL	2	1	0.05
+rna-binding protein	heterogeneous nuclear ribonucleoproteins	2	2	40	31	0.750000000000	NULL	NULL	4	2	0.025
+rna-binding protein	hnRNP A1	1	1	40	31	0.750000000000	NULL	NULL	13	10	0.0019230769230769232
+rna-binding protein	hnRNP K	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	fragile X mental retardation protein	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	translation factor	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	TAR RNA binding protein	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	REF family	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	full-length rna-binding protein	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	Hu antigen R	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	KSRP	1	1	40	31	0.750000000000	NULL	NULL	6	5	0.004166666666666667
+rna-binding protein	Loquacious	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	spliceosomal U1A protein	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	polypyrimidine tract-binding protein	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	Pumilio homolog	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	S15	1	1	40	31	0.750000000000	NULL	NULL	7	5	0.0035714285714285718
+rna-binding protein	ACF	1	1	40	31	0.750000000000	NULL	NULL	35	23	0.0007142857142857143
+rna-binding protein	TFIIIA	1	1	40	31	0.750000000000	NULL	NULL	7	7	0.0035714285714285718
+rna-binding protein	La autoantigen	1	1	40	31	0.750000000000	NULL	NULL	3	3	0.008333333333333333
+rna-binding protein	KH-type splicing regulatory protein	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	R2D2	1	1	40	31	0.750000000000	NULL	NULL	13	11	0.0019230769230769232
+rna-binding protein	pyrimidine tract-binding protein	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	non-spliceosome  rna-binding protein	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	nuclear rna-binding protein	1	1	40	31	0.750000000000	NULL	NULL	2	2	0.0125
+rna-binding protein	SBP2	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	hnRNP H	1	1	40	31	0.750000000000	NULL	NULL	1	1	0.025
+rna-binding protein	Smaug	1	1	40	31	0.750000000000	NULL	NULL	3	3	0.008333333333333333
+rna-capturing bead	magnetic bead	1	1	1	1	1.000000000000	NULL	NULL	30	24	0.03333333333333333
+rna-containing virus	hepatitis C	2	2	5	4	0.750000000000	NULL	NULL	467	144	0.0017130620985010708
+rna-containing virus	mumps virus	1	1	5	4	0.750000000000	NULL	NULL	31	11	0.0064516129032258064
+rna-containing virus	reovirus	1	1	5	4	0.750000000000	NULL	NULL	54	22	0.003703703703703704
+rna-containing virus	NDV	1	1	5	4	0.750000000000	NULL	NULL	6	6	0.03333333333333333
+RNA-dependent DNA polymerase	HIV RT	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA-dependent polymerases	hepatitis C virus NS5B	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNA-dependent RNA polymerase	QB replicase	1	1	1	1	NULL	NULL	NULL	6	2	0.16666666666666666
+rna-level test	PCR	1	1	1	1	NULL	NULL	NULL	1196	402	0.0008361204013377926
+rna-mediated effect	best described in plant	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rna-mediated effect	paramutation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rna-mediated epigenetic modification	RNA-directed DNA	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rna-mediated epigenetic modification	histone methylation	1	1	2	2	1.000000000000	NULL	NULL	31	15	0.016129032258064516
+rna-mediated TE silencing mechanism	RNA interference by mirnas	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-protein complex	6 S	1	1	5	6	1.000000000000	NULL	NULL	2	2	0.1
+rna-protein complex	spliceosome	1	1	5	6	1.000000000000	NULL	NULL	12	12	0.016666666666666666
+rna-protein complex	signal recognition particle	1	1	5	6	1.000000000000	NULL	NULL	2	2	0.1
+rna-protein complex	large, dynamic rna-protein complex	1	1	5	6	1.000000000000	NULL	NULL	2	2	0.1
+rna-protein complex	telomerase	1	1	5	6	1.000000000000	NULL	NULL	15	12	0.013333333333333334
+rna-related function	assembly of ribonucleoproteins	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rna-related function	RNA processing	1	1	2	2	1.000000000000	NULL	NULL	26	17	0.019230769230769232
+rna-related product	PowerCut Dicer	1	1	1	1	NULL	NULL	NULL	1	1	1
+rna-rich food substance	brewer's yeast	1	1	1	1	NULL	NULL	NULL	147	52	0.006802721088435374
+RNA-seq aligner	TopHat	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+rna-seqresultsfrom model organism	fission yeast	1	1	2	2	1.000000000000	NULL	NULL	33	17	0.015151515151515152
+rna-seqresultsfrom model organism	budding yeast	1	1	2	2	1.000000000000	NULL	NULL	31	13	0.016129032258064516
+RNA-stabilizing polymer	lysine cellulose	2	2	2	1	NULL	NULL	NULL	2	1	1
+rna-targeted therapy	antisense oligonucleotides41	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnabinding protein	yeast MSS116 protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnai -therapeutic	sirna	1	1	1	1	0.500000000000	NULL	NULL	102	59	0.00980392156862745
+rnai agent	short interfering RNA	4	2	7	3	1.000000000000	NULL	NULL	14	5	0.16326530612244897
+rnai agent	double stranded RNA	2	2	7	3	1.000000000000	NULL	NULL	4	3	0.14285714285714285
+rnai agent	siRNA oligonucleotides	1	1	7	3	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+rnai approach	doublestranded small interfering RNA agent	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rnai approach	attempted by RXi Pharmaceuticals	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rnai approach	work by binding mRNA transcript	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rnai drug	sirna	3	3	3	1	1.000000000000	NULL	NULL	102	59	0.029411764705882353
+rnai factor	fission yeast Argonaute Ago1	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnai molecule	small interfering RNA	1	1	2	2	1.000000000000	NULL	NULL	40	24	0.0125
+rnai molecule	short hairpin RNA	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rnai-based approach	posttranscriptional gene silencing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rnai-related factor	Dicer	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+rnai-related protein	piwi	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rnaihasitsown specificity issue	off-target effect	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+rnal factor	Spanning Tree configuration	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rnal factor	routing configuration	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+rnamediated epigenetic modification	histone methylation	1	1	2	2	1.000000000000	NULL	NULL	31	15	0.016129032258064516
+rnamediated epigenetic modification	RNA-directed DNA	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rnamental fig	popular weeping fig	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNAmolecules	ribosomal RNAorviralRNA	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnanceratings service	Governance Metrics International	1	1	2	2	1.000000000000	NULL	NULL	10	3	0.05
+rnanceratings service	Corporate Library	1	1	2	2	1.000000000000	NULL	NULL	21	13	0.023809523809523808
+rnany aspect	structure	1	1	5	5	NULL	NULL	NULL	2023	762	0.00009886307464162135
+rnany aspect	quality	1	1	5	5	NULL	NULL	NULL	3355	1064	0.00005961251862891207
+rnany aspect	subject content	1	1	5	5	NULL	NULL	NULL	4	3	0.05
+rnany aspect	publisher	1	1	5	5	NULL	NULL	NULL	633	264	0.00031595576619273305
+rnany aspect	history	1	1	5	5	NULL	NULL	NULL	5002	1197	0.000039984006397441024
+rnany scientific application	finite element analysis	1	1	1	1	NULL	NULL	NULL	247	146	0.004048582995951417
+rnany underground civil engineering structure	hydroelectric power cavern	1	0	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rnany underground civil engineering structure	subway tunnel	1	0	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+rnao's current activity	eChampion workshop	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNAs	ribosomal RNAs	7	4	40	31	0.900000000000	NULL	NULL	13	7	0.09423076923076922
+RNAs	transfer RNA	4	4	40	31	0.900000000000	NULL	NULL	22	12	0.018181818181818184
+RNAs	RNase P	2	2	40	31	0.900000000000	NULL	NULL	9	7	0.011111111111111112
+RNAs	HIV TARRNA	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	U2 snrna	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+rnas	abundant small nucleolar rnas	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	23S RNA	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	oskar	1	1	40	31	0.900000000000	NULL	NULL	4	4	0.00625
+RNAs	LSU rrna	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	archetypal lin-4	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	snornas	1	1	40	31	0.900000000000	NULL	NULL	6	6	0.004166666666666667
+RNAs	viral RNAs	1	1	40	31	0.900000000000	NULL	NULL	3	3	0.008333333333333333
+RNAs	SSU	1	1	40	31	0.900000000000	NULL	NULL	13	7	0.0019230769230769232
+RNAs	globin	1	1	40	31	0.900000000000	NULL	NULL	11	6	0.002272727272727273
+rnas	mitochondrial genome-encoded rnas	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	Ribosome	1	1	40	31	0.900000000000	NULL	NULL	42	40	0.0005952380952380953
+RNAs	Riboswitches	1	1	40	31	0.900000000000	NULL	NULL	5	5	0.005
+RNAs	Xist in mammal	1	1	40	31	0.900000000000	NULL	NULL	4	4	0.00625
+RNAs	viruses HIV	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	self splicing introns	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+rnas	small rna contamination small rnas	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+rnas	small endogenous non-coding rnas	1	1	40	31	0.900000000000	NULL	NULL	2	2	0.0125
+RNAs	snRNAs involved in splicing	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	U4	1	1	40	31	0.900000000000	NULL	NULL	11	6	0.002272727272727273
+rnas	functional noncoding rnas	1	1	40	31	0.900000000000	NULL	NULL	2	2	0.0125
+RNAs	bicoid	1	1	40	31	0.900000000000	NULL	NULL	14	11	0.0017857142857142859
+RNAs	regulatory sirnas	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+RNAs	ribosomal	1	1	40	31	0.900000000000	NULL	NULL	13	10	0.0019230769230769232
+RNAs	RNAase P	1	1	40	31	0.900000000000	NULL	NULL	1	1	0.025
+rnas	small catalytic rnas	1	1	40	31	0.900000000000	NULL	NULL	2	2	0.0125
+RNAS pilot	Raymond Collishaw	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNAS pilot	Robert A Little	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rnasamplesfrom body fluid	serum	1	1	1	1	NULL	NULL	NULL	608	270	0.001644736842105263
+rnase enzyme	E. coli's RNase III	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rnase enzyme	RNase 1	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rnase inhibitor	Protector RNase Inhibitor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rnase inhibitor	Stratagene RNase Block Ribonuclease Inhibitor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNase inhibitor protein	human placental RNase inhibitor	4	2	4	1	NULL	NULL	NULL	4	1	1
+RNase P ribozyme	catalytic RNA subunit of RNase P from Escherichia coli	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+RNase P ribozyme	M1 RNA	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+RNase-free DNase	QIAGEN RNase-Free DNase Set	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNases	Onconase	6	4	20	9	0.666666666666	NULL	NULL	12	7	0.15
+RNases	RNAse T1	4	3	20	9	0.666666666666	NULL	NULL	5	2	0.16
+RNases	barnase from Bacillus amyloliquefaciens	3	2	20	9	0.666666666666	NULL	NULL	3	1	0.15
+RNases	EDN	2	1	20	9	0.666666666666	NULL	NULL	12	11	0.016666666666666666
+RNases	RNase III	1	1	20	9	0.666666666666	NULL	NULL	3	2	0.016666666666666666
+RNases	eosin-derived neurotoxin	1	1	20	9	0.666666666666	NULL	NULL	1	1	0.05
+RNases	RNase L	1	1	20	9	0.666666666666	NULL	NULL	3	3	0.016666666666666666
+RNases	RNase-T1 from Aspergillus	1	1	20	9	0.666666666666	NULL	NULL	1	1	0.05
+RNases	ribonucleases	1	1	20	9	0.666666666666	NULL	NULL	4	3	0.0125
+rnational financial institution	World Bank	2	2	4	3	NULL	NULL	NULL	5405	899	0.00018501387604070305
+rnational financial institution	I n t e rnational Monetary Fund	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+rnational financial institution	International Monetary Fund	1	1	4	3	NULL	NULL	NULL	1069	267	0.00023386342376052386
+rnatural relaxation technique	meditation	1	1	1	1	NULL	NULL	NULL	6609	1473	0.00015130882130428205
+RNAV procedure	ELDEE Arrival	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNAV system	GPS	1	1	1	1	NULL	NULL	NULL	2674	1060	0.00037397157816005983
+rnb	col RNB	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnb artist	Chris Brown	2	2	12	11	0.500000000000	NULL	NULL	276	93	0.0012077294685990338
+rnb artist	Jodeci	1	1	12	11	0.500000000000	NULL	NULL	36	13	0.0023148148148148147
+rnb artist	Mint Condition	1	1	12	11	0.500000000000	NULL	NULL	19	13	0.0043859649122807015
+rnb artist	Rhianna	1	1	12	11	0.500000000000	NULL	NULL	118	32	0.0007062146892655367
+rnb artist	Ginuwine	1	1	12	11	0.500000000000	NULL	NULL	42	13	0.001984126984126984
+rnb artist	Hinda Hicks	1	1	12	11	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+rnb artist	Terry Walker	1	1	12	11	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+rnb artist	Usher	1	1	12	11	0.500000000000	NULL	NULL	520	191	0.00016025641025641026
+rnb artist	Boys II Men	1	1	12	11	0.500000000000	NULL	NULL	17	12	0.004901960784313725
+rnb artist	LSK	1	1	12	11	0.500000000000	NULL	NULL	4	4	0.020833333333333332
+rnb artist	R. Kelly	1	1	12	11	0.500000000000	NULL	NULL	115	37	0.0007246376811594203
+rnb group	TLC	1	1	3	3	0.333333333333	NULL	NULL	225	103	0.0014814814814814814
+rnb group	3LW	1	1	3	3	0.333333333333	NULL	NULL	12	6	0.027777777777777776
+rnb group	Destiny's Child	1	1	3	3	0.333333333333	NULL	NULL	129	46	0.0025839793281653744
+rnb musician	Yolonda Adams	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rnb musician	Boyz 2 Men	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+rnb star	Omarion	1	1	3	3	0.500000000000	NULL	NULL	34	13	0.00980392156862745
+rnb star	Multi Platinum selling Coolio	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+rnb star	Usher	1	1	3	3	0.500000000000	NULL	NULL	520	191	0.000641025641025641
+RNC entity	radio link control	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+RND efflux pump	Escherichia coli acrab	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNE IT system	Pathfinder	1	1	1	1	NULL	NULL	NULL	81	61	0.012345679012345678
+rneasurement technique	FM Discriminator Method fowen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rneasurement technique	Quadrature Technique	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rnechani-cal item	machinery	1	1	1	1	NULL	NULL	NULL	1729	622	0.000578368999421631
+rnedia	De Volkskrant	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+rnet product	company's rnet product	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNFL thickness	measured with OCT	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNG leader	Zhou Fohai	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNG mathematics broker	Tomory Tannery Trading House	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNGOs	Mennonite Central Committee	1	1	1	1	1.000000000000	NULL	NULL	27	12	0.037037037037037035
+rnk variable need	compassion	1	1	1	1	NULL	NULL	NULL	1891	546	0.0005288207297726071
+RNLI requirement	track width	1	1	3	3	0.666666666666	NULL	NULL	16	14	0.020833333333333332
+RNLI requirement	ground clearance	1	1	3	3	0.666666666666	NULL	NULL	30	21	0.01111111111111111
+RNLI requirement	waterproofing	1	1	3	3	0.666666666666	NULL	NULL	125	70	0.0026666666666666666
+RNLS	transitive verbs followed by verb phrase	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnment initiative	Compulsory Competitive Tendering	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+rnments	rich country gove rnments	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RNN model	Boltzmann machine	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+RNN model	Hopfield model	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+RNNs	LSTM	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rno simple sugar	sucrose	1	1	1	1	NULL	NULL	NULL	1726	398	0.0005793742757821553
+rnodest house	town villa	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rnodest house	vicarage	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+rnore complex therapeutic setting	day program	1	1	1	1	1.000000000000	NULL	NULL	38	20	0.02631578947368421
+RNP complex	signal recognition particle	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RNP operation	Aircrew Authorization Required	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNP operation	Special Aircraft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rnp, igneous rock	basalt	1	1	1	1	NULL	NULL	NULL	422	196	0.002369668246445498
+RNPCs	Panfilo The Battlecook	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnpincludes concept	integrity	1	1	3	3	NULL	NULL	NULL	2785	714	0.00011968880909634949
+rnpincludes concept	continuity	1	1	3	3	NULL	NULL	NULL	254	124	0.0013123359580052493
+rnpincludes concept	accuracy	1	1	3	3	NULL	NULL	NULL	1263	433	0.00026392187912377933
+RNPs	AERC	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+rnr film	Go Go Mania	1	1	1	1	NULL	NULL	NULL	1	1	1
+RNS	nitrogen dioxide radical	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+rns	advanced practice rns	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+RNS species	peroxynitrite	1	1	1	1	NULL	NULL	NULL	95	45	0.010526315789473684
+RNSP operation	slough channel driftwood removal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNSP operation	slough channel excavation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RNSS system	European Galileo system	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+RNSS system	Galileo	1	1	3	3	NULL	NULL	NULL	507	199	0.0006574621959237343
+RNSS system	GPS	1	1	3	3	NULL	NULL	NULL	2674	1060	0.00012465719272001995
+rnternational research organization	National Academy of Sciences of the United Srates	1	1	1	1	NULL	NULL	NULL	1	1	1
+rnucopolysaccharides	chondroitin sulphate	1	1	2	2	0.500000000000	NULL	NULL	39	29	0.01282051282051282
+rnucopolysaccharides	hyaluronic acid	1	1	2	2	0.500000000000	NULL	NULL	726	312	0.0006887052341597796
+rnultiparticle system	packed bed	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+RNZ staff	Geoff Robinson	1	1	1	1	NULL	NULL	NULL	2	2	0.5

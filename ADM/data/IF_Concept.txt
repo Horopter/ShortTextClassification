@@ -1,0 +1,455 @@
+if	banking	1	1	4	4	0.200000000000	NULL	NULL	4474	1123	0.00005587840858292356
+if	finance	1	1	4	4	0.200000000000	NULL	NULL	7520	2058	0.00003324468085106383
+if	DIFS	1	1	4	4	0.200000000000	NULL	NULL	5	5	0.05
+if	IAAF	1	1	4	4	0.200000000000	NULL	NULL	6	5	0.041666666666666664
+if customer	R&R Products	1	1	1	1	NULL	NULL	NULL	1	1	1
+if vehicle	Prado	1	1	1	1	1.000000000000	NULL	NULL	31	16	0.03225806451612903
+IF&W project	deer yard	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+if-a format control datum	format datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+if-then pattern	shown in Fig	1	1	1	1	NULL	NULL	NULL	280	212	0.0035714285714285713
+ifa	execution only ifa	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifa 2-dimensional index	R-tree	1	1	1	1	1.000000000000	NULL	NULL	38	34	0.02631578947368421
+Ifa circuit structure	transistor gate	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+Ifa command delimiter	comma	1	1	1	1	NULL	NULL	NULL	703	150	0.001422475106685633
+Ifa concept	VSEPR theory	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Ifa control	channel selection	1	1	1	1	1.000000000000	NULL	NULL	26	17	0.038461538461538464
+Ifa doehasanother illness	pneumonia	1	1	1	1	NULL	NULL	NULL	3534	784	0.0002829654782116582
+Ifa feature	Staple	1	1	1	1	NULL	NULL	NULL	671	251	0.0014903129657228018
+IFA firm	DBS	1	1	2	2	NULL	NULL	NULL	79	45	0.006329113924050633
+IFA firm	Towry Law	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+Ifa hardware device	DVD player	1	1	1	1	NULL	NULL	NULL	2332	772	0.0004288164665523156
+Ifa low volume pool	paddling pool	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+ifa material	sodium chloride	1	1	1	1	NULL	NULL	NULL	1157	335	0.000864304235090752
+Ifa meteorological event	global dust storm	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifa mitochondrial defect	pyruvate dehydrogenase deficiency	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Ifa particular group	youth	1	1	2	2	NULL	NULL	NULL	896	334	0.0005580357142857143
+Ifa particular group	young adult	1	1	2	2	NULL	NULL	NULL	76	46	0.006578947368421052
+Ifa particular procedure	preliminary identification	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifa PostScript previewer	ghostview	1	1	1	1	1.000000000000	NULL	NULL	22	12	0.045454545454545456
+Ifa Prescribed Controlled drug	methadone	1	1	1	1	NULL	NULL	NULL	931	291	0.0010741138560687433
+IFA priority	immigration policy	1	1	1	1	1.000000000000	NULL	NULL	72	36	0.013888888888888888
+Ifa process	Update Statements	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifa property	charge confersdi!erentpowersatdi!erentworlds	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifa relatively flexible structure	radio tower	1	1	2	2	0.500000000000	NULL	NULL	52	35	0.009615384615384616
+Ifa relatively flexible structure	chimney	1	1	2	2	0.500000000000	NULL	NULL	599	246	0.0008347245409015025
+Ifa reversible molecular event	orientation	1	1	1	1	NULL	NULL	NULL	1142	558	0.0008756567425569177
+IFA service	high value mortgage	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifa specialty	radiology	1	1	1	1	NULL	NULL	NULL	787	319	0.0012706480304955528
+Ifa third mineral	garnet	1	1	2	2	NULL	NULL	NULL	709	287	0.0007052186177715092
+Ifa third mineral	quartz	1	1	2	2	NULL	NULL	NULL	2011	716	0.0002486325211337643
+Ifa third party entity	bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+Ifa unit	Chalk	1	1	1	1	NULL	NULL	NULL	767	333	0.001303780964797914
+Ifa user executesacertain task	inserting anew record into a distributed database system	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifa VIF parameter	transmission power	1	1	1	1	1.000000000000	NULL	NULL	25	17	0.04
+IFAD document	supervision report	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ifad's second-generation project	Kagera	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+ifad's traditional partner	AfDB	2	2	4	2	0.500000000000	NULL	NULL	32	20	0.03125
+ifad's traditional partner	World Bank	2	2	4	2	0.500000000000	NULL	NULL	5405	899	0.00018501387604070305
+ifad-financed operation	increased livestock development	2	1	2	1	NULL	NULL	NULL	2	1	1
+ifadditional mailer	UUCP mailer	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifadditional source	traffic	1	1	1	1	NULL	NULL	NULL	1729	653	0.000578368999421631
+IFAF member country	Germany	1	1	3	3	NULL	NULL	NULL	19646	2312	0.000016966982252536564
+IFAF member country	Austria	1	1	3	3	NULL	NULL	NULL	3941	521	0.0000845809016324114
+IFAF member country	United States	1	1	3	3	NULL	NULL	NULL	15613	2250	0.000021349729925916437
+Ifafundamental change	change of control	1	1	1	1	1.000000000000	NULL	NULL	16	7	0.0625
+Ifan input signal	sine waveform	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Ifan object	ship	1	1	1	1	NULL	NULL	NULL	1065	511	0.0009389671361502347
+Ifan organization	CIA	1	1	1	1	NULL	NULL	NULL	358	119	0.002793296089385475
+IFANCA client	Aloe Corp.	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IFANCA client	Sunrider	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+IFANCA client	Nutrilite	1	1	3	3	1.000000000000	NULL	NULL	14	9	0.023809523809523808
+Ifanelectrical instrument	meter	1	1	1	1	NULL	NULL	NULL	510	260	0.00196078431372549
+ifannuitized asset	employer-provided pension	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ifany public lealth activity	hospital service	1	1	3	3	0.333333333333	NULL	NULL	45	29	0.007407407407407407
+ifany public lealth activity	medical	1	1	3	3	0.333333333333	NULL	NULL	3750	1210	0.00008888888888888888
+ifany public lealth activity	research	1	1	3	3	0.333333333333	NULL	NULL	3399	1283	0.00009806805923310777
+Ifapolarsolvent	water partitions into the azobenzenesams	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFAPs	different isoforms of plectin	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifarchival source	minutes ofcouncil meeting	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifareplaceableovercurrent protection component	fuse	1	1	1	1	NULL	NULL	NULL	289	120	0.0034602076124567475
+IFAs	Gavin Haynes	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFAs	North Financial Management	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFAs	Tim Hale of Albion	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFAs	Darius McDermott	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFAs	Doug Brodie	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFAs	Torquil Clark	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFAs	Philippa Gee	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+ifbasic need	food	2	2	4	2	NULL	NULL	NULL	18353	4439	0.00005448700484934343
+ifbasic need	poverty	2	2	4	2	NULL	NULL	NULL	5898	1419	0.00016954899966090201
+ifbasic process	sleep	1	0	1	1	NULL	NULL	NULL	988	448	0.0010121457489878543
+IFBB celebrity	Clarence DeVis	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFBB pro	Branch Warren	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+IFBB professional	Jonnie Jackson	2	1	10	5	1.000000000000	NULL	NULL	3	2	0.13333333333333333
+IFBB professional	Shawn Ray	2	1	10	5	1.000000000000	NULL	NULL	11	9	0.03636363636363637
+IFBB professional	Leo Ingram	2	1	10	5	1.000000000000	NULL	NULL	3	2	0.13333333333333333
+IFBB professional	Gunter Schlierkamp	2	1	10	5	1.000000000000	NULL	NULL	3	2	0.13333333333333333
+IFBB professional	Ronnie Coleman	2	1	10	5	1.000000000000	NULL	NULL	24	20	0.016666666666666666
+ifbb's elite competitor	master poser Darrem Charles	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifbehavioural risk factor	smoking	1	1	1	1	NULL	NULL	NULL	12009	2006	0.00008327088017320343
+IFC -diagnostic	Enterprise Surveys	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+IFC activity	stepping	1	1	3	3	0.666666666666	NULL	NULL	27	18	0.012345679012345678
+IFC activity	Intramural sport	1	1	3	3	0.666666666666	NULL	NULL	81	43	0.004115226337448559
+IFC activity	Greek Week	1	1	3	3	0.666666666666	NULL	NULL	32	20	0.010416666666666666
+IFC document	IFC implementation guide	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFC fraternity	Sigma Alpha Epsilon	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IFC model server	Eurostep Model Server	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IFC model server	EPM Norway	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IFC model server	EDM Model Server	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IFC organization	Pi Kappa Phi	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IFC partner	IBM International Foundation	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFC recruitment event	fraternity forum	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IFC recruitment event	mass meeting	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+IFC recruitment event	first year move-in assistance	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IFC representation greek activity	Greek Week Philanthropy	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFC resource	IFC PEP-Africa business enabling environment team	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifc's flexible vendor leasing program	co-operating marketing	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ifc's flexible vendor leasing program	progress payment	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+ifc's flexible vendor leasing program	special payment promotion	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+ifc's largest donor	Netherlands	1	1	1	1	NULL	NULL	NULL	7061	827	0.000141622999575131
+ifc's long-term product	equity	1	1	1	1	NULL	NULL	NULL	1378	476	0.000725689404934688
+ifc's successful advisory intervention	olive oil sector TA	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IFCA member	Brooktrout Technology	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ifcertain activity	wound dressing	1	1	1	1	NULL	NULL	NULL	123	60	0.008130081300813009
+Ifcharacters	blank	1	1	1	1	NULL	NULL	NULL	108	70	0.009259259259259259
+Ifcolors	blue	1	1	2	2	NULL	NULL	NULL	7681	1817	0.00006509569066527795
+Ifcolors	yellow	1	1	2	2	NULL	NULL	NULL	5611	1380	0.00008911067545891998
+ifcritical parameter	time	1	1	3	3	NULL	NULL	NULL	8851	2418	0.000037660528000602565
+ifcritical parameter	temperature	1	1	3	3	NULL	NULL	NULL	21509	4199	0.000015497388690005733
+ifcritical parameter	pressure	1	1	3	3	NULL	NULL	NULL	4442	1435	0.00007504127269998499
+IFD	Arabella	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+IFDA partner	Kellogg's	1	1	1	1	NULL	NULL	NULL	293	117	0.0034129692832764505
+ifdesired, additional element	gear	1	1	1	1	NULL	NULL	NULL	1389	551	0.0007199424046076314
+Ifdesired, supplemental material	fin	1	1	1	1	NULL	NULL	NULL	255	137	0.00392156862745098
+ife element	Maye Okunade	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFE manufacturer	Thales Avionics Inflight Systems	1	1	1	1	NULL	NULL	NULL	1	1	1
+ife observation	body weight	1	1	1	1	NULL	NULL	NULL	760	292	0.0013157894736842105
+ife style factor	alcohol	1	1	1	1	NULL	NULL	NULL	12820	3081	0.00007800312012480499
+ife support equipment	kidney machine	1	1	2	2	NULL	NULL	NULL	7	2	0.07142857142857142
+ife support equipment	respirator	1	1	2	2	NULL	NULL	NULL	312	115	0.0016025641025641025
+ife-changing event	entering into a civil partnership	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ife-changing event	marriage	1	1	2	2	NULL	NULL	NULL	4449	1264	0.00011238480557428635
+Ife-threats	rootkits	1	1	1	1	NULL	NULL	NULL	117	39	0.008547008547008548
+iFeatures	O-ring groove created with a sweep	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifecreditandloss event	ratings default	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifeisa disease	diabetes	1	1	1	1	NULL	NULL	NULL	23990	3013	0.00004168403501458941
+ifelong skill	golf	1	1	5	5	NULL	NULL	NULL	6842	1226	0.000029231218941829874
+ifelong skill	Frisbee	1	1	5	5	NULL	NULL	NULL	320	129	0.000625
+ifelong skill	orienteering	1	1	5	5	NULL	NULL	NULL	314	101	0.0006369426751592357
+ifelong skill	tennis	1	1	5	5	NULL	NULL	NULL	8416	1354	0.000023764258555133082
+ifelong skill	self-management	1	1	5	5	NULL	NULL	NULL	103	61	0.0019417475728155341
+IFEP program	Norwegian commercial vessel-orientated EEAES program	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFES	smallholder biogas schemes based on integrated crop-livestock system	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifes-led activity	volunteer action	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ifestyle behavior	diet	1	1	4	4	NULL	NULL	NULL	5762	1140	0.00004338771259979174
+ifestyle behavior	physical activity	1	1	4	4	NULL	NULL	NULL	1293	357	0.00019334880123743234
+ifestyle behavior	body weight	1	1	4	4	NULL	NULL	NULL	760	292	0.0003289473684210526
+ifestyle behavior	smoking	1	1	4	4	NULL	NULL	NULL	12009	2006	0.000020817720043300857
+ifestyle change	exercise	1	1	1	1	NULL	NULL	NULL	5777	1645	0.00017310022503029253
+IFESTYLE F actor lifestyle factor	vitamin D deficiency	1	1	2	2	0.500000000000	NULL	NULL	60	36	0.008333333333333333
+IFESTYLE F actor lifestyle factor	smoking	1	1	2	2	0.500000000000	NULL	NULL	12009	2006	0.00004163544008660171
+ifestyle program	Changing Rooms	1	1	1	1	1.000000000000	NULL	NULL	29	19	0.034482758620689655
+IFEX member	Freedom House	3	3	7	4	1.000000000000	NULL	NULL	91	44	0.014128728414442699
+IFEX member	ARTICLE 19	2	2	7	4	1.000000000000	NULL	NULL	9	7	0.06349206349206349
+IFEX member	Cairo Institute for Human Rights Studies	1	1	7	4	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+IFEX member	World Association of Newspapers	1	1	7	4	1.000000000000	NULL	NULL	7	7	0.02040816326530612
+IFF system	proposed NATO Identification System	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IFF system	canceled Mark XV	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IFF system	Mark XII	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IFF unit	wearable unit	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iffactors	diet	1	1	5	5	0.200000000000	NULL	NULL	5762	1140	0.000034710170079833394
+Iffactors	inflammation	1	1	5	5	0.200000000000	NULL	NULL	1587	567	0.0001260239445494644
+Iffactors	hypertension	1	1	5	5	0.200000000000	NULL	NULL	7750	1658	0.00002580645161290323
+Iffactors	alcohol consumption	1	1	5	5	0.200000000000	NULL	NULL	945	253	0.00021164021164021165
+Iffactors	blood cholesterol level	1	1	5	5	0.200000000000	NULL	NULL	15	12	0.013333333333333334
+IFFCO product	DAP	1	1	2	2	0.500000000000	NULL	NULL	74	38	0.006756756756756757
+IFFCO product	NPK	1	1	2	2	0.500000000000	NULL	NULL	21	11	0.023809523809523808
+ifferent and often exotic food	raw fish in Japan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifferent and often exotic food	octopus in South America	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifferent community member	family through role playing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ifferent group	Pharisees	1	1	1	1	NULL	NULL	NULL	73	36	0.0136986301369863
+ifferent LULC class	forest	1	1	3	3	0.571428571428	NULL	NULL	2386	927	0.00013970382788488405
+ifferent LULC class	cultivated land	1	1	3	3	0.571428571428	NULL	NULL	26	21	0.01282051282051282
+ifferent LULC class	wetland	1	1	3	3	0.571428571428	NULL	NULL	2401	852	0.00013883104262113008
+ifferent material	cloth	1	1	3	3	NULL	NULL	NULL	1387	522	0.0002403268445085316
+ifferent material	metal	1	1	3	3	NULL	NULL	NULL	11430	2556	0.00002916302128900554
+ifferent material	string	1	1	3	3	NULL	NULL	NULL	2015	807	0.00016542597187758478
+ifferent speaker	doctor	1	1	3	3	NULL	NULL	NULL	6593	1574	0.000050558673340411544
+ifferent speaker	Police officer	1	1	3	3	NULL	NULL	NULL	1131	408	0.0002947244326554671
+ifferent speaker	lawyer	1	1	3	3	NULL	NULL	NULL	4156	1038	0.00008020532563362207
+ifferent tool	wavelet coe fficient statistic	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ifferent tool	binary similarity measure	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ifferentiate term	efficacy	1	1	2	2	NULL	NULL	NULL	166	68	0.0030120481927710845
+ifferentiate term	potency	1	1	2	2	NULL	NULL	NULL	64	33	0.0078125
+ifficult-to-heal and chronic wound	venous	1	1	2	2	0.500000000000	NULL	NULL	24	10	0.020833333333333332
+ifficult-to-heal and chronic wound	diabetic	1	1	2	2	0.500000000000	NULL	NULL	485	134	0.0010309278350515464
+Iffixed storagefacilities	shelf	1	1	2	2	NULL	NULL	NULL	871	410	0.000574052812858783
+Iffixed storagefacilities	closet	1	1	2	2	NULL	NULL	NULL	641	265	0.00078003120124805
+Iffrom food poisoning	salmonella	2	1	4	2	NULL	NULL	NULL	1645	387	0.0006079027355623101
+Iffrom food poisoning	botulism	2	1	4	2	NULL	NULL	NULL	145	65	0.006896551724137931
+IFFS program	Backpack Buddies	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+Iffundamental reform	relocalisation of business rate	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy area	TV news caster	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy country	Spain	1	1	2	2	NULL	NULL	NULL	9967	1404	0.00005016554630279924
+iffy country	Italy	1	1	2	2	NULL	NULL	NULL	10580	1406	0.00004725897920604915
+iffy facebook application	Friend Quiz	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy fill	UDE	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy ingredient	whole mess o parabens	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy issue	euthanasia	1	1	1	1	NULL	NULL	NULL	537	170	0.00186219739292365
+iffy source	stagnant beaver pond	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy tool	science citation idex impact factor	1	1	1	1	NULL	NULL	NULL	1	1	1
+iffy, high-maintenance gift	potted plant	1	1	1	1	NULL	NULL	NULL	156	91	0.00641025641025641
+ifgreen job	installing solar panel	1	1	1	1	1.000000000000	NULL	NULL	29	19	0.034482758620689655
+IfHaematococcus species	H. pluvialis	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifheavy metal	cobalt	1	1	7	7	NULL	NULL	NULL	2350	610	0.000060790273556231
+ifheavy metal	silver	1	1	7	7	NULL	NULL	NULL	7631	1889	0.000018720632008536607
+ifheavy metal	copper	1	1	7	7	NULL	NULL	NULL	15607	2840	0.000009153401861801938
+ifheavy metal	zinc	1	1	7	7	NULL	NULL	NULL	8418	1394	0.000016970437497878696
+ifheavy metal	gold	1	1	7	7	NULL	NULL	NULL	10877	2626	0.000013133873573332983
+ifheavy metal	nickel	1	1	7	7	NULL	NULL	NULL	5172	1141	0.000027621257319633187
+ifheavy metal	cadmium	1	1	7	7	NULL	NULL	NULL	4180	633	0.00003417634996582365
+IFI gene	OAS1	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+IFI gene	IFIT1	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+IFI gene	IFIT3	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IFI partner	IAHS	3	2	4	2	NULL	NULL	NULL	6	4	0.375
+IFI partner	USAID	1	1	4	2	NULL	NULL	NULL	735	206	0.0003401360544217687
+ifi-induced policy change	introduction of competition	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+ifibrinolytic agent	EACA	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+ificant datum	operating hour	1	1	1	1	NULL	NULL	NULL	130	37	0.007692307692307693
+ificant event	vehicle accidents with people trapped	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ificantevents	branch mispredictions	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+ification system	new spa per clip pi ng service	1	1	1	1	NULL	NULL	NULL	1	1	1
+ification technique	fast multipole algorithm	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ification technique	precorrected-FFT method	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifids only formula	Mi scusi	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifiedadditional invasive exotic	Pueraria lobata	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+ifiedevents	foot lift	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ifiedevents	foot contact	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+ifiedpathogens	Schizophyllum commune	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+ifilter search technology	Microsoft Index Server	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFilter-based Plugins	Megimo Loader	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifinclude measure	compensation	1	1	1	1	NULL	NULL	NULL	1024	395	0.0009765625
+ifinternet-based threat	rootkits	1	1	1	1	NULL	NULL	NULL	117	39	0.008547008547008548
+ifintervening geographical obstruction	mountain range	1	1	1	1	NULL	NULL	NULL	195	125	0.005128205128205128
+Ifirritation	redness	1	1	1	1	NULL	NULL	NULL	1133	320	0.00088261253309797
+IfIRS documentation	IRS Form W-2	1	1	2	2	NULL	NULL	NULL	3	4	0.16666666666666666
+IfIRS documentation	certified tax return	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IFIs	EBRD	5	5	16	10	0.304347826086	NULL	NULL	131	59	0.011927480916030535
+IFIs	AsDB	2	2	16	10	0.304347826086	NULL	NULL	4	3	0.0625
+IFIs	Gatehouse Bank	2	2	16	10	0.304347826086	NULL	NULL	6	2	0.041666666666666664
+IFIs	International Finance Corporation of the World Bank	1	1	16	10	0.304347826086	NULL	NULL	4	4	0.015625
+IFIs	IFAD	1	1	16	10	0.304347826086	NULL	NULL	81	36	0.0007716049382716049
+IFIs	Inter American DevelopmentBank	1	1	16	10	0.304347826086	NULL	NULL	1	1	0.0625
+IFIs	African Development Bank	1	1	16	10	0.304347826086	NULL	NULL	168	69	0.0003720238095238095
+IFIs	EBRD the World Bank	1	1	16	10	0.304347826086	NULL	NULL	1	1	0.0625
+IFIs	Japan Bank for International Corporation	1	1	16	10	0.304347826086	NULL	NULL	1	1	0.0625
+IFIs	EBRD in Kazakhstan	1	1	16	10	0.304347826086	NULL	NULL	1	1	0.0625
+ifis international financial institution	Asian Development Bank	1	1	2	2	NULL	NULL	NULL	520	166	0.0009615384615384616
+ifis international financial institution	World Bank	1	1	2	2	NULL	NULL	NULL	5405	899	0.00009250693802035152
+ifit's pre-programmed race	Boston Marathon	1	1	2	2	0.333333333333	NULL	NULL	35	16	0.014285714285714285
+ifit's pre-programmed race	New York	1	1	2	2	0.333333333333	NULL	NULL	13310	1915	0.00003756574004507889
+ifix client	iFIX 3.0	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifkisafinite field	F p for pa prime	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFL fighter	Vladimir Matyushenko	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+IFL fighter	Roy Nelson	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+IFL star	Rory Markham	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IFLA member	national association	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+iflammatory disease	rheumatism	1	1	1	1	NULL	NULL	NULL	339	117	0.0029498525073746312
+ifliquid	coffee	1	1	1	1	NULL	NULL	NULL	11509	2489	0.00008688852202624034
+iflndthatstock market anomaly	return momentum	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+iflndthatstock market anomaly	post earnings-announcement drift	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+iflower-protein beverage	fortified rice milk	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifluential international agency	World Bank	1	1	1	1	NULL	NULL	NULL	5405	899	0.00018501387604070305
+IFM combatant	Stanley Satan Kaoni	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFM member	Gerd Poppe	2	1	5	4	NULL	NULL	NULL	2	1	0.4
+IFM member	Peter Grimm	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+IFM member	Wolfgang Templin	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+IFM member	Ralf Hirsch	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+IFMA council	Academic Facilities	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifmanipulatives	Cuisenaire rod	1	1	1	1	1.000000000000	NULL	NULL	29	13	0.034482758620689655
+Ifmetals	Si	1	1	1	1	NULL	NULL	NULL	667	280	0.0014992503748125937
+Ifmore polar solv ents	methanol	1	1	1	1	NULL	NULL	NULL	4016	908	0.000249003984063745
+IFMPs	Dolly Varden IFMP	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFN	IFN-gamma	1	1	1	1	1.000000000000	NULL	NULL	51	23	0.0196078431372549
+IFN dependent intracellular signal	STAT1 phosphorylation	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFN pathway component	TyK2 kinase	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFN pathway component	Jakl kinase	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFN subtypes	IFN-alpha	1	1	1	1	1.000000000000	NULL	NULL	16	9	0.0625
+IFN-candhaematopoietic cytokines	G-CSF	1	1	2	2	NULL	NULL	NULL	199	62	0.002512562814070352
+IFN-candhaematopoietic cytokines	GM-CSF	1	1	2	2	NULL	NULL	NULL	216	75	0.0023148148148148147
+ifn-caused side effect	neuropsychiatric symptom	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+ifn-caused side effect	influenza-like symptom	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+IFN-dependent chemokines	IP-10	1	1	1	1	1.000000000000	NULL	NULL	36	19	0.027777777777777776
+ifn-g inducible gene	class II transactivator	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFN-inducible antiviral effectors	RNase L	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+IFN-inducible antiviral effectors	Mx GTPase	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+ifn-inducible antiviral protein	double-stranded RNA-dependent protein kinase	2	2	2	1	NULL	NULL	NULL	2	1	1
+IFN-inducible CXC chemokines	CXCL9	3	2	6	2	1.000000000000	NULL	NULL	20	9	0.075
+IFN-inducible CXC chemokines	CXCL10	3	2	6	2	1.000000000000	NULL	NULL	34	16	0.04411764705882353
+ifn-inducible factor	IRF-1	1	1	1	1	1.000000000000	NULL	NULL	16	12	0.0625
+ifn-inducible gene	IFIT1	1	1	6	6	0.666666666666	NULL	NULL	6	6	0.027777777777777776
+ifn-inducible gene	IFIT2	1	1	6	6	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+ifn-inducible gene	genes encoding RNA-dependent protein kinase	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+ifn-inducible gene	IRF-1	1	1	6	6	0.666666666666	NULL	NULL	16	12	0.010416666666666666
+ifn-inducible gene	MHC gene	1	1	6	6	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+ifn-inducible gene	RNase L	1	1	6	6	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+IFN-inducible IRF	IRF5	1	1	2	2	NULL	NULL	NULL	7	3	0.07142857142857142
+IFN-inducible IRF	IRF7	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+ifn-inducible protein	double-stranded RNA-activated protein kinase	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifn-regulated factor	IRF-1	1	1	1	1	1.000000000000	NULL	NULL	16	12	0.0625
+ifn-regulatory protein	IRF-1	2	2	4	2	1.000000000000	NULL	NULL	16	12	0.0625
+ifn-regulatory protein	STAT1	2	2	4	2	1.000000000000	NULL	NULL	10	9	0.1
+ifn-related protein	dsRNA-dependent protein kinase	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifn-responsive gene	IRF7	2	2	2	1	NULL	NULL	NULL	6	4	0.3333333333333333
+ifn-stimulated gene	IRF1	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+ifn-stimulated gene	ISG15	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+ifn-stimulated gene	OAS1	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+ifn-stimulated gene product	major histocompatibility complex protein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifn-stimulated gene product	antigen-processing protein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifnluences	Ray Lamontagne	1	1	7	7	0.250000000000	NULL	NULL	25	11	0.005714285714285714
+ifnluences	John Prine	1	1	7	7	0.250000000000	NULL	NULL	58	27	0.0024630541871921183
+ifnluences	Tom Petty	1	1	7	7	0.250000000000	NULL	NULL	174	67	0.0008210180623973727
+ifnluences	Ryan Adams	1	1	7	7	0.250000000000	NULL	NULL	91	27	0.0015698587127158554
+ifnluences	Robert Earl Keen	1	1	7	7	0.250000000000	NULL	NULL	27	15	0.005291005291005291
+ifnluences	Van Morrison	1	1	7	7	0.250000000000	NULL	NULL	157	59	0.0009099181073703366
+ifnluences	Johnny Cash	1	1	7	7	0.250000000000	NULL	NULL	384	129	0.0003720238095238095
+ifnt-stimulated gene	CXCL10	1	1	1	1	1.000000000000	NULL	NULL	34	16	0.029411764705882353
+ifo	D & D	1	1	1	1	0.666666666666	NULL	NULL	1	1	1
+ifo business survey	Ifo World Economic Survey	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFO conversion software	DVD Converter Platinum	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFOAM publication	Building Trust in Organics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFOAM publication	international manual for organic inspection	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFOCAS service	help with website construction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFOCAS service	publicity	1	1	2	2	NULL	NULL	NULL	295	144	0.001694915254237288
+IFOCE circuit eater	New Orleans own Boyd Bulot	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifocuson minimally invasive BPH procedure	transurethral microwave therapy andtransurethral needle ablation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifolder server statistic	iFolder version	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ifolder server statistic	server uptime	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+ifolder server statistic	host OS	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ifor's effort	repairing road	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+Iforganic material	flavourings	1	1	2	2	0.500000000000	NULL	NULL	56	31	0.008928571428571428
+Iforganic material	sweetener	1	1	2	2	0.500000000000	NULL	NULL	323	108	0.0015479876160990713
+Iforganizations	Catholic Church	1	1	1	1	NULL	NULL	NULL	298	144	0.003355704697986577
+ifother diagnostic study	CT	1	1	2	2	NULL	NULL	NULL	2212	752	0.0002260397830018083
+ifother diagnostic study	chest x-ray	1	1	2	2	NULL	NULL	NULL	527	106	0.0009487666034155598
+ifother issue	poverty	1	1	1	1	NULL	NULL	NULL	5898	1419	0.00016954899966090201
+ifother oil	hydraulic fluid	1	1	2	2	NULL	NULL	NULL	221	97	0.0022624434389140274
+ifother oil	mill oil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifother skill	leadership	1	1	2	2	NULL	NULL	NULL	3858	1041	0.00012960082944530845
+ifother skill	innovative ability	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ifother symptom	constipation	1	1	3	3	NULL	NULL	NULL	3092	740	0.00010780508840017248
+ifother symptom	sexual dysfunction	1	1	3	3	NULL	NULL	NULL	256	108	0.0013020833333333333
+ifother symptom	depression	1	1	3	3	NULL	NULL	NULL	15330	3151	0.000021743857360295716
+Ifotherstructures	playg round equipment	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifp's long-standing program	Gotham Awards	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifpoor health habit	faulty nutrition	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ifpossible, tryto visit company	IBM	1	1	2	2	NULL	NULL	NULL	11151	2595	0.00004483902788987535
+ifpossible, tryto visit company	Microsoft	1	1	2	2	NULL	NULL	NULL	11308	2573	0.00004421648390519986
+ifpostionization condition	laser geometry	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifproducts	feminine hygiene	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+IfProfessionals	Tiger Woods	1	1	1	1	NULL	NULL	NULL	740	248	0.0013513513513513514
+IFPSM communication platform	website	1	1	2	2	NULL	NULL	NULL	2590	1138	0.00019305019305019305
+IFPSM communication platform	newsletter	1	1	2	2	NULL	NULL	NULL	3095	1282	0.00016155088852988692
+ifpublic authority	immigration authority	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+IFQ specific information	IFQ permit card number	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFR advocate	Y. I. Chang	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFR opponent	Paul Gunter of the Washington-based Nuclear Information	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IFR opponent	Resource Service	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IFR reference	Alternate Requirements	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+IFR reference	Required IFR Reports	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+IFR reference	Communications Loss	1	1	6	6	NULL	NULL	NULL	4	3	0.041666666666666664
+IFR reference	Flight Plan Form	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+IFR reference	VOR Checks	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+IFR reference	Position Reports	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+IFR-specific information	position reporting	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+IFRAME compatible browser	Internet Explorer	1	1	1	1	NULL	NULL	NULL	3295	445	0.00030349013657056146
+iframe property	height	1	1	2	2	NULL	NULL	NULL	4847	1409	0.00010315659170621003
+iframe property	dimension	1	1	2	2	NULL	NULL	NULL	1006	421	0.0004970178926441351
+Ifrastructure	atiquated phone system	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFRIC	available for sale	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFRS adopter	Australia	1	1	1	1	NULL	NULL	NULL	16600	2128	0.000060240963855421684
+IFRS moreintangibles	customer relationships acquired in a business combination	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFRS section	IAS18	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IFRS section	IAS28	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IFRS section	IAS32	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IFRS section	IAS34	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IFRS standard	IFRS 8 Segment Reporting	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFRS standard	IAS 39 Financial Instruments	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFRS traditional performance measure	key financial ratio	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+IFRTD member	Paul Kwamusi from the Uganda Transport Forum Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifsevere weather	heavy snowfall	1	1	2	2	0.500000000000	NULL	NULL	49	34	0.01020408163265306
+ifsevere weather	extreme temperature	1	1	2	2	0.500000000000	NULL	NULL	336	147	0.001488095238095238
+ifshavevarious pharmacological activity	antioxidant activity	1	1	2	2	1.000000000000	NULL	NULL	21	15	0.023809523809523808
+ifshavevarious pharmacological activity	antiaromatase activity	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ifsubmerged or wetland area	pond	1	1	3	3	NULL	NULL	NULL	2056	813	0.00016212710765239947
+ifsubmerged or wetland area	swamp	1	1	3	3	NULL	NULL	NULL	600	282	0.0005555555555555556
+ifsubmerged or wetland area	slough	1	1	3	3	NULL	NULL	NULL	110	65	0.0030303030303030303
+ifsuitable perch	fence post	1	1	1	1	NULL	NULL	NULL	171	96	0.005847953216374269
+Ifsymptoms	loss of gag reflex	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ifsymptoms	convulsion	1	1	2	2	NULL	NULL	NULL	450	195	0.0011111111111111111
+IFT science report	Expert Reports	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFT science report	Scientific Status Summaries	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IFTA related issue	license	1	1	3	3	NULL	NULL	NULL	718	325	0.0004642525533890436
+IFTA related issue	tax	1	1	3	3	NULL	NULL	NULL	5258	1534	0.00006339546088500063
+IFTA related issue	report	1	1	3	3	NULL	NULL	NULL	2947	1093	0.00011310937676733401
+Iftar gathering	Minister of Tourism Elie Marouni	1	1	1	1	NULL	NULL	NULL	1	1	1
+iftar item	chicken roll	1	1	4	4	NULL	NULL	NULL	8	2	0.03125
+iftar item	samosas	1	1	4	4	NULL	NULL	NULL	169	90	0.0014792899408284023
+iftar item	date	1	1	4	4	NULL	NULL	NULL	5860	1522	0.00004266211604095563
+iftar item	yogurt-lentil fritter	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+iftertiary treatment system	constructed wetland	1	1	1	1	NULL	NULL	NULL	150	96	0.006666666666666667
+Ifthepersonhasa service animal	dog	1	1	1	1	NULL	NULL	NULL	7516	1309	0.00013304949441192123
+ifthereare emotional issue	grief	1	1	1	1	NULL	NULL	NULL	1260	360	0.0007936507936507937
+Ifthesame document	brochure	1	1	2	2	NULL	NULL	NULL	5215	1605	0.00009587727708533077
+Ifthesame document	organization process description	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifthrough emergency circumstance	injury	1	1	2	2	NULL	NULL	NULL	1924	601	0.0002598752598752599
+ifthrough emergency circumstance	incases of serious illness	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifting object	handling a newspaper	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ifting object	pen	1	1	2	2	NULL	NULL	NULL	5345	1399	0.00009354536950420954
+IFTN offering	Siemens CorNet	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifts	flower	1	0	2	2	NULL	NULL	NULL	5682	2006	0.00008799718409010911
+ifts	candy	1	0	2	2	NULL	NULL	NULL	4475	1246	0.000111731843575419
+ifts feature	stop list	2	2	3	2	NULL	NULL	NULL	6	4	0.2222222222222222
+ifts feature	iFTS-based dynamic management function	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+ifugao dialect	Tuwali	3	2	3	1	NULL	NULL	NULL	5	2	0.6
+ifugao language	Tuwali	2	2	2	1	NULL	NULL	NULL	5	2	0.4
+ifunexpected change	falling disposable income	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ifunexpected change	real interest rate shock	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ifunexpected change	falling asset price	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ifused, dry cleaning method	brushing	1	0	1	1	NULL	NULL	NULL	456	226	0.0021929824561403508
+Ifusingdevices	PIRs	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ifusingnatural material	wood flooring	1	1	1	1	NULL	NULL	NULL	122	67	0.00819672131147541
+ifvarious material	differing grades of steel	1	1	1	1	NULL	NULL	NULL	1	1	1
+IFVs	German Puma	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IFW model	Banking Data Warehouse	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifwe practice negative trait	unjust behavior	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+ifwe practice negative trait	dishonesty	1	1	2	2	0.500000000000	NULL	NULL	130	75	0.0038461538461538464
+ifwelookatbasic indicator	output of capital	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ifwelookatsmallercurrencies	Hungarian forint	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ifwethinkof effect	gravity	1	1	1	1	NULL	NULL	NULL	1396	490	0.0007163323782234957
+Ifwind-rich count ries	China	1	1	2	2	NULL	NULL	NULL	30422	3640	0.0000164354743277891
+Ifwind-rich count ries	United States	1	1	2	2	NULL	NULL	NULL	15613	2250	0.000032024594888874656
+ifwind-rich country	United States	1	1	2	2	NULL	NULL	NULL	15613	2250	0.000032024594888874656
+ifwind-rich country	China	1	1	2	2	NULL	NULL	NULL	30422	3640	0.0000164354743277891
+ifx's client	McAlister's Deli	1	1	2	2	0.500000000000	NULL	NULL	12	4	0.041666666666666664
+ifx's client	GNC	1	1	2	2	0.500000000000	NULL	NULL	212	91	0.0023584905660377358
+ifxconnection property	Database	1	1	1	1	NULL	NULL	NULL	2989	1163	0.00033456005352960856
+ifydataby associatedmetadata	acquisition date	1	1	1	1	0.500000000000	NULL	NULL	17	10	0.058823529411764705
+ifydierent component	Sink	1	1	2	2	NULL	NULL	NULL	1210	463	0.00041322314049586776
+ifydierent component	Crossbow MTS310 Sensor Nodes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifyother attribute	error rate	1	1	2	2	NULL	NULL	NULL	103	63	0.0048543689320388345
+ifyother attribute	typist speed	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifyou hire contractor	landscape gardener	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05
+ifyou hire contractor	builder	1	1	2	2	0.500000000000	NULL	NULL	487	207	0.001026694045174538
+ifyou purchase additional item	electronics	1	0	3	3	NULL	NULL	NULL	4365	1223	0.00007636502481863306
+ifyou purchase additional item	exercise equipment	1	0	3	3	NULL	NULL	NULL	184	94	0.0018115942028985505
+ifyou purchase additional item	furniture	1	0	3	3	NULL	NULL	NULL	8749	2264	0.00003809959233436202
+Ifyouarerunninga multiple-processor program	MPI	1	1	2	2	NULL	NULL	NULL	196	120	0.002551020408163265
+Ifyouarerunninga multiple-processor program	SHMEM application	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifyouareusingadditionaldatasets	United Kingdom With Names orbusiness	2	1	2	1	NULL	NULL	NULL	2	1	1
+ifyouhave personal medical device	pacemaker	1	1	1	1	NULL	NULL	NULL	977	270	0.0010235414534288639
+Ifyouhaveaspecial request	sitting with a friend	1	1	1	1	NULL	NULL	NULL	1	1	1
+ifyouhaveencounteredafewnucleotide-basedsubstitution model	K80 model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifyouhaveencounteredafewnucleotide-basedsubstitution model	JC69	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ifyouplantouse fast-oxidizing vegetable oil	Tung Oil	1	1	1	1	NULL	NULL	NULL	125	49	0.008
+ifyourchildhas specific health need	allergy	2	1	2	1	NULL	NULL	NULL	3153	803	0.0006343165239454488
+ifyouwishtoleavea donation forum specific purpose	scholarship	1	1	1	1	NULL	NULL	NULL	868	353	0.001152073732718894

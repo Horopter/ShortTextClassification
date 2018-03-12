@@ -1,0 +1,107 @@
+PW construct	loop	1	1	2	2	NULL	NULL	NULL	677	421	0.0007385524372230429
+PW construct	state preserving boxes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PW manager	KeePass	1	1	1	1	1.000000000000	NULL	NULL	35	14	0.02857142857142857
+PW shape	large-scale cornice	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+PW shape	parapet segment	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+PW type	TDM PWs	1	1	1	1	NULL	NULL	NULL	1	1	1
+PW2037 engine	American Airlines engine	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWA project	Triborough Bridge	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pwaces	de UK	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pwagued wif probwems	water getting into de open turret awong wif motor mawfunctions	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWAS lamb wave method	tomography	1	1	2	2	0.500000000000	NULL	NULL	87	58	0.005747126436781609
+PWAS lamb wave method	time reversal	1	1	2	2	0.500000000000	NULL	NULL	8	8	0.0625
+pWAT-derived chemokines	MCP-1	1	1	2	2	0.500000000000	NULL	NULL	123	50	0.0040650406504065045
+pWAT-derived chemokines	IP-10	1	1	2	2	0.500000000000	NULL	NULL	36	19	0.013888888888888888
+pwayers	Margo Dydek	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+PWB manufacturing facility	Digital Direct Exposure Machines	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWB manufacturing facility	Fully Automated Exposure Machines	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWB surface finish	immersion tin	1	1	4	4	1.000000000000	NULL	NULL	8	6	0.03125
+PWB surface finish	Organic Solderability Preservative	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+PWB surface finish	immersion silver	1	1	4	4	1.000000000000	NULL	NULL	8	5	0.03125
+PWB surface finish	immersion gold over nickel	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+PWBA member	Kelly Kulick	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+PWBA member	Kim Adler	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+PWBT device	Biodex Unweighing System	1	1	1	1	NULL	NULL	NULL	1	1	1
+pwc	Honda	1	1	5	5	0.200000000000	NULL	NULL	2841	812	0.00007039774727208729
+pwc	Jet Skies	1	1	5	5	0.200000000000	NULL	NULL	2	2	0.1
+pwc	Kawasaki	1	1	5	5	0.200000000000	NULL	NULL	278	128	0.0007194244604316547
+pwc	Sea Doo	1	1	5	5	0.200000000000	NULL	NULL	12	9	0.016666666666666666
+pwc	Yamaha	1	1	5	5	0.200000000000	NULL	NULL	955	340	0.00020942408376963353
+PWC advocate	American Watercraft Association	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PWC advocate	PWIA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PWC advocate	National Marine Manufacturers Association	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+pwc international member firm	PWC Bermuda	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWC magazine	Splash	1	1	2	2	0.500000000000	NULL	NULL	59	39	0.00847457627118644
+PWC magazine	Personal Watercraft Illustrated	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+pwc program	Full Circle	1	1	1	1	1.000000000000	NULL	NULL	25	16	0.04
+PWC settlement	Tibble in Uppland	1	1	1	1	NULL	NULL	NULL	1	1	1
+pwc-specific characteristic	noise level	1	1	2	2	NULL	NULL	NULL	240	93	0.0020833333333333333
+pwc-specific characteristic	pitch	1	1	2	2	NULL	NULL	NULL	891	427	0.0005611672278338945
+PWCs	SeaDoo	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+PWCs	JetSki	1	1	2	2	NULL	NULL	NULL	5	6	0.1
+pwd-friendly facility	toilet	1	1	3	3	0.500000000000	NULL	NULL	2369	753	0.0001407063458561981
+pwd-friendly facility	accessible ramp	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+pwd-friendly facility	reserved parking space	1	1	3	3	0.500000000000	NULL	NULL	6	6	0.05555555555555555
+pwds living condition	health	1	1	1	1	NULL	NULL	NULL	12226	3162	0.00008179290037624735
+PWGSC strategic policy initiative	Way Forward	1	1	1	1	NULL	NULL	NULL	1	1	1
+pwgsc-led initiative	GEDS Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWI technique	arterial spin tagging	1	1	1	1	NULL	NULL	NULL	1	1	1
+pwm	higher-quality and better-designed pwm	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM amplifier U38	model number SA01	1	1	1	1	NULL	NULL	NULL	1	1	1
+pwm application	infrequent pwm application	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PWM artifact	dynamic-false-contour artifact	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM controller	LM5020 from the National Semiconductor with fast turn ON	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM converter topologies	half-bridge	2	2	2	1	1.000000000000	NULL	NULL	19	10	0.10526315789473684
+PWM device	DC drive	1	1	3	3	0.500000000000	NULL	NULL	10	8	0.03333333333333333
+PWM device	CPU cooler	1	1	3	3	0.500000000000	NULL	NULL	8	4	0.041666666666666664
+PWM device	fan	1	1	3	3	0.500000000000	NULL	NULL	2666	1077	0.0001250312578144536
+PWM display	LED alarm clock display	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+PWM display	data projector	1	1	3	3	1.000000000000	NULL	NULL	73	44	0.0045662100456621
+PWM display	fruit machine	1	1	3	3	1.000000000000	NULL	NULL	37	18	0.009009009009009009
+PWM emergency situation	model ship power failure	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM fan	Viper	1	1	1	1	NULL	NULL	NULL	150	75	0.006666666666666667
+PWM fan speed controller	Kaze Master	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM generator	PWM generator 208A	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM parameter	switching frequency	2	1	2	1	1.000000000000	NULL	NULL	22	16	0.09090909090909091
+PWM power supply	used for a small dc motor	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWM scheme	interleaving	1	1	1	1	1.000000000000	NULL	NULL	59	30	0.01694915254237288
+PWM signal	shown in Fig	2	2	2	1	NULL	NULL	NULL	280	212	0.007142857142857143
+PWM signal modulation method	double edge modulation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWM signal modulation method	rising edge modulation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWM signal parameter	duty cycle	2	2	3	2	0.500000000000	NULL	NULL	103	51	0.012944983818770225
+PWM signal parameter	amplitude	1	1	3	2	0.500000000000	NULL	NULL	523	243	0.0006373486297004461
+PWM strategy	optimal	1	1	1	1	0.500000000000	NULL	NULL	14	13	0.07142857142857142
+PWM technique	selective harmonic elimination PWM	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PWM technique	carrier-based PWM	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PWM technique	space vector PWM	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+PWM timing error	dead time	1	1	1	1	1.000000000000	NULL	NULL	27	22	0.037037037037037035
+PWM-to-linear-conversion circuit	integrator based on an operational amplifier	2	2	2	1	NULL	NULL	NULL	2	1	1
+pwning feature	rpg-style leveling system	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWO carb	dextrose	1	1	2	2	0.500000000000	NULL	NULL	459	157	0.0010893246187363835
+PWO carb	waxy maize	1	1	2	2	0.500000000000	NULL	NULL	20	12	0.025
+pWO drink	Surge	1	1	1	1	NULL	NULL	NULL	42	38	0.023809523809523808
+pwoers	Britain	1	1	5	5	NULL	NULL	NULL	3941	769	0.00005074854097944684
+pwoers	Japan	1	1	5	5	NULL	NULL	NULL	17472	2459	0.000011446886446886447
+pwoers	Germany	1	1	5	5	NULL	NULL	NULL	19646	2312	0.000010180189351521939
+pwoers	France	1	1	5	5	NULL	NULL	NULL	18997	2318	0.000010527978101805549
+pwoers	Russia	1	1	5	5	NULL	NULL	NULL	8825	1448	0.0000226628895184136
+PWR	Plant Vogtle	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWR design	KWU 16	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWR participant	Michelle Croutteau from the Central Virginia WP	1	1	1	1	NULL	NULL	NULL	1	1	1
+PWRs	South Korea's SMART	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+PWs	Gia Jordan	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+PWs	Lisa Sparxxx	1	1	4	4	0.500000000000	NULL	NULL	7	4	0.03571428571428571
+PWs	Cameron Keys	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+PWs	Tia Ling	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+PWS characteristic	color	2	2	8	4	NULL	NULL	NULL	11347	3399	0.00004406451044328897
+PWS characteristic	anatomical location	2	2	8	4	NULL	NULL	NULL	6	5	0.08333333333333333
+PWS characteristic	patient age	2	2	8	4	NULL	NULL	NULL	394	93	0.0012690355329949238
+PWS characteristic	size	2	2	8	4	NULL	NULL	NULL	44267	2716	0.00001129509566946032
+PWS function	morale picnic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWS function	early release authorization	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWS specific factor	fish habitat abundance	1	1	1	1	NULL	NULL	NULL	1	1	1
+pwsi-led service	varicose vein	1	1	2	2	NULL	NULL	NULL	276	104	0.0018115942028985507
+pwsi-led service	inguinal hernia clinic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWTA issue	health-related education concerning drinking water contaminant	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PWTA issue	Geographic Information System	1	1	2	2	NULL	NULL	NULL	376	159	0.0013297872340425532
+PWX partner	Gram Vikas	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333

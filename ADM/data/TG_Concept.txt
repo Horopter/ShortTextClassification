@@ -1,0 +1,50 @@
+Tg	f ACT	1	1	1	1	NULL	NULL	NULL	1	1	1
+TG lee dairy product	skim milk	1	1	2	2	NULL	NULL	NULL	458	186	0.001091703056768559
+TG lee dairy product	orange juice	1	1	2	2	NULL	NULL	NULL	1246	351	0.0004012841091492777
+TG lipases	lipoprotein lipase	1	1	1	1	1.000000000000	NULL	NULL	27	18	0.037037037037037035
+TG lowering drug	gemfibrozil	1	1	1	1	NULL	NULL	NULL	133	25	0.007518796992481203
+TG material	high TG FR4s	1	1	1	1	NULL	NULL	NULL	1	1	1
+TG social group	TGSF	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TG social group	Rainbow Gender Association	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TG social group	Diablo Valley Girls	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tg staple	trample	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+TG-rich lipoproteins	intermediate-density lipoproteins	3	1	4	3	1.000000000000	NULL	NULL	3	1	0.75
+TG-rich lipoproteins	VLDL	1	1	4	3	1.000000000000	NULL	NULL	16	13	0.015625
+TGA factor	tobacco TGA1a	2	2	2	1	NULL	NULL	NULL	2	1	1
+TGA parameter	peak temperature	1	1	1	1	1.000000000000	NULL	NULL	17	13	0.058823529411764705
+TGA scheduled preparation	anti-wrinkle injection	1	1	1	1	1.000000000000	NULL	NULL	25	16	0.04
+tga's stakeholder	drug consumer	1	1	1	1	NULL	NULL	NULL	1	1	1
+tgea's core feature	per-pixel dynamic lighting	1	1	1	1	NULL	NULL	NULL	1	1	1
+tgext editor	gedit in Root	1	1	1	1	NULL	NULL	NULL	1	1	1
+TGF bmembers	GDF9	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+TGF bmembers	BMP15	1	1	2	2	1.000000000000	NULL	NULL	8	5	0.0625
+TGF-0 factor	BMP-4	1	1	2	2	1.000000000000	NULL	NULL	17	11	0.029411764705882353
+TGF-0 factor	bone morphogenetic factors BMP-2	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+tgf-1-responsive gene	PAI-1	1	1	1	1	1.000000000000	NULL	NULL	36	26	0.027777777777777776
+tgf-b antagonist	angiotensin receptor blocker losartan	1	1	1	1	NULL	NULL	NULL	1	1	1
+tgf-b factor	bone morphogenetic factors BMP-2	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+tgf-b factor	BMP-4	1	1	2	2	1.000000000000	NULL	NULL	17	11	0.029411764705882353
+tgf-beta antagonist	betaglycan	3	2	3	1	1.000000000000	NULL	NULL	6	4	0.5
+tgf-beta family member	TGF-beta	1	1	1	1	1.000000000000	NULL	NULL	41	17	0.024390243902439025
+tgf-beta superfamily signaling molecule	Nodal protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+tgf-beta-mediated process	fibronectin assembly	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+TGF-suppresses certain inflammatory cytokines	IFN-and IL-1 at level of transcription	1	1	1	1	NULL	NULL	NULL	1	1	1
+tgf.beta.-mediated process	fibronectin assembly	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+TGFB pathway-related gene	TGFBR2	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+TGFB pathway-related gene	STAT1	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+tgfb-superfamily member	Activins	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+tgfbeta superfamily member	TGFbeta	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+tgfbeta superfamily member	bone morphogenetic protein-2	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+TGI fridays meal	grilled rib	1	1	1	1	NULL	NULL	NULL	1	1	1
+TGI spinoff study	Luxury Study	1	1	1	1	NULL	NULL	NULL	1	1	1
+TGN integral membrane protein	cargo-sorting receptor Vps10p	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TGN integral membrane protein	theproprotein processing enzymes Kex2pand Ste13p	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tgn sync backer	Atheros	1	1	5	5	0.200000000000	NULL	NULL	30	17	0.006666666666666667
+tgn sync backer	Sony	1	1	5	5	0.200000000000	NULL	NULL	6122	1647	0.00003266906239790918
+tgn sync backer	Intel	1	1	5	5	0.200000000000	NULL	NULL	4286	1143	0.00004666355576294914
+tgn sync backer	Toshiba	1	1	5	5	0.200000000000	NULL	NULL	2011	619	0.00009945300845350573
+tgn sync backer	Matsushita	1	1	5	5	0.200000000000	NULL	NULL	186	101	0.001075268817204301
+TGNMO authority	applicable State	1	1	1	1	NULL	NULL	NULL	1	1	1
+TGRL particle	VLDL	2	2	2	1	1.000000000000	NULL	NULL	16	13	0.125
+TGRLPs	human VLDLs	1	1	1	1	NULL	NULL	NULL	1	1	1
+tgx datum	microarray datum	1	1	1	1	1.000000000000	NULL	NULL	23	19	0.043478260869565216

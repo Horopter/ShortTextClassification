@@ -1,0 +1,427 @@
+KU ad	Monte Johnson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KU ad	Bob Frederick	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KU athlete	John Hadl	1	1	1	1	NULL	NULL	NULL	7	3	0.14285714285714285
+KU band signal	weather radar	1	1	1	1	1.000000000000	NULL	NULL	39	25	0.02564102564102564
+KU chancellor	Archie Dykes	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KU chancellor	Gene Budig	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KU chancellor	Franklin Murphy	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KU chancellor	Clarke Wescoe	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KU chancellor	Deane Malott	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Ku dish	SC round dish	1	1	1	1	NULL	NULL	NULL	1	1	1
+KU great	Danny Manning	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+KU great	Wayne Simien	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+KU information	application deadline	1	1	2	2	1.000000000000	NULL	NULL	42	29	0.011904761904761904
+KU information	program cost	1	1	2	2	1.000000000000	NULL	NULL	41	29	0.012195121951219513
+ku klux klan member	North Carolina KKK's Virgil Griffin	1	1	1	1	NULL	NULL	NULL	1	1	1
+KU leuven application	KU Loket	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+KU leuven application	Webmail	1	0	2	2	NULL	NULL	NULL	96	58	0.005208333333333333
+KU medical center program	Health Careers Pathways Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+KU player	Xavier Henry	2	2	5	4	NULL	NULL	NULL	6	2	0.13333333333333333
+KU player	Eric Chenowith	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+KU player	Ryan Robertson	1	1	5	4	NULL	NULL	NULL	5	4	0.04
+KU player	Nick Bradford	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+KU production	King Stag	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+KU program	Global Partners	1	1	1	1	NULL	NULL	NULL	1	1	1
+ku protein	Ku70	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+KU senior	Banks Floodman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KU senior	Kevin Kane	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+KU standout	Danny Manning	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+KU student	Milin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KU student	Steven Heger	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KU student	Molly Easley	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ku-jas	ones near Kusuma-sarovara	1	1	1	1	NULL	NULL	NULL	1	1	1
+ku-ring-gai person	Michael Bourke	1	1	1	1	NULL	NULL	NULL	1	1	1
+ku-wen scholar	Fan Chung-yen	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuala lumpur attraction	KLCC Park	1	1	8	8	0.500000000000	NULL	NULL	8	6	0.015625
+kuala lumpur attraction	Buddhist Maha Vihara	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+kuala lumpur attraction	Open University Malaysia	1	1	8	8	0.500000000000	NULL	NULL	5	5	0.025
+kuala lumpur attraction	Pavilion Kuala Lumpur	1	1	8	8	0.500000000000	NULL	NULL	2	2	0.0625
+kuala lumpur attraction	Putra World Trade Centre	1	1	8	8	0.500000000000	NULL	NULL	4	3	0.03125
+kuala lumpur attraction	Capital Square	1	1	8	8	0.500000000000	NULL	NULL	5	4	0.025
+kuala lumpur attraction	National Museum	1	1	8	8	0.500000000000	NULL	NULL	208	82	0.0006009615384615385
+kuala lumpur attraction	Menara KL Tower	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+kuala lumpur city hall venue	meeting rooms Megapuri Hall	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+kuala lumpur city hall venue	Auditorium	1	1	3	3	0.500000000000	NULL	NULL	615	249	0.0005420054200542005
+kuala lumpur city hall venue	Dataran Merdeka	1	1	3	3	0.500000000000	NULL	NULL	6	6	0.05555555555555555
+kuala lumpur hotel	Istana Hotel	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Hotel Equatorial	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Hotel Maya	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Ancasa Hotel	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Ascott Kuala	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Alpha Genesis Hotel	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Brisdale Hotel	2	2	18	11	NULL	NULL	NULL	3	2	0.07407407407407407
+kuala lumpur hotel	Best Western Premier Seri Pacific Hotel	1	1	18	11	NULL	NULL	NULL	2	2	0.027777777777777776
+kuala lumpur hotel	Impiana KLCC Hotel Spa	1	1	18	11	NULL	NULL	NULL	1	1	0.05555555555555555
+kuala lumpur hotel	Impiana KLCC Hotel & Spa	1	1	18	11	NULL	NULL	NULL	3	3	0.018518518518518517
+kuala lumpur hotel	Very best Western Premier Seri Pacific Hotel	1	1	18	11	NULL	NULL	NULL	1	1	0.05555555555555555
+kuala lumpur sight	KLCC	1	1	1	1	1.000000000000	NULL	NULL	18	15	0.05555555555555555
+kuala lumpur's satellite town	Petaling Jaya	1	1	1	1	1.000000000000	NULL	NULL	41	22	0.024390243902439025
+kuan shih yin practice	meditation	2	1	2	1	NULL	NULL	NULL	6609	1473	0.0003026176426085641
+kube cover band	Kings Of Leon	1	1	10	10	0.300000000000	NULL	NULL	168	48	0.0005952380952380953
+kube cover band	Radiohead	1	1	10	10	0.300000000000	NULL	NULL	524	134	0.00019083969465648855
+kube cover band	Feeder	1	1	10	10	0.300000000000	NULL	NULL	194	103	0.0005154639175257732
+kube cover band	Snow Patrol	1	1	10	10	0.300000000000	NULL	NULL	116	40	0.0008620689655172415
+kube cover band	Oasis	1	1	10	10	0.300000000000	NULL	NULL	384	149	0.00026041666666666666
+kube cover band	Killers	1	1	10	10	0.300000000000	NULL	NULL	210	65	0.0004761904761904762
+kube cover band	Kasabian	1	1	10	10	0.300000000000	NULL	NULL	78	21	0.001282051282051282
+kube cover band	Stereophonics	1	1	10	10	0.300000000000	NULL	NULL	62	24	0.0016129032258064516
+kube cover band	U2	1	1	10	10	0.300000000000	NULL	NULL	903	214	0.00011074197120708749
+kube cover band	Muse	1	1	10	10	0.300000000000	NULL	NULL	301	86	0.0003322259136212625
+kubili watershed resource	Vegetation	1	1	3	3	NULL	NULL	NULL	1069	443	0.0003118178983473651
+kubili watershed resource	Land	1	1	3	3	NULL	NULL	NULL	2765	917	0.00012055455093429776
+kubili watershed resource	Soil	1	1	3	3	NULL	NULL	NULL	3401	1213	0.00009801038910124473
+kubota event	Truck load event	3	1	3	1	NULL	NULL	NULL	3	1	1
+kubota hydraulic tool	chain saw	1	1	1	1	NULL	NULL	NULL	316	141	0.0031645569620253164
+Kubota product	Kubota RTVS	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kubota reference material	operators manual	1	1	1	1	1.000000000000	NULL	NULL	69	30	0.014492753623188406
+kubota RTV winch control	wireless winch remote	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+kubota RTV winch control	replacment remote control unit	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+Kubota tlbs	M59	2	2	2	1	NULL	NULL	NULL	6	4	0.3333333333333333
+kubrat's twin town	Bursa	1	1	2	2	1.000000000000	NULL	NULL	42	25	0.011904761904761904
+kubrat's twin town	Trikala	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+kubrick classic	Spartacus	1	1	1	1	0.500000000000	NULL	NULL	61	30	0.01639344262295082
+kubrick release	various Devilman	1	1	1	1	NULL	NULL	NULL	1	1	1
+kubrick's earlier work	Lolita	1	1	1	1	1.000000000000	NULL	NULL	62	38	0.016129032258064516
+kubrick's early work	film noir	1	1	1	1	1.000000000000	NULL	NULL	34	17	0.029411764705882353
+kubrick's film	Clockwork Orange	1	1	1	1	NULL	NULL	NULL	72	32	0.013888888888888888
+kubrick's subsequent film	Dr. Strangelove	1	1	1	1	1.000000000000	NULL	NULL	34	12	0.029411764705882353
+kuching cruise offer attraction	ancient temple	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+kuchma-era tactic	harassment	2	2	2	1	0.500000000000	NULL	NULL	621	261	0.00322061191626409
+kude camp device	baking in a cavity in the ash	2	1	2	1	NULL	NULL	NULL	5	2	0.4
+kudler's additional service	gourmet cooking class	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Kudofests	Country Music Assn.	1	1	1	1	NULL	NULL	NULL	1	1	1
+kudos event	Golden Globes	1	1	1	1	1.000000000000	NULL	NULL	51	27	0.0196078431372549
+kue	kue mangko	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kue	kue keranjang	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kue	kue lapis	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kueh pie tee topping	shrimp	1	1	3	3	NULL	NULL	NULL	2860	855	0.00011655011655011655
+kueh pie tee topping	peanut	1	1	3	3	NULL	NULL	NULL	3307	885	0.00010079629069650237
+kueh pie tee topping	egg	1	1	3	3	NULL	NULL	NULL	9254	1960	0.00003602045962106476
+KUFA member	Ravi Patil	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+KUFA member	Kunal Shetty	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+KUFA member	Rajendra Sangar	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+KUFA member	Ajay Pawar	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+kuffars celebration	Christmas Day	2	2	3	2	1.000000000000	NULL	NULL	139	48	0.009592326139088728
+kuffars celebration	second millennium	1	1	3	2	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+kufr idea	ideas of freedom	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kufr idea	Democracy	1	1	3	3	NULL	NULL	NULL	1419	482	0.00023490721165139768
+kufr idea	Nationalism	1	1	3	3	NULL	NULL	NULL	469	168	0.0007107320540156361
+Kuhailan mares	daughters of Bask	2	2	2	1	NULL	NULL	NULL	2	1	1
+kuhn's critic	Imre Lakatos	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+kuhn's critic	Karl Popper	1	1	2	2	1.000000000000	NULL	NULL	54	26	0.009259259259259259
+kuih	kuih talam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuih	seri muka	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kuiper belt discovery	Quaoar	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+kuiper belt member	Makemake	1	1	1	1	0.666666666666	NULL	NULL	10	7	0.1
+kuiper belt object	Pluto	6	6	7	2	1.000000000000	NULL	NULL	112	55	0.04591836734693877
+kuiper belt object	Eris	1	1	7	2	1.000000000000	NULL	NULL	14	10	0.01020408163265306
+kuipter's event	attack on Loneliness	1	1	1	1	NULL	NULL	NULL	1	1	1
+kujibiki unbalance episode	first episode	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuki group studio	Alice Japan	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+kuki group studio	Cosmos Plan	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+kuki leader	late Onpao Kuki	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuki leader	late Paochung Kuki	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuki village	Myothit	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuki village	Nungkam	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuki village	Kundong	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuki village	Tanan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuki-chin preliterate community	Hmar community	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kuki-chin preliterate community	Thado	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kuki-chin preliterate community	Paite	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+kuku yalanji indigenous custodian	Daintree Eco Lodge guide Juan Walker	1	1	1	1	NULL	NULL	NULL	1	1	1
+kukui oil hair care treatment	conditioner	1	1	2	2	NULL	NULL	NULL	810	291	0.0006172839506172839
+kukui oil hair care treatment	shampoo	1	1	2	2	NULL	NULL	NULL	3875	1061	0.00012903225806451613
+kula dance	sword dance	1	1	1	1	1.000000000000	NULL	NULL	17	8	0.058823529411764705
+kula I shareholder	Asian Development Bank	1	1	2	2	NULL	NULL	NULL	520	166	0.0009615384615384616
+kula I shareholder	European Investment Bank	1	1	2	2	NULL	NULL	NULL	73	50	0.00684931506849315
+kula resident	Hula Lindsey	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kulana bike	Kulana tandem bike	1	1	1	1	NULL	NULL	NULL	1	1	1
+kulcsar internal and external factor	age	1	1	2	2	NULL	NULL	NULL	32703	4368	0.000015289117206372505
+kulcsar internal and external factor	health	1	1	2	2	NULL	NULL	NULL	12226	3162	0.000040896450188123673
+Kuldevis	Chamunda Ma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kuldevis	Khodiar Ma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kullar and traditional indian drink	lassi	1	1	1	1	1.000000000000	NULL	NULL	46	29	0.021739130434782608
+kulula partner	Discovery	1	1	2	2	NULL	NULL	NULL	702	341	0.0007122507122507123
+kulula partner	Europcar	1	1	2	2	NULL	NULL	NULL	319	95	0.001567398119122257
+kumamoto specialty	slices of raw horse meat	1	1	1	1	NULL	NULL	NULL	1	1	1
+kumaoni cuisine	Gahat ki Dal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kumaoni cuisine	Bhat Ki Churkani	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kumaoni cuisine	Madue Ki Roti	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kumaoni writer	Joshi	1	1	4	4	1.000000000000	NULL	NULL	9	8	0.027777777777777776
+kumaoni writer	Sumitra Nandan Pant	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+kumaoni writer	Mrinal Pande	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+kumaoni writer	Shivani	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+kumaris	Kumari of Bhaktapur	1	1	1	1	NULL	NULL	NULL	1	1	1
+kumasi city-abetenim rural site	local school	4	3	8	2	1.000000000000	NULL	NULL	137	68	0.014598540145985401
+kumasi city-abetenim rural site	market place	4	3	8	2	1.000000000000	NULL	NULL	66	48	0.030303030303030304
+kumeyaay game	hoop	1	1	3	3	0.333333333333	NULL	NULL	159	80	0.0020964360587002093
+kumeyaay game	stick dice	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+kumeyaay game	shinny stick	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+kumho rent industry	auto parts excellent customer service	1	1	1	1	NULL	NULL	NULL	1	1	1
+kumiko product	lampshade	1	1	3	3	NULL	NULL	NULL	156	82	0.0021367521367521365
+kumiko product	partition	1	1	3	3	NULL	NULL	NULL	266	150	0.0012531328320802004
+kumiko product	sliding door	1	1	3	3	NULL	NULL	NULL	122	79	0.00273224043715847
+kumon workbook	Easy Mazes	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kumon workbook	Tracing	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+Kumpungs	Taman Sari	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kumu hula and performer	Kunewa Mook	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kumu hula and performer	Frank Hewett	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kumu hula and performer	Ed Collier	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+kumu hula and performer	Keali'i Reichel	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+Kundalini	Yogi Bhajan's without proper study	1	1	1	1	NULL	NULL	NULL	1	1	1
+kundalini awakening	mentioned in Hinduism	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kundalini meditation	GFM	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kundalini piece	floor lamp E.T.A.	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Kundalini yoga style	shoulder roll	1	1	1	1	1.000000000000	NULL	NULL	24	18	0.041666666666666664
+kundalini yoga technique	Sat Kriya	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kundalini yoga technique	Stretch Pose	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kundalini yoga various technique	breathing	1	1	1	1	NULL	NULL	NULL	1403	570	0.0007127583749109052
+kunds	Draupadi kund	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kunds	Dhara Mandal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kunene river basin rural livelihood	pastoralism	1	1	2	2	1.000000000000	NULL	NULL	32	24	0.015625
+kunene river basin rural livelihood	rainfed agriculture	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+kung fu	real kung fu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kung fu	external kung fu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kung fu classic	One-Armed Swordsman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kung fu classic	Five Deadly Venoms	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+kung fu element	trapping	1	1	1	1	NULL	NULL	NULL	395	207	0.002531645569620253
+kung fu film	Master Killer	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+kung fu film	Shaolin challenges Ninja	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+kung fu liniment	Dit Da Jow	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kung fu master	Zhu Chengde	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+kung fu master	WudangTaoist priest Guo Daoyi	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+kung fu master	modern-day kung fu master	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+kung fu master	WudangTaoist priest Guo Gaoyi	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+kung fu method	10-road Tan Tui	3	3	4	2	NULL	NULL	NULL	3	1	0.75
+kung fu method	Cha Ch'uan	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+kung fu move	basic kung fu move	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kung fu panda party favor	ring	1	1	1	1	NULL	NULL	NULL	2378	930	0.00042052144659377626
+kung fu panda party supply	centerpieces at Walmart	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+kung fu panda party supply	table cloth	1	1	4	4	0.250000000000	NULL	NULL	178	101	0.0014044943820224719
+kung fu panda party supply	plate	1	1	4	4	0.250000000000	NULL	NULL	2349	1069	0.00010642826734780758
+kung fu panda party supply	napkin	1	1	4	4	0.250000000000	NULL	NULL	934	402	0.0002676659528907923
+kung fu practice	Qi Gong	1	1	2	2	NULL	NULL	NULL	287	153	0.0017421602787456446
+kung fu practice	Tai Chi	1	1	2	2	NULL	NULL	NULL	2052	679	0.00024366471734892786
+kung fu school	Shaolin	1	1	1	1	1.000000000000	NULL	NULL	21	17	0.047619047619047616
+kung fu star	Bruce Lee	2	2	5	4	0.750000000000	NULL	NULL	97	56	0.008247422680412371
+kung fu star	Chuck Norris	1	1	5	4	0.750000000000	NULL	NULL	59	29	0.0033898305084745766
+kung fu star	Jet Li	1	1	5	4	0.750000000000	NULL	NULL	65	39	0.003076923076923077
+kung fu star	Jackie Chan	1	1	5	4	0.750000000000	NULL	NULL	133	65	0.0015037593984962407
+kung fu style	Tai Chi	1	1	5	5	0.333333333333	NULL	NULL	2052	679	0.00009746588693957116
+kung fu style	external kung fu style	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+kung fu style	Wing Chun	1	1	5	5	0.333333333333	NULL	NULL	71	34	0.0028169014084507044
+kung fu style	Hung Gar	1	1	5	5	0.333333333333	NULL	NULL	20	12	0.01
+kung fu style	traditional kung fu style	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+Kung small sacrifice	exercising lang hindi mo magawa	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kung-Fu acrobatics	side somersault	1	1	1	1	NULL	NULL	NULL	1	1	1
+kung-fu fighter	Bruce Lee	1	1	1	1	NULL	NULL	NULL	97	56	0.010309278350515464
+kung-fu movie	Chinese Connection	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+kung-fu movie	Crouching Tiger Hidden Dragon	1	1	4	4	1.000000000000	NULL	NULL	19	14	0.013157894736842105
+kung-fu movie	Iron Monkey	1	1	4	4	1.000000000000	NULL	NULL	7	5	0.03571428571428571
+kung-fu movie	Drunken Master	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+kung-fu style	northern shaolin	1	1	1	1	NULL	NULL	NULL	7	4	0.14285714285714285
+kung-fu system	Southern Praying Mantis	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kungfu association	Japan	1	1	3	3	NULL	NULL	NULL	17472	2459	0.000019078144078144078
+kungfu association	Singapore	1	1	3	3	NULL	NULL	NULL	7135	1325	0.0000467180565288484
+kungfu association	USA	1	1	3	3	NULL	NULL	NULL	6047	1060	0.00005512375282509233
+kungfu movie star	Donnie Yen	1	1	2	2	1.000000000000	NULL	NULL	13	11	0.038461538461538464
+kungfu movie star	Andy Lau	1	1	2	2	1.000000000000	NULL	NULL	28	17	0.017857142857142856
+kuniko nielsen phonological representation	phoneme	1	1	1	1	1.000000000000	NULL	NULL	44	26	0.022727272727272728
+kunio-kun game	Downtown Nekketsu Monogatari	1	1	1	1	NULL	NULL	NULL	1	1	1
+kunisada's contemporary	Hokusai	1	1	1	1	1.000000000000	NULL	NULL	28	22	0.03571428571428571
+kunitz type serine protease inhibitor	hepatocyte growth factor activator inhibitor-1	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kunitz type serine protease inhibitor	aprotinin	1	1	2	2	NULL	NULL	NULL	121	45	0.004132231404958678
+kunitz-type inhibitor	bovine pancreatic trypsin inhibitor	1	1	3	3	0.500000000000	NULL	NULL	10	7	0.03333333333333333
+kunitz-type inhibitor	aprotinin	1	1	3	3	0.500000000000	NULL	NULL	121	45	0.002754820936639118
+kunitz-type inhibitor	TFPI	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+kunitz-type serine protease inhibitor	aprotinin	1	1	1	1	NULL	NULL	NULL	121	45	0.008264462809917356
+kunjani's delightful holiday drink special	Pumpkin Spice Macchiato during the event	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kunjani's delightful holiday drink special	Eggnog Chai	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kunkel's book	Character Growth	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kunqu powerhouse	Beijing	1	1	3	3	NULL	NULL	NULL	2005	395	0.00016625103906899418
+kunqu powerhouse	Suzhou	1	1	3	3	NULL	NULL	NULL	116	48	0.0028735632183908046
+kunqu powerhouse	ones from Shanghai	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kunsthalle smaller street	Berger Strasse	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kunstlerromane	Thackeray's Pendennis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kunstlerromane	Wordsworth's Prelude	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kuntao concept	Gyroscopic Rotation	1	1	1	1	NULL	NULL	NULL	1	1	1
+KUNZANG LAMA'I ZHALUNG bodhisattvas	Prince Great Courage	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuo-toan item	steel fin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuo-toan item	pincer staff	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuoni authentic experience	hot-air balloon flight over wildebeest in Kenya's Maasai Mara	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kuoni authentic experience	dinner under the stars in a Bedouin campsite in Arabia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kuoni authentic experience	riding on the back of a Harley Davidson through Cape Town in South Africa	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kuoni specialist on-line agent	Blue Bay	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+kuoni specialist on-line agent	Marks Travel	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kuopio's famous museum	Kuopio Museum	1	1	1	1	NULL	NULL	NULL	1	1	1
+kupuna	Herb Kane	2	1	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+kupuna	Abby Napeahi	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kupuna	Johnny Estes	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kupuna	Tweetie Calles	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kupuna	Mary Kawena Pukui	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kur town	german kur town	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+kur town	Baden-Baden	1	1	3	3	1.000000000000	NULL	NULL	25	17	0.013333333333333332
+kur town	Bad Kreuznach	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+kurd tribe	Kalhur	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish area	Sulaymani area	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish artist	Dillin Hoox	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish city	Cizre	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kurdish city	oil-producing kurdish city	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kurdish city	Sanandaj	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kurdish community	Amadiyah	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish design element	wolf track	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish dialect	Kurmanci	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurdish dialect	Hawrami	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurdish director	Hiner Saleem	1	1	2	2	NULL	NULL	NULL	5	2	0.1
+kurdish director	best known for Vodka Lemon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurdish group	PKK	2	2	3	2	1.000000000000	NULL	NULL	30	16	0.04444444444444444
+kurdish group	PUK	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+kurdish intellectual	Memduh Selim	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kurdish intellectual	writer	1	1	5	5	NULL	NULL	NULL	602	266	0.0003322259136212625
+kurdish intellectual	Abdullah Cevdet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kurdish intellectual	Mehdi Zana	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kurdish intellectual	scientist	1	1	5	5	NULL	NULL	NULL	568	259	0.00035211267605633805
+kurdish islamist party	Islamic Movement of Kurdistan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurdish islamist party	Kurdistan Islamic Union	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kurdish Islamists	Osman Aziz	2	2	2	1	NULL	NULL	NULL	2	1	1
+kurdish leader	Jalal Talabani	3	3	6	4	1.000000000000	NULL	NULL	10	6	0.15
+kurdish leader	Talabani	1	1	6	4	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+kurdish leader	Kurdish president	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kurdish leader	Massoud Barzani	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kurdish militia	Peshmerga	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+kurdish neighborhood	Shorja	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurdish neighborhood	Rahim Awa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurdish official	Kurdistan Region's Head of the Investment Board	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish party	Islamic party	2	2	7	5	1.000000000000	NULL	NULL	4	3	0.14285714285714285
+kurdish party	conservative party	2	2	7	5	1.000000000000	NULL	NULL	17	12	0.03361344537815126
+kurdish party	workers Parties	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+kurdish party	PUK	1	1	7	5	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+kurdish party	workers party	1	1	7	5	1.000000000000	NULL	NULL	20	11	0.007142857142857143
+kurdish politician	Democracy Party	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+kurdish politician	co-leader of the pro-Kurdish Peace	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kurdish politician	Jalal Talabani	1	1	5	5	1.000000000000	NULL	NULL	10	6	0.02
+kurdish politician	Hamit Geylani	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kurdish politician	Barham Salih	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kurdish publishing house	Avesta	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+kurdish region	Suleimani	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish religion	Alawi	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+kurdish religious figure	Sheik Said Ali of Piran	3	3	6	3	NULL	NULL	NULL	3	1	0.5
+kurdish religious figure	Sheik Sherif of Palu	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kurdish religious figure	Skeik Sherif of Palu	1	1	6	3	NULL	NULL	NULL	1	1	0.16666666666666666
+kurdish revolutionary leader	Ibrahim Heski Telli	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kurdish revolutionary leader	chief of military operations Ihsan Nuri Pasha	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kurdish singer	Hesen Zirek	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kurdish singer	Muhammad Mamle	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kurdish singer	Ali Merdan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kurdish special social characteristic	hard work	1	1	1	1	NULL	NULL	NULL	564	200	0.0017730496453900709
+kurdish supporter	KRG Minister	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish town	Erbil in northern Iraq	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kurdish vassal	Tawfiq Wahbi	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish woman	Miriam Haim from the community of Zacharia	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish word	shat	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdish-oriented party	People's Labor party	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kurdish-speaking governorate	Erbil	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+Kurdishrightsorg anizations	East Kurdistan Cultural Research Institute	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurdistan party	Kurdistan Democratic Socialist Party	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kurdistan party	Kurdistani Islamic Union	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kurdistan party	Kurdistan Communist Party	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kurdistan party	Kurdistan Democratic National Party	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kurdistan s original faith	Mithraism	1	1	2	2	1.000000000000	NULL	NULL	22	12	0.022727272727272728
+kurdistan s original faith	Yaresan	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+kurdistan's original faith	Yaresan	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+kurdistan's original faith	Mithraism	1	1	2	2	1.000000000000	NULL	NULL	22	12	0.022727272727272728
+kurdo-syncretic religious community	Yezidi	1	1	1	1	NULL	NULL	NULL	1	5	1
+Kurdologists	Soane	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+Kurdologists	late Kurdish scholar Taufiq Wahbi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kurds	President Jalal Talabani	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Kurds	political security agent Sedo Rashed Ali	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurian stress concept	multitenancy	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+kurosawa film	Sanshiro Sugata	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurosawa movie	Sanjuro	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+kurosawa movie	Yojimbo	1	1	2	2	1.000000000000	NULL	NULL	17	12	0.029411764705882353
+kurosawa's classic samurai movie	Yojimbo	1	1	2	2	1.000000000000	NULL	NULL	17	12	0.029411764705882353
+kurosawa's classic samurai movie	Seven Samurai	1	1	2	2	1.000000000000	NULL	NULL	37	20	0.013513513513513514
+kurosawa's contemporary film	Ikiru	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+kurosawa's film	Seven Samurai	1	1	1	1	1.000000000000	NULL	NULL	37	20	0.02702702702702703
+kurosawa's lone-samurai film	Yojimbo	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+kurosawa's marquee title	Seven Samurai	1	1	1	1	1.000000000000	NULL	NULL	37	20	0.02702702702702703
+kurt kreith's inservice educational project	Starting with Math	1	1	1	1	NULL	NULL	NULL	1	1	1
+kurt vonnegut's book	Cat's Cradle	1	1	1	1	1.000000000000	NULL	NULL	38	13	0.02631578947368421
+Kurta online	name	1	1	1	1	NULL	NULL	NULL	13911	2278	0.00007188555819135935
+kurtas	ladies kurtas	2	1	2	1	NULL	NULL	NULL	4	2	0.5
+kuru-vruddhas	Drona	1	1	3	3	1.000000000000	NULL	NULL	12	9	0.027777777777777776
+kuru-vruddhas	Bhishma	1	1	3	3	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+kuru-vruddhas	Kripa	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kuruba community leader	Siddaramaiah	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kuruba community leader	opposition leader in legislative assembly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurucesme club	Reina	1	1	1	1	1.000000000000	NULL	NULL	24	16	0.041666666666666664
+kurume hybrid type	Coral Bells	4	2	4	1	NULL	NULL	NULL	6	10	0.6666666666666666
+kurume hybrid variety	Christmas Cheer	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kurume hybrid variety	Coral Bells	1	1	2	2	NULL	NULL	NULL	6	10	0.08333333333333333
+kurzweil's extensive free material	built-in Camtasia tutorial	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kurzweil's extensive free material	network installation guide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kusamori's ideal cartoonist	James Thurber	2	2	2	1	1.000000000000	NULL	NULL	13	12	0.15384615384615385
+kush based strain	OG Kush	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kushan ruler	great Kanishka	1	1	1	1	NULL	NULL	NULL	1	1	1
+kushetic group	Beja in Sudan	1	1	1	1	NULL	NULL	NULL	1	1	1
+kushitic and chadic language	Amharic	1	1	1	1	1.000000000000	NULL	NULL	34	12	0.029411764705882353
+kushiyaki dish	Lamb Chops	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+kushiyaki dish	Atsuage Tofu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kusp-produced program	GeekSpeak	1	1	1	1	NULL	NULL	NULL	1	1	1
+kustom touch	door	1	1	2	2	0.500000000000	NULL	NULL	4440	1565	0.00011261261261261261
+kustom touch	shaved Hood	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+kustomnet scale easily administrative function	KustomNet user name	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kustomnet scale easily administrative function	adding vehicle	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kustomnet scale easily administrative function	officer name	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kuta area	Poppies Lane	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuta's world-renowned club	Sky Garden	2	1	4	2	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+kuta's world-renowned club	Bounty	2	1	4	2	1.000000000000	NULL	NULL	52	41	0.019230769230769232
+kutchi industrial house	Sandhi Industries Limited	1	1	1	1	NULL	NULL	NULL	1	1	1
+kutchin subgroup	Tatsakutchin of Rampart	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kutchin subgroup	Tennuthkutchin of Birch Creek	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kutichakas	Bharadvaja	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+Kutichakas	Gautama	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+kutichakas hut-dwelling ascetic	sages of yore like Gautama	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kutichakas hut-dwelling ascetic	Bharadvaja	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kutiyattam institution	Margi	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+kutlwanos player	Malekgoa Nyambe	1	1	1	1	NULL	NULL	NULL	1	1	1
+kutpitia's cosmology endowment	health	1	1	1	1	NULL	NULL	NULL	12226	3162	0.00008179290037624735
+kutztown player	linebacker Joel Irwin	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuvempu's book	Kanuru Subbamma Heggadathi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuvempu's book	Sri Ramayana Darshanam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuwait city attraction	Al Sha'b Theme Park	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kuwait city attraction	Musical Fountain	1	1	2	2	1.000000000000	NULL	NULL	16	10	0.03125
+kuwait financial crime	money laundering	1	1	1	1	NULL	NULL	NULL	367	135	0.0027247956403269754
+kuwait organization	New Mowasat Hospital	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuwait traditional sado product	diwaniya	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+kuwait traditional sado product	cushion	1	1	3	3	NULL	NULL	NULL	810	348	0.00041152263374485596
+kuwait traditional sado product	pillow	1	1	3	3	NULL	NULL	NULL	2414	760	0.00013808340237503452
+kuwait's neighbor	Qatar	1	1	1	1	NULL	NULL	NULL	990	270	0.00101010101010101
+kuwait's tourist attraction	Kuwait Towers	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kuwait's tourist attraction	Liberation Tower	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuwaiti actor	Ali Al-Mufidi	2	2	2	1	NULL	NULL	NULL	2	1	1
+kuwaiti bank	Commercial Bank of Kuwait	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kuwaiti bank	National Bank of Kuwait	1	1	2	2	1.000000000000	NULL	NULL	16	11	0.03125
+kuwaiti banking institution	Boubyan Bank	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kuwaiti banking institution	NBK	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+kuwaiti banking institution	Kuwait Finance House	1	1	3	3	1.000000000000	NULL	NULL	25	15	0.013333333333333332
+Kuwaiti bloggers	Mohammad Al Yousuf	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuwaiti company	Agility Logistics	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kuwaiti company	Action Group Holdings	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuwaiti firm	Gulf European Ship Supply Company	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuwaiti lender	National Bank of Kuwait	3	3	3	1	1.000000000000	NULL	NULL	16	11	0.1875
+kuwaiti non-government organization	Kuwait Women's Cultural	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+kuwaiti non-government organization	Social Society	2	2	4	2	NULL	NULL	NULL	5	3	0.2
+kuwaiti organization	Social Society	2	2	4	2	NULL	NULL	NULL	5	3	0.2
+kuwaiti organization	Kuwait Women's Cultural	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+kuwaiti singer	Sulaiman al Gassar	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuwaiti singer	Khalid al Mulla	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuwaiti singer	Yousef al Mutrif	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuwaiti singer	Salman al Amari	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kuwaiti strategist	former Ambassador to the United States Shaykh Saud al Nasser Al Sabah	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuwaiti sweet	saab Al Ghafsha	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuwaiti youth group	Fifth Fence	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuya daniel's program	Good Morning Kuya	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kuyperians	Al Wolters Neal Plantinga	1	1	1	1	NULL	NULL	NULL	1	1	1
+kuzu product	Kuzuyu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kuzu product	Kuzu sweet	1	1	2	2	NULL	NULL	NULL	1	1	0.5

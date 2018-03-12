@@ -1,0 +1,88 @@
+Mh	La ions on Sr site	1	1	1	1	NULL	NULL	NULL	1	1	1
+MH game	MHFU	1	1	1	1	NULL	NULL	NULL	1	1	1
+MH item	sequence name	1	1	1	1	NULL	NULL	NULL	2	3	0.5
+MH specific facility	dumping point	1	1	1	1	NULL	NULL	NULL	1	1	1
+MH technique	tabu search	1	1	1	1	NULL	NULL	NULL	275	133	0.0036363636363636364
+MH-Ni battery	AA 9V battery	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHA national initiative	Methodist Homes Sunday	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHA staff	hospital discharge staff	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHA vendor	HK Systems	2	1	4	3	NULL	NULL	NULL	4	3	0.25
+MHA vendor	FKI Logistex	1	1	4	3	NULL	NULL	NULL	3	2	0.08333333333333333
+MHA vendor	FKI Logistics	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+mHags	HY	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+mHags	histocompatibility antigen HA-1	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mharskoyi orthodox monastery known figure	Metropolitan Peter Graves	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHAs	Minister Clyde Jackman	1	1	1	1	NULL	NULL	NULL	1	1	1
+mhas different pro-enterprise policy	low tax rate	1	1	3	3	1.000000000000	NULL	NULL	10	7	0.03333333333333333
+mhas different pro-enterprise policy	firproperty protection	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+mhas different pro-enterprise policy	uncomplicated business regulation	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+MHC allele	HLA-DR1	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MHC allele	HLA-DR4	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+MHC class-i-like gene product	retinoic acid early transcripts UL16-binding protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHC haplotypes	HLA B8	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHC-I evasion protein	herpes simplex virus ICP47	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mhc-ievasion protein	herpes simplex virus ICP47	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MHC-II molecule	HLA-DR	1	1	1	1	1.000000000000	NULL	NULL	27	19	0.037037037037037035
+mhc-like structure	CD1	1	1	2	2	1.000000000000	NULL	NULL	11	11	0.045454545454545456
+mhc-like structure	neonatalFc receptor	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mhc-matched control cell	autologous EBV-transformed B cell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mhc-matched control cell	irradiated phytohemagglutinin-stimulated T cell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mhc-restricted response	proliferation in MLR	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHD activity	fishbones	4	2	5	2	NULL	NULL	NULL	7	5	0.4571428571428572
+MHD activity	edge localized mode s	1	1	5	2	NULL	NULL	NULL	1	1	0.2
+MHD application	pump	1	1	2	2	NULL	NULL	NULL	3215	1354	0.00015552099533437013
+MHD application	generator	1	1	2	2	NULL	NULL	NULL	1597	672	0.00031308703819661864
+MHD issue	flow across field gradient	3	1	4	2	NULL	NULL	NULL	3	1	0.75
+MHD issue	spatial variation	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+mhdt lab DAC	Paradisea	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHE item	crane	1	1	1	1	NULL	NULL	NULL	1152	493	0.0008680555555555555
+mhealth device	wearable heart monitor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mhealth device	connected scale	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mhealth program	lifestyle changing reminder	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+mheg-specific component	MHEG Client	1	1	1	1	NULL	NULL	NULL	1	1	1
+mher feature	balcony	1	1	2	2	NULL	NULL	NULL	662	252	0.0007552870090634441
+mher feature	step	1	1	2	2	NULL	NULL	NULL	813	382	0.0006150061500615006
+MHG destination	Delano on South Beach	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MHG destination	Hudson in Manhattan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MHG work	Nibelungenlied	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+MHL compatible cell phone	HTC sensation	1	1	1	1	1.000000000000	NULL	NULL	31	19	0.03225806451612903
+MHlamp	single-ened	1	1	1	1	NULL	NULL	NULL	1	1	1
+mhlt's habitat restoration project	upcoming Fernandez Ranch creek restoration	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHNGOs	ACMI	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+MHP television device	MHP set-top boxes	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+MHP television device	integrated television set	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+MHRD project	Modernization of Electrical Engineering Laboratories	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHS student	sophomore Tom Collis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MHS student	junior class president Kerri Shuman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mhs-defined code	extender code	2	2	2	1	NULL	NULL	NULL	2	1	1
+MHSA case	prescription drug intoxication	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHSPY program	Wraparound Milwaukee	3	1	5	2	NULL	NULL	NULL	8	5	0.22499999999999998
+MHSPY program	Dawn Project in Indiana	2	1	5	2	NULL	NULL	NULL	2	1	0.4
+MHUSD school board member	Board Trustee President Bart Fisher et al	1	1	1	1	NULL	NULL	NULL	1	1	1
+mhv-infected biological material	transplantable tumor	1	1	2	2	1.000000000000	NULL	NULL	4	2	0.125
+mhv-infected biological material	hybridomas	1	1	2	2	1.000000000000	NULL	NULL	21	13	0.023809523809523808
+mhv-promotional item	pencil	1	1	1	1	NULL	NULL	NULL	4095	977	0.0002442002442002442
+mhv68-encoded protein	M2	1	1	1	1	NULL	NULL	NULL	84	61	0.011904761904761904
+MHVs	JHM 2.2-V-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHW grantee	Council of Churches of the City of New York	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MHW grantee	Church World Services	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+mhz application	Radio Microphone Receiver	2	1	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+mhz application	audio	1	1	3	2	NULL	NULL	NULL	2864	1159	0.00011638733705772812
+mhz band application	Personal Communication Services	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+mhz device	access point	1	1	6	6	NULL	NULL	NULL	253	107	0.0006587615283267456
+mhz device	car	1	1	6	6	NULL	NULL	NULL	7866	2381	0.00002118823629121112
+mhz device	PC router	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+mhz device	keyboard	1	1	6	6	NULL	NULL	NULL	4202	1048	0.00003966365222909725
+mhz device	mice	1	1	6	6	NULL	NULL	NULL	290	110	0.0005747126436781609
+mhz device	wireless phone	1	1	6	6	NULL	NULL	NULL	137	80	0.0012165450121654502
+MHz frequency	available from a frequency standard	1	1	1	1	NULL	NULL	NULL	1	1	1
+MHz FSB CPU	E5200	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+mhz radiosonde	VIZ 1207	1	1	1	1	NULL	NULL	NULL	1	1	1
+mhz RFID technology card	CAC	1	1	5	5	0.666666666666	NULL	NULL	24	16	0.008333333333333333
+mhz RFID technology card	FRAC card	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+mhz RFID technology card	MIFARE	1	1	5	5	0.666666666666	NULL	NULL	9	9	0.022222222222222223
+mhz RFID technology card	iclass	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+mhz RFID technology card	TWIC	1	1	5	5	0.666666666666	NULL	NULL	13	10	0.015384615384615385
+mhz sonal protection measure	protective clothing	1	1	1	1	NULL	NULL	NULL	184	90	0.005434782608695652
+mhz system	Sarpy County's system	2	2	2	1	NULL	NULL	NULL	2	1	1
+MHz user	Highway Patrol vehicle	1	1	1	1	NULL	NULL	NULL	1	1	1

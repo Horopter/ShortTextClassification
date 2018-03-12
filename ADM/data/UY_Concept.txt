@@ -1,0 +1,15 @@
+uy b randed jean	Frankie B	1	1	2	2	1.000000000000	NULL	NULL	18	15	0.027777777777777776
+uy b randed jean	Skinny	1	1	2	2	1.000000000000	NULL	NULL	16	11	0.03125
+UY core	UY16 core	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UY core	UY12 core	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uy eco friendly supply	refillable pen	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+uy eco friendly supply	paper	1	1	2	2	0.500000000000	NULL	NULL	10357	2799	0.000048276527952109686
+uy feel good food	fruit	1	1	2	2	0.500000000000	NULL	NULL	15318	3376	0.00003264133698916308
+uy feel good food	low-fat ice cream	1	1	2	2	0.500000000000	NULL	NULL	12	10	0.041666666666666664
+uyghur exile group	World Uyghur Congress	5	5	5	1	NULL	NULL	NULL	7	2	0.7142857142857143
+uyghur historian	Muhemmed Imin Bughra	1	1	1	1	NULL	NULL	NULL	1	1	1
+uyghur neighborhood	Horse Race square residential areas in Urumqi	1	1	1	1	NULL	NULL	NULL	1	1	1
+uyghur organization	Ittipak Society	1	1	1	1	NULL	NULL	NULL	1	1	1
+uyghur tradition	important gathering of young man	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uyghur tradition	meshrep	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uygur community	Sanyuanli in the outskirts of Guangzhou	1	1	1	1	NULL	NULL	NULL	1	1	1

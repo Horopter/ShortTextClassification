@@ -1,0 +1,22 @@
+QE technique	synonymy	1	1	1	1	NULL	NULL	NULL	54	33	0.018518518518518517
+qe-sensitive commodity	gold	1	1	2	2	NULL	NULL	NULL	10877	2626	0.000045968557506665444
+qe-sensitive commodity	crude oil	1	1	2	2	NULL	NULL	NULL	819	302	0.0006105006105006105
+QE65000 optical bench option	entrance aperture size	2	2	6	4	NULL	NULL	NULL	7	5	0.09523809523809523
+QE65000 optical bench option	detector accessory	2	2	6	4	NULL	NULL	NULL	6	4	0.1111111111111111
+QE65000 optical bench option	grating	1	1	6	4	NULL	NULL	NULL	196	117	0.0008503401360544217
+QE65000 optical bench option	filter	1	1	6	4	NULL	NULL	NULL	3205	1326	0.00005200208008320333
+QED effect	vacuum polarization	1	1	1	1	NULL	NULL	NULL	1	1	1
+qed-like effect	zitterbewegung	1	1	1	1	NULL	NULL	NULL	1	1	1
+qedit function	Smart string search	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qedit function	multi-edit Undo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QEEG measure	relative power	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+QEEG measure	absolute power	1	1	2	2	1.000000000000	NULL	NULL	15	12	0.03333333333333333
+QEEG parameter	frequency	2	1	5	4	NULL	NULL	NULL	2547	871	0.00031409501374165687
+QEEG parameter	morphology	1	1	5	4	NULL	NULL	NULL	423	217	0.0004728132387706856
+QEEG parameter	amplitude	1	1	5	4	NULL	NULL	NULL	523	243	0.0003824091778202677
+QEEG parameter	coherence	1	1	5	4	NULL	NULL	NULL	178	95	0.0011235955056179776
+qeeg-based indicator	Ia	1	1	1	1	0.666666666666	NULL	NULL	14	11	0.07142857142857142
+qeegpatternof frontal theta re-spondsbetterto stimulant	methylphenidate	1	1	1	1	NULL	NULL	NULL	622	101	0.001607717041800643
+qEEGproponents	Hughesand John	1	1	1	1	NULL	NULL	NULL	1	1	1
+QEMU	Stardock's WindowBlinds	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Qest shutoff valve	used for a lavatory faucet connection	1	1	1	1	NULL	NULL	NULL	1	1	1

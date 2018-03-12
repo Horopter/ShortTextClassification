@@ -1,0 +1,91 @@
+zu's german market competitor	NSU	1	1	2	2	1.000000000000	NULL	NULL	17	14	0.029411764705882353
+zu's german market competitor	Zuendapp	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zubiri's key philosophical concept	essence	1	1	1	1	NULL	NULL	NULL	150	67	0.006666666666666667
+zubrytsky's effort many galicians	Yakiv Holovatsky	1	1	1	1	NULL	NULL	NULL	1	1	1
+zuccarini's domain name	botthebiulder .com	1	1	1	1	NULL	NULL	NULL	1	1	1
+zucinni online service	Zucinni Online Store	1	1	1	1	NULL	NULL	NULL	1	1	1
+zuhauf renaissance building	palace	1	1	2	2	NULL	NULL	NULL	298	180	0.0016778523489932886
+zuhauf renaissance building	church	1	1	2	2	NULL	NULL	NULL	6841	2094	0.0000730887297178775
+ZUI toolkit	Piccolo	1	1	1	1	NULL	NULL	NULL	98	40	0.01020408163265306
+zuihitsu	canonized in Japan from the Meiji period	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zuihitsu	Matsudaira Sadanobu's Kagetsu zoshi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zuiko digital lens	35mm Macro lens	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zuke's product	Mini Naturals	1	1	1	1	NULL	NULL	NULL	1	1	1
+zulu beadwork item	brooch	1	1	5	5	NULL	NULL	NULL	250	120	0.0008
+zulu beadwork item	lighter	1	1	5	5	NULL	NULL	NULL	472	190	0.0004237288135593221
+zulu beadwork item	keyrings	1	1	5	5	NULL	NULL	NULL	150	80	0.0013333333333333335
+zulu beadwork item	pin	1	1	5	5	NULL	NULL	NULL	2022	726	0.00009891196834817014
+zulu beadwork item	beaded mug	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zulu ceremony	Reed Dance	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zulu character	Governor	1	1	5	6	0.500000000000	NULL	NULL	364	201	0.0005494505494505495
+zulu character	Witch Doctor	1	1	5	6	0.500000000000	NULL	NULL	19	15	0.010526315789473684
+zulu character	Mayor	1	1	5	6	0.500000000000	NULL	NULL	572	244	0.00034965034965034965
+zulu character	Providence Prince	1	1	5	6	0.500000000000	NULL	NULL	1	1	0.2
+zulu character	Mr. Big Stuff	1	1	5	6	0.500000000000	NULL	NULL	1	1	0.2
+zulu craft	pottery	1	1	1	1	NULL	NULL	NULL	1931	710	0.0005178663904712584
+zulu film film	Khartoum	1	1	2	2	0.500000000000	NULL	NULL	26	15	0.019230769230769232
+zulu film film	Zulu	1	1	2	2	0.500000000000	NULL	NULL	114	52	0.0043859649122807015
+zulu king	Dingiswayo	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+zulu leader	Dingiswayo	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+zulu nation issue	membership	1	1	1	1	NULL	NULL	NULL	466	200	0.002145922746781116
+zululand area	Richards Bay	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+zululand attraction	golf	1	1	3	3	NULL	NULL	NULL	6842	1226	0.000048718698236383124
+zululand attraction	Zulu cultural tour	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zululand attraction	battlefield tour	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+zululand town	Vryheid	2	2	3	2	NULL	NULL	NULL	6	4	0.2222222222222222
+zululand town	Phongola	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+Zulus	Chief Zibebu	1	1	1	1	NULL	NULL	NULL	1	1	1
+zulus and foreign-looking person	American Indians	1	1	1	1	NULL	NULL	NULL	150	59	0.006666666666666667
+zuma backer	Mbeki critic Professor Sipho Seepe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zuma backer	newspaper columnist Joe Qwelane	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zuma loyalist	SACP general secretary Blade Nzimande	1	1	1	1	NULL	NULL	NULL	1	1	1
+zuma supporter	union federation Cosatu	1	1	1	1	NULL	NULL	NULL	1	1	1
+zuma's backer	union	2	1	2	1	NULL	NULL	NULL	1116	496	0.0017921146953405018
+zuma's cabinet supporter	deputy safety & security minister Susan Shabangu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zuma's cabinet supporter	housing minister Lindiwe Sisulu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zumba accessory	sleeve	1	1	2	2	NULL	NULL	NULL	339	183	0.0014749262536873156
+zumba accessory	wrist cuff	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+zumba dance wear s	zumba cargo pant	1	1	1	1	NULL	NULL	NULL	1	1	1
+zumba option	Aqua Zumba	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+zumba product	music	1	1	1	1	NULL	NULL	NULL	14153	3857	0.00007065639793683318
+zumba shoe	Nike Musique	1	1	1	1	NULL	NULL	NULL	1	1	1
+zumbawear & ZUMBA accessory	CDs	1	1	2	2	NULL	NULL	NULL	2459	934	0.00020333468889792598
+zumbawear & ZUMBA accessory	water bottle	1	1	2	2	NULL	NULL	NULL	720	294	0.0006944444444444445
+zumbox allowsinteractive format	Flash	1	1	3	3	NULL	NULL	NULL	2364	906	0.00014100394811054708
+zumbox allowsinteractive format	HTML	1	1	3	3	NULL	NULL	NULL	1717	611	0.00019413706076490002
+zumbox allowsinteractive format	audio	1	1	3	3	NULL	NULL	NULL	2864	1159	0.00011638733705772812
+zumtobel product	LEDOS recessed luminaires	1	1	1	1	NULL	NULL	NULL	1	1	1
+zuna culture	Tosi	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zune accessory	Car Pack Transmitter	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zune accessory	Dock Pack	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zune accessory	Leather Case	1	1	3	3	1.000000000000	NULL	NULL	60	38	0.005555555555555555
+Zune Device's current activity	game	1	1	4	4	0.250000000000	NULL	NULL	6673	2313	0.00003746440881162895
+Zune Device's current activity	currently playing song	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+Zune Device's current activity	radio station	1	1	4	4	0.250000000000	NULL	NULL	213	140	0.0011737089201877935
+Zune Device's current activity	video	1	1	4	4	0.250000000000	NULL	NULL	10816	3555	0.000023113905325443786
+zune feature	Podcasts	1	1	2	2	NULL	NULL	NULL	936	411	0.0005341880341880342
+zune feature	Smart DJ	1	1	2	2	NULL	NULL	NULL	5	2	0.1
+zune friendly file	mpeg	1	1	1	1	NULL	NULL	NULL	1236	248	0.0008090614886731392
+zune function	HD radio tuner	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+zune medium service	Zune Pass subscription music platform	1	1	1	1	NULL	NULL	NULL	1	1	1
+zune service	Music streaming services on Windows Phone 7	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zune service	Zune Marketplace for Windows Phone 7	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zune service	Zune.net	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zune's feature	online store	1	1	1	1	NULL	NULL	NULL	145	83	0.006896551724137931
+zuni dish	blood sausage	1	1	1	1	1.000000000000	NULL	NULL	24	19	0.041666666666666664
+zuni native crop	chile	1	1	3	3	NULL	NULL	NULL	3557	513	0.00009371192952862899
+zuni native crop	corn	1	1	3	3	NULL	NULL	NULL	11029	2454	0.00003022335056064315
+zuni native crop	bean	1	1	3	3	NULL	NULL	NULL	8901	1912	0.000037448975770512674
+zuo food dish	pickles appetizer in addition	1	1	1	1	NULL	NULL	NULL	1	1	1
+zurich author	Albrecht Haller	2	2	2	1	NULL	NULL	NULL	2	1	1
+zurich sophisticated traffic engineering technique	channelization	1	1	1	1	NULL	NULL	NULL	120	70	0.008333333333333333
+zurich teacher	James Hillman	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+zurich's main european rival	Allianz	2	2	2	1	0.500000000000	NULL	NULL	211	108	0.009478672985781991
+zurich-american customer	electronics manufacturer	1	1	2	2	0.500000000000	NULL	NULL	13	11	0.038461538461538464
+zurich-american customer	software company	1	1	2	2	0.500000000000	NULL	NULL	60	38	0.008333333333333333
+zurich-based staff gain benefit	discounted ticket	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zusammenfassung many cardiovascular implant	valve	1	1	1	1	NULL	NULL	NULL	2401	900	0.00041649312786339027
+zutter product	chipboard	1	1	3	3	NULL	NULL	NULL	160	83	0.0020833333333333333
+zutter product	acrylic	1	1	3	3	NULL	NULL	NULL	2269	706	0.00014690759512266783
+zutter product	wood	1	1	3	3	NULL	NULL	NULL	13775	3193	0.000024198427102238353
+zuxin small hole	cone Cizhe	1	1	1	1	NULL	NULL	NULL	1	1	1

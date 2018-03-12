@@ -1,0 +1,167 @@
+KL	Setapak Resource spring & Selayang hotspring	1	1	1	1	NULL	NULL	NULL	1	1	1
+KL attraction	KL Bird Park	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+KL attraction	Petronas Twin Towers	1	1	2	2	1.000000000000	NULL	NULL	42	30	0.011904761904761904
+KL based band	Ray Cheong Trio	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KL based band	Rhapsody	1	1	3	3	NULL	NULL	NULL	367	126	0.0009082652134423251
+KL based band	Tokyo Blue	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+KL college	Kasturi	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+KL monorail station	Imbi	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+KL runner	Tey	1	1	1	1	0.500000000000	NULL	NULL	3	3	0.3333333333333333
+kl's best singer	Jerome Kugan	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kl's excellent museum	Islamic Arts Museum	2	1	4	2	NULL	NULL	NULL	5	4	0.2
+kl's excellent museum	National Museum	2	1	4	2	NULL	NULL	NULL	208	82	0.004807692307692308
+kl's pioneer mall	Wisma Central in Jalan Ampang	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kl's pioneer mall	Wisma Campbell in Jalan Dang Wangi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KLA area	Drama	1	1	1	1	NULL	NULL	NULL	3064	903	0.00032637075718015666
+KLA guerrilla leader	Hashim Thaqi for accepting a peace agreement being negotiated in Rambouillet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KLA guerrilla leader	France	1	1	2	2	NULL	NULL	NULL	18997	2318	0.00002631994525451387
+kla-tencor offer solution	software	1	1	1	1	NULL	NULL	NULL	3405	1210	0.0002936857562408223
+kla-tencor wafer inspection system	Tencor 6200	2	2	2	1	NULL	NULL	NULL	2	1	1
+Klaamas	found in age	1	1	1	1	NULL	NULL	NULL	1	1	1
+klaaren identify topic	institutional complaint mechanism	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+klaaren identify topic	provision for advisory committee	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+klaaren identify topic	review of administrative action by the President's Office	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+klaaren identify topic	review of administrative regulations by parliamentary committee	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+klamath river tributary	Salmon	1	1	2	2	0.500000000000	NULL	NULL	9653	1413	0.00005179736869367036
+klamath river tributary	Shasta	1	1	2	2	0.500000000000	NULL	NULL	32	24	0.015625
+Klamath River Valley stones	Californite	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+Klamath River Valley stones	Happy Camp Jade	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+Klamath River Valley stones	slab	1	1	6	6	0.666666666666	NULL	NULL	477	237	0.00034940600978336826
+Klamath River Valley stones	Jade rough	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+Klamath River Valley stones	Idocrase	1	1	6	6	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+Klamath River Valley stones	Vesuvianite	1	1	6	6	0.666666666666	NULL	NULL	8	6	0.020833333333333332
+klan leader	Thomas Robb	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+klan leader	Bill Wilkerson	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+klan leader	David Duke	1	1	3	3	1.000000000000	NULL	NULL	21	17	0.015873015873015872
+klan member	David Duke	1	1	3	3	1.000000000000	NULL	NULL	21	17	0.015873015873015872
+klan member	Robert Byrd	1	1	3	3	1.000000000000	NULL	NULL	19	12	0.017543859649122806
+klan member	republican klan member	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+klan name	Grand Dragon	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+klan title	Exalted Cyclops	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+klan title	Klabee	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+klan-style group	Covenant	1	0	2	2	NULL	NULL	NULL	193	104	0.0025906735751295338
+klan-style group	Sword	1	0	2	2	NULL	NULL	NULL	1763	485	0.0002836074872376631
+klang valley area	Kepong	1	1	9	9	0.857142857142	NULL	NULL	10	8	0.01111111111111111
+klang valley area	Klang	1	1	9	9	0.857142857142	NULL	NULL	20	10	0.005555555555555555
+klang valley area	Kajang	1	1	9	9	0.857142857142	NULL	NULL	6	6	0.018518518518518517
+klang valley area	Subang	1	1	9	9	0.857142857142	NULL	NULL	12	10	0.009259259259259259
+klang valley area	Ampang	1	1	9	9	0.857142857142	NULL	NULL	5	4	0.02222222222222222
+klang valley area	Shah Alam	1	1	9	9	0.857142857142	NULL	NULL	12	9	0.009259259259259259
+klang valley area	Cheras	1	1	9	9	0.857142857142	NULL	NULL	15	5	0.007407407407407407
+klang valley area	Kuala Lumpur	1	1	9	9	0.857142857142	NULL	NULL	260	88	0.00042735042735042735
+klang valley area	Seri Kembangan	1	1	9	9	0.857142857142	NULL	NULL	3	3	0.037037037037037035
+klang valley fringe	Seremban	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+klang valley hot spot	Solaris Dutamas	4	3	4	1	1.000000000000	NULL	NULL	7	4	0.5714285714285714
+klang valley's urban centre	Subang	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+klang valley's urban centre	S. Alam	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+klansman	Senator Robert Byrd	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+KlarAqua's differentiators	relationship with Monterrey	1	1	1	1	NULL	NULL	NULL	1	1	1
+KLAs	SOSE	1	1	1	1	0.285714285714	NULL	NULL	7	6	0.14285714285714285
+klassno different cappuccino flavor	Traditional	1	1	6	6	0.166666666666	NULL	NULL	390	154	0.00042735042735042735
+klassno different cappuccino flavor	Latte	1	1	6	6	0.166666666666	NULL	NULL	217	126	0.0007680491551459293
+klassno different cappuccino flavor	Gold	1	1	6	6	0.166666666666	NULL	NULL	10877	2626	0.000015322852502221814
+klassno different cappuccino flavor	Mocha	1	1	6	6	0.166666666666	NULL	NULL	209	121	0.0007974481658692185
+klassno different cappuccino flavor	Irish Cream	1	1	6	6	0.166666666666	NULL	NULL	44	34	0.0037878787878787876
+klassno different cappuccino flavor	Classic	1	1	6	6	0.166666666666	NULL	NULL	403	193	0.00041356492969396195
+KLASTECH laser	Senza	1	1	1	1	NULL	NULL	NULL	1	1	1
+Klatchko's work	pictorial documentary of Levittown	1	1	1	1	NULL	NULL	NULL	1	1	1
+klatovy product	white cheese	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+klaus J. kohler phrase	long-term voice quality	1	1	1	1	NULL	NULL	NULL	1	1	1
+klaus schulze album	Timewind	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+klaus schulze album	Moondawn	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KLC1 ligands	c-Jun N-terminal kinase-interacting protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+klebsiella pathogenicity factor	capsule	1	1	1	1	NULL	NULL	NULL	1123	310	0.0008904719501335708
+kleijnen parameter	size of the pilot design	1	1	1	1	NULL	NULL	NULL	1	1	1
+klein bonaire plant	mata piska	2	2	2	1	NULL	NULL	NULL	2	1	1
+klein karoo product	cheese	1	1	2	2	NULL	NULL	NULL	9373	2034	0.0000533447135388883
+klein karoo product	olive	1	1	2	2	NULL	NULL	NULL	3387	1028	0.00014762326542663124
+Kleinandothers	Belshawand Evans	1	1	1	1	NULL	NULL	NULL	1	1	1
+kleine gemeinde leader	Bishop David P. Reimer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kleine gemeinde leader	Blumenort	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kleinert's many product	underarm shield	2	2	2	1	NULL	NULL	NULL	6	3	0.3333333333333333
+Kleinian analyst	Jaques	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kleptocratic predator state	Sese Seko Mobutu's Zaire in Africa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kleptocratic predator state	Robert Mugabe's Zimbabwe	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kleptocratic quasi democracy	Mexico	1	0	1	1	NULL	NULL	NULL	7263	1033	0.00013768415255404102
+kleptomaniac-friendly RPGs	Oblivion	1	1	2	2	NULL	NULL	NULL	311	96	0.001607717041800643
+kleptomaniac-friendly RPGs	Fallout 3	1	1	2	2	NULL	NULL	NULL	213	79	0.002347417840375587
+Kleptoparasites	Herring Gulls	1	1	2	2	0.500000000000	NULL	NULL	1	6	0.5
+Kleptoparasites	Magnificent Frigatebirds	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+kleshas	jealousy	5	4	14	8	0.090909090909	NULL	NULL	1429	458	0.0012496251124662601
+kleshas	avidya	3	3	14	8	0.090909090909	NULL	NULL	4	2	0.1607142857142857
+kleshas	avidya asmita Rag dwesh	1	1	14	8	0.090909090909	NULL	NULL	1	1	0.07142857142857142
+kleshas	passion	1	1	14	8	0.090909090909	NULL	NULL	459	169	0.00015561780267662619
+kleshas	anger	1	1	14	8	0.090909090909	NULL	NULL	7439	1466	0.000009601905017955563
+kleshas	pride	1	1	14	8	0.090909090909	NULL	NULL	977	414	0.00007311010381634741
+kleshas	hatred	1	1	14	8	0.090909090909	NULL	NULL	630	221	0.00011337868480725623
+kleshas	fear	1	1	14	8	0.090909090909	NULL	NULL	5762	1341	0.00001239648931422621
+klezmer festival	Klezfest in St Petersburg	1	1	1	1	NULL	NULL	NULL	1	1	1
+klezmer musician	Deborah Strauss	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+klezmer musician	Joey Weisenberg	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+klezmer musician	Jeff Warschauer	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+klezmer revival band	Klezmorim	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+klezmer revival band	Klezmer Conservatory Band	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+klezmorim	German Goldenshtayn	3	2	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+klezmorim	Leon Schwartz	3	2	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+klezmorim	Dave Tarras	3	2	9	3	NULL	NULL	NULL	6	4	0.16666666666666666
+KLF family member	KLF6	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+klf5-regulated protein	cyclin D1	1	1	1	1	NULL	NULL	NULL	79	43	0.012658227848101266
+klf5-responsive promoter	VCAM-1	1	1	2	2	1.000000000000	NULL	NULL	61	26	0.00819672131147541
+klf5-responsive promoter	inducible nitric oxide synthase	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+kli's ambitious project	translating the Bible	1	1	1	1	NULL	NULL	NULL	1	1	1
+klimt painting	Danae	1	1	1	1	NULL	NULL	NULL	9	4	0.1111111111111111
+KLIMT s new feature	analysis of forest	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+KLIMT s new feature	trace plot	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+klimt's contemporary	Richard Gerstl	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+klimt's contemporary	Egon Schiele	1	1	3	3	1.000000000000	NULL	NULL	29	15	0.011494252873563218
+klimt's contemporary	Oskar Kokoschka	1	1	3	3	1.000000000000	NULL	NULL	11	6	0.0303030303030303
+klinger's print cycle	Dramas	1	1	2	2	NULL	NULL	NULL	3	6	0.16666666666666666
+klinger's print cycle	Life	1	1	2	2	NULL	NULL	NULL	1540	626	0.0003246753246753247
+klingon woman	Grilka	1	1	1	1	NULL	NULL	NULL	1	1	1
+Klingons	Koloth's friends Kang	1	1	1	1	NULL	NULL	NULL	1	1	1
+klippers story	Reinboldt trade	1	1	1	1	NULL	NULL	NULL	1	1	1
+klipsch speaker	chorus	1	1	2	2	0.500000000000	NULL	NULL	842	277	0.0005938242280285036
+klipsch speaker	RF83 floor standing speaker	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+Klipsch tech service	Trey Cannon	1	1	1	1	NULL	NULL	NULL	1	1	1
+klipsch's high end speaker	Klipschorn	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kliptown street	Scott Cunningham	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+klise's previous book used device	letter	1	1	1	1	NULL	NULL	NULL	3814	1255	0.00026219192448872575
+KLJ portfolio phosphate ester	Tributyl phosphate	1	1	2	2	0.500000000000	NULL	NULL	22	18	0.022727272727272728
+KLJ portfolio phosphate ester	Tricresyl phosphate	1	1	2	2	0.500000000000	NULL	NULL	52	35	0.009615384615384616
+KLKs	KLK6	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+klondike organization	China Council for the Promotion of International Trade	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+klondike variant	King Albert	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+klongs	Klong Krabi Noi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+klongs	Klong Krabi Yai	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+klongs	Klong Pakasai	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+klonopin side effect	headache	1	1	2	2	NULL	NULL	NULL	11164	1934	0.00004478681476173414
+klonopin side effect	dizziness	1	1	2	2	NULL	NULL	NULL	4401	846	0.00011361054305839582
+klonopin withdrawal symptom	irritability	1	1	4	4	NULL	NULL	NULL	2260	625	0.00011061946902654867
+klonopin withdrawal symptom	panic attack	1	1	4	4	NULL	NULL	NULL	600	183	0.0004166666666666667
+klonopin withdrawal symptom	anxiety	1	1	4	4	NULL	NULL	NULL	10807	2261	0.00002313315443693902
+klonopin withdrawal symptom	tremor	1	1	4	4	NULL	NULL	NULL	1062	358	0.00023540489642184556
+Klout Perks	gift card	2	2	2	1	NULL	NULL	NULL	758	278	0.002638522427440633
+klove radio station artist	Jon Sherry	1	1	1	1	NULL	NULL	NULL	1	1	1
+KLR issue	weak front brake	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KLR issue	weak fork spring	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KLRU TV program	Cyberchase	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+KLRU TV program	Reading Rainbow	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+KLUCEL	KLUCEL HF	1	1	1	1	NULL	NULL	NULL	1	1	1
+kludges	Nokia 9000 Communicator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kludges	absent such kludges	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kluge's varied holding	golf course	1	1	1	1	NULL	NULL	NULL	1562	690	0.0006402048655569782
+klutzy visit server	Sleet	1	1	3	3	NULL	NULL	NULL	154	67	0.0021645021645021645
+klutzy visit server	Frozen	1	1	3	3	NULL	NULL	NULL	117	56	0.0028490028490028487
+klutzy visit server	Blizzard	1	1	3	3	NULL	NULL	NULL	393	170	0.0008481764206955047
+kluyveromyces host	K. lactis	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kluyveromyces host	K. fragilis	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+klyle's pass	scooting across the bus seat	1	1	1	1	NULL	NULL	NULL	1	1	1
+klystron application	high power	1	1	1	1	1.000000000000	NULL	NULL	42	26	0.023809523809523808
+klystron design parameter	electron beam perveance	1	1	1	1	NULL	NULL	NULL	1	1	1
+klystron parameter	gun voltage	1	1	6	6	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+klystron parameter	output power level	1	1	6	6	0.666666666666	NULL	NULL	6	6	0.027777777777777776
+klystron parameter	rf energy per pulse	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+klystron parameter	efficiency	1	1	6	6	0.666666666666	NULL	NULL	1633	590	0.00010206164523372116
+klystron parameter	length of drift tube	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+klystron parameter	operating voltage	1	1	6	6	0.666666666666	NULL	NULL	28	23	0.005952380952380952
+klystron tube	extended interaction klystron	1	1	1	1	NULL	NULL	NULL	2	2	0.5

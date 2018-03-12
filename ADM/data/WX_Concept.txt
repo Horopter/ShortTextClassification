@@ -1,0 +1,11 @@
+WX phenomenon	ground fog	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+wxpected restaraunts	Red Lobster	1	1	1	1	0.333333333333	NULL	NULL	217	75	0.004608294930875576
+wxprintout function	HasPage	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+wxprintout function	OnPreparePrinting	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+wxprintout function	GetPageInfo	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+wxprintout function	OnBeginDocument	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+wxprintout function	OnPrintPage	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+wxpython GUI builder	wxglade	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+WXW event	Annual May Forum	1	1	1	1	NULL	NULL	NULL	1	1	1
+wxwidgets object	file dialog	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+wxworx feature	shear marker	1	1	1	1	NULL	NULL	NULL	1	1	1

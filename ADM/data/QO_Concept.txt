@@ -1,0 +1,492 @@
+Qo Sparameters	continuity error	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+Qo Sparameters	Program Clock Reference jitter	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+qo13 tool	inquiry	1	1	1	1	NULL	NULL	NULL	182	123	0.005494505494505495
+qoc -metric	reliability	1	1	1	1	NULL	NULL	NULL	3181	964	0.00031436655139893113
+QoE Intelligence key staff	capacity planner	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+QOF diagnosis	COPD	1	1	1	1	NULL	NULL	NULL	578	192	0.0017301038062283738
+QoL construct	defined by the WHOQOL Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+qol criterion	excessive suffering	1	1	1	1	NULL	NULL	NULL	1	1	1
+qol domain	income	3	1	12	6	0.333333333333	NULL	NULL	5309	1316	0.000141269542286683
+qol domain	friend	3	1	12	6	0.333333333333	NULL	NULL	2272	836	0.0003301056338028169
+qol domain	family domain	3	1	12	6	0.333333333333	NULL	NULL	3	1	0.25
+qol domain	functional well-being	1	1	12	6	0.333333333333	NULL	NULL	1	1	0.08333333333333333
+qol domain	physical	1	1	12	6	0.333333333333	NULL	NULL	1690	653	0.00004930966469428008
+qol domain	schooling	1	1	12	6	0.333333333333	NULL	NULL	421	203	0.0001979414093428345
+QOL factor	low crime rate	1	1	4	4	0.250000000000	NULL	NULL	43	23	0.005813953488372093
+QOL factor	pain	1	1	4	4	0.250000000000	NULL	NULL	5315	1495	0.000047036688617121355
+QOL factor	depression	1	1	4	4	0.250000000000	NULL	NULL	15330	3151	0.000016307893020221788
+QOL factor	fatigue	1	1	4	4	0.250000000000	NULL	NULL	7827	1619	0.000031940718027341254
+qol instrument	Schedule for the Evaluation of Individual Quality of Life	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qol instrument	QoL Index for Mental Health	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QOL issue	attendance in schools by outsider	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+QOL issue	day laborers loitering	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+QOL issue	illegal apartment	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+QOL issue	graffito	1	1	5	5	0.500000000000	NULL	NULL	409	193	0.000488997555012225
+QOL issue	working status	1	1	5	5	0.500000000000	NULL	NULL	22	18	0.009090909090909092
+QOL material instrument	SIP	1	1	1	1	NULL	NULL	NULL	365	159	0.0027397260273972603
+QOL measure	social activity	4	3	5	2	0.500000000000	NULL	NULL	200	114	0.016
+qol measure	generic qol measure	1	1	5	2	0.500000000000	NULL	NULL	2	2	0.1
+qol parameter	reduction in pain	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+QOL questionnaire	King's Health questionnaire	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+QOL questionnaire	Juniper Mini Asthma Quality of Life Questionnaire	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QOL questionnaire	SF-36	1	1	3	3	NULL	NULL	NULL	123	70	0.0027100271002710027
+qol related factor	depression	1	1	4	4	NULL	NULL	NULL	15330	3151	0.000016307893020221788
+qol related factor	stress	1	1	4	4	NULL	NULL	NULL	9419	1683	0.000026542095763881516
+qol related factor	impact on daily QoL	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qol related factor	general worry about the condition of the esophagus	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+QOL subscale score	bodily pain	1	1	4	4	0.400000000000	NULL	NULL	18	16	0.013888888888888888
+QOL subscale score	social functioning	1	1	4	4	0.400000000000	NULL	NULL	38	24	0.006578947368421052
+QOL subscale score	general health perception	1	1	4	4	0.400000000000	NULL	NULL	6	4	0.041666666666666664
+QOL subscale score	mental health	1	1	4	4	0.400000000000	NULL	NULL	1255	435	0.00019920318725099602
+QoL subscales	vitality	1	1	1	1	NULL	NULL	NULL	117	50	0.008547008547008548
+qol tool	SF-36	1	1	1	1	NULL	NULL	NULL	123	70	0.008130081300813009
+QoL-dimensions	basic mood	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+qondio member	topical and timely links relevant to SEO	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qondio member	new	1	1	4	4	NULL	NULL	NULL	1979	778	0.00012632642748863063
+qondio member	social medium	1	1	4	4	NULL	NULL	NULL	1113	486	0.00022461814914645105
+qondio member	web development	1	1	4	4	NULL	NULL	NULL	345	152	0.0007246376811594203
+qood name brand	Polk Audio	1	1	1	1	1.000000000000	NULL	NULL	20	12	0.05
+qood quality primer	Valor V-700	1	1	1	1	NULL	NULL	NULL	1	1	1
+qooxdoo's OO feature	nested namespaces	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+qooxdoo's OO feature	inheritance	2	1	4	2	NULL	NULL	NULL	1033	400	0.000968054211035818
+qop technique	precision	1	1	4	4	NULL	NULL	NULL	624	248	0.00040064102564102563
+qop technique	recall	1	1	4	4	NULL	NULL	NULL	259	149	0.0009652509652509653
+qop technique	response time	1	1	4	4	NULL	NULL	NULL	583	291	0.0004288164665523156
+qop technique	traffic overhead	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qorma	Sabzi	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+qorma dish	beef qorma	2	2	2	1	NULL	NULL	NULL	2	1	1
+Qorticosteroidj	betamethasone 1celestone	1	1	1	1	NULL	NULL	NULL	1	1	1
+Qorus DocGen documentation	Training Manual	1	1	1	1	0.500000000000	NULL	NULL	146	71	0.00684931506849315
+qos	atm pvc support qos	1	1	8	8	0.222222222222	NULL	NULL	2	2	0.0625
+qos	required applicationlevel qos	1	1	8	8	0.222222222222	NULL	NULL	1	1	0.125
+qos	required application-level  qos	1	1	8	8	0.222222222222	NULL	NULL	1	1	0.125
+QoS	computability	1	1	8	8	0.222222222222	NULL	NULL	14	10	0.008928571428571428
+QoS	transfer delay	1	1	8	8	0.222222222222	NULL	NULL	4	4	0.03125
+QoS	packet loss ratio	1	1	8	8	0.222222222222	NULL	NULL	15	11	0.008333333333333333
+QoS	network bandwidth	1	1	8	8	0.222222222222	NULL	NULL	117	59	0.0010683760683760685
+qos	network level qos	1	1	8	8	0.222222222222	NULL	NULL	1	1	0.125
+qos -metric	delay	6	6	45	26	0.368421052631	NULL	NULL	1442	646	0.0005547850208044383
+qos -metric	throughput	6	6	45	26	0.368421052631	NULL	NULL	568	252	0.0014084507042253522
+qos -metric	jitter	3	3	45	26	0.368421052631	NULL	NULL	387	211	0.000516795865633075
+qos -metric	bandwidth	2	2	45	26	0.368421052631	NULL	NULL	1137	466	0.00007817844229453728
+qos -metric	cost	2	1	45	26	0.368421052631	NULL	NULL	6746	1419	0.000013176532595447508
+qos -metric	delay variation	2	1	45	26	0.368421052631	NULL	NULL	11	8	0.00808080808080808
+qos -metric	availability	2	2	45	26	0.368421052631	NULL	NULL	1826	585	0.00004867956675185591
+qos -metric	response time	2	2	45	26	0.368421052631	NULL	NULL	583	291	0.0001524680769963789
+qos -metric	loss probability	2	1	45	26	0.368421052631	NULL	NULL	15	8	0.0059259259259259265
+qos -metric	available bandwidth	2	2	45	26	0.368421052631	NULL	NULL	83	51	0.00107095046854083
+qos -metric	handoff delay	1	1	45	26	0.368421052631	NULL	NULL	2	2	0.011111111111111112
+qos -metric	delay jitter	1	1	45	26	0.368421052631	NULL	NULL	14	10	0.0015873015873015873
+qos -metric	delay in multimedia environment	1	1	45	26	0.368421052631	NULL	NULL	1	1	0.022222222222222223
+qos -metric	coverage	1	1	45	26	0.368421052631	NULL	NULL	292	136	0.00007610350076103501
+qos -metric	total packet loss	1	1	45	26	0.368421052631	NULL	NULL	1	1	0.022222222222222223
+qos -metric	traditional qos -metric	1	1	45	26	0.368421052631	NULL	NULL	2	2	0.011111111111111112
+qos -metric	connectivity	1	1	45	26	0.368421052631	NULL	NULL	432	222	0.000051440329218106995
+qos -metric	spatial composition	1	1	45	26	0.368421052631	NULL	NULL	4	4	0.005555555555555556
+qos -metric	time	1	1	45	26	0.368421052631	NULL	NULL	8851	2418	0.000002510701866706838
+qos -metric	132	1	1	45	26	0.368421052631	NULL	NULL	7	6	0.0031746031746031746
+qos -metric	resolution	1	1	45	26	0.368421052631	NULL	NULL	1240	468	0.000017921146953405018
+qos -metric	new call blocking	1	1	45	26	0.368421052631	NULL	NULL	1	1	0.022222222222222223
+qos -metric	package loss rate	1	1	45	26	0.368421052631	NULL	NULL	1	1	0.022222222222222223
+qos -metric	hop count	1	1	45	26	0.368421052631	NULL	NULL	35	22	0.0006349206349206349
+qos -metric	completeness	1	1	45	26	0.368421052631	NULL	NULL	185	92	0.00012012012012012013
+qos -metric	data accuracy	1	1	45	26	0.368421052631	NULL	NULL	19	14	0.0011695906432748538
+qos algorithm	access list	1	1	2	2	0.500000000000	NULL	NULL	17	11	0.029411764705882353
+qos algorithm	compression	1	1	2	2	0.500000000000	NULL	NULL	1079	472	0.0004633920296570899
+qos application	Weighted Random Early Detection	7	7	7	1	1.000000000000	NULL	NULL	24	14	0.2916666666666667
+qos architecture	Integrated Services	2	1	5	4	1.000000000000	NULL	NULL	9	7	0.08888888888888889
+qos architecture	Differentiated Services	2	1	5	4	1.000000000000	NULL	NULL	14	14	0.05714285714285715
+qos architecture	Intserv	1	1	5	4	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+qos aspect	WS-RM	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+qos aspect	WS-Security	1	1	2	2	NULL	NULL	NULL	98	51	0.00510204081632653
+qos assurance mechanism	configuration of non-multiplexed connections between component	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+qos attribute	security	2	2	11	9	NULL	NULL	NULL	8153	2525	0.000044601540983240974
+qos attribute	performance	2	2	11	9	NULL	NULL	NULL	2689	957	0.0001352310761012881
+qos attribute	coordination between partner	1	1	11	9	NULL	NULL	NULL	1	1	0.09090909090909091
+qos attribute	service attribute	1	1	11	9	NULL	NULL	NULL	3	3	0.030303030303030304
+qos attribute	availability	1	1	11	9	NULL	NULL	NULL	1826	585	0.000049785920541670816
+qos attribute	coordination between the involved entity	1	1	11	9	NULL	NULL	NULL	1	1	0.09090909090909091
+qos attribute	response time	1	1	11	9	NULL	NULL	NULL	583	291	0.0001559332605644784
+qos attribute	cost	1	1	11	9	NULL	NULL	NULL	6746	1419	0.000013475999245344042
+qos attribute	reliability	1	1	11	9	NULL	NULL	NULL	3181	964	0.000028578777399902834
+qos capability	IEEE 802.1p priority tagging	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+qos capability	differentiated services code point	3	3	6	2	NULL	NULL	NULL	5	3	0.3
+qos characteristic	codec qos characteristic	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+qos characteristic	multi-queue hardware	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+qos characteristic	node storage capacity	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+qos characteristic	processing capacity	1	1	4	4	1.000000000000	NULL	NULL	23	15	0.010869565217391304
+qos component	QOS Routing	3	2	7	3	NULL	NULL	NULL	6	4	0.21428571428571427
+qos component	QoS sensing	2	2	7	3	NULL	NULL	NULL	2	1	0.2857142857142857
+qos component	QoS processing	2	2	7	3	NULL	NULL	NULL	2	1	0.2857142857142857
+qos concern	performance	1	1	1	1	NULL	NULL	NULL	2689	957	0.0003718854592785422
+QoS configuration	receive-queue bandwidth	2	2	2	1	NULL	NULL	NULL	2	1	1
+qos consideration	bandwidth	1	1	2	2	NULL	NULL	NULL	1137	466	0.00043975373790677223
+qos consideration	ping time	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos constraint	demands on minimum throughput	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+qos constraint	maximum RL delay	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qos constraint	minimum acceptable quality of received signal	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+qos constraint	RL timeout	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qos control function	admission control	1	1	1	1	NULL	NULL	NULL	69	49	0.014492753623188406
+qos control mechanism	admission control	2	2	4	2	0.500000000000	NULL	NULL	69	49	0.014492753623188406
+qos control mechanism	scheduling	2	2	4	2	0.500000000000	NULL	NULL	1696	777	0.0005896226415094339
+qos control solution	Integrated Services	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+qos criterion	reliability	3	2	10	4	0.250000000000	NULL	NULL	3181	964	0.00028292989625903803
+qos criterion	availability	3	2	10	4	0.250000000000	NULL	NULL	1826	585	0.000492880613362541
+qos criterion	execution time	2	2	10	4	0.250000000000	NULL	NULL	74	57	0.005405405405405406
+qos criterion	price	2	2	10	4	0.250000000000	NULL	NULL	4341	1098	0.00009214466712739001
+qos degradation	cell loss	2	1	2	1	1.000000000000	NULL	NULL	14	11	0.14285714285714285
+qos dependent application	teleconferencing	1	1	1	1	NULL	NULL	NULL	391	184	0.0025575447570332483
+qos device	Packeteer	1	1	1	1	1.000000000000	NULL	NULL	22	15	0.045454545454545456
+qos element	throughput	1	1	1	1	NULL	NULL	NULL	568	252	0.0017605633802816902
+qos factor	SNR	1	1	4	4	0.250000000000	NULL	NULL	90	60	0.002777777777777778
+qos factor	delay	1	1	4	4	0.250000000000	NULL	NULL	1442	646	0.00017337031900138697
+qos factor	jitter	1	1	4	4	0.250000000000	NULL	NULL	387	211	0.0006459948320413437
+qos factor	frame error rate	1	1	4	4	0.250000000000	NULL	NULL	8	6	0.03125
+qos feature	IP RTP reserve	2	2	16	15	0.777777777777	NULL	NULL	2	1	0.125
+qos feature	layer3 qos feature	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+qos feature	TCP header compression	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+qos feature	Weighted Fair Queuing	1	1	16	15	0.777777777777	NULL	NULL	38	28	0.001644736842105263
+qos feature	consistent hardware-based qos feature	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+qos feature	queueing	1	1	16	15	0.777777777777	NULL	NULL	9	6	0.006944444444444444
+qos feature	traffic shaping	1	1	16	15	0.777777777777	NULL	NULL	50	29	0.00125
+qos feature	classification	1	1	16	15	0.777777777777	NULL	NULL	785	365	0.00007961783439490445
+qos feature	Compressed Real-Time Transport Protocol	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+qos feature	rate limiting	1	1	16	15	0.777777777777	NULL	NULL	24	19	0.0026041666666666665
+qos feature	RTP header compression	1	1	16	15	0.777777777777	NULL	NULL	7	4	0.008928571428571428
+qos feature	custom queueing	1	1	16	15	0.777777777777	NULL	NULL	1	1	0.0625
+qos feature	custom queuing	1	1	16	15	0.777777777777	NULL	NULL	7	6	0.008928571428571428
+qos feature	enhanced dsl qos feature	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+qos feature	priority queuing	1	1	16	15	0.777777777777	NULL	NULL	16	13	0.00390625
+qos function	traffic monitoring	2	2	8	7	0.333333333333	NULL	NULL	55	26	0.00909090909090909
+qos function	classification	1	1	8	7	0.333333333333	NULL	NULL	785	365	0.0001592356687898089
+qos function	admission control	1	1	8	7	0.333333333333	NULL	NULL	69	49	0.0018115942028985507
+qos function	scheduling	1	1	8	7	0.333333333333	NULL	NULL	1696	777	0.00007370283018867924
+qos function	standard qos function	1	1	8	7	0.333333333333	NULL	NULL	2	2	0.0625
+qos function	maintenance	1	1	8	7	0.333333333333	NULL	NULL	4873	1506	0.000025651549353580955
+qos function	resource reservation	1	1	8	7	0.333333333333	NULL	NULL	15	11	0.008333333333333333
+QoS functionalities	classification	1	1	1	1	NULL	NULL	NULL	785	365	0.0012738853503184713
+qos goal	throughput	1	1	1	1	NULL	NULL	NULL	568	252	0.0017605633802816902
+qos guarantee	edge-to-edge statistical qos guarantee	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+qos guarantee	delay of rate bound	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+qos guarantee	maximum delay	1	1	5	5	0.333333333333	NULL	NULL	8	7	0.025
+qos guarantee	explicit qos guarantee	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+qos guarantee	packet-loss ratio	1	1	5	5	0.333333333333	NULL	NULL	3	2	0.06666666666666667
+qos guaranteed communication network	ATM	1	1	1	1	NULL	NULL	NULL	776	410	0.001288659793814433
+QoS information	charging information	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+QoS information	delay	1	1	4	4	NULL	NULL	NULL	1442	646	0.00017337031900138697
+qos information	content-related qos information	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+QoS information	SNR	1	1	4	4	NULL	NULL	NULL	90	60	0.002777777777777778
+qos inhibitor	packet loss	1	1	2	2	NULL	NULL	NULL	234	125	0.002136752136752137
+qos inhibitor	latency	1	1	2	2	NULL	NULL	NULL	516	253	0.0009689922480620155
+QoS IP network	MPLS VPN	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+qos issue	exactly-once delivery	1	1	14	14	0.375000000000	NULL	NULL	1	1	0.07142857142857142
+qos issue	cost	1	1	14	14	0.375000000000	NULL	NULL	6746	1419	0.000010588285121341746
+qos issue	service class differentiation	1	1	14	14	0.375000000000	NULL	NULL	1	1	0.07142857142857142
+qos issue	congestion control	1	1	14	14	0.375000000000	NULL	NULL	53	33	0.001347708894878706
+qos issue	delay	1	1	14	14	0.375000000000	NULL	NULL	1442	646	0.00004953437685753913
+qos issue	preserving the priority of traffic between remote sites over the WAN	1	1	14	14	0.375000000000	NULL	NULL	1	1	0.07142857142857142
+qos issue	reliable message delivery	1	1	14	14	0.375000000000	NULL	NULL	3	3	0.023809523809523808
+qos issue	available bandwidth	1	1	14	14	0.375000000000	NULL	NULL	83	51	0.0008605851979345954
+qos issue	loss probability	1	1	14	14	0.375000000000	NULL	NULL	15	8	0.0047619047619047615
+qos issue	harmonic	1	1	14	14	0.375000000000	NULL	NULL	165	103	0.0004329004329004329
+qos issue	end-to-end delay	1	1	14	14	0.375000000000	NULL	NULL	52	31	0.0013736263736263735
+qos issue	timing aspect	1	1	14	14	0.375000000000	NULL	NULL	1	1	0.07142857142857142
+qos issue	standard qos issue	1	1	14	14	0.375000000000	NULL	NULL	2	2	0.03571428571428571
+qos issue	packet loss	1	1	14	14	0.375000000000	NULL	NULL	234	125	0.00030525030525030525
+qos level	Best Effort	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+qos link attribute	link bandwidth	1	1	1	1	1.000000000000	NULL	NULL	17	10	0.058823529411764705
+qos link-efficiency technique	Interleaving	1	1	1	1	1.000000000000	NULL	NULL	59	30	0.01694915254237288
+qos management capability	resource	1	1	1	1	NULL	NULL	NULL	1375	506	0.0007272727272727272
+qos management feature	per-flow resource management	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+qos management feature	GR-477 traffic control	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+qos management feature	call rate	1	1	4	5	1.000000000000	NULL	NULL	13	11	0.019230769230769232
+qos management feature	QoS packet remarking	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+qos management function	QoS negotiation	2	2	5	4	NULL	NULL	NULL	5	4	0.16
+qos management function	admission control	1	1	5	4	NULL	NULL	NULL	69	49	0.002898550724637681
+qos management function	QoS monitoring	1	1	5	4	NULL	NULL	NULL	5	5	0.04
+qos management function	monitoring	1	1	5	4	NULL	NULL	NULL	1507	705	0.00013271400132714
+qos management operation	setting call blocking objective	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos management operation	admission control	1	1	2	2	NULL	NULL	NULL	69	49	0.007246376811594203
+qos many bandwidth-intensive task	video	2	1	4	2	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+qos many bandwidth-intensive task	voice	2	1	4	2	NULL	NULL	NULL	2237	987	0.0004470272686633885
+qos marking	IP Difserv code point	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+qos marking	DSCP	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+qos measure	expected queue length	1	1	7	7	0.333333333333	NULL	NULL	1	1	0.14285714285714285
+qos measure	deadline and priority constraints of the task	1	1	7	7	0.333333333333	NULL	NULL	1	1	0.14285714285714285
+qos measure	loss rate	1	1	7	7	0.333333333333	NULL	NULL	30	21	0.0047619047619047615
+qos measure	dependability	1	1	7	7	0.333333333333	NULL	NULL	426	164	0.00033534540576794097
+qos measure	available capacity	1	1	7	7	0.333333333333	NULL	NULL	6	4	0.023809523809523808
+qos measure	overflow probability	1	1	7	7	0.333333333333	NULL	NULL	1	1	0.14285714285714285
+qos measure	waiting time	1	1	7	7	0.333333333333	NULL	NULL	165	97	0.0008658008658008658
+qos measurement	throughput	2	1	8	4	0.500000000000	NULL	NULL	568	252	0.0008802816901408451
+qos measurement	packet loss rate	2	1	8	4	0.500000000000	NULL	NULL	27	23	0.018518518518518517
+qos measurement	delay	2	1	8	4	0.500000000000	NULL	NULL	1442	646	0.00034674063800277393
+qos measurement	CDV	2	2	8	4	0.500000000000	NULL	NULL	14	11	0.03571428571428571
+qos mechanism	packet classification	4	3	40	24	0.866666666666	NULL	NULL	13	9	0.03076923076923077
+qos mechanism	traffic shaping	3	2	40	24	0.866666666666	NULL	NULL	50	29	0.0045
+qos mechanism	RSVP	3	3	40	24	0.866666666666	NULL	NULL	107	41	0.0021028037383177566
+qos mechanism	LLQ	3	2	40	24	0.866666666666	NULL	NULL	11	9	0.02045454545454545
+qos mechanism	traffic policing	3	2	40	24	0.866666666666	NULL	NULL	12	10	0.01875
+qos mechanism	802.1p	3	2	40	24	0.866666666666	NULL	NULL	15	9	0.014999999999999998
+qos mechanism	IP Precedence	2	2	40	24	0.866666666666	NULL	NULL	12	7	0.008333333333333333
+qos mechanism	IP RTP Priority	2	1	40	24	0.866666666666	NULL	NULL	2	1	0.05
+qos mechanism	differentiated service	2	2	40	24	0.866666666666	NULL	NULL	19	17	0.005263157894736842
+qos mechanism	diffserv	1	1	40	24	0.866666666666	NULL	NULL	12	7	0.0020833333333333333
+qos mechanism	advanced on-chip qos mechanism	1	1	40	24	0.866666666666	NULL	NULL	2	2	0.0125
+qos mechanism	network-level qos mechanism	1	1	40	24	0.866666666666	NULL	NULL	2	2	0.0125
+qos mechanism	Differentiated UBR	1	1	40	24	0.866666666666	NULL	NULL	1	1	0.025
+qos mechanism	transport protocol	1	1	40	24	0.866666666666	NULL	NULL	18	15	0.001388888888888889
+qos mechanism	integrated service	1	1	40	24	0.866666666666	NULL	NULL	9	9	0.002777777777777778
+qos mechanism	packet scheduling	1	1	40	24	0.866666666666	NULL	NULL	10	10	0.0025
+qos mechanism	priority	1	1	40	24	0.866666666666	NULL	NULL	428	200	0.00005841121495327103
+qos mechanism	IP Differentiated Services	1	1	40	24	0.866666666666	NULL	NULL	1	1	0.025
+qos mechanism	link efficiency qos mechanism	1	1	40	24	0.866666666666	NULL	NULL	2	2	0.0125
+qos mechanism	QCI	1	1	40	24	0.866666666666	NULL	NULL	1	1	0.025
+qos mechanism	reservation	1	1	40	24	0.866666666666	NULL	NULL	225	110	0.00011111111111111112
+qos mechanism	traditional qos mechanism	1	1	40	24	0.866666666666	NULL	NULL	2	2	0.0125
+qos mechanism	typical qos mechanism	1	1	40	24	0.866666666666	NULL	NULL	2	2	0.0125
+qos mechanism	error detection	1	1	40	24	0.866666666666	NULL	NULL	59	37	0.0004237288135593221
+qos method	priority method	1	1	1	1	NULL	NULL	NULL	1	1	1
+qos metric term	available bandwidth by the node	2	1	10	5	1.000000000000	NULL	NULL	2	1	0.2
+qos metric term	available power	2	1	10	5	1.000000000000	NULL	NULL	19	12	0.021052631578947368
+qos metric term	recent error rate	2	1	10	5	1.000000000000	NULL	NULL	2	1	0.2
+qos metric term	node queue size	2	1	10	5	1.000000000000	NULL	NULL	2	1	0.2
+qos metric term	recent delay	2	1	10	5	1.000000000000	NULL	NULL	2	1	0.2
+qos model	traditional qos model	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+QoS network	Diff-Serv network	1	1	1	1	NULL	NULL	NULL	1	1	1
+qos objective	expected budget	1	1	1	1	NULL	NULL	NULL	1	1	1
+qos option	encryption	2	1	3	2	0.500000000000	NULL	NULL	1548	602	0.0008613264427217916
+qos option	reliable messaging	1	1	3	2	0.500000000000	NULL	NULL	25	23	0.013333333333333332
+qos parameter	delay	17	17	103	63	0.433333333333	NULL	NULL	1442	646	0.0019457872695689644
+qos parameter	jitter	9	8	103	63	0.433333333333	NULL	NULL	387	211	0.0020320614134116052
+qos parameter	throughput	6	6	103	63	0.433333333333	NULL	NULL	568	252	0.0006153425406809791
+qos parameter	bandwidth	4	4	103	63	0.433333333333	NULL	NULL	1137	466	0.00013662252051472532
+qos parameter	packet loss	3	3	103	63	0.433333333333	NULL	NULL	234	125	0.0003734129947722181
+qos parameter	availability	2	2	103	63	0.433333333333	NULL	NULL	1826	585	0.000021267771881878792
+qos parameter	packet loss ratio	2	2	103	63	0.433333333333	NULL	NULL	15	11	0.002588996763754045
+qos parameter	response time	2	2	103	63	0.433333333333	NULL	NULL	583	291	0.00006661226664890339
+qos parameter	average end-to-end delay	2	2	103	63	0.433333333333	NULL	NULL	4	2	0.009708737864077669
+qos parameter	latency	2	2	103	63	0.433333333333	NULL	NULL	516	253	0.00007526153383005945
+qos parameter	resilience	2	1	103	63	0.433333333333	NULL	NULL	453	196	0.00008572836966072997
+qos parameter	cost	1	1	103	63	0.433333333333	NULL	NULL	6746	1419	0.0000014391843854250917
+qos parameter	loss requirement	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	burst	1	1	103	63	0.433333333333	NULL	NULL	70	56	0.00013869625520110957
+qos parameter	buffer	1	1	103	63	0.433333333333	NULL	NULL	797	312	0.000012181603342631956
+qos parameter	max CTD	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	rate of failure	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	reliability	1	1	103	63	0.433333333333	NULL	NULL	3181	964	0.0000030521024407663216
+qos parameter	peak-to-peak cell delay variation	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	Packet Loss Rate	1	1	103	63	0.433333333333	NULL	NULL	27	23	0.0003595828838547285
+qos parameter	packet delay	1	1	103	63	0.433333333333	NULL	NULL	32	21	0.00030339805825242716
+qos parameter	network reliability	1	1	103	63	0.433333333333	NULL	NULL	16	9	0.0006067961165048543
+qos parameter	loss profile	1	1	103	63	0.433333333333	NULL	NULL	2	2	0.0048543689320388345
+qos parameter	average latency	1	1	103	63	0.433333333333	NULL	NULL	5	5	0.001941747572815534
+qos parameter	frame rate	1	1	103	63	0.433333333333	NULL	NULL	457	142	0.000021244502984852667
+qos parameter	capacity	1	1	103	63	0.433333333333	NULL	NULL	915	347	0.000010610642474401823
+qos parameter	connection set-up time	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	transmission speed of service	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	WMM priority	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	resource optimization	1	1	103	63	0.433333333333	NULL	NULL	5	3	0.001941747572815534
+qos parameter	Average Packet Transfer delay	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	bit error rate	1	1	103	63	0.433333333333	NULL	NULL	64	41	0.00015169902912621358
+qos parameter	Budget	1	1	103	63	0.433333333333	NULL	NULL	2634	864	0.0000036859293333628204
+qos parameter	cell loss ratio	1	1	103	63	0.433333333333	NULL	NULL	4	4	0.0024271844660194173
+qos parameter	graceful degradation of service	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	guaranteed bit rate for downlink	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	low packet delay	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	low latency for quick response time	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	key qos parameter	1	1	103	63	0.433333333333	NULL	NULL	2	2	0.0048543689320388345
+qos parameter	delay requirement	1	1	103	63	0.433333333333	NULL	NULL	5	4	0.001941747572815534
+qos parameter	deadline policy	1	1	103	63	0.433333333333	NULL	NULL	2	2	0.0048543689320388345
+qos parameter	execution time	1	1	103	63	0.433333333333	NULL	NULL	74	57	0.0001311991603253739
+qos parameter	task response time	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	traditional qos parameter	1	1	103	63	0.433333333333	NULL	NULL	2	2	0.0048543689320388345
+qos parameter	maximum cell transfer delay	1	1	103	63	0.433333333333	NULL	NULL	2	2	0.0048543689320388345
+qos parameter	maximum data throughput	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	Optimisation preference	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	minimum reserved traffic rate	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	node density	1	1	103	63	0.433333333333	NULL	NULL	9	6	0.0010787486515641855
+qos parameter	number of hop	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	application-specific qos parameter	1	1	103	63	0.433333333333	NULL	NULL	2	2	0.0048543689320388345
+qos parameter	available bandwidth	1	1	103	63	0.433333333333	NULL	NULL	83	51	0.00011697274535033336
+qos parameter	line utilization	1	1	103	63	0.433333333333	NULL	NULL	4	4	0.0024271844660194173
+qos parameter	data packet delivery ratio	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	Deadline	1	1	103	63	0.433333333333	NULL	NULL	345	169	0.00002814126917123962
+qos parameter	sustained throughput for transactional service	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	SNR	1	1	103	63	0.433333333333	NULL	NULL	90	60	0.00010787486515641854
+qos parameter	throughput for heterogeneous traffic	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	minimum data throughput	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	message publishing rate	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos parameter	packet loss probability	1	1	103	63	0.433333333333	NULL	NULL	5	3	0.001941747572815534
+qos parameter	packet delivery ratio	1	1	103	63	0.433333333333	NULL	NULL	20	8	0.0004854368932038835
+qos parameter	packets throughput rate	1	1	103	63	0.433333333333	NULL	NULL	1	1	0.009708737864077669
+qos performance factor	reallocation delay	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qos performance factor	reliability	1	1	4	4	NULL	NULL	NULL	3181	964	0.00007859163784973278
+qos performance factor	messaging overhead	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qos performance factor	network integrity	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+qos performance parameter	transmission latency	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+qos performance parameter	latency jitter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos property	reliability	3	3	17	12	0.166666666666	NULL	NULL	3181	964	0.0001664293507406106
+qos property	security	3	3	17	12	0.166666666666	NULL	NULL	8153	2525	0.00006493459643148318
+qos property	latency	2	2	17	12	0.166666666666	NULL	NULL	516	253	0.00045599635202918376
+qos property	jitter	1	1	17	12	0.166666666666	NULL	NULL	387	211	0.0001519987840097279
+qos property	throughput	1	1	17	12	0.166666666666	NULL	NULL	568	252	0.00010356255178127589
+qos property	accessibility	1	1	17	12	0.166666666666	NULL	NULL	1196	319	0.00004918355301987015
+qos property	real-time	1	1	17	12	0.166666666666	NULL	NULL	77	54	0.0007639419404125286
+qos property	availability	1	1	17	12	0.166666666666	NULL	NULL	1826	585	0.00003221441917402229
+qos property	reliable messaging	1	1	17	12	0.166666666666	NULL	NULL	25	23	0.002352941176470588
+qos property	regulatory	1	1	17	12	0.166666666666	NULL	NULL	210	110	0.00028011204481792715
+qos property	integrity	1	1	17	12	0.166666666666	NULL	NULL	2785	714	0.000021121554546414617
+qos property	performance	1	1	17	12	0.166666666666	NULL	NULL	2689	957	0.000021875615251678953
+qos protocol	network-layer qos protocol	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+qos protocol	QoS-aware MAC protocol	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos provision technique	dynamical protocol creation	1	1	1	1	NULL	NULL	NULL	1	1	1
+qos related attribute	delay	1	1	2	2	NULL	NULL	NULL	1442	646	0.00034674063800277393
+qos related attribute	jitter	1	1	2	2	NULL	NULL	NULL	387	211	0.0012919896640826874
+qos related link layer parameter	transmission delay	1	1	2	2	0.500000000000	NULL	NULL	24	21	0.020833333333333332
+qos related link layer parameter	data rate	1	1	2	2	0.500000000000	NULL	NULL	136	74	0.003676470588235294
+qos request	guaranteed bandwidth request	1	1	1	1	NULL	NULL	NULL	1	1	1
+qos requirement	throughput	4	4	30	22	0.133333333333	NULL	NULL	568	252	0.0009389671361502347
+qos requirement	reliability	3	3	30	22	0.133333333333	NULL	NULL	3181	964	0.00009430996541967936
+qos requirement	time limit	2	1	30	22	0.133333333333	NULL	NULL	160	76	0.0008333333333333333
+qos requirement	security	2	2	30	22	0.133333333333	NULL	NULL	8153	2525	0.00001635389836052169
+qos requirement	latency	2	2	30	22	0.133333333333	NULL	NULL	516	253	0.00025839793281653745
+qos requirement	jitter	1	1	30	22	0.133333333333	NULL	NULL	387	211	0.00008613264427217915
+qos requirement	bounds on delay-jitter	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos requirement	pure qos requirement	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos requirement	per-flow qos requirement	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos requirement	handover packet dropping rate	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos requirement	maintainability	1	1	30	22	0.133333333333	NULL	NULL	322	131	0.00010351966873706004
+qos requirement	onlinegames strict end-to-end qos requirement	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos requirement	packet error rate	1	1	30	22	0.133333333333	NULL	NULL	11	10	0.0030303030303030303
+qos requirement	system availability	1	1	30	22	0.133333333333	NULL	NULL	32	24	0.0010416666666666667
+qos requirement	timing	1	1	30	22	0.133333333333	NULL	NULL	1339	517	0.000024894199651481205
+qos requirement	interoperability	1	1	30	22	0.133333333333	NULL	NULL	356	145	0.00009363295880149813
+qos requirement	budget	1	1	30	22	0.133333333333	NULL	NULL	2634	864	0.000012655024044545685
+qos requirement	response time	1	1	30	22	0.133333333333	NULL	NULL	583	291	0.00005717552887364208
+qos requirement	nonstandard qos requirement	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos requirement	handover failure	1	1	30	22	0.133333333333	NULL	NULL	3	3	0.011111111111111112
+qos requirement	data rate	1	1	30	22	0.133333333333	NULL	NULL	136	74	0.00024509803921568627
+qos requirement	user qos requirement	1	1	30	22	0.133333333333	NULL	NULL	1	1	0.03333333333333333
+qos result	throughput	1	1	4	4	NULL	NULL	NULL	568	252	0.00044014084507042255
+qos result	jitter	1	1	4	4	NULL	NULL	NULL	387	211	0.0006459948320413437
+qos result	loss	1	1	4	4	NULL	NULL	NULL	938	398	0.00026652452025586353
+qos result	delay	1	1	4	4	NULL	NULL	NULL	1442	646	0.00017337031900138697
+qos scheduling mechanism	IEEE 802.11e	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+QOS scheme	header compression	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+qos sensitive service	VoD	1	1	2	2	0.500000000000	NULL	NULL	60	40	0.008333333333333333
+qos sensitive service	IPTV	1	1	2	2	0.500000000000	NULL	NULL	398	163	0.001256281407035176
+qos service	bounds on dropped packet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos service	minimum delay	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+qos setting	scheduling	4	1	14	5	0.500000000000	NULL	NULL	1696	777	0.000673854447439353
+qos setting	classification	4	1	14	5	0.500000000000	NULL	NULL	785	365	0.0014558689717925385
+qos setting	queueing	4	1	14	5	0.500000000000	NULL	NULL	9	6	0.12698412698412698
+qos setting	PVC QoS	1	1	14	5	0.500000000000	NULL	NULL	1	1	0.07142857142857142
+qos setting	802.1q	1	1	14	5	0.500000000000	NULL	NULL	10	7	0.007142857142857143
+qos solution	Diff-Serv Model	2	1	2	1	NULL	NULL	NULL	2	1	1
+qos specification	IBM's Web Service Level Agreement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos specification	HP's web services management Language	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qos standard	802.1q	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+qos standard	802.1p	1	1	2	2	1.000000000000	NULL	NULL	15	9	0.03333333333333333
+QOS statistic	jitter	1	1	3	3	NULL	NULL	NULL	387	211	0.0008613264427217916
+QOS statistic	gap	1	1	3	3	NULL	NULL	NULL	1911	667	0.00017442874585731728
+QOS statistic	packet loss	1	1	3	3	NULL	NULL	NULL	234	125	0.0014245014245014244
+qos technique	prioritization	3	3	12	11	0.666666666666	NULL	NULL	90	61	0.008333333333333333
+qos technique	bandwidth provisioning	1	1	12	11	0.666666666666	NULL	NULL	5	4	0.016666666666666666
+qos technique	leading qos technique	1	1	12	11	0.666666666666	NULL	NULL	2	2	0.041666666666666664
+qos technique	traffic shaping	1	1	12	11	0.666666666666	NULL	NULL	50	29	0.0016666666666666666
+qos technique	WMM	1	1	12	11	0.666666666666	NULL	NULL	3	3	0.027777777777777776
+qos technique	LLQ	1	1	12	11	0.666666666666	NULL	NULL	11	9	0.007575757575757575
+qos technique	VLAN tagging	1	1	12	11	0.666666666666	NULL	NULL	9	6	0.009259259259259259
+qos technique	IP header compression	1	1	12	11	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+qos technique	classification at the network edge	1	1	12	11	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+qos technique	reservation	1	1	12	11	0.666666666666	NULL	NULL	225	110	0.00037037037037037035
+qos technology	cisco ios qos technology	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+qos tool	QPM	1	0	6	6	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+qos tool	LLQ	1	1	6	6	0.500000000000	NULL	NULL	11	9	0.01515151515151515
+qos tool	policy	1	0	6	6	0.500000000000	NULL	NULL	1472	661	0.00011322463768115941
+qos tool	LFI	1	1	6	6	0.500000000000	NULL	NULL	7	7	0.023809523809523808
+qos tool	traffic shaping	1	1	6	6	0.500000000000	NULL	NULL	50	29	0.003333333333333333
+qos tool	Low Latency Queuing	1	1	6	6	0.500000000000	NULL	NULL	6	5	0.027777777777777776
+qos type	HTB	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+qos type	VBR	1	1	3	3	0.500000000000	NULL	NULL	12	11	0.027777777777777776
+qos type	HFSC	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+qos value	accumulated delay variance	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+qos value	runtime qos value	1	1	8	8	NULL	NULL	NULL	2	2	0.0625
+qos value	desired PDU size	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+qos value	lowest packet rate	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+qos value	maximum end-to-end delay	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+qos value	smallest packet size	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+qos value	accumulated mean delay	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+qos value	minimum bandwidth	1	1	8	8	NULL	NULL	NULL	5	5	0.025
+qos-aware device	switch	1	1	2	2	NULL	NULL	NULL	3437	1190	0.00014547570555717196
+qos-aware device	router	1	1	2	2	NULL	NULL	NULL	2575	830	0.0001941747572815534
+qos-aware technology	differentiated service	1	1	2	2	1.000000000000	NULL	NULL	19	17	0.02631578947368421
+qos-aware technology	MultiProtocol Label Switching	1	1	2	2	1.000000000000	NULL	NULL	25	9	0.02
+QoS-capable protocol	RSVP	1	1	1	1	NULL	NULL	NULL	107	41	0.009345794392523364
+QoS-enabled component middle ware	Lightweight CORBA Component Model	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+QoS-enabled component middleware	Lightweight CORBA Component Model	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+QoS-enabled componentmiddleware	Lightweight CORBA Component Model	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+QoS-enabled DOC middleware	Real-time Java	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+QoS-enabled DOC middleware	Real-time CORBA	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+QoS-enabled network	differentiated services network	2	2	2	1	NULL	NULL	NULL	2	1	1
+qos-friendly multicast scheme	QoS-Aware Multicast Routing Protocol	1	1	1	1	NULL	NULL	NULL	1	1	1
+QoS-related information	degree of association stability	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+QoS-related information	hop count	1	1	2	2	1.000000000000	NULL	NULL	35	22	0.014285714285714285
+qos-sensitive application	video	1	1	1	1	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+qos-sensitive service	video streaming	1	1	2	2	0.500000000000	NULL	NULL	406	185	0.0012315270935960591
+qos-sensitive service	Vo IP	1	1	2	2	0.500000000000	NULL	NULL	14	11	0.03571428571428571
+qos-unaware network element	firewall	1	1	2	2	NULL	NULL	NULL	2973	1055	0.00016818028927009755
+qos-unaware network element	router	1	1	2	2	NULL	NULL	NULL	2575	830	0.0001941747572815534
+QoSapplications	committed access rate	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+QoSapplications	Weighted Random Early Detection	1	1	2	2	1.000000000000	NULL	NULL	24	14	0.020833333333333332
+qosassurance mechanism	configuration of non-multiplexed connections between component	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+QoScapabilities	end-to-end provisioning of shared resource	1	1	1	1	NULL	NULL	NULL	1	1	1
+QoSclasses	constant bit rateVo IP	1	1	1	1	NULL	NULL	NULL	1	1	1
+QoSconstraints	demands on minimum throughput	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+QoSconstraints	minimum acceptable quality of received signal	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+qoscontrol function	admission control	1	1	1	1	NULL	NULL	NULL	69	49	0.014492753623188406
+qoscontrol plane function	admission control from the packet forwarding data plane on core router	1	1	1	1	NULL	NULL	NULL	1	1	1
+QoSdegradations	cell loss	2	1	2	1	1.000000000000	NULL	NULL	14	11	0.14285714285714285
+QoSfactors	round-trip delay time	2	2	2	1	NULL	NULL	NULL	2	1	1
+qosfeaturesfor multimedia service	delay	1	1	1	1	NULL	NULL	NULL	1442	646	0.0006934812760055479
+QoSframeworks	M PLS	1	1	1	1	NULL	NULL	NULL	1	1	1
+QoSgridconcerns	reliability	1	1	1	1	NULL	NULL	NULL	3181	964	0.00031436655139893113
+QoSisimplicitin circuit switch-ingnetworks	Public Switched Telephone Network	1	1	1	1	1.000000000000	NULL	NULL	38	25	0.02631578947368421
+QoSmechanisms	GRX	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+QoSmetrics	data delay	1	1	2	2	0.100000000000	NULL	NULL	4	4	0.125
+QoSmetrics	available bandwidth	1	1	2	2	0.100000000000	NULL	NULL	83	51	0.006024096385542169
+QoSmodels	Diffservand Intserv	1	1	1	1	NULL	NULL	NULL	1	1	1
+qosofthedelay sensitive service	Vo IP	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+QoSparameters	delay	3	3	19	14	0.250000000000	NULL	NULL	1442	646	0.00032849113073947
+QoSparameters	jitter	3	3	19	14	0.250000000000	NULL	NULL	387	211	0.0012239902080783353
+QoSparameters	availability	2	2	19	14	0.250000000000	NULL	NULL	1826	585	0.00011529371072807978
+QoSparameters	bandwidth requirement	1	1	19	14	0.250000000000	NULL	NULL	23	12	0.002288329519450801
+QoSparameters	loss	1	1	19	14	0.250000000000	NULL	NULL	938	398	0.0000561104253170239
+QoSparameters	response time	1	1	19	14	0.250000000000	NULL	NULL	583	291	0.00009027715085311908
+QoSparameters	packet loss ratio	1	1	19	14	0.250000000000	NULL	NULL	15	11	0.003508771929824561
+QoSparameters	path diversity	1	1	19	14	0.250000000000	NULL	NULL	3	3	0.017543859649122806
+QoSparameters	execution capacity	1	1	19	14	0.250000000000	NULL	NULL	1	1	0.05263157894736842
+QoSparameters	available bandwidth	1	1	19	14	0.250000000000	NULL	NULL	83	51	0.0006341154090044388
+QoSparameters	RTT	1	1	19	14	0.250000000000	NULL	NULL	13	10	0.004048582995951417
+QoSparameters	latency	1	1	19	14	0.250000000000	NULL	NULL	516	253	0.00010199918400652795
+QoSparameters	frame rate	1	1	19	14	0.250000000000	NULL	NULL	457	142	0.00011516756881262236
+QoSparameters	bandwidth	1	1	19	14	0.250000000000	NULL	NULL	1137	466	0.00004628986714808128
+QoSProxies	Configurator	1	1	1	1	0.500000000000	NULL	NULL	7	6	0.14285714285714285
+QoSrequirements	security	3	3	18	14	0.100000000000	NULL	NULL	8153	2525	0.00006132711885195633
+QoSrequirements	timing property	2	2	18	14	0.100000000000	NULL	NULL	4	3	0.05555555555555555
+QoSrequirements	fault-tolerance	2	2	18	14	0.100000000000	NULL	NULL	32	23	0.006944444444444444
+QoSrequirements	timing	1	1	18	14	0.100000000000	NULL	NULL	1339	517	0.00004149033275246867
+QoSrequirements	bounded delay	1	1	18	14	0.100000000000	NULL	NULL	3	3	0.018518518518518517
+QoSrequirements	minimal throughput	1	1	18	14	0.100000000000	NULL	NULL	1	1	0.05555555555555555
+QoSrequirements	resolution	1	1	18	14	0.100000000000	NULL	NULL	1240	468	0.000044802867383512545
+QoSrequirements	utilization	1	1	18	14	0.100000000000	NULL	NULL	183	102	0.0003035822707953855
+QoSrequirements	Accuracy	1	1	18	14	0.100000000000	NULL	NULL	1263	433	0.00004398697985396322
+QoSrequirements	guaranteed synchronization	1	1	18	14	0.100000000000	NULL	NULL	1	1	0.05555555555555555
+QoSrequirements	reliability	1	1	18	14	0.100000000000	NULL	NULL	3181	964	0.00001746480841105173
+QoSrequirements	latency	1	1	18	14	0.100000000000	NULL	NULL	516	253	0.00010766580534022394
+QoSrequirements	deterministic service	1	1	18	14	0.100000000000	NULL	NULL	1	1	0.05555555555555555
+QoSrequirements	throughput	1	1	18	14	0.100000000000	NULL	NULL	568	252	0.00009780907668231611
+qosrouting multimedia application	digital audio	2	2	2	1	1.000000000000	NULL	NULL	90	60	0.022222222222222223
+qother country	Germany	1	1	2	2	NULL	NULL	NULL	19646	2312	0.000025450473378804846
+qother country	France	1	1	2	2	NULL	NULL	NULL	18997	2318	0.00002631994525451387

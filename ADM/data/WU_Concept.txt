@@ -1,0 +1,101 @@
+wu dang structure	famous Purple Cloud Palace complex	1	1	1	1	NULL	NULL	NULL	1	1	1
+wu dialect	Nantong	1	1	2	2	0.500000000000	NULL	NULL	8	6	0.0625
+wu dialect	Shanghai	1	1	2	2	0.500000000000	NULL	NULL	2096	455	0.00023854961832061068
+Wu et	Programmable Tooling	2	1	2	1	NULL	NULL	NULL	2	1	1
+Wu gambling	life	1	1	1	1	NULL	NULL	NULL	1540	626	0.0006493506493506494
+wu liang ye's cold appetizer	poached beef	1	1	1	1	NULL	NULL	NULL	1	1	1
+wu magic tool	bell	1	1	1	1	NULL	NULL	NULL	1388	594	0.0007204610951008645
+wu speaking area	present-day Zhejiang Province	1	1	1	1	NULL	NULL	NULL	1	1	1
+wu tang clan member	Rza	1	1	1	1	1.000000000000	NULL	NULL	45	26	0.022222222222222223
+Wu Xia brethren	Swordsman II	1	1	1	1	NULL	NULL	NULL	1	1	1
+wu xia film	House of Flying Daggers	1	1	4	4	0.750000000000	NULL	NULL	27	15	0.009259259259259259
+wu xia film	Kung Fu Hustle	1	1	4	4	0.750000000000	NULL	NULL	7	6	0.03571428571428571
+wu xia film	Shaolin Soccer	1	1	4	4	0.750000000000	NULL	NULL	28	6	0.008928571428571428
+wu xia film	Hero	1	1	4	4	0.750000000000	NULL	NULL	218	113	0.0011467889908256881
+wu's fictional work	dadi zhi chun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+wu's fictional work	Jiucai hua	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+wu-tang affiliate	Killarmy	1	1	1	1	NULL	NULL	NULL	1	1	1
+wu-tang clan affiliate	Killa Sin	5	5	15	3	NULL	NULL	NULL	5	1	0.3333333333333333
+wu-tang clan affiliate	Prodigal Sunn	5	5	15	3	NULL	NULL	NULL	5	1	0.3333333333333333
+wu-tang clan affiliate	Timbo King	5	5	15	3	NULL	NULL	NULL	5	1	0.3333333333333333
+wu-tang member	Method Man	1	1	4	4	0.666666666666	NULL	NULL	80	31	0.003125
+wu-tang member	Ol Dirty Bastard	1	1	4	4	0.666666666666	NULL	NULL	4	4	0.0625
+wu-tang member	GZA	1	1	4	4	0.666666666666	NULL	NULL	15	13	0.016666666666666666
+wu-tang member	RZA	1	1	4	4	0.666666666666	NULL	NULL	45	26	0.005555555555555556
+wu-tang's most talented member	Ghostface Killah	1	1	1	1	1.000000000000	NULL	NULL	24	15	0.041666666666666664
+Wuchiapingian brachiopods	Araxilevis-Orthothetina Assemblage occurring beneath the Clarkina dukouensis Zone in Iran	1	1	1	1	NULL	NULL	NULL	1	1	1
+WUD item	bookmark	1	1	3	3	NULL	NULL	NULL	1028	421	0.00032425421530479895
+WUD item	Deism t-shirts	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WUD item	bumper sticker	1	1	3	3	NULL	NULL	NULL	202	112	0.00165016501650165
+wudu	sayyidina Bilal Radianlahu Anhu allahumma irziqnaa min Firdaws al a'alaa	1	1	1	1	NULL	NULL	NULL	1	1	1
+wufoo's high level field type	rating	1	1	2	2	NULL	NULL	NULL	554	244	0.0009025270758122744
+wufoo's high level field type	tag	1	1	2	2	NULL	NULL	NULL	666	308	0.0007507507507507507
+wuhan charming accommodation	Holiday Inn	1	1	3	3	0.500000000000	NULL	NULL	458	191	0.0007278020378457059
+wuhan charming accommodation	Novotel Xin Hua Wuhan Hotel	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+wuhan charming accommodation	Shangri-La Hotel	1	1	3	3	0.500000000000	NULL	NULL	11	11	0.0303030303030303
+wuhan noodle dish	Re Gan Mian	1	1	1	1	NULL	NULL	NULL	1	1	1
+WUI area	Flagstaff	1	1	7	7	0.166666666666	NULL	NULL	89	41	0.0016051364365971107
+WUI area	Las Vegas	1	1	7	7	0.166666666666	NULL	NULL	1637	477	0.00008726764988218866
+WUI area	Missoula	1	1	7	7	0.166666666666	NULL	NULL	56	29	0.002551020408163265
+WUI area	Carson City	1	1	7	7	0.166666666666	NULL	NULL	39	22	0.003663003663003663
+WUI area	Albuquerque	1	1	7	7	0.166666666666	NULL	NULL	198	55	0.0007215007215007215
+WUI area	Gallina Canyon	1	1	7	7	0.166666666666	NULL	NULL	1	1	0.14285714285714285
+WUI area	Boise	1	1	7	7	0.166666666666	NULL	NULL	120	51	0.0011904761904761904
+WUI stakeholder	building official	1	1	1	1	0.500000000000	NULL	NULL	10	10	0.1
+wulff pattern	Royal Wulff	1	1	1	1	1.000000000000	NULL	NULL	19	11	0.05263157894736842
+wuling vehicle	N107 Sunshine	1	1	1	1	NULL	NULL	NULL	1	1	1
+WUMB music fest star	Susan Werner	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+WUMB music fest star	Kate Taylor	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+WUMB music fest star	James Keelaghan	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+wumblers puzzle	4 Seasons Wood Puzzle Set	1	1	1	1	NULL	NULL	NULL	1	1	1
+wunderbar area	workplace	1	1	2	2	NULL	NULL	NULL	386	173	0.0012953367875647669
+wunderbar area	sale	1	1	2	2	NULL	NULL	NULL	4152	1482	0.00012042389210019268
+wunderkind director	George Lucas	1	1	1	1	NULL	NULL	NULL	161	71	0.006211180124223602
+wuntries group	CACM	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+wurth product	Engine Flushes	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+wurtzel's subject	inimitable Courtney Love	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+wurtzel's subject	self-destructive Anne Sexton	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+wurtzite structure	nanoscale wurtzite structure	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+wurtzite structure material	zinc oxide	1	1	2	2	NULL	NULL	NULL	1245	447	0.00040160642570281126
+wurtzite structure material	zinc sulfide	1	1	2	2	NULL	NULL	NULL	92	48	0.005434782608695652
+wurtzite-structure material	ZnO	1	1	1	1	NULL	NULL	NULL	426	185	0.002347417840375587
+wurtzite-structured semiconductor	ZnO	1	1	1	1	NULL	NULL	NULL	426	185	0.002347417840375587
+Wurzite crystalline material	ZnSe produced at a high temperature	1	1	1	1	NULL	NULL	NULL	1	1	1
+WUs	Shkodra	2	2	2	1	1.000000000000	NULL	NULL	11	8	0.18181818181818182
+wusb-enabled portable device	camera	1	1	1	1	NULL	NULL	NULL	5789	1712	0.00017274140611504577
+wushu champion	Hao Zhihua	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+wushu champion	Huang Qiuyan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wushu champion	Zhang Hongmei	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wushu champion	Li Jinheng	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wushu school website	Extreme Kung Fu in Chicago	1	1	1	1	NULL	NULL	NULL	1	1	1
+wushu star	Li Lianjie	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+wushu star	Zhao Wenzhuo	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+wushu's main weapon	San jie gun	2	2	8	6	1.000000000000	NULL	NULL	2	1	0.25
+wushu's main weapon	Dao	2	2	8	6	1.000000000000	NULL	NULL	28	15	0.017857142857142856
+wushu's main weapon	Three Sectional Staff	1	1	8	6	1.000000000000	NULL	NULL	3	2	0.041666666666666664
+wushu's main weapon	Regular Staff	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+wushu's main weapon	Straight Sword	1	1	8	6	1.000000000000	NULL	NULL	9	7	0.013888888888888888
+wushu's main weapon	Broadsword	1	1	8	6	1.000000000000	NULL	NULL	33	16	0.003787878787878788
+WUSN application	underground structure monitoring	1	1	1	1	NULL	NULL	NULL	1	1	1
+wusthof product	storage	1	1	4	4	0.250000000000	NULL	NULL	2511	1000	0.00009956192751891676
+wusthof product	knife sharpener	1	1	4	4	0.250000000000	NULL	NULL	36	20	0.006944444444444444
+wusthof product	cutting board	1	1	4	4	0.250000000000	NULL	NULL	319	167	0.0007836990595611285
+wusthof product	shear	1	1	4	4	0.250000000000	NULL	NULL	430	184	0.0005813953488372093
+WUSTL organization	University Police	1	1	1	1	1.000000000000	NULL	NULL	18	16	0.05555555555555555
+wuth island	Green Island	1	1	4	4	1.000000000000	NULL	NULL	18	15	0.013888888888888888
+wuth island	Heron Island	1	1	4	4	1.000000000000	NULL	NULL	9	9	0.027777777777777776
+wuth island	Fraser Island	1	1	4	4	1.000000000000	NULL	NULL	34	26	0.007352941176470588
+wuth island	Whitsundays	1	1	4	4	1.000000000000	NULL	NULL	28	14	0.008928571428571428
+wuthnow profile artist	writer Madeleine L'Engle	1	1	1	1	NULL	NULL	NULL	1	1	1
+wuwm's outreach event	advanced movie screening	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+wuwm's outreach event	book reading	1	1	2	2	1.000000000000	NULL	NULL	75	39	0.006666666666666667
+wuxi's high-tech industry	software	1	1	3	3	NULL	NULL	NULL	3405	1210	0.0000978952520802741
+wuxi's high-tech industry	new material	1	1	3	3	NULL	NULL	NULL	106	65	0.003144654088050314
+wuxi's high-tech industry	alternative energy	1	1	3	3	NULL	NULL	NULL	203	84	0.0016420361247947454
+wuxia epic	Hero	1	1	3	3	0.666666666666	NULL	NULL	218	113	0.0015290519877675841
+wuxia epic	House of Flying Daggers	1	1	3	3	0.666666666666	NULL	NULL	27	15	0.012345679012345678
+wuxia epic	Crouching Tiger	1	1	3	3	0.666666666666	NULL	NULL	71	30	0.004694835680751174
+wuxia writer	Louis Cha	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Wuyi species	Huang Guanyin	1	1	1	1	NULL	NULL	NULL	1	1	1
+wuyishan hotel	Wuyi Mountain Villas	1	1	1	1	NULL	NULL	NULL	1	1	1
+wuyuan's village	Cixi	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333

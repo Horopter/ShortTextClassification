@@ -1,0 +1,39 @@
+CJ MIDD appropriation unit	District Court MIDD et	2	1	2	1	NULL	NULL	NULL	2	1	1
+CJ PE injection moulded fitting	PE Stub Ends	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CJ PE injection moulded fitting	PE Reducers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CJ population	juvenile	1	1	1	1	NULL	NULL	NULL	126	71	0.007936507936507936
+CJ unforeseen circumstance	current financial crisis	1	1	1	1	1.000000000000	NULL	NULL	17	13	0.058823529411764705
+cj's favorite	stuffed imperial shrimp	1	1	1	1	NULL	NULL	NULL	1	1	1
+cj's feature	haircut	2	2	3	2	NULL	NULL	NULL	366	142	0.0036429872495446266
+cj's feature	clothes	1	1	3	2	NULL	NULL	NULL	3774	1059	0.00008832361773538243
+cj's financial arm	CJ Investment & Securities	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+cj's financial arm	CJ Asset Management	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CJ-2A feature	T-90A transmission	7	7	14	4	NULL	NULL	NULL	7	1	0.5
+CJ-2A feature	134-cubic-inch I-4 engine	3	3	14	4	NULL	NULL	NULL	3	1	0.21428571428571427
+CJ-2A feature	134 cubic inch I-4 engine	2	2	14	4	NULL	NULL	NULL	2	1	0.14285714285714285
+CJ-2A feature	2196 cm3 I-4 engine	2	2	14	4	NULL	NULL	NULL	2	1	0.14285714285714285
+CJ-4 oil	latest Rotella T	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CJ-4 oil	Plus-50 II	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+cj7 part	accessory	1	1	1	1	NULL	NULL	NULL	1375	567	0.0007272727272727272
+CJCCs	Los Angeles Countywide Criminal Justice Coordination Committee	1	1	1	1	NULL	NULL	NULL	1	1	1
+CJD variant	Gerstmann-Straussler-Scheinker disease	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+CJertain hexoses	dextrose	1	1	1	1	0.500000000000	NULL	NULL	459	157	0.002178649237472767
+CJF algorithm	forming simple	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CJI service	discharge planning	1	1	1	1	1.000000000000	NULL	NULL	44	30	0.022727272727272728
+CJIS project	Integrated Automated Fingerprint Identification System	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+CJIS related project	full integration of Atlanta	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CJIS related project	Fulton County CJIS system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CJK encodings	GB	1	1	4	4	0.800000000000	NULL	NULL	66	39	0.003787878787878788
+CJK encodings	Big5	1	1	4	4	0.800000000000	NULL	NULL	13	11	0.019230769230769232
+CJK encodings	JIS	1	1	4	4	0.800000000000	NULL	NULL	49	26	0.00510204081632653
+CJK encodings	CNS	1	1	4	4	0.800000000000	NULL	NULL	50	34	0.005
+CJS agency	police the Crown Prosecution Service the courts prison	1	1	1	1	NULL	NULL	NULL	1	1	1
+CJS cost	crime prevention activity	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CJS program	Mitochondrial DNA program	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+CJS program	NDIS	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+CJSSC case category	premises liability	1	1	2	2	0.500000000000	NULL	NULL	20	15	0.025
+CJSSC case category	automobile accident	1	1	2	2	0.500000000000	NULL	NULL	195	97	0.002564102564102564
+CJSW promotional material	brochure	3	2	6	4	0.333333333333	NULL	NULL	5215	1605	0.0002876318312559923
+CJSW promotional material	pamphlet	1	1	6	4	0.333333333333	NULL	NULL	1030	422	0.00016181229773462783
+CJSW promotional material	program guide	1	1	6	4	0.333333333333	NULL	NULL	29	22	0.005747126436781609
+CJSW promotional material	info package	1	1	6	4	0.333333333333	NULL	NULL	1	1	0.16666666666666666

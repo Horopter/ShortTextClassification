@@ -1,0 +1,55 @@
+iz's traditional marketing method	direct mail	1	1	1	1	NULL	NULL	NULL	946	414	0.0010570824524312897
+izabo's fan	legendary producer Mike Hedges	1	1	1	1	NULL	NULL	NULL	1	1	1
+izakaya favorite	meat	1	1	8	8	0.333333333333	NULL	NULL	9410	1886	0.00001328374070138151
+izakaya favorite	seasonal vegetable	1	1	8	8	0.333333333333	NULL	NULL	19	14	0.006578947368421052
+izakaya favorite	tori kara-age	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+izakaya favorite	grilled mushroom	1	1	8	8	0.333333333333	NULL	NULL	10	9	0.0125
+izakaya favorite	fresh fish	1	1	8	8	0.333333333333	NULL	NULL	152	93	0.0008223684210526315
+izakaya favorite	pasta	1	1	8	8	0.333333333333	NULL	NULL	7372	1634	0.00001695604991861096
+izakaya favorite	pizza	1	1	8	8	0.333333333333	NULL	NULL	3132	1034	0.000039910600255427844
+izakaya favorite	squash croquette	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+izakaya item	agedashi tofu	1	1	4	4	1.000000000000	NULL	NULL	13	11	0.019230769230769232
+izakaya item	tsukune	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+izakaya item	kushi katsu	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+izakaya item	chicken karaage	1	1	4	4	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+izakaya place	Raku on the corner of Olympic	2	2	2	1	NULL	NULL	NULL	2	1	1
+izakaya-like dish	shishamo	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+izakaya-like dish	tororo	1	1	4	4	1.000000000000	NULL	NULL	8	6	0.03125
+izakaya-like dish	hiyayakko	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+izakaya-like dish	mozuku	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+izakaya-style plate	shrimp	2	2	2	1	NULL	NULL	NULL	2860	855	0.0006993006993006993
+izakayas	Place Yuu	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+izapan symbol	U shape	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+izard county name	Watkins	2	1	4	2	0.500000000000	NULL	NULL	21	12	0.047619047619047616
+izard county name	Harris	2	1	4	2	0.500000000000	NULL	NULL	196	107	0.00510204081632653
+izationofsystem resource	network bandwidth	1	1	3	3	NULL	NULL	NULL	117	59	0.0028490028490028487
+izationofsystem resource	CPU	1	1	3	3	NULL	NULL	NULL	1001	353	0.000333000333000333
+izationofsystem resource	memory	1	1	3	3	NULL	NULL	NULL	3739	1244	0.0000891503967192654
+izations	large and redoubtable organ izations	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+izations	National Aeronautics	1	1	5	5	1.000000000000	NULL	NULL	48	22	0.004166666666666667
+izations	international organ izations	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+izations	environmental organ izations	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+izations	area non-profit organ izations	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+ize non-cash benefit	earned-income tax credit	1	1	3	3	0.500000000000	NULL	NULL	9	8	0.037037037037037035
+ize non-cash benefit	food stamp	1	1	3	3	0.500000000000	NULL	NULL	1426	385	0.00023375409069658717
+ize non-cash benefit	housing vouchers provided through federal	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+ize species	Penaeus japonicus	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ized literature	military training manuals on camouflage	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ized literature	how-to books for bow hunter	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+izeskeywords	union	1	1	1	1	NULL	NULL	NULL	1116	496	0.0008960573476702509
+izestwo-dimensional primitive	line	1	1	2	2	NULL	NULL	NULL	1652	716	0.0003026634382566586
+izestwo-dimensional primitive	circle	1	1	2	2	NULL	NULL	NULL	2475	870	0.00020202020202020202
+izetherelevantdenitions	Ljapunovexponent	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+izetherelevantdenitions	topologically conjugacy	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+izetherelevantdenitions	xedpoints	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+izmir attraction	Izmir International Fair	3	1	6	2	NULL	NULL	NULL	5	2	0.3
+izmir attraction	Ethnograpich Museum	3	1	6	2	NULL	NULL	NULL	5	2	0.3
+izquierda unida's state-wide leader	Cayo Lara	1	1	1	1	NULL	NULL	NULL	1	1	1
+IZU lip product	Lipstick	1	1	2	2	0.500000000000	NULL	NULL	775	281	0.0006451612903225806
+IZU lip product	Lip Gloss	1	1	2	2	0.500000000000	NULL	NULL	46	25	0.010869565217391304
+IZW mainstay	Antonio Mestre	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+IZW mainstay	Derrick Neikirk	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+IZZE product	hat	1	1	2	2	NULL	NULL	NULL	4593	1302	0.00010886131069018071
+IZZE product	shirt	1	1	2	2	NULL	NULL	NULL	1604	647	0.0003117206982543641
+izze's drink	sparkling grapefruit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+izze's drink	sparkling apple	1	1	2	2	NULL	NULL	NULL	1	1	0.5

@@ -1,0 +1,4 @@
+yvith matter	absence of malaria	1	1	1	1	NULL	NULL	NULL	1	1	1
+yvy league research university	Harvard	1	1	1	1	NULL	NULL	NULL	2040	544	0.0004901960784313725
+YVY wic's healthy lifestyle initiative	use of low fat milk	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YVY wic's healthy lifestyle initiative	walking in company	1	1	2	2	NULL	NULL	NULL	1	1	0.5

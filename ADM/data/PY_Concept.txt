@@ -1,0 +1,888 @@
+pyaterochka's own label	Pyaterochka Cola	1	1	1	1	NULL	NULL	NULL	1	1	1
+pycnodonts	Stemmatodus	1	1	1	1	NULL	NULL	NULL	1	1	1
+pycnogonids	Anoplodactylus californicus	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pycnoxylic lyginopterids	Pitus Witham	1	1	1	1	NULL	NULL	NULL	1	1	1
+PYD program	Teen Outreach Program	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+pye's subsidiary label	Dawn	1	1	3	3	NULL	NULL	NULL	226	118	0.0014749262536873156
+pye's subsidiary label	DJM	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+pye's subsidiary label	Casablanca	1	1	3	3	NULL	NULL	NULL	328	118	0.001016260162601626
+PYFNJ activity	sports day	1	1	2	2	0.500000000000	NULL	NULL	227	82	0.0022026431718061676
+PYFNJ activity	talent competition	1	1	2	2	0.500000000000	NULL	NULL	11	10	0.045454545454545456
+pyfromother discipline	clinical psychologist	1	1	1	1	NULL	NULL	NULL	108	60	0.009259259259259259
+pyfxcommon variable	transformation matrix	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+pygmy	Batwa of South Kivu	2	2	4	3	1.000000000000	NULL	NULL	2	1	0.5
+pygmy	Mbuti	1	1	4	3	1.000000000000	NULL	NULL	8	7	0.03125
+pygmy	O. bocki	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+pygmy angel	Flame angel	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pygmy chameleon live feeder insect	buffalo worm	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pygmy chameleon live feeder insect	mini meal worm	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pygmy water lily-type plant	variegated Fringe Lily	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Pygmy water lily-type plant s	variegated Fringe Lily	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyhsical activity	camping	1	1	4	4	NULL	NULL	NULL	4492	734	0.00005565449688334817
+pyhsical activity	fishing	1	1	4	4	NULL	NULL	NULL	9087	1769	0.000027511830086937383
+pyhsical activity	skiing	1	1	4	4	NULL	NULL	NULL	3886	798	0.00006433350488934638
+pyhsical activity	kickboxing	1	1	4	4	NULL	NULL	NULL	461	167	0.0005422993492407809
+pyhsical need	heat	1	1	4	4	NULL	NULL	NULL	4223	1245	0.000059199621122424815
+pyhsical need	food	1	1	4	4	NULL	NULL	NULL	18353	4439	0.000013621751212335857
+pyhsical need	water	1	1	4	4	NULL	NULL	NULL	25348	6311	0.000009862711062016726
+pyhsical need	shelter	1	1	4	4	NULL	NULL	NULL	2274	752	0.00010993843447669306
+pyhysical detox symptom	headache	1	1	5	5	NULL	NULL	NULL	11164	1934	0.00001791472590469366
+pyhysical detox symptom	skin rash	1	1	5	5	NULL	NULL	NULL	792	264	0.0002525252525252525
+pyhysical detox symptom	muscle weakness	1	1	5	5	NULL	NULL	NULL	394	140	0.0005076142131979696
+pyhysical detox symptom	foggy brain	1	1	5	5	NULL	NULL	NULL	5	4	0.04
+pyhysical detox symptom	fatigue	1	1	5	5	NULL	NULL	NULL	7827	1619	0.000025552574421873005
+pyjama	men pyjama	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pyjama	ladies pyjam	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pyjama	mens pyjama	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pyjama room's pretty sleepwear basic	pom pom top	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyjama room's pretty sleepwear basic	Baby doll dress	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+pyle standard	Marooned	1	1	1	1	0.500000000000	NULL	NULL	5	5	0.2
+pylo program	Insanity	1	1	2	2	NULL	NULL	NULL	260	126	0.0019230769230769232
+pylo program	P90X	1	1	2	2	NULL	NULL	NULL	164	69	0.003048780487804878
+pylon feature	face	1	1	1	1	NULL	NULL	NULL	1530	529	0.00065359477124183
+pylon middleware layer	Session	1	1	3	3	NULL	NULL	NULL	117	90	0.0028490028490028487
+pylon middleware layer	Routes	1	1	3	3	NULL	NULL	NULL	13	8	0.02564102564102564
+pylon middleware layer	Cache middleware	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pylorus	amoxicillin	1	1	1	1	NULL	NULL	NULL	613	119	0.0016313213703099511
+PyMOL	pure X11	1	1	1	1	NULL	NULL	NULL	1	1	1
+pynchon-like writer	Dom Delillo	1	1	1	1	NULL	NULL	NULL	1	1	1
+PYO crop	berry	1	1	3	3	NULL	NULL	NULL	2426	691	0.0001374003847210772
+PYO crop	flower	1	1	3	3	NULL	NULL	NULL	5682	2006	0.000058664789393406076
+PYO crop	bean	1	1	3	3	NULL	NULL	NULL	8901	1912	0.000037448975770512674
+PYO orchard	Dwight Miller	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyoderma	impetigo	1	1	1	1	NULL	NULL	NULL	304	95	0.003289473684210526
+Pyodermas	impetigo	2	2	2	1	NULL	NULL	NULL	304	95	0.006578947368421052
+pyodermic infection	carbuncle	2	2	10	5	0.600000000000	NULL	NULL	48	32	0.008333333333333333
+pyodermic infection	impetigo	2	2	10	5	0.600000000000	NULL	NULL	304	95	0.0013157894736842105
+pyodermic infection	furunculosis	2	2	10	5	0.600000000000	NULL	NULL	25	18	0.016
+pyodermic infection	ecthyma	2	2	10	5	0.600000000000	NULL	NULL	8	7	0.05
+pyodermic infection	folliculitis	2	2	10	5	0.600000000000	NULL	NULL	107	53	0.003738317757009346
+pyogenic bacterial infection	staphylococcal leptomeningitis	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyogenic bacterial infection	streptococcal	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+pyogenic bacterium	Staphylococcus aureus	2	2	3	2	NULL	NULL	NULL	522	148	0.0025542784163473816
+pyogenic bacterium	S. aureus	1	1	3	2	NULL	NULL	NULL	138	61	0.0024154589371980675
+pyogenic case local inflammatory change	edema	1	1	1	1	NULL	NULL	NULL	568	283	0.0017605633802816902
+pyogenic coccus	streptococcus pyogenes	1	1	1	1	NULL	NULL	NULL	58	35	0.017241379310344827
+pyogenic complication	meningitis	1	1	3	3	NULL	NULL	NULL	1506	369	0.00022133687472332888
+pyogenic complication	septicemia	1	1	3	3	NULL	NULL	NULL	281	123	0.0011862396204033213
+pyogenic complication	osteomyelitis	1	1	3	3	NULL	NULL	NULL	330	135	0.00101010101010101
+pyogenic infection	acute pyogenic infection	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pyogenic infection	low-grade pyogenic infection	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pyogenic microorganism	staphylococcus	1	1	2	2	NULL	NULL	NULL	367	104	0.0013623978201634877
+pyogenic microorganism	streptococcus	1	1	2	2	NULL	NULL	NULL	330	99	0.0015151515151515152
+pyogenic organism	Escherichia coli	2	1	11	6	0.400000000000	NULL	NULL	934	281	0.0003893322951138797
+pyogenic organism	Chlamydia trachomatis	2	1	11	6	0.400000000000	NULL	NULL	86	34	0.004228329809725159
+pyogenic organism	staphylococcus	2	1	11	6	0.400000000000	NULL	NULL	367	104	0.0009908347783007185
+pyogenic organism	streptococcus	2	1	11	6	0.400000000000	NULL	NULL	330	99	0.0011019283746556475
+pyogenic organism	Neisseria gonorrhoeae	2	1	11	6	0.400000000000	NULL	NULL	70	35	0.005194805194805195
+pyogenic organism	mixed pyogenic organism	1	1	11	6	0.400000000000	NULL	NULL	2	2	0.045454545454545456
+pyongyang's alleged illicit activity	counterfeiting of U.S. dollar bill	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pyoverdins	pseudobactin B10	1	1	1	1	NULL	NULL	NULL	1	1	1
+PYPC event	annual Lake Success Yacht Rendezvous	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyralids	Galleria mellonella	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+pyramid	Step Pyramid of King Zoser at Saqqara by the famous Egyptian architect	4	3	28	20	0.571428571428	NULL	NULL	4	1	0.14285714285714285
+pyramid	Vegetarian Pyramid	3	3	28	20	0.571428571428	NULL	NULL	3	1	0.10714285714285714
+pyramid	Mediterranean Diet Pyramid	2	2	28	20	0.571428571428	NULL	NULL	3	2	0.047619047619047616
+pyramid	Asian Pyramid	2	2	28	20	0.571428571428	NULL	NULL	3	2	0.047619047619047616
+pyramid	Giza pyramid	2	1	28	20	0.571428571428	NULL	NULL	14	7	0.01020408163265306
+pyramid	tombs built in Egypt	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Red Pyramid at Dashur	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	massive, terraced adobe pyramid	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Mayan pyramid	1	1	28	20	0.571428571428	NULL	NULL	3	3	0.011904761904761904
+pyramid	step pyramid	1	1	28	20	0.571428571428	NULL	NULL	2	2	0.017857142857142856
+pyramid	great pyramid of Cheops on the Giza Plateau	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Great Sphinx	1	1	28	20	0.571428571428	NULL	NULL	11	10	0.0032467532467532465
+pyramid	pyramids at Giza	1	1	28	20	0.571428571428	NULL	NULL	10	8	0.0035714285714285713
+pyramid	Stepped Pyramid of Djoser designed by the first known architect Imhotep	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Step Pyramid of King Zoser	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Harvard Healthy Eating Pyramid	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	oldest step pyramid	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Pyramid Of Userkaf	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid	Pyramid of Giza	1	1	28	20	0.571428571428	NULL	NULL	2	5	0.017857142857142856
+pyramid	Soul Food Pyramid	1	1	28	20	0.571428571428	NULL	NULL	1	1	0.03571428571428571
+pyramid bag tea	Vanilla Caramel Truffle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramid bag tea	Mandarin Orange Green Tea	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramid building	transamerica pyramid in san francisco	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pyramid investment scheme	Caritas in Romania	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pyramid investment scheme	MMM in Russia	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramid line	PY 83	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyramid page	Khafre	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+pyramid page	Khufu	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+pyramid part	clock	1	1	2	2	NULL	NULL	NULL	1980	872	0.0002525252525252525
+pyramid part	motor	1	1	2	2	NULL	NULL	NULL	2780	997	0.00017985611510791367
+pyramid salt	Australian Murray River	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyramid scheme	unlawful multi-level marketing on the Keokuk Social Network	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyramid scheme oil	Amsoil	1	1	1	1	NULL	NULL	NULL	108	76	0.009259259259259259
+pyramid selling scheme	chain-gifting scheme	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramid selling scheme	Amway	1	1	2	2	NULL	NULL	NULL	297	120	0.0016835016835016834
+pyramid shaped crystal	Apophyllite	3	3	3	1	1.000000000000	NULL	NULL	11	8	0.2727272727272727
+pyramid site	Zawiyet el-aryan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramid site	Abusir	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+pyramid stud accessory	ring	1	1	1	1	NULL	NULL	NULL	2378	930	0.00042052144659377626
+pyramid style company	TNI	1	0	4	4	0.333333333333	NULL	NULL	3	3	0.08333333333333333
+pyramid style company	Mary Kay	1	0	4	4	0.333333333333	NULL	NULL	310	128	0.0008064516129032258
+pyramid style company	Xango	1	0	4	4	0.333333333333	NULL	NULL	10	7	0.025
+pyramid style company	Amway	1	0	4	4	0.333333333333	NULL	NULL	297	120	0.0008417508417508417
+Pyramid-shaped cheese	Valencay	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pyramid-shaped crystal	apophyllite	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+pyramidal effect	trouble with finer motor skill	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramidal effect	transition	1	1	2	2	NULL	NULL	NULL	460	223	0.0010869565217391304
+pyramidal holly	American holly	1	1	1	1	1.000000000000	NULL	NULL	53	38	0.018867924528301886
+pyramidal institution	Foundation	2	2	2	1	NULL	NULL	NULL	1308	584	0.0015290519877675841
+pyramidal manifestation	chorea	1	1	1	1	NULL	NULL	NULL	105	57	0.009523809523809525
+pyramidal pathway	corticospinal	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+pyramidal plant	Spruce	1	1	1	1	NULL	NULL	NULL	241	86	0.004149377593360996
+pyramidal side effect	bradykinesia	1	1	3	3	NULL	NULL	NULL	64	33	0.005208333333333333
+pyramidal side effect	tremor	1	1	3	3	NULL	NULL	NULL	1062	358	0.0003138731952291274
+pyramidal side effect	rigidity	1	1	3	3	NULL	NULL	NULL	310	133	0.001075268817204301
+pyramidal sign	hyperreflexia	2	2	9	8	0.500000000000	NULL	NULL	44	26	0.0101010101010101
+pyramidal sign	bradykinesia	1	0	9	8	0.500000000000	NULL	NULL	64	33	0.001736111111111111
+pyramidal sign	babinski	1	1	9	8	0.500000000000	NULL	NULL	8	6	0.013888888888888888
+pyramidal sign	dystonia	1	0	9	8	0.500000000000	NULL	NULL	163	69	0.0006816632583503748
+pyramidal sign	extensor plantar response	1	1	9	8	0.500000000000	NULL	NULL	3	3	0.037037037037037035
+pyramidal sign	spasticity	1	1	9	8	0.500000000000	NULL	NULL	147	72	0.0007558578987150415
+pyramidal sign	hyperrefl exia	1	1	9	8	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+pyramidal sign	choreoathetosis	1	0	9	8	0.500000000000	NULL	NULL	14	11	0.007936507936507936
+pyramidal structure	Shiite grand ayatollahs in Iran	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyramidal sulfur derivative	sulfonic ester	1	1	3	3	0.666666666666	NULL	NULL	1	1	0.3333333333333333
+pyramidal sulfur derivative	sulfonium salt	1	1	3	3	0.666666666666	NULL	NULL	18	7	0.018518518518518517
+pyramidal sulfur derivative	sulfoxides	1	1	3	3	0.666666666666	NULL	NULL	25	16	0.013333333333333332
+pyramidal surface	pediment	1	1	1	1	NULL	NULL	NULL	55	30	0.01818181818181818
+pyramidal symptom	spasticity	1	1	6	7	0.600000000000	NULL	NULL	147	72	0.0011337868480725624
+pyramidal symptom	hyperreflexia	1	1	6	7	0.600000000000	NULL	NULL	44	26	0.0037878787878787876
+pyramidal symptom	acute dystonic	1	1	6	7	0.600000000000	NULL	NULL	1	1	0.16666666666666666
+pyramidal symptom	akathisia	1	1	6	7	0.600000000000	NULL	NULL	80	32	0.0020833333333333333
+pyramidal symptom	akinesia	1	1	6	7	0.600000000000	NULL	NULL	22	15	0.007575757575757575
+pyramidal symptom	clonus	1	1	6	7	0.600000000000	NULL	NULL	19	13	0.008771929824561403
+pyramidal tract sign	brisk tendon reflex	2	1	5	4	1.000000000000	NULL	NULL	3	2	0.26666666666666666
+pyramidal tract sign	Babinski's reflex	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+pyramidal tract sign	clinical feature pyramidal tract sign	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+pyramidal tract sign	Babinski sign	1	1	5	4	1.000000000000	NULL	NULL	8	6	0.025
+pyramided award	Category 3 award	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyramided award	Last County	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyran compound	substituted dihydropyran molecule	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyranosyl uronic acid	glucoronic acid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyranosyl uronic acid	galactonic acid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrantel based dewormer	Nemex	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+pyrazalone derivative	cimetidine	1	1	6	6	0.200000000000	NULL	NULL	726	175	0.0002295684113865932
+pyrazalone derivative	carbamazepine	1	1	6	6	0.200000000000	NULL	NULL	1291	232	0.00012909888974954814
+pyrazalone derivative	gold salt	1	1	6	6	0.200000000000	NULL	NULL	43	18	0.003875968992248062
+pyrazalone derivative	phenylbutazone	1	1	6	6	0.200000000000	NULL	NULL	234	67	0.0007122507122507122
+pyrazalone derivative	hydantoin derivative	1	1	6	6	0.200000000000	NULL	NULL	2	2	0.08333333333333333
+pyrazalone derivative	lithium	1	1	6	6	0.200000000000	NULL	NULL	1924	438	0.00008662508662508663
+pyrazine derivative	pyrazine polycyclic compound	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrazine derivative o	dihalopyrazine compound like 2,6-dichloropyrazine	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pyrazinecarboxamides	benzamil	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Pyrazines	IBMP	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrazol-4-acetic acid compound	substituted pyrazol-4-acetic acid	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrazole nucleus-containing heterocyclic aromatic ring	indazoles	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+pyrazole nucleus-containing heterocyclic aromatic ring	pyrazoles	1	1	2	2	1.000000000000	NULL	NULL	8	9	0.0625
+pyrazole skeleton-containing heterocyclic aromatic ring	pyrazoles	1	1	2	2	1.000000000000	NULL	NULL	8	9	0.0625
+pyrazole skeleton-containing heterocyclic aromatic ring	indazoles	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+pyrazoline derivs	BW 755C	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pyrazolium salt	chloride	1	1	1	1	NULL	NULL	NULL	1809	576	0.000552791597567717
+Pyrazolopyridines	etazolate	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrazolopyrimidinone PDE5 inhibitor	sildenafil for the treatment of polycystic ovary syndrome	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pyrazolopyrimidinones	vardenafil	2	2	2	1	NULL	NULL	NULL	122	44	0.01639344262295082
+pyre	jumping on pyre	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrene compound	benzopyrene	1	1	1	1	NULL	NULL	NULL	239	85	0.0041841004184100415
+pyrenean resort	Burgette	2	1	13	8	NULL	NULL	NULL	2	1	0.15384615384615385
+pyrenean resort	Tuca	2	1	13	8	NULL	NULL	NULL	2	1	0.15384615384615385
+pyrenean resort	Cerler	2	1	13	8	NULL	NULL	NULL	3	2	0.10256410256410257
+pyrenean resort	Formigal	2	1	13	8	NULL	NULL	NULL	2	1	0.15384615384615385
+pyrenean resort	Panticosa	2	1	13	8	NULL	NULL	NULL	3	2	0.10256410256410257
+pyrenean resort	Font Romau	1	1	13	8	NULL	NULL	NULL	1	1	0.07692307692307693
+pyrenean resort	Les Angles	1	1	13	8	NULL	NULL	NULL	5	5	0.015384615384615385
+pyrenean resort	Piau	1	1	13	8	NULL	NULL	NULL	4	4	0.019230769230769232
+Pyrenean species	izard	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+pyreneans station	Pink Sanworts	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyreneans station	Pyrenean Germander	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrenediamine derivative	1	1	1	1	1	NULL	NULL	NULL	1006	553	0.0009940357852882703
+Pyrenees	Col d'aubisque	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Pyrenees	Aspin	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+pyrenees resort	Pas de la Casa	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+pyrenees resort	Les Angles	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+pyrenees resort	Cauterets	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+pyrenees true representative	roadside Alpine Accentor	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyrenees true representative	Alpine Chough	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+pyrenetrisulphonate derivative	acetyl azide	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrenoid-bearing genus	Dictyosphaerium	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+Pyrenophora species	Pyrenophora graminea	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyret hroids	cyfluthrin	1	1	1	1	NULL	NULL	NULL	85	29	0.011764705882352941
+pyrethric acid series	tetramethrin	2	2	4	2	1.000000000000	NULL	NULL	5	4	0.2
+pyrethric acid series	phenothrin	2	2	4	2	1.000000000000	NULL	NULL	14	7	0.07142857142857142
+pyrethrin product	Pyganic Pro concentrate	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pyrethrin-based insect foggers	Spectracide Bug Stop Insect Killer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Pyrethrin-based insect foggers	Raid Yard Guard Outdoor Fogger	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pyrethrin-based product	powder	1	1	2	2	NULL	NULL	NULL	1241	538	0.00040290088638195
+pyrethrin-based product	shampoo	1	1	2	2	NULL	NULL	NULL	3875	1061	0.00012903225806451613
+Pyrethrins	phenothrin	3	1	5	3	0.500000000000	NULL	NULL	14	7	0.12857142857142856
+Pyrethrins	CYP	1	1	5	3	0.500000000000	NULL	NULL	7	7	0.028571428571428574
+Pyrethrins	permectrin for a premise spray	1	1	5	3	0.500000000000	NULL	NULL	1	1	0.2
+pyrethroid	cyfluthrin	1	1	2	2	0.500000000000	NULL	NULL	85	29	0.0058823529411764705
+pyrethroid	tempoinsecticide from bayer corporation	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+pyrethroid alternative	spinosad	1	1	1	1	0.500000000000	NULL	NULL	76	45	0.013157894736842105
+pyrethroid chemical	foliar pyrethroid chemical	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+pyrethroid chemical	deltamethrin	1	1	5	5	NULL	NULL	NULL	106	36	0.0018867924528301887
+pyrethroid chemical	Klartan	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+pyrethroid chemical	Mavrik	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+pyrethroid chemical	cypermethrin	1	1	5	5	NULL	NULL	NULL	69	21	0.002898550724637681
+pyrethroid compound	cypermethrin	2	2	10	8	0.571428571428	NULL	NULL	69	21	0.005797101449275362
+pyrethroid compound	cyfluthrin	2	2	10	8	0.571428571428	NULL	NULL	85	29	0.004705882352941177
+pyrethroid compound	esfenvalerate	1	1	10	8	0.571428571428	NULL	NULL	24	10	0.004166666666666667
+pyrethroid compound	permethrin	1	1	10	8	0.571428571428	NULL	NULL	319	105	0.00031347962382445143
+pyrethroid compound	deltamethrin	1	1	10	8	0.571428571428	NULL	NULL	106	36	0.0009433962264150943
+pyrethroid compound	phenothrin	1	1	10	8	0.571428571428	NULL	NULL	14	7	0.0071428571428571435
+pyrethroid compound	bifenthrin	1	1	10	8	0.571428571428	NULL	NULL	107	41	0.0009345794392523365
+pyrethroid compound	natural pyrethrin	1	1	10	8	0.571428571428	NULL	NULL	1	1	0.1
+pyrethroid insecticide	permethrin	8	8	43	17	0.785714285714	NULL	NULL	319	105	0.004665743238317416
+pyrethroid insecticide	cyfluthrin	6	6	43	17	0.785714285714	NULL	NULL	85	29	0.00984952120383037
+pyrethroid insecticide	esfenvalerate	5	5	43	17	0.785714285714	NULL	NULL	24	10	0.02422480620155039
+pyrethroid insecticide	bifenthrin	5	4	43	17	0.785714285714	NULL	NULL	107	41	0.005433601391001956
+pyrethroid insecticide	deltamethrin	3	3	43	17	0.785714285714	NULL	NULL	106	36	0.0019745502413339184
+pyrethroid insecticide	Capture	2	2	43	17	0.785714285714	NULL	NULL	109	77	0.0008534243652656283
+pyrethroid insecticide	Suspend SC	2	2	43	17	0.785714285714	NULL	NULL	14	11	0.006644518272425249
+pyrethroid insecticide	cypermethrin	2	2	43	17	0.785714285714	NULL	NULL	69	21	0.0013481631277384564
+pyrethroid insecticide	Mombasa Defender Mosquito Net	2	2	43	17	0.785714285714	NULL	NULL	2	1	0.046511627906976744
+pyrethroid insecticide	advanced pyrethroid insecticide	1	1	43	17	0.785714285714	NULL	NULL	2	2	0.011627906976744186
+pyrethroid insecticide	Asana	1	1	43	17	0.785714285714	NULL	NULL	20	20	0.0011627906976744186
+pyrethroid insecticide	broad spectrum pyrethroid insecticide	1	1	43	17	0.785714285714	NULL	NULL	2	2	0.011627906976744186
+pyrethroid insecticide	lambda-cyhalothrin	1	1	43	17	0.785714285714	NULL	NULL	25	10	0.0009302325581395348
+pyrethroid insecticide	pyrethrins	1	1	43	17	0.785714285714	NULL	NULL	77	38	0.0003020235578375113
+pyrethroid insecticide	pyrethrum	1	1	43	17	0.785714285714	NULL	NULL	172	74	0.00013520822065981613
+pyrethroid insecticide	Ripcord	1	1	43	17	0.785714285714	NULL	NULL	5	4	0.004651162790697674
+pyrethroid insecticide	Warrior	1	1	43	17	0.785714285714	NULL	NULL	235	131	0.00009896091044037604
+Pyrethroid miticides	fluvalinate	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+pyrethroid pesticide	permethrin	2	2	7	6	NULL	NULL	NULL	319	105	0.0017913121361397223
+pyrethroid pesticide	cyfluthrin	1	1	7	6	NULL	NULL	NULL	85	29	0.001680672268907563
+pyrethroid pesticide	deltamethrin	1	1	7	6	NULL	NULL	NULL	106	36	0.001347708894878706
+pyrethroid pesticide	bifenthrin	1	1	7	6	NULL	NULL	NULL	107	41	0.0013351134846461949
+pyrethroid pesticide	cypermethrin	1	1	7	6	NULL	NULL	NULL	69	21	0.0020703933747412005
+pyrethroid pesticide	sprayed around the home	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+pyrethroid product	lambda-cyhalothrin	1	1	4	4	0.333333333333	NULL	NULL	25	10	0.01
+pyrethroid product	deltermethrin	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+pyrethroid product	plug-ins	1	1	4	4	0.333333333333	NULL	NULL	108	66	0.0023148148148148147
+pyrethroid product	cypermethrin	1	1	4	4	0.333333333333	NULL	NULL	69	21	0.0036231884057971015
+Pyrethroid s	deltamethrin	1	1	1	1	NULL	NULL	NULL	106	36	0.009433962264150943
+pyrethroid-based insecticide	bifenthrin	2	2	3	2	1.000000000000	NULL	NULL	107	41	0.012461059190031152
+pyrethroid-based insecticide	residual pyrethroid-based insecticide	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+Pyrethroids	permethrin	39	35	188	33	0.772727272727	NULL	NULL	319	105	0.025361835523244183
+Pyrethroids	deltamethrin	33	29	188	33	0.772727272727	NULL	NULL	106	36	0.05464672822159775
+Pyrethroids	bifenthrin	21	18	188	33	0.772727272727	NULL	NULL	107	41	0.02192284748458938
+Pyrethroids	cypermethrin	17	16	188	33	0.772727272727	NULL	NULL	69	21	0.02227875423990133
+Pyrethroids	cyfluthrin	17	17	188	33	0.772727272727	NULL	NULL	85	29	0.018085106382978725
+Pyrethroids	resmethrin	14	13	188	33	0.772727272727	NULL	NULL	37	9	0.028177113283496258
+Pyrethroids	lambda-cyhalothrin	6	6	188	33	0.772727272727	NULL	NULL	25	10	0.007659574468085106
+Pyrethroids	phenothrin	5	5	188	33	0.772727272727	NULL	NULL	14	7	0.009498480243161094
+Pyrethroids	cyhalothrin	4	2	188	33	0.772727272727	NULL	NULL	6	3	0.014184397163120567
+Pyrethroids	fenvalerate	3	3	188	33	0.772727272727	NULL	NULL	12	8	0.003989361702127659
+Pyrethroids	sumithrin	3	3	188	33	0.772727272727	NULL	NULL	15	5	0.0031914893617021275
+Pyrethroids	transfluthrin	2	2	188	33	0.772727272727	NULL	NULL	2	1	0.010638297872340425
+Pyrethroids	Pounce	2	2	188	33	0.772727272727	NULL	NULL	13	11	0.001636661211129296
+Pyrethroids	allethrin	2	2	188	33	0.772727272727	NULL	NULL	11	8	0.0019342359767891683
+Pyrethroids	Mustang MAX	2	1	188	33	0.772727272727	NULL	NULL	6	5	0.0035460992907801418
+Pyrethroids	Danitol	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethroids	empenthrin andtransfluthrin	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethroids	Baythroid	1	1	188	33	0.772727272727	NULL	NULL	2	2	0.0026595744680851063
+Pyrethroids	Astro	1	1	188	33	0.772727272727	NULL	NULL	93	31	0.000057195149851292606
+Pyrethroids	applied in a broadcast treatment	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+pyrethroids	generation synthetic pyrethroids	1	1	188	33	0.772727272727	NULL	NULL	2	2	0.0026595744680851063
+Pyrethroids	Mustang	1	1	188	33	0.772727272727	NULL	NULL	220	123	0.000024177949709864603
+pyrethroids	expensive synthetic pyrethroids	1	1	188	33	0.772727272727	NULL	NULL	2	2	0.0026595744680851063
+pyrethroids	advanced generation pyrethroids	1	1	188	33	0.772727272727	NULL	NULL	2	2	0.0026595744680851063
+pyrethroids	type ii pyrethroids	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethroids	tetramethrin	1	1	188	33	0.772727272727	NULL	NULL	5	4	0.0010638297872340426
+pyrethroids	czech republic synthetic pyrethroids	1	1	188	33	0.772727272727	NULL	NULL	2	2	0.0026595744680851063
+Pyrethroids	empenthrin	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethroids	lambda cyhalothrin	1	1	188	33	0.772727272727	NULL	NULL	4	4	0.0013297872340425532
+Pyrethroids	Decathalon	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethroids	esfenvalerate	1	1	188	33	0.772727272727	NULL	NULL	24	10	0.00022163120567375886
+pyrethroids	optically active pyrethroids	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethroids	Proaxis	1	1	188	33	0.772727272727	NULL	NULL	1	1	0.005319148936170213
+Pyrethrum agro-chemicals	pesticide	1	1	2	2	NULL	NULL	NULL	4878	1151	0.0001025010250102501
+Pyrethrum agro-chemicals	fertilizer	1	1	2	2	NULL	NULL	NULL	3071	945	0.00016281341582546403
+pyrethrum constituent	sugar	2	2	11	6	0.400000000000	NULL	NULL	9798	2484	0.000037113325539534974
+pyrethrum constituent	inorganic salt	2	2	11	6	0.400000000000	NULL	NULL	146	86	0.0024906600249066002
+pyrethrum constituent	alkaloid	2	2	11	6	0.400000000000	NULL	NULL	309	135	0.0011768167107972934
+pyrethrum constituent	fruit acid	2	2	11	6	0.400000000000	NULL	NULL	209	188	0.0017398869073510222
+pyrethrum constituent	amino acid	2	2	11	6	0.400000000000	NULL	NULL	2111	741	0.00017225787003143707
+pyrethrum constituent	pigments chlorophyll	1	1	11	6	0.400000000000	NULL	NULL	1	1	0.09090909090909091
+Pyrethrum synergists	piperonyl butoxide	3	3	4	2	1.000000000000	NULL	NULL	43	11	0.05232558139534884
+Pyrethrum synergists	Sesamex	1	1	4	2	1.000000000000	NULL	NULL	4	3	0.0625
+pyrethrum treatment	Apistan	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+Pyrethrum-based insect foggers	Spectracide Bug Stop Insect Killer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Pyrethrum-based insect foggers	Raid Yard Guard Outdoor Fogger	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pyretics	paracetamol	1	1	1	1	0.500000000000	NULL	NULL	1812	372	0.0005518763796909492
+pyrex dish	plate	1	1	1	1	NULL	NULL	NULL	2349	1069	0.0004257130693912303
+Pyrex glassware	graduated cylinder	1	1	1	1	1.000000000000	NULL	NULL	37	28	0.02702702702702703
+Pyrex tableware	plate	2	2	2	1	NULL	NULL	NULL	2349	1069	0.0008514261387824606
+pyridine alkaloid	anabasine	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+pyridine alkaloid	nicotine	1	1	2	2	NULL	NULL	NULL	1517	369	0.0003295978905735003
+Pyridine carboxylates	picolinate	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+pyridine compound	2	3	2	5	2	NULL	NULL	NULL	1172	663	0.0015358361774744026
+pyridine compound	above-exemplified compound	2	2	5	2	NULL	NULL	NULL	2	1	0.4
+pyridine product	3	1	1	2	2	NULL	NULL	NULL	731	485	0.0006839945280437756
+pyridine product	5-methylnicotinic acid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Pyridine-bearing heteroarenes	thiophene	1	1	1	1	NULL	NULL	NULL	81	53	0.012345679012345678
+Pyridinedicarboxylate ligands	2	1	1	1	1	NULL	NULL	NULL	1172	663	0.0008532423208191126
+Pyridines	1,10-phenanthroline	1	1	2	2	NULL	NULL	NULL	36	22	0.013888888888888888
+pyridines	preferably 2,6-disubstituted pyridines	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyridinium based compound	viologen	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+pyridinium compound	viologen	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+pyridinium salt	dodecyl-pyridinium chloride	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridinium salt	nitro benzyl carbamoyl pyridinium chloride	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridinium salt	N-methyl-2,2 -dipyridinium iodide	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridinium salt	N-methylpyridinium iodide	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridinium-based ionic liquid	1-butyl-pyridinium chloride	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyridinyl imidazole compound	SB 203580	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+pyridinylimidazoles	SB203580	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+Pyridium medication	pets generic zyprexa minomycin minocycline online salt	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyridium salt	dodecyl pyridinium bromide	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pyridium salt	cetyl pyridinium chloride	1	1	6	6	1.000000000000	NULL	NULL	8	7	0.020833333333333332
+pyridium salt	deceyl pyridinium chloride	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pyridium salt	heptyl pyridinium chloride	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pyridium salt	isopropyl pyridinium chloride	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+pyridium salt	butyl pyridinium chloride	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+Pyridoimidazoisoquinolin-5-ones	CHNO	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyridoindole derivative	dimebon	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+pyridone alkaloid	cytisine	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+pyridoxal phosphate antagonist	isoniazide	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+pyridyl	2-	1	1	1	1	1.000000000000	NULL	NULL	44	43	0.022727272727272728
+pyridyl ligands	tetrapyridines	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridyl ligands	bipyridines	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridyl ligands	terpyridines	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyridyl ligands	phenanthrolines	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Pyridylcarboxylates	nicotinate	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Pyrimethamines	trimethoprim	1	1	1	1	NULL	NULL	NULL	163	45	0.006134969325153374
+pyrimide antagonist	cytarabine	1	1	1	1	NULL	NULL	NULL	80	32	0.0125
+pyrimidine	thymine glycol	1	1	6	6	0.615384615384	NULL	NULL	11	8	0.01515151515151515
+pyrimidine	simple fused pyrimidine	1	1	6	6	0.615384615384	NULL	NULL	1	1	0.16666666666666666
+pyrimidine	other-d -2-fluoro-5-substitutedarabinosyl  pyrimidine	1	1	6	6	0.615384615384	NULL	NULL	1	1	0.16666666666666666
+pyrimidine	uridine	1	1	6	6	0.615384615384	NULL	NULL	14	11	0.011904761904761904
+pyrimidine	cytidine	1	1	6	6	0.615384615384	NULL	NULL	11	8	0.01515151515151515
+pyrimidine	5-FU	1	1	6	6	0.615384615384	NULL	NULL	105	52	0.0015873015873015873
+pyrimidine analog	5-FU	2	1	8	7	0.714285714285	NULL	NULL	105	52	0.004761904761904762
+pyrimidine analog	cytarabine	1	1	8	7	0.714285714285	NULL	NULL	80	32	0.0015625
+pyrimidine analog	telbivudine	1	1	8	7	0.714285714285	NULL	NULL	19	10	0.006578947368421052
+pyrimidine analog	emtricitabine	1	1	8	7	0.714285714285	NULL	NULL	18	12	0.006944444444444444
+pyrimidine analog	5-azacytidine	1	1	8	7	0.714285714285	NULL	NULL	87	30	0.0014367816091954023
+pyrimidine analog	floxuridine	1	1	8	7	0.714285714285	NULL	NULL	13	5	0.009615384615384616
+pyrimidine analog	clevudine	1	1	8	7	0.714285714285	NULL	NULL	14	8	0.008928571428571428
+pyrimidine antagonist	cytarabine	4	4	5	2	0.500000000000	NULL	NULL	80	32	0.04
+pyrimidine antagonist	5-FU	1	1	5	2	0.500000000000	NULL	NULL	105	52	0.0019047619047619048
+pyrimidine anti-metabolites	5-FU	1	1	1	1	NULL	NULL	NULL	105	52	0.009523809523809525
+pyrimidine base	uracil	1	1	1	1	1.000000000000	NULL	NULL	18	11	0.05555555555555555
+Pyrimidine deoxyribonucleosides	deoxyuridine	2	2	4	2	1.000000000000	NULL	NULL	4	3	0.25
+Pyrimidine deoxyribonucleosides	thymidine	2	2	4	2	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+pyrimidine derivative	dihydrouracil	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+pyrimidine derivative	orotic acid	1	1	3	3	1.000000000000	NULL	NULL	14	10	0.023809523809523808
+pyrimidine derivative	uracil	1	1	3	3	1.000000000000	NULL	NULL	18	11	0.018518518518518517
+pyrimidine hydrate	cytosine hydrate	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Pyrimidine NRTIs	AZT	1	1	1	1	NULL	NULL	NULL	232	90	0.004310344827586207
+pyrimidine nucleoside analog	emcitabine the pyrimidine nucleoside analog	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+pyrimidine nucleoside analog	man-made pyrimidine nucleoside analog	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+pyrimidine nucleoside analog	cytosine arabinoside	1	1	3	3	NULL	NULL	NULL	44	23	0.007575757575757575
+Pyrimidine nucleotides	UDP	3	2	7	4	0.500000000000	NULL	NULL	374	142	0.0034377387318563785
+Pyrimidine nucleotides	uridine triphosphate	2	1	7	4	0.500000000000	NULL	NULL	10	7	0.05714285714285714
+Pyrimidine nucleotides	5-hydroxy-deoxycytidine triphosphate	1	1	7	4	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+Pyrimidine nucleotides	uridine 5 -triphosphate	1	1	7	4	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+pyrimidine photoproducts	pyrimidine hydrate	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrimidine product	uracil glycol	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrimidine sulfate	minoxidil sulfate	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrimidine system	pyridopyrimidine ring system	3	2	4	2	NULL	NULL	NULL	3	1	0.75
+pyrimidine system	pyrido'2,3-d!pyrimidine ring system	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+pyrimidine therapy	Adrucil	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrimidine-antagonists	5-FU	1	1	1	1	NULL	NULL	NULL	105	52	0.009523809523809525
+pyrimidine-rich ASLs	ASL Lys UUU	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrimidine-specific agent	hydrazine	1	1	2	2	NULL	NULL	NULL	224	105	0.002232142857142857
+pyrimidine-specific agent	potassium permanganate	1	1	2	2	NULL	NULL	NULL	196	69	0.002551020408163265
+pyrimidinone PDE5 inhibitor	tadalafil	2	2	2	1	1.000000000000	NULL	NULL	127	48	0.015748031496062992
+Pyrimido-1,2,4-triazine-5,7-diones	natural products toxoflavin	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrimitdine nucleotides	cytidine triphosphate	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrite habit	framboid	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrithione salt	zinc	2	2	2	1	0.500000000000	NULL	NULL	8418	1394	0.00023758612497030174
+Pyrithiones	zinc OMADINE	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+Pyrithiones	sodium OMADINE	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+pyritic argillaceous material	colliery shale	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pyritic copper deposit	Blue Ben	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyritic material	tipple refuse	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyritic ores	New Celebration	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyro battery	Li-poly battery	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+pyro developer	PMK	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+pyro device	gold waterfall	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyro item	safety fuse	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+pyro weapon	Flamethrower	1	1	1	1	NULL	NULL	NULL	177	50	0.005649717514124294
+Pyro-clastics	tuffs	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+PyroCbs	ones in Victoria	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+pyroclastic area	plateau Aristarchus	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyroclastic debris	relict lapilli	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+pyroclastic debris	chunks of broken lava	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+pyroclastic debris	ash	1	1	4	4	0.333333333333	NULL	NULL	1923	713	0.00013000520020800833
+pyroclastic debris	cinder	1	1	4	4	0.333333333333	NULL	NULL	95	53	0.002631578947368421
+pyroclastic particle	volcanic ash	1	1	1	1	NULL	NULL	NULL	75	52	0.013333333333333334
+pyroclastic rock	tuff	3	3	7	5	0.500000000000	NULL	NULL	27	18	0.047619047619047616
+pyroclastic rock	Pozzolanelleand Pozzolana Nera	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+pyroclastic rock	zoned tuffsofSWNVFor elsewhere	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+pyroclastic rock	cinder	1	1	7	5	0.500000000000	NULL	NULL	95	53	0.0015037593984962405
+pyroclastic rock	ash	1	1	7	5	0.500000000000	NULL	NULL	1923	713	0.0000742886858331476
+pyroclastic volcanic rock	ash	1	1	1	1	NULL	NULL	NULL	1923	713	0.0005200208008320333
+pyroclastic volcanism	Mount Pinatubo in the Philippines	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+pyroclastic volcanism	Mount St. Helens in Washington	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+pyroclastic volcanism	Mount Pelee	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+Pyroclastics	tuft	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+Pyroclastics	tuffs	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+pyroclastics type explosion	Mount Saint Helens	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+pyroelectric crystal	LiTaO 3	1	1	5	5	0.750000000000	NULL	NULL	18	12	0.011111111111111112
+pyroelectric crystal	ceramic barium titanate	1	1	5	5	0.750000000000	NULL	NULL	2	2	0.1
+pyroelectric crystal	quartz	1	1	5	5	0.750000000000	NULL	NULL	2011	716	0.00009945300845350573
+pyroelectric crystal	lithium tantalate	1	1	5	5	0.750000000000	NULL	NULL	36	19	0.005555555555555556
+pyroelectric crystal	LiNbO 3	1	1	5	5	0.750000000000	NULL	NULL	63	38	0.0031746031746031746
+pyroelectric device	PIR sensor	1	1	2	2	1.000000000000	NULL	NULL	42	28	0.011904761904761904
+pyroelectric device	PIR motion detector sensor	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyroelectric element	PZT	1	1	3	3	0.666666666666	NULL	NULL	146	69	0.00228310502283105
+pyroelectric element	p hot otransistor	1	1	3	3	0.666666666666	NULL	NULL	6	6	0.05555555555555555
+pyroelectric element	p hot odiode	1	1	3	3	0.666666666666	NULL	NULL	26	21	0.01282051282051282
+pyroelectric material	TGS	2	2	9	8	1.000000000000	NULL	NULL	12	10	0.037037037037037035
+pyroelectric material	triglycine sulphate	1	1	9	8	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+pyroelectric material	tri-glycine sulphate	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+pyroelectric material	``conventional'' pyroelectric material	1	1	9	8	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+pyroelectric material	LiNbO 3	1	1	9	8	1.000000000000	NULL	NULL	63	38	0.001763668430335097
+pyroelectric material	lithium tantalate	1	1	9	8	1.000000000000	NULL	NULL	36	19	0.0030864197530864196
+pyroelectric material	LiTaO 3	1	1	9	8	1.000000000000	NULL	NULL	18	12	0.006172839506172839
+pyroelectric material	triglycine sulfate	1	1	9	8	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+pyroforic material	alkyl aluminum	1	1	1	1	NULL	NULL	NULL	1	1	1
+Pyrogenic cytokines	IL-6	2	2	7	5	NULL	NULL	NULL	820	218	0.0006968641114982578
+Pyrogenic cytokines	IL-1	2	2	7	5	NULL	NULL	NULL	586	117	0.0009751340809361287
+Pyrogenic cytokines	tumor necrosis factor	1	1	7	5	NULL	NULL	NULL	428	110	0.0003337783711615487
+Pyrogenic cytokines	interleukin-6	1	1	7	5	NULL	NULL	NULL	391	102	0.00036536353671903543
+Pyrogenic cytokines	interleukin-1	1	1	7	5	NULL	NULL	NULL	467	76	0.0003059039461609055
+pyrogenic drug	dinitrocresol	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+pyrogenic drug	dinitrophenol	1	1	4	4	0.500000000000	NULL	NULL	37	26	0.006756756756756757
+pyrogenic drug	progesterone	1	1	4	4	0.500000000000	NULL	NULL	811	185	0.00030826140567200987
+pyrogenic drug	etiocholanolone	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+pyrogenic effect	elevated temperature	1	1	1	1	NULL	NULL	NULL	134	72	0.007462686567164179
+pyrogenic grass	little bluestem	1	1	2	2	0.500000000000	NULL	NULL	187	65	0.00267379679144385
+pyrogenic grass	wiregrass	1	1	2	2	0.500000000000	NULL	NULL	30	20	0.016666666666666666
+Pyrogenic PAHs	benzopyrene	1	1	3	3	0.333333333333	NULL	NULL	239	85	0.001394700139470014
+Pyrogenic PAHs	fluoranthene	1	1	3	3	0.333333333333	NULL	NULL	37	26	0.009009009009009009
+Pyrogenic PAHs	pyrene	1	1	3	3	0.333333333333	NULL	NULL	101	57	0.0033003300330033
+pyrogenic phase	plagioclase	1	1	1	1	1.000000000000	NULL	NULL	42	23	0.023809523809523808
+pyrogenic silicic acid	commercial Aerosil.RTM	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrogenic toxin	staphylococcal enterotoxins	1	1	1	1	NULL	NULL	NULL	12	4	0.08333333333333333
+Pyrogenic understorey species	bladey grass	2	1	2	1	NULL	NULL	NULL	2	1	1
+pyrogenous residue	tar	1	1	1	1	NULL	NULL	NULL	813	356	0.0012300123001230013
+pyrogens	bacterium	2	2	4	3	0.285714285714	NULL	NULL	6921	1358	0.00014448779078167894
+pyrogens	IL-8	1	1	4	3	0.285714285714	NULL	NULL	329	97	0.0007598784194528875
+pyrogens	virus	1	1	4	3	0.285714285714	NULL	NULL	4964	1250	0.00005036261079774375
+pyroglyphid mite	Dermatophagoides pteronyssinus	1	1	1	1	NULL	NULL	NULL	11	3	0.09090909090909091
+pyrolizable polymeric foam	polymethylmethacrylate	1	1	1	1	NULL	NULL	NULL	164	77	0.006097560975609756
+pyrolizable, polymeric foam	polymethylmethacrylate	1	1	1	1	NULL	NULL	NULL	164	77	0.006097560975609756
+pyrolysate	cannibis pyrolysate	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrolysis catalytic process	biomass pyrolysis	1	1	1	1	1.000000000000	NULL	NULL	6	3	0.16666666666666666
+pyrolysis condition	exposure time	3	1	16	9	0.600000000000	NULL	NULL	207	84	0.002717391304347826
+pyrolysis condition	gas pressure	3	1	16	9	0.600000000000	NULL	NULL	96	46	0.005859375
+pyrolysis condition	microwave radiation power	3	1	16	9	0.600000000000	NULL	NULL	3	1	0.1875
+pyrolysis condition	composition of the organic precursor	2	1	16	9	0.600000000000	NULL	NULL	2	1	0.125
+pyrolysis condition	composition of the organometallic precursor	1	1	16	9	0.600000000000	NULL	NULL	1	1	0.0625
+pyrolysis condition	soaking time	1	1	16	9	0.600000000000	NULL	NULL	14	7	0.004464285714285714
+pyrolysis condition	temperature	1	1	16	9	0.600000000000	NULL	NULL	21509	4199	0.000002905760379376075
+pyrolysis condition	ramp rate	1	1	16	9	0.600000000000	NULL	NULL	27	13	0.0023148148148148147
+pyrolysis condition	pyrolysis atmosphere	1	1	16	9	0.600000000000	NULL	NULL	3	2	0.020833333333333332
+pyrolysis fraction	tar	1	1	1	1	NULL	NULL	NULL	813	356	0.0012300123001230013
+pyrolysis gas	methane	1	1	2	2	NULL	NULL	NULL	3391	784	0.0001474491300501327
+pyrolysis gas	carbon monoxide	1	1	2	2	NULL	NULL	NULL	2340	669	0.00021367521367521368
+pyrolysis model	employed by Yan	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrolysis process	Dynamotive	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+pyrolysis process	coking	1	1	3	3	1.000000000000	NULL	NULL	36	24	0.009259259259259259
+pyrolysis process	visbreaking	1	1	3	3	1.000000000000	NULL	NULL	14	11	0.023809523809523808
+pyrolysis product	phenolic varnish	4	3	26	17	0.222222222222	NULL	NULL	4	1	0.15384615384615385
+pyrolysis product	silicon rubber	3	3	26	17	0.222222222222	NULL	NULL	77	51	0.004495504495504495
+pyrolysis product	carbon monoxide	3	2	26	17	0.222222222222	NULL	NULL	2340	669	0.00014792899408284024
+pyrolysis product	ethane	2	2	26	17	0.222222222222	NULL	NULL	420	156	0.0003663003663003663
+pyrolysis product	propane	2	2	26	17	0.222222222222	NULL	NULL	1936	597	0.00007946598855689765
+pyrolysis product	epoxy glass pressedcomposites	1	1	26	17	0.222222222222	NULL	NULL	1	1	0.038461538461538464
+pyrolysis product	acetone	1	1	26	17	0.222222222222	NULL	NULL	2962	700	0.000012984989352308731
+pyrolysis product	agricultural soil protein-derived pyrolysis product	1	1	26	17	0.222222222222	NULL	NULL	2	2	0.019230769230769232
+pyrolysis product	carcinogenic pyrolysis product	1	1	26	17	0.222222222222	NULL	NULL	2	2	0.019230769230769232
+pyrolysis product	semivolatiletire pyrolysis product	1	1	26	17	0.222222222222	NULL	NULL	2	2	0.019230769230769232
+pyrolysis product	wood gas	1	1	26	17	0.222222222222	NULL	NULL	2	2	0.019230769230769232
+pyrolysis product	hydrogen	1	1	26	17	0.222222222222	NULL	NULL	2960	833	0.000012993762993762994
+pyrolysis product	C 4	1	1	26	17	0.222222222222	NULL	NULL	7	6	0.005494505494505495
+pyrolysis product	epoxy-glass pressed composite	1	1	26	17	0.222222222222	NULL	NULL	1	1	0.038461538461538464
+pyrolysis product	epoxy-glass pressedcomposites	1	1	26	17	0.222222222222	NULL	NULL	1	1	0.038461538461538464
+pyrolysis product	acetic acid	1	1	26	17	0.222222222222	NULL	NULL	1344	385	0.000028617216117216117
+pyrolysis product	methane	1	1	26	17	0.222222222222	NULL	NULL	3391	784	0.000011342240773087131
+PYROLYSIS solid fuel	wood	1	1	1	1	NULL	NULL	NULL	13775	3193	0.00007259528130671507
+pyrolysis stove	Lucia Stove from Worldstove	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrolysis system	K-Fuel process	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrolysis technology	Dynamotive	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pyrolysis variable	pressure	1	1	6	6	0.500000000000	NULL	NULL	4442	1435	0.000037520636349992496
+pyrolysis variable	residual oxygen concentration in the purge gas	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+pyrolysis variable	temperature	1	1	6	6	0.500000000000	NULL	NULL	21509	4199	0.000007748694345002867
+pyrolysis variable	processing temperature	1	1	6	6	0.500000000000	NULL	NULL	29	18	0.005747126436781609
+pyrolysis variable	purge gas flow rate	1	1	6	6	0.500000000000	NULL	NULL	3	3	0.05555555555555555
+pyrolysis variable	reaction rate	1	1	6	6	0.500000000000	NULL	NULL	50	31	0.003333333333333333
+Pyrolysisco-products	non-condensable gases andbiocharcoal	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrolytic approach	thermo catalytic low-temperature conversion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrolytic approach	PYREG technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrolytic coating method	conventional spray pyrolysis method	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrolytic deposit	aluminum	1	1	2	2	NULL	NULL	NULL	10290	2216	0.00004859086491739553
+pyrolytic deposit	zinc derived by decomposing methylated chemical species	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrolytic deposition technique	used in silicon layer growth	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrolytic preparation ofnanometals	copper	1	1	2	2	NULL	NULL	NULL	15607	2840	0.000032036906516306786
+pyrolytic preparation ofnanometals	zinc	1	1	2	2	NULL	NULL	NULL	8418	1394	0.000059396531242575434
+pyrolytic process	direct combustion	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+pyrolytic process	pyrolysis	1	1	3	3	NULL	NULL	NULL	246	109	0.0013550135501355014
+pyrolytic process	gasification	1	1	3	3	NULL	NULL	NULL	292	111	0.001141552511415525
+pyrolytic product	hydroxyacetaldehyde	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+pyrolytic product	levoglucosan	2	2	4	2	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+pyrolytic property	gasification rate	3	1	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+pyrolytic property	char yield	3	1	9	3	NULL	NULL	NULL	7	3	0.14285714285714285
+pyrolytic property	reactivity of the original sample	3	1	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+pyrolytic reaction	decarboxylation	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+pyrolytic reaction	elimination of a hydrogen molecule	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyrolyzable pore former	graphite	1	1	1	1	NULL	NULL	NULL	1564	575	0.0006393861892583121
+pyrolyzation atmosphere	phosphine	2	2	2	1	1.000000000000	NULL	NULL	108	64	0.018518518518518517
+pyrolyzed amino acid	creatinine	1	1	6	6	0.166666666666	NULL	NULL	263	130	0.0006337135614702154
+pyrolyzed amino acid	glutamic acid	1	1	6	6	0.166666666666	NULL	NULL	158	69	0.0010548523206751054
+pyrolyzed amino acid	lysine	1	1	6	6	0.166666666666	NULL	NULL	567	150	0.00029394473838918284
+pyrolyzed amino acid	ornithine	1	1	6	6	0.166666666666	NULL	NULL	67	21	0.0024875621890547263
+pyrolyzed amino acid	tryptophan	1	1	6	6	0.166666666666	NULL	NULL	332	114	0.000502008032128514
+pyrolyzed amino acid	phenylalanine	1	1	6	6	0.166666666666	NULL	NULL	231	82	0.0007215007215007215
+pyrolyzed product	hollow sphere of metal	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrometallurgical method	chlorinated roasting	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrometallurgical process	smelting	2	2	7	4	0.500000000000	NULL	NULL	140	54	0.004081632653061224
+pyrometallurgical process	roasting	2	2	7	4	0.500000000000	NULL	NULL	192	87	0.002976190476190476
+pyrometallurgical process	Imperial Smelting Process	2	1	7	4	0.500000000000	NULL	NULL	2	1	0.2857142857142857
+pyrometallurgical process	slag cleaning	1	1	7	4	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+pyrometers	dual wavelength pyrometers	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrometric cone	Orton's self supporting witness cone	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrometric product	cone	1	1	1	1	NULL	NULL	NULL	837	384	0.0011947431302270011
+pyrone analog	phosphorylated flavonoid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrone analog	phosphonated flavonoid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrophoric chemical	methyllithium	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+pyrophoric chemical	butyllithium	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+pyrophoric compound	silane	1	1	1	1	NULL	NULL	NULL	162	85	0.006172839506172839
+pyrophoric form	uranium metal powder	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrophoric gas	silane	1	1	1	1	NULL	NULL	NULL	162	85	0.006172839506172839
+pyrophoric liquid	borane Tetraethyl	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+pyrophoric liquid	alkylaluminum compound	1	1	6	6	NULL	NULL	NULL	4	3	0.041666666666666664
+pyrophoric liquid	triethylborane	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+pyrophoric liquid	tetraethyl borane	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+pyrophoric liquid	metalorganics	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+pyrophoric liquid	t-ethyl lithium	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+pyrophoric material	sodium	3	3	16	12	0.272727272727	NULL	NULL	4080	988	0.00013786764705882353
+pyrophoric material	lithium	2	2	16	12	0.272727272727	NULL	NULL	1924	438	0.00012993762993762994
+pyrophoric material	potassium	2	2	16	12	0.272727272727	NULL	NULL	4620	849	0.00005411255411255411
+pyrophoric material	gaseous pyrophoric material	1	1	16	12	0.272727272727	NULL	NULL	2	2	0.03125
+pyrophoric material	tungsten	1	1	16	12	0.272727272727	NULL	NULL	1823	518	0.00003428414701042238
+pyrophoric material	peroxide	1	1	16	12	0.272727272727	NULL	NULL	564	230	0.00011081560283687943
+pyrophoric material	phosphorus	1	1	16	12	0.272727272727	NULL	NULL	3102	588	0.00002014829142488717
+pyrophoric material	barium	1	1	16	12	0.272727272727	NULL	NULL	627	215	0.00009968102073365231
+pyrophoric material	white phosphorus	1	1	16	12	0.272727272727	NULL	NULL	24	14	0.0026041666666666665
+pyrophoric material	linseed oil	1	1	16	12	0.272727272727	NULL	NULL	315	119	0.0001984126984126984
+pyrophoric material	organoboron	1	1	16	12	0.272727272727	NULL	NULL	4	4	0.015625
+pyrophoric material	organolithium	1	1	16	12	0.272727272727	NULL	NULL	7	6	0.008928571428571428
+pyrophoric metal	magnesium	5	4	19	6	0.166666666666	NULL	NULL	6625	1232	0.00019860973187686194
+pyrophoric metal	thorium	4	4	19	6	0.166666666666	NULL	NULL	296	105	0.0028449502133712657
+pyrophoric metal	zirconium	4	4	19	6	0.166666666666	NULL	NULL	653	231	0.0012895945837027483
+pyrophoric metal	strontium	4	4	19	6	0.166666666666	NULL	NULL	398	176	0.002115842369743454
+pyrophoric metal	niobium	1	1	19	6	0.166666666666	NULL	NULL	498	152	0.0001056859015007398
+pyrophoric metal	copper	1	1	19	6	0.166666666666	NULL	NULL	15607	2840	0.0000033723059490849246
+pyrophoric metalorganic chemical	dimethylzinc	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrophoric substance	iron sulfide formed by sulfur corrosion of carbon steel component	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrophoric waste	DU metal	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrophosphate salt	dialkali metal pyrophosphate salt	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrophytes	Adenostoma fasciculatum	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+pyrophytes	Artemisia californica after checking on the site's potential for erosion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrophytic shrub	French broom	1	1	1	1	1.000000000000	NULL	NULL	22	10	0.045454545454545456
+pyros past film	I Robot	1	1	1	1	1.000000000000	NULL	NULL	24	9	0.041666666666666664
+pyrotechnic actuator	used in various aircraft structure	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrotechnic additive	barium nitrate	1	1	1	1	1.000000000000	NULL	NULL	41	27	0.024390243902439025
+pyrotechnic application	Defense	1	1	4	4	NULL	NULL	NULL	1651	550	0.00015142337976983646
+pyrotechnic application	Automotive Safety	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+pyrotechnic application	Propulsion	1	1	4	4	NULL	NULL	NULL	104	64	0.002403846153846154
+pyrotechnic application	Aerospace	1	1	4	4	NULL	NULL	NULL	1841	426	0.00013579576317218902
+pyrotechnic article	nail gun	1	1	3	3	NULL	NULL	NULL	100	45	0.003333333333333333
+pyrotechnic article	automotive pyrotechnic article	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pyrotechnic article	bird scarers	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+pyrotechnic composition	used in initiator device	3	2	10	6	1.000000000000	NULL	NULL	3	1	0.3
+pyrotechnic composition	infrared flare composition	2	2	10	6	1.000000000000	NULL	NULL	2	1	0.2
+pyrotechnic composition	gun propellant	2	2	10	6	1.000000000000	NULL	NULL	4	2	0.1
+pyrotechnic composition	potassium chlorate	1	1	10	6	1.000000000000	NULL	NULL	36	22	0.002777777777777778
+pyrotechnic composition	black powder	1	1	10	6	1.000000000000	NULL	NULL	62	42	0.0016129032258064516
+pyrotechnic composition	castable pyrotechnic composition	1	1	10	6	1.000000000000	NULL	NULL	2	2	0.05
+pyrotechnic device	military flare	4	3	42	35	0.388888888888	NULL	NULL	4	1	0.09523809523809523
+pyrotechnic device	flare	3	3	42	35	0.388888888888	NULL	NULL	464	240	0.00046182266009852215
+pyrotechnic device	wheel	2	2	42	35	0.388888888888	NULL	NULL	1479	630	0.00006439357352136257
+pyrotechnic device	saxons	2	2	42	35	0.388888888888	NULL	NULL	66	29	0.001443001443001443
+pyrotechnic device	hot-wire fuse lighter	2	2	42	35	0.388888888888	NULL	NULL	2	1	0.047619047619047616
+pyrotechnic device	hand-held pyrotechnic device	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	bolt cutter	1	1	42	35	0.388888888888	NULL	NULL	29	14	0.0008210180623973727
+pyrotechnic device	bird-control pyrotechnic device	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	bengal fire	1	1	42	35	0.388888888888	NULL	NULL	1	1	0.023809523809523808
+pyrotechnic device	comet	1	1	42	35	0.388888888888	NULL	NULL	603	270	0.00003948511411197978
+pyrotechnic device	flares into the stadium	1	1	42	35	0.388888888888	NULL	NULL	1	1	0.023809523809523808
+pyrotechnic device	explosive bolt	1	1	42	35	0.388888888888	NULL	NULL	7	7	0.003401360544217687
+pyrotechnic device	airbag	1	1	42	35	0.388888888888	NULL	NULL	622	237	0.00003827897718572959
+pyrotechnic device	mine	1	1	42	35	0.388888888888	NULL	NULL	626	345	0.000038034383082306405
+pyrotechnic device	non-pyrotechnic device	1	1	42	35	0.388888888888	NULL	NULL	1	1	0.023809523809523808
+pyrotechnic device	screamer	1	1	42	35	0.388888888888	NULL	NULL	12	9	0.001984126984126984
+pyrotechnic device	firework	1	1	42	35	0.388888888888	NULL	NULL	522	223	0.000045612114577631816
+pyrotechnic device	cracker shell	1	1	42	35	0.388888888888	NULL	NULL	7	6	0.003401360544217687
+pyrotechnic device	illuminating flare	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	bird bangers	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	hand	1	1	42	35	0.388888888888	NULL	NULL	1306	501	0.00001823087581127397
+pyrotechnic device	aerial flare	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	firecracker	1	1	42	35	0.388888888888	NULL	NULL	170	66	0.00014005602240896358
+pyrotechnic device	elongated pyrotechnic device	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	used with an air bag	1	1	42	35	0.388888888888	NULL	NULL	1	1	0.023809523809523808
+pyrotechnic device	white phosphorous mortar round	1	1	42	35	0.388888888888	NULL	NULL	1	1	0.023809523809523808
+pyrotechnic device	shock tube	1	1	42	35	0.388888888888	NULL	NULL	12	10	0.001984126984126984
+pyrotechnic device	red flare	1	1	42	35	0.388888888888	NULL	NULL	8	4	0.002976190476190476
+pyrotechnic device	perforates other pyrotechnic device	1	1	42	35	0.388888888888	NULL	NULL	2	2	0.011904761904761904
+pyrotechnic device	fountain	1	1	42	35	0.388888888888	NULL	NULL	1526	553	0.000015602571303750856
+pyrotechnic device	sparkler	1	1	42	35	0.388888888888	NULL	NULL	197	71	0.0001208605269518975
+pyrotechnic device	small rockets fired from hand-held pistol	1	1	42	35	0.388888888888	NULL	NULL	1	1	0.023809523809523808
+pyrotechnic device	seat belt pre-tensioners	1	1	42	35	0.388888888888	NULL	NULL	3	3	0.007936507936507936
+pyrotechnic device	smoke bomb	1	1	42	35	0.388888888888	NULL	NULL	67	33	0.00035536602700781805
+pyrotechnic distress signal	hand-held red flare pictured	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrotechnic effect	fire pot	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+pyrotechnic effect	comet	1	1	2	2	NULL	NULL	NULL	603	270	0.0008291873963515755
+pyrotechnic element	air bag canister	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrotechnic energetic material	infrared decoy flare	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrotechnic event	indoor firework	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+pyrotechnic event	earthquake	1	1	3	3	NULL	NULL	NULL	7202	1407	0.00004628343978524484
+pyrotechnic event	firework	1	1	3	3	NULL	NULL	NULL	522	223	0.0006385696040868454
+pyrotechnic firework	ones used for the Christmas Comes to Kenai show	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrotechnic heating element	gun powder	2	2	2	1	1.000000000000	NULL	NULL	27	21	0.07407407407407407
+pyrotechnic item	infrared flare	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrotechnic material	nitrocellulose	1	1	4	4	0.500000000000	NULL	NULL	156	73	0.0016025641025641025
+pyrotechnic material	cellulose	1	1	4	4	0.500000000000	NULL	NULL	1457	527	0.00017158544955387783
+pyrotechnic material	known in the art	1	1	4	4	0.500000000000	NULL	NULL	25	17	0.01
+pyrotechnic material	RDC	1	1	4	4	0.500000000000	NULL	NULL	15	13	0.016666666666666666
+pyrotechnic mixture	Flash Powder	3	3	3	1	1.000000000000	NULL	NULL	8	6	0.375
+pyrotechnic poet	Langston Hughes	1	1	3	3	0.333333333333	NULL	NULL	265	99	0.0012578616352201257
+pyrotechnic poet	Adrienne Rich	1	1	3	3	0.333333333333	NULL	NULL	64	30	0.005208333333333333
+pyrotechnic poet	Walt Whitman	1	1	3	3	0.333333333333	NULL	NULL	133	66	0.002506265664160401
+pyrotechnic producer	Swiss defense contractor RUAG	2	2	2	1	NULL	NULL	NULL	2	1	1
+pyrotechnic push-off mechanism	exploding bolt	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrotechnic safety device	airbag	8	6	8	1	NULL	NULL	NULL	622	237	0.012861736334405145
+pyrotechnic signal	hand-fired flare	3	2	9	4	0.500000000000	NULL	NULL	3	1	0.3333333333333333
+pyrotechnic signal	flare	2	1	9	4	0.500000000000	NULL	NULL	464	240	0.0009578544061302681
+pyrotechnic signal	red flare	2	2	9	4	0.500000000000	NULL	NULL	8	4	0.05555555555555555
+pyrotechnic signal	smoke signal	2	1	9	4	0.500000000000	NULL	NULL	20	13	0.02222222222222222
+pyrotechnic signal cartridge	aerial flare	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrotechnic special effect	generation of black smoke	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrotechnic special effect	simulated explosion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrotechnic substance	smoke	1	1	4	4	0.250000000000	NULL	NULL	2086	724	0.00011984659635666346
+pyrotechnic substance	explosive	1	1	4	4	0.250000000000	NULL	NULL	632	225	0.00039556962025316455
+pyrotechnic substance	firework	1	1	4	4	0.250000000000	NULL	NULL	522	223	0.0004789272030651341
+pyrotechnic substance	gun powder	1	1	4	4	0.250000000000	NULL	NULL	27	21	0.009259259259259259
+pyrotechnic system	belt pretensioner	2	1	7	6	NULL	NULL	NULL	2	1	0.2857142857142857
+pyrotechnic system	air bag	1	1	7	6	NULL	NULL	NULL	462	193	0.0003092145949288806
+pyrotechnic system	expanded cumulative cartridge	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+pyrotechnic system	pyropushers	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+pyrotechnic system	pyrolocks	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+pyrotechnic system	pyrocylinders	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+pyrotechnic training device	practice mine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrotechnic training device	flashbang grenade	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+pyrotechnic triggering device	shotgun shell	1	1	2	2	1.000000000000	NULL	NULL	15	12	0.03333333333333333
+pyrotechnic triggering device	s hot gun shell	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyrotechnical component	airbag	1	1	2	2	0.500000000000	NULL	NULL	622	237	0.0008038585209003215
+pyrotechnical component	seatbelt pretensioners	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+pyrotechnical effect	bon - fire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrotechnical effect	lighting	1	1	2	2	NULL	NULL	NULL	5506	1914	0.00009081002542680712
+Pyrotechnical equipment	signal cartridge	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+pyrotechnical item	cracker	1	1	1	1	NULL	NULL	NULL	2568	767	0.0003894080996884735
+pyrotechnical writer	George Saunders	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+Pyrotechnics	cracker shells fired from a 12-gauge shotgun	2	2	12	10	0.642857142857	NULL	NULL	2	1	0.16666666666666666
+Pyrotechnics	screamers fired from a pistol launcher	2	2	12	10	0.642857142857	NULL	NULL	2	1	0.16666666666666666
+Pyrotechnics	explosive bolts for separation	1	1	12	10	0.642857142857	NULL	NULL	1	1	0.08333333333333333
+Pyrotechnics	usual ignitors	1	1	12	10	0.642857142857	NULL	NULL	1	1	0.08333333333333333
+Pyrotechnics	flashbangs	1	1	12	10	0.642857142857	NULL	NULL	9	9	0.009259259259259259
+Pyrotechnics	carbide bird scarers	1	1	12	10	0.642857142857	NULL	NULL	1	1	0.08333333333333333
+Pyrotechnics	explosive bolt	1	1	12	10	0.642857142857	NULL	NULL	7	7	0.011904761904761904
+Pyrotechnics	12-gage shell cracker	1	1	12	10	0.642857142857	NULL	NULL	1	1	0.08333333333333333
+Pyrotechnics	SRBs	1	1	12	10	0.642857142857	NULL	NULL	2	2	0.041666666666666664
+Pyrotechnics	parachute flare	1	1	12	10	0.642857142857	NULL	NULL	5	5	0.016666666666666666
+pyrotechnicsafety device	airbag	1	1	1	1	NULL	NULL	NULL	622	237	0.001607717041800643
+pyroxene-bearing rock	dolerite	1	1	1	1	1.000000000000	NULL	NULL	13	14	0.07692307692307693
+Pyroxenes	augite	2	2	3	2	1.000000000000	NULL	NULL	20	14	0.06666666666666667
+pyroxenes	magnesium rich pyroxenes	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+pyroxenites	olivine websterites	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyrrhic market	boxed lunch	2	1	9	5	0.750000000000	NULL	NULL	27	19	0.016460905349794237
+pyrrhic market	barbecue	2	1	9	5	0.750000000000	NULL	NULL	714	343	0.0006224712107065047
+pyrrhic market	corporate function	2	1	9	5	0.750000000000	NULL	NULL	137	36	0.0032441200324412
+pyrrhic market	seated dinner event	2	1	9	5	0.750000000000	NULL	NULL	13	11	0.034188034188034185
+pyrrhic market	compounding reception	1	1	9	5	0.750000000000	NULL	NULL	4	4	0.027777777777777776
+Pyrrhua Conures	Green Cheek	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+Pyrrhua Conures	Black Cap	1	1	2	2	0.500000000000	NULL	NULL	4	4	0.125
+Pyrrhurras	Green Cheek conure	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyrro lopyrimidine com pound	antalarmin	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+pyrrole antifungal agent	Butoconazole nitrate	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+pyrrole antifungal agent	clotrimazole	1	1	2	2	NULL	NULL	NULL	400	139	0.00125
+pyrrole ligands	2	1	1	1	1	NULL	NULL	NULL	1172	663	0.0008532423208191126
+pyrrole-indoles	substituted pyrrole-indoles	1	1	1	1	NULL	NULL	NULL	1	1	1
+PYRROLES many natural product	bile pigment	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+PYRROLES many natural product	related macrocycles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyrrolic pigment	urobilin	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+pyrrolic pigment	stercobilin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Pyrrolidines	isoquinolines	2	2	2	1	NULL	NULL	NULL	6	4	0.3333333333333333
+pyrrolidone anti-convulsant compound	levetiracetam	1	1	1	1	1.000000000000	NULL	NULL	71	26	0.014084507042253521
+pyrrolidone compound	similar compounds having a lactam moiety	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pyrrolidone compound	N-Methylpyrrolidone	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+pyrrolidone derivative	piracetam	1	1	1	1	1.000000000000	NULL	NULL	72	27	0.013888888888888888
+Pyrrolidones	N-methyl-2-pyrrolidone	6	4	13	4	1.000000000000	NULL	NULL	37	22	0.07484407484407485
+Pyrrolidones	5-methyl-N-methyl pyrrolidone	3	3	13	4	1.000000000000	NULL	NULL	3	1	0.23076923076923075
+Pyrrolidones	N-cyclohexyl pyrrolidone	2	2	13	4	1.000000000000	NULL	NULL	2	1	0.15384615384615385
+Pyrrolidones	5-methyl-N-cyclohexyl pyrrolidone	2	2	13	4	1.000000000000	NULL	NULL	2	1	0.15384615384615385
+pyrrolizidine alkaloid-containing plant	Borago officinalis	1	1	7	7	1.000000000000	NULL	NULL	3	3	0.047619047619047616
+pyrrolizidine alkaloid-containing plant	fiddleneck	1	1	7	7	1.000000000000	NULL	NULL	9	4	0.015873015873015872
+pyrrolizidine alkaloid-containing plant	common heliotrope	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+pyrrolizidine alkaloid-containing plant	groundsel	1	1	7	7	1.000000000000	NULL	NULL	61	22	0.00234192037470726
+pyrrolizidine alkaloid-containing plant	rattlebox	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+pyrrolizidine alkaloid-containing plant	vipers bugloss	1	1	7	7	1.000000000000	NULL	NULL	3	2	0.047619047619047616
+pyrrolizidine alkaloid-containing plant	tansy ragwort	1	1	7	7	1.000000000000	NULL	NULL	20	11	0.007142857142857143
+pyrrolopyrimidine compound	antalarmin	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+Pyruvate	magnesium pyruvate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Pyruvate	calcium pyruvate	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+pyruvate compound	pyruvate thiolester	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyruvate compound	glycerol-pyruvate ester	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyruvate metabolism end-products	ethanol	1	1	1	1	NULL	NULL	NULL	3455	934	0.0002894356005788712
+Pyruvate salt	calcium pyruvate	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+pyruvate-converting enzyme	malate dehydrogenase	2	2	2	1	1.000000000000	NULL	NULL	16	12	0.125
+pys60 object	Canvas	1	1	1	1	NULL	NULL	NULL	1142	409	0.0008756567425569177
+Pyschiatrists	John Grohol	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pyschic power	telekinesis	1	1	4	4	NULL	NULL	NULL	157	76	0.0015923566878980893
+pyschic power	telempathy	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+pyschic power	projection	1	1	4	4	NULL	NULL	NULL	437	227	0.0005720823798627002
+pyschic power	telepathy	1	1	4	4	NULL	NULL	NULL	390	175	0.000641025641025641
+pyschoactive drug	LSD	1	1	1	1	NULL	NULL	NULL	1386	202	0.0007215007215007215
+pyschological factor	getting better confidence	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyschological loss	loss of belief in oneself	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+pyschosocial complaint	anger	1	1	3	3	NULL	NULL	NULL	7439	1466	0.00004480889008379262
+pyschosocial complaint	anxiety	1	1	3	3	NULL	NULL	NULL	10807	2261	0.000030844205915918693
+pyschosocial complaint	nervousness	1	1	3	3	NULL	NULL	NULL	857	272	0.00038895371450797355
+pyschosocial health issue	depression	1	1	2	2	0.500000000000	NULL	NULL	15330	3151	0.000032615786040443576
+pyschosocial health issue	partner violence	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+pyschosomatic complaint	headache	1	1	2	2	NULL	NULL	NULL	11164	1934	0.00004478681476173414
+pyschosomatic complaint	having a stomachache	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pyshical condition	severe illness	1	1	2	2	NULL	NULL	NULL	113	67	0.004424778761061947
+pyshical condition	injury trauma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pysical activity	pool	1	1	2	2	NULL	NULL	NULL	3504	1006	0.00014269406392694063
+pysical activity	bowling	1	1	2	2	NULL	NULL	NULL	2442	660	0.00020475020475020476
+pysical behavior	movement	1	1	1	1	NULL	NULL	NULL	1127	558	0.0008873114463176575
+pysical symptom	fatigue	1	1	4	4	NULL	NULL	NULL	7827	1619	0.000031940718027341254
+pysical symptom	poor memory	1	1	4	4	NULL	NULL	NULL	86	39	0.0029069767441860465
+pysical symptom	sleeping problem	1	1	4	4	NULL	NULL	NULL	73	40	0.003424657534246575
+pysical symptom	headache	1	1	4	4	NULL	NULL	NULL	11164	1934	0.00002239340738086707
+pysicochemical factor	organic content	1	1	6	6	0.200000000000	NULL	NULL	52	29	0.003205128205128205
+pysicochemical factor	water content	1	1	6	6	0.200000000000	NULL	NULL	283	107	0.0005889281507656066
+pysicochemical factor	electron acceptor	1	1	6	6	0.200000000000	NULL	NULL	5	4	0.03333333333333333
+pysicochemical factor	temperature	1	1	6	6	0.200000000000	NULL	NULL	21509	4199	0.000007748694345002867
+pysicochemical factor	nutrient	1	1	6	6	0.200000000000	NULL	NULL	1112	379	0.00014988009592326138
+pysicochemical factor	ph	1	1	6	6	0.200000000000	NULL	NULL	6258	1312	0.000026632576968147438
+pytableswith complete python scientific library	SciPy	1	0	1	1	1.000000000000	NULL	NULL	10	10	0.1
+Pythagoras	dramatized by the great poet	1	1	1	1	NULL	NULL	NULL	1	1	1
+pythagoras irrational number	square root of 2	1	1	1	1	NULL	NULL	NULL	14	3	0.07142857142857142
+pythagorean element	putting structure	1	1	1	1	NULL	NULL	NULL	1	1	1
+pythagorean physician	Alemaeon of Croton	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pythagorean physician	Hippocrates	1	1	2	2	NULL	NULL	NULL	136	77	0.003676470588235294
+pythagorean primitive	cube	1	1	2	2	NULL	NULL	NULL	733	371	0.0006821282401091405
+pythagorean primitive	sphere	1	1	2	2	NULL	NULL	NULL	972	459	0.00051440329218107
+pythagorean realist	Max Tegmark	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+pythagorean topic	immortality of the soul	1	1	2	2	1.000000000000	NULL	NULL	29	17	0.017241379310344827
+pythagorean topic	importance of mathematics	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Pythagoreans	Philolaus	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+Pythagoreans	Archytas	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+Pythagoreans	Numenius	1	1	5	5	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+Pythagoreans	Cleinias	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Pythagoreans	Moderatus of Gades	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+Pythium species	Pythium oligandrum	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pythium-only product	Subdue MAXX	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+pythium-only product	Segway	1	1	2	2	1.000000000000	NULL	NULL	20	12	0.025
+python	ball python	4	2	9	6	0.500000000000	NULL	NULL	58	23	0.03065134099616858
+python	amethystine python	1	1	9	6	0.500000000000	NULL	NULL	3	3	0.037037037037037035
+python	Burmese	1	1	9	6	0.500000000000	NULL	NULL	133	63	0.000835421888053467
+python	Indian python	1	1	9	6	0.500000000000	NULL	NULL	7	8	0.015873015873015872
+python	Romy	1	1	9	6	0.500000000000	NULL	NULL	7	7	0.015873015873015872
+python	familiar carpet python	1	1	9	6	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+python collection	list	1	1	2	2	0.500000000000	NULL	NULL	1193	582	0.00041911148365465214
+python collection	tuples	1	1	2	2	0.500000000000	NULL	NULL	39	28	0.01282051282051282
+python cryptogra-phytoolkitfor number theory utility	random number generation	1	1	1	1	1.000000000000	NULL	NULL	24	19	0.041666666666666664
+python datum structure	tuples	1	1	2	2	0.500000000000	NULL	NULL	39	28	0.01282051282051282
+python datum structure	dictionary	1	1	2	2	0.500000000000	NULL	NULL	1766	521	0.00028312570781426955
+python datum type	list	1	1	1	1	NULL	NULL	NULL	1193	582	0.0008382229673093043
+python developer useful feature	AOP	1	1	5	6	0.750000000000	NULL	NULL	15	11	0.013333333333333334
+python developer useful feature	security with Spring's non-invasive style	1	1	5	6	0.750000000000	NULL	NULL	1	1	0.2
+python developer useful feature	remoting	1	1	5	6	0.750000000000	NULL	NULL	22	15	0.009090909090909092
+python developer useful feature	dependency injection	1	1	5	6	0.750000000000	NULL	NULL	42	29	0.004761904761904762
+python developer useful feature	data access	1	1	5	6	0.750000000000	NULL	NULL	86	57	0.002325581395348837
+python distribution	ActiveState's ActivePython	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+python distribution	EPD	1	1	2	2	1.000000000000	NULL	NULL	15	14	0.03333333333333333
+python editor	Emacs	1	1	1	1	NULL	NULL	NULL	197	74	0.005076142131979695
+Python exception	IOError	1	1	1	1	NULL	NULL	NULL	1	1	1
+python expression	service plug-in attribute	1	1	1	1	NULL	NULL	NULL	1	1	1
+python feature	dictionary	3	2	8	4	0.333333333333	NULL	NULL	1766	521	0.0006370328425821065
+python feature	nested function	3	3	8	4	0.333333333333	NULL	NULL	5	3	0.225
+python feature	pickle with wxwidgets	1	1	8	4	0.333333333333	NULL	NULL	1	1	0.125
+python feature	inline function	1	1	8	4	0.333333333333	NULL	NULL	7	7	0.017857142857142856
+Python framework	Django	2	2	6	5	1.000000000000	NULL	NULL	95	47	0.007017543859649122
+Python framework	Pylons	2	1	6	5	1.000000000000	NULL	NULL	10	8	0.06666666666666667
+Python framework	web2py	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+python framework	popular python framework	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+python gift	wafer thin mint	1	1	1	1	NULL	NULL	NULL	1	1	1
+python handbag	Black Python Crystal Bag Clutch	1	1	1	1	NULL	NULL	NULL	1	1	1
+python implementation	Jython	4	4	5	2	1.000000000000	NULL	NULL	28	12	0.1142857142857143
+python implementation	PyPy	1	1	5	2	1.000000000000	NULL	NULL	1	1	0.2
+Python interpreter	Python 2.6.4	1	1	1	1	NULL	NULL	NULL	1	1	1
+python library	time	2	1	3	2	NULL	NULL	NULL	8851	2418	0.00015064211200241026
+python library	Beautiful Soup	1	1	3	2	NULL	NULL	NULL	3	3	0.1111111111111111
+python luminary	Fredrik Lundh	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+python luminary	Paul Dubois	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+python module	matplotlib	2	2	6	5	0.750000000000	NULL	NULL	6	5	0.1111111111111111
+python module	Scipy	1	1	6	5	0.750000000000	NULL	NULL	10	10	0.016666666666666666
+python module	Queue	1	1	6	5	0.750000000000	NULL	NULL	302	151	0.0005518763796909492
+python module	Numpy	1	1	6	5	0.750000000000	NULL	NULL	12	12	0.013888888888888888
+python module	networkx	1	1	6	5	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+python package	NumPy	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+python package	SciPy	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+python program	todo manager	1	1	1	1	NULL	NULL	NULL	1	1	1
+python sketch	Dead Parrot	2	2	4	2	1.000000000000	NULL	NULL	4	3	0.25
+python sketch	Ministry of Silly Walks	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+Python software	CherryPy	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+python solution	using the datetime library	1	1	1	1	NULL	NULL	NULL	1	1	1
+python species	Indian python	1	1	3	3	1.000000000000	NULL	NULL	7	8	0.047619047619047616
+python species	amethystine python	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+python species	reticulated python	1	1	3	3	1.000000000000	NULL	NULL	33	21	0.0101010101010101
+python standard	WSGI	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+python standard library module	time	2	2	2	1	NULL	NULL	NULL	8851	2418	0.00022596316800361542
+python SVN binding	SWIG bindings contained in package python-svn	1	1	1	1	NULL	NULL	NULL	1	1	1
+python web project	Django	1	1	1	1	NULL	NULL	NULL	95	47	0.010526315789473684
+Python XML parser	Expat	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+python's basic synchronization primitive	Lock	1	1	1	1	NULL	NULL	NULL	1080	474	0.000925925925925926
+python's built-in datum structure	dictionary	2	2	4	2	NULL	NULL	NULL	1766	521	0.0005662514156285391
+python's built-in datum structure	list	2	2	4	2	NULL	NULL	NULL	1193	582	0.0008382229673093043
+python's built-in object	number	1	1	3	3	NULL	NULL	NULL	1704	590	0.00019561815336463222
+python's built-in object	sequence	1	1	3	3	NULL	NULL	NULL	402	222	0.0008291873963515754
+python's built-in object	dictionary	1	1	3	3	NULL	NULL	NULL	1766	521	0.00018875047187617969
+python's datum type	dictionary	1	0	3	3	0.333333333333	NULL	NULL	1766	521	0.00018875047187617969
+python's datum type	tuples	1	0	3	3	0.333333333333	NULL	NULL	39	28	0.008547008547008546
+python's datum type	list	1	0	3	3	0.333333333333	NULL	NULL	1193	582	0.0002794076557697681
+python's keyword	break	1	1	1	1	NULL	NULL	NULL	426	206	0.002347417840375587
+python's major built-in type	number	1	1	1	1	NULL	NULL	NULL	1704	590	0.0005868544600938967
+python's tool	Zope Object database	1	1	1	1	NULL	NULL	NULL	1	1	1
+python-based web server	CherryPy	2	2	2	1	NULL	NULL	NULL	7	5	0.2857142857142857
+python-focused tool	Bicycle Repair Man	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+python-focused tool	Boa Constructor	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+python-focused tool	refactoring tool	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+python-related topic	ZODB	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+python-specific issue	incorrect datum	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+pythonique backends	bzr	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+pyto-marine plant	brown seaweed plant	1	1	1	1	NULL	NULL	NULL	1	1	1
+pyung hwa's bluetooth product	Bluetooth Mono Headset	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+pyung hwa's bluetooth product	Bluetooth Handsfree Car Kit	1	1	4	4	1.000000000000	NULL	NULL	13	8	0.019230769230769232
+pyung hwa's bluetooth product	Bluetooth Stereo Headset	1	1	4	4	1.000000000000	NULL	NULL	7	7	0.03571428571428571
+pyung hwa's bluetooth product	Bluetooth Rearview Mirror	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+PyXMLandan XML parser	expat	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693

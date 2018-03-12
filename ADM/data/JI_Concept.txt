@@ -1,0 +1,398 @@
+JI important figure	Hambali	1	1	5	5	1.000000000000	NULL	NULL	16	9	0.0125
+JI important figure	Abu Dujana	1	1	5	5	1.000000000000	NULL	NULL	5	3	0.04
+JI important figure	Dulmatin	1	1	5	5	1.000000000000	NULL	NULL	9	7	0.022222222222222223
+JI important figure	Azahari Husin	1	1	5	5	1.000000000000	NULL	NULL	4	3	0.05
+JI important figure	Noordin Top	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+JI leader	Wan Min Wan Mat	3	2	9	4	1.000000000000	NULL	NULL	3	1	0.3333333333333333
+JI leader	Nassir bin Abbas	3	2	9	4	1.000000000000	NULL	NULL	3	1	0.3333333333333333
+JI leader	Abu Bakar Basyir	2	2	9	4	1.000000000000	NULL	NULL	2	1	0.2222222222222222
+JI leader	Hambali	1	1	9	4	1.000000000000	NULL	NULL	16	9	0.006944444444444444
+JI member	Zulkifli	3	3	3	1	NULL	NULL	NULL	3	1	1
+JI militant	Dulmatin	1	1	3	3	1.000000000000	NULL	NULL	9	7	0.037037037037037035
+JI militant	Azahari Husin	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+JI militant	Noor Din Mohd Top	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+JI's financial work	sourcing for donation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ji-linked figure	Noordin Top	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+jia-associated condition	macrophage activation syndrome	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jia-associated condition	secondary amyloidosis	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+jiajing event	Portuguese conquest of Malacca	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+jiakui application	home-made soft pillow Taigaohuanzhi	1	1	1	1	NULL	NULL	NULL	1	1	1
+jian	green yan jian	1	1	1	1	NULL	NULL	NULL	1	1	1
+jian city socio-economic datum	population	1	1	1	1	NULL	NULL	NULL	1588	562	0.0006297229219143577
+jian shi eagle fighter	supple	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+jiang zemin's accomplice	Song Fatang	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+jiang zemin's accomplice	Bo Xilai	1	1	8	8	NULL	NULL	NULL	3	3	0.041666666666666664
+jiang zemin's accomplice	Li Lanqing	1	1	8	8	NULL	NULL	NULL	3	3	0.041666666666666664
+jiang zemin's accomplice	Liu Qi	1	1	8	8	NULL	NULL	NULL	3	3	0.041666666666666664
+jiang zemin's accomplice	Luo Gan	1	1	8	8	NULL	NULL	NULL	3	3	0.041666666666666664
+jiang zemin's accomplice	Zhao Zhifei	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+jiang zemin's accomplice	Zeng Qinghong	1	1	8	8	NULL	NULL	NULL	4	4	0.03125
+jiang zemin's accomplice	Xia Deren	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+Jiangnan beauty	cloud	1	1	1	1	NULL	NULL	NULL	980	476	0.0010204081632653062
+jiangsu famous specialty	ham	1	1	1	1	NULL	NULL	NULL	1927	632	0.0005189413596263622
+jianlibao sport drink	A8 main assault on campus	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+jianzhan product	powerful feature	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jianzhan product	ESPCMS convenient	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Jiao equipment	Russian T-72 tank	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jiao short hedge fund	International Chinese	2	1	2	1	NULL	NULL	NULL	2	1	1
+jiaochuan walking storyteller	Tang Xinseng	1	1	1	1	NULL	NULL	NULL	1	1	1
+jib	Lenny Arm	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+jib	DCL	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+jib arm	Jimmy Jib	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jib arm	Techno Jib	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jib crane	cantilever jib	2	1	13	11	NULL	NULL	NULL	2	1	0.15384615384615385
+jib crane	tie rod jib	2	1	13	11	NULL	NULL	NULL	2	1	0.15384615384615385
+jib crane	wall-mount jib crane	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	gantry jib crane	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	unloading workpieces jib crane	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	winch-operated jib cranes for truck	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	pair of opposing jib crane	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	load handling jib crane	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	industrial jib crane	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	ones supplied by Lifting Equipment Ltd	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+jib crane	power-lift jib cranes for intermittent use	1	1	13	11	NULL	NULL	NULL	1	1	0.07692307692307693
+Jib Cranes	Hammerhead Crane	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Jib Cranes	Wall Crane	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jib kid	Forrest Bailey	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jib kid	Ben Bilocq	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jib kid	Johnny Lazz	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JIC position	JIC Director	1	1	1	1	NULL	NULL	NULL	1	1	1
+JIC staff member position	clerical personnel	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+JIC staff member position	message runner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jiewish apologist	Leon Poliakov	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jiewish apologist	Rabbi Joshua Trachtenberg	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Jieyin lotion	repeated heavy use	1	1	1	1	NULL	NULL	NULL	1	1	1
+jig	box jig	2	2	33	32	0.411764705882	NULL	NULL	2	1	0.06060606060606061
+jig	Buzz Bombs	1	1	33	32	0.411764705882	NULL	NULL	3	3	0.010101010101010102
+jig	chartreuse	1	1	33	32	0.411764705882	NULL	NULL	124	49	0.00024437927663734115
+jig	guide roller	1	1	33	32	0.411764705882	NULL	NULL	13	11	0.002331002331002331
+jig	standard quality squid jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	reaction tube	1	1	33	32	0.411764705882	NULL	NULL	4	4	0.007575757575757576
+jig	punch P	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	salt water assasins	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	variable pitch dovetail jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Leigh D4R	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	hopkins	1	1	33	32	0.411764705882	NULL	NULL	82	55	0.0003695491500369549
+jig	chrome Raider	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	full size jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Gibbs Minnows	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Salas 6X Jr.	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	supplied by Kreg Tools	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	ultra-precision machine jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	FC Labo	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Akeda	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Crippled Herring	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Leigh dovetail jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	light metal jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	high quality jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	bucktails	1	1	33	32	0.411764705882	NULL	NULL	15	9	0.00202020202020202
+jig	vise	1	1	33	32	0.411764705882	NULL	NULL	64	30	0.0004734848484848485
+jig	Shimano Butterfly	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	green	1	1	33	32	0.411764705882	NULL	NULL	6694	1904	0.000004526894278911011
+jig	Bass Assassins	1	1	33	32	0.411764705882	NULL	NULL	10	9	0.0030303030303030303
+jig	Tollgate	1	1	33	32	0.411764705882	NULL	NULL	3	3	0.010101010101010102
+jig	standard ice jig	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Delta version shown at right	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig	Northland Fireball	1	1	33	32	0.411764705882	NULL	NULL	1	1	0.030303030303030304
+jig color	chartreuse with metal flake	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+jig color	clear with sparkle	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+jig color	red	1	1	4	4	NULL	NULL	NULL	9245	2185	0.000027041644131963223
+jig color	motor oil	1	1	4	4	NULL	NULL	NULL	724	206	0.0003453038674033149
+jig saw	steel saw	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+jig saw	stroke saw	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+jig thrower	local favorite Moses Mokuahi	1	1	1	1	NULL	NULL	NULL	1	1	1
+jig type lure	Raiders	1	1	1	1	1.000000000000	NULL	NULL	60	25	0.016666666666666666
+jig's operating condition	stroke length	1	1	2	2	1.000000000000	NULL	NULL	30	18	0.016666666666666666
+jig's operating condition	upflow rate	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+jig-spinner combination	Beetle Spin	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+jig-type artificial bait	small jig spoon	1	1	1	1	NULL	NULL	NULL	1	1	1
+jigger	quick and easy profit jigger	1	1	1	1	NULL	NULL	NULL	1	1	1
+jigger carrier	wood	1	1	1	1	0.333333333333	NULL	NULL	13775	3193	0.00007259528130671507
+jigging blade bait	Rattlin Ripple Tail	1	1	1	1	NULL	NULL	NULL	1	1	1
+jigging lure	Deadly Dicks	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+jigging lure	Sting Silvers	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+jigging spoon	flyer	1	1	6	7	0.250000000000	NULL	NULL	2090	779	0.00007974481658692185
+jigging spoon	Mepps Syclops	1	1	6	7	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+jigging spoon	Hopkins Shorty	1	1	6	7	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+jigging spoon	Original Viking Spoon	1	1	6	7	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+jigging spoon	Hopkins	1	1	6	7	0.250000000000	NULL	NULL	82	55	0.002032520325203252
+jigging spoon	Northern Buckshots	1	1	6	7	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+jigsaw	ones used by Mr Jigs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jigsaw	expensive corded jigsaw	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jigsaw block	Edvard Munch used	1	1	1	1	NULL	NULL	NULL	1	1	1
+jigsaw manufacturer	Makita	1	1	2	2	NULL	NULL	NULL	188	78	0.0026595744680851063
+jigsaw manufacturer	Bosch	1	1	2	2	NULL	NULL	NULL	1013	381	0.0004935834155972359
+jigyaasa's built-in study aid	Tagging	1	1	2	3	NULL	NULL	NULL	313	155	0.001597444089456869
+jigyaasa's built-in study aid	Study Notes	1	1	2	3	NULL	NULL	NULL	3	3	0.16666666666666666
+jihad-oriented organization	Armed Islamic Group	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+jihad-oriented organization	Al Qaeda in the Islamic Maghreb	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+jihadi action	forced closing of cinema	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadi group	al-Qaeda network	2	2	10	8	0.666666666666	NULL	NULL	3	2	0.13333333333333333
+jihadi group	Jaish-e-Muhammad	2	2	10	8	0.666666666666	NULL	NULL	13	12	0.03076923076923077
+jihadi group	Hezbollah	1	1	10	8	0.666666666666	NULL	NULL	347	139	0.00028818443804034583
+jihadi group	deobandi jihadi group	1	1	10	8	0.666666666666	NULL	NULL	2	2	0.05
+jihadi group	violent jihadi group	1	1	10	8	0.666666666666	NULL	NULL	2	2	0.05
+jihadi group	Lashkar-e-Tayyaba	1	1	10	8	0.666666666666	NULL	NULL	6	6	0.016666666666666666
+jihadi group	Harakat ul-mujahideen	1	1	10	8	0.666666666666	NULL	NULL	2	2	0.05
+jihadi group	Lashkar-e-Taiba	1	1	10	8	0.666666666666	NULL	NULL	82	37	0.0012195121951219512
+jihadi ideologue	Sheikh Yussuf Qaradawi	2	2	2	1	NULL	NULL	NULL	2	1	1
+jihadi islamist group	Al-Qaeda	1	1	2	2	NULL	NULL	NULL	302	125	0.0016556291390728477
+jihadi islamist group	Hamas in the Palestinian Territories	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jihadi leader	Sayyid Qutb	1	1	6	6	0.500000000000	NULL	NULL	33	23	0.00505050505050505
+jihadi leader	Sheikh Yassin	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+jihadi leader	Rabbani	1	1	6	6	0.500000000000	NULL	NULL	14	12	0.011904761904761904
+jihadi leader	Omar Bakri Mohammed	1	1	6	6	0.500000000000	NULL	NULL	11	8	0.01515151515151515
+jihadi leader	Osama bin Laden	1	1	6	6	0.500000000000	NULL	NULL	158	87	0.0010548523206751054
+jihadi leader	prominent jihadi leader	1	1	6	6	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+jihadi organization	Lashkar-e-Toiba	2	1	2	1	1.000000000000	NULL	NULL	46	21	0.043478260869565216
+jihadi outfit	Al-Qaeda	1	1	1	1	NULL	NULL	NULL	302	125	0.0033112582781456954
+jihadi publication	Ghazwa	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+jihadi theorist	Abu Basir al-tartusi	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+jihadi website	Ansar al-mujahideen	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadis	Nawar	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+jihadis	Dulmatin	1	1	4	4	1.000000000000	NULL	NULL	9	7	0.027777777777777776
+jihadis	hate-filled extremist jihadis	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+jihadis	Imam Samudra	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+jihadist chief	Khalid Abd al-nabi	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadist group	Libyan Islamic Fighting Group	3	3	20	18	0.714285714285	NULL	NULL	11	6	0.0409090909090909
+jihadist group	Laskher Jihad	1	1	20	18	0.714285714285	NULL	NULL	1	1	0.05
+jihadist group	Lashkar-e-Jhangvi	1	1	20	18	0.714285714285	NULL	NULL	21	14	0.002380952380952381
+jihadist group	hardcore jihadist group	1	1	20	18	0.714285714285	NULL	NULL	2	2	0.025
+jihadist group	hard-core jihadist group	1	1	20	18	0.714285714285	NULL	NULL	2	2	0.025
+jihadist group	Islamic Movement of Uzbekistan	1	1	20	18	0.714285714285	NULL	NULL	37	21	0.0013513513513513514
+jihadist group	Fatah al-islam	1	1	20	18	0.714285714285	NULL	NULL	1	1	0.05
+jihadist group	Taliban	1	1	20	18	0.714285714285	NULL	NULL	228	103	0.0002192982456140351
+jihadist group	Lashkar-e-Toiba	1	1	20	18	0.714285714285	NULL	NULL	46	21	0.0010869565217391304
+jihadist group	Abu Sayyaf	1	1	20	18	0.714285714285	NULL	NULL	25	18	0.002
+jihadist group	palestinian jihadist group	1	1	20	18	0.714285714285	NULL	NULL	2	2	0.025
+jihadist group	Mujaheddin Army	1	1	20	18	0.714285714285	NULL	NULL	1	1	0.05
+jihadist group	al-qaeda	1	1	20	18	0.714285714285	NULL	NULL	302	125	0.00016556291390728477
+jihadist group	al-Ittihad al-islami	1	1	20	18	0.714285714285	NULL	NULL	1	1	0.05
+jihadist group	1920	1	1	20	18	0.714285714285	NULL	NULL	5	4	0.01
+jihadist group	Asbat al-ansar	1	1	20	18	0.714285714285	NULL	NULL	3	3	0.016666666666666666
+jihadist group	Ansar al-sunna	1	1	20	18	0.714285714285	NULL	NULL	5	5	0.01
+jihadist group	Islamic Army of Iraq	1	1	20	18	0.714285714285	NULL	NULL	2	2	0.025
+jihadist hotspot	Yemen	1	1	1	1	NULL	NULL	NULL	858	186	0.0011655011655011655
+jihadist magazine	Sawt al-jihad	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadist militant	Abu Hamza al-muhajer	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadist monitoring organization	SITE Intelligence Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadist organization	Jemaah Islamiyah	1	1	4	4	1.000000000000	NULL	NULL	27	12	0.009259259259259259
+jihadist organization	Center for American Progress	1	1	4	4	1.000000000000	NULL	NULL	32	15	0.0078125
+jihadist organization	radical cleric Abu Bakar Bashir's Jamaah Ansharut Tauhid	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+jihadist organization	Media Matters	1	1	4	4	1.000000000000	NULL	NULL	35	23	0.007142857142857143
+jihadist propaganda	videos of suicide bombings	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadist publication	now-defunct online magazine of al Qaeda in Saudi Arabia	2	2	2	1	NULL	NULL	NULL	2	1	1
+jihadist theorist	Hassan Al-Banna	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+jihadist theorist	Fathi Yakan	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+jihadist treatise	Qutb's Milestones	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+jihadist treatise	Sayyid Abu A'la Mawdudi's The Islamic Movement'',	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+jihadist treatise	Sayyid Abu A'la Mawdudi's The Islamic Movement	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+jihadistisch propagandamachine Current jihadism	manifested by al-qaeda	1	1	1	1	NULL	NULL	NULL	1	1	1
+jihadists	al-Qaida operative Abu Musab al Zarqawi	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+jihadists	al-Qa ida operative Abu Musab al Zarqawi	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+jil sander and more perfume	Bijan Tester	1	1	1	1	NULL	NULL	NULL	1	1	1
+jilin province's major tourist city	Yanji	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+jilin province's major tourist city	Jilin	1	1	3	3	1.000000000000	NULL	NULL	28	11	0.011904761904761904
+jilin province's major tourist city	Changchun	1	1	3	3	1.000000000000	NULL	NULL	26	11	0.01282051282051282
+jillal and fellow veteran	Hemisha's uncle Vijay	1	1	1	1	NULL	NULL	NULL	1	1	1
+jillian michael's workout	30 day shred	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+Jillian Michaels DVDs	30 Day Shred	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+jilted developer	Twitpic founder Noah Everett	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim allen's book	Jeep 4x4 Performance Handbook	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim beam brand	Old Grand Dad Bourbon	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jim beam brand	Dalmore Scotch	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jim beam brand	Kamchatka Vodka	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jim beam brand	Windsor Canadian	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jim beam brand	Old Crow Bourbon	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jim carrey film	Mask	1	1	3	3	0.666666666666	NULL	NULL	1375	611	0.00024242424242424242
+jim carrey film	Cable guy	1	1	3	3	0.666666666666	NULL	NULL	10	7	0.03333333333333333
+jim carrey film	Ace Ventura	1	1	3	3	0.666666666666	NULL	NULL	18	12	0.018518518518518517
+jim carrey's best film	Eternal Sunshine of the Spotless Mind	1	1	3	3	1.000000000000	NULL	NULL	38	14	0.008771929824561403
+jim carrey's best film	Man on the Moon	1	1	3	3	1.000000000000	NULL	NULL	13	8	0.02564102564102564
+jim carrey's best film	Truman Show	1	1	3	3	1.000000000000	NULL	NULL	29	9	0.011494252873563218
+Jim Carrey's earlier stuff	first Ace Ventura	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim crow law	literacy test	3	2	6	4	0.500000000000	NULL	NULL	55	37	0.02727272727272727
+jim crow law	poll tax	2	2	6	4	0.500000000000	NULL	NULL	106	61	0.006289308176100628
+jim crow law	segregationist jim crow law	1	1	6	4	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+jim crow practice	segregation of hotel	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim crow statute	Baltimore City trolley segregation ordinance	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim jarmusch film	Broken Flowers	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+Jim Strong autographed memorabilia	inscription	1	1	3	3	0.333333333333	NULL	NULL	98	82	0.003401360544217687
+Jim Strong autographed memorabilia	pic	1	1	3	3	0.333333333333	NULL	NULL	81	55	0.004115226337448559
+Jim Strong autographed memorabilia	hand signed collage	1	1	3	3	0.333333333333	NULL	NULL	9	9	0.037037037037037035
+jim talen opponent	Dick VanderMolen	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim thompson's noir thriller	Grifters	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+jim wagner's video	Office & School Shooting Survival	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim walter home	Foxborough	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+jim's book	Chaos Theory of Careers	1	1	1	1	NULL	NULL	NULL	1	1	1
+jim's DEEP thought many obstacle	discrimination	1	1	4	4	NULL	NULL	NULL	1345	491	0.0001858736059479554
+jim's DEEP thought many obstacle	stereotyping	1	1	4	4	NULL	NULL	NULL	167	78	0.0014970059880239522
+jim's DEEP thought many obstacle	ignorance	1	1	4	4	NULL	NULL	NULL	211	103	0.001184834123222749
+jim's DEEP thought many obstacle	attitude	1	1	4	4	NULL	NULL	NULL	1801	640	0.000138811771238201
+jim's favorite childhood moment	climbing the Oregon mountains in search of berry	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jim's penis central benefit	feature	1	1	1	1	NULL	NULL	NULL	510	195	0.00196078431372549
+jim's sponsor school activity	sporting event	1	1	1	1	NULL	NULL	NULL	916	361	0.001091703056768559
+jim's work	adventures of jimmy neutron	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Jimi hendrix information	album review	1	1	1	1	NULL	NULL	NULL	1419	1401	0.0007047216349541931
+jiminy peak amenity	tennis court	1	1	4	4	0.250000000000	NULL	NULL	1871	522	0.00013361838588989844
+jiminy peak amenity	fitness center	1	1	4	4	0.250000000000	NULL	NULL	1465	366	0.00017064846416382253
+jiminy peak amenity	Mountain Adventure Park	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+jiminy peak amenity	Hot tub	1	1	4	4	0.250000000000	NULL	NULL	681	264	0.0003671071953010279
+jimmi bass music festival	Newport Folk Festival Koroma	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+jimmie johnson NASCAR race-day supply	cooler	1	1	4	4	0.500000000000	NULL	NULL	341	165	0.0007331378299120235
+jimmie johnson NASCAR race-day supply	platers	1	1	4	4	0.500000000000	NULL	NULL	14	14	0.017857142857142856
+jimmie johnson NASCAR race-day supply	race-day chair	1	1	4	4	0.500000000000	NULL	NULL	9	9	0.027777777777777776
+jimmie johnson NASCAR race-day supply	tent	1	1	4	4	0.500000000000	NULL	NULL	1217	440	0.00020542317173377156
+jimmie rodgers favorite	California Blues	1	1	1	1	NULL	NULL	NULL	1	1	1
+jimmy choo leather accessory	women's handbag	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+jimmy choo pump	Jimmy Choo Smart Sandals	7	2	42	7	NULL	NULL	NULL	8	2	0.14583333333333331
+jimmy choo pump	Jimmy Choo Ankle Boots	7	2	42	7	NULL	NULL	NULL	8	2	0.14583333333333331
+jimmy choo pump	Jimmy Choo High Heel Shoes	7	2	42	7	NULL	NULL	NULL	8	2	0.14583333333333331
+jimmy choo pump	Jimmy Choo High Cut Sandals	7	2	42	7	NULL	NULL	NULL	8	2	0.14583333333333331
+jimmy choo pump	Jimmy Choo Boots	7	2	42	7	NULL	NULL	NULL	11	4	0.10606060606060605
+jimmy choo pump	Jimmy Choo Wedges	6	2	42	7	NULL	NULL	NULL	7	2	0.12244897959183673
+jimmy choo pump	Cheap Jimmy Choo Wedges	1	1	42	7	NULL	NULL	NULL	1	1	0.023809523809523808
+jimmy choo shoe	Jimmy Choo Smart Sandals	1	1	6	6	NULL	NULL	NULL	8	2	0.020833333333333332
+jimmy choo shoe	Jimmy Choo Wedges	1	1	6	6	NULL	NULL	NULL	7	2	0.023809523809523808
+jimmy choo shoe	Jimmy Choo Ankle Boots	1	1	6	6	NULL	NULL	NULL	8	2	0.020833333333333332
+jimmy choo shoe	Jimmy Choo High Heel Shoes	1	1	6	6	NULL	NULL	NULL	8	2	0.020833333333333332
+jimmy choo shoe	Jimmy Choo Boots	1	1	6	6	NULL	NULL	NULL	11	4	0.01515151515151515
+jimmy choo shoe	Jimmy Choo High Cut Sandals	1	1	6	6	NULL	NULL	NULL	8	2	0.020833333333333332
+jimmy choo wedge	Jimmy Choo Marpoil	1	1	1	1	NULL	NULL	NULL	1	1	1
+jimmy clanton's million dollar hit	Venus in Blue Jeans	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jimmy clanton's million dollar hit	Just a Dream	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+jimmy's recommendation	Rigatoni Florentine	1	1	1	1	NULL	NULL	NULL	1	1	1
+Jimmy's unique influence	Ricardo Arjona	2	2	2	1	NULL	NULL	NULL	7	5	0.2857142857142857
+jimmy's various creation	real pearl	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JIN figure	Faiz Abu Bakar Bafana	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JIN figure	Abu Jibril	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+Jin founding	Fu Xuan	2	1	2	1	NULL	NULL	NULL	2	1	1
+jinan kun expert	Queen Mary Hospital	1	1	1	1	NULL	NULL	NULL	1	1	1
+Jing Bao	Sac Longchamp Chinese-American	1	1	1	1	NULL	NULL	NULL	1	1	1
+jinggangshan revolutionary base area	red peasant movement education base	1	1	1	1	NULL	NULL	NULL	1	1	1
+jingle	coin dropping	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+jingle	Sprite soda	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+jingle	chime used by NBC	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+jingle	classic ad jingle	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+Jingle Bell Rock Concert information	Jingle Bell Rock Concert address	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Jingle Bell Rock Concert information	direction	1	1	2	2	NULL	NULL	NULL	1124	438	0.00044483985765124553
+jingly toy	light rattle	1	1	1	1	NULL	NULL	NULL	1	1	1
+jingoistic exercise	saluting the Maple Leaf every morning	1	1	1	1	NULL	NULL	NULL	1	1	1
+jingoistic issue	language	1	1	1	1	NULL	NULL	NULL	4932	1475	0.00020275750202757503
+jingoistic poem	Hitler's Nightmare	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jingoistic poem	Siren Song	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jingoistic poem	War Alphabet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jini device	mobile phone	1	1	1	1	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+jini service	lookup service	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+jini specific service	Transaction Manager	1	1	4	4	1.000000000000	NULL	NULL	16	12	0.015625
+jini specific service	Event Mailbox	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+jini specific service	Lease Renewal	1	1	4	4	1.000000000000	NULL	NULL	13	12	0.019230769230769232
+jini specific service	Lookup Discovery	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+Jinirelated information	codebase information	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Jinirelated information	service identifier	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+Jinirelated information	entry point information	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jinjiang-based sportswear manufacturer	Xtep	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+jinjiang-based sportswear manufacturer	Peak	1	1	3	3	0.500000000000	NULL	NULL	158	116	0.002109704641350211
+jinjiang-based sportswear manufacturer	Anta	1	1	3	3	0.500000000000	NULL	NULL	21	12	0.015873015873015872
+jinma tractor related offer	Walking Tractor	1	1	1	1	1.000000000000	NULL	NULL	11	12	0.09090909090909091
+jinmailang company	Gemini 3 Jin extortion ignored	1	1	1	1	NULL	NULL	NULL	1	1	1
+jinnah biographer	Hector Bolitho	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+jinnah biographer	Stanley Wolpert	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+jinnah biographer	Jaswant Singh	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+jinni frequent place	ruin	1	1	3	3	0.500000000000	NULL	NULL	73	37	0.0045662100456621
+jinni frequent place	unclean place	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+jinni frequent place	graveyard	1	1	3	3	0.500000000000	NULL	NULL	71	52	0.004694835680751174
+jinni gibberish	word thou'' in the Noble Qur'an	1	1	1	1	NULL	NULL	NULL	1	1	1
+jinnual seed	coxcomb	1	1	3	4	0.666666666666	NULL	NULL	6	6	0.05555555555555555
+jinnual seed	aster	1	1	3	4	0.666666666666	NULL	NULL	515	207	0.0006472491909385113
+jinnual seed	balsam	1	1	3	4	0.666666666666	NULL	NULL	60	46	0.005555555555555555
+jinotega's natural resource	forest	1	1	4	4	NULL	NULL	NULL	2386	927	0.00010477787091366304
+jinotega's natural resource	water	1	1	4	4	NULL	NULL	NULL	25348	6311	0.000009862711062016726
+jinotega's natural resource	fauna	1	1	4	4	NULL	NULL	NULL	90	52	0.002777777777777778
+jinotega's natural resource	mineral	1	1	4	4	NULL	NULL	NULL	3163	894	0.00007903888713246918
+jinshan farmer	Zhu Xi	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+jinteHeetual achievement	Lerone Bennett	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+jinx's additional idea	exchanging looksets	1	1	1	1	NULL	NULL	NULL	1	1	1
+jinx's more tongue-in-cheek item	bottle of Dirty Girl hand soap	1	1	1	1	NULL	NULL	NULL	1	1	1
+jion group	RSPB	1	1	1	1	NULL	NULL	NULL	170	68	0.0058823529411764705
+JIP capability	Joint Force Capabilities Register	1	1	1	1	NULL	NULL	NULL	1	1	1
+JIPOE product	event template	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JIRA benefit	custom reporting	1	1	4	4	1.000000000000	NULL	NULL	9	9	0.027777777777777776
+JIRA benefit	web client	1	1	4	4	1.000000000000	NULL	NULL	16	12	0.015625
+JIRA benefit	custom workflow	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+JIRA benefit	custom field	1	1	4	4	1.000000000000	NULL	NULL	21	15	0.011904761904761904
+jira ticket attribute	status	1	1	4	4	NULL	NULL	NULL	1052	464	0.0002376425855513308
+jira ticket attribute	description	1	1	4	4	NULL	NULL	NULL	1517	559	0.00016479894528675015
+jira ticket attribute	resolution	1	1	4	4	NULL	NULL	NULL	1240	468	0.00020161290322580645
+jira ticket attribute	priority	1	1	4	4	NULL	NULL	NULL	428	200	0.0005841121495327102
+jiro component	Logging Service	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JIS lesson learned test event	CT	1	1	1	1	NULL	NULL	NULL	2212	752	0.0004520795660036166
+JIS test	drawing test	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+JIS test	Erichsen test	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JIS test	Du Pont test	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JIS test	grid cut tape test	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JIS test	crosscut test	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JISC affiliated organization	UK university	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JISC DD project	Manchester Met	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+JISC initiative	FSD Programme	1	1	1	1	NULL	NULL	NULL	1	1	1
+JISC organised event	Andy McGregor's Developer Happiness Days	1	1	1	1	NULL	NULL	NULL	1	1	1
+JISC program	Innovation program	1	1	1	1	NULL	NULL	NULL	1	1	1
+JISC project	Google Generation	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+JISC project	Sustainable ICT study	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+JISC service	EDINA	1	1	6	6	NULL	NULL	NULL	5	5	0.03333333333333333
+JISC service	JISC Legal	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+jisc service	jisc e-infrastructure  jisc service	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+JISC service	email	1	1	6	6	NULL	NULL	NULL	8680	2858	0.000019201228878648233
+JISC service	Netskills	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+JISC service	Mimas	1	1	6	6	NULL	NULL	NULL	4	4	0.041666666666666664
+jisc-funded repository project	SPECTRa 1	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jisc-funded repository project	joint follow-on project	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jisc-funded repository project	CLADDIER 2	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JIT account	Sears	1	1	2	2	NULL	NULL	NULL	2066	534	0.0002420135527589545
+JIT account	Clorox	1	1	2	2	NULL	NULL	NULL	219	96	0.00228310502283105
+JIT advocate	Hall	1	1	1	1	NULL	NULL	NULL	547	241	0.0018281535648994515
+JIT benefit	higher customer satisfaction	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+JIT benefit	cost saving	1	1	2	2	NULL	NULL	NULL	239	105	0.0020920502092050207
+JIT component	small batch production	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JIT component	cellular layout	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+JIT concept activity	moving part	1	1	1	1	1.000000000000	NULL	NULL	19	18	0.05263157894736842
+JIT marketer	Wal-Mart	1	1	2	2	NULL	NULL	NULL	6827	1533	0.00007323861139592794
+JIT marketer	Toyota	1	1	2	2	NULL	NULL	NULL	4435	1095	0.00011273957158962796
+JIT principle	Point of Use storage	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+JIT principle	Value Streaming	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JIT skill	Kaizen	1	1	1	1	NULL	NULL	NULL	220	107	0.004545454545454545
+JIT system	Toyota's kanban system	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JIT technique	Kanban	2	2	3	2	0.500000000000	NULL	NULL	181	89	0.007366482504604051
+JIT technique	CONWIP	1	1	3	2	0.500000000000	NULL	NULL	13	11	0.02564102564102564
+JIT user	auto manufacturer	1	1	1	1	1.000000000000	NULL	NULL	38	31	0.02631578947368421
+JIT1 optimization	common sub-expression elimination	1	1	2	2	1.000000000000	NULL	NULL	16	11	0.03125
+JIT1 optimization	common subexpression elimination	1	1	2	2	1.000000000000	NULL	NULL	40	24	0.0125
+jitrino part	timer	1	1	1	1	NULL	NULL	NULL	1077	438	0.0009285051067780873
+jitt teaching method	problem solving session	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jitta-specific feature	contribution section	1	1	1	1	NULL	NULL	NULL	1	1	1
+jitter buffer statistic variable	Residual Echo Return Loss	1	1	1	1	NULL	NULL	NULL	1	1	1
+jitter generator circuit	square wave generator circuit	1	1	1	1	NULL	NULL	NULL	1	1	1
+Jitter management	delaying packettransmission	1	1	1	1	NULL	NULL	NULL	1	1	1
+jitter measurement apparatus	digital storage oscilloscope	2	2	4	2	1.000000000000	NULL	NULL	16	11	0.0625
+jitter measurement apparatus	digital oscilloscope	2	2	4	2	1.000000000000	NULL	NULL	44	23	0.022727272727272728
+jitter mitigation technique	affinitizing application	1	1	1	1	NULL	NULL	NULL	1	1	1
+jitter parameter	well-known jitter parameter	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jitter performance -metric	jitter transfer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jitter signal	RJ signal	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+jitter-intolerant application	GPS	1	1	1	1	NULL	NULL	NULL	2674	1060	0.00037397157816005983
+jitterbug dance	Big Apple	1	1	2	2	1.000000000000	NULL	NULL	27	22	0.018518518518518517
+jitterbug dance	Lindy Hop	1	1	2	2	1.000000000000	NULL	NULL	52	26	0.009615384615384616
+jittery consumer	Salay	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jiu jitsu move	arm bar	1	1	3	3	0.500000000000	NULL	NULL	16	8	0.020833333333333332
+jiu jitsu move	triangle	1	1	3	3	0.500000000000	NULL	NULL	1711	617	0.0001948178453146308
+jiu jitsu move	leg lock	1	1	3	3	0.500000000000	NULL	NULL	7	7	0.047619047619047616
+jiujiang snack	Stewed Fish Fillets in Brown Sauce	1	1	1	1	NULL	NULL	NULL	1	1	1
+jiuzhaigou related project	ecology	1	1	1	1	NULL	NULL	NULL	848	281	0.0011792452830188679
+jivaro fruit tree	papaya	1	1	1	1	0.500000000000	NULL	NULL	2014	453	0.0004965243296921549
+jive artist	Britney Spears	2	2	4	2	NULL	NULL	NULL	1132	311	0.0008833922261484099
+jive artist	Justin Timberlake	2	2	4	2	NULL	NULL	NULL	430	125	0.002325581395348837
+jive competitor	Atlassian	1	1	1	1	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+jivest used-to-bes	richard gaudio	1	1	1	1	NULL	NULL	NULL	1	1	1
+Jivox LogoBusinesses	Vitality Chiropractic Center	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Jivox LogoBusinesses	massage therapy studio Osetra Wellness	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+jiyoung kim company	Qualcomm	1	1	1	1	NULL	NULL	NULL	442	178	0.0022624434389140274

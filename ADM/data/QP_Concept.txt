@@ -1,0 +1,17 @@
+qpass product capability	partner management	1	1	2	2	0.500000000000	NULL	NULL	12	9	0.041666666666666664
+qpass product capability	service delivery	1	1	2	2	0.500000000000	NULL	NULL	102	60	0.004901960784313725
+qPCR artifact	primer dimers	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+qpcr parameter	standard linear range	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qpcr parameter	amplification efficiency	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+QPE song	Reptilia	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+QPEEG method	spectral analysis	1	1	1	1	NULL	NULL	NULL	73	54	0.0136986301369863
+QPF related variable	hourly accumulated precipitation	1	1	1	1	NULL	NULL	NULL	1	1	1
+QPM gratingfabrication technique	electric-field poling of ferroelectrics	1	1	1	1	NULL	NULL	NULL	1	1	1
+QPM material	PPLN	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+QPM nonlinear crystal	LiNbO 3	1	1	1	1	1.000000000000	NULL	NULL	63	38	0.015873015873015872
+qpm's service	cleaning	1	1	1	1	NULL	NULL	NULL	4484	1538	0.00022301516503122213
+qproject outsider	politician	1	1	2	2	0.250000000000	NULL	NULL	648	285	0.0007716049382716049
+qproject outsider	medium	1	1	2	2	0.250000000000	NULL	NULL	3226	1070	0.00015499070055796651
+QPS information	current project	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+QPS information	employees with relevant language skill	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+QPSK lock detector circuit	circuit described in Keate	1	1	1	1	NULL	NULL	NULL	1	1	1

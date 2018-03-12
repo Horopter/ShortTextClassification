@@ -1,0 +1,20 @@
+tz actor	Vera Miles	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+tz actor	Cliff Robertson	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+tz actor	Russell Johnson	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+tz actor	Anne Francis	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+tzaddik	Yosef	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tzaddikim	Aharon HaKohen	1	1	1	1	NULL	NULL	NULL	1	1	1
+tzadikim	Satmar Rav	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+tzadikim	R Amram Blau	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TZD compound	pioglitazone	1	1	2	2	0.333333333333	NULL	NULL	180	61	0.002777777777777778
+TZD compound	troglitazone	1	1	2	2	0.333333333333	NULL	NULL	98	40	0.00510204081632653
+TZDs	troglitazone	10	9	22	4	0.833333333333	NULL	NULL	98	40	0.04638218923933209
+TZDs	pioglitazone	9	8	22	4	0.833333333333	NULL	NULL	180	61	0.020454545454545454
+TZDs	Actos	2	2	22	4	0.833333333333	NULL	NULL	109	38	0.0016680567139282737
+TZDs	RSG	1	1	22	4	0.833333333333	NULL	NULL	6	6	0.007575757575757576
+tzedakah project	sharing time with senior citizen	1	1	1	1	NULL	NULL	NULL	1	1	1
+tzora field	sunflower field	1	1	1	1	NULL	NULL	NULL	1	1	1
+tzotzil-mayan hamlet	Apas	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tzu chi's accomplishment	donating family	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tzu chi's accomplishment	number of goods distributed	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tzu-lan item	card	1	1	1	1	NULL	NULL	NULL	1325	598	0.0007547169811320754

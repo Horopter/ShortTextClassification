@@ -1,0 +1,4 @@
+wjater development	storage resfervoirs	1	1	1	1	NULL	NULL	NULL	1	1	1
+WJBK sport segment	Lions Beat Writer Cross Fire	1	1	1	1	NULL	NULL	NULL	1	1	1
+WJLC leader	Kelley	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+WJLC leader	Molly Dewson	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666

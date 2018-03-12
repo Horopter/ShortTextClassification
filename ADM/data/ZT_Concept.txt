@@ -1,0 +1,6 @@
+ZT vehicle	riding mowers with independent front caster wheel	2	2	2	1	NULL	NULL	NULL	2	1	1
+zt's exclusive brand	Diamond Back	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+ZTE product	ZTE 3G router	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZTE product	ZTE 3G modem	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zthrough computational method	QR factorization	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+ztv's current affair program	Talking Business	1	1	1	1	NULL	NULL	NULL	1	1	1

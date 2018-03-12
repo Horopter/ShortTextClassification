@@ -1,0 +1,1114 @@
+zia ingredient	sea alga	1	1	2	2	0.500000000000	NULL	NULL	12	8	0.041666666666666664
+zia ingredient	aloe	1	1	2	2	0.500000000000	NULL	NULL	761	288	0.000657030223390276
+zicam product	syrup	1	1	2	2	NULL	NULL	NULL	932	281	0.000536480686695279
+zicam product	tablet	1	1	2	2	NULL	NULL	NULL	2918	735	0.00017135023989033586
+ziegler-natta catalyst	titanium tetrachloridesupported on an active magnesium dihalide	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+ziegler-natta catalyst	titanocene dichloride	1	1	6	5	NULL	NULL	NULL	5	3	0.03333333333333333
+ziegler-natta catalyst	titanium tetrachloride supported on an active magnesium dihalide	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+ziegler-natta catalyst	soluble vanadium catalyst	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+ziegler-natta catalyst	zirconocene dichloride	1	1	6	5	NULL	NULL	NULL	3	2	0.05555555555555555
+ZIF operation instance	broadband system like WCDMA	1	1	1	1	NULL	NULL	NULL	1	1	1
+ziff title	PC Magazine	1	1	2	2	1.000000000000	NULL	NULL	68	33	0.007352941176470588
+ziff title	PC Week	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+ziff-davis interchange partner	Washington Post	1	1	1	1	NULL	NULL	NULL	977	290	0.0010235414534288639
+ziff-davis magazine	PC Magazine	1	1	1	1	1.000000000000	NULL	NULL	68	33	0.014705882352941176
+ziff-davis title	Kid Cowboy	1	1	1	1	NULL	NULL	NULL	1	1	1
+zigbee application area	building automation	1	1	1	1	1.000000000000	NULL	NULL	57	32	0.017543859649122806
+ZigBee application profile	Smart Energy profile	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zigbee component	access control list	1	1	2	2	NULL	NULL	NULL	85	65	0.0058823529411764705
+zigbee component	packet freshness timer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zigbee device	lock	1	1	2	2	NULL	NULL	NULL	1080	474	0.000462962962962963
+zigbee device	light switch	1	1	2	2	NULL	NULL	NULL	275	134	0.0018181818181818182
+zigbee security feature	encryption	1	1	1	1	NULL	NULL	NULL	1548	602	0.0006459948320413437
+ZigBee terminal device	sensor	1	1	1	1	NULL	NULL	NULL	1753	737	0.0005704506560182544
+zigbee-compliant device	full function device	2	2	2	1	NULL	NULL	NULL	2	1	1
+zigbee-defined application profile	Home Automation	1	1	3	3	NULL	NULL	NULL	91	51	0.003663003663003663
+zigbee-defined application profile	Home Automation profile	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zigbee-defined application profile	Smart Energy Profiles	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zigbee-enabled device	energy meter	1	1	2	2	1.000000000000	NULL	NULL	35	30	0.014285714285714285
+zigbee-enabled device	refrigeration sensor	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ziggurat skyscraper	Chrysler Building	1	1	1	1	NULL	NULL	NULL	88	48	0.011363636363636364
+ziggurat stabalizers	depakote	1	1	1	1	NULL	NULL	NULL	261	72	0.0038314176245210726
+Ziggurats	UNESCO designated World Heritage Site of Chogha Zanbil	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+Ziggurats	Great Ziggurat of Ur	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+zigzag application	applique	1	1	2	2	NULL	NULL	NULL	108	62	0.004629629629629629
+zigzag application	overcasting	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zigzag pattern stent	Gianturco Z stent	1	1	1	1	NULL	NULL	NULL	1	1	1
+zigzag-edged graphene nanostructures	ribbon	1	1	1	1	NULL	NULL	NULL	2039	602	0.0004904364884747426
+Zigzag-ing black mascara	Inika Mascara in Black	1	1	1	1	NULL	NULL	NULL	1	1	1
+zigzagoon ability	Growl	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+zihuatanejo hotel	Villas Miramar	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+zihuatanejo hotel	Hotel Paraiso Real	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+zikkir	subhanallah	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zikkir	alhamdulillah	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zildjian cymbal	ZBT	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zilla panchayat department	Child Development	1	1	2	2	NULL	NULL	NULL	262	95	0.0019083969465648854
+zilla panchayat department	Women	1	1	2	2	NULL	NULL	NULL	168	103	0.002976190476190476
+zillion cool HF feature	digital mode decoding	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zillion different property	antibacterial	1	1	3	3	NULL	NULL	NULL	150	59	0.0022222222222222222
+zillion different property	being antiseptic	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zillion different property	anti-inflammatory	1	1	3	3	NULL	NULL	NULL	181	77	0.0018416206261510127
+zillion electronic safety system	ASR	1	1	5	5	0.400000000000	NULL	NULL	6	6	0.03333333333333333
+zillion electronic safety system	TCS	1	1	5	5	0.400000000000	NULL	NULL	680	254	0.00029411764705882356
+zillion electronic safety system	EBD	1	1	5	5	0.400000000000	NULL	NULL	40	21	0.005
+zillion electronic safety system	ABS	1	1	5	5	0.400000000000	NULL	NULL	1312	481	0.0001524390243902439
+zillion electronic safety system	ESP	1	1	5	5	0.400000000000	NULL	NULL	264	160	0.0007575757575757576
+zillion factor	terrain	1	1	1	1	NULL	NULL	NULL	775	243	0.0012903225806451613
+zillion interest & hobby	yoga	1	1	4	4	NULL	NULL	NULL	10229	2367	0.000024440316746505035
+zillion interest & hobby	singing	1	1	4	4	NULL	NULL	NULL	1760	574	0.00014204545454545454
+zillion interest & hobby	water aerobics	1	1	4	4	NULL	NULL	NULL	394	143	0.0006345177664974619
+zillion interest & hobby	dancing	1	1	4	4	NULL	NULL	NULL	3281	887	0.00007619628162145687
+zillion variable	singer's style	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zillion variable	style of the instrumental group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zillion various item	item	1	1	1	1	NULL	NULL	NULL	129	98	0.007751937984496124
+zillow sub-brand	zillow sub-brand zillow sub-brand	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zillow sub-brands	Zillow EZ Ads	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zillow sub-brands	Zillow Blog	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zillow's competitor	ZipRealty	1	1	1	1	0.500000000000	NULL	NULL	14	7	0.07142857142857142
+zimbabwe authority	Epworth Local Board	1	1	1	1	NULL	NULL	NULL	1	1	1
+zimbabwe basic commodity	rice	1	1	4	4	NULL	NULL	NULL	11473	2640	0.000021790290246666087
+zimbabwe basic commodity	salt	1	1	4	4	NULL	NULL	NULL	6145	1390	0.00004068348250610252
+zimbabwe basic commodity	cooking oil	1	1	4	4	NULL	NULL	NULL	637	249	0.0003924646781789639
+zimbabwe basic commodity	sugar	1	1	4	4	NULL	NULL	NULL	9798	2484	0.000025515411308430293
+zimbabwe city	Gweru	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+zimbabwe most muslim country	Iran	1	1	1	1	NULL	NULL	NULL	4782	970	0.00020911752404851526
+zimbabwe non-clinical service	cleaning	1	1	1	1	NULL	NULL	NULL	4484	1538	0.00022301516503122213
+zimbabwe s larger city	Bulawayo	1	1	1	1	1.000000000000	NULL	NULL	22	17	0.045454545454545456
+zimbabwe's asian ally	China	2	2	2	1	NULL	NULL	NULL	30422	3640	0.0000657418973111564
+zimbabwe's batsman	Brendan Taylor	3	2	3	1	NULL	NULL	NULL	6	4	0.5
+zimbabwe's great writer	Dambudzo Marechera	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+zimbabwe's great writer	Charles Mungoshi	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+zimbabwe's key export	radio	1	1	1	1	NULL	NULL	NULL	7280	2387	0.00013736263736263736
+zimbabwe's larger city	Bulawayo	2	2	2	1	1.000000000000	NULL	NULL	22	17	0.09090909090909091
+zimbabwe's mineral	gold	2	2	2	1	NULL	NULL	NULL	10877	2626	0.00018387423002666178
+zimbabwe's most pertinent issue	political violence	1	1	1	1	1.000000000000	NULL	NULL	28	21	0.03571428571428571
+zimbabwe's national park	Hwange	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+zimbabwe's national park	Mana Pools	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+zimbabwe's neighbor	Malawi	1	1	2	2	NULL	NULL	NULL	1150	160	0.0004347826086956522
+zimbabwe's neighbor	South Africa	1	1	2	2	NULL	NULL	NULL	6612	966	0.00007562008469449486
+zimbabwe's top musician	Thomas Mapfumo	2	2	2	1	1.000000000000	NULL	NULL	10	6	0.2
+zimbabwe's tourist attraction	ruins of Great Zimbabwe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zimbabwe's tourist attraction	Victoria Falls	1	1	2	2	NULL	NULL	NULL	56	35	0.008928571428571428
+zimbabwe's traditionally low-rainfall area	Masvingo	1	1	2	2	1.000000000000	NULL	NULL	19	8	0.02631578947368421
+zimbabwe's traditionally low-rainfall area	Matabeleland province	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zimbabwean artist	Jonah Moyo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zimbabwean artist	Madiz	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zimbabwean bank	Standard Chartered	1	1	2	2	NULL	NULL	NULL	316	96	0.0015822784810126582
+zimbabwean bank	Barclays	1	1	2	2	NULL	NULL	NULL	927	279	0.0005393743257820927
+zimbabwean city	Bulawayo	1	1	2	2	1.000000000000	NULL	NULL	22	17	0.022727272727272728
+zimbabwean city	Harare	1	1	2	2	1.000000000000	NULL	NULL	41	21	0.012195121951219513
+zimbabwean delicacy	tripe	1	1	1	1	NULL	NULL	NULL	113	67	0.008849557522123894
+zimbabwean great	Dr Thomas Mapfumo	1	1	1	1	NULL	NULL	NULL	1	1	1
+zimbabwean international artiste	South African-based Buffalo Souljah	1	1	1	1	NULL	NULL	NULL	1	1	1
+zimbabwean language	Lozi	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+zimbabwean language	Venda	1	1	3	3	0.500000000000	NULL	NULL	26	18	0.01282051282051282
+zimbabwean language	Tonga	1	1	3	3	0.500000000000	NULL	NULL	304	98	0.0010964912280701754
+zimbabwean law firm	Genesis Law Associates	1	1	1	1	NULL	NULL	NULL	1	1	1
+zimbabwean literary celebrity	Dambudzo Marechera	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+zimbabwean literary celebrity	Yvonne Vera	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zimbabwean musician	Chartwell Dutiro	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+zimbabwean musician	Celebration Choir	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+zimbabwean musician	Tanga Wekwa Sando	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+zimbabwean operator	Rainbow Tourism	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zimbabwean operator	African Sun	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+zimbabwean organization	Commercial Workers Union	2	1	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+zimbabwean organization	Zimbabwe Congress of Trade Unions	2	1	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+zimbabwean player	Benjani Mwaruwari	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zimbabwean relief agency	Department of Social Welfare	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+Zimbabwean representative	junior member of the government	2	2	2	1	NULL	NULL	NULL	2	1	1
+zimbabwean resort	teh Victoria Falls under South African	1	1	1	1	NULL	NULL	NULL	1	1	1
+zimbabwean station	Studio 7	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+zimbabwean station	SWRadio Africa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zimbabwean traditional leader	chief	1	1	2	2	0.500000000000	NULL	NULL	174	118	0.0028735632183908046
+zimbabwean traditional leader	headman	1	1	2	2	0.500000000000	NULL	NULL	10	7	0.05
+zimbabwean university	University of Zimbabwe	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zimbabwean writer	Zimunya	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zimbabweans	Solomon Chikohwero	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Zimbabweans	Grace Kwinjeh	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+Zimbabweans	Daniel Molokele	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zimbardo deconstructed event	lynching of blacks in the South	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zimbardo deconstructed event	Jonestown mass suicide	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zimbardo deconstructed event	Holocaust	1	1	3	3	NULL	NULL	NULL	335	140	0.0009950248756218905
+zimbra desktop element	contact	1	1	1	2	NULL	NULL	NULL	1676	655	0.0005966587112171838
+zimbra folder	Inbox	1	1	1	1	NULL	NULL	NULL	219	97	0.0045662100456621
+zimbra item	mail message	1	1	1	1	1.000000000000	NULL	NULL	23	14	0.043478260869565216
+zimfest material	workshop	1	1	1	1	NULL	NULL	NULL	3369	1324	0.00029682398337785694
+zimmer product	joint replacement	1	1	3	3	NULL	NULL	NULL	166	79	0.002008032128514056
+zimmer product	trauma product	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zimmer product	spinal system	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zimmerman ape	chimpanzee	1	1	1	1	NULL	NULL	NULL	699	160	0.001430615164520744
+ZIMO decoder orfacturers	Roco	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+ZIMO product	accessory	1	1	2	2	NULL	NULL	NULL	1375	567	0.0003636363636363636
+ZIMO product	track section module	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zimpharm's product	Beta brand of drug	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zin	Ravenswood Teldeschi	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc	Zicam	1	1	2	2	0.500000000000	NULL	NULL	15	14	0.03333333333333333
+zinc	Cold Eeze	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+zinc additive	ZDDP Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc alkaline secondary battery	nickel-zinc secondary battery	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc alloy	corrosion resistant non ferrous alloy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc alloy	electroplating non ferrous alloy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc alloy product	belt buckle	1	1	2	2	NULL	NULL	NULL	195	91	0.002564102564102564
+zinc alloy product	button	1	1	2	2	NULL	NULL	NULL	4383	1440	0.00011407711613050422
+zinc alloy related offer	Zinc Oxide	1	1	1	1	NULL	NULL	NULL	1245	447	0.0008032128514056225
+zinc animal source food	meat	1	1	2	2	NULL	NULL	NULL	9410	1886	0.00005313496280552604
+zinc animal source food	fish	1	1	2	2	NULL	NULL	NULL	12757	2977	0.000039194167907815315
+zinc based compound semiconductor	zinc selenide	1	1	1	1	1.000000000000	NULL	NULL	43	23	0.023255813953488372
+zinc bearing material	electric arc furnace dust generated by steel mini-mills	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc binder	zinc acetate	1	1	1	1	NULL	NULL	NULL	71	43	0.014084507042253521
+zinc binding ligands	picolinic acid	3	3	3	1	1.000000000000	NULL	NULL	25	9	0.12
+zinc binding protein	TFIIIA	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zinc biocide coating	Seaguard HMF	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc carbonate	zinc tetraamine carbonate	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+zinc carbonate	zinc carbonate hydroxide monohydrate	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+zinc carbonate	zinc ammonium carbonate	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+zinc carbonate	zinc bicarbonate	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+zinc carbonate	smithsonite	1	1	5	5	1.000000000000	NULL	NULL	20	11	0.01
+Zinc carboxylates	zinc octoate	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+Zinc chalcogenides	ZnSe	1	1	1	1	1.000000000000	NULL	NULL	48	31	0.020833333333333332
+zinc chelating agent	clioquinol	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+zinc chemical	zinc oxide	1	1	1	1	NULL	NULL	NULL	1245	447	0.0008032128514056225
+zinc chloride co-crystalline salt	4-phenoxydiazobenzene zinc chloride	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc co-factors	selenium	1	1	3	3	NULL	NULL	NULL	2488	465	0.0001339764201500536
+zinc co-factors	copper	1	1	3	3	NULL	NULL	NULL	15607	2840	0.000021357937677537855
+zinc co-factors	manganese	1	1	3	3	NULL	NULL	NULL	3360	607	0.0000992063492063492
+zinc coating	zinc metal spray	1	1	3	3	0.666666666666	NULL	NULL	2	2	0.16666666666666666
+zinc coating	zinc plating	1	1	3	3	0.666666666666	NULL	NULL	26	20	0.01282051282051282
+zinc coating	electroplating	1	1	3	3	0.666666666666	NULL	NULL	226	104	0.0014749262536873156
+zinc color	gold zinc	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zinc color	black zinc	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+zinc compound	zinc chloride	11	6	81	34	0.777777777777	NULL	NULL	228	95	0.006551873510937839
+zinc compound	zinc oxide	11	9	81	34	0.777777777777	NULL	NULL	1245	447	0.0011998611730874114
+zinc compound	zinc sulfate	8	5	81	34	0.777777777777	NULL	NULL	92	45	0.008588298443370907
+zinc compound	ZnO	8	5	81	34	0.777777777777	NULL	NULL	426	185	0.0018547498985683648
+zinc compound	zinc acetate	4	3	81	34	0.777777777777	NULL	NULL	71	43	0.0027821248478525473
+zinc compound	zinc phosphate	3	3	81	34	0.777777777777	NULL	NULL	94	72	0.001182033096926714
+zinc compound	zinc sulphate	3	2	81	34	0.777777777777	NULL	NULL	41	27	0.0027100271002710027
+zinc compound	halides of zinc	2	1	81	34	0.777777777777	NULL	NULL	2	1	0.024691358024691357
+zinc compound	zinc carbonate	2	2	81	34	0.777777777777	NULL	NULL	53	19	0.0009317493594223153
+zinc compound	zinc sulfide	2	2	81	34	0.777777777777	NULL	NULL	92	48	0.0005367686527106817
+zinc compound	zinc iodide	2	2	81	34	0.777777777777	NULL	NULL	4	3	0.012345679012345678
+zinc compound	zinc naphthenate	2	2	81	34	0.777777777777	NULL	NULL	9	6	0.0054869684499314125
+zinc compound	Zn sulfate	2	2	81	34	0.777777777777	NULL	NULL	3	2	0.016460905349794237
+zinc compound	salt	2	1	81	34	0.777777777777	NULL	NULL	6145	1390	0.00000803624345799556
+zinc compound	useinorganic zinc compound	1	1	81	34	0.777777777777	NULL	NULL	2	2	0.006172839506172839
+zinc compound	dialkyl zinc compound	1	1	81	34	0.777777777777	NULL	NULL	2	2	0.006172839506172839
+zinc compound	sulfide	1	1	81	34	0.777777777777	NULL	NULL	292	166	0.000042279722645019446
+zinc compound	zinc octoate	1	1	81	34	0.777777777777	NULL	NULL	12	9	0.0010288065843621398
+zinc compound	zinc oleate	1	1	81	34	0.777777777777	NULL	NULL	3	3	0.004115226337448559
+zinc compound	zinc lysine	1	1	81	34	0.777777777777	NULL	NULL	1	1	0.012345679012345678
+zinc compound	zinc lactate	1	1	81	34	0.777777777777	NULL	NULL	6	5	0.0020576131687242796
+zinc compound	zinc stearate	1	1	81	34	0.777777777777	NULL	NULL	124	59	0.00009956192751891676
+zinc compound	zinc cyanide	1	1	81	34	0.777777777777	NULL	NULL	2	2	0.006172839506172839
+zinc compound	zinc fluoborate	1	1	81	34	0.777777777777	NULL	NULL	1	1	0.012345679012345678
+zinc compound	zinc formate	1	1	81	34	0.777777777777	NULL	NULL	1	1	0.012345679012345678
+zinc compound	zinc arsenate	1	1	81	34	0.777777777777	NULL	NULL	2	2	0.006172839506172839
+zinc compound	zinc hydroxide	1	1	81	34	0.777777777777	NULL	NULL	18	7	0.0006858710562414266
+zinc compound	zinc sulfamate	1	1	81	34	0.777777777777	NULL	NULL	1	1	0.012345679012345678
+zinc compound	zinc laurate	1	1	81	34	0.777777777777	NULL	NULL	4	4	0.0030864197530864196
+zinc compound	zinc linoleate	1	1	81	34	0.777777777777	NULL	NULL	1	1	0.012345679012345678
+zinc compound	combinations of zinc compound	1	1	81	34	0.777777777777	NULL	NULL	1	1	0.012345679012345678
+zinc compound	zinc borate	1	1	81	34	0.777777777777	NULL	NULL	24	18	0.0005144032921810699
+zinc compound	water-soluble zinc compound	1	1	81	34	0.777777777777	NULL	NULL	2	2	0.006172839506172839
+zinc cream	castor oil Sudocrem	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc crop	rice	1	1	1	1	NULL	NULL	NULL	11473	2640	0.00008716116098666435
+zinc deficiency symptom	country mild zinc deficiency symptom	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+zinc deficiency symptom	delayed wound healing	1	1	2	2	1.000000000000	NULL	NULL	46	22	0.010869565217391304
+Zinc dependent enzyme	alkaline phosphatase	1	1	1	1	NULL	NULL	NULL	275	122	0.0036363636363636364
+Zinc dependent proteases	aminopeptidases	3	2	4	2	1.000000000000	NULL	NULL	13	8	0.17307692307692307
+Zinc dependent proteases	amino peptidases	1	1	4	2	1.000000000000	NULL	NULL	1	1	0.25
+zinc derivative	zinc stearate	1	1	2	2	NULL	NULL	NULL	124	59	0.004032258064516129
+zinc derivative	novel zinc derivative	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zinc die cast part	carburetor	1	1	2	2	NULL	NULL	NULL	165	82	0.0030303030303030303
+zinc die cast part	headlight rim	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zinc dithiocarbamates	zinc dimethyl-and diethyldithiocarbamate	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc electrode constituent	zinc oxide	3	2	9	3	0.666666666666	NULL	NULL	1245	447	0.0008032128514056225
+zinc electrode constituent	bismuth oxide	3	2	9	3	0.666666666666	NULL	NULL	57	28	0.017543859649122806
+zinc electrode constituent	dispersing agent	3	2	9	3	0.666666666666	NULL	NULL	265	56	0.0037735849056603774
+zinc fastener	zinc bolt	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+zinc fertilizer	zinc sulfate	1	1	1	1	NULL	NULL	NULL	92	45	0.010869565217391304
+zinc finger	Egr-1	1	1	1	1	1.000000000000	NULL	NULL	20	7	0.05
+zinc finger motif	zinc ribbon	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zinc finger protein	Kruppel-associated box protein Kox1	1	1	10	10	0.800000000000	NULL	NULL	1	1	0.1
+zinc finger protein	cellular nucleic acid-binding protein	1	1	10	10	0.800000000000	NULL	NULL	1	1	0.1
+zinc finger protein	GATA4	1	1	10	10	0.800000000000	NULL	NULL	14	10	0.0071428571428571435
+zinc finger protein	CREA from Aspergillus nidulans	1	1	10	10	0.800000000000	NULL	NULL	1	1	0.1
+zinc finger protein	SP1	1	1	10	10	0.800000000000	NULL	NULL	24	14	0.004166666666666667
+zinc finger protein	TFIIIA	1	1	10	10	0.800000000000	NULL	NULL	7	7	0.014285714285714287
+zinc finger protein	zyxin	1	1	10	10	0.800000000000	NULL	NULL	6	6	0.016666666666666666
+zinc finger protein	MIG 1 from yeast	1	1	10	10	0.800000000000	NULL	NULL	1	1	0.1
+zinc finger protein	GATA6	1	1	10	10	0.800000000000	NULL	NULL	6	5	0.016666666666666666
+zinc finger protein	protein kinase C	1	1	10	10	0.800000000000	NULL	NULL	85	32	0.0011764705882352942
+zinc finger transcription factor	early growth response proteins Egr-1	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zinc finger transcription factor	human SP1	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zinc finger transcription factor	murine Zif268	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zinc finger transcription factor	GATA-6	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+zinc food	high zinc food	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+zinc food	peanut	1	1	7	7	NULL	NULL	NULL	3307	885	0.000043198410298501014
+zinc food	turkey	1	1	7	7	NULL	NULL	NULL	7587	1715	0.000018829200323862244
+zinc food	bean	1	1	7	7	NULL	NULL	NULL	8901	1912	0.00001604956104450543
+zinc food	lamb	1	1	7	7	NULL	NULL	NULL	1631	591	0.00008758868354208635
+zinc food	wheat	1	1	7	7	NULL	NULL	NULL	8874	1887	0.000016098393380340642
+zinc food	barley	1	1	7	7	NULL	NULL	NULL	4066	900	0.00003513456538542618
+zinc form	silicate	1	1	2	2	NULL	NULL	NULL	474	234	0.0010548523206751054
+zinc form	complex	1	1	2	2	NULL	NULL	NULL	127	80	0.003937007874015748
+zinc halide	zinc chloride	4	2	6	2	0.333333333333	NULL	NULL	228	95	0.011695906432748537
+zinc halide	zinc bromide	2	2	6	2	0.333333333333	NULL	NULL	38	27	0.017543859649122806
+Zinc halides	zinc chloride	3	3	4	2	0.333333333333	NULL	NULL	228	95	0.009868421052631578
+Zinc halides	zinc bromide	1	1	4	2	0.333333333333	NULL	NULL	38	27	0.006578947368421052
+zinc homeostasis metal	calcium	1	1	4	4	NULL	NULL	NULL	7449	1348	0.000033561551886159215
+zinc homeostasis metal	manganese	1	1	4	4	NULL	NULL	NULL	3360	607	0.00007440476190476191
+zinc homeostasis metal	zinc	1	1	4	4	NULL	NULL	NULL	8418	1394	0.000029698265621287717
+zinc homeostasis metal	iron	1	1	4	4	NULL	NULL	NULL	11941	2300	0.000020936269994137844
+zinc hydroxide salt	zinc hydroxide acetate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc hydroxide salt	zinc hydroxide carbonate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc inhibitor	excessive amount of copper	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc ion source	zinc acetate	2	1	2	1	1.000000000000	NULL	NULL	71	43	0.028169014084507043
+zinc lamellar coating	Delta Tone	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc lozenge	Zand Herbal Formula Elderberry Zinc	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc meat alternative	soy product	1	1	1	1	NULL	NULL	NULL	202	97	0.0049504950495049506
+zinc metal	sodium	1	1	4	4	0.250000000000	NULL	NULL	4080	988	0.00006127450980392157
+zinc metal	tin	1	1	4	4	0.250000000000	NULL	NULL	1966	607	0.0001271617497456765
+zinc metal	zinc	1	1	4	4	0.250000000000	NULL	NULL	8418	1394	0.000029698265621287717
+zinc metal	zinc dust	1	1	4	4	0.250000000000	NULL	NULL	20	12	0.0125
+zinc metallopeptidases	Angiotensin Converting Enzyme	2	1	6	3	1.000000000000	NULL	NULL	11	10	0.0606060606060606
+zinc metallopeptidases	Endothelin Converting Enzyme	2	1	6	3	1.000000000000	NULL	NULL	4	3	0.16666666666666666
+zinc metallopeptidases	Neutral Endopeptidase	2	1	6	3	1.000000000000	NULL	NULL	12	11	0.05555555555555555
+zinc metalloprotease inhibitor	TAPI	1	1	1	1	1.000000000000	NULL	NULL	17	14	0.058823529411764705
+Zinc metalloproteases	thermolysin	1	1	1	1	1.000000000000	NULL	NULL	19	13	0.05263157894736842
+zinc miner	Atacocha	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc miner	MIM Holdings	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+zinc miner	Milpo	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc mineral	franklinite	1	1	2	2	NULL	NULL	NULL	10	5	0.05
+zinc mineral	calamine	1	1	2	2	NULL	NULL	NULL	84	37	0.005952380952380952
+zinc name	Shenzhen Zhongjin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc name	Yunnan Chihong	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc nasal gel	Zicam	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+zinc nasal preparation	nasal spray	1	1	2	2	0.500000000000	NULL	NULL	231	100	0.0021645021645021645
+zinc nasal preparation	nose drop	1	1	2	2	0.500000000000	NULL	NULL	91	13	0.005494505494505495
+zinc nasal product	gel	1	1	1	1	NULL	NULL	NULL	1767	689	0.0005659309564233164
+zinc nasal spray	Zicam	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+zinc ores	zinc silicate mineral	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zinc organic salt	zinc acetate	1	1	1	1	NULL	NULL	NULL	71	43	0.014084507042253521
+zinc oxide	zinc oxides having trademarks KADOX.RTM	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc oxide cream	Penaten	3	3	5	3	0.500000000000	NULL	NULL	3	1	0.6
+zinc oxide cream	Desitin	1	1	5	3	0.500000000000	NULL	NULL	62	31	0.0032258064516129032
+zinc oxide cream	Sudocrem	1	1	5	3	0.500000000000	NULL	NULL	19	10	0.010526315789473684
+zinc oxide grade	Zinc Oxide grade XX503R available from Zinc Corporation of America	3	2	8	5	NULL	NULL	NULL	3	1	0.375
+zinc oxide grade	grade XX503R	2	2	8	5	NULL	NULL	NULL	2	1	0.25
+zinc oxide grade	available from Zinc Corporation of America of Monaca	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+zinc oxide grade	grade XX503R available from Zinc Corporation of America	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+zinc oxide grade	grade XX503Ravailable from Zinc Corporation of America	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+Zinc oxide nanostructures	nanowires	2	2	2	1	NULL	NULL	NULL	457	193	0.00437636761487965
+Zinc oxide oil paint underlayerrs	groud	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc oxide ointment	Desitin	1	1	2	2	0.500000000000	NULL	NULL	62	31	0.008064516129032258
+zinc oxide ointment	diaper rash cream	1	1	2	2	0.500000000000	NULL	NULL	33	22	0.015151515151515152
+zinc oxide preparation	Desitin	1	1	1	1	NULL	NULL	NULL	62	31	0.016129032258064516
+zinc oxide related offer	Zinc Metal	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+zinc oxide related offer	Abrasive Material	1	1	2	2	1.000000000000	NULL	NULL	8	9	0.0625
+zinc oxide series conductive particle	zinc oxide	1	1	1	1	NULL	NULL	NULL	1245	447	0.0008032128514056225
+zinc oxide series particle	particles of zinc oxide	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc oxide sunscreen	SkinCeuticals Daily Sun Defense	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc oxide treatment	diaper rash medicine	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc phosphide bait	Prozap zinc phosphide pellet	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc producer	Zhuzhou Smelter	3	1	9	4	NULL	NULL	NULL	3	1	0.3333333333333333
+zinc producer	Huludao Zinc Smelting Co.	3	1	9	4	NULL	NULL	NULL	3	1	0.3333333333333333
+zinc producer	Liuzhou Zinc Products Factory	2	1	9	4	NULL	NULL	NULL	2	1	0.2222222222222222
+zinc producer	Liuzhou Zinc Products	1	1	9	4	NULL	NULL	NULL	1	1	0.1111111111111111
+zinc product	Zicam oral Cold Remedy	2	2	8	7	1.000000000000	NULL	NULL	2	1	0.25
+zinc product	Zicam	1	1	8	7	1.000000000000	NULL	NULL	15	14	0.008333333333333333
+zinc product	Zicam Cold Remedy	1	1	8	7	1.000000000000	NULL	NULL	2	2	0.0625
+zinc product	RGS from Nutra-Flo	1	1	8	7	1.000000000000	NULL	NULL	1	1	0.125
+zinc product	pre-formed shingle	1	1	8	7	1.000000000000	NULL	NULL	1	1	0.125
+zinc product	ASA from CPS	1	1	8	7	1.000000000000	NULL	NULL	1	1	0.125
+zinc product	ZMA	1	1	8	7	1.000000000000	NULL	NULL	32	18	0.00390625
+Zinc proteinates	Bioplex Zinc	2	2	2	1	NULL	NULL	NULL	2	1	1
+zinc pyrithinoel shampoo	head	1	1	1	1	NULL	NULL	NULL	1061	534	0.000942507068803016
+zinc pyrithione shampoo	Head & Shoulders	2	2	4	3	1.000000000000	NULL	NULL	49	23	0.02040816326530612
+zinc pyrithione shampoo	Selsun Salon	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+zinc pyrithione shampoo	American Crew Anti Dandruff Shampoo	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+zinc related offer	Zinc Alloy	1	1	1	1	1.000000000000	NULL	NULL	53	20	0.018867924528301886
+zinc rich food	oyster	18	16	106	57	0.100000000000	NULL	NULL	2038	572	0.0014998055807580498
+zinc rich food	pumpkin seed	6	6	106	57	0.100000000000	NULL	NULL	378	119	0.0008984725965858042
+zinc rich food	wheat germ	4	4	106	57	0.100000000000	NULL	NULL	402	164	0.000375481085140336
+zinc rich food	egg	4	4	106	57	0.100000000000	NULL	NULL	9254	1960	0.00001631115152651989
+zinc rich food	shellfish	3	3	106	57	0.100000000000	NULL	NULL	736	247	0.00011536095159967187
+zinc rich food	spinach	3	3	106	57	0.100000000000	NULL	NULL	8593	1370	0.000009880793713180321
+zinc rich food	turkey	3	3	106	57	0.100000000000	NULL	NULL	7587	1715	0.000011190939815125675
+zinc rich food	sunflower seed	3	3	106	57	0.100000000000	NULL	NULL	692	235	0.0001226960410077435
+zinc rich food	nut	3	3	106	57	0.100000000000	NULL	NULL	5171	1477	0.000016419582358800716
+zinc rich food	grain	2	2	106	57	0.100000000000	NULL	NULL	3797	1123	0.000009938332645931991
+zinc rich food	Meat	2	2	106	57	0.100000000000	NULL	NULL	9410	1886	0.0000040101858721151725
+zinc rich food	peanut	2	2	106	57	0.100000000000	NULL	NULL	3307	885	0.000011410900833566305
+zinc rich food	seafood	2	2	106	57	0.100000000000	NULL	NULL	1585	555	0.00002380810666031784
+zinc rich food	lentil	2	2	106	57	0.100000000000	NULL	NULL	2437	561	0.000015484550289948205
+zinc rich food	beef	2	2	106	57	0.100000000000	NULL	NULL	3913	1020	0.00000964371302238788
+zinc rich food	bean	2	2	106	57	0.100000000000	NULL	NULL	8901	1912	0.0000042395066910014345
+zinc rich food	lamb	2	2	106	57	0.100000000000	NULL	NULL	1631	591	0.00002313663338847564
+zinc rich food	red meat	2	2	106	57	0.100000000000	NULL	NULL	1318	290	0.00002863114495948693
+zinc rich food	crab	2	2	106	57	0.100000000000	NULL	NULL	2211	674	0.000017067322051833458
+zinc rich food	fish	2	2	106	57	0.100000000000	NULL	NULL	12757	2977	0.000002958050408137005
+zinc rich food	seed	2	2	106	57	0.100000000000	NULL	NULL	2759	988	0.000013677364645380127
+zinc rich food	unroasted sunflower	1	1	106	57	0.100000000000	NULL	NULL	1	1	0.009433962264150943
+zinc rich food	tomato	1	1	106	57	0.100000000000	NULL	NULL	10378	2224	0.0000009090347142176665
+zinc rich food	sweet potato	1	1	106	57	0.100000000000	NULL	NULL	2558	814	0.000003688022777228672
+zinc rich food	lettuce	1	1	106	57	0.100000000000	NULL	NULL	5133	1104	0.0000018379042010814228
+zinc rich food	lamb chop	1	1	106	57	0.100000000000	NULL	NULL	56	45	0.00016846361185983826
+zinc rich food	Brazil nut	1	1	106	57	0.100000000000	NULL	NULL	342	89	0.000027584684982897493
+zinc rich food	onion	1	1	106	57	0.100000000000	NULL	NULL	7041	1523	0.0000013398611367917828
+zinc rich food	lima bean	1	1	106	57	0.100000000000	NULL	NULL	331	97	0.00002850139656843185
+zinc rich food	Liver & Cheese	1	1	106	57	0.100000000000	NULL	NULL	1	1	0.009433962264150943
+zinc rich food	avocado	1	1	106	57	0.100000000000	NULL	NULL	3431	888	0.0000027496246762316945
+zinc rich food	cauliflower	1	1	106	57	0.100000000000	NULL	NULL	4013	718	0.000002350850302554434
+zinc rich food	clam	1	1	106	57	0.100000000000	NULL	NULL	1075	301	0.00000877577885037297
+zinc rich food	squash	1	1	106	57	0.100000000000	NULL	NULL	3158	896	0.0000029873218062542567
+zinc rich food	oatmeal	1	1	106	57	0.100000000000	NULL	NULL	3108	810	0.0000030353803938709596
+zinc rich food	olive	1	1	106	57	0.100000000000	NULL	NULL	3387	1028	0.0000027853446306911553
+zinc rich food	yogurt	1	1	106	57	0.100000000000	NULL	NULL	5394	1123	0.000001748973352641999
+zinc rich food	low fat beef	1	1	106	57	0.100000000000	NULL	NULL	3	3	0.003144654088050314
+zinc rich food	artichoke	1	1	106	57	0.100000000000	NULL	NULL	700	251	0.000013477088948787062
+zinc rich food	cucumber	1	1	106	57	0.100000000000	NULL	NULL	3938	1031	0.000002395622718169361
+zinc rich food	shrimp	1	1	106	57	0.100000000000	NULL	NULL	2860	855	0.0000032985882042485813
+zinc rich food	pumpkin	1	1	106	57	0.100000000000	NULL	NULL	2331	850	0.000004047173858494613
+zinc rich food	radish	1	1	106	57	0.100000000000	NULL	NULL	1841	473	0.000005124368421592039
+zinc rich food	green leafy vegetable	1	1	106	57	0.100000000000	NULL	NULL	411	129	0.000022953679474819812
+zinc rich food	ginger root	1	1	106	57	0.100000000000	NULL	NULL	200	88	0.000047169811320754715
+zinc rich food	fortified breakfast cereal	1	1	106	57	0.100000000000	NULL	NULL	46	17	0.0002050861361771944
+zinc rich food	dark meat	1	1	106	57	0.100000000000	NULL	NULL	4	4	0.0023584905660377358
+zinc rich food	sesame seed	1	1	106	57	0.100000000000	NULL	NULL	354	141	0.00002664961091568063
+zinc rich food	sesame seeds for good body formation	1	1	106	57	0.100000000000	NULL	NULL	1	1	0.009433962264150943
+zinc rich food	sardine	1	1	106	57	0.100000000000	NULL	NULL	3242	488	0.0000029099205009719133
+zinc rich food	whole oat	1	1	106	57	0.100000000000	NULL	NULL	61	25	0.00015465511908444168
+zinc rich food	parsley	1	1	106	57	0.100000000000	NULL	NULL	2759	570	0.000003419341161345032
+zinc rich food	pecan	1	1	106	57	0.100000000000	NULL	NULL	1062	273	0.00000888320363856021
+zinc rich food	pepitas	1	1	106	57	0.100000000000	NULL	NULL	4	4	0.0023584905660377358
+zinc rich food	pork	1	1	106	57	0.100000000000	NULL	NULL	2559	680	0.000003686581580363792
+zinc rich food	mussel	1	1	106	57	0.100000000000	NULL	NULL	1354	381	0.000006967475822858894
+zinc rich foodstuff	oyster	1	1	1	1	NULL	NULL	NULL	2038	572	0.0004906771344455348
+zinc rich intermetallic compound	Zn.sub.3 Ti	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc robber	excess sugar	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+zinc salt	zinc chloride	9	7	82	45	0.500000000000	NULL	NULL	228	95	0.004332477535301669
+zinc salt	zinc sulfate	7	5	82	45	0.500000000000	NULL	NULL	92	45	0.006495227995758219
+zinc salt	zinc acetate	6	5	82	45	0.500000000000	NULL	NULL	71	43	0.006183442116111301
+zinc salt	chloride	5	5	82	45	0.500000000000	NULL	NULL	1809	576	0.0001685340236486942
+zinc salt	zinc oxide	5	4	82	45	0.500000000000	NULL	NULL	1245	447	0.00024488196689195806
+zinc salt	oxide	3	3	82	45	0.500000000000	NULL	NULL	671	308	0.0001635709352622587
+zinc salt	gluconate	2	2	82	45	0.500000000000	NULL	NULL	33	24	0.0014781966001478197
+zinc salt	bisulfate	2	2	82	45	0.500000000000	NULL	NULL	16	5	0.003048780487804878
+zinc salt	carbonate	2	2	82	45	0.500000000000	NULL	NULL	709	330	0.00006880181636795211
+zinc salt	bicarbonate	2	2	82	45	0.500000000000	NULL	NULL	244	115	0.00019992003198720512
+zinc salt	zinc gluconate	2	1	82	45	0.500000000000	NULL	NULL	24	15	0.0020325203252032522
+zinc salt	zinc hydroxide	2	2	82	45	0.500000000000	NULL	NULL	18	7	0.0027100271002710027
+zinc salt	zinc stearate	2	2	82	45	0.500000000000	NULL	NULL	124	59	0.0003933910306845004
+zinc salt	bromide	2	2	82	45	0.500000000000	NULL	NULL	410	161	0.0001189767995240928
+zinc salt	ZnCl 2	2	2	82	45	0.500000000000	NULL	NULL	42	20	0.0011614401858304297
+zinc salt	nitrate	2	2	82	45	0.500000000000	NULL	NULL	2341	763	0.00002083745741344641
+zinc salt	highly-ionized andsoluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	acidic zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	sulfate	1	1	82	45	0.500000000000	NULL	NULL	1194	460	0.00001021366997589574
+zinc salt	ZnBr 2	1	1	82	45	0.500000000000	NULL	NULL	5	3	0.0024390243902439024
+zinc salt	zinc borate	1	1	82	45	0.500000000000	NULL	NULL	24	18	0.0005081300813008131
+zinc salt	zinc bromide	1	1	82	45	0.500000000000	NULL	NULL	38	27	0.0003209242618741977
+zinc salt	zinc ascorbate	1	1	82	45	0.500000000000	NULL	NULL	1	1	0.012195121951219513
+zinc salt	chromates	1	1	82	45	0.500000000000	NULL	NULL	83	38	0.00014692918013517486
+zinc salt	insoluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	highly-ionizedand water soluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	3	3	0.0040650406504065045
+zinc salt	lactate	1	1	82	45	0.500000000000	NULL	NULL	342	177	0.0000356582513193553
+zinc salt	conventional organic zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	acetate	1	1	82	45	0.500000000000	NULL	NULL	950	396	0.000012836970474967908
+zinc salt	zinc dialkylphosphates	1	1	82	45	0.500000000000	NULL	NULL	1	1	0.012195121951219513
+zinc salt	zinc nitrate	1	1	82	45	0.500000000000	NULL	NULL	14	12	0.0008710801393728223
+zinc salt	zinc naphthenate	1	1	82	45	0.500000000000	NULL	NULL	9	6	0.0013550135501355014
+zinc salt	zinc phosphate	1	1	82	45	0.500000000000	NULL	NULL	94	72	0.00012973533990659055
+zinc salt	zinc sulfide	1	1	82	45	0.500000000000	NULL	NULL	92	48	0.0001325556733828208
+zinc salt	arsenates	1	1	82	45	0.500000000000	NULL	NULL	12	11	0.0010162601626016261
+zinc salt	irritant zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	highly-ionized and soluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	3	3	0.0040650406504065045
+zinc salt	sparingly soluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	3	3	0.0040650406504065045
+zinc salt	organic zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	water soluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	common zinc salt	1	1	82	45	0.500000000000	NULL	NULL	2	2	0.006097560975609756
+zinc salt	soluble or insoluble zinc salt	1	1	82	45	0.500000000000	NULL	NULL	3	3	0.0040650406504065045
+zinc salt	picolinate	1	1	82	45	0.500000000000	NULL	NULL	7	7	0.0017421602787456446
+zinc scrap	premium quality zinc scrap	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zinc selenide component	lens	1	1	1	1	NULL	NULL	NULL	1167	446	0.000856898029134533
+zinc sensitive crop	corn	1	1	2	2	NULL	NULL	NULL	11029	2454	0.00004533502584096473
+zinc sensitive crop	bean	1	1	2	2	NULL	NULL	NULL	8901	1912	0.00005617346365576902
+zinc shampoo	Head	1	1	1	1	NULL	NULL	NULL	1061	534	0.000942507068803016
+zinc sheet application	roofing	2	0	4	2	NULL	NULL	NULL	824	345	0.0012135922330097086
+zinc sheet application	gutter	2	0	4	2	NULL	NULL	NULL	478	249	0.0020920502092050207
+zinc soap	zinc stearate	3	2	12	4	1.000000000000	NULL	NULL	124	59	0.006048387096774193
+zinc soap	zinc naphthenate	3	2	12	4	1.000000000000	NULL	NULL	9	6	0.08333333333333333
+zinc soap	zinc tallowate	3	2	12	4	1.000000000000	NULL	NULL	3	1	0.25
+zinc soap	zinc resinate	3	2	12	4	1.000000000000	NULL	NULL	4	2	0.1875
+Zinc Soluble Metal-Based Metal	titanium metal sponge	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+zinc source	Rieke zinctm	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zinc sulfide ores	sphalerite	1	1	1	1	1.000000000000	NULL	NULL	69	26	0.014492753623188406
+zinc sulphate	industrial zinc sulphate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc sulphate	powder zinc sulphate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc sulphate	granular zinc sulphate	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zinc supplement	zinc acetate	2	2	7	6	0.600000000000	NULL	NULL	71	43	0.008048289738430582
+zinc supplement	chelated zinc	1	1	7	6	0.600000000000	NULL	NULL	6	5	0.023809523809523808
+zinc supplement	zinc citrate	1	1	7	6	0.600000000000	NULL	NULL	27	23	0.005291005291005291
+zinc supplement	zinc oxide	1	1	7	6	0.600000000000	NULL	NULL	1245	447	0.00011474469305794606
+zinc supplement	Metamucil	1	1	7	6	0.600000000000	NULL	NULL	447	105	0.00031959092361776926
+zinc supplement	ZMA	1	1	7	6	0.600000000000	NULL	NULL	32	18	0.004464285714285714
+zinc tablet preparation	zinc acetate	1	1	1	1	NULL	NULL	NULL	71	43	0.014084507042253521
+zinc transporter gene	ZIP1	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc wire	industrial zinc wire	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc zinc compound	zinc acetate	1	1	1	1	NULL	NULL	NULL	71	43	0.014084507042253521
+Zinc's by-products	sand	1	1	3	3	0.500000000000	NULL	NULL	6541	2043	0.000050960607450440805
+Zinc's by-products	zinc dust	1	1	3	3	0.500000000000	NULL	NULL	20	12	0.016666666666666666
+Zinc's by-products	zinc calcine	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+zinc-activated enzyme	carbonic anhydrase	1	1	1	1	1.000000000000	NULL	NULL	24	14	0.041666666666666664
+zinc-air cell	hearing aid battery	1	1	2	2	1.000000000000	NULL	NULL	24	16	0.020833333333333332
+zinc-air cell	Wein cell	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+zinc-alloy die-casting product	brand	1	1	2	2	NULL	NULL	NULL	781	291	0.0006402048655569782
+zinc-alloy die-casting product	ornamental buckle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc-alloy product	badge	1	1	1	1	NULL	NULL	NULL	500	262	0.002
+Zinc-antioxidant pigment complex	sodium zinc chlorophyllin	2	2	2	1	NULL	NULL	NULL	2	1	1
+zinc-based additive	zinc carbonate	2	2	2	1	1.000000000000	NULL	NULL	53	19	0.03773584905660377
+zinc-based coated steel sheet	hot dip galvanized steel sheet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc-based coated steel sheet	electrogalvanized steel sheet	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zinc-based fungicide	Zineb	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+zinc-based nasal spray	Zicam	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+zinc-based oral spray	Thera Zinc Spray from Quantum Health	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-based remedy	Head	1	1	1	1	NULL	NULL	NULL	1061	534	0.000942507068803016
+Zinc-based sorbents	zinc titanate	1	1	1	1	NULL	NULL	NULL	8	4	0.125
+zinc-bearing sulphide material	marmatitic ores	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-binding module	zinc finger	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+Zinc-blend type crystalline structure	GaAs	1	1	1	1	1.000000000000	NULL	NULL	29	20	0.034482758620689655
+zinc-blende semiconductor	InGaAs	1	1	1	1	NULL	NULL	NULL	50	34	0.02
+zinc-blende structured material	Cubic boron nitride	1	1	2	2	0.500000000000	NULL	NULL	71	49	0.007042253521126761
+zinc-blende structured material	diamond	1	1	2	2	0.500000000000	NULL	NULL	2545	954	0.00019646365422396856
+zinc-chelating agent	citrate	1	1	1	1	NULL	NULL	NULL	431	190	0.002320185614849188
+zinc-coated substrate	G90	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+zinc-containing coated ferrous strip	aluminum-zinc alloy coated strip	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-containing compound	salts of zinc	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+zinc-containing enzyme	carbonic anhydrase	2	2	3	3	0.500000000000	NULL	NULL	24	14	0.05555555555555555
+zinc-containing enzyme	lactate dehydrogenase	1	1	3	3	0.500000000000	NULL	NULL	107	58	0.003115264797507788
+zinc-containing food	beef	3	3	10	5	NULL	NULL	NULL	3913	1020	0.0002300025555839509
+zinc-containing food	oyster	3	3	10	5	NULL	NULL	NULL	2038	572	0.0004416094210009813
+zinc-containing food	herring	2	2	10	5	NULL	NULL	NULL	2643	469	0.00015134317063942492
+zinc-containing food	seafood	1	1	10	5	NULL	NULL	NULL	1585	555	0.00006309148264984228
+zinc-containing food	poultry	1	1	10	5	NULL	NULL	NULL	3542	817	0.000028232636928289102
+zinc-containing material	zinc phosphate	1	1	3	3	0.500000000000	NULL	NULL	94	72	0.0035460992907801418
+zinc-containing material	zinc polycarboxylate	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+zinc-containing material	float concentrate	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+zinc-containing solid by-products	hard zinc	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-containing substance	electric furnace dust	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-deficient country	Turkey	1	1	1	1	NULL	NULL	NULL	7587	1715	0.00013180440226703572
+Zinc-dependent enzyme	alkaline phosphatase	1	1	1	1	NULL	NULL	NULL	275	122	0.0036363636363636364
+zinc-depleting habit	drug use	1	1	2	2	NULL	NULL	NULL	837	298	0.0005973715651135006
+zinc-depleting habit	drinking alcohol	1	1	2	2	NULL	NULL	NULL	416	143	0.001201923076923077
+zinc-enriched food	wheat germ	1	1	3	3	NULL	NULL	NULL	402	164	0.0008291873963515754
+zinc-enriched food	pumpkin seed	1	1	3	3	NULL	NULL	NULL	378	119	0.0008818342151675485
+zinc-enriched food	oyster	1	1	3	3	NULL	NULL	NULL	2038	572	0.00016355904481517826
+zinc-finger protein	GATA6	1	1	4	4	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+zinc-finger protein	GATA4	1	1	4	4	1.000000000000	NULL	NULL	14	10	0.017857142857142856
+zinc-finger protein	Wilms tumor 1 protein	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zinc-finger protein	WT1	1	1	4	4	1.000000000000	NULL	NULL	29	21	0.008620689655172414
+zinc-finger transcription factor	Egr-1	1	1	2	2	1.000000000000	NULL	NULL	20	7	0.025
+zinc-finger transcription factor	GATA-6	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+zinc-fortified food	veal	1	1	3	3	NULL	NULL	NULL	392	170	0.0008503401360544217
+zinc-fortified food	peanut butter	1	1	3	3	NULL	NULL	NULL	2014	659	0.00016550810989738495
+zinc-fortified food	chickpea	1	1	3	3	NULL	NULL	NULL	736	204	0.00045289855072463763
+zinc-free alternative	Powder	1	1	5	5	NULL	NULL	NULL	1241	538	0.00016116035455278002
+zinc-free alternative	Comfort Strips	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zinc-free alternative	Polident Fresh Denture Adhesive Cream	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zinc-free alternative	Poligrip Original	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zinc-free alternative	Polident Flavour Free Denture Adhesive Cream	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zinc-heavy food	red meat	1	1	4	4	NULL	NULL	NULL	1318	290	0.00018968133535660092
+zinc-heavy food	mussel	1	1	4	4	NULL	NULL	NULL	1354	381	0.00018463810930576072
+zinc-heavy food	poultry	1	1	4	4	NULL	NULL	NULL	3542	817	0.00007058159232072275
+zinc-heavy food	shrimp	1	1	4	4	NULL	NULL	NULL	2860	855	0.00008741258741258741
+zinc-interacting region	ring finger	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zinc-laden food	nut	2	1	4	2	NULL	NULL	NULL	5171	1477	0.00019338619222587506
+zinc-laden food	fish	2	1	4	2	NULL	NULL	NULL	12757	2977	0.00007838833581563063
+Zinc-metalloproteases	neutral endopeptidase	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+zinc-neutralized ionomer resin	Himilan 1706	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-plated component	paints containing zinc	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zinc-plated component	threaded fitting	1	1	3	3	1.000000000000	NULL	NULL	10	9	0.03333333333333333
+zinc-plated component	filter support core	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Zinc-plated material	coil	1	1	2	2	NULL	NULL	NULL	670	312	0.0007462686567164179
+Zinc-plated material	zinc-plated steel sheet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zinc-plated towing product	jack	1	1	3	3	0.666666666666	NULL	NULL	588	321	0.0005668934240362812
+zinc-plated towing product	hitch ball	1	1	3	3	0.666666666666	NULL	NULL	17	17	0.0196078431372549
+zinc-plated towing product	hand winch	1	1	3	3	0.666666666666	NULL	NULL	19	16	0.017543859649122806
+zinc-rich coating	Type IC inorganic ethyl silicate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc-rich coating	Type II moisture curing polyurethane	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc-rich coating	Type IB waterborne inorganics	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zinc-rich filter cake	type resulting from waste water treatment of electrogalvanizing line	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinc-rich food	oyster	11	10	97	50	0.156862745098	NULL	NULL	2038	572	0.0006120817862671104
+zinc-rich food	lean beef	6	5	97	50	0.156862745098	NULL	NULL	282	90	0.0013160780872998464
+zinc-rich food	pumpkin seed	6	6	97	50	0.156862745098	NULL	NULL	378	119	0.0009818360333824251
+zinc-rich food	nut	5	5	97	50	0.156862745098	NULL	NULL	5171	1477	0.00004984180212007089
+zinc-rich food	whole grain	4	4	97	50	0.156862745098	NULL	NULL	3599	679	0.00004583174593171643
+zinc-rich food	wheatgerm	4	3	97	50	0.156862745098	NULL	NULL	56	29	0.0029455081001472753
+zinc-rich food	shrimp	4	4	97	50	0.156862745098	NULL	NULL	2860	855	0.00005767428447840819
+zinc-rich food	wheat germ	4	4	97	50	0.156862745098	NULL	NULL	402	164	0.00041031953633892393
+zinc-rich food	fish	3	3	97	50	0.156862745098	NULL	NULL	12757	2977	0.000007273144560213152
+zinc-rich food	crab	2	2	97	50	0.156862745098	NULL	NULL	2211	674	0.000018650888015405634
+zinc-rich food	lamb	2	2	97	50	0.156862745098	NULL	NULL	1631	591	0.00002528333133173627
+zinc-rich food	beef	2	2	97	50	0.156862745098	NULL	NULL	3913	1020	0.000010538490519310466
+zinc-rich food	bean	2	2	97	50	0.156862745098	NULL	NULL	8901	1912	0.000004632862981919094
+zinc-rich food	almond	2	2	97	50	0.156862745098	NULL	NULL	4195	930	0.000009830062789526068
+zinc-rich food	turkey	2	2	97	50	0.156862745098	NULL	NULL	7587	1715	0.000005435233083176731
+zinc-rich food	chicken	2	2	97	50	0.156862745098	NULL	NULL	8933	2087	0.000004616267032582766
+zinc-rich food	mussel	2	2	97	50	0.156862745098	NULL	NULL	1354	381	0.000030455770607135787
+zinc-rich food	peanut	2	2	97	50	0.156862745098	NULL	NULL	3307	885	0.000012469644209876582
+zinc-rich food	chickpea	1	1	97	50	0.156862745098	NULL	NULL	736	204	0.00001400717167189601
+zinc-rich food	steak	1	1	97	50	0.156862745098	NULL	NULL	1531	640	0.000006733689321042105
+zinc-rich food	sunflower seed	1	1	97	50	0.156862745098	NULL	NULL	692	235	0.000014897801084559918
+zinc-rich food	poultry	1	1	97	50	0.156862745098	NULL	NULL	3542	817	0.0000029105811266277425
+zinc-rich food	milk	1	1	97	50	0.156862745098	NULL	NULL	11681	2213	0.0000008825681320533741
+zinc-rich food	seafood	1	1	97	50	0.156862745098	NULL	NULL	1585	555	0.000006504276561839409
+zinc-rich food	sesame seed	1	1	97	50	0.156862745098	NULL	NULL	354	141	0.000029122255227444814
+zinc-rich food	dairy product	1	1	97	50	0.156862745098	NULL	NULL	2120	517	0.000004862867146469558
+zinc-rich food	Alaskan king crab	1	1	97	50	0.156862745098	NULL	NULL	14	13	0.0007363770250368188
+zinc-rich food	cashew	1	1	97	50	0.156862745098	NULL	NULL	915	199	0.000011266970874880289
+zinc-rich food	lever	1	1	97	50	0.156862745098	NULL	NULL	473	204	0.000021795514483119373
+zinc-rich food	lentil	1	1	97	50	0.156862745098	NULL	NULL	2437	561	0.000004230315285398221
+zinc-rich food	sea vegetable	1	1	97	50	0.156862745098	NULL	NULL	64	35	0.00016108247422680412
+zinc-rich food	pumpkin	1	1	97	50	0.156862745098	NULL	NULL	2331	850	0.000004422684835055969
+zinc-rich food	corn	1	1	97	50	0.156862745098	NULL	NULL	11029	2454	0.0000009347428008446336
+zinc-rich food	soybean	1	1	97	50	0.156862745098	NULL	NULL	4228	1073	0.000002438334519989466
+zinc-rich food	spinach	1	1	97	50	0.156862745098	NULL	NULL	8593	1370	0.0000011997298208443458
+zinc-rich food	tofu	1	1	97	50	0.156862745098	NULL	NULL	2457	541	0.000004195880484540278
+zinc-rich food	leafy green vegetable	1	1	97	50	0.156862745098	NULL	NULL	187	57	0.000055129830751419594
+zinc-rich food	wheat	1	1	97	50	0.156862745098	NULL	NULL	8874	1887	0.0000011617397284781907
+zinc-rich food	scallop	1	1	97	50	0.156862745098	NULL	NULL	720	271	0.0000143184421534937
+zinc-rich food	red meat	1	1	97	50	0.156862745098	NULL	NULL	1318	290	0.000007821910736354677
+zinc-rich food	egg	1	1	97	50	0.156862745098	NULL	NULL	9254	1960	0.0000011140348336411782
+zinc-rich food	carrot	1	1	97	50	0.156862745098	NULL	NULL	10459	2027	0.0000009856848982231057
+zinc-rich food	Brazil nut	1	1	97	50	0.156862745098	NULL	NULL	342	89	0.00003014408874419726
+zinc-rich food	barley	1	1	97	50	0.156862745098	NULL	NULL	4066	900	0.000002535484099979209
+zinc-rich food	king crab	1	1	97	50	0.156862745098	NULL	NULL	48	40	0.0002147766323024055
+zinc-rich food	legume	1	1	97	50	0.156862745098	NULL	NULL	2179	558	0.000004731197040163132
+zinc-rich food	mushroom	1	1	97	50	0.156862745098	NULL	NULL	2656	800	0.000003881505403055521
+zinc-rich food	shellfish	1	1	97	50	0.156862745098	NULL	NULL	736	247	0.00001400717167189601
+zinc-rich food	seed	1	1	97	50	0.156862745098	NULL	NULL	2759	988	0.0000037365996196141585
+zinc-rich food	salmon	1	1	97	50	0.156862745098	NULL	NULL	9653	1413	0.0000010679869833746466
+zinc-rich herb	ginger	1	1	10	10	0.181818181818	NULL	NULL	3867	984	0.000025859839668994055
+zinc-rich herb	basil	1	1	10	10	0.181818181818	NULL	NULL	3388	715	0.0000295159386068477
+zinc-rich herb	sage	1	1	10	10	0.181818181818	NULL	NULL	2414	688	0.00004142502071251036
+zinc-rich herb	parsley	1	1	10	10	0.181818181818	NULL	NULL	2759	570	0.00003624501631025734
+zinc-rich herb	oregano	1	1	10	10	0.181818181818	NULL	NULL	1960	384	0.00005102040816326531
+zinc-rich herb	thyme	1	1	10	10	0.181818181818	NULL	NULL	2813	593	0.00003554923569143263
+zinc-rich herb	turmeric	1	1	10	10	0.181818181818	NULL	NULL	1396	345	0.00007163323782234958
+zinc-rich herb	cardamon	1	1	10	10	0.181818181818	NULL	NULL	56	28	0.0017857142857142859
+zinc-rich herb	paprika	1	1	10	10	0.181818181818	NULL	NULL	541	158	0.00018484288354898338
+zinc-rich herb	savory	1	1	10	10	0.181818181818	NULL	NULL	119	51	0.0008403361344537816
+zinc-rich organic food	steak	1	1	1	1	NULL	NULL	NULL	1531	640	0.0006531678641410843
+zinc-sensitive process	apoptosis	1	1	1	1	NULL	NULL	NULL	413	184	0.002421307506053269
+zincates	2-	1	1	1	1	1.000000000000	NULL	NULL	44	43	0.022727272727272728
+zincblende semiconductor	III-V material Gallium Arsenide	1	1	1	1	NULL	NULL	NULL	1	1	1
+zincblende semiconductor material	Gallium Arsenide	1	1	2	2	0.500000000000	NULL	NULL	412	136	0.0012135922330097086
+zincblende semiconductor material	Zinc Selenide	1	1	2	2	0.500000000000	NULL	NULL	43	23	0.011627906976744186
+zincblende-type crystalline structure	GaAs	1	1	1	1	1.000000000000	NULL	NULL	29	20	0.034482758620689655
+zinclude milk-based dessert	mousse	1	1	1	1	NULL	NULL	NULL	383	117	0.0026109660574412533
+zincmetalloprotease inhibitor	batimastat	1	1	1	1	1.000000000000	NULL	NULL	16	13	0.0625
+zincrich food	lean protein	1	1	2	2	NULL	NULL	NULL	183	68	0.00273224043715847
+zincrich food	seed	1	1	2	2	NULL	NULL	NULL	2759	988	0.0001812250815512867
+Zincsalts	zinc oxide	1	1	1	1	NULL	NULL	NULL	1245	447	0.0008032128514056225
+zine editor	Kuhn of Fan Girl	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zine editor	Ordas of Queen of the Universe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zine essential	journal entries about being misunderstood	1	1	1	1	NULL	NULL	NULL	1	1	1
+zine gathering	Beantown Zinetown	1	1	1	1	NULL	NULL	NULL	1	1	1
+zines	California	2	2	56	45	0.800000000000	NULL	NULL	14491	1396	0.000004929167857882232
+zines	Homocore	2	2	56	45	0.800000000000	NULL	NULL	3	2	0.023809523809523808
+zines	White Order	2	2	56	45	0.800000000000	NULL	NULL	3	2	0.023809523809523808
+zines	Fanorama	2	2	56	45	0.800000000000	NULL	NULL	2	1	0.03571428571428571
+zines	Bamboo Girl	2	2	56	45	0.800000000000	NULL	NULL	2	1	0.03571428571428571
+zines	Flipside	2	2	56	45	0.800000000000	NULL	NULL	3	2	0.023809523809523808
+zines	Maximum RocknRoll	2	2	56	45	0.800000000000	NULL	NULL	6	3	0.011904761904761904
+zines	riot grrrl	2	2	56	45	0.800000000000	NULL	NULL	2	1	0.03571428571428571
+zines	Aryan Revolutionary Front	2	2	56	45	0.800000000000	NULL	NULL	3	2	0.023809523809523808
+zines	published in Castro Valley	2	2	56	45	0.800000000000	NULL	NULL	3	2	0.023809523809523808
+zines	Skills Of Defensive Driving	2	2	56	45	0.800000000000	NULL	NULL	2	1	0.03571428571428571
+zines	Clipper Guts	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Twee Grrrls Club	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Amazing Facts	1	1	56	45	0.800000000000	NULL	NULL	4	4	0.004464285714285714
+zines	Endless Resistance	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Gray Tangled Hair	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Jesus Christ Superzine	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Krishna Grrrl	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	British Sniffin Glue	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Beat Motel	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Call & Response	1	1	56	45	0.800000000000	NULL	NULL	5	4	0.0035714285714285713
+zines	Worse Than Queer	1	1	56	45	0.800000000000	NULL	NULL	2	2	0.008928571428571428
+zines	Riverside Art Scene	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Brainscan	1	1	56	45	0.800000000000	NULL	NULL	2	2	0.008928571428571428
+zines	Funwater Awesome	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Fried Cat	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	hedonistic title Petite Anarchy	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Greatest Hits	1	1	56	45	0.800000000000	NULL	NULL	10	8	0.0017857142857142857
+zines	Ilse Content	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Digital Chicana	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	confrontational and personal zines	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Punk Planet	1	1	56	45	0.800000000000	NULL	NULL	2	2	0.008928571428571428
+zines	Shredding Paper	1	1	56	45	0.800000000000	NULL	NULL	10	10	0.0017857142857142857
+zines	Brickshitter Fanzine	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Mad Policy	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	female-positive bike zines	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Action Girl Online	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Disfiguration	1	1	56	45	0.800000000000	NULL	NULL	2	2	0.008928571428571428
+zines	Dolchstoss	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Diseased Pariah News	1	1	56	45	0.800000000000	NULL	NULL	2	2	0.008928571428571428
+zines	perzine Culture Slut	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Hello Sandwich Tokyo Guide	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Match and Anarchy	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Frozen Magma	1	1	56	45	0.800000000000	NULL	NULL	1	1	0.017857142857142856
+zines	Stomachache	1	1	56	45	0.800000000000	NULL	NULL	188	77	0.00009498480243161094
+zinfandel	1986 Ridge York Creek	2	2	5	4	1.000000000000	NULL	NULL	2	1	0.4
+zinfandel	Seghesio from Dry Creek	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+zinfandel	2006 Sonoma County Ottimo Zinfinity	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+zinfandel	Kenwood Jack London Zinfandel	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+Zingeberales naturalized species	culinary ginger	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+zinger	Black Label Society's Stronger Than Death'' listed in the Study'' section	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zingiberaceous species	Amomum krervanh Pierre	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zingiberaceous species	Curcuma xanthorrhiza Roxb.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zingiberaceous species	C. parviflora Wall	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zingibers	Cocoa Delight	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+zingy cadence	endings of Pure Imagination	1	1	1	1	NULL	NULL	NULL	1	1	1
+zingy citrus oil	grapefruit	1	1	1	1	NULL	NULL	NULL	2056	406	0.00048638132295719845
+zingy shade	buttercup yellow	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zingy, peppery leaf	spinach	2	2	6	3	NULL	NULL	NULL	8593	1370	0.00007758252841460103
+zingy, peppery leaf	watercress	2	2	6	3	NULL	NULL	NULL	514	199	0.0012970168612191958
+zingy, peppery leaf	rocket	2	2	6	3	NULL	NULL	NULL	489	270	0.0013633265167007497
+zink socially high-ranking individual	Emperor Constantine	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+zinni's previous command	Deputy Director of Operations	1	1	1	1	NULL	NULL	NULL	1	1	1
+zinnia	container color compact zinnia	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zins	Sobon Old Vines	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Zins	Martinelli	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+zinsser liquid handling platform	Lissy	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+zinsser product	Blend	2	2	2	1	1.000000000000	NULL	NULL	50	33	0.04
+zion canyon landmark	West Temple	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zion canyon landmark	Altar of Sacrifice	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zion national park's slot canyon	Zion Narrows	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zion's elusive animal	mountain lion	1	1	3	3	0.333333333333	NULL	NULL	531	147	0.0006277463904582548
+zion's elusive animal	bighorn	1	1	3	3	0.333333333333	NULL	NULL	20	15	0.016666666666666666
+zion's elusive animal	bobcat	1	1	3	3	0.333333333333	NULL	NULL	865	244	0.0003853564547206165
+zion-benton student	Shannon McKennie	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zionist	Rabbi Moshe Reiss	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Zionist	Herzl	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+zionist activity	violent demonstrations in front of the community's office	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zionist activity	working with Dr. Kubowitzki	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zionist activity	organized strike	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zionist Ashke-Nazi Fake Jews	Int'l Banksters	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist association	Tefereth Zion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist association	Young Zionists	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist banker	Rothschilds of Europe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist banker	America's Jacob Schiff	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist church	Zion Christian Church	4	4	4	1	NULL	NULL	NULL	5	2	0.8
+zionist controlled political blogging site	Liblogs	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist extremist group	Irgun	1	1	1	1	1.000000000000	NULL	NULL	50	25	0.02
+zionist filmmaker	Helmar Lerski	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist filmmaker	Nathan Axelrod	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zionist founder	Chaim Weizmann & David Ben Gurion	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist fund-raising agency	Jewish National Fund	1	1	1	1	1.000000000000	NULL	NULL	22	13	0.045454545454545456
+zionist group	Irgun	3	3	22	17	0.777777777777	NULL	NULL	50	25	0.00818181818181818
+zionist group	Simon Wiesenthal Center	3	3	22	17	0.777777777777	NULL	NULL	32	17	0.012784090909090908
+zionist group	Stern Gang	2	2	22	17	0.777777777777	NULL	NULL	19	10	0.009569377990430622
+zionist group	USD Hagshama	1	1	22	17	0.777777777777	NULL	NULL	1	1	0.045454545454545456
+zionist group	Americans For a Safe Israel	1	1	22	17	0.777777777777	NULL	NULL	3	3	0.015151515151515152
+zionist group	American Civil Liberties Union	1	1	22	17	0.777777777777	NULL	NULL	400	98	0.00011363636363636364
+zionist group	adult zionist group	1	1	22	17	0.777777777777	NULL	NULL	2	2	0.022727272727272728
+zionist group	militant zionist group	1	1	22	17	0.777777777777	NULL	NULL	2	2	0.022727272727272728
+zionist group	Planned Parenthood	1	1	22	17	0.777777777777	NULL	NULL	477	180	0.00009529254812273681
+zionist group	Anti Defamation League	1	1	22	17	0.777777777777	NULL	NULL	9	9	0.005050505050505051
+zionist group	women's lib group	1	1	22	17	0.777777777777	NULL	NULL	1	1	0.045454545454545456
+zionist group	Zionist Organization of America	1	1	22	17	0.777777777777	NULL	NULL	21	10	0.0021645021645021645
+zionist group	American Jewish Committee	1	1	22	17	0.777777777777	NULL	NULL	85	29	0.0005347593582887701
+zionist group	Haganah	1	1	22	17	0.777777777777	NULL	NULL	12	7	0.003787878787878788
+zionist group	hagana	1	1	22	17	0.777777777777	NULL	NULL	3	3	0.015151515151515152
+zionist group	revisionist zionist group	1	1	22	17	0.777777777777	NULL	NULL	2	2	0.022727272727272728
+zionist group	sensible zionist group	1	1	22	17	0.777777777777	NULL	NULL	2	2	0.022727272727272728
+Zionist Guilt-merc hants	Podhoretz	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+Zionist heroes	Theodore Herzl	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+zionist idea	Greek Megali Idea	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist idea	Jewish Zionism	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist institution	Jewish National Fund	2	2	5	4	1.000000000000	NULL	NULL	22	13	0.03636363636363637
+zionist institution	JNF	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+zionist institution	Jewish Colonization Association	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+zionist institution	World Zionist Organization	1	1	5	4	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+zionist israeli historian	Benny Morris	1	1	1	1	1.000000000000	NULL	NULL	31	12	0.03225806451612903
+Zionist Jews	Wolfowitz	2	2	4	3	0.800000000000	NULL	NULL	26	19	0.038461538461538464
+Zionist Jews	Feith	1	1	4	3	0.800000000000	NULL	NULL	6	6	0.041666666666666664
+Zionist Jews	Richard Perle	1	1	4	3	0.800000000000	NULL	NULL	50	32	0.005
+zionist labor leader	Leah Chazanowitsh	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist labor leader	Berl Loker	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist leader	Chaim Weizmann	5	5	31	24	1.000000000000	NULL	NULL	18	11	0.044802867383512544
+zionist leader	Ben-Gurion	2	2	31	24	1.000000000000	NULL	NULL	12	8	0.01075268817204301
+zionist leader	Jabotinsky	2	2	31	24	1.000000000000	NULL	NULL	5	4	0.025806451612903226
+zionist leader	Theodor Herzl	2	2	31	24	1.000000000000	NULL	NULL	8	7	0.016129032258064516
+zionist leader	Theodore Herzl	1	1	31	24	1.000000000000	NULL	NULL	9	8	0.0035842293906810036
+zionist leader	David Ben Gurion	1	1	31	24	1.000000000000	NULL	NULL	13	10	0.0024813895781637717
+zionist leader	Bernard Rosenblatt	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Katznelson	1	1	31	24	1.000000000000	NULL	NULL	4	3	0.008064516129032258
+zionist leader	labor zionist leader	1	1	31	24	1.000000000000	NULL	NULL	2	2	0.016129032258064516
+zionist leader	Menachem Osishkin	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Robert Stricker	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Nachum Goldman	1	1	31	24	1.000000000000	NULL	NULL	2	2	0.016129032258064516
+zionist leader	Israel's first Prime Minister David Ben-Gurion	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Israels first Prime Minister David Ben-Gurion	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Menachem Ossishkin	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Pinsker	1	1	31	24	1.000000000000	NULL	NULL	3	3	0.01075268817204301
+zionist leader	prominent zionist leader	1	1	31	24	1.000000000000	NULL	NULL	2	2	0.016129032258064516
+zionist leader	Hertzel	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Herzl	1	1	31	24	1.000000000000	NULL	NULL	12	11	0.0026881720430107525
+zionist leader	Louis Lipsky	1	1	31	24	1.000000000000	NULL	NULL	1	1	0.03225806451612903
+zionist leader	Ahad Ha-Am	1	1	31	24	1.000000000000	NULL	NULL	4	4	0.008064516129032258
+zionist leader	Ussishkin	1	1	31	24	1.000000000000	NULL	NULL	3	3	0.01075268817204301
+zionist leader	Moshe Sharett	1	1	31	24	1.000000000000	NULL	NULL	8	3	0.004032258064516129
+zionist leader	Ze'ev Jabotinsky	1	1	31	24	1.000000000000	NULL	NULL	3	3	0.01075268817204301
+zionist mainstream personality	former foreign minister Abba Eban	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zionist movement	Chovevei Zion	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Zionist nation	Israel	1	1	1	1	NULL	NULL	NULL	2865	547	0.00034904013961605586
+Zionist neocons	Kristol	1	1	1	1	1.000000000000	NULL	NULL	20	16	0.05
+zionist network	CNN	1	1	2	2	NULL	NULL	NULL	2583	885	0.00019357336430507162
+zionist network	BBC	1	1	2	2	NULL	NULL	NULL	2096	715	0.00023854961832061068
+Zionist nutjobs	Pam Geller	2	1	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+zionist operation	Lavon Affair	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+zionist organization	Keren Hayesod	3	3	23	17	0.833333333333	NULL	NULL	5	2	0.07826086956521738
+zionist organization	Jewish National Fund	3	3	23	17	0.833333333333	NULL	NULL	22	13	0.017786561264822132
+zionist organization	Habonim Dror	2	2	23	17	0.833333333333	NULL	NULL	2	1	0.08695652173913043
+zionist organization	Zionist Organization of America	2	2	23	17	0.833333333333	NULL	NULL	21	10	0.008281573498964804
+zionist organization	burgeoning christian zionist organization	1	1	23	17	0.833333333333	NULL	NULL	2	2	0.021739130434782608
+zionist organization	Brit Shalom	1	1	23	17	0.833333333333	NULL	NULL	1	1	0.043478260869565216
+zionist organization	American Zionist Emergency Council	1	1	23	17	0.833333333333	NULL	NULL	1	1	0.043478260869565216
+zionist organization	American Israel Political Affairs Committee	1	1	23	17	0.833333333333	NULL	NULL	1	1	0.043478260869565216
+zionist organization	Zionist Socialists	1	1	23	17	0.833333333333	NULL	NULL	1	1	0.043478260869565216
+zionist organization	jewish zionist organization	1	1	23	17	0.833333333333	NULL	NULL	2	2	0.021739130434782608
+zionist organization	Tzeri Zion	1	1	23	17	0.833333333333	NULL	NULL	1	1	0.043478260869565216
+zionist organization	Mizrakhi	1	1	23	17	0.833333333333	NULL	NULL	1	1	0.043478260869565216
+zionist organization	religious zionist organization	1	1	23	17	0.833333333333	NULL	NULL	2	2	0.021739130434782608
+zionist organization	World Jewish Congress	1	1	23	17	0.833333333333	NULL	NULL	19	11	0.002288329519450801
+zionist organization	Anti-Defamation League	1	1	23	17	0.833333333333	NULL	NULL	150	48	0.0002898550724637681
+zionist organization	Hashomer Hatzair	1	1	23	17	0.833333333333	NULL	NULL	8	7	0.005434782608695652
+zionist organization	AIPAC	1	1	23	17	0.833333333333	NULL	NULL	58	34	0.0007496251874062968
+zionist para-military organization	Haganah	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+zionist partisan	Mr. Stephens	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zionist plant	Hufschmid	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist power broker	Jacob Schiff	1	1	4	4	1.000000000000	NULL	NULL	14	10	0.017857142857142856
+zionist power broker	Louis Brandeis	1	1	4	4	1.000000000000	NULL	NULL	15	11	0.016666666666666666
+zionist power broker	Paul Warburg	1	1	4	4	1.000000000000	NULL	NULL	8	5	0.03125
+zionist power broker	Bernard Baruch	1	1	4	4	1.000000000000	NULL	NULL	13	10	0.019230769230769232
+Zionist powerbrokers	Bernard Baruch	1	1	4	4	1.000000000000	NULL	NULL	13	10	0.019230769230769232
+Zionist powerbrokers	Louis Brandeis	1	1	4	4	1.000000000000	NULL	NULL	15	11	0.016666666666666666
+Zionist powerbrokers	Paul Warburg	1	1	4	4	1.000000000000	NULL	NULL	8	5	0.03125
+Zionist powerbrokers	Jacob Schiff	1	1	4	4	1.000000000000	NULL	NULL	14	10	0.017857142857142856
+zionist provocation	assaults on Arab villagers by the Revisionists	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist radical	Joseph Hayyim Brenner	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zionist radical	Micah Joseph Berdyczewski	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Zionist religious motive	hope of heaven	2	2	2	1	NULL	NULL	NULL	2	1	1
+zionist stalwart	Charles Moore	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+zionist stooge	Hitler	1	1	3	3	NULL	NULL	NULL	486	207	0.0006858710562414266
+zionist stooge	Karl Turd Blossom Rove	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zionist stooge	Stalin	1	1	3	3	NULL	NULL	NULL	370	177	0.0009009009009009008
+zionist sympathizer	Miss Fishy	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist terror group	Gush Emunim	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+zionist terror group	Irgun	1	1	3	3	1.000000000000	NULL	NULL	50	25	0.006666666666666666
+zionist terror group	Stern Gang	1	1	3	3	1.000000000000	NULL	NULL	19	10	0.017543859649122806
+zionist terrorist	Menachem Begin	1	1	1	1	1.000000000000	NULL	NULL	16	10	0.0625
+zionist terrorist group	Irgun	1	1	3	3	1.000000000000	NULL	NULL	50	25	0.006666666666666666
+zionist terrorist group	Lehi	1	1	3	3	1.000000000000	NULL	NULL	15	12	0.02222222222222222
+zionist terrorist group	Hagannah	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zionist theoretician	Maz Nordau	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zionist theoretician	Herzl	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+zionist theorist	Ahad Ha'am in the secular camp	1	1	1	1	NULL	NULL	NULL	1	1	1
+zionist thinker	Lev Pinsker	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+zionist thinker	Ber Borochov	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+zionist thinker	socialist zionist thinker	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zionist thinker	Nachman Krochmal	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zionist writer	Saul Tchernichovsky	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist writer	Micha Berdichevsky	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zionist youth group	HaNoar HaTzioni	3	3	13	7	1.000000000000	NULL	NULL	3	1	0.23076923076923075
+zionist youth group	socialist HaShomer HaTzair	3	3	13	7	1.000000000000	NULL	NULL	3	1	0.23076923076923075
+zionist youth group	national-religious Bnai Akiva	3	3	13	7	1.000000000000	NULL	NULL	3	1	0.23076923076923075
+zionist youth group	Betar	1	1	13	7	1.000000000000	NULL	NULL	8	8	0.009615384615384616
+zionist youth group	left-wing Hashomer Hatzair	1	1	13	7	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+zionist youth group	religious Bene Akiva	1	1	13	7	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+zionist youth group	Maccabi	1	1	13	7	1.000000000000	NULL	NULL	8	8	0.009615384615384616
+zionist youth movement	Beitar	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+zionist youth movement	Bnei Akiva	1	1	6	6	1.000000000000	NULL	NULL	11	8	0.01515151515151515
+zionist youth movement	Hashomer Hatzair	1	1	6	6	1.000000000000	NULL	NULL	8	7	0.020833333333333332
+zionist youth movement	Maccabi Hatzair	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+zionist youth movement	Young Judaea	1	1	6	6	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+zionist youth movement	Betar	1	1	6	6	1.000000000000	NULL	NULL	8	8	0.020833333333333332
+zionist-brahmanist illuminati banking leader	Carnegies	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zionist-brahmanist illuminati banking leader	Mellons	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zionist-brahmanist illuminati banking leader	VanderBilts	1	1	5	5	NULL	NULL	NULL	56	24	0.0035714285714285718
+zionist-brahmanist illuminati banking leader	Rothschilds	1	1	5	5	NULL	NULL	NULL	94	53	0.002127659574468085
+zionist-brahmanist illuminati banking leader	Rockefellers	1	1	5	5	NULL	NULL	NULL	96	48	0.0020833333333333333
+Zionists	Max Nordau	3	3	39	33	0.807692307692	NULL	NULL	11	7	0.02097902097902098
+Zionists	Colonel E. Mandel House	2	2	39	33	0.807692307692	NULL	NULL	2	1	0.05128205128205128
+Zionists	Theodore Herzl	2	2	39	33	0.807692307692	NULL	NULL	9	8	0.011396011396011395
+Zionists	Yitzhak Shamir	2	2	39	33	0.807692307692	NULL	NULL	9	8	0.011396011396011395
+Zionists	Herzl	2	2	39	33	0.807692307692	NULL	NULL	12	11	0.008547008547008546
+Zionists	Hertzl	1	1	39	33	0.807692307692	NULL	NULL	2	2	0.01282051282051282
+Zionists	Haham Dr. M. Gaster	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Judge Goldstone	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Brad Sherman	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Dershowitz	1	1	39	33	0.807692307692	NULL	NULL	9	8	0.0028490028490028487
+Zionists	Dennis Ross	1	1	39	33	0.807692307692	NULL	NULL	11	8	0.002331002331002331
+zionists	famous christian zionists	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Cohn-Bendit	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+zionists	financially powerful zionists	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Chaim Weizmann	1	1	39	33	0.807692307692	NULL	NULL	18	11	0.0014245014245014244
+Zionists	Malters	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Jacob Schiff	1	1	39	33	0.807692307692	NULL	NULL	14	10	0.0018315018315018315
+Zionists	Jew Congressman from California	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Kastner yemach shmo	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Ze'ev Jabotinsky	1	1	39	33	0.807692307692	NULL	NULL	3	3	0.008547008547008546
+Zionists	Theodor Herzl	1	1	39	33	0.807692307692	NULL	NULL	8	7	0.003205128205128205
+Zionists	Ben Gurion	1	1	39	33	0.807692307692	NULL	NULL	13	12	0.0019723865877712033
+zionists	british christian zionists	1	1	39	33	0.807692307692	NULL	NULL	2	2	0.01282051282051282
+zionists	influential and radical zionists	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Zangwill	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Weizmann	1	1	39	33	0.807692307692	NULL	NULL	5	4	0.005128205128205128
+zionists	self-indentified pre-state zionists	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+zionists	``modern'' christian zionists	1	1	39	33	0.807692307692	NULL	NULL	2	2	0.01282051282051282
+zionists	israel first' zionists	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Leo Pinsker	1	1	39	33	0.807692307692	NULL	NULL	3	3	0.008547008547008546
+Zionists	Fleischer	1	1	39	33	0.807692307692	NULL	NULL	5	4	0.005128205128205128
+zionists	secular jewish zionists	1	1	39	33	0.807692307692	NULL	NULL	1	1	0.02564102564102564
+Zionists	Sir Francis Montefiore	1	1	39	33	0.807692307692	NULL	NULL	2	2	0.01282051282051282
+zionists power broker	Bernard Baruch	1	1	4	4	1.000000000000	NULL	NULL	13	10	0.019230769230769232
+zionists power broker	Jacob Schiff	1	1	4	4	1.000000000000	NULL	NULL	14	10	0.017857142857142856
+zionists power broker	Louis Brandeis	1	1	4	4	1.000000000000	NULL	NULL	15	11	0.016666666666666666
+zionists power broker	Paul Warburg	1	1	4	4	1.000000000000	NULL	NULL	8	5	0.03125
+Zionists powerbrokers	Louis Brandeis	4	4	16	4	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+Zionists powerbrokers	Paul Warburg	4	4	16	4	1.000000000000	NULL	NULL	8	5	0.125
+Zionists powerbrokers	Jacob Schiff	4	4	16	4	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+Zionists powerbrokers	Bernard Baruch	4	4	16	4	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+zionst enterprise	Northern Californians for Good Government	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zionst enterprise	Hudson Valley PAC	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zionst enterprise	NATPAC	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+zionst enterprise	St. Louisans for Good Government	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zionst enterprise	Desert Caucus	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zip	Spinosaurus	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+zip	Tent Zips	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zip	blacked out market	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Zip application	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+ZIP archive utility program	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+Zip archiver	WinZip	2	2	2	1	NULL	NULL	NULL	618	171	0.003236245954692557
+ZIP based utility	WinRAR	1	1	1	1	NULL	NULL	NULL	184	75	0.005434782608695652
+zip code	military zip code	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zip code	ZIP Codes with only PO Boxes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZIP code characteristic	racial composition	1	1	2	2	0.500000000000	NULL	NULL	25	17	0.02
+ZIP code characteristic	income	1	1	2	2	0.500000000000	NULL	NULL	5309	1316	0.00009417969485778867
+zip code statistic	income	2	1	8	7	NULL	NULL	NULL	5309	1316	0.00009417969485778867
+zip code statistic	population	1	1	8	7	NULL	NULL	NULL	1588	562	0.00007871536523929471
+zip code statistic	race	1	1	8	7	NULL	NULL	NULL	8280	1787	0.000015096618357487922
+zip code statistic	household count	1	1	8	7	NULL	NULL	NULL	2	2	0.0625
+zip code statistic	elevation	1	1	8	7	NULL	NULL	NULL	1176	474	0.00010629251700680272
+zip code statistic	median income	1	1	8	7	NULL	NULL	NULL	71	42	0.0017605633802816902
+zip code statistic	percent black	1	1	8	7	NULL	NULL	NULL	4	4	0.03125
+zip code stuff	weather	1	1	1	1	NULL	NULL	NULL	6139	1357	0.00016289297931259162
+ZIP compression program	WINZIP from the Internet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZIP compression program	WinZip	1	1	2	2	NULL	NULL	NULL	618	171	0.0008090614886731392
+ZIP compression utility	WinZip	2	1	2	1	NULL	NULL	NULL	618	171	0.003236245954692557
+ZIP decompression utility	WinZip	1	1	2	2	0.500000000000	NULL	NULL	618	171	0.0008090614886731392
+ZIP decompression utility	PKUNZIP	1	1	2	2	0.500000000000	NULL	NULL	12	8	0.041666666666666664
+zip extraction program	WinZip	1	1	2	2	NULL	NULL	NULL	618	171	0.0008090614886731392
+zip extraction program	free 7-zip	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ZIP extraction utility	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+zip extractor	WinZip	1	1	2	2	0.500000000000	NULL	NULL	618	171	0.0008090614886731392
+zip extractor	7-zip	1	1	2	2	0.500000000000	NULL	NULL	99	64	0.005050505050505051
+zip extractor tool	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+ZIP family member	IRT gene	3	3	3	1	NULL	NULL	NULL	3	1	1
+zip file	WinZip	1	1	5	5	NULL	NULL	NULL	618	171	0.00032362459546925567
+zip file	character	1	1	5	5	NULL	NULL	NULL	1526	541	0.0001310615989515072
+zip file	avatar	1	1	5	5	NULL	NULL	NULL	505	227	0.00039603960396039607
+zip file	Zygote model	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+zip file	model	1	1	5	5	NULL	NULL	NULL	1338	508	0.00014947683109118088
+zip file extraction utility	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+Zip file extractor	WinZip	2	2	3	2	NULL	NULL	NULL	618	171	0.002157497303128371
+Zip file extractor	WinRAR	1	1	3	2	NULL	NULL	NULL	184	75	0.0018115942028985505
+ZIP file format feature	encrypting the contents of the ZIP	1	1	1	1	NULL	NULL	NULL	1	1	1
+zip file password recovery software	Zip Key	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zip file password recovery software	Zip Password Cracker	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zip file password recovery software	Visual Zip Password Recovery Processor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zip file program	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+zip file tool	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+Zip file utility	WinZip	2	2	2	1	NULL	NULL	NULL	618	171	0.003236245954692557
+zip game	crazy taxi	1	1	1	1	1.000000000000	NULL	NULL	19	12	0.05263157894736842
+zip lock bag	zip lock plastic bag	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+zip music file	Lil Wayne's No Ceilings mixtape	1	1	1	1	NULL	NULL	NULL	1	1	1
+zip program	WinZip	8	8	15	7	0.250000000000	NULL	NULL	618	171	0.006903991370010788
+zip program	Alpha ZIP	2	1	15	7	0.250000000000	NULL	NULL	2	1	0.13333333333333333
+zip program	default zip program	1	1	15	7	0.250000000000	NULL	NULL	2	2	0.03333333333333333
+zip program	WinRAR	1	1	15	7	0.250000000000	NULL	NULL	184	75	0.00036231884057971015
+zip program	7-zip	1	1	15	7	0.250000000000	NULL	NULL	99	64	0.0006734006734006734
+zip program	InfoZip	1	1	15	7	0.250000000000	NULL	NULL	2	2	0.03333333333333333
+zip program	PKZIP	1	1	15	7	0.250000000000	NULL	NULL	65	34	0.0010256410256410256
+zip software	WinZip	3	3	5	3	NULL	NULL	NULL	618	171	0.0029126213592233006
+zip software	WinRar	1	1	5	3	NULL	NULL	NULL	184	75	0.0010869565217391304
+zip software	suitable zip software	1	1	5	3	NULL	NULL	NULL	2	2	0.1
+zip structure	file header	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+zip tool	WinZip	2	1	4	3	0.666666666666	NULL	NULL	618	171	0.0016181229773462784
+zip tool	7-zip	1	0	4	3	0.666666666666	NULL	NULL	99	64	0.0025252525252525255
+zip tool	PowerArchiver	1	1	4	3	0.666666666666	NULL	NULL	7	6	0.03571428571428571
+ZIP trip regular	Westwood resident Mitchell	1	1	1	1	NULL	NULL	NULL	1	1	1
+zip utility	WinZip	18	17	32	13	0.666666666666	NULL	NULL	618	171	0.016383495145631068
+zip utility	WinRAR	2	2	32	13	0.666666666666	NULL	NULL	184	75	0.0006793478260869565
+zip utility	7zip	2	2	32	13	0.666666666666	NULL	NULL	20	9	0.00625
+zip utility	7-zip	1	1	32	13	0.666666666666	NULL	NULL	99	64	0.0003156565656565657
+zip utility	unzip	1	1	32	13	0.666666666666	NULL	NULL	4	4	0.0078125
+zip utility	IZArc	1	1	32	13	0.666666666666	NULL	NULL	12	11	0.0026041666666666665
+zip utility	window zip utility	1	1	32	13	0.666666666666	NULL	NULL	2	2	0.015625
+zip utility	popular zip utility	1	1	32	13	0.666666666666	NULL	NULL	2	2	0.015625
+zip utility	PKZIP	1	1	32	13	0.666666666666	NULL	NULL	65	34	0.0004807692307692308
+zip utility	pc zip utility	1	1	32	13	0.666666666666	NULL	NULL	2	2	0.015625
+zip utility	winzip for window	1	1	32	13	0.666666666666	NULL	NULL	1	1	0.03125
+zip utility	shareware program WinZip	1	1	32	13	0.666666666666	NULL	NULL	1	1	0.03125
+zip utility	self-extracting zip utility	1	1	32	13	0.666666666666	NULL	NULL	2	2	0.015625
+Zip utility program	WinZip	3	3	3	1	NULL	NULL	NULL	618	171	0.0048543689320388345
+ZIP utility software	WinZip	2	2	2	1	NULL	NULL	NULL	618	171	0.003236245954692557
+ZIP-archive information	extra attributes giving Unix file permission	1	1	1	1	NULL	NULL	NULL	1	1	1
+zip-archive program	7-zip	1	1	1	1	1.000000000000	NULL	NULL	99	64	0.010101010101010102
+zip-code level demographic variable	child population share	1	1	1	1	NULL	NULL	NULL	1	1	1
+zip-compatible utility	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+zip-line spot	Camp Sabroso	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zip-line spot	Outland Adventure	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZIP-software	7-zip	1	1	1	1	1.000000000000	NULL	NULL	99	64	0.010101010101010102
+Zip123	Joseph Juran	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+zipdx tool	post-call E-mail summary	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zipdx tool	on-line conference dashboard	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zipf's law thesis	Guo	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zipline course	BioMaya complex	1	1	1	1	NULL	NULL	NULL	1	1	1
+zipped wetsuit boot	Gill Hiking boot	1	1	1	1	NULL	NULL	NULL	1	1	1
+zipper	zippers with plastic top	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+zipper	wrist zipper	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zipper	used on the currently used filtering bag	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zipper	zippers with palstic top	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zipper component	embossed jean tab	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zipper component	metal badge	1	1	2	2	1.000000000000	NULL	NULL	27	20	0.018518518518518517
+zipper cover	fabric	1	1	2	2	NULL	NULL	NULL	2183	735	0.00022904260192395785
+zipper cover	vinyl	1	1	2	2	NULL	NULL	NULL	1964	712	0.0002545824847250509
+zipper decoration	feather	1	1	2	2	NULL	NULL	NULL	1587	540	0.000315059861373661
+zipper decoration	coordinating ribbon	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zipper fastener element	element 66	2	2	2	1	NULL	NULL	NULL	2	1	1
+zipper manufacturer	YKK Zippers	2	1	4	4	NULL	NULL	NULL	7	3	0.14285714285714285
+zipper manufacturer	Talon Zipper Company	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zipper manufacturer	Dunlap Zipper Company	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zipper name	crown	1	1	1	1	NULL	NULL	NULL	1500	552	0.0006666666666666666
+zipper part	H bottom	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zipper part	X bottom	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zipper program	WinZip	1	1	1	1	NULL	NULL	NULL	618	171	0.0016181229773462784
+Zipper songs	Old MacDonald	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+Zipper songs	Wheels on the Bus	1	1	2	2	1.000000000000	NULL	NULL	18	11	0.027777777777777776
+zipper style	Flat Layer Zippers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zipper style	Single Layer Zippers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zipper torso garment	vest	1	1	2	2	NULL	NULL	NULL	341	172	0.001466275659824047
+zipper torso garment	body brief	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zipper-style bag	Ziploc	1	1	1	1	1.000000000000	NULL	NULL	29	17	0.034482758620689655
+zippo accessory	flint	2	2	6	5	0.400000000000	NULL	NULL	304	159	0.0021929824561403508
+zippo accessory	case	1	1	6	5	0.400000000000	NULL	NULL	1324	675	0.00012588116817724068
+zippo accessory	leather pouch	1	1	6	5	0.400000000000	NULL	NULL	14	10	0.011904761904761904
+zippo accessory	fluid	1	1	6	5	0.400000000000	NULL	NULL	428	198	0.0003894080996884735
+zippo accessory	wick	1	1	6	5	0.400000000000	NULL	NULL	33	22	0.00505050505050505
+zippo product	keyrings	1	1	2	3	NULL	NULL	NULL	150	80	0.0033333333333333335
+zippo product	meter	1	1	2	3	NULL	NULL	NULL	510	260	0.000980392156862745
+ZIPRA cadre	Philip Valerio Sibanda	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZIPRA cadre	Lt General	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ziprasidone base	form B	1	1	1	1	NULL	NULL	NULL	7	4	0.14285714285714285
+zircon characteristic	nature of inclusion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zircon characteristic	color	1	1	2	2	NULL	NULL	NULL	11347	3399	0.00004406451044328897
+zircon gemstone	crystal	1	1	2	2	NULL	NULL	NULL	1540	658	0.0003246753246753247
+zircon gemstone	ruby	1	1	2	2	NULL	NULL	NULL	1844	539	0.00027114967462039046
+zirconate compound	sodium zirconium lactate	1	1	1	1	NULL	NULL	NULL	1	1	1
+zirconia ceramic product	zirconia grinding body	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zirconia ceramic product	plasma spraying apparatus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zirconia ceramic product	zirconia oxygen sensor inspection	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zirconia ceramic tool	fruit knife	1	1	2	2	0.500000000000	NULL	NULL	8	7	0.0625
+zirconia ceramic tool	injection molding	1	1	2	2	0.500000000000	NULL	NULL	487	179	0.001026694045174538
+zirconia phase stabilizer	magnesia	2	2	4	2	0.500000000000	NULL	NULL	176	84	0.005681818181818182
+zirconia phase stabilizer	yttria	2	2	4	2	0.500000000000	NULL	NULL	59	28	0.01694915254237288
+Zirconia powder	zirconium oxide	1	1	1	1	NULL	NULL	NULL	217	104	0.004608294930875576
+zirconias	magnesia-stabilized zirconia	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zirconias	yttria-stabilized zirconia	1	1	4	4	1.000000000000	NULL	NULL	17	12	0.014705882352941176
+zirconias	calcia-stabilized zirconia	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+zirconias	scandia-stabilized zirconia	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+Zirconium alkoxides	zirconium n-butoxide	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Zirconium alkoxides	zirconium isopropoxide	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+Zirconium alkoxides	zirconium n-propoxide	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zirconium alloy	zirconium :0.1 % iron :0.4 % chromium	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+zirconium alloy	zirconium :0.5 % tin	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+zirconium alloy	zirconium :0.4 % iron	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+zirconium chemical	zirconium hydroxide	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+zirconium chemical	potassium hexafluorozirconate	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+zirconium chemical	ammonium zirconyl carbonate	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zirconium chemical	zirconium carbonate	1	1	4	4	1.000000000000	NULL	NULL	15	14	0.016666666666666666
+zirconium compound	zirconium acetate	4	3	29	23	0.666666666666	NULL	NULL	13	7	0.042440318302387266
+zirconium compound	zirconium carbonate	2	2	29	23	0.666666666666	NULL	NULL	15	14	0.009195402298850575
+zirconium compound	zirconium phosphate	2	2	29	23	0.666666666666	NULL	NULL	12	11	0.011494252873563218
+zirconium compound	zirconium oxalate	2	2	29	23	0.666666666666	NULL	NULL	2	1	0.06896551724137931
+zirconium compound	zirconium oleate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium oxychloride	1	1	29	23	0.666666666666	NULL	NULL	6	5	0.005747126436781609
+zirconium compound	zirconium ammonium lactate chelate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium basic sulfate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium triethanolamine chelate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium tallate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconyl nitrate	1	1	29	23	0.666666666666	NULL	NULL	5	4	0.006896551724137931
+zirconium compound	especiallywater-soluble zirconium compound	1	1	29	23	0.666666666666	NULL	NULL	2	2	0.017241379310344827
+zirconium compound	zirconium oxynitrate	1	1	29	23	0.666666666666	NULL	NULL	2	2	0.017241379310344827
+zirconium compound	zirconium isooctate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	sulphate	1	1	29	23	0.666666666666	NULL	NULL	183	117	0.0001884303749764462
+zirconium compound	zirconium hydroxychloride	1	1	29	23	0.666666666666	NULL	NULL	3	3	0.011494252873563218
+zirconium compound	zirconium laurate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium oxide	1	1	29	23	0.666666666666	NULL	NULL	217	104	0.0001589067217543302
+zirconium compound	zirconium acetylacetonate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium naphthenate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	zirconium stearate	1	1	29	23	0.666666666666	NULL	NULL	1	1	0.034482758620689655
+zirconium compound	water-soluble zirconium compound	1	1	29	23	0.666666666666	NULL	NULL	2	2	0.017241379310344827
+zirconium compound	ammonium zirconium carbonate	1	1	29	23	0.666666666666	NULL	NULL	13	13	0.002652519893899204
+zirconium crosslinking salt	Bacote 20 ammonium zirconium carbonate	1	1	1	1	NULL	NULL	NULL	1	1	1
+zirconium ores	baddeleyite	2	2	2	1	NULL	NULL	NULL	7	5	0.2857142857142857
+zirconium oxide precursor	zirconium nitrate	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+zirconium related offer	Aluminium Oxide	1	1	2	2	0.500000000000	NULL	NULL	120	78	0.004166666666666667
+zirconium related offer	Fused Alumina	1	1	2	2	0.500000000000	NULL	NULL	69	18	0.007246376811594203
+zirconium salt	potassium zirconium carbonate	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zirconium salt	zirconium chloride	1	1	6	6	NULL	NULL	NULL	6	5	0.027777777777777776
+zirconium salt	kind zirconium salt	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+zirconium salt	zirconium oxychlorides	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zirconium salt	zirconium nitrate	1	1	6	6	NULL	NULL	NULL	4	4	0.041666666666666664
+zirconium salt	zirconium lactate	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zirconium structure	tube	1	1	2	2	NULL	NULL	NULL	1226	603	0.0004078303425774878
+zirconium structure	sheet	1	1	2	2	NULL	NULL	NULL	1444	575	0.00034626038781163435
+zirconium's mechanical property	strength	2	2	4	2	0.500000000000	NULL	NULL	2884	881	0.00034674063800277393
+zirconium's mechanical property	creep resistance	2	2	4	2	0.500000000000	NULL	NULL	40	17	0.025
+zirconium-based polycrystalline ceramic	3M's Lava	1	1	1	1	NULL	NULL	NULL	1	1	1
+zirconium-bearing material	zircon	1	1	1	1	NULL	NULL	NULL	279	121	0.0035842293906810036
+zirconium-containing lewis acid	TiCl 3	3	2	5	3	1.000000000000	NULL	NULL	14	8	0.12857142857142856
+zirconium-containing lewis acid	VCl 4	1	1	5	3	1.000000000000	NULL	NULL	1	1	0.2
+zirconium-containing lewis acid	HfCl 4	1	1	5	3	1.000000000000	NULL	NULL	7	4	0.028571428571428574
+zirconium-containing material	zirconium oxide	1	1	3	3	0.500000000000	NULL	NULL	217	104	0.0015360983102918587
+zirconium-containing material	hydrous oxides of zirconium	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+zirconium-containing material	zirconium silicate	1	1	3	3	0.500000000000	NULL	NULL	30	23	0.01111111111111111
+zirconyl acid	zirconyl sulfate	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zirconyl salt	sulfate	1	1	2	2	NULL	NULL	NULL	1194	460	0.0004187604690117253
+zirconyl salt	nitrate	1	1	2	2	NULL	NULL	NULL	2341	763	0.00021358393848782572
+zirconyl species	cyclic-tetramer in the chloride solution	1	1	1	1	NULL	NULL	NULL	1	1	1
+zirh international and more perfume	Maja Tester	1	1	1	1	NULL	NULL	NULL	1	1	1
+zirlux FC modifier	orange	1	1	1	1	NULL	NULL	NULL	12312	2565	0.00008122157244964262
+zirmed solution	Electronic Remittance Advice	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+zirndorf's attraction	toy museum	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+zirndorf's attraction	Alte Veste observation tower	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zisnr exercise endurance sport	cycling	1	1	3	3	NULL	NULL	NULL	5412	1129	0.00006159152500615915
+zisnr exercise endurance sport	swimming	1	1	3	3	NULL	NULL	NULL	15629	2556	0.00002132787339774351
+zisnr exercise endurance sport	jogging	1	1	3	3	NULL	NULL	NULL	5294	999	0.0000629643621710112
+zisser tire's exclusive brand	Diamond Back	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+zit taxidermist	gunn	1	1	3	3	0.666666666666	NULL	NULL	73	69	0.0045662100456621
+zit taxidermist	spicer	1	1	3	3	0.666666666666	NULL	NULL	65	60	0.005128205128205128
+zit taxidermist	pratt	1	1	3	3	0.666666666666	NULL	NULL	99	78	0.003367003367003367
+zither	Alpine Scheitholt	2	2	2	1	NULL	NULL	NULL	2	1	1
+zither instrument	lyre	1	1	2	2	0.500000000000	NULL	NULL	49	21	0.01020408163265306
+zither instrument	piano	1	1	2	2	0.500000000000	NULL	NULL	2021	549	0.00024740227610094015
+Ziyarats	nahiya	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Ziyarats	ziyarat Ashura	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Ziyarats	warith	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ziyi's personal particular	blood type	1	1	3	3	NULL	NULL	NULL	223	84	0.0014947683109118085
+ziyi's personal particular	date of birth	1	1	3	3	NULL	NULL	NULL	1960	387	0.00017006802721088434
+ziyi's personal particular	name	1	1	3	3	NULL	NULL	NULL	13911	2278	0.000023961852730453116

@@ -1,0 +1,64 @@
+ZN catalyst	supported on an active magnesium dihalide	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+ZN catalyst	titanium tetrachloride	2	2	4	2	1.000000000000	NULL	NULL	83	40	0.012048192771084338
+zn compound	oxide	1	1	4	4	NULL	NULL	NULL	671	308	0.00037257824143070045
+zn compound	carbonate	1	1	4	4	NULL	NULL	NULL	709	330	0.0003526093088857546
+zn compound	phosphate	1	1	4	4	NULL	NULL	NULL	1859	648	0.00013448090371167293
+zn compound	silicate	1	1	4	4	NULL	NULL	NULL	474	234	0.0005274261603375527
+zn source	ZnSO4	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zn source	ZnCO3	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zn-based hydrides	K2 ZnH4	1	1	1	1	NULL	NULL	NULL	1	1	1
+zn-metalloprotease inhibitor	captopril	1	1	3	3	0.333333333333	NULL	NULL	256	63	0.0013020833333333333
+zn-metalloprotease inhibitor	phosphoramidon	1	1	3	3	0.333333333333	NULL	NULL	13	10	0.02564102564102564
+zn-metalloprotease inhibitor	angiotensin converting enzyme inhibitor	1	1	3	3	0.333333333333	NULL	NULL	96	47	0.003472222222222222
+Zn-Pb skarns	Groundhog in New Mexico	1	1	1	1	NULL	NULL	NULL	1	1	1
+zn-releasing compound	b-alanyl-1-histadano zinc compound	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+zn-releasing compound	b-alanyl-l-histadano zinc compound	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+zn-sensing molecule	metal-responsive element-binding transcription factor-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zn-substitutedmetalloproteins	cytochrome c	1	1	1	1	NULL	NULL	NULL	162	71	0.006172839506172839
+ZNA officer	Mr. Anabuki	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZNA officer	Dr. Okabe	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZNA officer	former ZNA Chairman Dr. Kuroki	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZNE residential project	SMUD's project in Roseville	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZNE residential project	Sacramento Municipal Utility District's project in Roseville	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZNF145 vector	ZNF145 expression vector	2	2	2	1	NULL	NULL	NULL	2	1	1
+zno	one-dimensional nanostructural zno	1	1	1	1	NULL	NULL	NULL	1	1	1
+ZnO 1D nanomaterials	nanorods	1	1	1	1	NULL	NULL	NULL	177	100	0.005649717514124294
+ZnO 1Dnanostructures	nanowires	1	1	1	1	NULL	NULL	NULL	457	193	0.002188183807439825
+zno deposition technique	RF sputtering	1	1	1	1	1.000000000000	NULL	NULL	22	10	0.045454545454545456
+zno material property	physical	1	1	1	1	NULL	NULL	NULL	1690	653	0.000591715976331361
+zno nano material	nanowires	2	2	4	2	NULL	NULL	NULL	457	193	0.002188183807439825
+zno nano material	nanorods	2	2	4	2	NULL	NULL	NULL	177	100	0.005649717514124294
+ZnO nanocrystals	nanorods	1	1	1	1	NULL	NULL	NULL	177	100	0.005649717514124294
+ZnO nanomaterials	nanowires	1	1	1	1	NULL	NULL	NULL	457	193	0.002188183807439825
+zno nanostructure morphology	tetrapods	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+zno nanostructure morphology	microspheres	1	1	2	2	NULL	NULL	NULL	121	59	0.004132231404958678
+ZnO nanostructures	nanorods	10	8	33	17	0.222222222222	NULL	NULL	177	100	0.01712035610340695
+ZnO nanostructures	nanowires	5	5	33	17	0.222222222222	NULL	NULL	457	193	0.001657715005636231
+ZnO nanostructures	belt	3	3	33	17	0.222222222222	NULL	NULL	3587	1043	0.00007603213624958816
+ZnO nanostructures	wire	2	2	33	17	0.222222222222	NULL	NULL	2571	1007	0.00004714590478884528
+ZnO nanostructures	nanorings	2	1	33	17	0.222222222222	NULL	NULL	5	4	0.024242424242424242
+ZnO nanostructures	nanobows	2	1	33	17	0.222222222222	NULL	NULL	3	2	0.04040404040404041
+ZnO nanostructures	quantum dot	2	2	33	17	0.222222222222	NULL	NULL	309	157	0.00039227223693243113
+ZnO nanostructures	thinfilm	1	1	33	17	0.222222222222	NULL	NULL	1	1	0.030303030303030304
+ZnO nanostructures	nanotubes	1	1	33	17	0.222222222222	NULL	NULL	369	168	0.00008212203334154555
+ZnO nanostructures	mesoporous polyhedrals	1	1	33	17	0.222222222222	NULL	NULL	1	1	0.030303030303030304
+ZnO nanostructures	helical nanospring	1	1	33	17	0.222222222222	NULL	NULL	1	1	0.030303030303030304
+ZnO nanostructures	helical nanosprings	1	1	33	17	0.222222222222	NULL	NULL	1	1	0.030303030303030304
+ZnO nanostructures	vertically-aligned ZnO nanowires	1	1	33	17	0.222222222222	NULL	NULL	1	1	0.030303030303030304
+ZnO nanostructures	nanowires nanobelts nanoring nanosheet	1	1	33	17	0.222222222222	NULL	NULL	1	1	0.030303030303030304
+ZnO nanosystems	belt	1	1	2	2	NULL	NULL	NULL	3587	1043	0.00013939224979091162
+ZnO nanosystems	wire	1	1	2	2	NULL	NULL	NULL	2571	1007	0.00019447685725398678
+ZnO-based low-D nanostructures	wire	1	1	1	1	NULL	NULL	NULL	2571	1007	0.00038895371450797355
+zno-based material	ZnO	1	1	1	1	NULL	NULL	NULL	426	185	0.002347417840375587
+ZnOand CdOnanostructures	nanorods	1	1	2	2	NULL	NULL	NULL	177	100	0.002824858757062147
+ZnOand CdOnanostructures	nanowires	1	1	2	2	NULL	NULL	NULL	457	193	0.0010940919037199124
+ZnOcanbegrownina variety ofnanostructures	nanobows	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ZnOcanbegrownina variety ofnanostructures	nanorings	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+znoinconsumer product	sunscreen	1	1	1	1	NULL	NULL	NULL	721	296	0.0013869625520110957
+ZnOnanostructures	nanowires	3	3	3	1	NULL	NULL	NULL	457	193	0.006564551422319475
+znonanowire application	light-emitting diode	1	1	2	2	NULL	NULL	NULL	323	154	0.0015479876160990713
+znonanowire application	laser	1	1	2	2	NULL	NULL	NULL	2863	1216	0.00017464198393293747
+ZnS nanostructures	nanowires	1	1	2	2	NULL	NULL	NULL	457	193	0.0010940919037199124
+ZnS nanostructures	nanorods	1	1	2	2	NULL	NULL	NULL	177	100	0.002824858757062147
+znse film parameter	resistivity	4	1	8	2	0.500000000000	NULL	NULL	267	138	0.00749063670411985
+znse film parameter	crystal orientation	4	1	8	2	0.500000000000	NULL	NULL	20	13	0.1

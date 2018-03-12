@@ -1,0 +1,85 @@
+LR defect	bilateral adult rudiment	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LR engine spigot bearing	V8 & 300tdi	1	1	1	1	NULL	NULL	NULL	1	1	1
+LR handgun	Ruger MKII	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+LR handgun	Ruger Mark III	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+LR mate robot	LR Mate 100ib	1	1	1	1	NULL	NULL	NULL	1	1	1
+LR pistol	Colt woodsman	1	1	5	5	NULL	NULL	NULL	5	3	0.04
+LR pistol	Beretta Bobcat	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+LR pistol	Ruger .22 Govt.	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+LR pistol	Walther TPH	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+LR pistol	Walther P22	1	1	5	5	NULL	NULL	NULL	5	5	0.04
+LR project	Kamal Vinayak	1	1	1	1	NULL	NULL	NULL	1	1	1
+LR replica	SIG Mosquito	1	1	1	1	NULL	NULL	NULL	1	1	1
+LR revolver	Smith	1	1	3	3	NULL	NULL	NULL	724	270	0.0004604051565377532
+LR revolver	Smith & Wesson M-617	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LR revolver	Ruger Single Six	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+lr-associated molecule	CD44	1	1	3	3	NULL	NULL	NULL	132	52	0.002525252525252525
+lr-associated molecule	annexin II	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+lr-associated molecule	cholesterol	1	1	3	3	NULL	NULL	NULL	1324	518	0.00025176233635448137
+LR-TP-2004-137 external component	GPS	1	1	2	2	0.500000000000	NULL	NULL	2674	1060	0.00018698578908002991
+LR-TP-2004-137 external component	GLONASS	1	1	2	2	0.500000000000	NULL	NULL	60	27	0.008333333333333333
+LRA brass	Sam Kolo	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRA high-ranking commander	Brig Kenneth Banya	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+LRA practice	enforced prostitution	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+LRA practice	mutilation	1	1	2	2	1.000000000000	NULL	NULL	31	26	0.016129032258064516
+LRB member	GEORGE McARDLE on bass	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LRB member	DAVID BRIGGS on guitar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LRB- tain related equipment	pad-mounted transformer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LRC item	diagnostic kit	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+LRC item	reserve material	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+lrc's asset	FAQ page	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+LRE program	Lawyers in the Classroom	1	1	1	1	NULL	NULL	NULL	1	1	1
+lree-enriched pattern	Ce in diopside ANTP89-17	1	1	1	1	NULL	NULL	NULL	1	1	1
+lree-enriched phase	monazite	1	1	1	1	NULL	NULL	NULL	100	41	0.01
+lree-rich accessory mineral	monazite	1	1	1	1	NULL	NULL	NULL	100	41	0.01
+LRF partner agency	Police	1	1	2	2	NULL	NULL	NULL	6527	1820	0.00007660487206986364
+LRF partner agency	Ambulance	1	1	2	2	NULL	NULL	NULL	969	312	0.0005159958720330237
+LRFs	Swarovski LaserGuide	2	1	2	1	NULL	NULL	NULL	2	1	1
+lrg's communication vehicle	website	1	1	1	1	NULL	NULL	NULL	2590	1138	0.0003861003861003861
+LRGB imaging program	MaxIm DL	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+lrish player	Colm Begley	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRM information	segment ID	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LRMs	milepost LRMs	1	1	1	1	NULL	NULL	NULL	1	1	1
+lrom voluminous shape	dress	1	1	2	2	NULL	NULL	NULL	1218	546	0.00041050903119868636
+lrom voluminous shape	babydoll top	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LROs	cytolytic granules of Tlymphocytesand natural killer cell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LROs	cytolytic granules of T lymphocyte	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LRP ligands	tissue-type plasminogen activator	1	1	4	4	1.000000000000	NULL	NULL	19	12	0.013157894736842105
+LRP ligands	factor IXa	1	1	4	4	1.000000000000	NULL	NULL	5	2	0.05
+lrp ligands	monomeric lrp ligands	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+lrp ligands	heparin-binding lrp ligands	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+LRP premotor activity	stimulus analysis	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRP protein	LRP5	3	2	6	2	NULL	NULL	NULL	4	2	0.375
+LRP protein	LRP6	3	2	6	2	NULL	NULL	NULL	4	2	0.375
+Lrp-homologs	Eco AsnC	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRP5 null animal	LRP5 null mouse	1	1	1	1	NULL	NULL	NULL	1	1	1
+lrp5-related protein	low-density lipoprotein receptor	1	1	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+LRP6 null animal	LRP6 null mouse	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRPproteins	LRP6	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+LRPproteins	LRP5	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+LRR protein	porcine ribonuclease inhibitor	2	2	5	4	0.500000000000	NULL	NULL	2	1	0.4
+LRR protein	decorin	1	1	5	4	0.500000000000	NULL	NULL	88	33	0.002272727272727273
+LRR protein	fibromodulin	1	1	5	4	0.500000000000	NULL	NULL	27	16	0.007407407407407408
+LRR protein	Toll receptor	1	1	5	4	0.500000000000	NULL	NULL	1	1	0.2
+LRR tire	Kumho Eco Solus	1	1	1	1	NULL	NULL	NULL	1	1	1
+lrr-containing protein	internalin B	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lrr-containing protein	RNase inhibitor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lrr-containing transmembrane protein	FLRT3	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRRD livelihood-centred project	micro-finance initiatives for vulnerable community	1	1	1	1	NULL	NULL	NULL	1	1	1
+lrrd's livelihood-centred project	microfinance initiatives for vulnerable community	2	2	2	1	NULL	NULL	NULL	2	1	1
+LRS program	NYSBA's program	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRS tissue	Peyer's patch	1	1	2	2	1.000000000000	NULL	NULL	30	19	0.016666666666666666
+LRS tissue	mammary lymph node	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lrs-i tool	Random Date Generator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lrs-i tool	Wage Calculator	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LRSPP passive device	Mach-Zehnder interferometers	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+LRSZ partner	Lansing Regional Chamber of Commerce	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+LRT immune mechanism	immunoglobulin synthesis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LRT immune mechanism	secretion	1	1	2	2	NULL	NULL	NULL	83	52	0.006024096385542169
+LRTAP assessment activity	regular forest survey	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRTs	tests of positive selection	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LRTs	Total Terraforming	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lru-type mechanism	clock	1	1	1	1	NULL	NULL	NULL	1980	872	0.000505050505050505
+LRUs	SEBs 106	2	2	2	1	0.333333333333	NULL	NULL	2	1	1
+LRVs	Portland's MAX	1	1	1	1	NULL	NULL	NULL	1	1	1
+LRYSA activity	regatta	1	1	1	1	NULL	NULL	NULL	117	54	0.008547008547008548

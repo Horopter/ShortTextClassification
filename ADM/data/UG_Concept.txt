@@ -1,0 +1,432 @@
+UG general medical text	Kumar & Clark	1	1	1	1	NULL	NULL	NULL	1	1	1
+UG program	PGDCA B.Sc Computer Science	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+UG program	B.Sc Electronics	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+UG program	Computer Science for the first time in Kerala	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+UG program	B.Com	1	1	4	4	1.000000000000	NULL	NULL	25	14	0.01
+ug word	bug	1	1	1	1	NULL	NULL	NULL	379	176	0.002638522427440633
+UGA freshman	Lassiter grad Phillip Mote	1	1	1	1	NULL	NULL	NULL	1	1	1
+uga's activity	pep rally	1	1	1	1	1.000000000000	NULL	NULL	94	44	0.010638297872340425
+uganda africarice technology	NERICA varieties accompanied with rice training video	1	1	1	1	NULL	NULL	NULL	1	1	1
+uganda area	Kampala district in the central region	1	1	1	1	NULL	NULL	NULL	1	1	1
+Uganda rainforests	Kibale Rainforest	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Uganda rainforests	Bwindi Impenetrable Forest	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+uganda revenue authority's collection cost	training of entrepreneur	1	1	1	1	NULL	NULL	NULL	1	1	1
+uganda tour package	gorilla safari	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Uganda's agro-products	fish	1	1	4	4	NULL	NULL	NULL	12757	2977	0.000019597083953907657
+Uganda's agro-products	passion fruit	1	1	4	4	NULL	NULL	NULL	336	137	0.000744047619047619
+Uganda's agro-products	vanilla	1	1	4	4	NULL	NULL	NULL	2074	630	0.00012054001928640309
+Uganda's agro-products	honey	1	1	4	4	NULL	NULL	NULL	3603	1104	0.00006938662225922843
+uganda's agroforestry product	fruit	1	1	1	1	NULL	NULL	NULL	15318	3376	0.00006528267397832615
+uganda's eastern african neighbor	Kenya	1	1	1	1	NULL	NULL	NULL	3203	448	0.00031220730565095225
+uganda's institution	Mountains of the Moon University fort-portal	1	1	1	1	NULL	NULL	NULL	1	1	1
+uganda's judicial system capital offence	murder	1	1	1	1	NULL	NULL	NULL	4751	769	0.00021048200378867606
+uganda's local bank	Centenary	1	1	1	1	0.666666666666	NULL	NULL	8	6	0.125
+uganda's major trading partner	Euro Area	1	1	1	1	1.000000000000	NULL	NULL	26	13	0.038461538461538464
+uganda's many beautiful park	Kibale National Park	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+uganda's many beautiful park	Queen Elizabeth Park	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+uganda's neighbor	Congo	3	3	6	2	0.500000000000	NULL	NULL	471	138	0.0031847133757961785
+uganda's neighbor	Southern Sudan	3	3	6	2	0.500000000000	NULL	NULL	52	24	0.028846153846153848
+uganda's prime tourist hotel facility	Paraa Safari Lodge	1	1	1	1	NULL	NULL	NULL	1	1	1
+uganda's social development indicator	child	1	1	2	2	NULL	NULL	NULL	3515	1021	0.0001422475106685633
+uganda's social development indicator	infant	1	1	2	2	NULL	NULL	NULL	416	173	0.001201923076923077
+uganda's tabloid magazine	Rolling Stone	3	3	3	1	0.500000000000	NULL	NULL	334	91	0.008982035928143712
+uganda's traditional export	coffee	1	1	3	3	NULL	NULL	NULL	11509	2489	0.000028962840675413443
+uganda's traditional export	tea	1	1	3	3	NULL	NULL	NULL	7608	1710	0.00004381352961794602
+uganda's traditional export	cotton	1	1	3	3	NULL	NULL	NULL	8381	1830	0.00003977250129260629
+uganda-based company	Windsor Lake Victoria Hotel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uganda-based company	Uganda Telecom	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ugandan artist	Joseph Mungaya	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandan artist	Dan Sakanwagi	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandan artist	David Kibuuka	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandan artist	late Henry Lumu	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandan artist	Jack Katarikawe	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandan datum	National Service Delivery Survey datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugandan delicacy	fruity Mirinda	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugandan delicacy	Nile Special	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ugandan governmental organization	National Environment Management Authority	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+ugandan manufacturer	Mukwano Industries	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ugandan pastor	Martin Ssempa	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ugandan producer	Kenyan producer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugandan producer	Peter Miles Roadblock Production	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugandan producer	Vince Musisi of Goldstreet Records	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugandan religious minister	Martin Ssempa	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ugandan religious minister	prominet Evangelical Pastor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugandan specialty	Black Bee-eater	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+ugandan specialty	African Green Broadbill	1	1	4	4	1.000000000000	NULL	NULL	4	3	0.0625
+ugandan specialty	Shoebill	1	1	4	4	1.000000000000	NULL	NULL	15	7	0.016666666666666666
+ugandan specialty	Green-breasted Pitta	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ugandan stakeholder	Ministry of Finance	1	1	2	2	0.500000000000	NULL	NULL	150	64	0.0033333333333333335
+ugandan stakeholder	micro-finance institution	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+ugandan tabloid	Red Pepper	1	1	1	1	NULL	NULL	NULL	399	164	0.002506265664160401
+ugandan, regional and international institution	ICRAF	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667
+Ugandans	Pastor Martin Ssempa	6	6	6	1	NULL	NULL	NULL	6	1	1
+ugandas very tourist-friendly feature	availability of superb accommodation	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandas very tourist-friendly feature	mind-blowing flora	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandas very tourist-friendly feature	breath-taking scenery	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandas very tourist-friendly feature	captivating wildlife scene	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugandas very tourist-friendly feature	excellent weather	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ugary drink	industrial juice	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugary food	ice-cream	1	1	1	1	NULL	NULL	NULL	162	83	0.006172839506172839
+ugated molecule	oligos	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+UGBs	Cottage Grove	1	1	1	1	0.500000000000	NULL	NULL	16	10	0.0625
+UGC community	YouTube	1	1	1	1	NULL	NULL	NULL	6287	1492	0.0001590583744234134
+UGC game	Media Molecule's LittleBigPlanet	2	2	2	1	NULL	NULL	NULL	2	1	1
+UGC mega-sites	MySpace	1	1	2	2	NULL	NULL	NULL	6226	1034	0.00008030838419531
+UGC mega-sites	Facebook	1	1	2	2	NULL	NULL	NULL	29637	3798	0.00001687080338765732
+ugc platform	best-known ugc platform	1	1	8	8	NULL	NULL	NULL	2	2	0.0625
+UGC platform	YouTube	1	1	8	8	NULL	NULL	NULL	6287	1492	0.000019882296802926675
+UGC platform	Facebook	1	1	8	8	NULL	NULL	NULL	29637	3798	0.00000421770084691433
+UGC platform	Twitter	1	1	8	8	NULL	NULL	NULL	16193	2280	0.000007719384919409621
+UGC platform	blogs	1	1	8	8	NULL	NULL	NULL	5290	1636	0.000023629489603024576
+UGC platform	virtual world	1	1	8	8	NULL	NULL	NULL	115	74	0.0010869565217391304
+UGC platform	wikis	1	1	8	8	NULL	NULL	NULL	1882	537	0.00006641870350690754
+UGC platform	forum	1	1	8	8	NULL	NULL	NULL	2019	808	0.00006191183754333828
+UGC site	YouTube	6	6	10	5	NULL	NULL	NULL	6287	1492	0.0005726101479242881
+UGC site	Metacafe	1	1	10	5	NULL	NULL	NULL	97	46	0.0010309278350515464
+UGC site	fee based site	1	1	10	5	NULL	NULL	NULL	1	1	0.1
+UGC site	Revver	1	1	10	5	NULL	NULL	NULL	64	33	0.0015625
+UGC site	Yahoo	1	1	10	5	NULL	NULL	NULL	8994	2110	0.000011118523460084502
+UGC sponsored scholarship	Single Girl Child	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UGC sponsored scholarship	Rajiv Gandhi JRF & SRF	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugc website	YouTube	1	1	1	1	NULL	NULL	NULL	6287	1492	0.0001590583744234134
+ugen's cost	simple arithmetic ugens	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugent facility	bike rent	2	1	7	5	0.500000000000	NULL	NULL	4	3	0.14285714285714285
+ugent facility	Sports Centre	2	1	7	5	0.500000000000	NULL	NULL	79	51	0.007233273056057866
+ugent facility	student restaurant	2	1	7	5	0.500000000000	NULL	NULL	3	2	0.19047619047619047
+ugent facility	library	1	1	7	5	0.500000000000	NULL	NULL	6833	2108	0.000020906943195835334
+ugg australia france color	ultramarine	1	1	3	3	0.666666666666	NULL	NULL	40	22	0.008333333333333333
+ugg australia france color	neon green	1	1	3	3	0.666666666666	NULL	NULL	52	27	0.00641025641025641
+ugg australia france color	magenta	1	1	3	3	0.666666666666	NULL	NULL	318	136	0.0010482180293501047
+ugg boot	ugg bailey button boot	2	2	25	24	1.000000000000	NULL	NULL	2	1	0.08
+ugg boot	ugg bailey button	1	1	25	24	1.000000000000	NULL	NULL	14	8	0.002857142857142857
+ugg boot	ugg for kid	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	uggfeet.com also sale ugg boot	1	1	25	24	1.000000000000	NULL	NULL	2	2	0.02
+ugg boot	woman's ugg boot	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	Valence boot	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	Ugg Boots Classic Short	1	1	25	24	1.000000000000	NULL	NULL	2	2	0.02
+ugg boot	Ugg Classic Mini Boots	1	1	25	24	1.000000000000	NULL	NULL	4	4	0.01
+ugg boot	Kids Ugg Boots	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	ugg class cardy	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	ugg class short	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	ugg classic	1	1	25	24	1.000000000000	NULL	NULL	3	2	0.013333333333333334
+ugg boot	UGG Classic Cardy Boots	1	1	25	24	1.000000000000	NULL	NULL	6	5	0.006666666666666667
+ugg boot	uggs for man	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	Classic Tall Ugg Boots	1	1	25	24	1.000000000000	NULL	NULL	14	5	0.002857142857142857
+ugg boot	classic short	1	1	25	24	1.000000000000	NULL	NULL	5	4	0.008
+ugg boot	Bailey Button	1	1	25	24	1.000000000000	NULL	NULL	5	4	0.008
+ugg boot	classic tall	1	1	25	24	1.000000000000	NULL	NULL	3	3	0.013333333333333334
+ugg boot	Uggs Classic Cardy	1	1	25	24	1.000000000000	NULL	NULL	6	5	0.006666666666666667
+ugg boot	UGG Nightfall	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	UGG Sundance II	1	1	25	24	1.000000000000	NULL	NULL	2	2	0.02
+ugg boot	UGG Classic Tall Boots	1	1	25	24	1.000000000000	NULL	NULL	3	3	0.013333333333333334
+ugg boot	stylish Ugg Jimmy Choo Boots	1	1	25	24	1.000000000000	NULL	NULL	1	1	0.04
+ugg boot	npc race cheap ugg boot	1	1	25	24	1.000000000000	NULL	NULL	3	3	0.013333333333333334
+ugg boot boot	UGG Classic Mini	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+ugg boot boot	Romantic Flower	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ugg boot cheap accessory	hair tie	1	1	3	3	0.333333333333	NULL	NULL	22	20	0.01515151515151515
+ugg boot cheap accessory	scarf	1	1	3	3	0.333333333333	NULL	NULL	2821	751	0.00011816140848398913
+ugg boot cheap accessory	necklace	1	1	3	3	0.333333333333	NULL	NULL	2291	723	0.00014549687181725592
+ugg boot cheap neutral color	brown	1	1	3	3	NULL	NULL	NULL	4244	1139	0.00007854225573358467
+ugg boot cheap neutral color	black	1	1	3	3	NULL	NULL	NULL	7897	1968	0.00004221012198725254
+ugg boot cheap neutral color	beige	1	1	3	3	NULL	NULL	NULL	1535	400	0.00021715526601520085
+ugg boot design	Stinger Low Sand	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ugg boot design	Stinger Low Black	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ugg boot design	Bronte Hi	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ugg boot fashion item	jewelry	1	1	4	4	NULL	NULL	NULL	7848	1759	0.000031855249745158005
+ugg boot fashion item	clothes	1	1	4	4	NULL	NULL	NULL	3774	1059	0.00006624271330153684
+ugg boot fashion item	handbag	1	1	4	4	NULL	NULL	NULL	1919	540	0.00013027618551328816
+ugg boot fashion item	watch	1	1	4	4	NULL	NULL	NULL	3163	899	0.00007903888713246918
+ugg boot outlet star	sarah jessica parker	1	1	2	2	NULL	NULL	NULL	602	104	0.0008305647840531562
+ugg boot outlet star	madonna	1	1	2	2	NULL	NULL	NULL	1965	488	0.0002544529262086514
+ugg boot sale special effect	shiny effect	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UGG classic cardy boot color	cream	1	1	5	5	NULL	NULL	NULL	4329	1449	0.0000462000462000462
+UGG classic cardy boot color	blue	1	1	5	5	NULL	NULL	NULL	7681	1817	0.000026038276266111184
+UGG classic cardy boot color	chestnut	1	1	5	5	NULL	NULL	NULL	661	276	0.00030257186081694405
+UGG classic cardy boot color	purple	1	1	5	5	NULL	NULL	NULL	2740	728	0.00007299270072992701
+UGG classic cardy boot color	Black	1	1	5	5	NULL	NULL	NULL	7897	1968	0.000025326073192351527
+UGG classic sundance II boot	Terra Cesareo	1	1	1	1	NULL	NULL	NULL	1	1	1
+UGG classic tall slipper	Tasman	1	1	1	1	1.000000000000	NULL	NULL	16	13	0.0625
+UGG coffee color glove store	Australian Yellow Earth	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugg coupon common expense	work uniform	1	1	1	1	1.000000000000	NULL	NULL	15	15	0.06666666666666667
+UGG cove coupon	free shipping	1	1	1	1	NULL	NULL	NULL	355	114	0.0028169014084507044
+ugg glove great organization	AIDS Project	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+UGG knightsbridge style winter product	sweater	1	1	3	3	NULL	NULL	NULL	914	340	0.00036469730123997083
+UGG knightsbridge style winter product	UGG Leopard and Leopards UGGs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UGG knightsbridge style winter product	boot	1	1	3	3	NULL	NULL	NULL	1194	523	0.00027917364600781687
+ugg outlet celebrity	jude law	1	1	2	2	NULL	NULL	NULL	115	43	0.004347826086956522
+ugg outlet celebrity	brad pitt	1	1	2	2	NULL	NULL	NULL	559	157	0.0008944543828264759
+UGG popular boot style	Common	1	1	1	1	NULL	NULL	NULL	448	188	0.002232142857142857
+ugg product	ugg boot	1	1	3	4	1.000000000000	NULL	NULL	37	26	0.009009009009009009
+ugg product	sheepskin accessory	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ugg product	sheepskin rug	1	1	3	4	1.000000000000	NULL	NULL	12	9	0.027777777777777776
+UGG s coupon	free shipping	1	1	1	1	NULL	NULL	NULL	355	114	0.0028169014084507044
+ugg sheepskin boot	Ugg Ultimate Bind Women's	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ugg sheepskin boot	Ugg Classic Crochet Shoes	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ugg sheepskin boot	Mini Ugg Boots	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ugg sheepskin boot	Women's Ugg Bailey Button	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ugg shoe	UGG sandal	2	2	5	4	1.000000000000	NULL	NULL	2	1	0.4
+ugg shoe	Ugg slipper	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+ugg shoe	UGG boot	1	1	5	4	1.000000000000	NULL	NULL	37	26	0.005405405405405406
+ugg shoe	Ugg skimmer	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+UGG slipper	Tasman	3	3	3	1	1.000000000000	NULL	NULL	16	13	0.1875
+ugg snow boot neurological disorder	charcot marie tooth disease	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ugg snow boot vegetable	carrot	1	1	3	3	NULL	NULL	NULL	10459	2027	0.00003187047837588042
+ugg snow boot vegetable	beet	1	1	3	3	NULL	NULL	NULL	2219	557	0.0001502178158329578
+ugg snow boot vegetable	white potato	1	1	3	3	NULL	NULL	NULL	192	70	0.001736111111111111
+ugg store neutral color	brown	1	1	2	2	NULL	NULL	NULL	4244	1139	0.000117813383600377
+ugg store neutral color	beige	1	1	2	2	NULL	NULL	NULL	1535	400	0.0003257328990228013
+ugg store wood	cypress	1	1	2	2	NULL	NULL	NULL	459	213	0.0010893246187363835
+ugg store wood	chestnut	1	1	2	2	NULL	NULL	NULL	661	276	0.0007564296520423601
+UGG style	UGG 5803	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UGG style	UGG 5815	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UGG tall boot	UGG women's classic tall boot	4	4	20	10	1.000000000000	NULL	NULL	4	1	0.2
+UGG tall boot	UGG women's classic cardy boot	4	4	20	10	1.000000000000	NULL	NULL	4	1	0.2
+UGG tall boot	UGG women's nightfall boot	3	3	20	10	1.000000000000	NULL	NULL	3	1	0.15
+UGG tall boot	UGG women's ultra tall boot	3	3	20	10	1.000000000000	NULL	NULL	3	1	0.15
+UGG tall boot	UGG women's classic cardy boot s	1	1	20	10	1.000000000000	NULL	NULL	1	1	0.05
+UGG tall boot	UGG women's ultra alpine boot	1	1	20	10	1.000000000000	NULL	NULL	1	1	0.05
+UGG tall boot	UGG women's atramentous boot	1	1	20	10	1.000000000000	NULL	NULL	1	1	0.05
+UGG tall boot	UGG women's Sundance boot	1	1	20	10	1.000000000000	NULL	NULL	1	1	0.05
+UGG tall boot	UGG women's classic alpine boot	1	1	20	10	1.000000000000	NULL	NULL	1	1	0.05
+UGG tall boot	Ugg Classic Tall	1	1	20	10	1.000000000000	NULL	NULL	9	7	0.005555555555555556
+ugg women's style boot	Ugg Bailey Button	1	1	2	2	1.000000000000	NULL	NULL	14	8	0.03571428571428571
+ugg women's style boot	Ugg Cardy Boots	1	1	2	2	1.000000000000	NULL	NULL	4	2	0.125
+ugg's iconic boot	Classic	3	3	3	1	NULL	NULL	NULL	403	193	0.007444168734491315
+UGG5815 sand color	gray UGG5815	1	1	1	1	NULL	NULL	NULL	1	1	1
+uggfeet.com also sale ugg boot	Ugg classic crochet boot	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uggfeet.com also sale ugg boot	Ugg classic Tall Boots	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+uggfeet.com also sale ugg boot	Ugg classic cardy boot	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uggs	UGG Classic Cardy	2	2	5	3	NULL	NULL	NULL	6	4	0.13333333333333333
+uggs	UGG Classic Crochet	2	2	5	3	NULL	NULL	NULL	4	3	0.2
+uggs	popular and fashion uggs	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+uggs accessory	sweatband	1	1	2	2	0.500000000000	NULL	NULL	58	26	0.008620689655172414
+uggs accessory	armband	1	1	2	2	0.500000000000	NULL	NULL	74	45	0.006756756756756757
+uggs allegorical cossack style	Traditional	1	1	1	1	NULL	NULL	NULL	390	154	0.002564102564102564
+uggs boot	Uggs Classic Cardy	1	1	6	6	1.000000000000	NULL	NULL	6	5	0.027777777777777776
+uggs boot	Ugg Classic Tall	1	1	6	6	1.000000000000	NULL	NULL	9	7	0.018518518518518517
+uggs boot	Ugg Classic Mini	1	1	6	6	1.000000000000	NULL	NULL	6	5	0.027777777777777776
+uggs boot	UGG Classic Small	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+uggs boot	Infants Erin Boots	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+uggs boot	Romantic Flower	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+uggs boot canada	Uggs Ultimate Tall	2	1	7	5	NULL	NULL	NULL	4	2	0.14285714285714285
+uggs boot canada	Uggs Classic Cardy	2	1	7	5	NULL	NULL	NULL	6	5	0.09523809523809523
+uggs boot canada	Uggs Bailey Button	1	1	7	5	NULL	NULL	NULL	1	1	0.14285714285714285
+uggs boot canada	Ugg Classic Mini	1	1	7	5	NULL	NULL	NULL	6	5	0.023809523809523808
+uggs boot canada	series uggs boot canada	1	1	7	5	NULL	NULL	NULL	1	1	0.14285714285714285
+uggs boot outlet celebrity	sandra bullock	1	1	2	2	0.500000000000	NULL	NULL	152	44	0.003289473684210526
+uggs boot outlet celebrity	anna kournikova	1	1	2	2	0.500000000000	NULL	NULL	51	23	0.00980392156862745
+uggs classic boot celebrity	Pamela Anderson	1	1	3	3	NULL	NULL	NULL	268	83	0.0012437810945273632
+uggs classic boot celebrity	Oprah Winfrey	1	1	3	3	NULL	NULL	NULL	523	179	0.0006373486297004461
+uggs classic boot celebrity	Kate Moss	1	1	3	3	NULL	NULL	NULL	538	163	0.0006195786864931846
+UGGS clearance accessory	UGG Gloves Clearance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UGGS clearance accessory	UGG Earmuff Clearance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UGGS clearance accessory	Sheepskin UGG Bags Clearance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UGGS clearance accessory	UGGS Scarf Clearance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+uggs coupon	free shipping	1	1	1	1	NULL	NULL	NULL	355	114	0.0028169014084507044
+uggs legendary boot style	Traditional	1	1	1	1	NULL	NULL	NULL	390	154	0.002564102564102564
+uggs product	coat	1	1	1	1	NULL	NULL	NULL	1231	360	0.0008123476848090983
+uggs sale fabric	linen	1	1	2	2	NULL	NULL	NULL	3019	817	0.00016561775422325274
+uggs sale fabric	cotton	1	1	2	2	NULL	NULL	NULL	8381	1830	0.00005965875193890944
+uggs sale silent color	chocolate	1	1	5	5	NULL	NULL	NULL	7342	1984	0.000027240533914464727
+uggs sale silent color	chestnut	1	1	5	5	NULL	NULL	NULL	661	276	0.00030257186081694405
+uggs sale silent color	gray	1	1	5	5	NULL	NULL	NULL	2715	725	0.00007366482504604052
+uggs sale silent color	sand	1	1	5	5	NULL	NULL	NULL	6541	2043	0.00003057636447026449
+uggs sale silent color	black	1	1	5	5	NULL	NULL	NULL	7897	1968	0.000025326073192351527
+ught colored surface	white stone	1	1	1	1	1.000000000000	NULL	NULL	5	3	0.2
+ugliest, hardest position	head of volunteer	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ugliest, hardest position	treasurer	2	2	4	2	NULL	NULL	NULL	462	166	0.0021645021645021645
+ugly accessory	hat	1	1	1	1	NULL	NULL	NULL	4593	1302	0.00021772262138036142
+ugly addiction	smoking	1	1	1	1	NULL	NULL	NULL	12009	2006	0.00008327088017320343
+ugly addition	Science Block	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ugly addition	New Block	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly after-effects	grogginess	1	1	2	2	0.500000000000	NULL	NULL	17	9	0.029411764705882353
+ugly after-effects	nausea	1	1	2	2	0.500000000000	NULL	NULL	10577	1695	0.00004727238347357474
+ugly and illegal form	domestic violence	1	1	2	2	NULL	NULL	NULL	1667	497	0.00029994001199760045
+ugly and illegal form	retaliatory terrorist attacks in war-ridden region	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly and poorly-maintained development lot	European Club	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+ugly area	clothes line	1	1	2	2	0.500000000000	NULL	NULL	36	30	0.013888888888888888
+ugly area	water tank	1	1	2	2	0.500000000000	NULL	NULL	297	214	0.0016835016835016834
+ugly artifact	edge enhancement	1	1	1	1	NULL	NULL	NULL	79	49	0.012658227848101266
+ugly aside	petty anti-australianism	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly ass morphers	Magna Defender's	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly attribute	acne	1	1	1	1	0.500000000000	NULL	NULL	2553	581	0.0003916960438699569
+Ugly behavior	violence	4	4	5	2	0.666666666666	NULL	NULL	1888	706	0.0016949152542372883
+Ugly behavior	illegal activity	1	1	5	2	0.666666666666	NULL	NULL	30	16	0.006666666666666667
+ugly blemish	scar	1	1	1	1	NULL	NULL	NULL	589	242	0.001697792869269949
+ugly brutality	putting Jews	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly building	Allen Hall	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ugly building	Royal Opera	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+ugly characteristic	false morality	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugly characteristic	complementaries of design	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugly characteristic	pretense of superiority	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugly christmas sweater party idea	invitation	1	1	1	1	NULL	NULL	NULL	657	334	0.0015220700152207
+ugly clothes	old lady boot	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly club	Afrodite	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+ugly color	tomato red	1	1	2	2	1.000000000000	NULL	NULL	31	19	0.016129032258064516
+ugly color	mustard yellow	1	1	2	2	1.000000000000	NULL	NULL	55	35	0.00909090909090909
+ugly concrete surface	walkway	1	1	3	4	NULL	NULL	NULL	663	300	0.0005027652086475615
+ugly concrete surface	patio	1	1	3	4	NULL	NULL	NULL	1556	548	0.00021422450728363323
+ugly concrete surface	porch	1	1	3	4	NULL	NULL	NULL	848	343	0.0003930817610062893
+ugly consequence	fine	1	1	1	1	0.333333333333	NULL	NULL	920	349	0.0010869565217391304
+ugly contaminant	chlorine	1	1	3	3	NULL	NULL	NULL	3414	804	0.00009763718023823471
+ugly contaminant	fluoride	1	1	3	3	NULL	NULL	NULL	830	319	0.0004016064257028112
+ugly contaminant	lead	1	1	3	3	NULL	NULL	NULL	9600	1602	0.00003472222222222222
+ugly deformity	claw	1	1	1	1	NULL	NULL	NULL	182	103	0.005494505494505495
+ugly desire	jealousy	1	1	3	3	NULL	NULL	NULL	1429	458	0.0002332633543270352
+ugly desire	selfishness	1	1	3	3	NULL	NULL	NULL	191	116	0.001745200698080279
+ugly desire	greed	1	1	3	3	NULL	NULL	NULL	1082	419	0.0003080714725816389
+ugly disease	scurvy	2	2	5	3	0.333333333333	NULL	NULL	285	81	0.0028070175438596493
+ugly disease	pellagra	2	2	5	3	0.333333333333	NULL	NULL	81	31	0.009876543209876543
+ugly disease	beriberi	1	1	5	3	0.333333333333	NULL	NULL	85	32	0.0023529411764705885
+ugly distraction	power line	1	1	1	1	NULL	NULL	NULL	552	254	0.0018115942028985507
+ugly ducklings	Charles Malik	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly effect	scars on the boy's face	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly element	authors apparent hatred of woman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly element	racism in Anthroposophy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly emotion	fear	1	1	7	7	0.166666666666	NULL	NULL	5762	1341	0.00002479297862845242
+ugly emotion	anxiety	1	1	7	7	0.166666666666	NULL	NULL	10807	2261	0.000013218945392536582
+ugly emotion	hate	1	1	7	7	0.166666666666	NULL	NULL	655	236	0.00021810250817884405
+ugly emotion	guilty	1	1	7	7	0.166666666666	NULL	NULL	11	9	0.012987012987012986
+ugly emotion	worry	1	1	7	7	0.166666666666	NULL	NULL	911	250	0.00015681354869060687
+ugly emotion	toexpress ugly emotion	1	1	7	7	0.166666666666	NULL	NULL	2	2	0.07142857142857142
+ugly emotion	envy	1	1	7	7	0.166666666666	NULL	NULL	604	237	0.00023651844843897824
+ugly feature	radiator	1	1	11	11	0.555555555555	NULL	NULL	1553	331	0.00005853772756541591
+ugly feature	flat chest	1	1	11	11	0.555555555555	NULL	NULL	5	4	0.01818181818181818
+ugly feature	icemaker	1	1	11	11	0.555555555555	NULL	NULL	16	12	0.005681818181818182
+ugly feature	thin lip	1	1	11	11	0.555555555555	NULL	NULL	7	6	0.012987012987012988
+ugly feature	fuel tank	1	1	11	11	0.555555555555	NULL	NULL	315	160	0.0002886002886002886
+ugly feature	big nose	1	1	11	11	0.555555555555	NULL	NULL	13	12	0.006993006993006993
+ugly feature	wire	1	1	11	11	0.555555555555	NULL	NULL	2571	1007	0.00003535942859163396
+ugly feature	wheely bin	1	1	11	11	0.555555555555	NULL	NULL	1	1	0.09090909090909091
+ugly feature	water tank	1	1	11	11	0.555555555555	NULL	NULL	297	214	0.00030609121518212427
+ugly feature	laugh line	1	1	11	11	0.555555555555	NULL	NULL	20	18	0.004545454545454545
+ugly feature	mouldy laserlight pergola roof	1	1	11	11	0.555555555555	NULL	NULL	1	1	0.09090909090909091
+ugly feeling	hatred	2	2	5	4	NULL	NULL	NULL	630	221	0.0012698412698412698
+ugly feeling	jealousy	1	1	5	4	NULL	NULL	NULL	1429	458	0.00013995801259622114
+ugly feeling	selfishness	1	1	5	4	NULL	NULL	NULL	191	116	0.0010471204188481676
+ugly feeling	cruelty	1	1	5	4	NULL	NULL	NULL	95	54	0.002105263157894737
+ugly finish	sewing machine cabinet	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ugly fish	sturgeon	1	1	1	1	NULL	NULL	NULL	273	104	0.003663003663003663
+ugly gluttural sound	French R	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly guy	politician	1	1	3	3	0.250000000000	NULL	NULL	648	285	0.0005144032921810699
+ugly guy	doctor	1	1	3	3	0.250000000000	NULL	NULL	6593	1574	0.000050558673340411544
+ugly guy	Musharaf	1	1	3	3	0.250000000000	NULL	NULL	2	2	0.16666666666666666
+ugly habit	smoking	1	1	1	1	NULL	NULL	NULL	12009	2006	0.00008327088017320343
+ugly historical event	Spanish Inquisition	1	1	1	1	1.000000000000	NULL	NULL	22	18	0.045454545454545456
+ugly housing estate	Phipps Bridge	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly incident	match fixing	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ugly incident	fist-fights at the curb	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly international dimension	mass deporting of illegals , electric fence	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly issue	greed	1	1	3	3	NULL	NULL	NULL	1082	419	0.0003080714725816389
+ugly issue	prejudice	1	1	3	3	NULL	NULL	NULL	483	191	0.0006901311249137336
+ugly issue	slavery	1	1	3	3	NULL	NULL	NULL	741	258	0.00044984255510571296
+ugly JPEG processing artefact	color banding	1	1	1	1	1.000000000000	NULL	NULL	8	5	0.125
+ugly JPEG processing artifact	color banding	2	2	2	1	1.000000000000	NULL	NULL	8	5	0.25
+ugly kid	kid named Jamal	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly label	Media Gestapo Smear WebSite	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly luminary	Keith Bloemendaal	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly market	Las Vegas	1	1	1	1	NULL	NULL	NULL	1637	477	0.0006108735491753207
+ugly measure	changing of lock	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ugly measure	shutting off the utility	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ugly modern addition	external air conditioners on old house	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly name	Gertrude	1	1	2	2	1.000000000000	NULL	NULL	17	9	0.029411764705882353
+ugly name	Bertha	1	1	2	2	1.000000000000	NULL	NULL	16	11	0.03125
+ugly object	toy gargoyle	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly outcome	sanction	1	1	2	2	NULL	NULL	NULL	175	108	0.002857142857142857
+ugly outcome	authorizations of using military force against poor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly peoples	Turks	1	1	1	1	NULL	NULL	NULL	158	85	0.006329113924050633
+ugly person	Ferrell's depiction of Reno	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly personality trait	hatefulness	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly product	english girls albanian girl	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly project	sewer plant	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+ugly racial war	WW2 with Nazi Germany	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly reaction	redness	3	3	16	10	0.200000000000	NULL	NULL	1133	320	0.0004964695498676081
+ugly reaction	headache	3	3	16	10	0.200000000000	NULL	NULL	11164	1934	0.00005038516660695091
+ugly reaction	blotch	2	2	16	10	0.200000000000	NULL	NULL	14	12	0.017857142857142856
+ugly reaction	red spot	2	2	16	10	0.200000000000	NULL	NULL	24	18	0.010416666666666666
+ugly reaction	cancer	1	1	16	10	0.200000000000	NULL	NULL	12145	2003	0.0000051461506792918895
+ugly reaction	bleeding	1	1	16	10	0.200000000000	NULL	NULL	1917	486	0.00003260302556077204
+ugly reaction	scarring	1	1	16	10	0.200000000000	NULL	NULL	368	136	0.00016983695652173913
+ugly reaction	brain damage	1	1	16	10	0.200000000000	NULL	NULL	260	131	0.0002403846153846154
+ugly reaction	tiredness	1	1	16	10	0.200000000000	NULL	NULL	1125	295	0.00005555555555555556
+ugly reaction	rash	1	1	16	10	0.200000000000	NULL	NULL	2111	538	0.000029606821411653245
+ugly reality	Ramsay's sexism	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ugly result	edges of plasma balls in glboom	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly salmon coble	fishermen used for the nets at Kinlochuna	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ugly salmoncoble	fishermen used for the nets at Kinlochuna	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ugly scenario	incident	1	1	1	1	NULL	NULL	NULL	156	100	0.00641025641025641
+ugly side effect	backlash from content owner	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ugly side effect	unreasonable reaction	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ugly side effect	hemorrhoid	1	1	4	4	0.500000000000	NULL	NULL	324	128	0.0007716049382716049
+ugly side effect	massive increase in bandwidth use	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ugly situation	Abu Ghraib prison	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ugly skin condition	girth itch	1	1	8	8	0.600000000000	NULL	NULL	2	2	0.0625
+ugly skin condition	bit sore	1	1	8	8	0.600000000000	NULL	NULL	2	2	0.0625
+ugly skin condition	burn	1	1	8	8	0.600000000000	NULL	NULL	1167	432	0.00010711225364181663
+ugly skin condition	dew poisoning	1	1	8	8	0.600000000000	NULL	NULL	3	3	0.041666666666666664
+ugly skin condition	skin fungus	1	1	8	8	0.600000000000	NULL	NULL	9	6	0.013888888888888888
+ugly skin condition	ring worm	1	1	8	8	0.600000000000	NULL	NULL	38	28	0.003289473684210526
+ugly skin condition	scratch	1	1	8	8	0.600000000000	NULL	NULL	1214	429	0.00010296540362438221
+ugly skin condition	rain rot	1	1	8	8	0.600000000000	NULL	NULL	10	8	0.0125
+ugly subject	ugly insect	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ugly subject	reptile	1	1	2	2	NULL	NULL	NULL	1158	324	0.0004317789291882556
+ugly task	generation of XML	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly tooth	discolored front tooth	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly trait	bullying child	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly utility item	air conditioners the size of an outhouse	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly weather condition	extreme heat	1	1	4	4	0.333333333333	NULL	NULL	245	106	0.0010204081632653062
+ugly weather condition	terrible heat emanating from the solar energy	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+ugly weather condition	severe dryness of the summer period	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+ugly weather condition	dryness	1	1	4	4	0.333333333333	NULL	NULL	386	159	0.0006476683937823834
+ugly wood surface	cabinet	1	1	1	1	NULL	NULL	NULL	1455	623	0.0006872852233676976
+ugly word	impracticable	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ugly yet effective form	Leandro Barbosa's	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugly, staring, red-brick house	Dunham Massey	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ugly, staring, red-brick house	Attingham Park	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ugly, staring, red-brick house	Etruria Hall	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ugly, staring, red-brick house	Adlington Hall	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ugly, unethical and illegal practice	virus	1	1	3	3	NULL	NULL	NULL	4964	1250	0.00006715014773032501
+ugly, unethical and illegal practice	male enhancement drug	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugly, unethical and illegal practice	advertisements for scheme	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugly-hot guy	Paul Dano	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+uglydoll party supply	napkin	1	1	2	2	NULL	NULL	NULL	934	402	0.0005353319057815846
+uglydoll party supply	plate	1	1	2	2	NULL	NULL	NULL	2349	1069	0.00021285653469561516
+Uglydolls	Ice Bat	1	1	1	1	NULL	NULL	NULL	1	1	1
+UGO network feature website	Hero Machine	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UGovernors	Tim Pawlenty in Minnesota	1	1	1	1	NULL	NULL	NULL	1	1	1
+ugraded feature	high ceiling	1	1	3	3	0.333333333333	NULL	NULL	270	117	0.0012345679012345679
+ugraded feature	arched window	1	1	3	3	0.333333333333	NULL	NULL	37	31	0.009009009009009009
+ugraded feature	arch	1	1	3	3	0.333333333333	NULL	NULL	562	290	0.0005931198102016607
+Ugric language	Hungarian	1	1	1	1	1.000000000000	NULL	NULL	194	58	0.005154639175257732
+ugric speaking population	Khanty	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ugric speaking population	Mansi	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+ugric speaking population	Samojed speaking population	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ugro-finn nation	Mordva	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ugro-finn nation	Udmurt	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+ugro-finn nation	Chuvash	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+ugro-finnic language	Hungarian	1	1	2	2	1.000000000000	NULL	NULL	194	58	0.002577319587628866
+ugro-finnic language	Estonian	1	1	2	2	1.000000000000	NULL	NULL	45	18	0.011111111111111112
+UGs	Cap PC	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UGs	Melbourne UG	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UGT gene	UGT2B7	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+UGT gene	UGT1A1	1	1	5	5	NULL	NULL	NULL	5	5	0.04
+UGT gene	UGT2B4	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+UGT gene	UGT1A6	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UGT gene	UGT2B15	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UGT isoforms	1A5	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+UGT isoforms	UGT1A4	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+UGT isoforms	1A2	1	1	5	5	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+UGT isoforms	UGT2B4	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+UGT isoforms	UGT1A1	1	1	5	5	1.000000000000	NULL	NULL	5	5	0.04
+UGT1A enzyme	UGT1A4	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UGT1A1 inhibitor	atazanavir	1	1	1	1	NULL	NULL	NULL	40	15	0.025
+ugti-related complication	significant arterial thrombotic event	1	1	1	1	NULL	NULL	NULL	1	1	1
+UGTs	UGT 1A7	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UGTs	UGT 1A8	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UGTs	UGT1A1	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+UGV application	path tracking	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UGV application	waypoint navigation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UGV beingusedfor different purpose	personal music video	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+UGV beingusedfor different purpose	advertisements for small business	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+UGV beingusedfor different purpose	digital diary	1	1	4	4	1.000000000000	NULL	NULL	13	7	0.019230769230769232
+UGV beingusedfor different purpose	self-publishing new	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25

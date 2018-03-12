@@ -1,0 +1,1928 @@
+om	dysphagia	1	1	12	12	0.500000000000	NULL	NULL	265	115	0.00031446540880503143
+om	upper gastrointestinal sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	time gastrointestinal sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	stomach sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	methyl mercury	1	1	12	12	0.500000000000	NULL	NULL	49	34	0.0017006802721088435
+om	severe sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	stage sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	common cold sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	minor sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	non-epilepti c paroxysmal sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	physical sympt om	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+om	S chellm ann diagram s	1	1	12	12	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+om application	MES	1	1	2	2	1.000000000000	NULL	NULL	40	29	0.0125
+om application	PDM system	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+om big company	Lufthansa	1	1	3	3	0.333333333333	NULL	NULL	763	215	0.000436871996505024
+om big company	Ford	1	1	3	3	0.333333333333	NULL	NULL	4256	1161	0.00007832080200501253
+om big company	Agfa	1	1	3	3	0.333333333333	NULL	NULL	84	44	0.003968253968253968
+OM channel	substrate-specific channel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OM channel	general porins	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OM component	soluble polysaccharides	1	1	1	1	NULL	NULL	NULL	1	1	1
+OM drug target	lipopolysaccharide biosynthesis enzyme	1	1	1	1	NULL	NULL	NULL	1	1	1
+OM feature	inheritance	1	1	1	1	NULL	NULL	NULL	1033	400	0.000968054211035818
+OM function	information capture	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+om m entators	F loyd et al	1	1	1	1	NULL	NULL	NULL	1	1	1
+om m unicable eye disease	onchocerciasis	1	1	1	1	NULL	NULL	NULL	56	29	0.017857142857142856
+om member	Indiana Utility Regulatory Commission	1	0	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+om member	Michigan Commission	1	0	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+om member	Public Service Commission of Wisconsin	1	0	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+om nom nommer's top pick	Gilbert's Cafe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+om nom nommer's top pick	Cafe Rosso	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OM office	Information Resources Group	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+om panies	W al-M art	1	1	1	1	NULL	NULL	NULL	1	1	1
+OM parameter	dissolved organic carbon	1	1	1	1	1.000000000000	NULL	NULL	23	14	0.043478260869565216
+om patiblewithother technology	educational tool	1	1	3	3	0.500000000000	NULL	NULL	13	12	0.02564102564102564
+om patiblewithother technology	e-prescribing	1	1	3	3	0.500000000000	NULL	NULL	63	41	0.005291005291005291
+om patiblewithother technology	electronic medical rec ords	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+om policy	cell phone use	1	1	1	1	NULL	NULL	NULL	63	32	0.015873015873015872
+om poser	L asso	1	1	1	1	NULL	NULL	NULL	1	1	1
+om supplier	Linedata Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+om supplier	Charles River Development	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+om's policy	cell phone use	1	1	1	1	NULL	NULL	NULL	63	32	0.015873015873015872
+OMA DM standardisation area	session establishment	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+OMA download requirement	content delivery	1	1	2	2	0.500000000000	NULL	NULL	31	24	0.016129032258064516
+OMA download requirement	authentication	1	1	2	2	0.500000000000	NULL	NULL	1169	500	0.000427715996578272
+OMA DRM technology	DRM Content Format	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMA DRM technology	Rights Expression Language	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMA feature	Presence server testing	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMA funded line item	computer	1	1	3	3	0.333333333333	NULL	NULL	13729	3711	0.00002427950566926457
+OMA funded line item	camera equipment	1	1	3	3	0.333333333333	NULL	NULL	49	28	0.006802721088435374
+OMA funded line item	printer	1	1	3	3	0.333333333333	NULL	NULL	6991	1667	0.00004768035092738282
+OMA host student organization	NAACP	1	1	2	2	NULL	NULL	NULL	535	174	0.0009345794392523365
+OMA host student organization	Organization of Latin Americans	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMA official	Tapa Umal	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OMA official	Mohammad Gampong	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OMA official	Directors Moharrim Mohammad	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OMA official	General Services Division Chief Mohammad Kome	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OMA project	Almere masterplan	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMA rather unexpected theme	Movement	1	1	3	3	NULL	NULL	NULL	1127	558	0.0002957704821058858
+OMA rather unexpected theme	Ornament	1	1	3	3	NULL	NULL	NULL	736	353	0.00045289855072463763
+OMA rather unexpected theme	Sight Lines	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OMA service	persistence	1	1	3	3	NULL	NULL	NULL	674	270	0.0004945598417408506
+OMA service	website	1	1	3	3	NULL	NULL	NULL	2590	1138	0.0001287001287001287
+OMA service	relationship	1	1	3	3	NULL	NULL	NULL	1578	482	0.00021123785382340515
+OMA supporting enabler	Presence	2	2	4	2	0.500000000000	NULL	NULL	723	342	0.0013831258644536654
+OMA supporting enabler	XDM	2	2	4	2	0.500000000000	NULL	NULL	8	7	0.125
+OMA's architecture	Kunsthal in Rotterdam	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omaakar's item	Christmas ornament	1	1	5	5	NULL	NULL	NULL	114	86	0.0017543859649122807
+omaakar's item	Embroidered gift Boxes	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+omaakar's item	Gift Pouches	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+omaakar's item	bag	1	1	5	5	NULL	NULL	NULL	3272	1148	0.00006112469437652813
+omaakar's item	Wine Bags	1	1	5	5	NULL	NULL	NULL	6	3	0.03333333333333333
+omaha attraction	Qwest Center	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+omaha attraction	Rosenblatt Stadium	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+omaha attraction	Henry Dorley Zoo	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omaha attraction	Village Point Shopping Center	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omaha bathroom cabinet	wall cabinet	1	1	1	1	1.000000000000	NULL	NULL	65	59	0.015384615384615385
+Omaha Boat Show information	Omaha boat show Hours	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Omaha Boat Show information	Omaha boat show Location	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Omaha Boat Show information	Omaha boat show ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omaha church	St. Frances Cabrini	1	1	1	1	NULL	NULL	NULL	1	1	1
+omaha custom printing company	Color Print Graphics	1	1	1	1	1.000000000000	NULL	NULL	35	35	0.02857142857142857
+omaha driver	Brad Terrill	1	1	1	1	NULL	NULL	NULL	1	1	1
+omaha flyer printing company	Color Print Graphics	1	1	1	1	1.000000000000	NULL	NULL	35	35	0.02857142857142857
+omaha industry	insurance	1	1	1	1	NULL	NULL	NULL	8820	2250	0.00011337868480725624
+omaha museum	Joslyn Art Museum	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+omaha museum	Omaha Children's Museum	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omaha nebraska record storage service	records storage	1	1	2	2	1.000000000000	NULL	NULL	163	161	0.003067484662576687
+omaha nebraska record storage service	self-storage	1	1	2	2	1.000000000000	NULL	NULL	170	167	0.0029411764705882353
+omaha shirt	Women's Logo Hooded Grey Sweatshirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omaha shirt	Perennial Long Sleeve T-Shirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omaha shirt	Youth Sintic Short Sleeve Tee shirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omaha shirt	Men's Long Sleeve Gilbert Tee shirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omaha tribe record	allotment book	1	1	1	1	NULL	NULL	NULL	1	1	1
+omaha's beautiful non-motorized path	Keystone Trail	1	1	1	1	NULL	NULL	NULL	1	1	1
+omaha's largest employer	ConAgra	1	1	4	4	NULL	NULL	NULL	132	60	0.001893939393939394
+omaha's largest employer	Omaha Public Schools	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+omaha's largest employer	Nebraska Medical Center	1	1	4	4	NULL	NULL	NULL	5	3	0.05
+omaha's largest employer	Omaha Public Power District	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+omaha-area business	Union Pacific	1	1	2	2	NULL	NULL	NULL	97	49	0.005154639175257732
+omaha-area business	Blue Cross Blue Shield of Nebraska	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omain ending	net	1	1	1	1	NULL	NULL	NULL	892	371	0.0011210762331838565
+omain name	Yahoo.com	1	1	1	1	NULL	NULL	NULL	287	137	0.003484320557491289
+oman's coastal island	Daymaniyat Islands in the northern Arabian Sea	1	1	1	1	NULL	NULL	NULL	1	1	1
+oman's nature reserve	Arabian Oryx Sanctuary	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+oman's nature reserve	Jebel Samhan Nature Reserve	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oman's nature reserve	Saleel Nature Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oman's nature reserve	Ras al Hadd	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+oman's nature reserve	Damaniyat Islands	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+omance language	Spanish	1	1	4	4	NULL	NULL	NULL	2682	571	0.00009321401938851603
+omance language	Italian	1	1	4	4	NULL	NULL	NULL	1796	512	0.00013919821826280623
+omance language	French	1	1	4	4	NULL	NULL	NULL	3250	755	0.00007692307692307693
+omance language	Portuguese	1	1	4	4	NULL	NULL	NULL	551	140	0.00045372050816696913
+omani artefact	model boat	1	1	2	2	0.500000000000	NULL	NULL	9	10	0.05555555555555555
+omani artefact	jewellery	1	1	2	2	0.500000000000	NULL	NULL	2199	658	0.00022737608003638017
+omani club	Dhofar	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+omani club	Talea	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+omani club	Fanja	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+omani company	Bank Muscat	1	1	6	6	NULL	NULL	NULL	5	4	0.03333333333333333
+omani company	Oman Dry Dock	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+omani company	Omran	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+omani company	Nawras	1	1	6	6	NULL	NULL	NULL	5	4	0.03333333333333333
+omani company	Qalhat LNG	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+omani company	Oman Oil	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+omani dish	arsiya	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+omani dish	harees	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+omani handicraft	woven cloth	1	1	2	2	1.000000000000	NULL	NULL	34	30	0.014705882352941176
+omani handicraft	silver item	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+omani man	black	1	1	1	1	NULL	NULL	NULL	7897	1968	0.00012663036596175764
+omani motif	dagger	1	1	4	4	NULL	NULL	NULL	394	181	0.0006345177664974619
+omani motif	water	1	1	4	4	NULL	NULL	NULL	25348	6311	0.000009862711062016726
+omani motif	palm tree	1	1	4	4	NULL	NULL	NULL	230	146	0.0010869565217391304
+omani motif	oil	1	1	4	4	NULL	NULL	NULL	15331	4205	0.000016306829300110885
+omani mountain	Jabal Shams	1	1	1	1	NULL	NULL	NULL	1	1	1
+omani musicianz	Joey jo	1	1	1	1	NULL	NULL	NULL	1	1	1
+omani navigator	renowned Ahmed bin Majid	1	1	1	1	NULL	NULL	NULL	1	1	1
+omani seafarer	legendary Sinbad	1	1	1	1	NULL	NULL	NULL	1	1	1
+omans	Frisians Verritus	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMAP 3-based device	Palm Pre	1	1	1	1	NULL	NULL	NULL	83	35	0.012048192771084338
+omatedprograms	crawler	1	1	1	1	1.000000000000	NULL	NULL	29	22	0.034482758620689655
+omaticanalysis technique	machine learning	1	1	2	2	NULL	NULL	NULL	236	109	0.00211864406779661
+omaticanalysis technique	statistic	1	1	2	2	NULL	NULL	NULL	1378	492	0.000362844702467344
+omatingcertain task	authentication login	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMB directive	A-11 on budget preparation	1	1	1	1	NULL	NULL	NULL	1	1	1
+omb-specified cost	conversion cost	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+omb-specified cost	government contract administration	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+OMBA veteran	Kerri Blache	1	1	1	1	NULL	NULL	NULL	1	1	1
+ombers	Tu-22 Blinder	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ombers	Tu-95 Bear	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ombra characteristic	string tremolandi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ombra characteristic	key of G minor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ombrotrophic environment	bog	1	1	1	1	NULL	NULL	NULL	399	193	0.002506265664160401
+ombrotrophic organic wetland soil	bog	1	1	1	1	NULL	NULL	NULL	399	193	0.002506265664160401
+ombrotrophic peatlands	raised bog	1	1	1	1	1.000000000000	NULL	NULL	10	5	0.1
+ombuds duty	conflict management	1	0	1	1	NULL	NULL	NULL	249	115	0.004016064257028112
+ombudsman	National Taxpayer Advocate	2	2	11	10	0.666666666666	NULL	NULL	3	2	0.12121212121212122
+ombudsman	Consumer Ombudsman	1	1	11	10	0.666666666666	NULL	NULL	5	4	0.01818181818181818
+ombudsman	Ombudsman for Foreigners	1	1	11	10	0.666666666666	NULL	NULL	1	1	0.09090909090909091
+ombudsman	Equality Ombudsman	1	1	11	10	0.666666666666	NULL	NULL	1	1	0.09090909090909091
+ombudsman	Parliamentary Ombudsman	1	1	11	10	0.666666666666	NULL	NULL	6	5	0.015151515151515152
+ombudsman	Information Commissioner	1	1	11	10	0.666666666666	NULL	NULL	9	9	0.010101010101010102
+ombudsman	Pensions Ombudsman	1	1	11	10	0.666666666666	NULL	NULL	4	4	0.022727272727272728
+ombudsman	Youth Ombudsoffices	1	1	11	10	0.666666666666	NULL	NULL	1	1	0.09090909090909091
+ombudsman	Insurance Ombudsman	1	1	11	10	0.666666666666	NULL	NULL	2	2	0.045454545454545456
+ombudsman	Data Protection Ombudsman	1	1	11	10	0.666666666666	NULL	NULL	2	2	0.045454545454545456
+ombudsman office	Office of the Correctional Investigator	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ombudsman scheme	Financial Ombudsman Service	4	4	7	4	1.000000000000	NULL	NULL	12	9	0.19047619047619047
+ombudsman scheme	financial services scheme	1	1	7	4	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+ombudsman scheme	industry ombudsman scheme	1	1	7	4	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+ombudsman scheme	Credit Ombudsman Service Limited	1	1	7	4	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+ombudsman service	Financial Services Ombudsman	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+ombudsman service	Financial Ombudsman Service	1	1	4	4	1.000000000000	NULL	NULL	12	9	0.020833333333333332
+ombudsman service	Local Government Ombudsman	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+ombudsman service	Pensions Ombudsman	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+ombudsman volunteer	Judy Turk	1	1	1	1	NULL	NULL	NULL	1	1	1
+ombudsman's opinion issue	water meter	1	1	1	1	NULL	NULL	NULL	78	45	0.01282051282051282
+ombudsman's page	archive	1	1	1	1	NULL	NULL	NULL	376	198	0.0026595744680851063
+ombudsperson institution	independent Pensions Ombudsman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ombudsperson institution	Ombudsman for the Defense Forces	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ombustible material	concrete	1	1	1	1	NULL	NULL	NULL	5791	1660	0.0001726817475392851
+ombustion waste	process	2	2	6	3	0.333333333333	NULL	NULL	875	406	0.0007619047619047618
+ombustion waste	storm water	2	2	6	3	0.333333333333	NULL	NULL	67	51	0.009950248756218905
+ombustion waste	cooling	2	2	6	3	0.333333333333	NULL	NULL	602	329	0.0011074197120708748
+OMC engine	Johnson outboard	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+OMC instrument	objective	2	1	2	1	NULL	NULL	NULL	364	147	0.005494505494505495
+OMC product	cleaner every fall	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMC product	Carbon Guard	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omc's typical tool	recommendation	1	1	4	5	NULL	NULL	NULL	285	162	0.0008771929824561404
+omc's typical tool	benchmark	1	1	4	5	NULL	NULL	NULL	113	81	0.0022123893805309734
+omc's typical tool	indicator	1	1	4	5	NULL	NULL	NULL	314	145	0.0007961783439490446
+omc's typical tool	report	1	1	4	5	NULL	NULL	NULL	2947	1093	0.00008483203257550051
+omce application	graphics package	1	1	2	2	0.500000000000	NULL	NULL	32	22	0.015625
+omce application	spreadsheet	1	1	2	2	0.500000000000	NULL	NULL	2471	916	0.00020234722784297855
+OMCs	Indian Oil Corporation Ltd	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+OMCs	Hindustan Petroleum Corporation Ltd	1	1	3	3	0.500000000000	NULL	NULL	4	3	0.08333333333333333
+OMCs	Bharat Petroleum Corporation Ltd	1	1	3	3	0.500000000000	NULL	NULL	3	2	0.1111111111111111
+OMD client	Clorox	1	1	3	3	NULL	NULL	NULL	219	96	0.0015220700152207
+OMD client	PepsiCo	1	1	3	3	NULL	NULL	NULL	502	187	0.0006640106241699867
+OMD client	Monster.com	1	1	3	3	NULL	NULL	NULL	1082	259	0.0003080714725816389
+OMD polyphonic ringtone	MIDI ringtone	1	1	1	1	NULL	NULL	NULL	1	1	1
+omd's client	McDonald's Corp.	1	1	2	2	0.500000000000	NULL	NULL	55	26	0.00909090909090909
+omd's client	PepsiCo Inc.	1	1	2	2	0.500000000000	NULL	NULL	26	12	0.019230769230769232
+ome	UK's Equal Parenting Council	1	1	6	6	0.142857142857	NULL	NULL	1	1	0.16666666666666666
+ome	White	1	1	6	6	0.142857142857	NULL	NULL	6155	1632	0.000027078256160303277
+ome	Herbert Benson	1	1	6	6	0.142857142857	NULL	NULL	8	6	0.020833333333333332
+ome	glass	1	1	6	6	0.142857142857	NULL	NULL	12254	3248	0.000013601001033676079
+ome	salary	1	0	6	6	0.142857142857	NULL	NULL	2367	772	0.00007041261794113505
+ome	wage	1	0	6	6	0.142857142857	NULL	NULL	1338	491	0.00012456402590931738
+ome abduction phenomenon	levitation	1	1	2	2	0.500000000000	NULL	NULL	100	76	0.005
+ome abduction phenomenon	telepathic communication	1	1	2	2	0.500000000000	NULL	NULL	9	8	0.05555555555555555
+ome academic discipline	economics	1	1	1	1	NULL	NULL	NULL	3114	788	0.0003211303789338471
+ome action	estuary restoration project	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ome activity	sponsorship of event	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ome activity	product endorsement	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+ome animal	spider	1	1	5	5	NULL	NULL	NULL	1802	524	0.00011098779134295228
+ome animal	crab	1	1	5	5	NULL	NULL	NULL	2211	674	0.00009045680687471733
+ome animal	fish	1	1	5	5	NULL	NULL	NULL	12757	2977	0.00001567766716312613
+ome animal	salmon	1	1	5	5	NULL	NULL	NULL	9653	1413	0.000020718947477468147
+ome animal	turtle	1	1	5	5	NULL	NULL	NULL	1614	486	0.00012391573729863693
+ome antidepressant	Prozac	1	1	1	1	NULL	NULL	NULL	2041	325	0.0004899559039686428
+ome application	PokerNite 10.3	1	1	2	2	1.000000000000	NULL	NULL	13	2	0.038461538461538464
+ome application	office suite	1	1	2	2	1.000000000000	NULL	NULL	56	34	0.008928571428571428
+OME aquatic animal	tuna	1	1	1	1	NULL	NULL	NULL	5546	1115	0.00018031013342949875
+ome aquatic turtle	soft-shelled turtle	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+ome aquatic turtle	snapping turtle	1	1	2	2	0.500000000000	NULL	NULL	91	37	0.005494505494505495
+ome area	Southwest	1	1	1	1	NULL	NULL	NULL	809	201	0.0012360939431396785
+ome balance sheet asset	land	1	1	1	1	NULL	NULL	NULL	2765	917	0.0003616636528028933
+ome bank	United Bank of India	1	1	1	1	1.000000000000	NULL	NULL	18	10	0.05555555555555555
+ome beijing local special product	Huairou chestnut	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ome beijing local special product	Daxing watermelon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ome beijing local special product	Pinggu peach	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ome bioethicists	Baruch Brody	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+ome bird	kestrel	1	1	1	1	NULL	NULL	NULL	181	51	0.0055248618784530384
+ome brand	Ralph Lauren	2	1	2	1	NULL	NULL	NULL	1263	386	0.001583531274742676
+ome c ountries	Bolivia	1	1	3	3	NULL	NULL	NULL	1363	192	0.00024455857177794083
+ome c ountries	Zaire	1	1	3	3	NULL	NULL	NULL	152	53	0.0021929824561403508
+ome c ountries	Sudan	1	1	3	3	NULL	NULL	NULL	1708	346	0.000195160031225605
+ome care	nanny	1	1	2	2	NULL	NULL	NULL	193	129	0.0025906735751295338
+ome care	administering fluid	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ome case dissuasive measure	congestion charging	1	1	1	1	1.000000000000	NULL	NULL	40	33	0.025
+ome Castle Wilderness species	swift fox	1	1	5	5	0.200000000000	NULL	NULL	39	17	0.005128205128205128
+ome Castle Wilderness species	peregrine falcon	1	1	5	5	0.200000000000	NULL	NULL	296	80	0.0006756756756756757
+ome Castle Wilderness species	bison	1	1	5	5	0.200000000000	NULL	NULL	778	263	0.00025706940874035993
+ome Castle Wilderness species	river otter	1	1	5	5	0.200000000000	NULL	NULL	199	73	0.0010050251256281408
+ome Castle Wilderness species	fisher	1	1	5	5	0.200000000000	NULL	NULL	286	125	0.0006993006993006993
+ome chronic illness	arthritis	1	1	3	3	NULL	NULL	NULL	6085	1050	0.00005477951246233908
+ome chronic illness	asthma	1	1	3	3	NULL	NULL	NULL	8602	1433	0.00003875067813686739
+ome chronic illness	diabetes	1	1	3	3	NULL	NULL	NULL	23990	3013	0.00001389467833819647
+ome civilization	Harappans of the Indus Valley	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome colony	Defense Colony	1	1	4	4	1.000000000000	NULL	NULL	8	7	0.03125
+ome colony	Sunder Nagar	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+ome colony	Golf Links	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+ome colony	Nizamuddin	1	1	4	4	1.000000000000	NULL	NULL	7	4	0.03571428571428571
+ome community	neuroimaging researcher	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome company	NRG	1	1	1	1	1.000000000000	NULL	NULL	33	23	0.030303030303030304
+ome concept	art orientation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome condition	HIV	1	1	2	2	NULL	NULL	NULL	3465	701	0.0001443001443001443
+ome condition	point in the life cycle	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+ome cool season plant	kale	1	1	8	8	NULL	NULL	NULL	4725	764	0.000026455026455026456
+ome cool season plant	beet	1	1	8	8	NULL	NULL	NULL	2219	557	0.00005633168093735917
+ome cool season plant	sugar snap pea	1	1	8	8	NULL	NULL	NULL	79	41	0.0015822784810126582
+ome cool season plant	cauliflower	1	1	8	8	NULL	NULL	NULL	4013	718	0.00003114876650884625
+ome cool season plant	spinach	1	1	8	8	NULL	NULL	NULL	8593	1370	0.000014546724077737694
+ome cool season plant	carrot	1	1	8	8	NULL	NULL	NULL	10459	2027	0.000011951429390955158
+ome cool season plant	lettuce	1	1	8	8	NULL	NULL	NULL	5133	1104	0.00002435223066432885
+ome cool season plant	onion	1	1	8	8	NULL	NULL	NULL	7041	1523	0.000017753160062491125
+ome country	Peru	1	1	6	6	NULL	NULL	NULL	2244	298	0.0000742721330956625
+ome country	France	1	1	6	6	NULL	NULL	NULL	18997	2318	0.000008773315084837957
+ome country	Afghanistan	1	1	6	6	NULL	NULL	NULL	2457	601	0.0000678334011667345
+ome country	Korea	1	1	6	6	NULL	NULL	NULL	4199	730	0.00003969199015638644
+ome country	Thailand	1	1	6	6	NULL	NULL	NULL	6705	938	0.00002485707183693761
+ome country	China	1	1	6	6	NULL	NULL	NULL	30422	3640	0.0000054784914425963665
+ome court	Pogradec District Court	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome creationist	Philip Hefner	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome deciduous tree	walnut	1	1	1	1	NULL	NULL	NULL	3845	927	0.0002600780234070221
+ome drug	etoposide	1	1	2	2	NULL	NULL	NULL	283	99	0.0017667844522968198
+ome drug	thalidomide	1	1	2	2	NULL	NULL	NULL	351	128	0.0014245014245014246
+ome economist	Vincent Reinhart	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome ef fects	i n-depth r a di a tion ab sorp tion	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome effort	UNCTAD's Business Linkages program	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome energy market analyst	economist James Williams of WTRG Economics	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome entity	Washington State Association of Municipal Attorneys	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome entity	Washington State Association of Prosecuting Attorneys	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome expression	fighting word	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+ome extraneous factor	luck	1	1	1	1	NULL	NULL	NULL	201	83	0.004975124378109453
+ome factor	cost	1	1	3	3	0.333333333333	NULL	NULL	6746	1419	0.00004941199723292815
+ome factor	ease of administration	1	1	3	3	0.333333333333	NULL	NULL	38	17	0.008771929824561403
+ome factor	side effect	1	1	3	3	0.333333333333	NULL	NULL	161	81	0.0020703933747412005
+ome fan	range hood	1	1	1	1	0.500000000000	NULL	NULL	105	42	0.009523809523809525
+ome fat	trans fat	1	1	2	2	0.500000000000	NULL	NULL	182	64	0.0027472527472527475
+ome fat	saturated	1	1	2	2	0.500000000000	NULL	NULL	68	16	0.007352941176470588
+ome feature	rib support	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome feature	screw boss	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ome firewall	ZoneAlarm	2	1	2	1	NULL	NULL	NULL	305	103	0.006557377049180328
+ome firm	Stora Enso	1	1	4	4	NULL	NULL	NULL	40	29	0.00625
+ome firm	Lycos	1	1	4	4	NULL	NULL	NULL	373	135	0.0006702412868632708
+ome firm	Swedish forest products company	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ome firm	Infoseek	1	1	4	4	NULL	NULL	NULL	136	50	0.001838235294117647
+ome fledgling technology	wave power	1	1	1	1	NULL	NULL	NULL	64	37	0.015625
+ome food	eating large amounts of soy	1	0	1	1	NULL	NULL	NULL	2	2	0.5
+ome group	Mormons	2	2	3	2	NULL	NULL	NULL	424	126	0.003144654088050314
+ome group	software quality assurance group	1	1	3	2	NULL	NULL	NULL	3	2	0.1111111111111111
+ome guru	Madurai Muralidharan	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome gymnosperm tree	cycads	1	1	1	1	1.000000000000	NULL	NULL	98	36	0.01020408163265306
+ome historian	Niall Fergusson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome historian	Jakob B URCKHARDT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome hostility	insurgency	1	1	2	2	NULL	NULL	NULL	39	24	0.01282051282051282
+ome hostility	civil war	1	1	2	2	NULL	NULL	NULL	487	239	0.001026694045174538
+ome imbers	bony	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+ome indicator	short-term Stochastics	1	1	1	1	NULL	NULL	NULL	6	2	0.16666666666666666
+ome industry	manufacturing	1	1	1	1	NULL	NULL	NULL	4573	1084	0.00021867483052700635
+ome inhibitor	silicate	1	1	1	1	NULL	NULL	NULL	474	234	0.002109704641350211
+ome inorganic detergent ingredient	zeolites	1	1	2	2	NULL	NULL	NULL	509	231	0.0009823182711198428
+ome inorganic detergent ingredient	phosphate	1	1	2	2	NULL	NULL	NULL	1859	648	0.00026896180742334586
+ome insect	cockroach	1	1	2	2	NULL	NULL	NULL	1013	229	0.0004935834155972359
+ome insect	ant	1	1	2	2	NULL	NULL	NULL	1658	410	0.00030156815440289503
+ome jurisdiction	Italy	1	1	4	4	NULL	NULL	NULL	10580	1406	0.000023629489603024576
+ome jurisdiction	Turkey	1	1	4	4	NULL	NULL	NULL	7587	1715	0.00003295110056675893
+ome jurisdiction	Egypt	1	1	4	4	NULL	NULL	NULL	5386	987	0.00004641663572224285
+ome jurisdiction	Greece	1	1	4	4	NULL	NULL	NULL	4688	768	0.00005332764505119454
+ome land bird	vulture	1	1	2	2	NULL	NULL	NULL	348	95	0.0014367816091954023
+ome land bird	certain hawk	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ome language	French	1	1	1	1	NULL	NULL	NULL	3250	755	0.0003076923076923077
+ome lemur species	dwarf	1	1	2	2	0.500000000000	NULL	NULL	169	81	0.0029585798816568047
+ome lemur species	mouse lemur	1	1	2	2	0.500000000000	NULL	NULL	14	9	0.03571428571428571
+ome local government	El Cerrito	1	1	2	2	0.500000000000	NULL	NULL	9	7	0.05555555555555555
+ome local government	California	1	1	2	2	0.500000000000	NULL	NULL	14491	1396	0.00003450417500517563
+ome lung disease	tuberculosis	1	1	1	1	NULL	NULL	NULL	3768	738	0.0002653927813163482
+ome market	San Diego	1	1	2	2	0.500000000000	NULL	NULL	1260	337	0.0003968253968253968
+ome market	southern Florida	1	1	2	2	0.500000000000	NULL	NULL	59	28	0.00847457627118644
+ome mature information technology	enterprise resource-planning system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome mature information technology	relational database	1	1	2	2	NULL	NULL	NULL	193	113	0.0025906735751295338
+ome medicine	cimetidine	1	1	1	1	NULL	NULL	NULL	726	175	0.0013774104683195593
+ome member state	Spain	1	0	2	2	NULL	NULL	NULL	9967	1404	0.00005016554630279924
+ome member state	Germany	1	0	2	2	NULL	NULL	NULL	19646	2312	0.000025450473378804846
+ome misconduct	lying under oath	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+OME modern scholar	Alexander Golitzin	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome non-infectious disorder	polycystic kidney disease	1	1	1	1	NULL	NULL	NULL	105	53	0.009523809523809525
+ome observer	Jennie Drage Bowser	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome OPEC member state	Nigeria	1	1	1	1	NULL	NULL	NULL	3333	572	0.00030003000300030005
+ome patent holder	university researcher	3	3	5	2	1.000000000000	NULL	NULL	17	10	0.10588235294117646
+ome patent holder	self-made inventor	2	2	5	2	1.000000000000	NULL	NULL	7	2	0.1142857142857143
+ome Pencil species	Caribbean species Eucidaris tribuloides	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome person	people with communication diffi culties	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome place	Boripe Local Government Area	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome plant	spinach	1	1	3	3	NULL	NULL	NULL	8593	1370	0.000038791264207300516
+ome plant	alfalfa	1	1	3	3	NULL	NULL	NULL	2310	651	0.0001443001443001443
+ome plant	citrus	1	1	3	3	NULL	NULL	NULL	1417	526	0.00023523876734885907
+ome potato variety	Russet Burbanks	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ome practice	nutrient management	1	1	2	2	NULL	NULL	NULL	76	42	0.006578947368421052
+ome practice	improved irrigation efficiency	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+ome process	organ failure	1	1	2	2	NULL	NULL	NULL	64	42	0.0078125
+ome process	cancer	1	1	2	2	NULL	NULL	NULL	12145	2003	0.000041169205434335116
+ome product	whole egg	1	1	1	1	NULL	NULL	NULL	221	38	0.004524886877828055
+ome protein-rich food	fish	1	1	3	3	NULL	NULL	NULL	12757	2977	0.000026129445271876875
+ome protein-rich food	egg	1	1	3	3	NULL	NULL	NULL	9254	1960	0.00003602045962106476
+ome protein-rich food	meat	1	1	3	3	NULL	NULL	NULL	9410	1886	0.000035423308537017356
+ome protocol	annual Christmas	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome religious group	National Coalition of American Nuns	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome renovation	fixing a kitchen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ome renovation	bathroom	1	1	2	2	NULL	NULL	NULL	3009	920	0.00016616816218012627
+ome saint	Macarius the Great	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome scientist	Stephen Hawking	1	1	1	1	NULL	NULL	NULL	143	62	0.006993006993006993
+ome site	Hulu	1	1	3	3	NULL	NULL	NULL	669	257	0.0004982561036372695
+ome site	network one	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ome site	Wrong Diagnosis	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+ome species	crayfish	1	1	2	2	0.500000000000	NULL	NULL	508	204	0.000984251968503937
+ome species	snowy grouper	1	1	2	2	0.500000000000	NULL	NULL	18	9	0.027777777777777776
+ome state	California	1	1	2	2	NULL	NULL	NULL	14491	1396	0.00003450417500517563
+ome state	New York	1	1	2	2	NULL	NULL	NULL	13310	1915	0.00003756574004507889
+ome supplement	amino acid	1	1	1	1	NULL	NULL	NULL	2111	741	0.0004737091425864519
+ome task	hunting	1	1	3	3	NULL	NULL	NULL	3586	952	0.00009295408068414203
+ome task	navigation	1	1	3	3	NULL	NULL	NULL	1419	591	0.00023490721165139768
+ome task	importing image	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ome theory	modernization theory	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+ome topic	Apologetics	1	1	2	3	1.000000000000	NULL	NULL	24	12	0.020833333333333332
+ome topic	Christian Life & Ministry	1	1	2	3	1.000000000000	NULL	NULL	1	1	0.5
+ome treatment	mild fruit peel	1	1	1	1	NULL	NULL	NULL	1	1	1
+ome treatment process	activated charcoal filtration	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome type	psychotic depression	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+ome U. S. diocese	Boston	1	1	4	4	NULL	NULL	NULL	3077	695	0.00008124796880077999
+ome U. S. diocese	New York	1	1	4	4	NULL	NULL	NULL	13310	1915	0.000018782870022539446
+ome U. S. diocese	San Francisco	1	1	4	4	NULL	NULL	NULL	3664	789	0.00006823144104803493
+ome U. S. diocese	Washington	1	1	4	4	NULL	NULL	NULL	4211	716	0.000059368321063880314
+ome vegetable	celery	1	1	3	3	NULL	NULL	NULL	3210	729	0.00010384215991692627
+ome vegetable	zucchini	1	1	3	3	NULL	NULL	NULL	1494	435	0.00022311468094600624
+ome vegetable	cucumber	1	1	3	3	NULL	NULL	NULL	3938	1031	0.00008464533604198409
+ome wastewater option	non potable water	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ome water leak	dripping faucet	1	1	1	1	NULL	NULL	NULL	57	32	0.017543859649122806
+ome watering system	sprinkler	1	1	1	1	NULL	NULL	NULL	356	210	0.0028089887640449437
+ome word	color	1	1	1	1	NULL	NULL	NULL	11347	3399	0.00008812902088657794
+ome-associated protein	glyceraldehyde-3-phosphate dehydrogenase	1	1	1	1	1.000000000000	NULL	NULL	30	14	0.03333333333333333
+ome-grown system	internal spreadsheet	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+ome-producing property	national forest	1	1	1	1	NULL	NULL	NULL	91	41	0.01098901098901099
+omebenevolent ruler	Henry VI	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+omedbythemuseumdirectorandsomeoth-er official	cultural deputy of the province of Noord-Holland	1	1	1	1	NULL	NULL	NULL	1	1	1
+omega	fish	1	1	4	4	NULL	NULL	NULL	12757	2977	0.000019597083953907657
+omega	white Omega Seamaster GMT	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega	Omega-3	1	1	4	4	NULL	NULL	NULL	451	88	0.0005543237250554324
+omega	found in plain flax oil	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega 3-fats	fish oil	1	1	1	1	NULL	NULL	NULL	1468	390	0.0006811989100817438
+omega 3-rich fatty acid	fish oil	1	1	1	1	NULL	NULL	NULL	1468	390	0.0006811989100817438
+omega 3-rich fish	trout	1	1	2	2	NULL	NULL	NULL	2148	455	0.00023277467411545624
+omega 3-rich fish	salmon	1	1	2	2	NULL	NULL	NULL	9653	1413	0.00005179736869367036
+omega 3-rich food	mackerel	1	1	5	5	NULL	NULL	NULL	4148	508	0.000048216007714561236
+omega 3-rich food	fresh fish	1	1	5	5	NULL	NULL	NULL	152	93	0.0013157894736842105
+omega 3-rich food	walnut	1	1	5	5	NULL	NULL	NULL	3845	927	0.000052015604681404424
+omega 3-rich food	flaxseed oil	1	1	5	5	NULL	NULL	NULL	403	128	0.0004962779156327543
+omega 3-rich food	pumpkin seed	1	1	5	5	NULL	NULL	NULL	378	119	0.0005291005291005291
+Omega 3-rich oily fish	mackerel	1	1	2	2	NULL	NULL	NULL	4148	508	0.00012054001928640309
+Omega 3-rich oily fish	sardine	1	1	2	2	NULL	NULL	NULL	3242	488	0.00015422578655151142
+omega 3s	flax seed	1	1	4	4	NULL	NULL	NULL	440	157	0.0005681818181818182
+omega 3s	fish oil	1	1	4	4	NULL	NULL	NULL	1468	390	0.00017029972752043596
+omega 3s	flaxseed oil	1	1	4	4	NULL	NULL	NULL	403	128	0.0006203473945409429
+omega 3s	fish	1	1	4	4	NULL	NULL	NULL	12757	2977	0.000019597083953907657
+Omega 6s	safflower oil	1	1	1	1	NULL	NULL	NULL	355	114	0.0028169014084507044
+omega acid	essential omega acid	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omega component	Vitamin K	1	1	1	1	0.333333333333	NULL	NULL	227	65	0.004405286343612335
+omega dietary supplement	fish oil	1	1	2	2	NULL	NULL	NULL	1468	390	0.0003405994550408719
+omega dietary supplement	flaxseed	1	1	2	2	NULL	NULL	NULL	580	194	0.0008620689655172414
+omega fatty acid	omega-6	2	2	18	15	0.307692307692	NULL	NULL	88	23	0.002525252525252525
+omega fatty acid	omega 6	2	2	18	15	0.307692307692	NULL	NULL	47	21	0.004728132387706856
+omega fatty acid	walnut	2	2	18	15	0.307692307692	NULL	NULL	3845	927	0.000057795116312671576
+omega fatty acid	good omega fatty acid	1	1	18	15	0.307692307692	NULL	NULL	3	3	0.018518518518518517
+omega fatty acid	flaxseed	1	1	18	15	0.307692307692	NULL	NULL	580	194	0.00009578544061302681
+omega fatty acid	salmon	1	1	18	15	0.307692307692	NULL	NULL	9653	1413	0.0000057552631881855956
+omega fatty acid	deep ocean fish	1	1	18	15	0.307692307692	NULL	NULL	2	2	0.027777777777777776
+omega fatty acid	almond	1	1	18	15	0.307692307692	NULL	NULL	4195	930	0.000013243279035889286
+omega fatty acid	pumpkin seed	1	1	18	15	0.307692307692	NULL	NULL	378	119	0.00014697236919459142
+omega fatty acid	macadamia nut	1	1	18	15	0.307692307692	NULL	NULL	217	96	0.0002560163850486431
+omega fatty acid	freshwater fish	1	1	18	15	0.307692307692	NULL	NULL	40	28	0.0013888888888888887
+omega fatty acid	aloe vera juice	1	1	18	15	0.307692307692	NULL	NULL	52	37	0.0010683760683760683
+omega fatty acid	fish oil	1	1	18	15	0.307692307692	NULL	NULL	1468	390	0.000037844383893430214
+omega fatty acid	found in flax seed	1	1	18	15	0.307692307692	NULL	NULL	1	1	0.05555555555555555
+omega fatty acid	omega 3	1	1	18	15	0.307692307692	NULL	NULL	333	91	0.00016683350016683348
+Omega fatty acid supplement	fish	1	1	2	2	0.333333333333	NULL	NULL	12757	2977	0.000039194167907815315
+Omega fatty acid supplement	fish oil	1	1	2	2	0.333333333333	NULL	NULL	1468	390	0.0003405994550408719
+omega level mutant	Jean Grey	1	1	1	1	1.000000000000	NULL	NULL	25	15	0.04
+omega oil	fish oil	3	3	13	12	0.571428571428	NULL	NULL	1468	390	0.0004715992454412073
+omega oil	fish oil borage	1	1	13	12	0.571428571428	NULL	NULL	1	1	0.07692307692307693
+omega oil	Cool Oil	1	1	13	12	0.571428571428	NULL	NULL	3	3	0.025641025641025644
+omega oil	Cod Liver	1	1	13	12	0.571428571428	NULL	NULL	28	17	0.0027472527472527475
+omega oil	Omega-6	1	1	13	12	0.571428571428	NULL	NULL	88	23	0.0008741258741258741
+omega oil	omega3	1	1	13	12	0.571428571428	NULL	NULL	14	9	0.005494505494505495
+omega oil	Omega 3 Fish Oils	1	1	13	12	0.571428571428	NULL	NULL	1	1	0.07692307692307693
+omega oil	omega-3 fatty acid found in fish	1	1	13	12	0.571428571428	NULL	NULL	1	1	0.07692307692307693
+omega oil	Flax	1	1	13	12	0.571428571428	NULL	NULL	1124	392	0.00006843690117711471
+omega oil	Udo's Oil	1	1	13	12	0.571428571428	NULL	NULL	2	2	0.038461538461538464
+omega oil	evening primrose oil	1	1	13	12	0.571428571428	NULL	NULL	402	130	0.00019135093761959434
+omega oil supplement	cod liver oil	1	1	1	1	NULL	NULL	NULL	296	100	0.0033783783783783786
+Omega rich fish	trout	1	1	2	2	NULL	NULL	NULL	2148	455	0.00023277467411545624
+Omega rich fish	salmon	1	1	2	2	NULL	NULL	NULL	9653	1413	0.00005179736869367036
+omega rich food	can of salmon	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+omega rich food	walnut	1	1	4	4	NULL	NULL	NULL	3845	927	0.00006501950585175553
+omega rich food	sardine	1	1	4	4	NULL	NULL	NULL	3242	488	0.00007711289327575571
+omega rich food	flax seed	1	1	4	4	NULL	NULL	NULL	440	157	0.0005681818181818182
+omega rich ingredient	Argan	1	1	2	2	0.500000000000	NULL	NULL	22	17	0.022727272727272728
+omega rich ingredient	Hemp oil	1	1	2	2	0.500000000000	NULL	NULL	59	39	0.00847457627118644
+omega source	vegetable omega source	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Omega supplement	fish oil	3	3	6	4	NULL	NULL	NULL	1468	390	0.0010217983651226157
+Omega supplement	Flax	1	1	6	4	NULL	NULL	NULL	1124	392	0.00014827995255041517
+Omega supplement	Hemp oil	1	1	6	4	NULL	NULL	NULL	59	39	0.002824858757062147
+Omega supplement	Flaxseed	1	1	6	4	NULL	NULL	NULL	580	194	0.00028735632183908046
+omega watch	Omega Seamaster Professional chronometer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omega watch	Seasmaster quartz professional Omega	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omega-3 acid	stearidonic acid	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+omega-3 acid	docosahexanoic acid	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+omega-3 addition	flax oil	1	1	2	2	NULL	NULL	NULL	140	72	0.0035714285714285713
+omega-3 addition	fish oil	1	1	2	2	NULL	NULL	NULL	1468	390	0.0003405994550408719
+omega-3 addition eating dairy product	yogurt	1	1	1	1	NULL	NULL	NULL	5394	1123	0.0001853911753800519
+omega-3 benefit	reducing the risk of heart disease	1	1	1	1	NULL	NULL	NULL	12	5	0.08333333333333333
+omega-3 DHA marine product	omega-3 fatty acid	1	1	1	1	NULL	NULL	NULL	385	108	0.0025974025974025974
+omega-3 dietary supplement	fish oil	1	1	2	2	0.500000000000	NULL	NULL	1468	390	0.0003405994550408719
+omega-3 dietary supplement	seal oil	1	1	2	2	0.500000000000	NULL	NULL	37	14	0.013513513513513514
+omega-3 enriched food	milk	2	2	7	6	0.166666666666	NULL	NULL	11681	2213	0.00004891949074810131
+omega-3 enriched food	mackerel	1	1	7	6	0.166666666666	NULL	NULL	4148	508	0.00003444000551040088
+omega-3 enriched food	yogurt	1	1	7	6	0.166666666666	NULL	NULL	5394	1123	0.0000264844536257217
+omega-3 enriched food	tuna	1	1	7	6	0.166666666666	NULL	NULL	5546	1115	0.00002575859048992839
+omega-3 enriched food	yogourt	1	1	7	6	0.166666666666	NULL	NULL	15	12	0.009523809523809523
+omega-3 enriched food	salmon	1	1	7	6	0.166666666666	NULL	NULL	9653	1413	0.00001479924819819153
+omega-3 enriched product introduction	Woodstock Water Buffalo Yogurt	1	1	1	1	NULL	NULL	NULL	1	1	1
+omega-3 essential fatty acid	flaxseed oil	8	6	15	5	0.200000000000	NULL	NULL	403	128	0.010587262200165426
+omega-3 essential fatty acid	Docosahexaenoic acid	3	2	15	5	0.200000000000	NULL	NULL	170	47	0.003529411764705883
+omega-3 essential fatty acid	eicosapentaenoic acid	2	2	15	5	0.200000000000	NULL	NULL	159	45	0.0016771488469601676
+omega-3 essential fatty acid	evening primrose oil	1	1	15	5	0.200000000000	NULL	NULL	402	130	0.0001658374792703151
+omega-3 essential fatty acid	fish oil	1	1	15	5	0.200000000000	NULL	NULL	1468	390	0.00004541326067211626
+omega-3 fat	fish oil	6	6	26	17	0.066666666666	NULL	NULL	1468	390	0.0009431984908824146
+omega-3 fat	docosahexaenoic acid	3	3	26	17	0.066666666666	NULL	NULL	170	47	0.0020361990950226246
+omega-3 fat	flax	2	2	26	17	0.066666666666	NULL	NULL	1124	392	0.00013687380235422942
+omega-3 fat	salmon	2	2	26	17	0.066666666666	NULL	NULL	9653	1413	0.00001593765190574473
+omega-3 fat	trout	1	1	26	17	0.066666666666	NULL	NULL	2148	455	0.000017905744162727403
+omega-3 fat	fish	1	1	26	17	0.066666666666	NULL	NULL	12757	2977	0.000003014935992908871
+omega-3 fat	flax oil	1	1	26	17	0.066666666666	NULL	NULL	140	72	0.0002747252747252747
+omega-3 fat	canola	1	1	26	17	0.066666666666	NULL	NULL	1797	461	0.000021403193356448784
+omega-3 fat	form alpha-linolenic acid found in walnut	1	1	26	17	0.066666666666	NULL	NULL	1	1	0.038461538461538464
+omega-3 fat	borage	1	1	26	17	0.066666666666	NULL	NULL	253	86	0.00015202189115232594
+omega-3 fat	ground flaxseed	1	1	26	17	0.066666666666	NULL	NULL	18	16	0.002136752136752137
+omega-3 fat	walnut	1	1	26	17	0.066666666666	NULL	NULL	3845	927	0.000010003000900270082
+omega-3 fat	flax seed oil	1	1	26	17	0.066666666666	NULL	NULL	184	73	0.00020903010033444818
+omega-3 fat	avocado	1	1	26	17	0.066666666666	NULL	NULL	3431	888	0.00001121000829540614
+omega-3 fat	fish oil docosahexaenoic acid	1	1	26	17	0.066666666666	NULL	NULL	1	1	0.038461538461538464
+omega-3 fat	canola oil	1	1	26	17	0.066666666666	NULL	NULL	874	248	0.0000440063369125154
+omega-3 fat	sardine	1	1	26	17	0.066666666666	NULL	NULL	3242	488	0.000011863522042423956
+omega-3 fat fatty fish	tuna	1	1	3	3	NULL	NULL	NULL	5546	1115	0.00006010337780983291
+omega-3 fat fatty fish	salmon	1	1	3	3	NULL	NULL	NULL	9653	1413	0.000034531579129113573
+omega-3 fat fatty fish	sardine	1	1	3	3	NULL	NULL	NULL	3242	488	0.00010281719103434094
+omega-3 fat oily fish	mackerel	1	1	3	3	NULL	NULL	NULL	4148	508	0.00008036001285760205
+omega-3 fat oily fish	sardine	1	1	3	3	NULL	NULL	NULL	3242	488	0.00010281719103434094
+omega-3 fat oily fish	salmon	1	1	3	3	NULL	NULL	NULL	9653	1413	0.000034531579129113573
+omega-3 fat rich food	oily fish	1	1	2	2	NULL	NULL	NULL	194	58	0.002577319587628866
+omega-3 fat rich food	whole grain	1	1	2	2	NULL	NULL	NULL	3599	679	0.0001389274798555154
+omega-3 fat source	pumpkin seed	1	1	7	7	NULL	NULL	NULL	378	119	0.00037792894935752074
+omega-3 fat source	golden bass	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+omega-3 fat source	salmon	1	1	7	7	NULL	NULL	NULL	9653	1413	0.00001479924819819153
+omega-3 fat source	shark	1	1	7	7	NULL	NULL	NULL	2233	616	0.00006397543343356151
+omega-3 fat source	flax	1	1	7	7	NULL	NULL	NULL	1124	392	0.00012709710218607016
+omega-3 fat source	swordfish	1	1	7	7	NULL	NULL	NULL	1196	336	0.00011944577161968466
+omega-3 fat source	king mackerel	1	1	7	7	NULL	NULL	NULL	283	76	0.0005047955577990914
+omega-3 fat supplement	krill oil	1	1	2	2	0.500000000000	NULL	NULL	40	24	0.0125
+omega-3 fat supplement	fish oil	1	1	2	2	0.500000000000	NULL	NULL	1468	390	0.0003405994550408719
+omega-3 fatty acid	fish oil	119	53	261	55	0.424242424242	NULL	NULL	1468	390	0.03695960829757691
+omega-3 fatty acid	docosahexaenoic acid	35	27	261	55	0.424242424242	NULL	NULL	170	47	0.027608744647284203
+omega-3 fatty acid	eicosapentaenoic acid	33	28	261	55	0.424242424242	NULL	NULL	159	45	0.026241596183040557
+omega-3 fatty acid	flaxseed	9	9	261	55	0.424242424242	NULL	NULL	580	194	0.000535077288941736
+omega-3 fatty acid	alpha-linolenic acid	8	4	261	55	0.424242424242	NULL	NULL	35	14	0.007006020799124247
+omega-3 fatty acid	flaxseed oil	3	3	261	55	0.424242424242	NULL	NULL	403	128	0.00008556515786771627
+omega-3 fatty acid	alpha-linoleic acid	2	2	261	55	0.424242424242	NULL	NULL	2	1	0.007662835249042145
+omega-3 fatty acid	tuna	2	2	261	55	0.424242424242	NULL	NULL	5546	1115	0.0000027633736924061107
+omega-3 fatty acid	found in fish oil	2	2	261	55	0.424242424242	NULL	NULL	3	2	0.005108556832694763
+omega-3 fatty acid	1-2 capsule	2	2	261	55	0.424242424242	NULL	NULL	2	1	0.007662835249042145
+omega-3 fatty acid	alpha linolenic acid	2	2	261	55	0.424242424242	NULL	NULL	8	3	0.0019157088122605363
+omega-3 fatty acid	ALA in flaxseed meal	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	eicosapenae no i c acid a n d docosahexaenoic acid from fatty fish	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	Eicosapentanoic acid	1	1	261	55	0.424242424242	NULL	NULL	8	6	0.0004789272030651341
+omega-3 fatty acid	eicosapenaenoic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	eicoapentaenoic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	type found in linseed	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	certain fish	1	1	261	55	0.424242424242	NULL	NULL	26	18	0.00014736221632773356
+omega-3 fatty acid	chain omega-3 fatty acid	1	1	261	55	0.424242424242	NULL	NULL	3	3	0.0012771392081736908
+omega-3 fatty acid	long-chain omega-3 fatty acid	1	1	261	55	0.424242424242	NULL	NULL	3	3	0.0012771392081736908
+omega-3 fatty acid	long chain omega-3 fatty acid	1	1	261	55	0.424242424242	NULL	NULL	3	3	0.0012771392081736908
+omega-3 fatty acid	Omacor	1	1	261	55	0.424242424242	NULL	NULL	3	3	0.0012771392081736908
+omega-3 fatty acid	oc-linolenic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	olive oil	1	1	261	55	0.424242424242	NULL	NULL	4372	1099	0.000000876353528024033
+omega-3 fatty acid	found in linolenic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	found in sardine	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	flax seed oil	1	1	261	55	0.424242424242	NULL	NULL	184	73	0.000020822921872397133
+omega-3 fatty acid	flax	1	1	261	55	0.424242424242	NULL	NULL	1124	392	0.0000034087345413888545
+omega-3 fatty acid	avocado	1	1	261	55	0.424242424242	NULL	NULL	3431	888	0.0000011167058072052092
+omega-3 fatty acid	high quality fish oil	1	1	261	55	0.424242424242	NULL	NULL	2	2	0.0019157088122605363
+omega-3 fatty acid	linoleic	1	1	261	55	0.424242424242	NULL	NULL	100	29	0.000038314176245210727
+omega-3 fatty acid	krill oil	1	1	261	55	0.424242424242	NULL	NULL	40	24	0.00009578544061302681
+omega-3 fatty acid	docosohexaenoic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	fatty fish	1	1	261	55	0.424242424242	NULL	NULL	146	41	0.000026242586469322416
+omega-3 fatty acid	flax seed	1	1	261	55	0.424242424242	NULL	NULL	440	157	0.000008707767328456983
+omega-3 fatty acid	cold-water fish	1	1	261	55	0.424242424242	NULL	NULL	32	19	0.00011973180076628352
+omega-3 fatty acid	vates the insulin receptor kinase	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	octadecatetraenoic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	parenteral omega-3 fatty acid	1	1	261	55	0.424242424242	NULL	NULL	3	3	0.0012771392081736908
+omega-3 fatty acid	over-the-counter supplements containing fish oil	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	cod-liver oil	1	1	261	55	0.424242424242	NULL	NULL	35	19	0.00010946907498631636
+omega-3 fatty acid	fish	1	1	261	55	0.424242424242	NULL	NULL	12757	2977	0.00000030033845140088364
+omega-3 fatty acid	flax oil	1	1	261	55	0.424242424242	NULL	NULL	140	72	0.00002736726874657909
+omega-3 fatty acid	essential fat	1	1	261	55	0.424242424242	NULL	NULL	9	8	0.00042571306939123026
+omega-3 fatty acid	decosahexaenoic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	dha	1	1	261	55	0.424242424242	NULL	NULL	11	8	0.0003483106931382793
+omega-3 fatty acid	linolenic acid	1	1	261	55	0.424242424242	NULL	NULL	92	38	0.000041645843744794266
+omega-3 fatty acid	o-linolenic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	walnut	1	1	261	55	0.424242424242	NULL	NULL	3845	927	0.0000009964675226322686
+omega-3 fatty acid	salmon	1	1	261	55	0.424242424242	NULL	NULL	9653	1413	0.00000039691470263348936
+omega-3 fatty acid	flax-seed oil	1	1	261	55	0.424242424242	NULL	NULL	6	6	0.0006385696040868454
+omega-3 fatty acid	almond	1	1	261	55	0.424242424242	NULL	NULL	4195	930	0.0000009133295886820197
+omega-3 fatty acid	eicosapentaneoic acid	1	1	261	55	0.424242424242	NULL	NULL	2	2	0.0019157088122605363
+omega-3 fatty acid	eicosapentaeoic acid	1	1	261	55	0.424242424242	NULL	NULL	1	1	0.0038314176245210726
+omega-3 fatty acid	ones found in fish	1	1	261	55	0.424242424242	NULL	NULL	3	3	0.0012771392081736908
+omega-3 fatty acid food	black bean	1	1	8	8	0.125000000000	NULL	NULL	660	183	0.0001893939393939394
+omega-3 fatty acid food	fish	1	1	8	8	0.125000000000	NULL	NULL	12757	2977	0.000009798541976953829
+omega-3 fatty acid food	salmon	1	1	8	8	0.125000000000	NULL	NULL	9653	1413	0.00001294934217341759
+omega-3 fatty acid food	walnut	1	1	8	8	0.125000000000	NULL	NULL	3845	927	0.00003250975292587776
+omega-3 fatty acid food	almond	1	1	8	8	0.125000000000	NULL	NULL	4195	930	0.000029797377830750894
+omega-3 fatty acid food	oatmeal	1	1	8	8	0.125000000000	NULL	NULL	3108	810	0.00004021879021879022
+omega-3 fatty acid food	olive oil	1	1	8	8	0.125000000000	NULL	NULL	4372	1099	0.000028591033851784082
+omega-3 fatty acid food	cold water fish	1	1	8	8	0.125000000000	NULL	NULL	30	16	0.004166666666666667
+omega-3 fatty acid nutritional supplement	fish oil	1	1	1	1	NULL	NULL	NULL	1468	390	0.0006811989100817438
+omega-3 fatty acid rich fish	salmon	1	1	1	1	NULL	NULL	NULL	9653	1413	0.00010359473738734072
+omega-3 fatty acid rich food	flax seed	2	2	15	11	NULL	NULL	NULL	440	157	0.0006060606060606061
+omega-3 fatty acid rich food	salmon	2	2	15	11	NULL	NULL	NULL	9653	1413	0.00002762526330329086
+omega-3 fatty acid rich food	walnut	2	2	15	11	NULL	NULL	NULL	3845	927	0.0000693541395752059
+omega-3 fatty acid rich food	almond	2	2	15	11	NULL	NULL	NULL	4195	930	0.00006356773937226858
+omega-3 fatty acid rich food	tuna	1	1	15	11	NULL	NULL	NULL	5546	1115	0.000012020675561966582
+omega-3 fatty acid rich food	trout	1	1	15	11	NULL	NULL	NULL	2148	455	0.000031036623215394166
+omega-3 fatty acid rich food	fish	1	1	15	11	NULL	NULL	NULL	12757	2977	0.000005225889054375376
+omega-3 fatty acid rich food	fatty fish	1	1	15	11	NULL	NULL	NULL	146	41	0.00045662100456621003
+omega-3 fatty acid rich food	fish oil	1	1	15	11	NULL	NULL	NULL	1468	390	0.00004541326067211626
+omega-3 fatty acid rich food	mackerel	1	1	15	11	NULL	NULL	NULL	4148	508	0.00001607200257152041
+omega-3 fatty acid rich food	sardine	1	1	15	11	NULL	NULL	NULL	3242	488	0.000020563438206868188
+omega-3 fatty acid source	winter squash	1	1	1	1	NULL	NULL	NULL	360	131	0.002777777777777778
+omega-3 fatty acid supplement	fish oil	11	7	33	13	0.125000000000	NULL	NULL	1468	390	0.002497729336966394
+omega-3 fatty acid supplement	Carlson's oil available at mercola.com	4	4	33	13	0.125000000000	NULL	NULL	4	1	0.12121212121212122
+omega-3 fatty acid supplement	flaxseed oil	4	3	33	13	0.125000000000	NULL	NULL	403	128	0.0012030979772915257
+omega-3 fatty acid supplement	evening primrose oil	4	3	33	13	0.125000000000	NULL	NULL	402	130	0.0012060907583295642
+omega-3 fatty acid supplement	fish	2	2	33	13	0.125000000000	NULL	NULL	12757	2977	0.000009501616462500683
+omega-3 fatty acid supplement	flax seed oil	2	1	33	13	0.125000000000	NULL	NULL	184	73	0.0006587615283267457
+omega-3 fatty acid supplement	cod liver oil	1	1	33	13	0.125000000000	NULL	NULL	296	100	0.00010237510237510238
+omega-3 fatty acid supplement	pollutant-free fish oil	1	1	33	13	0.125000000000	NULL	NULL	1	1	0.030303030303030304
+omega-3 fatty acid supplement	flax oil	1	1	33	13	0.125000000000	NULL	NULL	140	72	0.00021645021645021645
+omega-3 fatty acid supplement	spirulina	1	1	33	13	0.125000000000	NULL	NULL	726	244	0.000041739711161198765
+omega-3 fatty acid supplement	Pure Omega-3	1	1	33	13	0.125000000000	NULL	NULL	1	1	0.030303030303030304
+omega-3 fatty acid supplement	prescription-strength omega-3 fatty acid supplement	1	1	33	13	0.125000000000	NULL	NULL	2	2	0.015151515151515152
+Omega-3 fatty acid-rich fish	herring	2	1	4	3	NULL	NULL	NULL	2643	469	0.00037835792659856227
+Omega-3 fatty acid-rich fish	mackerel	1	1	4	3	NULL	NULL	NULL	4148	508	0.000060270009643201545
+Omega-3 fatty acid-rich fish	salmon	1	1	4	3	NULL	NULL	NULL	9653	1413	0.00002589868434683518
+omega-3 fatty acid-rich food	ground flaxseed	2	2	6	3	0.333333333333	NULL	NULL	18	16	0.037037037037037035
+omega-3 fatty acid-rich food	salmon	2	2	6	3	0.333333333333	NULL	NULL	9653	1413	0.00006906315825822715
+omega-3 fatty acid-rich food	walnut	2	2	6	3	0.333333333333	NULL	NULL	3845	927	0.00017338534893801473
+omega-3 fatty acidsupplement	Carlson's oil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omega-3 fatty acidsupplement	available at www.mercola.com	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Omega-3 fish	salmon	3	3	3	1	NULL	NULL	NULL	9653	1413	0.00031078421216202215
+omega-3 food	salmon	5	5	25	15	NULL	NULL	NULL	9653	1413	0.00010359473738734072
+omega-3 food	walnut	4	4	25	15	NULL	NULL	NULL	3845	927	0.00016644993498049414
+omega-3 food	olive oil	3	3	25	15	NULL	NULL	NULL	4372	1099	0.00008234217749313815
+omega-3 food	tuna	2	2	25	15	NULL	NULL	NULL	5546	1115	0.000028849621348719798
+omega-3 food	flax oil	1	1	25	15	NULL	NULL	NULL	140	72	0.00028571428571428574
+omega-3 food	high omega-3 food	1	1	25	15	NULL	NULL	NULL	2	2	0.02
+omega-3 food	almond	1	1	25	15	NULL	NULL	NULL	4195	930	0.000009535160905840287
+omega-3 food	albacore tuna	1	1	25	15	NULL	NULL	NULL	353	63	0.00011331444759206799
+omega-3 food	cod	1	1	25	15	NULL	NULL	NULL	1978	553	0.000020222446916076846
+omega-3 food	canola oil	1	1	25	15	NULL	NULL	NULL	874	248	0.00004576659038901602
+omega-3 food	mackerel	1	1	25	15	NULL	NULL	NULL	4148	508	0.000009643201542912248
+omega-3 food	herring	1	1	25	15	NULL	NULL	NULL	2643	469	0.00001513431706394249
+omega-3 food	pecan	1	1	25	15	NULL	NULL	NULL	1062	273	0.00003766478342749529
+omega-3 food	sardine	1	1	25	15	NULL	NULL	NULL	3242	488	0.000012338062924120913
+omega-3 food	flax seed	1	1	25	15	NULL	NULL	NULL	440	157	0.00009090909090909092
+omega-3 food source	flax seed	1	1	8	8	NULL	NULL	NULL	440	157	0.0002840909090909091
+omega-3 food source	dark green	1	1	8	8	NULL	NULL	NULL	266	107	0.00046992481203007516
+omega-3 food source	avocado	1	1	8	8	NULL	NULL	NULL	3431	888	0.00003643252696006995
+omega-3 food source	leafy vegetable	1	1	8	8	NULL	NULL	NULL	187	87	0.0006684491978609625
+omega-3 food source	pumpkin	1	1	8	8	NULL	NULL	NULL	2331	850	0.000053625053625053626
+omega-3 food source	hemp	1	1	8	8	NULL	NULL	NULL	1571	524	0.00007956715467854869
+omega-3 food source	walnut	1	1	8	8	NULL	NULL	NULL	3845	927	0.00003250975292587776
+omega-3 food source	wild salmon	1	1	8	8	NULL	NULL	NULL	229	75	0.0005458515283842794
+omega-3 fortified food	orange juice	2	2	5	3	NULL	NULL	NULL	1246	351	0.0006420545746388443
+omega-3 fortified food	egg	2	2	5	3	NULL	NULL	NULL	9254	1960	0.00008644910309055545
+omega-3 fortified food	lean meat	1	1	5	3	NULL	NULL	NULL	1141	290	0.00017528483786152498
+omega-3 healthy food	grass-fed beef	1	1	1	1	1.000000000000	NULL	NULL	40	34	0.025
+omega-3 ingredient	flax with alpha-linolenic acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+omega-3 laden food	tuna	2	2	6	3	NULL	NULL	NULL	5546	1115	0.00012020675561966582
+omega-3 laden food	salmon	2	2	6	3	NULL	NULL	NULL	9653	1413	0.00006906315825822715
+omega-3 laden food	olive oil	2	2	6	3	NULL	NULL	NULL	4372	1099	0.00015248551387618176
+Omega-3 linolenic acid	found in flax seed oil	2	2	2	1	NULL	NULL	NULL	2	1	1
+omega-3 loaded oil	flaxseed	4	4	16	4	NULL	NULL	NULL	580	194	0.0017241379310344827
+omega-3 loaded oil	canola	4	4	16	4	NULL	NULL	NULL	1797	461	0.0005564830272676684
+omega-3 loaded oil	walnut	4	4	16	4	NULL	NULL	NULL	3845	927	0.0002600780234070221
+omega-3 loaded oil	fish oil	4	4	16	4	NULL	NULL	NULL	1468	390	0.0006811989100817438
+omega-3 long chain fatty acid	DHA	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+omega-3 long-chain polyunsaturated fatty acid	docosahexaenoic acid	1	1	2	2	NULL	NULL	NULL	170	47	0.0029411764705882353
+omega-3 long-chain polyunsaturated fatty acid	eicosapentaenoic acid	1	1	2	2	NULL	NULL	NULL	159	45	0.0031446540880503146
+omega-3 long-chain-polyunsaturated fatty acid	eicosapentaenoic acid	1	1	2	2	NULL	NULL	NULL	159	45	0.0031446540880503146
+omega-3 long-chain-polyunsaturated fatty acid	docosahexaenoic acid	1	1	2	2	NULL	NULL	NULL	170	47	0.0029411764705882353
+omega-3 mostly seafood	salmon	1	1	1	1	NULL	NULL	NULL	9653	1413	0.00010359473738734072
+omega-3 oil	fish oil	5	5	41	26	0.111111111111	NULL	NULL	1468	390	0.00041536518907423403
+omega-3 oil	flax	5	5	41	26	0.111111111111	NULL	NULL	1124	392	0.0005424876312820067
+omega-3 oil	Flaxseed	3	3	41	26	0.111111111111	NULL	NULL	580	194	0.0003784693019343986
+omega-3 oil	flax oil	2	2	41	26	0.111111111111	NULL	NULL	140	72	0.0006968641114982578
+omega-3 oil	hemp	2	2	41	26	0.111111111111	NULL	NULL	1571	524	0.00006210119389545264
+omega-3 oil	flaxseed oil	2	2	41	26	0.111111111111	NULL	NULL	403	128	0.0002420867881135387
+omega-3 oil	flax seed oil	2	2	41	26	0.111111111111	NULL	NULL	184	73	0.0005302226935312832
+omega-3 oil	docosahexaenoic acid	2	2	41	26	0.111111111111	NULL	NULL	170	47	0.0005738880918220947
+omega-3 oil	fish oil perilla	1	1	41	26	0.111111111111	NULL	NULL	1	1	0.024390243902439025
+omega-3 oil	flax seed	1	1	41	26	0.111111111111	NULL	NULL	440	157	0.00005543237250554324
+omega-3 oil	avocado	1	1	41	26	0.111111111111	NULL	NULL	3431	888	0.000007108785748306332
+omega-3 oil	hemp oil	1	1	41	26	0.111111111111	NULL	NULL	59	39	0.0004133939644481191
+omega-3 oil	long-chain omega-3 oil	1	1	41	26	0.111111111111	NULL	NULL	2	2	0.012195121951219513
+omega-3 oil	plant-derived omega-3 oil	1	1	41	26	0.111111111111	NULL	NULL	2	2	0.012195121951219513
+omega-3 oil	halibut	1	1	41	26	0.111111111111	NULL	NULL	1257	332	0.000019403535324136057
+omega-3 oil	olive oil	1	1	41	26	0.111111111111	NULL	NULL	4372	1099	0.000005578738312543236
+omega-3 oil	healthy omega-3 oil	1	1	41	26	0.111111111111	NULL	NULL	2	2	0.012195121951219513
+omega-3 oil	ones found in salmon	1	1	41	26	0.111111111111	NULL	NULL	2	2	0.012195121951219513
+omega-3 oil	borage oil	1	1	41	26	0.111111111111	NULL	NULL	96	47	0.00025406504065040653
+omega-3 oil	borage	1	1	41	26	0.111111111111	NULL	NULL	253	86	0.00009640412609659694
+omega-3 oil	Carlson's Norwegian Fish Oil	1	1	41	26	0.111111111111	NULL	NULL	1	1	0.024390243902439025
+omega-3 oil	Carlson Norwegian Fish Oil	1	1	41	26	0.111111111111	NULL	NULL	1	1	0.024390243902439025
+omega-3 oil	fish	1	1	41	26	0.111111111111	NULL	NULL	12757	2977	0.000001911910629649528
+omega-3 oil	salmon	1	1	41	26	0.111111111111	NULL	NULL	9653	1413	0.0000025267009118863593
+omega-3 oil	shark liver oil	1	1	41	26	0.111111111111	NULL	NULL	21	14	0.0011614401858304297
+omega-3 oil	nutritionally important omega-3 oil	1	1	41	26	0.111111111111	NULL	NULL	2	2	0.012195121951219513
+omega-3 or ingratiating fish	tuna	1	1	1	1	NULL	NULL	NULL	5546	1115	0.00018031013342949875
+Omega-3 pasta	penne	1	1	2	2	NULL	NULL	NULL	190	73	0.002631578947368421
+Omega-3 pasta	thin spaghetti	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+omega-3 polyunsaturated fat	fish oil	1	1	1	1	NULL	NULL	NULL	1468	390	0.0006811989100817438
+omega-3 polyunsaturated fatty acid	eicosapentaenoic acid	15	15	35	9	0.750000000000	NULL	NULL	159	45	0.04043126684636118
+omega-3 polyunsaturated fatty acid	docosahexaenoic acid	10	10	35	9	0.750000000000	NULL	NULL	170	47	0.01680672268907563
+omega-3 polyunsaturated fatty acid	linolenic acid	3	3	35	9	0.750000000000	NULL	NULL	92	38	0.002795031055900621
+omega-3 polyunsaturated fatty acid	docosahexaenoic acid in fish oil	2	2	35	9	0.750000000000	NULL	NULL	2	1	0.05714285714285714
+omega-3 polyunsaturated fatty acid	linolenicacid andeicosapentaenoic acid	1	1	35	9	0.750000000000	NULL	NULL	1	1	0.02857142857142857
+omega-3 polyunsaturated fatty acid	eicosapentaenioc acid	1	1	35	9	0.750000000000	NULL	NULL	1	1	0.02857142857142857
+omega-3 polyunsaturated fatty acid	eicosapentenoic acid	1	1	35	9	0.750000000000	NULL	NULL	1	1	0.02857142857142857
+omega-3 polyunsaturated fatty acid	arachidonic acid	1	1	35	9	0.750000000000	NULL	NULL	193	81	0.00014803849000740192
+omega-3 polyunsaturated fatty acid	long-chain omega-3 polyunsaturated fatty acid	1	1	35	9	0.750000000000	NULL	NULL	4	4	0.007142857142857143
+Omega-3 polyunsaturated fatty acid s	docosahexaenoic acid	1	1	1	1	NULL	NULL	NULL	170	47	0.0058823529411764705
+omega-3 product	fish oil	1	1	4	4	NULL	NULL	NULL	1468	390	0.00017029972752043596
+omega-3 product	egg	1	1	4	4	NULL	NULL	NULL	9254	1960	0.000027015344715798574
+omega-3 product	capsule	1	1	4	4	NULL	NULL	NULL	1123	310	0.0002226179875333927
+omega-3 product	Freshlay Vita egg	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega-3 rich fatty fish	mackerel	2	2	10	9	NULL	NULL	NULL	4148	508	0.00009643201542912247
+omega-3 rich fatty fish	herring	1	1	10	9	NULL	NULL	NULL	2643	469	0.00003783579265985623
+omega-3 rich fatty fish	sardine	1	1	10	9	NULL	NULL	NULL	3242	488	0.000030845157310302283
+omega-3 rich fatty fish	swordfish	1	1	10	9	NULL	NULL	NULL	1196	336	0.00008361204013377927
+omega-3 rich fatty fish	lake trout	1	1	10	9	NULL	NULL	NULL	608	125	0.0001644736842105263
+omega-3 rich fatty fish	tilefish	1	1	10	9	NULL	NULL	NULL	162	40	0.0006172839506172839
+omega-3 rich fatty fish	salmon	1	1	10	9	NULL	NULL	NULL	9653	1413	0.000010359473738734073
+omega-3 rich fatty fish	shellfish	1	1	10	9	NULL	NULL	NULL	736	247	0.0001358695652173913
+omega-3 rich fatty fish	shark	1	1	10	9	NULL	NULL	NULL	2233	616	0.000044782803403493064
+omega-3 rich fatty food	herring	1	1	4	4	NULL	NULL	NULL	2643	469	0.00009458948164964057
+omega-3 rich fatty food	mackerel	1	1	4	4	NULL	NULL	NULL	4148	508	0.000060270009643201545
+omega-3 rich fatty food	sardine	1	1	4	4	NULL	NULL	NULL	3242	488	0.00007711289327575571
+omega-3 rich fatty food	salmon	1	1	4	4	NULL	NULL	NULL	9653	1413	0.00002589868434683518
+omega-3 rich fish	salmon	7	7	20	9	NULL	NULL	NULL	9653	1413	0.00025380710659898473
+omega-3 rich fish	trout	2	2	20	9	NULL	NULL	NULL	2148	455	0.0000931098696461825
+omega-3 rich fish	tuna	2	2	20	9	NULL	NULL	NULL	5546	1115	0.00003606202668589975
+omega-3 rich fish	herring	2	2	20	9	NULL	NULL	NULL	2643	469	0.00007567158531971246
+omega-3 rich fish	cod	2	2	20	9	NULL	NULL	NULL	1978	553	0.00010111223458038423
+omega-3 rich fish	sardine	2	2	20	9	NULL	NULL	NULL	3242	488	0.00006169031462060457
+omega-3 rich fish	halibut	1	1	20	9	NULL	NULL	NULL	1257	332	0.00003977724741447892
+omega-3 rich fish	fresh herring	1	1	20	9	NULL	NULL	NULL	3	3	0.016666666666666666
+omega-3 rich fish	rainbow trout	1	1	20	9	NULL	NULL	NULL	407	155	0.00012285012285012285
+omega-3 rich food	salmon	18	14	60	21	0.100000000000	NULL	NULL	9653	1413	0.0005594115818916398
+omega-3 rich food	walnut	9	7	60	21	0.100000000000	NULL	NULL	3845	927	0.0003511053315994798
+omega-3 rich food	flaxseed	8	5	60	21	0.100000000000	NULL	NULL	580	194	0.0018390804597701149
+omega-3 rich food	fatty fish	3	1	60	21	0.100000000000	NULL	NULL	146	41	0.0010273972602739727
+omega-3 rich food	flax seed	3	3	60	21	0.100000000000	NULL	NULL	440	157	0.00034090909090909094
+omega-3 rich food	sardine	3	3	60	21	0.100000000000	NULL	NULL	3242	488	0.00004626773596545343
+omega-3 rich food	fish	2	2	60	21	0.100000000000	NULL	NULL	12757	2977	0.000005225889054375376
+omega-3 rich food	tuna	1	1	60	21	0.100000000000	NULL	NULL	5546	1115	0.0000030051688904916455
+omega-3 rich food	tofu	1	1	60	21	0.100000000000	NULL	NULL	2457	541	0.00000678334011667345
+omega-3 rich food	hemp	1	1	60	21	0.100000000000	NULL	NULL	1571	524	0.000010608953957139827
+omega-3 rich food	freshly catched fish	1	1	60	21	0.100000000000	NULL	NULL	1	1	0.016666666666666666
+omega-3 rich food	cauliflower	1	1	60	21	0.100000000000	NULL	NULL	4013	718	0.0000041531688678461666
+omega-3 rich food	mackerel	1	1	60	21	0.100000000000	NULL	NULL	4148	508	0.000004018000642880103
+omega-3 rich food	green leafy vegetable	1	1	60	21	0.100000000000	NULL	NULL	411	129	0.000040551500405515004
+omega-3 rich food	egg	1	1	60	21	0.100000000000	NULL	NULL	9254	1960	0.0000018010229810532382
+omega-3 rich food	nut	1	1	60	21	0.100000000000	NULL	NULL	5171	1477	0.0000032231032037645844
+omega-3 rich food	dark green vegetable	1	1	60	21	0.100000000000	NULL	NULL	82	31	0.0002032520325203252
+omega-3 rich food	sprout	1	1	60	21	0.100000000000	NULL	NULL	375	167	0.000044444444444444447
+omega-3 rich food	soybean	1	1	60	21	0.100000000000	NULL	NULL	4228	1073	0.000003941974140649637
+omega-3 rich food	cabbage	1	1	60	21	0.100000000000	NULL	NULL	6090	1120	0.000002736726874657909
+omega-3 rich food	flax	1	1	60	21	0.100000000000	NULL	NULL	1124	392	0.000014827995255041518
+Omega-3 Rich food Fish	wild salmon	1	1	2	2	NULL	NULL	NULL	229	75	0.002183406113537118
+Omega-3 Rich food Fish	sardine	1	1	2	2	NULL	NULL	NULL	3242	488	0.00015422578655151142
+omega-3 rich food item	sardine	1	1	5	5	NULL	NULL	NULL	3242	488	0.00006169031462060457
+omega-3 rich food item	rainbow trout	1	1	5	5	NULL	NULL	NULL	407	155	0.0004914004914004914
+omega-3 rich food item	spanish mackerel	1	1	5	5	NULL	NULL	NULL	145	56	0.0013793103448275863
+omega-3 rich food item	fish	1	1	5	5	NULL	NULL	NULL	12757	2977	0.00001567766716312613
+omega-3 rich food item	tuna	1	1	5	5	NULL	NULL	NULL	5546	1115	0.00003606202668589975
+omega-3 rich oil	flaxseed oil	4	4	6	3	NULL	NULL	NULL	403	128	0.006617038875103391
+omega-3 rich oil	walnut oil	1	1	6	3	NULL	NULL	NULL	125	60	0.0013333333333333333
+omega-3 rich oil	canola oil	1	1	6	3	NULL	NULL	NULL	874	248	0.00019069412662090006
+omega-3 rich plant food	canola oil	1	1	3	3	NULL	NULL	NULL	874	248	0.0003813882532418001
+omega-3 rich plant food	linseed	1	1	3	3	NULL	NULL	NULL	346	119	0.0009633911368015414
+omega-3 rich plant food	walnut	1	1	3	3	NULL	NULL	NULL	3845	927	0.00008669267446900737
+omega-3 rich source	flax seed oil	1	1	1	1	NULL	NULL	NULL	184	73	0.005434782608695652
+omega-3 rich vegetable oil	flaxseed oil	1	1	1	1	NULL	NULL	NULL	403	128	0.0024813895781637717
+omega-3 seed	flax	1	1	1	1	NULL	NULL	NULL	1124	392	0.0008896797153024911
+omega-3 source	fish oil	2	2	18	17	0.266666666666	NULL	NULL	1468	390	0.00015137753557372085
+omega-3 source	sardine	1	1	18	17	0.266666666666	NULL	NULL	3242	488	0.00001713619850572349
+omega-3 source	seafood	1	1	18	17	0.266666666666	NULL	NULL	1585	555	0.00003505082369435681
+omega-3 source	nut	1	1	18	17	0.266666666666	NULL	NULL	5171	1477	0.000010743677345881947
+omega-3 source	olive oil	1	1	18	17	0.266666666666	NULL	NULL	4372	1099	0.000012707126156348479
+omega-3 source	flax seed	1	1	18	17	0.266666666666	NULL	NULL	440	157	0.00012626262626262626
+omega-3 source	cold-water fish	1	1	18	17	0.266666666666	NULL	NULL	32	19	0.001736111111111111
+omega-3 source	flax	1	1	18	17	0.266666666666	NULL	NULL	1124	392	0.00004942665085013839
+omega-3 source	chia seed	1	1	18	17	0.266666666666	NULL	NULL	53	31	0.0010482180293501047
+omega-3 source	krill oil	1	1	18	17	0.266666666666	NULL	NULL	40	24	0.0013888888888888887
+omega-3 source	plant-based omega-3 source	1	1	18	17	0.266666666666	NULL	NULL	2	2	0.027777777777777776
+omega-3 source	shorter-chain omega-3 source	1	1	18	17	0.266666666666	NULL	NULL	2	2	0.027777777777777776
+omega-3 source	ground flax seed	1	1	18	17	0.266666666666	NULL	NULL	20	18	0.0027777777777777775
+omega-3 source	fish	1	1	18	17	0.266666666666	NULL	NULL	12757	2977	0.000004354907545312813
+omega-3 source	wild salmon	1	1	18	17	0.266666666666	NULL	NULL	229	75	0.00024260067928190198
+omega-3 source	seed	1	1	18	17	0.266666666666	NULL	NULL	2759	988	0.000020136120172365187
+omega-3 source	flaxseed oil	1	1	18	17	0.266666666666	NULL	NULL	403	128	0.00013785497656465398
+omega-3 supplement	fish oil	12	12	23	11	0.285714285714	NULL	NULL	1468	390	0.0042648975239900485
+omega-3 supplement	cod liver oil	2	2	23	11	0.285714285714	NULL	NULL	296	100	0.0005875440658049354
+omega-3 supplement	cod liver oil capsule	1	1	23	11	0.285714285714	NULL	NULL	5	5	0.008695652173913044
+omega-3 supplement	cod live oil	1	1	23	11	0.285714285714	NULL	NULL	1	1	0.043478260869565216
+omega-3 supplement	omega capsule	1	1	23	11	0.285714285714	NULL	NULL	2	2	0.021739130434782608
+omega-3 supplement	krill	1	1	23	11	0.285714285714	NULL	NULL	237	100	0.000183452577508714
+omega-3 supplement	flaxeed oil	1	1	23	11	0.285714285714	NULL	NULL	3	3	0.014492753623188406
+omega-3 supplement	fish	1	1	23	11	0.285714285714	NULL	NULL	12757	2977	0.000003408188513723071
+omega-3 supplement	high quality animal-based omega-3 supplement	1	1	23	11	0.285714285714	NULL	NULL	2	2	0.021739130434782608
+omega-3 supplement	flaxseed oil	1	1	23	11	0.285714285714	NULL	NULL	403	128	0.00010788650339842485
+omega-3 supplement	Barleans Fish Oil supplement	1	1	23	11	0.285714285714	NULL	NULL	1	1	0.043478260869565216
+Omega-3's	docosahexaenoic acid	1	1	1	1	NULL	NULL	NULL	170	47	0.0058823529411764705
+omega-3-fatty acid	flax oil	1	1	3	3	NULL	NULL	NULL	140	72	0.0023809523809523807
+omega-3-fatty acid	flax seed oil	1	1	3	3	NULL	NULL	NULL	184	73	0.0018115942028985505
+omega-3-fatty acid	found in fish oil	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+Omega-3-oils	fish oil	2	2	4	2	0.500000000000	NULL	NULL	1468	390	0.0006811989100817438
+Omega-3-oils	flax seed oil	2	2	4	2	0.500000000000	NULL	NULL	184	73	0.005434782608695652
+omega-3-rich coldwater fish	salmon	1	1	1	1	NULL	NULL	NULL	9653	1413	0.00010359473738734072
+Omega-3-rich fatty fish	salmon	3	3	8	5	NULL	NULL	NULL	9653	1413	0.00011654407956075832
+Omega-3-rich fatty fish	tuna	2	2	8	5	NULL	NULL	NULL	5546	1115	0.00009015506671474937
+Omega-3-rich fatty fish	lake trout	1	1	8	5	NULL	NULL	NULL	608	125	0.00020559210526315788
+Omega-3-rich fatty fish	herring	1	1	8	5	NULL	NULL	NULL	2643	469	0.00004729474082482028
+Omega-3-rich fatty fish	halibut	1	1	8	5	NULL	NULL	NULL	1257	332	0.0000994431185361973
+Omega-3-rich fish	salmon	8	6	17	5	NULL	NULL	NULL	9653	1413	0.0003900037172229298
+Omega-3-rich fish	tuna	3	2	17	5	NULL	NULL	NULL	5546	1115	0.00009545830593326404
+Omega-3-rich fish	sardine	3	3	17	5	NULL	NULL	NULL	3242	488	0.0001632978916427768
+Omega-3-rich fish	trout	2	2	17	5	NULL	NULL	NULL	2148	455	0.00010954102311315588
+Omega-3-rich fish	anchovy	1	1	17	5	NULL	NULL	NULL	917	284	0.00006414779652318943
+omega-3-rich food	walnut	4	4	13	9	NULL	NULL	NULL	3845	927	0.0003200960288086426
+omega-3-rich food	salmon	2	1	13	9	NULL	NULL	NULL	9653	1413	0.00003187530381148946
+omega-3-rich food	flaxseed	1	1	13	9	NULL	NULL	NULL	580	194	0.00013262599469496023
+omega-3-rich food	freshly ground flax seed	1	1	13	9	NULL	NULL	NULL	1	1	0.07692307692307693
+omega-3-rich food	halibut	1	1	13	9	NULL	NULL	NULL	1257	332	0.0000611957652530445
+omega-3-rich food	albacore tuna	1	1	13	9	NULL	NULL	NULL	353	63	0.00021791239921551536
+omega-3-rich food	sardine	1	1	13	9	NULL	NULL	NULL	3242	488	0.000023727044084847912
+omega-3-rich food	olive oil	1	1	13	9	NULL	NULL	NULL	4372	1099	0.000017594482370328666
+omega-3-rich food	flax seed	1	1	13	9	NULL	NULL	NULL	440	157	0.00017482517482517483
+omega-3-rich oil	flaxseed	1	1	4	4	NULL	NULL	NULL	580	194	0.0004310344827586207
+omega-3-rich oil	menhaden	1	1	4	4	NULL	NULL	NULL	159	70	0.0015723270440251573
+omega-3-rich oil	alga	1	1	4	4	NULL	NULL	NULL	1580	557	0.00015822784810126583
+omega-3-rich oil	krill	1	1	4	4	NULL	NULL	NULL	237	100	0.0010548523206751054
+omega-3-rich recipe	Salmon croquette	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+omega-3-rich recipe	Orange-glazed salmon	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Omega-3foods	egg	1	1	2	2	NULL	NULL	NULL	9254	1960	0.00005403068943159715
+Omega-3foods	salmon	1	1	2	2	NULL	NULL	NULL	9653	1413	0.00005179736869367036
+omega-3s	docosahexaenoic acid	4	4	17	12	0.250000000000	NULL	NULL	170	47	0.005536332179930796
+omega-3s	flax seed oil	2	2	17	12	0.250000000000	NULL	NULL	184	73	0.001278772378516624
+omega-3s	fish oil	2	2	17	12	0.250000000000	NULL	NULL	1468	390	0.00016028209648982208
+omega-3s	herring	1	1	17	12	0.250000000000	NULL	NULL	2643	469	0.00002225634862344484
+omega-3s	sardine	1	1	17	12	0.250000000000	NULL	NULL	3242	488	0.000018144210182530754
+omega-3s	cold-water fish	1	1	17	12	0.250000000000	NULL	NULL	32	19	0.001838235294117647
+omega-3s	eicosapentaenoic acid	1	1	17	12	0.250000000000	NULL	NULL	159	45	0.0003699593044765076
+omega-3s	alpha-linolenic found in plant tissues like flax	1	1	17	12	0.250000000000	NULL	NULL	1	1	0.058823529411764705
+omega-3s	fish	1	1	17	12	0.250000000000	NULL	NULL	12757	2977	0.000004611078577390037
+omega-3s	tofu	1	1	17	12	0.250000000000	NULL	NULL	2457	541	0.000023941200411788646
+omega-3s	salmon	1	1	17	12	0.250000000000	NULL	NULL	9653	1413	0.000006093808081608278
+omega-3s	walnut	1	1	17	12	0.250000000000	NULL	NULL	3845	927	0.000015298707259236594
+omega-3s lower blood fat	triglyceride	1	1	1	1	NULL	NULL	NULL	336	170	0.002976190476190476
+omega-6 acid	linoleic acid	1	1	1	1	NULL	NULL	NULL	230	78	0.004347826086956522
+omega-6 dominant vegetable oil	corn oil	2	2	8	5	NULL	NULL	NULL	634	190	0.0007886435331230284
+omega-6 dominant vegetable oil	sunflower	2	2	8	5	NULL	NULL	NULL	2673	769	0.00018705574261129816
+omega-6 dominant vegetable oil	safflower	2	2	8	5	NULL	NULL	NULL	870	242	0.0005747126436781609
+omega-6 dominant vegetable oil	soy	1	1	8	5	NULL	NULL	NULL	2533	796	0.000049348598499802604
+omega-6 dominant vegetable oil	peanut	1	1	8	5	NULL	NULL	NULL	3307	885	0.00003779860901118839
+omega-6 fat	corn oil	3	3	20	15	NULL	NULL	NULL	634	190	0.0007097791798107255
+omega-6 fat	sunflower oil	2	2	20	15	NULL	NULL	NULL	635	210	0.0003149606299212599
+omega-6 fat	safflower oil	2	2	20	15	NULL	NULL	NULL	355	114	0.0005633802816901409
+omega-6 fat	Linoleic acid	2	2	20	15	NULL	NULL	NULL	230	78	0.0008695652173913044
+omega-6 fat	found in animal food	1	1	20	15	NULL	NULL	NULL	1	1	0.05
+omega-6 fat	found in corn	1	1	20	15	NULL	NULL	NULL	4	4	0.0125
+omega-6 fat	cottonseed oil	1	1	20	15	NULL	NULL	NULL	196	60	0.00025510204081632655
+omega-6 fat	margarine	1	1	20	15	NULL	NULL	NULL	1208	313	0.00004139072847682119
+omega-6 fat	soybean oil	1	1	20	15	NULL	NULL	NULL	701	227	0.00007132667617689016
+omega-6 fat	safflower	1	1	20	15	NULL	NULL	NULL	870	242	0.000057471264367816097
+omega-6 fat	vegetable oil	1	1	20	15	NULL	NULL	NULL	1179	458	0.00004240882103477523
+omega-6 fat	hydrogenated vegetable oil	1	1	20	15	NULL	NULL	NULL	47	26	0.0010638297872340426
+omega-6 fat	borage oil	1	1	20	15	NULL	NULL	NULL	96	47	0.0005208333333333333
+omega-6 fat	arachidonic acid	1	1	20	15	NULL	NULL	NULL	193	81	0.00025906735751295336
+omega-6 fat	GLA found in evening primrose oil	1	1	20	15	NULL	NULL	NULL	1	1	0.05
+omega-6 fatty acid	linoleic acid	10	9	44	21	0.250000000000	NULL	NULL	230	78	0.009881422924901184
+omega-6 fatty acid	arachidonic acid	6	6	44	21	0.250000000000	NULL	NULL	193	81	0.004239284032030145
+omega-6 fatty acid	gamma-linolenic acid	6	6	44	21	0.250000000000	NULL	NULL	39	17	0.020979020979020976
+omega-6 fatty acid	evening primrose oil	4	4	44	21	0.250000000000	NULL	NULL	402	130	0.0009045680687471732
+omega-6 fatty acid	alpha-linolenic acid from meat	2	2	44	21	0.250000000000	NULL	NULL	2	1	0.045454545454545456
+omega-6 fatty acid	soybean	1	1	44	21	0.250000000000	NULL	NULL	4228	1073	0.000005375419282704051
+omega-6 fatty acid	linoleic	1	1	44	21	0.250000000000	NULL	NULL	100	29	0.00022727272727272727
+omega-6 fatty acid	long-chain omega-6 fatty acid	1	1	44	21	0.250000000000	NULL	NULL	3	3	0.007575757575757576
+omega-6 fatty acid	found in borage seed oil	1	1	44	21	0.250000000000	NULL	NULL	1	1	0.022727272727272728
+omega-6 fatty acid	found in corn	1	1	44	21	0.250000000000	NULL	NULL	4	4	0.005681818181818182
+omega-6 fatty acid	arachadonic acid	1	1	44	21	0.250000000000	NULL	NULL	4	2	0.005681818181818182
+omega-6 fatty acid	olive oil	1	1	44	21	0.250000000000	NULL	NULL	4372	1099	0.00000519836979123347
+omega-6 fatty acid	safflower	1	1	44	21	0.250000000000	NULL	NULL	870	242	0.00002612330198537095
+omega-6 fatty acid	GLA in star flower oil	1	1	44	21	0.250000000000	NULL	NULL	1	1	0.022727272727272728
+omega-6 fatty acid	gammalinolenic acid	1	1	44	21	0.250000000000	NULL	NULL	1	1	0.022727272727272728
+omega-6 fatty acid	borage oil	1	1	44	21	0.250000000000	NULL	NULL	96	47	0.00023674242424242425
+omega-6 fatty acid	linoleic acid found in corn	1	1	44	21	0.250000000000	NULL	NULL	1	1	0.022727272727272728
+omega-6 fatty acid	linolenic acid	1	1	44	21	0.250000000000	NULL	NULL	92	38	0.00024703557312252963
+omega-6 fatty acid	sunflower oil	1	1	44	21	0.250000000000	NULL	NULL	635	210	0.00003579098067287044
+omega-6 fatty acid	corn oil	1	1	44	21	0.250000000000	NULL	NULL	634	190	0.000035847433323774016
+omega-6 fatty acid	alpha linolenic	1	1	44	21	0.250000000000	NULL	NULL	1	1	0.022727272727272728
+omega-6 fatty acid source	red meat	1	1	1	1	NULL	NULL	NULL	1318	290	0.0007587253414264037
+omega-6 fatty acid supplement	Evening Primrose Oil	1	1	1	1	NULL	NULL	NULL	402	130	0.0024875621890547263
+omega-6 food	found in Miracle Whip	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omega-6 food	soybean oil	1	1	3	3	NULL	NULL	NULL	701	227	0.000475511174512601
+omega-6 food	meat	1	1	3	3	NULL	NULL	NULL	9410	1886	0.000035423308537017356
+omega-6 oil	corn	12	11	59	19	0.133333333333	NULL	NULL	11029	2454	0.00022129639732538717
+omega-6 oil	safflower	8	7	59	19	0.133333333333	NULL	NULL	870	242	0.0012468342100136372
+omega-6 oil	canola	6	6	59	19	0.133333333333	NULL	NULL	1797	461	0.0003395489657904417
+omega-6 oil	sunflower	6	6	59	19	0.133333333333	NULL	NULL	2673	769	0.00022827141471209268
+omega-6 oil	peanut	5	4	59	19	0.133333333333	NULL	NULL	3307	885	0.00012813087800402843
+omega-6 oil	soybean	5	5	59	19	0.133333333333	NULL	NULL	4228	1073	0.00010021968154193993
+omega-6 oil	flaxseed	3	2	59	19	0.133333333333	NULL	NULL	580	194	0.0002630040911747516
+omega-6 oil	primrose oil	3	2	59	19	0.133333333333	NULL	NULL	96	39	0.0015889830508474577
+omega-6 oil	corn oil	1	1	59	19	0.133333333333	NULL	NULL	634	190	0.000026733679088916217
+omega-6 oil	high-quality omega-6 oil	1	1	59	19	0.133333333333	NULL	NULL	2	2	0.00847457627118644
+omega-6 oil	organic, cold-processed omega-6 oil	1	1	59	19	0.133333333333	NULL	NULL	2	2	0.00847457627118644
+omega-6 oil	safflower oil	1	1	59	19	0.133333333333	NULL	NULL	355	114	0.000047744091668656006
+omega-6 oil	heating omega-6 oil	1	1	59	19	0.133333333333	NULL	NULL	2	2	0.00847457627118644
+omega-6 oil	polyunsaturated omega-6 oil	1	1	59	19	0.133333333333	NULL	NULL	2	2	0.00847457627118644
+omega-6 oil	cottonseed oil	1	1	59	19	0.133333333333	NULL	NULL	196	60	0.00008647526807333103
+omega-6 oil	Cotton seed	1	1	59	19	0.133333333333	NULL	NULL	68	33	0.0002492522432701894
+omega-6 oil	Soya	1	1	59	19	0.133333333333	NULL	NULL	420	197	0.000040355125100887815
+omega-6 oil	soybean oil	1	1	59	19	0.133333333333	NULL	NULL	701	227	0.0000241785342972509
+omega-6 oil	canola oil	1	1	59	19	0.133333333333	NULL	NULL	874	248	0.000019392623046193227
+omega-6 polyunsaturated fat	corn oil	2	2	2	1	NULL	NULL	NULL	634	190	0.0031545741324921135
+omega-6 polyunsaturated fatty acid	linoleic acid	1	1	3	3	NULL	NULL	NULL	230	78	0.0014492753623188406
+omega-6 polyunsaturated fatty acid	dietary omega-6 polyunsaturated fatty acid	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+omega-6 polyunsaturated fatty acid	arachidonic acid	1	1	3	3	NULL	NULL	NULL	193	81	0.0017271157167530224
+omega-6 PUFAs	arachidonic acid	1	1	1	1	NULL	NULL	NULL	193	81	0.0051813471502590676
+omega-6 rich manufactured food	baked good	1	1	1	1	NULL	NULL	NULL	695	242	0.0014388489208633094
+omega-6 rich oil	sunflower	2	2	12	11	NULL	NULL	NULL	2673	769	0.0001247038284075321
+omega-6 rich oil	corn oil	1	1	12	11	NULL	NULL	NULL	634	190	0.00013144058885383806
+omega-6 rich oil	canola	1	1	12	11	NULL	NULL	NULL	1797	461	0.000046373585605639025
+omega-6 rich oil	safflower oil	1	1	12	11	NULL	NULL	NULL	355	114	0.00023474178403755868
+omega-6 rich oil	olive	1	1	12	11	NULL	NULL	NULL	3387	1028	0.000024603877571105206
+omega-6 rich oil	peanut oil	1	1	12	11	NULL	NULL	NULL	411	142	0.000202757502027575
+omega-6 rich oil	palm	1	1	12	11	NULL	NULL	NULL	1317	545	0.00006327512022272843
+omega-6 rich oil	grape seed oil	1	1	12	11	NULL	NULL	NULL	210	91	0.0003968253968253968
+omega-6 rich oil	cottonseed oil	1	1	12	11	NULL	NULL	NULL	196	60	0.00042517006802721087
+omega-6 rich oil	soybean oil	1	1	12	11	NULL	NULL	NULL	701	227	0.00011887779362815025
+omega-6 rich oil	canola oil	1	1	12	11	NULL	NULL	NULL	874	248	0.00009534706331045003
+omega-6 rich vegetable oil	blackcurrant seed oil	2	2	5	4	NULL	NULL	NULL	9	5	0.08888888888888889
+omega-6 rich vegetable oil	soybean oil	1	1	5	4	NULL	NULL	NULL	701	227	0.0002853067047075606
+omega-6 rich vegetable oil	evening primrose oil	1	1	5	4	NULL	NULL	NULL	402	130	0.0004975124378109454
+omega-6 rich vegetable oil	borage oil	1	1	5	4	NULL	NULL	NULL	96	47	0.0020833333333333333
+omega-6 source	corn oil	1	1	4	4	0.250000000000	NULL	NULL	634	190	0.0003943217665615142
+omega-6 source	soya oil	1	1	4	4	0.250000000000	NULL	NULL	61	34	0.004098360655737705
+omega-6 source	certain oil	1	1	4	4	0.250000000000	NULL	NULL	13	12	0.019230769230769232
+omega-6 source	grain	1	1	4	4	0.250000000000	NULL	NULL	3797	1123	0.00006584145377929945
+omega-6 supplement	evening-primrose oil	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+omega-6 supplement	gamma-linolenic acid	1	1	2	2	1.000000000000	NULL	NULL	39	17	0.01282051282051282
+omega-6 vegetable oil	corn	3	3	7	5	NULL	NULL	NULL	11029	2454	0.00011657578073390929
+omega-6 vegetable oil	soy	1	1	7	5	NULL	NULL	NULL	2533	796	0.00005639839828548869
+omega-6 vegetable oil	grain	1	1	7	5	NULL	NULL	NULL	3797	1123	0.0000376236878738854
+omega-6 vegetable oil	safflower	1	1	7	5	NULL	NULL	NULL	870	242	0.00016420361247947453
+omega-6 vegetable oil	sunflower	1	1	7	5	NULL	NULL	NULL	2673	769	0.00005344449788894233
+omega-6's	ones found in vegetable oils like corn	1	1	1	1	NULL	NULL	NULL	1	1	1
+omega-6-rich manufactured food	baked good	1	1	1	1	NULL	NULL	NULL	695	242	0.0014388489208633094
+omega-6-rich oil	sunflower oil	1	1	3	3	NULL	NULL	NULL	635	210	0.0005249343832020997
+omega-6-rich oil	corn	1	1	3	3	NULL	NULL	NULL	11029	2454	0.00003022335056064315
+omega-6-rich oil	safflower	1	1	3	3	NULL	NULL	NULL	870	242	0.00038314176245210724
+omega-6-rich whole food	sunflower seed	2	1	9	7	NULL	NULL	NULL	692	235	0.0006422607578676942
+omega-6-rich whole food	pumpkin seed	2	1	9	7	NULL	NULL	NULL	378	119	0.0011757789535567313
+omega-6-rich whole food	wheat germ	1	1	9	7	NULL	NULL	NULL	402	164	0.0002763957987838585
+omega-6-rich whole food	walnut	1	1	9	7	NULL	NULL	NULL	3845	927	0.000028897558156335788
+omega-6-rich whole food	sesame seed	1	1	9	7	NULL	NULL	NULL	354	141	0.0003138731952291274
+omega-6-rich whole food	soybean	1	1	9	7	NULL	NULL	NULL	4228	1073	0.000026279827604330916
+omega-6-rich whole food	sesame tahini	1	1	9	7	NULL	NULL	NULL	3	3	0.037037037037037035
+omega-9 fat	olive oil	1	1	1	1	NULL	NULL	NULL	4372	1099	0.00022872827081427266
+omega-9 fatty acid	oleic acid	2	2	3	2	0.500000000000	NULL	NULL	379	115	0.0035180299032541774
+omega-9 fatty acid	palmitoleic acid	1	1	3	2	0.500000000000	NULL	NULL	27	15	0.012345679012345678
+omega-9 oil	olive oil	1	1	3	3	NULL	NULL	NULL	4372	1099	0.00007624275693809088
+omega-9 oil	oleic acid	1	1	3	3	NULL	NULL	NULL	379	115	0.0008795074758135443
+omega-9 oil	high oleic acid sunflower oil	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omega-9 oil ingredient solution	Omega-9 shortening	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+omega-9 rich fat	olive oil	1	1	2	2	NULL	NULL	NULL	4372	1099	0.00011436413540713633
+omega-9 rich fat	high oleic safflower oil	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omega-9 vegetable oil	olive	1	1	1	1	NULL	NULL	NULL	3387	1028	0.0002952465308532625
+omega-fatty acid	linoleic	1	1	1	1	NULL	NULL	NULL	100	29	0.01
+omega-formyl-alkenoic acid	9-formyl-4-nonenoic acid	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega-formyl-alkenoic acid	11-formyl-4,8-undecadienoic acid	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega-formyl-alkenoic acid	7-formyl-4-heptenoic acid	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega-formyl-alkenoic acid	9-formyl-6-nonenoic acid	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omega-level mutant	Jean Grey	1	1	1	1	1.000000000000	NULL	NULL	25	15	0.04
+omega-oil rich fish	tuna	1	1	1	1	NULL	NULL	NULL	5546	1115	0.00018031013342949875
+omega-oil supplement	flax seed	1	1	1	1	NULL	NULL	NULL	440	157	0.0022727272727272726
+omega-rich alternative	flax	4	3	4	1	NULL	NULL	NULL	1124	392	0.0035587188612099642
+omega-rich deep sea fish	tuna	1	1	2	2	NULL	NULL	NULL	5546	1115	0.00009015506671474937
+omega-rich deep sea fish	salmon	1	1	2	2	NULL	NULL	NULL	9653	1413	0.00005179736869367036
+omega-rich food	flax seed	2	2	14	13	NULL	NULL	NULL	440	157	0.0006493506493506494
+omega-rich food	soybean	1	1	14	13	NULL	NULL	NULL	4228	1073	0.000016894174888498446
+omega-rich food	cabbage	1	1	14	13	NULL	NULL	NULL	6090	1120	0.00001172882946281961
+omega-rich food	cod	1	1	14	13	NULL	NULL	NULL	1978	553	0.000036111512350137224
+omega-rich food	halibut	1	1	14	13	NULL	NULL	NULL	1257	332	0.00005682463916354131
+omega-rich food	olive oil	1	1	14	13	NULL	NULL	NULL	4372	1099	0.0000163377336295909
+omega-rich food	collard green	1	1	14	13	NULL	NULL	NULL	886	213	0.00008061915511125443
+omega-rich food	tuna	1	1	14	13	NULL	NULL	NULL	5546	1115	0.000012879295244964195
+omega-rich food	brussels sprout	1	1	14	13	NULL	NULL	NULL	1754	284	0.000040723244828147904
+omega-rich food	salmon	1	1	14	13	NULL	NULL	NULL	9653	1413	0.000007399624099095765
+omega-rich food	walnut	1	1	14	13	NULL	NULL	NULL	3845	927	0.00001857700167193015
+omega-rich food	cauliflower	1	1	14	13	NULL	NULL	NULL	4013	718	0.000017799295147912143
+omega-rich food	olive	1	1	14	13	NULL	NULL	NULL	3387	1028	0.000021089037918090174
+omega-rich oil	flaxseed	1	1	6	6	0.166666666666	NULL	NULL	580	194	0.00028735632183908046
+omega-rich oil	hemp	1	1	6	6	0.166666666666	NULL	NULL	1571	524	0.00010608953957139826
+omega-rich oil	meadowfoam	1	1	6	6	0.166666666666	NULL	NULL	18	12	0.009259259259259259
+omega-rich oil	olive	1	1	6	6	0.166666666666	NULL	NULL	3387	1028	0.00004920775514221041
+omega-rich oil	flax	1	1	6	6	0.166666666666	NULL	NULL	1124	392	0.00014827995255041517
+omega-rich oil	hemp seed	1	1	6	6	0.166666666666	NULL	NULL	84	49	0.001984126984126984
+omega-six fatty acid	linoleic acid	1	1	1	1	NULL	NULL	NULL	230	78	0.004347826086956522
+omega-three fatty acid	alpha-linolenic acid	1	1	1	1	1.000000000000	NULL	NULL	35	14	0.02857142857142857
+omega-three fatty-acid supplement	evening primrose oil capsule	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+omega.-amino acid	3-aminopropionic acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+omega.-diamines	ethylenediamine	1	1	1	1	NULL	NULL	NULL	92	54	0.010869565217391304
+omega06 fat	Linoleic acid	1	1	1	1	NULL	NULL	NULL	230	78	0.004347826086956522
+omega3 fat	individuals found in flaxseed oil	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omega3 fat	individuals located in flaxseed oil	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omega3 fat	called ALA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omega3 fatty acid	salmon	1	1	2	2	NULL	NULL	NULL	9653	1413	0.00005179736869367036
+omega3 fatty acid	walnut	1	1	2	2	NULL	NULL	NULL	3845	927	0.00013003901170351105
+omega4 fatty acid	linoleic acid	1	1	1	1	NULL	NULL	NULL	230	78	0.004347826086956522
+omega73 rich fish	trout	1	1	2	2	NULL	NULL	NULL	2148	455	0.00023277467411545624
+omega73 rich fish	salmon	1	1	2	2	NULL	NULL	NULL	9653	1413	0.00005179736869367036
+omegabooshgaming animal	horse	1	1	3	3	NULL	NULL	NULL	3872	895	0.00008608815426997244
+omegabooshgaming animal	dog	1	1	3	3	NULL	NULL	NULL	7516	1309	0.00004434983147064041
+omegabooshgaming animal	cat	1	1	3	3	NULL	NULL	NULL	6578	1177	0.00005067396371744198
+omehumanistic attitude	empathy	1	1	1	1	NULL	NULL	NULL	1434	499	0.000697350069735007
+omelet	onion	1	1	5	5	NULL	NULL	NULL	7041	1523	0.0000284050560999858
+omelet	vegetarian	1	1	5	5	NULL	NULL	NULL	623	170	0.00032102728731942215
+omelet	Fancy Pants	1	1	5	5	NULL	NULL	NULL	6	5	0.03333333333333333
+omelet	pepper	1	1	5	5	NULL	NULL	NULL	4612	1166	0.00004336513443191674
+omelet	hoover's classic patachou omelet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+omelet filler	mushroom	1	1	4	4	NULL	NULL	NULL	2656	800	0.00009412650602409639
+omelet filler	tomato	1	1	4	4	NULL	NULL	NULL	10378	2224	0.000024089419926768162
+omelet filler	cheese	1	1	4	4	NULL	NULL	NULL	9373	2034	0.00002667235676944415
+omelet filler	ham	1	1	4	4	NULL	NULL	NULL	1927	632	0.00012973533990659055
+omelet filling	diced ham	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+omelet filling	sauteed vegetable	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+omelet fixings	ham	1	1	4	4	NULL	NULL	NULL	1927	632	0.00012973533990659055
+omelet fixings	cheese	1	1	4	4	NULL	NULL	NULL	9373	2034	0.00002667235676944415
+omelet fixings	bacon	1	1	4	4	NULL	NULL	NULL	2515	666	0.00009940357852882704
+omelet fixings	onion	1	1	4	4	NULL	NULL	NULL	7041	1523	0.00003550632012498225
+omelet ingredient	sausage	1	1	7	7	NULL	NULL	NULL	2572	731	0.0000555432126194179
+omelet ingredient	green pepper	1	1	7	7	NULL	NULL	NULL	521	164	0.00027419797093501506
+omelet ingredient	bacon	1	1	7	7	NULL	NULL	NULL	2515	666	0.000056802044873615446
+omelet ingredient	mushroom	1	1	7	7	NULL	NULL	NULL	2656	800	0.000053786574870912215
+omelet ingredient	onion	1	1	7	7	NULL	NULL	NULL	7041	1523	0.00002028932578570414
+omelet ingredient	ham	1	1	7	7	NULL	NULL	NULL	1927	632	0.00007413447994662317
+omelet ingredient	gourmet omelet ingredient	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+omelette	California for a healthier signature favorite	1	1	1	1	NULL	NULL	NULL	1	1	1
+omelette filling	pepper	1	1	3	3	NULL	NULL	NULL	4612	1166	0.00007227522405319456
+omelette filling	cheese	1	1	3	3	NULL	NULL	NULL	9373	2034	0.00003556314235925886
+omelette filling	mushroom	1	1	3	3	NULL	NULL	NULL	2656	800	0.0001255020080321285
+omelette ingredient	cheese	1	1	7	7	NULL	NULL	NULL	9373	2034	0.000015241346725396655
+omelette ingredient	ham	1	1	7	7	NULL	NULL	NULL	1927	632	0.00007413447994662317
+omelette ingredient	tomato	1	1	7	7	NULL	NULL	NULL	10378	2224	0.000013765382815296093
+omelette ingredient	salsa	1	1	7	7	NULL	NULL	NULL	1307	502	0.00010930156301235107
+omelette ingredient	hash brown	1	1	7	7	NULL	NULL	NULL	113	59	0.0012642225031605561
+omelette ingredient	onion	1	1	7	7	NULL	NULL	NULL	7041	1523	0.00002028932578570414
+omelette ingredient	green pepper	1	1	7	7	NULL	NULL	NULL	521	164	0.00027419797093501506
+omelette-related information	picture	2	2	4	2	NULL	NULL	NULL	4905	1393	0.00020387359836901122
+omelette-related information	recipe	2	2	4	2	NULL	NULL	NULL	438	207	0.00228310502283105
+omen	earthquake	2	1	14	10	0.444444444444	NULL	NULL	7202	1407	0.000039671519815924144
+omen	storm at the beginning of the march	2	1	14	10	0.444444444444	NULL	NULL	2	1	0.14285714285714285
+omen	storm	2	2	14	10	0.444444444444	NULL	NULL	1899	661	0.00015045512675844429
+omen	calls of bird	2	1	14	10	0.444444444444	NULL	NULL	2	1	0.14285714285714285
+omen	stormy rain	1	1	14	10	0.444444444444	NULL	NULL	3	3	0.023809523809523808
+omen	doppelgangers	1	1	14	10	0.444444444444	NULL	NULL	7	7	0.01020408163265306
+omen	cawing over a person	1	1	14	10	0.444444444444	NULL	NULL	1	1	0.07142857142857142
+omen	Artemisia Gentileschi	1	1	14	10	0.444444444444	NULL	NULL	9	9	0.007936507936507936
+omen	Dell selling Linux on the desktop	1	1	14	10	0.444444444444	NULL	NULL	1	1	0.07142857142857142
+omen	deviations in the compass needle	1	1	14	10	0.444444444444	NULL	NULL	1	1	0.07142857142857142
+omen director	Revathy	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+omen director	Farah Khan	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+omeprazole side effect	constipation	1	1	2	2	NULL	NULL	NULL	3092	740	0.00016170763260025875
+omeprazole side effect	hair loss	1	1	2	2	NULL	NULL	NULL	778	233	0.0006426735218508997
+omeprazole-related property	antineutrophil property	1	1	1	1	NULL	NULL	NULL	1	1	1
+omer environmental effect	effects on particulate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omer environmental effect	heavy metal emission	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omer-specific requirement	monitoring function	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+OMERS member	police	2	2	2	1	NULL	NULL	NULL	6527	1820	0.00030641948827945457
+OMERS user-friendly online tool	Employer Administration Manual	1	1	1	1	NULL	NULL	NULL	1	1	1
+omes	indirect outc omes	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+omes	adverse outc omes	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+omes	health outc omes	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+omestic chore	cooking	1	1	1	1	NULL	NULL	NULL	5018	1453	0.00019928258270227183
+omestic worker	caregiver	1	1	2	2	NULL	NULL	NULL	99	68	0.005050505050505051
+omestic worker	nanny	1	1	2	2	NULL	NULL	NULL	193	129	0.0025906735751295338
+omething	material object	2	2	7	5	0.500000000000	NULL	NULL	5	4	0.11428571428571428
+omething	nonsexual part of the body	2	2	7	5	0.500000000000	NULL	NULL	2	1	0.2857142857142857
+omething	parasite	1	1	7	5	0.500000000000	NULL	NULL	791	283	0.0001806032147372223
+omething	heavy metal toxicity	1	1	7	5	0.500000000000	NULL	NULL	33	26	0.004329004329004329
+omething	job	1	1	7	5	0.500000000000	NULL	NULL	1446	571	0.00009879470460383322
+ometo language	Zayse	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ometo language	South Ometo language	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ometo language	Maale	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ometric object	line	1	1	2	2	NULL	NULL	NULL	1652	716	0.0003026634382566586
+ometric object	point	1	1	2	2	NULL	NULL	NULL	1043	513	0.00047938638542665386
+omewithin religiouscommuni tie	cultural historian Thomas Berry	1	1	1	1	NULL	NULL	NULL	1	1	1
+omfort function	changing the steering wheel	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+OMG mechanism	RFP for the next version of BPMN	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMG service	Event Notification Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMG service	Transaction	1	1	2	2	NULL	NULL	NULL	370	217	0.0013513513513513514
+OMG specification	Interface Definition Language	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+OMG specification	UML	1	1	4	4	0.500000000000	NULL	NULL	331	195	0.0007552870090634441
+OMG specification	Business Motivation Metamodel	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+OMG specification	Organizational Structure Metamodel	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+OMG standard	UML 2.0	4	3	16	8	0.800000000000	NULL	NULL	9	5	0.1111111111111111
+OMG standard	MOF	3	3	16	8	0.800000000000	NULL	NULL	21	19	0.026785714285714284
+OMG standard	XMI	3	3	16	8	0.800000000000	NULL	NULL	14	8	0.04017857142857143
+OMG standard	Unified Modeling Language	2	2	16	8	0.800000000000	NULL	NULL	71	52	0.0035211267605633804
+OMG standard	UML	1	1	16	8	0.800000000000	NULL	NULL	331	195	0.00018882175226586103
+omg standard	mappings other omg standard	1	1	16	8	0.800000000000	NULL	NULL	2	2	0.03125
+OMG standard	QVT	1	1	16	8	0.800000000000	NULL	NULL	7	6	0.008928571428571428
+OMG standard	Meta Object Facility	1	1	16	8	0.800000000000	NULL	NULL	4	3	0.015625
+OMG standard metamodels	emerging Common Warehouse Metamodel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMG standard metamodels	UML	1	1	2	2	NULL	NULL	NULL	331	195	0.0015105740181268882
+omg's early object service specification	query	2	2	2	1	0.600000000000	NULL	NULL	342	190	0.005847953216374269
+omg's established standard	UML	1	1	3	3	0.500000000000	NULL	NULL	331	195	0.0010070493454179255
+omg's established standard	Meta-Object Facility	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+omg's established standard	XMI	1	1	3	3	0.500000000000	NULL	NULL	14	8	0.023809523809523808
+omg's modeling standard	UML	3	2	3	1	NULL	NULL	NULL	331	195	0.00906344410876133
+omgeo solution driver	globalization	1	1	1	1	NULL	NULL	NULL	1544	431	0.0006476683937823834
+omgitseduarda channel classic beauty	Veronica Lake	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+OMGs	Iron Horsemen	5	2	19	10	0.714285714285	NULL	NULL	6	2	0.21929824561403508
+OMGs	Galloping Goose	3	2	19	10	0.714285714285	NULL	NULL	6	4	0.07894736842105263
+OMGs	El Forastero	3	2	19	10	0.714285714285	NULL	NULL	4	2	0.11842105263157894
+OMGs	Southern Sons	2	1	19	10	0.714285714285	NULL	NULL	5	4	0.042105263157894736
+OMGs	Hells Angels Motorcycle Club	1	1	19	10	0.714285714285	NULL	NULL	3	3	0.017543859649122806
+OMGs	nationally affiliated Outlaws	1	1	19	10	0.714285714285	NULL	NULL	1	1	0.05263157894736842
+OMGs	Black Pistons	1	1	19	10	0.714285714285	NULL	NULL	3	3	0.017543859649122806
+OMGs	Vagos	1	1	19	10	0.714285714285	NULL	NULL	6	6	0.008771929824561403
+omgs	maricopa county omgs	1	1	19	10	0.714285714285	NULL	NULL	1	1	0.05263157894736842
+OMGs	Mongols	1	1	19	10	0.714285714285	NULL	NULL	118	65	0.0004460303300624442
+OMHA development program	Initiation Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+omic disadvantage	lack of education	1	1	2	2	NULL	NULL	NULL	229	90	0.002183406113537118
+omic disadvantage	poverty	1	1	2	2	NULL	NULL	NULL	5898	1419	0.00008477449983045101
+omic fundamental	tax policy	1	1	3	3	NULL	NULL	NULL	146	78	0.00228310502283105
+omic fundamental	political instability	1	1	3	3	NULL	NULL	NULL	236	84	0.0014124293785310734
+omic fundamental	openness	1	1	3	3	NULL	NULL	NULL	550	223	0.0006060606060606061
+omic indicator	GDP	1	1	1	1	NULL	NULL	NULL	717	318	0.001394700139470014
+omic instrument	minimum motor fuel tax	1	1	1	1	NULL	NULL	NULL	1	1	1
+omic technologies	genomics	1	1	4	4	NULL	NULL	NULL	430	152	0.0005813953488372093
+omic technologies	metabolomics	1	1	4	4	NULL	NULL	NULL	82	56	0.003048780487804878
+omic technologies	proteomics	1	1	4	4	NULL	NULL	NULL	461	209	0.0005422993492407809
+omic technologies	transcriptomics	1	1	4	4	NULL	NULL	NULL	95	71	0.002631578947368421
+omic technology	microarrays	1	1	4	4	NULL	NULL	NULL	399	197	0.0006265664160401002
+omic technology	proteomic studies of protein abundance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omic technology	genotyping via deep sequencing	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+omic technology	microarray analysis of gene expression	1	1	4	4	NULL	NULL	NULL	5	3	0.05
+omicageisasetof personal characteristic	taste	1	1	3	3	NULL	NULL	NULL	1186	404	0.0002810567734682406
+omicageisasetof personal characteristic	labor productivity	1	1	3	3	NULL	NULL	NULL	97	56	0.003436426116838488
+omicageisasetof personal characteristic	mortality	1	1	3	3	NULL	NULL	NULL	790	359	0.00042194092827004215
+omicindicators	GDP	1	1	1	1	NULL	NULL	NULL	717	318	0.001394700139470014
+omics	transcriptomics	3	3	3	1	0.750000000000	NULL	NULL	95	71	0.031578947368421054
+omics approach	expression array	1	1	2	2	0.500000000000	NULL	NULL	11	9	0.045454545454545456
+omics approach	proteomics	1	1	2	2	0.500000000000	NULL	NULL	461	209	0.0010845986984815619
+omics datum	gene expression	2	2	5	4	0.500000000000	NULL	NULL	170	98	0.004705882352941177
+omics datum	metabolomics datum	1	1	5	4	0.500000000000	NULL	NULL	3	3	0.06666666666666667
+omics datum	microarray gene expression datum	1	1	5	4	0.500000000000	NULL	NULL	2	2	0.1
+omics datum	protein-protein interaction network	1	1	5	4	0.500000000000	NULL	NULL	22	11	0.009090909090909092
+omics field	proteomics	1	1	1	1	NULL	NULL	NULL	461	209	0.0021691973969631237
+omics relatively new method	genomics	1	1	3	3	0.250000000000	NULL	NULL	430	152	0.0007751937984496124
+omics relatively new method	proteomics	1	1	3	3	0.250000000000	NULL	NULL	461	209	0.0007230657989877079
+omics relatively new method	transcriptomics	1	1	3	3	0.250000000000	NULL	NULL	95	71	0.003508771929824561
+omics study	proteomics	1	1	2	2	NULL	NULL	NULL	461	209	0.0010845986984815619
+omics study	transcriptomics	1	1	2	2	NULL	NULL	NULL	95	71	0.005263157894736842
+omics technique	transcriptomics	3	3	7	5	0.500000000000	NULL	NULL	95	71	0.013533834586466164
+omics technique	proteomics with saturated mutant collection	2	2	7	5	0.500000000000	NULL	NULL	2	1	0.2857142857142857
+omics technique	MS proteomics	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+omics technique	proteomics	1	1	7	5	0.500000000000	NULL	NULL	461	209	0.00030988534242330334
+omics technology	metagenomics	4	4	13	9	0.600000000000	NULL	NULL	40	21	0.03076923076923077
+omics technology	metabonomics	3	3	13	9	0.600000000000	NULL	NULL	15	11	0.04615384615384615
+omics technology	proteomics	2	1	13	9	0.600000000000	NULL	NULL	461	209	0.0006674453529117303
+omics technology	genome sequencing	1	1	13	9	0.600000000000	NULL	NULL	39	29	0.0019723865877712033
+omics technology	genomics	1	1	13	9	0.600000000000	NULL	NULL	430	152	0.0001788908765652952
+omics technology	transcriptomic analysis	1	1	13	9	0.600000000000	NULL	NULL	2	2	0.038461538461538464
+omics technology	lipidomics	1	1	13	9	0.600000000000	NULL	NULL	3	3	0.025641025641025644
+omics tool	genomics	1	1	1	1	NULL	NULL	NULL	430	152	0.002325581395348837
+omics-based approach	metabolomics	1	1	4	4	NULL	NULL	NULL	82	56	0.003048780487804878
+omics-based approach	genomics	1	1	4	4	NULL	NULL	NULL	430	152	0.0005813953488372093
+omics-based approach	proteomics	1	1	4	4	NULL	NULL	NULL	461	209	0.0005422993492407809
+omics-based approach	transcriptomics	1	1	4	4	NULL	NULL	NULL	95	71	0.002631578947368421
+omics-based technique	untargeted metabolic	1	1	1	1	NULL	NULL	NULL	1	1	1
+omicsexperiments	transcriptomics	1	1	1	1	NULL	NULL	NULL	95	71	0.010526315789473684
+omicstopics	theory of the firm	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+omidyar network fund organization	Ashoka	1	1	1	1	NULL	NULL	NULL	95	31	0.010526315789473684
+ominal condition	vehicle characteristic	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+ominal condition	randomly varied sensor measurement	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ominant passion	fear	1	1	1	1	NULL	NULL	NULL	5762	1341	0.00017355085039916696
+omine identification technique	maximum likelihood	1	1	1	1	NULL	NULL	NULL	227	140	0.004405286343612335
+ominous and brooding composition	Night Wind	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ominous and spooky landscape painting	Old Hunting Ground	1	1	1	1	NULL	NULL	NULL	1	1	1
+ominous animal	lion	1	1	1	1	NULL	NULL	NULL	2689	662	0.0003718854592785422
+ominous condition	ruptured aneurysm	2	2	5	3	0.333333333333	NULL	NULL	7	5	0.1142857142857143
+ominous condition	brain tumor	2	2	5	3	0.333333333333	NULL	NULL	469	173	0.0017057569296375268
+ominous condition	hydrocephalus	1	1	5	3	0.333333333333	NULL	NULL	220	112	0.0009090909090909091
+ominous consequence	divorce	1	1	2	2	NULL	NULL	NULL	5143	1237	0.00009721952167995334
+ominous consequence	prostitution	1	1	2	2	NULL	NULL	NULL	982	347	0.0005091649694501018
+ominous economic sign	falling dollar	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+ominous etiology	appendicitis	1	1	1	1	NULL	NULL	NULL	401	147	0.0024937655860349127
+ominous event	earthquake	1	1	1	1	NULL	NULL	NULL	7202	1407	0.00013885031935573453
+ominous innovation	stealth	1	1	1	1	NULL	NULL	NULL	140	84	0.007142857142857143
+ominous issue	global warming	2	1	3	2	NULL	NULL	NULL	2453	645	0.0005435521130588395
+ominous issue	pollution	1	1	3	2	NULL	NULL	NULL	3326	793	0.00010022048506714772
+ominous name	Jaws of Death	2	2	10	7	0.400000000000	NULL	NULL	4	3	0.1
+ominous name	Terminator	2	2	10	7	0.400000000000	NULL	NULL	209	77	0.0019138755980861245
+ominous name	Devil's Kitchen	2	2	10	7	0.400000000000	NULL	NULL	12	9	0.03333333333333333
+ominous name	Trojan horse	1	1	10	7	0.400000000000	NULL	NULL	222	97	0.00045045045045045046
+ominous name	Misery Row	1	1	10	7	0.400000000000	NULL	NULL	1	1	0.1
+ominous name	virus	1	1	10	7	0.400000000000	NULL	NULL	4964	1250	0.000020145044319097503
+ominous name	House of Blazes	1	1	10	7	0.400000000000	NULL	NULL	1	1	0.1
+ominous new development	emergence of narco-terrorism	1	1	1	1	NULL	NULL	NULL	1	1	1
+ominous program	Operation CHAOS	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ominous program	COINTELPRO	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+ominous radiological sign	progressive radiolucencies	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ominous roentgenographic sign	progressive bead shedding	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ominous roentgenographic sign	progressive radiolucencies	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ominous sexually transmitted disease	AIDS	1	1	2	2	NULL	NULL	NULL	2841	648	0.00017599436818021823
+ominous sexually transmitted disease	HIV	1	1	2	2	NULL	NULL	NULL	3465	701	0.0001443001443001443
+ominous sign	lingering anger over past relationship	2	2	16	15	0.833333333333	NULL	NULL	2	1	0.125
+ominous sign	complete paralysis	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	positive Babinski's reflex	1	1	16	15	0.833333333333	NULL	NULL	7	2	0.008928571428571428
+ominous sign	deceleration in the heart rate	1	1	16	15	0.833333333333	NULL	NULL	2	2	0.03125
+ominous sign	decerebrate posture	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	emerging LCCs in China	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	sullen	1	1	16	15	0.833333333333	NULL	NULL	9	5	0.006944444444444444
+ominous sign	trembling of the tachometer	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	sloppiness	1	1	16	15	0.833333333333	NULL	NULL	14	13	0.004464285714285714
+ominous sign	withdrawn behavior	1	1	16	15	0.833333333333	NULL	NULL	8	7	0.0078125
+ominous sign	trebling of the AirAsia fleet	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	cows becoming sterile	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	Manchurian Incident	1	1	16	15	0.833333333333	NULL	NULL	1	1	0.0625
+ominous sign	hypotension	1	1	16	15	0.833333333333	NULL	NULL	802	312	0.00007793017456359102
+ominous sign	root resorption	1	1	16	15	0.833333333333	NULL	NULL	9	8	0.006944444444444444
+ominous species	Bogan	1	1	3	3	0.750000000000	NULL	NULL	9	8	0.037037037037037035
+ominous species	Goth	1	1	3	3	0.750000000000	NULL	NULL	77	37	0.004329004329004329
+ominous species	Yobbo	1	1	3	3	0.750000000000	NULL	NULL	2	2	0.16666666666666666
+ominous subject	Quetzalcoatl	1	1	2	2	1.000000000000	NULL	NULL	12	7	0.041666666666666664
+ominous subject	various animal	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+ominous term	surveillance	1	1	1	1	NULL	NULL	NULL	758	346	0.0013192612137203166
+ominous weather	threatening thunderstorm	1	1	1	1	NULL	NULL	NULL	1	1	1
+ominous word	loyalty	1	1	1	1	NULL	NULL	NULL	1464	466	0.0006830601092896175
+ominous, disease	tuberculosis	1	1	1	1	NULL	NULL	NULL	3768	738	0.0002653927813163482
+ominous, global crisis	deforestation	1	1	2	2	0.333333333333	NULL	NULL	1325	372	0.0003773584905660377
+ominous, global crisis	ozone depletion	1	1	2	2	0.333333333333	NULL	NULL	295	112	0.001694915254237288
+ominously powerful institution	Congress	1	1	1	1	NULL	NULL	NULL	315	154	0.0031746031746031746
+omise important public objective	pr otection of the environment	1	1	1	1	NULL	NULL	NULL	1	1	1
+omission	criteria for scoring the result	3	1	94	83	0.540816326530	NULL	NULL	3	1	0.031914893617021274
+omission	classic anti-Communist diatribe	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	emerging stars like Ghana's Rocky Dawuni	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	Ray Lyon	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	Bud Moose	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	Jerry Ghionis	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	Ivorian phenomenon Alpha Blondy	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	SA Mann Brand	2	2	94	83	0.540816326530	NULL	NULL	3	2	0.014184397163120567
+omission	Tom Flowers	2	2	94	83	0.540816326530	NULL	NULL	2	1	0.02127659574468085
+omission	Jeff Ascough	2	2	94	83	0.540816326530	NULL	NULL	3	2	0.014184397163120567
+omission	Larousse Gastronomique	1	1	94	83	0.540816326530	NULL	NULL	3	3	0.0035460992907801418
+omission	high profile omission	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Hand Destruction	1	1	94	83	0.540816326530	NULL	NULL	10	3	0.0010638297872340426
+omission	form of Home Field Advantage	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	gender impacts of REDD	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Garage Door Remote	1	1	94	83	0.540816326530	NULL	NULL	2	2	0.005319148936170213
+omission	Tottenham's Gareth Bale	1	1	94	83	0.540816326530	NULL	NULL	4	4	0.0026595744680851063
+omission	Smenkhare	1	1	94	83	0.540816326530	NULL	NULL	2	2	0.005319148936170213
+omission	Sulfur	1	1	94	83	0.540816326530	NULL	NULL	1826	518	0.000005826011978280627
+omission	Steve Jobs from Apple	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	TPMS	1	1	94	83	0.540816326530	NULL	NULL	12	12	0.0008865248226950354
+omission	conductor Kurt Sanderling	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	1978 Padres	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Akhenaten	1	1	94	83	0.540816326530	NULL	NULL	10	9	0.0010638297872340426
+omission	Dessau	1	1	94	83	0.540816326530	NULL	NULL	3	3	0.0035460992907801418
+omission	Men Behind The Sun	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Man City's David Silva	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	very names the Chechens	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	senile	1	1	94	83	0.540816326530	NULL	NULL	14	11	0.0007598784194528875
+omission	ovine virus abortion	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	mythical	1	1	94	83	0.540816326530	NULL	NULL	8	8	0.0013297872340425532
+omission	Jack & Jill	1	1	94	83	0.540816326530	NULL	NULL	3	3	0.0035460992907801418
+omission	Jay Adams	1	1	94	83	0.540816326530	NULL	NULL	12	10	0.0008865248226950354
+omission	leaving out the precise time	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	M26 Pershing	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	infectious laryngotracheitis of fowl	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Bucky Larson	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Brock Lesanr	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Bittner	1	1	94	83	0.540816326530	NULL	NULL	4	3	0.0026595744680851063
+omission	Attack of the Graske	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	chronic dental causes of head pain	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	composers Aleksandr Davidenko	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	drug administration time	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	deciding on the charity	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Dark World Dealings	1	1	94	83	0.540816326530	NULL	NULL	6	2	0.0017730496453900709
+omission	Dello Joio	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Melody Thomas Scott	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Right Wing Sparkle	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Rathergate	1	1	94	83	0.540816326530	NULL	NULL	4	4	0.0026595744680851063
+omission	roll based on quantifiable attribute	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Windows 2000 Expo in San Francisco	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	writings of Hippocrates	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Yadkin River in North Carolina	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	seraglios for the monarch	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	very ample	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	People of the Southwind	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	missing flat-rate time	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	mucosal diseases of cattle	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Douglas MacArthur	1	1	94	83	0.540816326530	NULL	NULL	21	17	0.0005065856129685917
+omission	David William Shearing	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Angol Fear	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	things like Kanda	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Tom Bombadil	1	1	94	83	0.540816326530	NULL	NULL	11	6	0.0009671179883945841
+omission	Untold Story	1	1	94	83	0.540816326530	NULL	NULL	6	4	0.0017730496453900709
+omission	locally significant omission	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Greta Perry	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	great Dave Mackay	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Chailly	1	1	94	83	0.540816326530	NULL	NULL	10	5	0.0010638297872340426
+omission	full game launch lineup with date	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Bill Gothard	1	1	94	83	0.540816326530	NULL	NULL	9	7	0.001182033096926714
+omission	blackheaded munia	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Ay	1	1	94	83	0.540816326530	NULL	NULL	12	11	0.0008865248226950354
+omission	no Metallica	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Nikolay Peiko	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Smith's Notable Black American Women	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Welsh winger Ryan Giggs	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	translator Dionysius Exiguus	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Adjara	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Marcelo	1	1	94	83	0.540816326530	NULL	NULL	9	8	0.001182033096926714
+omission	Frank Mir	1	1	94	83	0.540816326530	NULL	NULL	16	10	0.0006648936170212766
+omission	basic feature omission	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	Ashingdon	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission	no citations for Barbara Creed	1	1	94	83	0.540816326530	NULL	NULL	1	1	0.010638297872340425
+omission person	vendor	1	1	4	4	NULL	NULL	NULL	566	280	0.00044169611307420494
+omission person	business partner	1	1	4	4	NULL	NULL	NULL	102	51	0.0024509803921568627
+omission person	general medium	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+omission person	customer	1	1	4	4	NULL	NULL	NULL	1648	542	0.00015169902912621358
+omittedpsychographic construct	ability	1	1	1	1	NULL	NULL	NULL	500	195	0.002
+omitting alpine form	Pygidium	1	1	1	1	NULL	NULL	NULL	1	1	1
+omitting concern	auditing	1	1	2	2	NULL	NULL	NULL	589	259	0.0008488964346349745
+omitting concern	security	1	1	2	2	NULL	NULL	NULL	8153	2525	0.00006132711885195633
+omitting country	China	1	1	3	3	NULL	NULL	NULL	30422	3640	0.000010956982885192733
+omitting country	Poland	1	1	3	3	NULL	NULL	NULL	4250	680	0.00007843137254901961
+omitting country	Russia	1	1	3	3	NULL	NULL	NULL	8825	1448	0.00003777148253068933
+omitting field	shipping address	1	1	1	1	NULL	NULL	NULL	144	48	0.006944444444444444
+omitting fragment	legs of a possible boar	1	1	1	1	NULL	NULL	NULL	1	1	1
+omitting heavy structure	tower	1	1	2	2	NULL	NULL	NULL	828	406	0.0006038647342995169
+omitting heavy structure	foundation	1	1	2	2	NULL	NULL	NULL	1308	584	0.00038226299694189603
+omitting hidden extra charge	tax	1	1	2	2	NULL	NULL	NULL	5258	1534	0.00009509319132750095
+omitting hidden extra charge	levy	1	1	2	2	NULL	NULL	NULL	156	93	0.003205128205128205
+omitting ingredient	binder	1	1	2	2	NULL	NULL	NULL	771	265	0.0006485084306095979
+omitting ingredient	flake control additive	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omitting medical intervention	vitamin K injection	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+omitting medical intervention	washing off the vernix	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omitting non-essential operation	plating of the bullet	1	1	1	1	NULL	NULL	NULL	1	1	1
+Omitting oil	non-detergent motor oil	1	1	1	1	NULL	NULL	NULL	1	1	1
+omitting policy variable	number of recruiter	1	1	1	1	NULL	NULL	NULL	1	1	1
+omitting school	Colorado	1	1	1	1	NULL	NULL	NULL	2800	379	0.00035714285714285714
+omitting starchy carbohydrate	rice	1	1	2	2	NULL	NULL	NULL	11473	2640	0.000043580580493332174
+omitting starchy carbohydrate	pasta	1	1	2	2	NULL	NULL	NULL	7372	1634	0.00006782419967444384
+omitting trans-regional prize	Joan Kelly Memorial Prize in Women's History	1	1	1	1	NULL	NULL	NULL	1	1	1
+omitting unhealthy lifestyle practice	smoking	1	1	1	1	NULL	NULL	NULL	12009	2006	0.00008327088017320343
+omix-ada product	Outland product	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMK activity	Yellow Ribbon Event	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMK activity	Speak Out for Military Kids	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMK partner organization	National Guard	2	2	7	6	0.500000000000	NULL	NULL	97	60	0.005891016200294551
+OMK partner organization	American Legion	1	1	7	6	0.500000000000	NULL	NULL	464	134	0.0003078817733990148
+OMK partner organization	school	1	1	7	6	0.500000000000	NULL	NULL	16053	4303	0.000008899093182404713
+OMK partner organization	Boys & Girls Clubs	1	1	7	6	0.500000000000	NULL	NULL	60	36	0.0023809523809523807
+OMK partner organization	UNH Cooperative Extension	1	1	7	6	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+OMK partner organization	UNL Cooperative Extension	1	1	7	6	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+OMM protein	Tom20	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+OMM protein	Bcl-xL	1	1	2	2	NULL	NULL	NULL	59	36	0.00847457627118644
+OMM technique	Lymphatic pump	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+OMM technique	soft tissue	1	1	2	2	NULL	NULL	NULL	78	50	0.00641025641025641
+omm's major client	Security Pacific National Bank	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+omm's major client	First Interstate Bank	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+ommand position	trustee	1	1	2	2	NULL	NULL	NULL	225	110	0.0022222222222222222
+ommand position	treasurer	1	1	2	2	NULL	NULL	NULL	462	166	0.0010822510822510823
+ommands	EXPAND BUS EFS	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+ommental exposure	diet	1	1	1	1	NULL	NULL	NULL	5762	1140	0.00017355085039916696
+OMMENTS Intangible property	copyright	1	1	1	1	NULL	NULL	NULL	1242	379	0.0008051529790660225
+ommerce aggregation site	Amazon	1	1	2	2	NULL	NULL	NULL	6750	1912	0.00007407407407407407
+ommerce aggregation site	ebay	1	1	2	2	NULL	NULL	NULL	4789	1206	0.00010440593025683859
+ommerce application type	mobile financial application	1	1	1	1	NULL	NULL	NULL	1	1	1
+ommerce company	Amazon	1	1	3	3	0.333333333333	NULL	NULL	6750	1912	0.00004938271604938271
+ommerce company	Priceline.com	1	1	3	3	0.333333333333	NULL	NULL	177	76	0.0018832391713747645
+ommerce company	Taobao	1	1	3	3	0.333333333333	NULL	NULL	32	28	0.010416666666666666
+ommerce pioneer	Amazon.com	1	1	1	1	NULL	NULL	NULL	2845	836	0.000351493848857645
+ommerce security risk	breaches of securi ty for confidential transactional information	1	1	1	1	NULL	NULL	NULL	1	1	1
+ommerce solution	online shopping cart	1	1	1	1	1.000000000000	NULL	NULL	17	15	0.058823529411764705
+ommerce support service	design of web site storefront	1	1	1	1	NULL	NULL	NULL	1	1	1
+ommerce web site	Amazon.com	1	1	1	1	NULL	NULL	NULL	2845	836	0.000351493848857645
+ommercial advertiser	government's department	1	1	1	1	NULL	NULL	NULL	1	1	1
+ommercial content distribution network	Akamai	1	1	3	3	0.500000000000	NULL	NULL	200	73	0.0016666666666666666
+ommercial content distribution network	Internap Network Services	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+ommercial content distribution network	Limelight Networks	1	1	3	3	0.500000000000	NULL	NULL	19	16	0.017543859649122806
+ommercial element	Chamber of Commerce	1	1	2	2	NULL	NULL	NULL	903	271	0.0005537098560354374
+ommercial element	organized cmnmeree	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ommercial establishment	hotel	1	1	2	2	NULL	NULL	NULL	7730	2372	0.0000646830530401035
+ommercial establishment	restaurant	1	1	2	2	NULL	NULL	NULL	11422	2864	0.00004377517072316582
+ommercial facility	hotel	1	1	2	2	0.500000000000	NULL	NULL	7730	2372	0.0000646830530401035
+ommercial facility	RV park	1	1	2	2	0.500000000000	NULL	NULL	31	21	0.016129032258064516
+ommercial vehicle	contractors truck	1	1	1	1	NULL	NULL	NULL	1	1	1
+ommissionable charge	production charge	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+ommissioners	Chris Craft	1	1	1	1	1.000000000000	NULL	NULL	21	15	0.047619047619047616
+ommodity asset	business equity	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ommon autoimmune disorder	rheumatoid arthritis	1	1	1	1	NULL	NULL	NULL	4358	694	0.0002294630564479119
+ommon digestive symptom	heartburn	1	1	5	5	NULL	NULL	NULL	967	284	0.00020682523267838678
+ommon digestive symptom	bloating	1	1	5	5	NULL	NULL	NULL	1711	392	0.0001168907071887785
+ommon digestive symptom	diarrhea	1	1	5	5	NULL	NULL	NULL	5108	1053	0.000039154267815191856
+ommon digestive symptom	gas	1	1	5	5	NULL	NULL	NULL	7329	2137	0.00002728885250375222
+ommon digestive symptom	constipation	1	1	5	5	NULL	NULL	NULL	3092	740	0.0000646830530401035
+ommon entity	congenital dyserythropoietic anemia	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ommon facility	coffee room	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+ommon feature	extra bass	1	1	1	1	NULL	NULL	NULL	1	1	1
+ommon fungus	mold	1	1	2	2	NULL	NULL	NULL	2011	616	0.0002486325211337643
+ommon fungus	mildew	1	1	2	2	NULL	NULL	NULL	443	192	0.001128668171557562
+ommon geometric shape	triangle	1	1	5	5	NULL	NULL	NULL	1711	617	0.0001168907071887785
+ommon geometric shape	oval	1	1	5	5	NULL	NULL	NULL	885	272	0.00022598870056497178
+ommon geometric shape	rectangle	1	1	5	5	NULL	NULL	NULL	1456	458	0.00013736263736263736
+ommon geometric shape	circle	1	1	5	5	NULL	NULL	NULL	2475	870	0.00008080808080808081
+ommon geometric shape	square	1	1	5	5	NULL	NULL	NULL	2942	979	0.00006798096532970769
+ommon herbivore	hare	1	1	1	1	NULL	NULL	NULL	477	152	0.0020964360587002098
+ommon household appliance	refrigerator	2	1	3	2	NULL	NULL	NULL	5220	1209	0.00025542784163473816
+ommon household appliance	television	1	1	3	2	NULL	NULL	NULL	8405	2451	0.000039658933174697595
+ommon household pet	dog	1	1	1	1	NULL	NULL	NULL	7516	1309	0.00013304949441192123
+ommon household product	perfume	1	1	1	1	NULL	NULL	NULL	2491	732	0.0004014452027298274
+ommon indicator	RSI	1	1	3	4	0.500000000000	NULL	NULL	273	91	0.001221001221001221
+ommon indicator	Fibonacci Tools	1	1	3	4	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ommon indicator	DMI	1	1	3	4	0.500000000000	NULL	NULL	27	19	0.012345679012345678
+ommon kind	capon	1	1	6	6	0.166666666666	NULL	NULL	15	13	0.01111111111111111
+ommon kind	pig	1	1	6	6	0.166666666666	NULL	NULL	2963	686	0.00005624929688378895
+ommon kind	beef	1	1	6	6	0.166666666666	NULL	NULL	3913	1020	0.0000425930658488798
+ommon kind	mutton	1	1	6	6	0.166666666666	NULL	NULL	175	87	0.0009523809523809524
+ommon kind	duck	1	1	6	6	0.166666666666	NULL	NULL	2517	714	0.00006621639517944642
+ommon kind	geese	1	1	6	6	0.166666666666	NULL	NULL	1021	245	0.0001632386549134835
+ommon material	water	1	1	1	1	NULL	NULL	NULL	25348	6311	0.000039450844248066906
+ommon name	execution engine	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ommon name	virtual prototype	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ommon paradigm	lifelong learning	1	1	1	1	NULL	NULL	NULL	118	73	0.00847457627118644
+ommon pest	house fly	1	1	2	2	NULL	NULL	NULL	95	31	0.005263157894736842
+ommon pest	mosquito	1	1	2	2	NULL	NULL	NULL	1421	296	0.0003518648838845883
+ommon plant dye	weld	1	1	2	2	0.500000000000	NULL	NULL	124	72	0.004032258064516129
+ommon plant dye	madder root	1	1	2	2	0.500000000000	NULL	NULL	14	10	0.03571428571428571
+ommon species	eastern meadowlark	1	1	3	3	1.000000000000	NULL	NULL	103	34	0.0032362459546925564
+ommon species	northern bobwhite	1	1	3	3	1.000000000000	NULL	NULL	49	19	0.006802721088435374
+ommon species	field sparrow	1	1	3	3	1.000000000000	NULL	NULL	43	22	0.007751937984496124
+OMMON W EEDS annual grass	Ripgut brome	1	1	2	2	0.500000000000	NULL	NULL	16	15	0.03125
+OMMON W EEDS annual grass	Wild oat	1	1	2	2	0.500000000000	NULL	NULL	127	69	0.003937007874015748
+ommondiseases	diabetes	1	1	5	5	NULL	NULL	NULL	23990	3013	0.000008336807002917883
+ommondiseases	psychiatric illness	1	1	5	5	NULL	NULL	NULL	57	32	0.0035087719298245615
+ommondiseases	cancer	1	1	5	5	NULL	NULL	NULL	12145	2003	0.00001646768217373405
+ommondiseases	cardiovascular disease	1	1	5	5	NULL	NULL	NULL	2270	593	0.0000881057268722467
+ommondiseases	obesity	1	1	5	5	NULL	NULL	NULL	7193	1475	0.000027804810232170168
+ommonly available substance	golden seal	2	2	2	1	1.000000000000	NULL	NULL	92	35	0.021739130434782608
+OMMONLY USED STATISTICAL method	factor analysis	1	1	2	2	NULL	NULL	NULL	479	213	0.0010438413361169101
+OMMONLY USED STATISTICAL method	regression analysis	1	1	2	2	NULL	NULL	NULL	365	169	0.0013698630136986301
+ommunal task	street cleaning	1	1	1	1	NULL	NULL	NULL	159	77	0.006289308176100629
+ommunicable disease	cancer	1	1	1	1	NULL	NULL	NULL	12145	2003	0.00008233841086867023
+ommunication network	mobile telephony	1	1	2	2	NULL	NULL	NULL	117	65	0.004273504273504274
+ommunication network	satellite communication	1	1	2	2	NULL	NULL	NULL	166	92	0.0030120481927710845
+ommunication program	AOL Instant Messenger	1	1	2	2	NULL	NULL	NULL	194	78	0.002577319587628866
+ommunication program	mirc	1	1	2	2	NULL	NULL	NULL	137	29	0.0036496350364963502
+ommunications	project update	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+ommunities	Burlington	1	1	2	2	NULL	NULL	NULL	183	64	0.00273224043715847
+ommunities	Des Moines	1	1	2	2	NULL	NULL	NULL	135	46	0.003703703703703704
+ommunity	Hamilton	1	1	1	1	NULL	NULL	NULL	532	190	0.0018796992481203006
+OMMUNITY large service-learning initiative	Philadelphia	1	1	1	1	NULL	NULL	NULL	1871	389	0.0005344735435595938
+ommunity program initiative	social mobilization campaign in Malawi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ommunity program initiative	community support program in Balochistan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ommunity service	public safety	1	1	2	2	NULL	NULL	NULL	653	272	0.0007656967840735069
+ommunity service	health	1	1	2	2	NULL	NULL	NULL	12226	3162	0.000040896450188123673
+ommunity-based monitoring instrument	scorecard	1	1	1	1	NULL	NULL	NULL	61	42	0.01639344262295082
+Omni directional antennas	dipole	1	1	1	1	NULL	NULL	NULL	152	95	0.006578947368421052
+omni hotel canada hiring worker	accountant	1	1	1	1	NULL	NULL	NULL	3451	845	0.0002897710808461316
+OMNI Memento reward item	lapel pin	1	1	2	2	1.000000000000	NULL	NULL	87	51	0.005747126436781609
+OMNI Memento reward item	presentation certificate	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+omni pattern dynamic stage mics	Audio Technica AT804	1	1	1	1	NULL	NULL	NULL	1	1	1
+omni world entertainment musician	Young Fierce	1	1	1	1	NULL	NULL	NULL	1	1	1
+omni-directional antennas	dipole	1	1	2	2	NULL	NULL	NULL	152	95	0.003289473684210526
+omni-directional antennas	vertical dipole antennas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omni-directional bulb	Lighting Science Definity A19 Omni	1	1	1	1	NULL	NULL	NULL	1	1	1
+omni-directional cell communication system	ground-based military communication	2	2	2	1	NULL	NULL	NULL	2	1	1
+omni-directional instrument	flute mentioned in Vance Koven's review of the opening concert	2	1	2	1	NULL	NULL	NULL	2	1	1
+omni-directional interface	cone display	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omni-directional interface	CAVE display	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omni-directional interface	room display	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omni-directional microphone	ones built into the Olympus recorder	1	1	1	1	NULL	NULL	NULL	1	1	1
+omni-directional receiving antennas	Vertically Stacked Dipole antennas	1	1	1	1	NULL	NULL	NULL	1	1	1
+Omni-directional rod antennas	AM-901	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Omni-directional rod antennas	AM-903	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omni-directional scanner	scanners used in supermarket	1	1	1	1	NULL	NULL	NULL	1	1	1
+omni-directional seat arrangement	pit group	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnibridge client	Schlumberger	1	1	2	2	NULL	NULL	NULL	235	104	0.002127659574468085
+omnibridge client	BP	1	1	2	2	NULL	NULL	NULL	1912	562	0.0002615062761506276
+omnibus	Genesis of the Daleks	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omnibus bill	Harper Government's Federal Accountability Act	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnibus bill	Bill C-68	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnibus collection	Casting the Runes	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnibus component	Desktop Event List user	1	0	4	4	NULL	NULL	NULL	1	1	0.25
+omnibus component	gateway	1	0	4	4	NULL	NULL	NULL	997	413	0.00025075225677031093
+omnibus component	probe	1	0	4	4	NULL	NULL	NULL	245	134	0.0010204081632653062
+omnibus component	proxy server	1	0	4	4	NULL	NULL	NULL	125	81	0.002
+omnibus concept	belief system	1	1	1	1	1.000000000000	NULL	NULL	45	30	0.022222222222222223
+omnibus course	Research Methods	1	1	1	1	1.000000000000	NULL	NULL	41	12	0.024390243902439025
+omnibus deployment support contract	LOGCAP	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+omnibus edition	City Watch Trilogy	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnibus film	Paris	1	1	3	3	NULL	NULL	NULL	2463	715	0.00013533631073216944
+omnibus film	New York Stories	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+omnibus film	Four Rooms	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+omnibus nonparametric test	order selection test	2	2	2	1	NULL	NULL	NULL	2	1	1
+omnibus personality inventory	Minnesota Multiphasic Personality InventoryII	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnibus personality inventory	Jackson's Personality Research Form	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omnibus sexual inventory	Golumbok Russ Inventory of Sexual Satisfaction	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnibus site	Amazon.com	1	1	2	2	0.500000000000	NULL	NULL	2845	836	0.0001757469244288225
+omnibus site	Wikipedia.com	1	1	2	2	0.500000000000	NULL	NULL	19	11	0.02631578947368421
+omnibus survey	National Opinion Research Corporation's General Social Survey	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnibus test	Clinical Evaluation of Language Fundamentals-3	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnibus test statistic	likelihood ratio test	2	2	4	2	1.000000000000	NULL	NULL	30	21	0.03333333333333333
+omnibus test statistic	F statistic	2	2	4	2	1.000000000000	NULL	NULL	7	4	0.14285714285714285
+omnibus type volume	Collected Works	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omnibus-type organization	Kobudo Shinkokai	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnibus-type organization	Kokusai Budoin	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omnicareprovides ancillary service	infusion therapy	1	1	1	1	1.000000000000	NULL	NULL	32	18	0.03125
+omnicom advertising agency	DDB	1	1	1	1	1.000000000000	NULL	NULL	20	10	0.05
+omnicom agency	TBWA	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+omnicom agency	Fleishman Hillard	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+omnidirectional and shallow-reading tool	gamma ray	1	1	1	1	NULL	NULL	NULL	177	105	0.005649717514124294
+omnidirectional antenna	stub antenna	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnidirectional antenna	quarter-wave length dipole	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Omnidirectional antennas	dipole	2	2	10	8	0.500000000000	NULL	NULL	152	95	0.002631578947368421
+Omnidirectional antennas	dipole antennas	2	2	10	8	0.500000000000	NULL	NULL	7	5	0.05714285714285715
+Omnidirectional antennas	quarter-wave monopoles above ground	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+Omnidirectional antennas	low-gain Omnidirectional antennas	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+Omnidirectional antennas	monopoles	1	1	10	8	0.500000000000	NULL	NULL	24	20	0.004166666666666667
+Omnidirectional antennas	half-wave dipoles in free space	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+Omnidirectional antennas	High-gain Omnidirectional antennas	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+Omnidirectional antennas	Winegard MS2002	1	1	10	8	0.500000000000	NULL	NULL	1	1	0.1
+omnidirectional application	common table lamp	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnidirectional array	cylindrical array	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnidirectional bar code	reduced space symbology bar code	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnidirectional beacon	used in TACAN radio navigation system	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnidirectional device	AKG D230 ENG Dynamic Mic	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Omnidirectional lighting	traditional A lamp	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnidirectional microphone	condenser microphone	1	1	1	1	1.000000000000	NULL	NULL	16	16	0.0625
+omnidirectional robot	slug bots	2	2	2	1	NULL	NULL	NULL	2	1	1
+omnidirectional source	lamp	1	1	1	1	NULL	NULL	NULL	1859	806	0.0005379236148466917
+OMNIE initiative	SLP Shortages Task Force	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMNIE initiative	Project Inspire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnifarious form	investments instruments for higher gain	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+omniform's intelligent form feature	automatic calculation	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+omniignores message	duplicateIGP message	1	1	1	1	NULL	NULL	NULL	1	1	1
+Omnimover dark ride	Disney's Haunted Mansion	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+omniocular visioning system	motion capture	1	1	1	1	1.000000000000	NULL	NULL	57	26	0.017543859649122806
+omnipacs inc. s corporate IT asset	support portal	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+omnipacs inc. s corporate IT asset	customer relationship management	1	1	3	3	NULL	NULL	NULL	559	270	0.0005963029218843172
+omnipacs inc. s corporate IT asset	wikis	1	1	3	3	NULL	NULL	NULL	1882	537	0.00017711654268508679
+omnipage function	advanced image processing	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+omnipage's capability	advanced image processing	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+omnipotence	Jahaziel	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+omnipotent bird	seagull	1	1	3	3	NULL	NULL	NULL	171	77	0.001949317738791423
+omnipotent bird	osprey	1	1	3	3	NULL	NULL	NULL	568	178	0.0005868544600938967
+omnipotent bird	egret	1	1	3	3	NULL	NULL	NULL	492	107	0.0006775067750677507
+omnipotent entity	Judeo-Christian God	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnipotent figure	Dickens Inspector Bucket	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omnipotent screen feature	Intel Core i3 processing force	1	1	1	1	NULL	NULL	NULL	1	1	1
+omnipotent variable	environment	1	1	2	2	NULL	NULL	NULL	5164	1151	0.00009682416731216112
+omnipotent variable	feed	1	1	2	2	NULL	NULL	NULL	539	233	0.0009276437847866419
+omnipotent, supra-state organization	IMF	1	1	1	1	NULL	NULL	NULL	1322	332	0.0007564296520423601
+omnipresent brew	Budweiser	1	1	2	2	NULL	NULL	NULL	408	185	0.0012254901960784314
+omnipresent brew	Miller	1	1	2	2	NULL	NULL	NULL	428	193	0.0011682242990654205
+omnipresent component	water vapor	1	1	1	1	NULL	NULL	NULL	865	204	0.0011560693641618498
+omnipresent consideration	federal navigational servitude	1	0	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+omnipresent consideration	permit	1	0	3	3	0.500000000000	NULL	NULL	527	239	0.0006325110689437065
+omnipresent consideration	public trust doctrine	1	0	3	3	0.500000000000	NULL	NULL	7	7	0.047619047619047616
+omnipresent corporate identity	IBM	1	1	1	1	NULL	NULL	NULL	11151	2595	0.0000896780557797507
+omnipresent device	wall-embedded digital window	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnipresent device	wearable electronics	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+omnipresent digital device	laptop	1	1	3	3	NULL	NULL	NULL	4510	1266	0.00007390983000739098
+omnipresent digital device	tablet computer	1	1	3	3	NULL	NULL	NULL	234	97	0.0014245014245014244
+omnipresent digital device	smartphones	1	1	3	3	NULL	NULL	NULL	1634	468	0.0002039983680130559
+omnipresent element	air	1	1	1	1	NULL	NULL	NULL	4803	1359	0.00020820320632937748
+omnipresent file format	PDF	1	1	1	1	NULL	NULL	NULL	1196	357	0.0008361204013377926
+omnipresent freebie	paper weight	2	2	4	2	1.000000000000	NULL	NULL	61	47	0.01639344262295082
+omnipresent freebie	pad paper	2	2	4	2	1.000000000000	NULL	NULL	4	3	0.25
+omnipresent impurity	carbon	1	1	3	3	NULL	NULL	NULL	2478	876	0.00013451708366962604
+omnipresent impurity	silicon	1	1	3	3	NULL	NULL	NULL	2595	737	0.00012845215157353886
+omnipresent impurity	oxygen	1	1	3	3	NULL	NULL	NULL	4210	1106	0.0000791765637371338
+omnipresent minimarts	KK in Malaysia	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnipresent minimarts	7-11 in Thailand	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omnipresent object	bicycle	1	1	5	5	NULL	NULL	NULL	1604	596	0.00012468827930174565
+omnipresent object	lunch-pack container	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+omnipresent object	milk carton	1	1	5	5	NULL	NULL	NULL	163	87	0.001226993865030675
+omnipresent object	pan	1	1	5	5	NULL	NULL	NULL	1034	472	0.00019342359767891685
+omnipresent object	can	1	1	5	5	NULL	NULL	NULL	903	306	0.00022148394241417498
+omnipresent social networking tool	Twitter	1	1	3	3	NULL	NULL	NULL	16193	2280	0.00002058502645175899
+omnipresent social networking tool	Facebook	1	1	3	3	NULL	NULL	NULL	29637	3798	0.000011247202258438213
+omnipresent social networking tool	LinkedIn	1	1	3	3	NULL	NULL	NULL	4626	839	0.00007205649228995532
+omnipresent taken-for-granted convenience	cell phone	1	1	1	1	NULL	NULL	NULL	8165	2060	0.0001224739742804654
+omnipresent toy gadget	Wii	1	1	1	2	NULL	NULL	NULL	366	142	0.00273224043715847
+omniscan ix feature	C-scan display	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omniscan ix feature	strip-chart recorder	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omniscient being	Christian God	1	1	2	2	0.500000000000	NULL	NULL	17	13	0.029411764705882353
+omniscient being	Buddha	1	1	2	2	0.500000000000	NULL	NULL	464	191	0.0010775862068965517
+omniscient character	beggar in Giraudoux's Electre	1	1	1	1	NULL	NULL	NULL	1	1	1
+omniscient figure	Dickens Inspector Bucket	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omniscient god	Abrahamic God	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omniscient writer	Sterne	1	1	4	4	0.750000000000	NULL	NULL	17	10	0.014705882352941176
+omniscient writer	Trollope	1	1	4	4	0.750000000000	NULL	NULL	14	8	0.017857142857142856
+omniscient writer	Thackeray	1	1	4	4	0.750000000000	NULL	NULL	23	12	0.010869565217391304
+omniscient writer	Fielding	1	1	4	4	0.750000000000	NULL	NULL	67	37	0.0037313432835820895
+omnisubject cartoon	Far Side	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+omnitracs customer	Tenn.-based Covenant Transport	1	1	1	1	NULL	NULL	NULL	1	1	1
+omniverous animal	man	1	1	1	1	NULL	NULL	NULL	468	234	0.002136752136752137
+omnivore	bear	51	43	260	66	0.285714285714	NULL	NULL	2588	668	0.0038654737843300435
+omnivore	human	47	38	260	66	0.285714285714	NULL	NULL	2675	720	0.003176132278936017
+omnivore	pig	31	27	260	66	0.285714285714	NULL	NULL	2963	686	0.0012474363301227967
+omnivore	raccoon	15	14	260	66	0.285714285714	NULL	NULL	2571	467	0.0003365945606319002
+omnivore	dog	10	10	260	66	0.285714285714	NULL	NULL	7516	1309	0.000051172882466123556
+omnivore	cockroach	8	8	260	66	0.285714285714	NULL	NULL	1013	229	0.00024299491229402387
+omnivore	rat	7	7	260	66	0.285714285714	NULL	NULL	3271	707	0.00005761587846577146
+omnivore	opossum	6	6	260	66	0.285714285714	NULL	NULL	657	174	0.00021074815595363542
+omnivore	chimpanzee	5	4	260	66	0.285714285714	NULL	NULL	699	160	0.0001375591504346869
+omnivore	fox	4	4	260	66	0.285714285714	NULL	NULL	3360	860	0.000018315018315018315
+omnivore	grizzly bear	4	3	260	66	0.285714285714	NULL	NULL	450	133	0.00013675213675213676
+omnivore	crab	4	4	260	66	0.285714285714	NULL	NULL	2211	674	0.000027832863653759176
+omnivore	monkey	3	3	260	66	0.285714285714	NULL	NULL	1546	386	0.000022390287590805056
+omnivore	Baboons	2	1	260	66	0.285714285714	NULL	NULL	2	8	0.007692307692307693
+omnivore	brown bear	2	2	260	66	0.285714285714	NULL	NULL	210	73	0.00007326007326007326
+omnivore	crow	2	2	260	66	0.285714285714	NULL	NULL	183	80	0.00008406893652795292
+omnivore	Annelida	2	2	260	66	0.285714285714	NULL	NULL	16	12	0.0009615384615384616
+omnivore	sponge	2	2	260	66	0.285714285714	NULL	NULL	1426	554	0.000010788650339842487
+omnivore	racoon	2	2	260	66	0.285714285714	NULL	NULL	133	53	0.0001156737998843262
+omnivore	damsel bug	2	2	260	66	0.285714285714	NULL	NULL	40	16	0.0003846153846153846
+omnivore	Bearded Dragons	2	1	260	66	0.285714285714	NULL	NULL	8	13	0.0019230769230769232
+omnivore	mole	2	2	260	66	0.285714285714	NULL	NULL	650	282	0.000023668639053254438
+omnivore	shrew	2	2	260	66	0.285714285714	NULL	NULL	296	75	0.00005197505197505198
+omnivore	rodent	2	2	260	66	0.285714285714	NULL	NULL	1475	371	0.000010430247718383312
+omnivore	common carp	2	1	260	66	0.285714285714	NULL	NULL	134	73	0.0001148105625717566
+omnivore	chicken	2	2	260	66	0.285714285714	NULL	NULL	8933	2087	0.000001722222700617417
+omnivore	octopus	2	2	260	66	0.285714285714	NULL	NULL	521	229	0.000029529012254540086
+omnivore	life history omnivore	1	1	260	66	0.285714285714	NULL	NULL	1	1	0.0038461538461538464
+omnivore	Jackdaw	1	1	260	66	0.285714285714	NULL	NULL	13	11	0.0002958579881656805
+omnivore	design concession ``by-design'' omnivore	1	1	260	66	0.285714285714	NULL	NULL	1	1	0.0038461538461538464
+omnivore	Oviraptor	1	1	260	66	0.285714285714	NULL	NULL	8	5	0.0004807692307692308
+omnivore	bandicoots	1	1	260	66	0.285714285714	NULL	NULL	66	30	0.000058275058275058275
+omnivore	Honey Badgers	1	1	260	66	0.285714285714	NULL	NULL	2	2	0.0019230769230769232
+omnivore	squirrel	1	1	260	66	0.285714285714	NULL	NULL	1857	359	0.000002071165237562653
+omnivore	crayfish	1	1	260	66	0.285714285714	NULL	NULL	508	204	0.000007571168988491824
+omnivore	American black duck	1	1	260	66	0.285714285714	NULL	NULL	29	19	0.00013262599469496023
+omnivore	normal human being	1	1	260	66	0.285714285714	NULL	NULL	1	1	0.0038461538461538464
+omnivore	Moorish idol	1	1	260	66	0.285714285714	NULL	NULL	13	8	0.0002958579881656805
+omnivore	moose	1	1	260	66	0.285714285714	NULL	NULL	1131	297	0.0000034006665306400056
+omnivore	mongoose	1	1	260	66	0.285714285714	NULL	NULL	256	93	0.000015024038461538462
+omnivore	monkey's	1	1	260	66	0.285714285714	NULL	NULL	2	2	0.0019230769230769232
+omnivore	red fox	1	1	260	66	0.285714285714	NULL	NULL	350	105	0.00001098901098901099
+omnivore	ring-necked duck	1	1	260	66	0.285714285714	NULL	NULL	33	14	0.00011655011655011655
+omnivore	hog	1	1	260	66	0.285714285714	NULL	NULL	196	92	0.000019623233908948195
+omnivore	human being	1	1	260	66	0.285714285714	NULL	NULL	212	119	0.0000181422351233672
+omnivore	laboratory rodent	1	1	260	66	0.285714285714	NULL	NULL	5	5	0.0007692307692307692
+omnivore	coyote	1	1	260	66	0.285714285714	NULL	NULL	1829	394	0.0000021028725238676033
+omnivore	toad	1	1	260	66	0.285714285714	NULL	NULL	472	141	0.000008148631029986962
+omnivore	meerkat	1	1	260	66	0.285714285714	NULL	NULL	12	16	0.0003205128205128205
+omnivore	ring-necked pheasant	1	0	260	66	0.285714285714	NULL	NULL	93	34	0.000041356492969396195
+omnivore	sandhill crane	1	1	260	66	0.285714285714	NULL	NULL	98	43	0.00003924646781789639
+omnivore	seagull	1	1	260	66	0.285714285714	NULL	NULL	171	77	0.00002249212775528565
+omnivore	skunk	1	1	260	66	0.285714285714	NULL	NULL	1187	255	0.0000032402307044261553
+omnivore	western flower thrips	1	1	260	66	0.285714285714	NULL	NULL	14	9	0.0002747252747252747
+omnivore	ostrich	1	1	260	66	0.285714285714	NULL	NULL	716	244	0.000005371723248818221
+omnivore	otter	1	1	260	66	0.285714285714	NULL	NULL	715	212	0.000005379236148466918
+omnivore	Pyxidea mouhouti	1	1	260	66	0.285714285714	NULL	NULL	1	1	0.0038461538461538464
+omnivore	racoon dog	1	1	260	66	0.285714285714	NULL	NULL	2	2	0.0019230769230769232
+omnivore	turtle	1	1	260	66	0.285714285714	NULL	NULL	1614	486	0.0000023829949480507104
+omnivore	local green crayfish	1	1	260	66	0.285714285714	NULL	NULL	1	1	0.0038461538461538464
+omnivore	primate	1	1	260	66	0.285714285714	NULL	NULL	365	112	0.000010537407797681771
+omnivore	raven	1	1	260	66	0.285714285714	NULL	NULL	404	165	0.000009520182787509521
+omnivore	Northern Lapwing	1	1	260	66	0.285714285714	NULL	NULL	10	8	0.0003846153846153846
+omnivore	Phyllostomus hastatus	1	1	260	66	0.285714285714	NULL	NULL	2	2	0.0019230769230769232
+omnivore animal	cervidae	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omnivore animal	equidae	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+omnivore mals	equidae	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+omnivore mals	cervidae	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Omnivores-species	ant	1	0	2	2	NULL	NULL	NULL	1658	410	0.00030156815440289503
+Omnivores-species	wasp	1	0	2	2	NULL	NULL	NULL	898	212	0.0005567928730512249
+omnivorous , vegetable	spinach	1	1	1	1	NULL	NULL	NULL	8593	1370	0.00011637379262190155
+omnivorous and carnivorous Minnesota species	lynx	1	1	5	5	NULL	NULL	NULL	725	247	0.00027586206896551725
+omnivorous and carnivorous Minnesota species	coyote	1	1	5	5	NULL	NULL	NULL	1829	394	0.00010934937124111536
+omnivorous and carnivorous Minnesota species	wolf	1	1	5	5	NULL	NULL	NULL	2340	606	0.00008547008547008547
+omnivorous and carnivorous Minnesota species	fox	1	1	5	5	NULL	NULL	NULL	3360	860	0.000059523809523809524
+omnivorous and carnivorous Minnesota species	bear	1	1	5	5	NULL	NULL	NULL	2588	668	0.00007727975270479135
+Omnivorous and frugivorous carnivorans	palm civet	1	1	1	1	0.333333333333	NULL	NULL	10	7	0.1
+omnivorous and fruit-eating bird	European starling	1	1	3	3	NULL	NULL	NULL	116	49	0.0028735632183908046
+omnivorous and fruit-eating bird	American robin	1	1	3	3	NULL	NULL	NULL	138	57	0.0024154589371980675
+omnivorous and fruit-eating bird	house sparrow	1	1	3	3	NULL	NULL	NULL	258	88	0.0012919896640826872
+Omnivorous and herbivorous fish	parrot fish	3	3	6	3	1.000000000000	NULL	NULL	66	30	0.022727272727272728
+Omnivorous and herbivorous fish	surgeon fish	2	2	6	3	1.000000000000	NULL	NULL	22	15	0.0303030303030303
+Omnivorous and herbivorous fish	surgeonfish	1	1	6	3	1.000000000000	NULL	NULL	42	20	0.003968253968253968
+Omnivorous and herbivorous species	carp	1	1	2	2	NULL	NULL	NULL	781	232	0.0006402048655569782
+Omnivorous and herbivorous species	catfish	1	1	2	2	NULL	NULL	NULL	1011	331	0.0004945598417408506
+omnivorous and hunt game	deer	1	1	1	1	NULL	NULL	NULL	4037	801	0.00024770869457517957
+Omnivorous and insectivorous species	Numbat	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+Omnivorous and pisciverous fish	Nile perch	1	1	2	2	0.500000000000	NULL	NULL	32	15	0.015625
+Omnivorous and pisciverous fish	salmon	1	1	2	2	0.500000000000	NULL	NULL	9653	1413	0.00005179736869367036
+Omnivorous and scavenging fish species	catfish	1	1	1	1	NULL	NULL	NULL	1011	331	0.0009891196834817012
+omnivorous animal	bear	8	7	20	9	NULL	NULL	NULL	2588	668	0.0012364760432766616
+omnivorous animal	dog	3	2	20	9	NULL	NULL	NULL	7516	1309	0.00005987227248536455
+omnivorous animal	pig	2	2	20	9	NULL	NULL	NULL	2963	686	0.00006749915626054675
+omnivorous animal	raccoon	2	2	20	9	NULL	NULL	NULL	2571	467	0.00007779074290159472
+omnivorous animal	iguana	1	1	20	9	NULL	NULL	NULL	363	100	0.00013774104683195594
+omnivorous animal	human being	1	1	20	9	NULL	NULL	NULL	212	119	0.0002358490566037736
+omnivorous animal	rat	1	1	20	9	NULL	NULL	NULL	3271	707	0.000015285845307245493
+omnivorous animal	chimpanzee	1	1	20	9	NULL	NULL	NULL	699	160	0.0000715307582260372
+omnivorous animal	opossum	1	1	20	9	NULL	NULL	NULL	657	174	0.00007610350076103501
+omnivorous bat	Phyllostomidae	2	1	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+omnivorous bat	Phyllostomus hastatus	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+omnivorous bird	insectivorous and omnivorous bird	1	1	8	8	0.400000000000	NULL	NULL	2	2	0.0625
+omnivorous bird	thrush	1	1	8	8	0.400000000000	NULL	NULL	510	184	0.00024509803921568627
+omnivorous bird	Pied Currawong	1	1	8	8	0.400000000000	NULL	NULL	6	7	0.020833333333333332
+omnivorous bird	black cockatoo	1	1	8	8	0.400000000000	NULL	NULL	4	4	0.03125
+omnivorous bird	emu	1	1	8	8	0.400000000000	NULL	NULL	218	89	0.0005733944954128441
+omnivorous bird	Australian Raven	1	1	8	8	0.400000000000	NULL	NULL	4	3	0.03125
+omnivorous bird	Silvereye	1	1	8	8	0.400000000000	NULL	NULL	15	12	0.008333333333333333
+omnivorous bird	seagull	1	1	8	8	0.400000000000	NULL	NULL	171	77	0.0007309941520467836
+omnivorous carnivore	bear	2	2	4	2	NULL	NULL	NULL	2588	668	0.0003863987635239567
+omnivorous carnivore	raccoon	2	2	4	2	NULL	NULL	NULL	2571	467	0.00038895371450797355
+Omnivorous ciliates	F. leucas	2	2	2	1	NULL	NULL	NULL	2	1	1
+omnivorous dinosaur	Massospondylus	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Omnivorous fish	carp	3	3	13	10	0.142857142857	NULL	NULL	781	232	0.000886437506155816
+Omnivorous fish	channel catfish	2	2	13	10	0.142857142857	NULL	NULL	168	56	0.0018315018315018315
+Omnivorous fish	tilapia	1	1	13	10	0.142857142857	NULL	NULL	740	278	0.00010395010395010396
+Omnivorous fish	Centrarchidae	1	1	13	10	0.142857142857	NULL	NULL	5	3	0.015384615384615385
+Omnivorous fish	central stoneroller minnow	1	1	13	10	0.142857142857	NULL	NULL	1	1	0.07692307692307693
+Omnivorous fish	angel	1	1	13	10	0.142857142857	NULL	NULL	798	431	0.00009639483323693851
+Omnivorous fish	tang	1	1	13	10	0.142857142857	NULL	NULL	106	61	0.000725689404934688
+Omnivorous fish	butterfly	1	1	13	10	0.142857142857	NULL	NULL	1656	673	0.00004645113340765515
+Omnivorous fish	common carp	1	1	13	10	0.142857142857	NULL	NULL	134	73	0.000574052812858783
+Omnivorous fish	siluroid catfish	1	1	13	10	0.142857142857	NULL	NULL	1	1	0.07692307692307693
+omnivorous fish species	tilapia	5	4	7	3	NULL	NULL	NULL	740	278	0.004826254826254826
+omnivorous fish species	exotic omnivorous fish species	1	1	7	3	NULL	NULL	NULL	3	3	0.047619047619047616
+omnivorous fish species	carp	1	1	7	3	NULL	NULL	NULL	781	232	0.00018291567587342235
+omnivorous insect	cockroach	2	2	4	3	NULL	NULL	NULL	1013	229	0.0009871668311944718
+omnivorous insect	cricket	1	1	4	3	NULL	NULL	NULL	2840	646	0.00008802816901408451
+omnivorous insect	earwig	1	1	4	3	NULL	NULL	NULL	150	51	0.0016666666666666668
+omnivorous lizard	spiny-tailed iguana	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omnivorous mammal	human	6	6	17	5	NULL	NULL	NULL	2675	720	0.0007916437603078615
+omnivorous mammal	bear	5	5	17	5	NULL	NULL	NULL	2588	668	0.0005682334757705247
+omnivorous mammal	pig	3	3	17	5	NULL	NULL	NULL	2963	686	0.00017867423716027078
+omnivorous mammal	fox	2	2	17	5	NULL	NULL	NULL	3360	860	0.00007002801120448179
+omnivorous mammal	dog	1	1	17	5	NULL	NULL	NULL	7516	1309	0.000007826440847760072
+omnivorous marine fish	clown fish	1	1	2	2	1.000000000000	NULL	NULL	46	27	0.010869565217391304
+omnivorous marine fish	surgeon fish	1	1	2	2	1.000000000000	NULL	NULL	22	15	0.022727272727272728
+omnivorous phyllostomid bat	Carollia perspicillata	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+omnivorous predator	raccoon	1	1	1	1	NULL	NULL	NULL	2571	467	0.00038895371450797355
+omnivorous product	yogurt	1	1	4	4	0.400000000000	NULL	NULL	5394	1123	0.000046347793845012975
+omnivorous product	egg	1	1	4	4	0.400000000000	NULL	NULL	9254	1960	0.000027015344715798574
+omnivorous product	cow milk	1	1	4	4	0.400000000000	NULL	NULL	33	21	0.007575757575757576
+omnivorous product	ice cream	1	1	4	4	0.400000000000	NULL	NULL	3186	940	0.00007846829880728186
+omnivorous reptile	herbivorous and omnivorous reptile	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Omnivorous shrimp	Penaeus vannamei	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+Omnivorous shrimp	Penaeus monodon	2	2	4	2	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+Omnivorous species	American Goldfinch	2	2	28	25	0.611111111111	NULL	NULL	51	21	0.0028011204481792717
+Omnivorous species	box turtle	2	2	28	25	0.611111111111	NULL	NULL	83	30	0.001721170395869191
+Omnivorous species	pig	2	2	28	25	0.611111111111	NULL	NULL	2963	686	0.00004821368304324767
+omnivorous species	carnivorous and omnivorous species	1	1	28	25	0.611111111111	NULL	NULL	2	2	0.017857142857142856
+Omnivorous species	Chaetodon mertensii	1	1	28	25	0.611111111111	NULL	NULL	1	1	0.03571428571428571
+Omnivorous species	herbivorous species	1	1	28	25	0.611111111111	NULL	NULL	1	1	0.03571428571428571
+Omnivorous species	loggerhead sea turtle	1	1	28	25	0.611111111111	NULL	NULL	17	11	0.0021008403361344537
+Omnivorous species	tilapia	1	1	28	25	0.611111111111	NULL	NULL	740	278	0.00004826254826254826
+Omnivorous species	snapping turtle	1	1	28	25	0.611111111111	NULL	NULL	91	37	0.00039246467817896386
+Omnivorous species	sunfish	1	1	28	25	0.611111111111	NULL	NULL	241	92	0.00014819205690574984
+Omnivorous species	rat	1	1	28	25	0.611111111111	NULL	NULL	3271	707	0.00001091846093374678
+Omnivorous species	brown bear in a coastal environment	1	1	28	25	0.611111111111	NULL	NULL	1	1	0.03571428571428571
+Omnivorous species	grackle	1	1	28	25	0.611111111111	NULL	NULL	47	13	0.0007598784194528875
+Omnivorous species	Cyprinidae	1	1	28	25	0.611111111111	NULL	NULL	4	3	0.008928571428571428
+Omnivorous species	crucian carp	1	1	28	25	0.611111111111	NULL	NULL	24	15	0.001488095238095238
+Omnivorous species	common carp	1	1	28	25	0.611111111111	NULL	NULL	134	73	0.00026652452025586353
+Omnivorous species	Kemp's ridley	1	1	28	25	0.611111111111	NULL	NULL	12	9	0.002976190476190476
+Omnivorous species	catfish	1	1	28	25	0.611111111111	NULL	NULL	1011	331	0.00003532570298148933
+Omnivorous species	silver perch	1	1	28	25	0.611111111111	NULL	NULL	35	15	0.001020408163265306
+Omnivorous species	mud carp	1	1	28	25	0.611111111111	NULL	NULL	4	4	0.008928571428571428
+Omnivorous species	Dark-eyed Junco	1	1	28	25	0.611111111111	NULL	NULL	41	24	0.0008710801393728223
+Omnivorous species	golden shiner	1	1	28	25	0.611111111111	NULL	NULL	51	28	0.0007002801120448179
+omnivorous species	freshwater omnivorous species	1	1	28	25	0.611111111111	NULL	NULL	2	2	0.017857142857142856
+Omnivorous species	Isoperla fulva	1	1	28	25	0.611111111111	NULL	NULL	1	1	0.03571428571428571
+omnivorous species	herbivorous and omnivorous species	1	1	28	25	0.611111111111	NULL	NULL	2	2	0.017857142857142856
+Omnivorous taxa	ant	1	1	1	1	NULL	NULL	NULL	1658	410	0.0006031363088057901
+omnivorous taxa nonvertebrate material	fruit	1	1	2	2	NULL	NULL	NULL	15318	3376	0.00003264133698916308
+omnivorous taxa nonvertebrate material	insect	1	1	2	2	NULL	NULL	NULL	2942	899	0.0001699524133242692
+omnivorous turtle	Map	1	1	1	1	NULL	NULL	NULL	4332	1570	0.00023084025854108956
+omnivorous zooplankton	euphausids	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+omnivorous, big-mouthed reef predator	western Australian dhufish	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omnivorous, vegetable	spinach	1	1	1	1	NULL	NULL	NULL	8593	1370	0.00011637379262190155
+omnova-manufactured building product	roof flashing	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+omnova-manufactured building product	shower pan liner	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+OMNR rule	forest fire fighting safety procedure	1	1	1	1	NULL	NULL	NULL	1	1	1
+OMON specific attribute	automatic weapon	1	1	3	3	0.333333333333	NULL	NULL	28	16	0.011904761904761904
+OMON specific attribute	mask	1	1	3	3	0.333333333333	NULL	NULL	1375	611	0.00024242424242424242
+OMON specific attribute	special gear	1	1	3	3	0.333333333333	NULL	NULL	4	4	0.08333333333333333
+ompacted fuel	grass	2	1	2	1	NULL	NULL	NULL	3076	1135	0.0006501950585175553
+ompanies	IBM	3	3	42	36	0.178571428571	NULL	NULL	11151	2595	0.000019216726238518006
+ompanies	Google	3	3	42	36	0.178571428571	NULL	NULL	18060	3284	0.000011865211200759373
+ompanies	Microsoft	2	2	42	36	0.178571428571	NULL	NULL	11308	2573	0.000008422187410514259
+ompanies	Adidas	2	2	42	36	0.178571428571	NULL	NULL	2246	608	0.0000424034261968367
+ompanies	acquisition-minded medium c ompanies	1	1	42	36	0.178571428571	NULL	NULL	1	1	0.023809523809523808
+ompanies	Thomas Cook	1	1	42	36	0.178571428571	NULL	NULL	256	118	0.00009300595238095238
+ompanies	Citibank	1	1	42	36	0.178571428571	NULL	NULL	1299	403	0.000018329117636276988
+ompanies	Ford India Private Ltd	1	1	42	36	0.178571428571	NULL	NULL	1	1	0.023809523809523808
+ompanies	Iams Company	1	1	42	36	0.178571428571	NULL	NULL	4	3	0.005952380952380952
+ompanies	Motorola	1	1	42	36	0.178571428571	NULL	NULL	4547	1131	0.0000052363148910322864
+ompanies	BYD	1	1	42	36	0.178571428571	NULL	NULL	100	60	0.0002380952380952381
+ompanies	Lilly Software	1	1	42	36	0.178571428571	NULL	NULL	2	2	0.011904761904761904
+ompanies	Cygnus	1	1	42	36	0.178571428571	NULL	NULL	15	9	0.0015873015873015873
+ompanies	thestreet.com	1	1	42	36	0.178571428571	NULL	NULL	25	18	0.0009523809523809524
+ompanies	VA Linux	1	1	42	36	0.178571428571	NULL	NULL	30	19	0.0007936507936507937
+ompanies	WorldCom	1	1	42	36	0.178571428571	NULL	NULL	414	167	0.000057510927076144466
+ompanies	K2 Solutions	1	1	42	36	0.178571428571	NULL	NULL	3	2	0.007936507936507936
+ompanies	Hewlett-Packard	1	1	42	36	0.178571428571	NULL	NULL	2176	578	0.00001094187675070028
+ompanies	Glevum Associates	1	1	42	36	0.178571428571	NULL	NULL	3	2	0.007936507936507936
+ompanies	South West Airlines	1	1	42	36	0.178571428571	NULL	NULL	6	5	0.003968253968253968
+ompanies	ST Cyber Technologies Private Limited	1	1	42	36	0.178571428571	NULL	NULL	1	1	0.023809523809523808
+ompanies	Dell	1	1	42	36	0.178571428571	NULL	NULL	6439	1426	0.0000036977052041503043
+ompanies	Siemens	1	1	42	36	0.178571428571	NULL	NULL	2293	783	0.00001038356904035055
+ompanies	Nike	1	1	42	36	0.178571428571	NULL	NULL	4837	1186	0.000004922374159504612
+ompanies	Red Hat	1	1	42	36	0.178571428571	NULL	NULL	639	195	0.000037260600640882326
+ompanies	Hewlett Packard	1	1	42	36	0.178571428571	NULL	NULL	1030	353	0.00002311604253351826
+ompanies	Blackbird Technologies	1	1	42	36	0.178571428571	NULL	NULL	3	2	0.007936507936507936
+ompanies	Cisco	1	1	42	36	0.178571428571	NULL	NULL	3596	1015	0.000006621113406430425
+ompanies	Chery	1	1	42	36	0.178571428571	NULL	NULL	137	78	0.00017379214459506428
+ompanies	Friesland Campina	1	1	42	36	0.178571428571	NULL	NULL	2	2	0.011904761904761904
+ompanies	Covansys	1	1	42	36	0.178571428571	NULL	NULL	15	4	0.0015873015873015873
+ompanies	Tyco	1	1	42	36	0.178571428571	NULL	NULL	251	104	0.00009485866059571239
+ompanies	amazon	1	1	42	36	0.178571428571	NULL	NULL	6750	1912	0.0000035273368606701936
+ompanies	FedEx	1	1	42	36	0.178571428571	NULL	NULL	1521	517	0.00001565386180770796
+ompanies	Enron	1	1	42	36	0.178571428571	NULL	NULL	1131	327	0.000021051745189676224
+ompanies	Nokia	1	1	42	36	0.178571428571	NULL	NULL	3672	1047	0.000006484075111526092
+ompanion animal	dog	1	1	1	1	NULL	NULL	NULL	7516	1309	0.00013304949441192123
+ompaq hardcopy device	LA120	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ompaq hardcopy device	LA100	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ompaq hardcopy device	LA34	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ompass certain team sport	softball	1	1	4	4	NULL	NULL	NULL	2536	392	0.00009858044164037855
+ompass certain team sport	soccer	1	1	4	4	NULL	NULL	NULL	7482	1247	0.000033413525795241913
+ompass certain team sport	fl ag football	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+ompass certain team sport	basketball	1	1	4	4	NULL	NULL	NULL	10932	1509	0.000022868642517380167
+ompensation issue	repatriation policy	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ompensation issue	expatriation	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+ompensatory damage	punitive	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+ompensatory damage	special damage	1	1	2	2	1.000000000000	NULL	NULL	5	3	0.1
+ompetitions	drawing	1	1	4	4	NULL	NULL	NULL	4030	1315	0.00006203473945409429
+ompetitions	drama	1	1	4	4	NULL	NULL	NULL	3064	903	0.00008159268929503917
+ompetitions	elocution	1	1	4	4	NULL	NULL	NULL	79	30	0.0031645569620253164
+ompetitions	folk song	1	1	4	4	NULL	NULL	NULL	48	38	0.005208333333333333
+ompetitive directory assistance provider	EAS	1	1	1	1	NULL	NULL	NULL	46	27	0.021739130434782608
+ompetitive physical exercise	aerobics	1	1	1	1	NULL	NULL	NULL	1618	449	0.0006180469715698393
+ompetitors	Amazon.com	1	1	2	2	NULL	NULL	NULL	2845	836	0.0001757469244288225
+ompetitors	Volvo	1	1	2	2	NULL	NULL	NULL	916	354	0.0005458515283842794
+omplementary alternative therapy	exercise	1	1	1	1	NULL	NULL	NULL	5777	1645	0.00017310022503029253
+omplementary development activity	health	1	1	4	4	0.500000000000	NULL	NULL	12226	3162	0.000020448225094061837
+omplementary development activity	nomad's development	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+omplementary development activity	non-formal primary education	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+omplementary development activity	women's empowerment	1	1	4	4	0.500000000000	NULL	NULL	41	26	0.006097560975609756
+omplementary sequence	promoter sequence	1	1	1	1	1.000000000000	NULL	NULL	16	9	0.0625
+omplementary structural method	Small Angle X-ray Scattering	1	1	3	3	0.666666666666	NULL	NULL	27	16	0.012345679012345678
+omplementary structural method	Electron Microscopy	1	1	3	3	0.666666666666	NULL	NULL	354	151	0.0009416195856873823
+omplementary structural method	Small Angle Neutron Scattering	1	1	3	3	0.666666666666	NULL	NULL	11	8	0.0303030303030303
+omplete Product information	indication	1	1	2	2	NULL	NULL	NULL	50	29	0.01
+omplete Product information	daily dosage	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+ompletion factor	pricing gap	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omplex agrarian society	Oyo	1	1	1	1	1.000000000000	NULL	NULL	40	17	0.025
+omplex disease	cancer	1	1	3	3	NULL	NULL	NULL	12145	2003	0.00002744613695622341
+omplex disease	diabetes	1	1	3	3	NULL	NULL	NULL	23990	3013	0.00001389467833819647
+omplex disease	asthma	1	1	3	3	NULL	NULL	NULL	8602	1433	0.00003875067813686739
+omplex multiceullar organism	human	1	1	1	1	NULL	NULL	NULL	2675	720	0.00037383177570093456
+omplex real-world task	disaster rescue	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+omplex system larger-scale product	automobile	1	1	1	1	NULL	NULL	NULL	4192	1164	0.00023854961832061068
+omplications	numbness	1	1	2	2	NULL	NULL	NULL	923	248	0.0005417118093174431
+omplications	rippling of the right breast tissue	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OMPLICATIONS many postoperative complication	expulsive hemorrhage	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+OMPLICATIONS many postoperative complication	endophthalmitis	1	1	2	2	NULL	NULL	NULL	107	47	0.004672897196261682
+omplishtasksin area	surveillance	1	1	1	1	NULL	NULL	NULL	758	346	0.0013192612137203166
+OMPM supporting tool	Version Extraction Tool	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OMPM supporting tool	Office File Converter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+omponent signal transduction pathway	bacterial chemotaxis	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+omponents	grounded hoses	1	1	11	11	0.375000000000	NULL	NULL	1	1	0.09090909090909091
+omponents	grounded filter	1	1	11	11	0.375000000000	NULL	NULL	1	1	0.09090909090909091
+omponents	endplates	1	1	11	11	0.375000000000	NULL	NULL	6	6	0.015151515151515152
+omponents	band	1	1	11	11	0.375000000000	NULL	NULL	1786	574	0.00005090094675760969
+omponents	bronze inlet	1	1	11	11	0.375000000000	NULL	NULL	4	2	0.022727272727272728
+omponents	anti-static caster	1	1	11	11	0.375000000000	NULL	NULL	1	1	0.09090909090909091
+omponents	valve	1	1	11	11	0.375000000000	NULL	NULL	2401	900	0.00003786301162394457
+omponents	syringe	1	1	11	11	0.375000000000	NULL	NULL	953	356	0.00009539254030334828
+omponents	face	1	1	11	11	0.375000000000	NULL	NULL	1530	529	0.000059417706476530004
+omponents	explosion proof motor	1	1	11	11	0.375000000000	NULL	NULL	6	6	0.015151515151515152
+omponents	membrane	1	1	11	11	0.375000000000	NULL	NULL	458	229	0.0001984914648670107
+omportant file	HIMEM.SYS	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+omposers	Vejvanovsky	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omposers	Wagner	1	1	3	3	NULL	NULL	NULL	145	74	0.0022988505747126436
+omposers	Molter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OMPOSITE M ATERIALS composite material	laminate floor	1	1	3	3	0.333333333333	NULL	NULL	16	15	0.020833333333333332
+OMPOSITE M ATERIALS composite material	particleboard	1	1	3	3	0.333333333333	NULL	NULL	280	120	0.0011904761904761904
+OMPOSITE M ATERIALS composite material	chipboard	1	1	3	3	0.333333333333	NULL	NULL	160	83	0.0020833333333333333
+omposite wood product	medium density fiberboard	1	1	2	2	NULL	NULL	NULL	66	47	0.007575757575757576
+omposite wood product	particleboard	1	1	2	2	NULL	NULL	NULL	280	120	0.0017857142857142857
+omposting item	plastic bag	1	1	1	1	NULL	NULL	NULL	879	351	0.0011376564277588168
+omprehension skill	predicting outcome	1	1	4	4	0.500000000000	NULL	NULL	18	9	0.013888888888888888
+omprehension skill	drawing conclusion	1	1	4	4	0.500000000000	NULL	NULL	72	34	0.003472222222222222
+omprehension skill	making inference	1	1	4	4	0.500000000000	NULL	NULL	75	34	0.0033333333333333335
+omprehension skill	using contextual clue	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+omprehensive regime	FCCC-Kyoto regime	1	1	1	1	NULL	NULL	NULL	1	1	1
+omprehensive trip resource	packing tip	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+ompressible material	steel	1	1	2	2	NULL	NULL	NULL	7816	1994	0.00006397134083930399
+ompressible material	iron	1	1	2	2	NULL	NULL	NULL	11941	2300	0.00004187253998827569
+ompression bandage	elastic bandage	1	1	1	1	1.000000000000	NULL	NULL	39	32	0.02564102564102564
+ompressional t ectonic feature	thrust fault	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+omprismaemploys generic OM object	breakpoint function	1	1	1	1	NULL	NULL	NULL	1	1	1
+ompromise solution	use of defective embryo	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ompromise solution	parthenogenesis	1	1	2	2	1.000000000000	NULL	NULL	16	12	0.03125
+OMPs	ubiquitous surface protein UspA2	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+OMPs	porins	1	1	2	2	0.500000000000	NULL	NULL	14	9	0.03571428571428571
+omputer information	average number of patch	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omputer information	critical patch	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+omputer network	company network	1	1	3	4	NULL	NULL	NULL	3	3	0.1111111111111111
+omputer network	Internet	1	1	3	4	NULL	NULL	NULL	10699	2978	0.00003115555970963018
+omputer network	wireless network	1	1	3	4	NULL	NULL	NULL	260	110	0.001282051282051282
+OMRI contrast agent	triarylmethyl radical	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+OMRI contrast agent	trityl agent	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+omri-approved herbicide	clove oil	1	1	1	1	NULL	NULL	NULL	127	60	0.007874015748031496
+OMRON electrical relay	G6B-1174P-US-12V	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OMRON electrical relay	G6B-1114P-US-12V	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OMRON electrical relay	G6B-1114P-US-24V	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OMRON feature	body movement indicator	4	3	13	4	NULL	NULL	NULL	4	1	0.3076923076923077
+OMRON feature	Irregular Heartbeat detection	4	3	13	4	NULL	NULL	NULL	5	2	0.24615384615384617
+OMRON feature	Hypertension indicator	4	3	13	4	NULL	NULL	NULL	4	1	0.3076923076923077
+OMRON feature	Intellisense Technology	1	1	13	4	NULL	NULL	NULL	1	1	0.07692307692307693
+omron microair nebulizer part	replacement mesh cap	1	1	1	1	NULL	NULL	NULL	1	1	1
+omron product	Omron Blood Pressure Monitor	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+omron product	Omron Pedometer	1	1	2	2	1.000000000000	NULL	NULL	13	11	0.038461538461538464
+omsbudmans	Joyce Hicks	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+omsk citizen	writer Utev	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omsk citizen	regional ethnographer Petrov	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omsk citizen	professor Phialkhov	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OMT procedure	myofascial release	1	1	1	1	NULL	NULL	NULL	350	109	0.002857142857142857
+OMT tool	Paradigm Plus	2	2	2	1	NULL	NULL	NULL	2	1	1
+omv's product	natural gas	1	1	3	3	NULL	NULL	NULL	3647	920	0.00009139932364500503
+omv's product	heating oil	1	1	3	3	NULL	NULL	NULL	183	87	0.0018214936247723133
+omv's product	trans portation fuel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omved's unique product	PVC-free yoga mat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omved's unique product	trataka meditational candle	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+omved's unique product	clothing	1	1	3	3	NULL	NULL	NULL	9665	2540	0.00003448870494912916
+OMX communication tool	email	1	1	3	3	NULL	NULL	NULL	8680	2858	0.00003840245775729647
+OMX communication tool	internet	1	1	3	3	NULL	NULL	NULL	10699	2978	0.00003115555970963018
+OMX communication tool	phone etcetera	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

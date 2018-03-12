@@ -1,0 +1,601 @@
+ay	graphing calculator	1	1	1	1	NULL	NULL	NULL	118	55	0.00847457627118644
+ay account	American Express card	1	1	1	1	1.000000000000	NULL	NULL	21	11	0.047619047619047616
+ay automated hematology analyzer	VetScan HMT	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ay channel	Setanta TV	1	1	1	1	NULL	NULL	NULL	1	1	1
+ay detection scheme	streak camera	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+ay evil	industrial processing	1	1	2	2	0.500000000000	NULL	NULL	17	12	0.029411764705882353
+ay evil	chemical	1	1	2	2	0.500000000000	NULL	NULL	5436	1619	0.0000919793966151582
+ay family devotional practice	prayer	1	1	1	1	NULL	NULL	NULL	1981	636	0.0005047955577990914
+ay friendly destination	examples of Egypt	1	1	1	1	NULL	NULL	NULL	1	1	1
+ay image different factor	bag complexity	1	1	1	1	NULL	NULL	NULL	1	1	1
+ay method	socialization	1	1	2	2	NULL	NULL	NULL	297	126	0.0016835016835016834
+ay method	individual self-help plan	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ay organization	Focus on the Family	1	1	2	2	NULL	NULL	NULL	232	88	0.0021551724137931034
+ay organization	Exodus	1	1	2	2	NULL	NULL	NULL	180	77	0.002777777777777778
+ay show trend	financial purchaser	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ay show trend	consolidating acquisition	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ay show trend	foreign purchase	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+AY specialty plan	AY Voice of Youth	1	1	1	1	NULL	NULL	NULL	1	1	1
+ay strauss scholar	Walter Werbeck	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ay strauss scholar	Bryan Gilliam	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ay sustainable energy source	sola r	1	1	1	1	NULL	NULL	NULL	1	1	1
+ay task	reading	1	1	1	1	NULL	NULL	NULL	5081	1391	0.000196811651249754
+ay workshop	Project WET	1	1	2	2	1.000000000000	NULL	NULL	25	17	0.02
+ay workshop	Major Rivers	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ay-to-day routine	bathing	1	1	2	2	0.500000000000	NULL	NULL	1899	528	0.0002632964718272775
+ay-to-day routine	nappy changing	1	1	2	2	0.500000000000	NULL	NULL	12	10	0.041666666666666664
+AY-WB symptom	light green color	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+AY-WB symptom	elongated leaf shape with long petiole	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+ayala alabang resident	former Muntinlupa Rep. Ruffino Biazon	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayala company	BPI	1	1	2	2	1.000000000000	NULL	NULL	38	19	0.013157894736842105
+ayala company	Globe Telecom	1	1	2	2	1.000000000000	NULL	NULL	17	12	0.029411764705882353
+ayatollah	taleghani	1	1	12	12	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+ayatollah	Sistani	1	1	12	12	1.000000000000	NULL	NULL	8	8	0.010416666666666666
+ayatollah	Yousef Sanei	1	1	12	12	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+ayatollah	late Grand Ayatollah Hussein-Ali Montazeri	1	1	12	12	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ayatollah	Asadollah Bayat	1	1	12	12	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ayatollah	Bayat	1	1	12	12	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+ayatollah	Khameini	1	1	12	12	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ayatollah	Khomeini	1	1	12	12	1.000000000000	NULL	NULL	14	12	0.005952380952380952
+ayatollah	al-Sistaniin Iraq	1	1	12	12	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ayatollah	prominent moderate ayatollah	1	1	12	12	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ayatollah	montazeri	1	1	12	12	1.000000000000	NULL	NULL	5	5	0.016666666666666666
+ayatollah	Mohammad Ali Dastgheyb	1	1	12	12	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ayatullahs	Sistani	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+AYC material	brochure	1	1	3	3	NULL	NULL	NULL	5215	1605	0.00006391818472355384
+AYC material	AYC promotional video	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AYC material	audio testimonial	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayckbourn's many hit	Absurd Person Singular	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayckbourn's many hit	Bedroom Farce	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayckbourn's many hit	Revengers Comedies	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ayckbourn's signature plot development	suburban terrors of sex	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ayeast infection	thrush	2	2	2	1	NULL	NULL	NULL	510	184	0.00392156862745098
+ayer agent	LACP agent	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ayered material	graphite into individual atomic plane	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AYF web site submission	article	1	1	2	2	NULL	NULL	NULL	2003	738	0.00024962556165751375
+AYF web site submission	photo	1	1	2	2	NULL	NULL	NULL	4315	1298	0.00011587485515643106
+ayia napa club	Castle Club	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayia napa's historical site	16th Century monastery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayia napa's historical site	yacht-lined harbor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayia recreational activity	bungee jumping	1	1	4	4	NULL	NULL	NULL	382	106	0.0006544502617801048
+ayia recreational activity	party cruise	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+ayia recreational activity	jet skiing	1	1	4	4	NULL	NULL	NULL	640	133	0.000390625
+ayia recreational activity	parasailing	1	1	4	4	NULL	NULL	NULL	715	177	0.00034965034965034965
+aykroyd's discovery series wine	River Valley chardonnay	1	1	1	1	NULL	NULL	NULL	1	1	1
+aylesbury insect	house flea	1	1	1	1	1.000000000000	NULL	NULL	561	558	0.0017825311942959
+aylesbury school	Stoke Leys	1	1	1	1	NULL	NULL	NULL	1	1	1
+aylesbury sport facility	Aylesbury area golf course	1	1	1	1	NULL	NULL	NULL	1	1	1
+aymara leader	Felipe Quispe	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+aymara leader	Abel Mamani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayment service agent	restaurant	1	1	2	2	NULL	NULL	NULL	11422	2864	0.00004377517072316582
+ayment service agent	retail store	1	1	2	2	NULL	NULL	NULL	695	295	0.0007194244604316547
+ayments	Social Security	1	1	1	1	NULL	NULL	NULL	3475	1022	0.00028776978417266187
+ayn rand book	Fountainhead	1	1	1	1	1.000000000000	NULL	NULL	23	12	0.043478260869565216
+ayn rand& novel	Fountainhead	1	1	2	2	1.000000000000	NULL	NULL	23	12	0.021739130434782608
+ayn rand& novel	Atlas Shrugged	1	1	2	2	1.000000000000	NULL	NULL	32	11	0.015625
+ayn rand's book	Atlas Shrugged	2	2	4	2	1.000000000000	NULL	NULL	32	11	0.03125
+ayn rand's book	Virtue of Selfishness	2	2	4	2	1.000000000000	NULL	NULL	14	7	0.07142857142857142
+ayn rand's novel	Atlas Shrugged	1	1	2	2	1.000000000000	NULL	NULL	32	11	0.015625
+ayn rand's novel	Fountainhead	1	1	2	2	1.000000000000	NULL	NULL	23	12	0.021739130434782608
+ayn rand's work	Fountainhead	1	1	2	2	1.000000000000	NULL	NULL	23	12	0.021739130434782608
+ayn rand's work	Atlas Shrugged	1	1	2	2	1.000000000000	NULL	NULL	32	11	0.015625
+AYO program	1998 China Tour	1	0	1	1	NULL	NULL	NULL	1	1	1
+ayoba festival regular kiddie favorite	Montecasino Bird Gardens	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+AYP brand	Poulan	1	1	2	2	0.500000000000	NULL	NULL	15	10	0.03333333333333333
+AYP brand	Husqvarna	1	1	2	2	0.500000000000	NULL	NULL	85	36	0.0058823529411764705
+AYP option	rolling average	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ayreon instrument	hammond	1	1	1	1	NULL	NULL	NULL	50	33	0.02
+ayresome park star	Graham Kavanagh	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ayresome park star	John Hendrie	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+ayresome park star	Terry Cochrane	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ayresome park star	Billy Ashcroft	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ayresome park star	Mark Proctor	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ayrshire band	Alamo Lake	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayrshire town	Ayr	1	1	2	2	0.500000000000	NULL	NULL	31	20	0.016129032258064516
+ayrshire town	Irvine	1	1	2	2	0.500000000000	NULL	NULL	111	45	0.0045045045045045045
+ays	vertical bitewings	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+ays	participating north american railw ays	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+AYSO special program	VIP	1	1	1	1	NULL	NULL	NULL	86	54	0.011627906976744186
+aything	HVAC	1	1	3	3	NULL	NULL	NULL	558	279	0.0005973715651135006
+aything	pool	1	1	3	3	NULL	NULL	NULL	3504	1006	0.00009512937595129375
+aything	lighting	1	1	3	3	NULL	NULL	NULL	5506	1914	0.00006054001695120474
+Ayuntamientos	Higuey	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ayura skincare line	Energy of Ayura	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayurevedic herb	brahmi	2	2	4	2	0.500000000000	NULL	NULL	166	27	0.006024096385542169
+ayurevedic herb	ashwagandha	2	2	4	2	0.500000000000	NULL	NULL	385	67	0.0025974025974025974
+ayurveda book	Susruta	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ayurveda classical text	Charaka	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ayurveda concept	five element	1	1	2	2	1.000000000000	NULL	NULL	7	4	0.07142857142857142
+ayurveda concept	Doshas	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+ayurveda exercise	meditation	1	1	2	2	NULL	NULL	NULL	6609	1473	0.00007565441065214103
+ayurveda exercise	yoga	1	1	2	2	NULL	NULL	NULL	10229	2367	0.00004888063349301007
+ayurveda herb	sacred Basil	1	1	4	4	0.666666666666	NULL	NULL	4	2	0.0625
+ayurveda herb	Centella asiatica	1	1	4	4	0.666666666666	NULL	NULL	31	23	0.008064516129032258
+ayurveda herb	Bacopa monnieri	1	1	4	4	0.666666666666	NULL	NULL	19	15	0.013157894736842105
+ayurveda herb	raw carrot	1	1	4	4	0.666666666666	NULL	NULL	122	42	0.0020491803278688526
+ayurveda herbal product	Essential oil	1	1	1	1	NULL	NULL	NULL	812	352	0.0012315270935960591
+ayurveda hotel	Siddalepa resort in Wadduwa	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ayurveda hotel	Barbarian Hotel	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ayurveda hotel	Jetwing Ayurveda Pavilion in Negombo	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ayurveda outlet	spa	1	1	1	1	NULL	NULL	NULL	533	246	0.001876172607879925
+ayurveda panchakarma technique	Shirobasti	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+ayurveda panchakarma technique	Shirodhara	2	2	4	2	1.000000000000	NULL	NULL	41	23	0.024390243902439025
+ayurveda panchakarma treatment	Kati Basti	2	2	3	2	1.000000000000	NULL	NULL	3	2	0.4444444444444444
+ayurveda panchakarma treatment	Shirodhara	1	1	3	2	1.000000000000	NULL	NULL	41	23	0.008130081300813007
+ayurveda parasurgical procedure	agni karma	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ayurveda parasurgical procedure	ksharakarma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurveda product	hair care oil	1	1	10	10	0.333333333333	NULL	NULL	3	3	0.03333333333333333
+ayurveda product	digestive bitters like triphela	1	1	10	10	0.333333333333	NULL	NULL	1	1	0.1
+ayurveda product	Ayurveda instrument	1	1	10	10	0.333333333333	NULL	NULL	1	1	0.1
+ayurveda product	ayurvedic hair oil	1	1	10	10	0.333333333333	NULL	NULL	1	1	0.1
+ayurveda product	natural hair oil	1	1	10	10	0.333333333333	NULL	NULL	1	1	0.1
+ayurveda product	oil	1	1	10	10	0.333333333333	NULL	NULL	15331	4205	0.000006522731720044355
+ayurveda product	tongue scraper	1	1	10	10	0.333333333333	NULL	NULL	14	12	0.0071428571428571435
+ayurveda product	hair message oil	1	1	10	10	0.333333333333	NULL	NULL	1	1	0.1
+ayurveda product	medicine	1	1	10	10	0.333333333333	NULL	NULL	6368	1503	0.0000157035175879397
+ayurveda product	netti pot	1	1	10	10	0.333333333333	NULL	NULL	3	3	0.03333333333333333
+ayurveda resort	Ayurvedagram Health Resort Bangalore	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurveda resort	Golden Palms Spa & Resort Bangalore	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurveda treatment	massage	3	3	5	3	0.333333333333	NULL	NULL	5399	1445	0.0003333950731616966
+ayurveda treatment	facial	1	1	5	3	0.333333333333	NULL	NULL	1408	394	0.00014204545454545457
+ayurveda treatment	body massage	1	1	5	3	0.333333333333	NULL	NULL	72	40	0.002777777777777778
+ayurveda's primary treatment	herbal medicine	1	1	3	3	NULL	NULL	NULL	425	182	0.000784313725490196
+ayurveda's primary treatment	meditation	1	1	3	3	NULL	NULL	NULL	6609	1473	0.00005043627376809401
+ayurveda's primary treatment	exercise	1	1	3	3	NULL	NULL	NULL	5777	1645	0.00005770007501009751
+ayurvedas beauty care skin product	astringent	1	1	1	1	NULL	NULL	NULL	149	66	0.006711409395973154
+ayurvedic & herbal extract	aloe vera juice	1	1	3	3	NULL	NULL	NULL	52	37	0.00641025641025641
+ayurvedic & herbal extract	organic spice	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+ayurvedic & herbal extract	wheat grass powder	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+ayurvedic & herbal product	ayurvedic herbal product	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic & herbal product	aloe vera herbal product	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic & herbal product	oil herbal product	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic & herbal product	herbal cosmetic	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+ayurvedic -diagnostic & treatment	Marma point therapy	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+ayurvedic -diagnostic & treatment	herbal remedy	1	1	2	2	0.500000000000	NULL	NULL	256	120	0.001953125
+Ayurvedic adaptogens	Ashwagandha	2	2	3	2	0.500000000000	NULL	NULL	385	67	0.003463203463203463
+Ayurvedic adaptogens	Liquorice	1	1	3	2	0.500000000000	NULL	NULL	112	55	0.002976190476190476
+ayurvedic and dietary food supplement	capsules for migraine	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic and dietary food supplement	pediatric syrup for nocturnal bed wetting	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic and dietary food supplement	capsules for leucorrhoea	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic and siddha medicine	ayurvedic pain reliever syrup	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ayurvedic and siddha medicine	gripe water	1	1	4	4	0.500000000000	NULL	NULL	21	19	0.011904761904761904
+ayurvedic and siddha medicine	cough syrup	1	1	4	4	0.500000000000	NULL	NULL	385	125	0.0006493506493506494
+ayurvedic and siddha medicine	medicines for indigestion	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+Ayurvedic anti-oxidants	turmeric	3	2	3	1	0.500000000000	NULL	NULL	1396	345	0.002148997134670487
+ayurvedic application	cystitis	1	1	5	5	0.166666666666	NULL	NULL	317	99	0.0006309148264984228
+ayurvedic application	kidney inflammation	1	1	5	5	0.166666666666	NULL	NULL	7	6	0.028571428571428574
+ayurvedic application	fever	1	1	5	5	0.166666666666	NULL	NULL	6376	1113	0.000031367628607277294
+ayurvedic application	hypertension	1	1	5	5	0.166666666666	NULL	NULL	7750	1658	0.00002580645161290323
+ayurvedic application	edema	1	1	5	5	0.166666666666	NULL	NULL	568	283	0.00035211267605633805
+ayurvedic based product	Herbal Hair Oil	1	1	5	5	1.000000000000	NULL	NULL	9	7	0.022222222222222223
+ayurvedic based product	Herbal Muscle	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ayurvedic based product	Herbal Acne n Pimple cream	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ayurvedic based product	Joint Pain oil	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+ayurvedic based product	Herbal Eczema cream	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ayurvedic beauty regimen	exfoliation	1	1	1	1	NULL	NULL	NULL	43	30	0.023255813953488372
+ayurvedic capsule	CArdoved	2	1	7	4	1.000000000000	NULL	NULL	9	7	0.06349206349206349
+ayurvedic capsule	Rudved	2	1	7	4	1.000000000000	NULL	NULL	9	7	0.06349206349206349
+ayurvedic capsule	Suved	2	1	7	4	1.000000000000	NULL	NULL	9	7	0.06349206349206349
+ayurvedic capsule	good ayurvedic capsule	1	1	7	4	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+ayurvedic churna	herbal ayurvedic churna	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic churna	neem karela gr	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ayurvedic churna	diabetes ayurvedic churna	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic churna	aromatic ayurvedic churna	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic cosmetic	care creme shampoo	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic cosmetic	hair conditioner	1	1	6	6	0.500000000000	NULL	NULL	112	63	0.001488095238095238
+ayurvedic cosmetic	herbal hair oil	1	1	6	6	0.500000000000	NULL	NULL	9	7	0.018518518518518517
+ayurvedic cosmetic	hair styling gel	1	1	6	6	0.500000000000	NULL	NULL	5	5	0.03333333333333333
+ayurvedic cosmetic	dandruff hair oil	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic cosmetic	soothing hair oil	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic detox remedy	Aloe Vera juice	1	1	2	2	0.500000000000	NULL	NULL	52	37	0.009615384615384616
+ayurvedic detox remedy	Triphala	1	1	2	2	0.500000000000	NULL	NULL	33	19	0.015151515151515152
+ayurvedic diagnostic and observational tool	face	1	1	3	3	NULL	NULL	NULL	1530	529	0.00021786492374727668
+ayurvedic diagnostic and observational tool	tongue	1	1	3	3	NULL	NULL	NULL	527	229	0.0006325110689437065
+ayurvedic diagnostic and observational tool	pulse	1	1	3	3	NULL	NULL	NULL	1341	516	0.00024857071836937607
+ayurvedic diagnostic technique	pulse assessment	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ayurvedic digestion toner	Amalaki Rasayana	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ayurvedic doctor & spiritual teacher	Dr. Depak Chopra	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayurvedic drug	decoctions	2	2	9	7	NULL	NULL	NULL	6	3	0.07407407407407407
+ayurvedic drug	paste	2	2	9	7	NULL	NULL	NULL	683	360	0.0006507239303725394
+ayurvedic drug	kalka	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+ayurvedic drug	oil	1	1	9	7	NULL	NULL	NULL	15331	4205	0.000007247479688938172
+ayurvedic drug	guli	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+ayurvedic drug	ginger	1	1	9	7	NULL	NULL	NULL	3867	984	0.000028733155187771167
+ayurvedic drug	Sookshma Triphala	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+ayurvedic element	free radical	1	1	1	2	NULL	NULL	NULL	203	85	0.0049261083743842365
+ayurvedic Equipment	dhara vessel in bronze	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic Equipment	Navara Rice	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic Equipment	Pure Cottage Honey	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic Equipment	Fuller s Earth	1	1	6	6	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+ayurvedic Equipment	wooden Massage Bed	1	1	6	6	0.500000000000	NULL	NULL	7	5	0.023809523809523808
+ayurvedic Equipment	wooden shirodhara stand	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+Ayurvedic es	turmeric	1	1	1	1	NULL	NULL	NULL	1396	345	0.0007163323782234957
+ayurvedic exercise	yoga	1	1	1	1	NULL	NULL	NULL	10229	2367	0.00009776126698602014
+ayurvedic expert	Vagbhata	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+ayurvedic expert	Susruta	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ayurvedic formula	Sensa Herb	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formula	kanakasava	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formula	talisadi churna	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formula	Tentex Forte	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formula	sitopaladi churna	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formula	chyavanprahs	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formula	amalaki churna	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic formulation	Punarnava Guggul	2	2	13	9	0.750000000000	NULL	NULL	2	1	0.15384615384615385
+ayurvedic formulation	Shilajit	2	2	13	9	0.750000000000	NULL	NULL	137	16	0.0022459292532285235
+ayurvedic formulation	Gokshuradi Guggul	2	2	13	9	0.750000000000	NULL	NULL	2	1	0.15384615384615385
+ayurvedic formulation	Chandraprabha vati	2	2	13	9	0.750000000000	NULL	NULL	3	2	0.10256410256410257
+ayurvedic formulation	Sarpagandha Vati along with Brahmi Vati churna	1	1	13	9	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+ayurvedic formulation	Trikatu churna from Ritesh Pharmaceutical	1	1	13	9	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+ayurvedic formulation	Chyawanprash	1	1	13	9	0.750000000000	NULL	NULL	7	6	0.01098901098901099
+ayurvedic formulation	Ashokrishta BR	1	1	13	9	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+ayurvedic formulation	syrup for menstrual disorder	1	1	13	9	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+ayurvedic hair care technique	coconut oil	1	1	1	1	NULL	NULL	NULL	1504	438	0.0006648936170212766
+ayurvedic hair oil	rim hair oil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurvedic hair oil	natural ayurvedic hair oil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurvedic health care product	blood sugar control capsule	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic health care product	herbal cough syrup	1	1	7	7	NULL	NULL	NULL	4	4	0.03571428571428571
+ayurvedic health care product	cholesterol control capsule	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic health care product	men sex enhancement capsule	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic health care product	skin care medicine	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic health care product	health supplement capsule	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ayurvedic health care product	sex enhancement tablet	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+ayurvedic health maintenance principle	meditation	1	1	1	1	NULL	NULL	NULL	6609	1473	0.00015130882130428205
+ayurvedic health product	nutritious health drink	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ayurvedic health product	tooth powder	1	1	3	3	1.000000000000	NULL	NULL	23	11	0.014492753623188404
+ayurvedic health product	pain relief oil	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+ayurvedic health supplement	natural herbal supplement	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ayurvedic herb	ashwagandha	18	18	183	92	0.620689655172	NULL	NULL	385	67	0.004598680008516074
+ayurvedic herb	Brahmi	11	11	183	92	0.620689655172	NULL	NULL	166	27	0.003983145697544275
+ayurvedic herb	Shatavari	8	8	183	92	0.620689655172	NULL	NULL	187	17	0.0018701966628678296
+ayurvedic herb	holy basil	7	7	183	92	0.620689655172	NULL	NULL	83	34	0.0032260188294160248
+ayurvedic herb	Guduchi	6	5	183	92	0.620689655172	NULL	NULL	187	11	0.0010519856228631541
+ayurvedic herb	Turmeric	6	6	183	92	0.620689655172	NULL	NULL	1396	345	0.00014091784489642537
+ayurvedic herb	cayenne	4	4	183	92	0.620689655172	NULL	NULL	553	165	0.000158104329094161
+ayurvedic herb	neem	4	4	183	92	0.620689655172	NULL	NULL	382	170	0.0002288787800761022
+ayurvedic herb	amalaki	4	4	183	92	0.620689655172	NULL	NULL	115	15	0.0007602755999049656
+ayurvedic herb	Triphala	4	4	183	92	0.620689655172	NULL	NULL	33	19	0.002649445272396092
+ayurvedic herb	guggul	3	3	183	92	0.620689655172	NULL	NULL	51	17	0.0009643201542912247
+ayurvedic herb	Winter cherry	3	3	183	92	0.620689655172	NULL	NULL	12	6	0.004098360655737705
+ayurvedic herb	guggulu	3	3	183	92	0.620689655172	NULL	NULL	35	7	0.001405152224824356
+ayurvedic herb	gokshura	3	2	183	92	0.620689655172	NULL	NULL	30	6	0.001639344262295082
+ayurvedic herb	ashoka	3	3	183	92	0.620689655172	NULL	NULL	95	31	0.0005176876617773942
+ayurvedic herb	shilajit	3	3	183	92	0.620689655172	NULL	NULL	137	16	0.00035898049539308366
+ayurvedic herb	fennel	2	2	183	92	0.620689655172	NULL	NULL	1230	360	0.000017770669509973788
+ayurvedic herb	cumin	2	2	183	92	0.620689655172	NULL	NULL	1028	210	0.000021262571495396654
+ayurvedic herb	Tulasi	2	2	183	92	0.620689655172	NULL	NULL	13	5	0.0016813787305590584
+ayurvedic herb	sandalwood	2	2	183	92	0.620689655172	NULL	NULL	620	221	0.000035254715318173806
+ayurvedic herb	pippali	2	2	183	92	0.620689655172	NULL	NULL	16	6	0.001366120218579235
+ayurvedic herb	Indian gooseberry	2	2	183	92	0.620689655172	NULL	NULL	64	23	0.00034153005464480874
+ayurvedic herb	Karela	2	2	183	92	0.620689655172	NULL	NULL	15	11	0.0014571948998178506
+ayurvedic herb	paprika	2	2	183	92	0.620689655172	NULL	NULL	541	158	0.00004040281607628052
+ayurvedic herb	yashtimadhu	2	2	183	92	0.620689655172	NULL	NULL	5	3	0.004371584699453552
+ayurvedic herb	ground turmeric	2	2	183	92	0.620689655172	NULL	NULL	6	4	0.0036429872495446266
+ayurvedic herb	bremhi	2	2	183	92	0.620689655172	NULL	NULL	2	1	0.01092896174863388
+ayurvedic herb	Bhringraj oil	2	2	183	92	0.620689655172	NULL	NULL	3	2	0.007285974499089253
+ayurvedic herb	Kumari	2	2	183	92	0.620689655172	NULL	NULL	11	9	0.001987083954297069
+ayurvedic herb	Butea monosperma	2	2	183	92	0.620689655172	NULL	NULL	10	8	0.002185792349726776
+ayurvedic herb	avala	2	2	183	92	0.620689655172	NULL	NULL	2	1	0.01092896174863388
+ayurvedic herb	Amla	2	2	183	92	0.620689655172	NULL	NULL	19	14	0.0011504170261719873
+ayurvedic herb	shankpushpi	2	2	183	92	0.620689655172	NULL	NULL	3	2	0.007285974499089253
+ayurvedic herb	acquisition ayurvedic herb	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	Tulsi	1	1	183	92	0.620689655172	NULL	NULL	47	27	0.0001162655505173817
+ayurvedic herb	cooling ayurvedic herb	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	Bacopa monnieri	1	1	183	92	0.620689655172	NULL	NULL	19	15	0.0002876042565429968
+ayurvedic herb	andrographis	1	1	183	92	0.620689655172	NULL	NULL	35	15	0.000156128024980484
+ayurvedic herb	best ayurvedic herb	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	Chandan	1	1	183	92	0.620689655172	NULL	NULL	5	5	0.001092896174863388
+ayurvedic herb	Gandha Purva	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	ginseng	1	1	183	92	0.620689655172	NULL	NULL	1623	447	0.0000033669013396900432
+ayurvedic herb	lavang	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	haritaki	1	1	183	92	0.620689655172	NULL	NULL	15	5	0.00036429872495446266
+ayurvedic herb	henna	1	1	183	92	0.620689655172	NULL	NULL	188	91	0.000029066387629345423
+ayurvedic herb	Sariva	1	1	183	92	0.620689655172	NULL	NULL	4	3	0.001366120218579235
+ayurvedic herb	vetiver	1	1	183	92	0.620689655172	NULL	NULL	90	47	0.00006071645415907711
+ayurvedic herb	Passionflower	1	1	183	92	0.620689655172	NULL	NULL	182	65	0.000030024620188554615
+ayurvedic herb	Bhrangraj	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	Ashoka Tree	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	Aswagandha	1	1	183	92	0.620689655172	NULL	NULL	8	4	0.0006830601092896175
+ayurvedic herb	Garlic	1	1	183	92	0.620689655172	NULL	NULL	6018	1376	0.0000009080227441536956
+ayurvedic herb	ginger	1	1	183	92	0.620689655172	NULL	NULL	3867	984	0.000001413105992841205
+ayurvedic herb	chasteberry	1	1	183	92	0.620689655172	NULL	NULL	89	26	0.0000613986615091791
+ayurvedic herb	Indian Valerian	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	licorice	1	1	183	92	0.620689655172	NULL	NULL	637	215	0.000008578462911015604
+ayurvedic herb	Mandookparni	1	1	183	92	0.620689655172	NULL	NULL	11	2	0.0004967709885742673
+ayurvedic herb	Aconite	1	1	183	92	0.620689655172	NULL	NULL	68	36	0.00008036001285760205
+ayurvedic herb	Pashanbheda	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	sandlewood	1	1	183	92	0.620689655172	NULL	NULL	12	12	0.0004553734061930783
+ayurvedic herb	renowned ayurvedic herb	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	kasumba	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	lotus	1	1	183	92	0.620689655172	NULL	NULL	680	318	0.000008036001285760205
+ayurvedic herb	Indian Ginseng	1	1	183	92	0.620689655172	NULL	NULL	19	8	0.0002876042565429968
+ayurvedic herb	Indian asparagus root	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	Indian asparagus	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	Babool	1	1	183	92	0.620689655172	NULL	NULL	7	5	0.00078064012490242
+ayurvedic herb	butea	1	1	183	92	0.620689655172	NULL	NULL	88	4	0.00006209637357178341
+ayurvedic herb	gotu kola	1	1	183	92	0.620689655172	NULL	NULL	44	13	0.00012419274714356682
+ayurvedic herb	Gokhshura	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	cinnamon	1	1	183	92	0.620689655172	NULL	NULL	3347	776	0.0000016326503956728235
+ayurvedic herb	velvet bean	1	1	183	92	0.620689655172	NULL	NULL	28	18	0.000195160031225605
+ayurvedic herb	almond	1	1	183	92	0.620689655172	NULL	NULL	4195	930	0.0000013026176100874707
+ayurvedic herb	fenugreek	1	1	183	92	0.620689655172	NULL	NULL	564	147	0.000009688795876448474
+ayurvedic herb	precious ayurvedic herb	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	Ushira	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	Eclipta Alba	1	1	183	92	0.620689655172	NULL	NULL	16	7	0.00034153005464480874
+ayurvedic herb	amar bel	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	bhringraja	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	bitter melon	1	1	183	92	0.620689655172	NULL	NULL	117	52	0.000046704964737751625
+ayurvedic herb	bayberry	1	1	183	92	0.620689655172	NULL	NULL	96	50	0.00005692167577413479
+ayurvedic herb	arjuna	1	1	183	92	0.620689655172	NULL	NULL	41	21	0.0001332800213248034
+ayurvedic herb	Ashwaghanda	1	1	183	92	0.620689655172	NULL	NULL	11	8	0.0004967709885742673
+ayurvedic herb	Kulattha	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	gudmar turmeric	1	1	183	92	0.620689655172	NULL	NULL	2	2	0.00273224043715847
+ayurvedic herb	Punarnava	1	1	183	92	0.620689655172	NULL	NULL	3	3	0.0018214936247723133
+ayurvedic herb	Patola	1	1	183	92	0.620689655172	NULL	NULL	8	5	0.0006830601092896175
+ayurvedic herb	Olive leaf	1	1	183	92	0.620689655172	NULL	NULL	79	39	0.00006917064397869545
+ayurvedic herb	mucuna	1	1	183	92	0.620689655172	NULL	NULL	74	18	0.0000738443361394181
+ayurvedic herb	Muskroot	1	1	183	92	0.620689655172	NULL	NULL	3	2	0.0018214936247723133
+ayurvedic herb	Salai Guggul	1	1	183	92	0.620689655172	NULL	NULL	1	1	0.00546448087431694
+ayurvedic herb	shunthi	1	1	183	92	0.620689655172	NULL	NULL	6	4	0.0009107468123861566
+ayurvedic herbal blend	Chyawanprash	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+ayurvedic herbal preparation	Lavana Bhaskar	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Ayurvedic herbal soap	neem	1	1	1	1	NULL	NULL	NULL	382	170	0.002617801047120419
+ayurvedic herbal supplement	ashwagandha	1	1	4	4	NULL	NULL	NULL	385	67	0.0006493506493506494
+ayurvedic herbal supplement	makaradwaj	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+ayurvedic herbal supplement	safed musli powder	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+ayurvedic herbal supplement	Indian Mulberry fruit juice	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+ayurvedic heritage resort	Kalari Kovilakam	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic heritage resort	Manaltheeram Beach Resort	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic heritage resort	Somatheeram Ayurvedic Beach Resort	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ayurvedic industry	perfumery	1	1	4	4	0.250000000000	NULL	NULL	15	12	0.016666666666666666
+ayurvedic industry	cosmetic	1	1	4	4	0.250000000000	NULL	NULL	3165	1375	0.00007898894154818325
+ayurvedic industry	toiletry	1	1	4	4	0.250000000000	NULL	NULL	1111	302	0.000225022502250225
+ayurvedic industry	confectionery	1	1	4	4	0.250000000000	NULL	NULL	275	125	0.0009090909090909091
+ayurvedic ingredient	sandalwood facial oil	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayurvedic leaf	neem	1	1	1	1	NULL	NULL	NULL	382	170	0.002617801047120419
+ayurvedic massage & treatment	Rejuvenation Therapy	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+ayurvedic massage & treatment	Sirodhara	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+ayurvedic massage & treatment	Abhyangam	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+ayurvedic massage service	sports massage service	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic massage service	deep tissue massage service	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic massage service	sweedish massage service	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ayurvedic medical book	Astanga hrdya of Vagbhata	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurvedic medical book	Susruta	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ayurvedic medical text	Sushruta Samhita	1	1	1	1	1.000000000000	NULL	NULL	14	5	0.07142857142857142
+ayurvedic medication	vaasa	1	1	8	8	1.000000000000	NULL	NULL	7	6	0.017857142857142856
+ayurvedic medication	lahsuna	1	1	8	8	1.000000000000	NULL	NULL	8	2	0.015625
+ayurvedic medication	ber patthar bhasma	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+ayurvedic medication	kantakari	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+ayurvedic medication	punarnava	1	1	8	8	1.000000000000	NULL	NULL	3	3	0.041666666666666664
+ayurvedic medication	aardrak	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+ayurvedic medication	methika	1	1	8	8	1.000000000000	NULL	NULL	4	3	0.03125
+ayurvedic medication	yashtimadhu	1	1	8	8	1.000000000000	NULL	NULL	5	3	0.025
+ayurvedic medicinal product	amala	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+ayurvedic medicinal product	bramhi	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ayurvedic medicine	Divya Switrghnalep	2	1	31	30	0.800000000000	NULL	NULL	2	1	0.06451612903225806
+ayurvedic medicine	Divya Loki Juice	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	treatment Ayurvedic Medicines	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Brahmi	1	1	31	30	0.800000000000	NULL	NULL	166	27	0.000194325689856199
+ayurvedic medicine	arjuna	1	1	31	30	0.800000000000	NULL	NULL	41	21	0.0007867820613690008
+ayurvedic medicine	Hajrul Yahud Bhasma	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Package Medicine	1	1	31	30	0.800000000000	NULL	NULL	6	3	0.005376344086021505
+ayurvedic medicine	minty capsule	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Shilajit	1	1	31	30	0.800000000000	NULL	NULL	137	16	0.0002354603249352484
+ayurvedic medicine	dried herbal medicine	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Ashwagandha	1	1	31	30	0.800000000000	NULL	NULL	385	67	0.00008378718056137411
+ayurvedic medicine	Gandhak Rasayan	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	joint pain oil	1	1	31	30	0.800000000000	NULL	NULL	2	2	0.016129032258064516
+ayurvedic medicine	Panchatikta Dhrit	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Asmari Ras	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	fresh-raw garlic	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Kaishore Guggulu	1	1	31	30	0.800000000000	NULL	NULL	3	2	0.01075268817204301
+ayurvedic medicine	ingredient Ayurvedic Medicines	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Gymnema sylvestere	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Divya Kanchanar Guggulu	1	1	31	30	0.800000000000	NULL	NULL	3	2	0.01075268817204301
+ayurvedic medicine	Divya Medhohar Vati for internal usage	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Aloevera Honey	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	amla capsule	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	tribhuvan kirti	1	1	31	30	0.800000000000	NULL	NULL	2	2	0.016129032258064516
+ayurvedic medicine	triphla tablet	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	gokshruradi guggul	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	chandra prabha vati	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	ayurvedic sex stimulant	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Divya Vrik Doshar Kwarth	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine	Manjisthadi quath	1	1	31	30	0.800000000000	NULL	NULL	1	1	0.03225806451612903
+ayurvedic medicine practice	yoga	1	1	1	1	NULL	NULL	NULL	10229	2367	0.00009776126698602014
+ayurvedic method	massage	3	3	7	3	NULL	NULL	NULL	5399	1445	0.0002381393379726404
+ayurvedic method	Yoga	3	3	7	3	NULL	NULL	NULL	10229	2367	0.00012569305755345445
+ayurvedic method	relaxation	1	1	7	3	NULL	NULL	NULL	1304	512	0.0001095530236634531
+ayurvedic natural diuretic	Punarnava Mandur	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ayurvedic oil	gotu kola essential oil	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+ayurvedic oil	brahmi	1	1	5	5	0.333333333333	NULL	NULL	166	27	0.0012048192771084338
+ayurvedic oil	sesame oil	1	1	5	5	0.333333333333	NULL	NULL	331	124	0.0006042296072507553
+ayurvedic oil	bhringraj oil	1	1	5	5	0.333333333333	NULL	NULL	3	2	0.06666666666666667
+ayurvedic oil	mustard oil	1	1	5	5	0.333333333333	NULL	NULL	75	45	0.002666666666666667
+ayurvedic package	Stress & Strain	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ayurvedic package	Body purification Therapy	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ayurvedic package	Beauty Care & Eye Care	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ayurvedic package	Health spine care	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ayurvedic package	Rejuvenation & Detoxification	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+ayurvedic panchakarma treatment	oil bath	1	1	2	2	0.500000000000	NULL	NULL	16	14	0.03125
+ayurvedic panchakarma treatment	massage	1	1	2	2	0.500000000000	NULL	NULL	5399	1445	0.00009260974254491573
+ayurvedic plant	ayurvedic medicinal plant	2	1	8	4	NULL	NULL	NULL	2	1	0.25
+ayurvedic plant	natural ayurvedic plant	2	1	8	4	NULL	NULL	NULL	2	1	0.25
+ayurvedic plant	herbal ayurvedic plant	2	1	8	4	NULL	NULL	NULL	2	1	0.25
+ayurvedic plant	organic ayurvedic plant	2	1	8	4	NULL	NULL	NULL	2	1	0.25
+ayurvedic powder	aromatic ayurvedic powder	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic powder	herbal ayurvedic powder	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic powder	ayurvedic churna	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic powder	brahmi	1	1	6	6	1.000000000000	NULL	NULL	166	27	0.001004016064257028
+ayurvedic powder	diabetes ayurvedic powder	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+ayurvedic powder	neem karela gr	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+ayurvedic practice	yoga	4	4	10	7	0.166666666666	NULL	NULL	10229	2367	0.00015641802717763223
+ayurvedic practice	traditional ayurvedic practice	1	1	10	7	0.166666666666	NULL	NULL	2	2	0.05
+ayurvedic practice	dietary choice	1	1	10	7	0.166666666666	NULL	NULL	20	10	0.005
+ayurvedic practice	meditation	1	1	10	7	0.166666666666	NULL	NULL	6609	1473	0.000015130882130428205
+ayurvedic practice	dietary change	1	1	10	7	0.166666666666	NULL	NULL	211	97	0.00047393364928909954
+ayurvedic practice	herbal remedy	1	1	10	7	0.166666666666	NULL	NULL	256	120	0.000390625
+ayurvedic practice	transcendental meditation	1	1	10	7	0.166666666666	NULL	NULL	104	53	0.0009615384615384616
+ayurvedic practitioner	David Frawley	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+ayurvedic practitioner	Dr. Vasant Lad	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+ayurvedic practitioner	ancient indian ayurvedic practitioner	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+ayurvedic pranayama breathing technique	deep	1	1	2	2	NULL	NULL	NULL	138	80	0.0036231884057971015
+ayurvedic pranayama breathing technique	slow	1	1	2	2	NULL	NULL	NULL	146	94	0.003424657534246575
+ayurvedic preparation	Prabhakar Ras	2	2	9	8	0.750000000000	NULL	NULL	2	1	0.2222222222222222
+ayurvedic preparation	brahmi vati	1	1	9	8	0.750000000000	NULL	NULL	2	2	0.05555555555555555
+ayurvedic preparation	Narayana choorna	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ayurvedic preparation	Ashwagandha	1	1	9	8	0.750000000000	NULL	NULL	385	67	0.0002886002886002886
+ayurvedic preparation	godanti	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ayurvedic preparation	brahmi ghritam	1	1	9	8	0.750000000000	NULL	NULL	2	2	0.05555555555555555
+ayurvedic preparation	mukta pishti	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ayurvedic preparation	praval pishti	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ayurvedic principle	3 doshas	1	1	1	1	NULL	NULL	NULL	1	1	1
+ayurvedic procedure	massage	1	1	1	1	0.500000000000	NULL	NULL	5399	1445	0.00018521948508983145
+ayurvedic product	Ayurvedic Toothpaste	4	1	26	21	0.727272727272	NULL	NULL	5	2	0.12307692307692308
+ayurvedic product	ayurvedic powder	2	2	26	21	0.727272727272	NULL	NULL	2	1	0.07692307692307693
+ayurvedic product	Natural Honey	2	1	26	21	0.727272727272	NULL	NULL	10	8	0.015384615384615385
+ayurvedic product	Ayurvedic Syrup	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	ayurvedic pain balm	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	ayurvedic cosmetic	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	Jiva Sattva Obesity Healthcare Pack	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	suved	1	1	26	21	0.727272727272	NULL	NULL	9	7	0.004273504273504274
+ayurvedic product	Rose Water	1	1	26	21	0.727272727272	NULL	NULL	60	47	0.000641025641025641
+ayurvedic product	pain killer balm	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	oil	1	1	26	21	0.727272727272	NULL	NULL	15331	4205	0.000002508742969247829
+ayurvedic product	toothpaste	1	1	26	21	0.727272727272	NULL	NULL	2421	610	0.000015886632987004734
+ayurvedic product	aloe vera balm	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	Cardoved	1	1	26	21	0.727272727272	NULL	NULL	9	7	0.004273504273504274
+ayurvedic product	liquid pain balm	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	Rudved	1	1	26	21	0.727272727272	NULL	NULL	9	7	0.004273504273504274
+ayurvedic product	Rose Gulkand	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	Ayurvedic Capsules	1	1	26	21	0.727272727272	NULL	NULL	1	1	0.038461538461538464
+ayurvedic product	liniment	1	1	26	21	0.727272727272	NULL	NULL	27	23	0.0014245014245014246
+ayurvedic product	Inhaler	1	1	26	21	0.727272727272	NULL	NULL	386	148	0.00009964129135113592
+ayurvedic product	herbal shampoo	1	1	26	21	0.727272727272	NULL	NULL	21	16	0.0018315018315018315
+Ayurvedic product s	Ayurvedic Toothpaste	1	1	2	2	NULL	NULL	NULL	5	2	0.1
+Ayurvedic product s	Ayurvedic soap	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ayurvedic property	stomachic	1	1	2	2	0.500000000000	NULL	NULL	8	7	0.0625
+ayurvedic property	digestive	1	1	2	2	0.500000000000	NULL	NULL	138	61	0.0036231884057971015
+Ayurvedic rasayanas	Amalaki	4	4	4	1	1.000000000000	NULL	NULL	115	15	0.034782608695652174
+ayurvedic regimen	exfoliation	1	1	1	1	NULL	NULL	NULL	43	30	0.023255813953488372
+ayurvedic rejuvenation facility	Kizhi	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ayurvedic rejuvenation facility	Marma Massage	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ayurvedic remedy	marma chikitsa	4	4	23	17	0.625000000000	NULL	NULL	5	2	0.1391304347826087
+ayurvedic remedy	Pravaalpanchaamrit	2	2	23	17	0.625000000000	NULL	NULL	2	1	0.08695652173913043
+ayurvedic remedy	dhara	2	2	23	17	0.625000000000	NULL	NULL	10	6	0.017391304347826087
+ayurvedic remedy	Shankavati	2	2	23	17	0.625000000000	NULL	NULL	2	1	0.08695652173913043
+ayurvedic remedy	consuming Shatavari	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	cinnamon	1	1	23	17	0.625000000000	NULL	NULL	3347	776	0.000012990218365570725
+ayurvedic remedy	herbal tea	1	1	23	17	0.625000000000	NULL	NULL	498	280	0.00008730574471800244
+ayurvedic remedy	Avipattikar choornam	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	Divya Punarnavadi Mandoor	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	ayurvedic remedy specialized ayurvedic remedy	1	1	23	17	0.625000000000	NULL	NULL	2	2	0.021739130434782608
+ayurvedic remedy	Avipattikar choorna	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	Hingwaashtak choorna	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	Hingwaashtak choornam	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	supplement	1	1	23	17	0.625000000000	NULL	NULL	425	201	0.00010230179028132991
+ayurvedic remedy	Triphala	1	1	23	17	0.625000000000	NULL	NULL	33	19	0.0013175230566534915
+ayurvedic remedy	coleus forskohliiv	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic remedy	paonia ginseng	1	1	23	17	0.625000000000	NULL	NULL	1	1	0.043478260869565216
+ayurvedic scripture	Charak Samhita	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+ayurvedic soap	Chandrika	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ayurvedic soap	Medimix	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+ayurvedic soap	Hamam	1	1	4	4	1.000000000000	NULL	NULL	7	6	0.03571428571428571
+ayurvedic soap	Margo neem soap	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ayurvedic spice	cumin	17	15	68	11	0.363636363636	NULL	NULL	1028	210	0.004134241245136187
+ayurvedic spice	coriander	15	13	68	11	0.363636363636	NULL	NULL	1140	276	0.002902476780185758
+ayurvedic spice	turmeric	12	11	68	11	0.363636363636	NULL	NULL	1396	345	0.0015169391538850498
+ayurvedic spice	cayenne	5	4	68	11	0.363636363636	NULL	NULL	553	165	0.0006648228911817892
+ayurvedic spice	black pepper	5	4	68	11	0.363636363636	NULL	NULL	723	208	0.0005085021560491417
+ayurvedic spice	small quantities of turmeric	4	4	68	11	0.363636363636	NULL	NULL	4	1	0.058823529411764705
+ayurvedic spice	dried ginger	3	3	68	11	0.363636363636	NULL	NULL	17	13	0.007785467128027682
+ayurvedic spice	cinnamon	3	3	68	11	0.363636363636	NULL	NULL	3347	776	0.00003954375296578147
+ayurvedic spice	saffron	2	2	68	11	0.363636363636	NULL	NULL	390	157	0.00015082956259426848
+ayurvedic spice	ginger	1	1	68	11	0.363636363636	NULL	NULL	3867	984	0.0000038029175983814784
+ayurvedic spice	tumeric	1	1	68	11	0.363636363636	NULL	NULL	141	55	0.00010429703796412182
+ayurvedic stalwart	Charaka	2	2	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+ayurvedic stress relief procedure	massage	1	1	1	1	NULL	NULL	NULL	5399	1445	0.00018521948508983145
+ayurvedic technique	shirodhara	3	2	8	5	0.250000000000	NULL	NULL	41	23	0.027439024390243903
+ayurvedic technique	yoga	2	2	8	5	0.250000000000	NULL	NULL	10229	2367	0.00004888063349301007
+ayurvedic technique	diet modification	1	1	8	5	0.250000000000	NULL	NULL	73	41	0.0017123287671232876
+ayurvedic technique	Marma Points	1	1	8	5	0.250000000000	NULL	NULL	2	2	0.0625
+ayurvedic technique	diet	1	1	8	5	0.250000000000	NULL	NULL	5762	1140	0.00002169385629989587
+ayurvedic text	Charaka Samhita	2	2	13	11	1.000000000000	NULL	NULL	15	10	0.020512820512820513
+ayurvedic text	Charak Samhita	2	2	13	11	1.000000000000	NULL	NULL	11	8	0.027972027972027972
+ayurvedic text	Charak	1	1	13	11	1.000000000000	NULL	NULL	5	3	0.015384615384615385
+ayurvedic text	Caraka samhita	1	1	13	11	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+ayurvedic text	ancient ayurvedic text	1	1	13	11	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+ayurvedic text	Susruta samhita	1	1	13	11	1.000000000000	NULL	NULL	3	3	0.025641025641025644
+ayurvedic text	Charaka	1	1	13	11	1.000000000000	NULL	NULL	6	5	0.012820512820512822
+ayurvedic text	Samhita	1	1	13	11	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+ayurvedic text	traditional ayurvedic text	1	1	13	11	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+ayurvedic text	classical ayurvedic text	1	1	13	11	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+ayurvedic text	Sushruta Samhita	1	1	13	11	1.000000000000	NULL	NULL	14	5	0.005494505494505495
+ayurvedic therapy	pranayama	5	5	43	25	0.384615384615	NULL	NULL	179	82	0.0032480187085877615
+ayurvedic therapy	shirodhara	5	5	43	25	0.384615384615	NULL	NULL	41	23	0.014180374361883154
+ayurvedic therapy	rasayana	4	4	43	25	0.384615384615	NULL	NULL	4	1	0.09302325581395349
+ayurvedic therapy	massage	3	3	43	25	0.384615384615	NULL	NULL	5399	1445	0.0000387668689722903
+ayurvedic therapy	Urine therapy	2	2	43	25	0.384615384615	NULL	NULL	3	2	0.031007751937984496
+ayurvedic therapy	yoga	2	1	43	25	0.384615384615	NULL	NULL	10229	2367	0.000009094071347536757
+ayurvedic therapy	meditation	2	2	43	25	0.384615384615	NULL	NULL	6609	1473	0.000014075239191096003
+ayurvedic therapy	diet	2	1	43	25	0.384615384615	NULL	NULL	5762	1140	0.00001614426515341088
+ayurvedic therapy	Ayurvedic Mental Therapy for Ailments	2	2	43	25	0.384615384615	NULL	NULL	2	1	0.046511627906976744
+ayurvedic therapy	rasayana therapy	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	steam bath	1	1	43	25	0.384615384615	NULL	NULL	125	81	0.00018604651162790697
+ayurvedic therapy	Bindi Treatment	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	Sarvanga dhara	1	1	43	25	0.384615384615	NULL	NULL	2	2	0.011627906976744186
+ayurvedic therapy	Fish therapy	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	Fish remedy	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	Vamana	1	1	43	25	0.384615384615	NULL	NULL	5	5	0.004651162790697674
+ayurvedic therapy	color therapy	1	1	43	25	0.384615384615	NULL	NULL	50	31	0.0004651162790697674
+ayurvedic therapy	Virechana	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	Nasya	1	1	43	25	0.384615384615	NULL	NULL	6	4	0.003875968992248062
+ayurvedic therapy	special purification rout ines	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	Swedana	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic therapy	Basti	1	1	43	25	0.384615384615	NULL	NULL	7	7	0.0033222591362126247
+ayurvedic therapy	shirodhara therapy	1	1	43	25	0.384615384615	NULL	NULL	2	2	0.011627906976744186
+ayurvedic therapy	Rejuvenation therapy	1	1	43	25	0.384615384615	NULL	NULL	5	4	0.004651162790697674
+ayurvedic therapy	Rejuvenation remedy	1	1	43	25	0.384615384615	NULL	NULL	1	1	0.023255813953488372
+ayurvedic tool	diet	1	1	1	1	NULL	NULL	NULL	5762	1140	0.00017355085039916696
+ayurvedic tradition spice	tamarind	1	1	2	2	NULL	NULL	NULL	246	130	0.0020325203252032522
+ayurvedic tradition spice	turmeric	1	1	2	2	NULL	NULL	NULL	1396	345	0.00035816618911174784
+ayurvedic treatment	Panchakarma	5	5	44	32	0.636363636363	NULL	NULL	11	6	0.051652892561983466
+ayurvedic treatment	diet	3	3	44	32	0.636363636363	NULL	NULL	5762	1140	0.00003549903758164778
+ayurvedic treatment	Abhyanga Swedana treatment	2	1	44	32	0.636363636363	NULL	NULL	2	1	0.045454545454545456
+ayurvedic treatment	therapeutic treatment	2	2	44	32	0.636363636363	NULL	NULL	11	9	0.008264462809917356
+ayurvedic treatment	henna	2	2	44	32	0.636363636363	NULL	NULL	188	91	0.00048355899419729207
+ayurvedic treatment	rejuvenation therapy	2	2	44	32	0.636363636363	NULL	NULL	5	4	0.01818181818181818
+ayurvedic treatment	nutritional herb	2	2	44	32	0.636363636363	NULL	NULL	2	1	0.045454545454545456
+ayurvedic treatment	Shirodhara	2	2	44	32	0.636363636363	NULL	NULL	41	23	0.0022172949002217295
+ayurvedic treatment	Abhyangam	1	1	44	32	0.636363636363	NULL	NULL	5	5	0.004545454545454545
+ayurvedic treatment	beauty care treatment	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	herbal steam bath	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	kerala special treatment	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	kerala ayurvedic treatment	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	Kalari massage	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	Indian Head Massage	1	1	44	32	0.636363636363	NULL	NULL	157	56	0.0001447596988998263
+ayurvedic treatment	holistic ayurvedic treatment	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	ayurvedic treatment for cancer	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	traditional massage	1	1	44	32	0.636363636363	NULL	NULL	10	8	0.0022727272727272726
+ayurvedic treatment	Dhare	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	relaxation massage	1	1	44	32	0.636363636363	NULL	NULL	38	27	0.0005980861244019139
+ayurvedic treatment	Lepanam	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	asthma koodaram	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	customized treatment	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	accommodation	1	1	44	32	0.636363636363	NULL	NULL	1658	507	0.000013707643381949775
+ayurvedic treatment	marma chikitsa	1	1	44	32	0.636363636363	NULL	NULL	5	2	0.004545454545454545
+ayurvedic treatment	Vatika oil	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	oil massage	1	1	44	32	0.636363636363	NULL	NULL	23	16	0.0009881422924901185
+ayurvedic treatment	authentic ayurvedic treatment	1	1	44	32	0.636363636363	NULL	NULL	2	2	0.011363636363636364
+ayurvedic treatment	Abhyanga Massage	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	yoga meditation steam bath	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	panchakarma treatment	1	1	44	32	0.636363636363	NULL	NULL	1	1	0.022727272727272728
+ayurvedic treatment	Nasyam	1	1	44	32	0.636363636363	NULL	NULL	4	4	0.005681818181818182
+ayurvedic treatment option	yoga exercise	1	1	1	1	1.000000000000	NULL	NULL	33	28	0.030303030303030304
+ayurvedic treatment procedure	Udwartana	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ayurvedic treatment procedure	Abhyanga	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Ayurvedic Types	kapha	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ayurvedic website	himalayahealthcare	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ayurvedic website	jiva	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ayurvedic website	chakrapani	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ayurvedic website	charaka	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+ayuthaya krungthep professional application	Adobe InDesign	1	1	1	1	NULL	NULL	NULL	285	108	0.0035087719298245615

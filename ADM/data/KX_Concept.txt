@@ -1,0 +1,7 @@
+KX driver's standard feature	Private Print	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KX driver's standard feature	Job Storage	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KX-HGW200 support protocol	IPX	1	1	1	1	1.000000000000	NULL	NULL	100	26	0.01
+kx-ray fluorescence INTRODUCTION lead stabilizer	lead sulfate	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+KXAS personality	Mike Snyder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KXAS personality	Bobbie Wygant	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KXAS personality	Scott Murray	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

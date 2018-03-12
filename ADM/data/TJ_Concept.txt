@@ -1,0 +1,25 @@
+TJ component	occludin	1	1	1	1	1.000000000000	NULL	NULL	42	24	0.023809523809523808
+TJ model	X	1	1	1	1	1.000000000000	NULL	NULL	28	20	0.03571428571428571
+TJ plaque protein	Zonula occludens ZO-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+TJ protein	zonula occludens protein	2	2	2	1	NULL	NULL	NULL	2	1	1
+tj's four-wheel-drive component	low-range transfer case	1	1	1	1	NULL	NULL	NULL	1	1	1
+tj-pes	selachian	1	1	1	1	NULL	NULL	NULL	1	1	1
+TJ-proteins	occludin	1	1	1	1	1.000000000000	NULL	NULL	42	24	0.023809523809523808
+Tje newer-generation oral cephalosporins	cefdinir	1	1	3	3	0.500000000000	NULL	NULL	26	14	0.01282051282051282
+Tje newer-generation oral cephalosporins	ceftibuten	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+Tje newer-generation oral cephalosporins	cefixime	1	1	3	3	0.500000000000	NULL	NULL	59	24	0.005649717514124294
+tJlispropertyfordctccting incoherent motion	inverse running	1	1	1	1	NULL	NULL	NULL	1	1	1
+tjosvold state chinese value	social face	1	1	1	1	NULL	NULL	NULL	1	1	1
+tjraffic offense	driving under the influence	1	1	1	1	NULL	NULL	NULL	177	75	0.005649717514124294
+TJRC relevant public legal document	TJRC ACT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TJRC relevant public legal document	Commissioners Code of Conduct	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tjrpical consumer decision	using price information	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+tjrpical consumer decision	finding the best product	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+tjrpical consumer decision	making comparison	1	1	4	4	1.000000000000	NULL	NULL	15	10	0.016666666666666666
+tjrpical consumer decision	making choices among product	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+tjrpically reversible action	formation of ester	1	1	1	1	NULL	NULL	NULL	1	1	1
+tjrrants	Peisistratidae at Athens	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+tjrrants	Periander at Corinth	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+tjrrants	Polykrates at Samos	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+tjs four-wheel-drive component	transmission transfer case	1	1	1	1	NULL	NULL	NULL	1	1	1
+tjscontain transmembrane protein	occludin	1	1	1	1	1.000000000000	NULL	NULL	42	24	0.023809523809523808

@@ -1,0 +1,37 @@
+GG member	Colby Dieckmen	1	1	1	1	NULL	NULL	NULL	1	1	1
+GG product	TGB	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+gg-ana make-up product	Liquid eyeliner	1	1	9	9	0.750000000000	NULL	NULL	20	17	0.005555555555555555
+gg-ana make-up product	Liquid Mascara-7ml	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+gg-ana make-up product	Eyebrow pencil	1	1	9	9	0.750000000000	NULL	NULL	24	16	0.004629629629629629
+gg-ana make-up product	Lipliner-Pencil Type	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+gg-ana make-up product	Stick eyeshadow	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+gg-ana make-up product	Lipgloss	1	1	9	9	0.750000000000	NULL	NULL	18	14	0.006172839506172839
+gg-ana make-up product	Essence Two Way cake	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+gg-ana make-up product	Lipstick	1	1	9	9	0.750000000000	NULL	NULL	775	281	0.00014336917562724014
+gg-ana make-up product	Lip Palette	1	1	9	9	0.750000000000	NULL	NULL	2	2	0.05555555555555555
+gga -functional	generalized gradient approximation gga -functional	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+GGA -functional	PBE	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+GGC volunteer activity	annual plant sale	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Ggemstones	diamond	1	1	4	4	NULL	NULL	NULL	2545	954	0.00009823182711198428
+Ggemstones	tourmaline	1	1	4	4	NULL	NULL	NULL	339	139	0.0007374631268436578
+Ggemstones	amethyst	1	1	4	4	NULL	NULL	NULL	858	293	0.0002913752913752914
+Ggemstones	sapphire	1	1	4	4	NULL	NULL	NULL	1202	421	0.00020798668885191348
+GGF working group	Open Grid Service Infrastructure Working Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+GGFs	NRG1	4	2	4	1	1.000000000000	NULL	NULL	10	6	0.4
+GGH team member	Mary Stodder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+GGH team member	Paul Bouscal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+GGH team member	Sam Moreau	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+GGNMOS transistor	illustrated in FIG	1	1	1	1	NULL	NULL	NULL	1506	674	0.0006640106241699867
+GGPL purchase	Moulds	1	1	3	3	1.000000000000	NULL	NULL	4	11	0.08333333333333333
+GGPL purchase	Furnace Oil	1	1	3	3	1.000000000000	NULL	NULL	49	18	0.006802721088435374
+GGPL purchase	R aw Materials	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ggppingen design	Gg 6 2-seater Minimoa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ggppingen design	G~ 7 2-seater light aeroplane	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ggreen vegetable	spinach	1	1	1	1	NULL	NULL	NULL	8593	1370	0.00011637379262190155
+ggregate concrete	terrazzo	1	1	1	1	NULL	NULL	NULL	228	103	0.0043859649122807015
+ggressivehuman tumor cell	HeLa cell	1	1	1	1	1.000000000000	NULL	NULL	81	33	0.012345679012345678
+GGS entity	Roads Corporation	1	1	1	1	NULL	NULL	NULL	1	1	1
+GGSN feature	GTP-session redundancy	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+GGSN feature	enhanced service-aware billing	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+ggsn feature	cisco ggsn feature	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+GGWC coach	Ross Capdeville	1	1	1	1	NULL	NULL	NULL	1	1	1

@@ -1,0 +1,252 @@
+ls	lightweight and strong materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	Twitter offer microblogging	1	1	22	22	NULL	NULL	NULL	6	2	0.007575757575757576
+ls	cobalt for vitamin B	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	recycled materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	road-building materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	year key individua ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	physical tria ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	toxic materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	hand-on materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	heating prepackaged materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	popular component mode ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	proprietary software development mode ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	absorbent materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	american evangelica ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	intravenous contrast materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	introducing mode ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	brake fluid	1	1	22	22	NULL	NULL	NULL	260	92	0.00017482517482517483
+ls	wonderful evangelica ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	non-biodegradable materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	packaging materia ls	1	1	22	22	NULL	NULL	NULL	2	2	0.022727272727272728
+ls	large hospita ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+ls	normalized leve ls	1	1	22	22	NULL	NULL	NULL	1	1	0.045454545454545456
+LS advocate misuse scripture	Matthew 10	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+LS area	user area	1	1	1	1	NULL	NULL	NULL	1	1	1
+LS cam	LG Motorsports G5X3	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+LS cam	Magic Stick	1	1	2	2	1.000000000000	NULL	NULL	15	9	0.03333333333333333
+LS dance character	Kagami	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+LS dance character	Tsukasa	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+LS dance character	Miyuki	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+LS diversity initiative	Affinity Lunches	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LS diversity initiative	Banana Splits program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LS engine	LS7 model	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LS engine	LS3	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+LS engine	LS2	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+LS event	Rank mission	1	1	1	1	NULL	NULL	NULL	1	1	1
+LS jake mcquaide ram	S James Butler	1	1	3	3	NULL	NULL	NULL	6	2	0.05555555555555555
+LS jake mcquaide ram	OL Adam Goldberg	1	1	3	3	NULL	NULL	NULL	6	2	0.05555555555555555
+LS jake mcquaide ram	DT Gary Gibson	1	1	3	3	NULL	NULL	NULL	4	2	0.08333333333333333
+LS Lightning power	Electric Judgement	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LS method	auto-correlation method	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LS model feature	steering-wheel audio control	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+LS model feature	aluminum wheel	1	1	2	2	1.000000000000	NULL	NULL	32	25	0.015625
+LS option	all-leather interior	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LS piece	front brake cooling duct	1	1	1	1	NULL	NULL	NULL	1	1	1
+LS protocol	OSPF	1	1	1	1	NULL	NULL	NULL	471	84	0.0021231422505307855
+LS series engine	LS2	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+LS series engine	LS3	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+LS symptom	cataract	1	1	1	1	NULL	NULL	NULL	1476	366	0.0006775067750677507
+LS tool	brain storming	1	1	3	3	1.000000000000	NULL	NULL	24	17	0.013888888888888888
+LS tool	process observation	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+LS tool	Gemba	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+LS&A department	Chemistry	1	1	2	2	NULL	NULL	NULL	2911	760	0.00017176228100309173
+LS&A department	Biology	1	1	2	2	NULL	NULL	NULL	2846	783	0.00017568517217146873
+LS&I motive power	former BN U30C	1	1	1	1	NULL	NULL	NULL	1	1	1
+LS1 family SBC	LS6	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+LS7 product	bracket	1	1	2	2	NULL	NULL	NULL	907	331	0.0005512679162072767
+LS7 product	header	1	1	2	2	NULL	NULL	NULL	764	383	0.0006544502617801048
+ls7-specific item	balancer pulley bolt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ls7-specific item	exhaust manifold gasket	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+ls7-specific item	oil pan gasket	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+LSA collection	Jazz	1	1	1	1	NULL	NULL	NULL	1810	522	0.0005524861878453039
+LSA element	frequent backing	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+LSA framework discreet entity	word	1	1	1	1	NULL	NULL	NULL	4363	1194	0.00022920009168003668
+LSA manufacturer	Jabiru USA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSA manufacturer	Rans	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+LSA member	Bob Noble	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSA parameter	LSA identity	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSA secret	service password	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSA staff area	rest area	1	1	2	2	NULL	NULL	NULL	70	44	0.007142857142857143
+LSA staff area	restroom	1	1	2	2	NULL	NULL	NULL	847	311	0.0005903187721369539
+lsa's particular interest	furtherance of the Empire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lsa's particular interest	Imperial Preference	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lsa-based seed	Woodrose	1	1	1	1	NULL	NULL	NULL	7	4	0.14285714285714285
+lsa-containing seed	morning glories & Hawaiian Baby Woodrose seed	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSalgorithms	Fish-eye State Routing	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSAs	Network LSAs	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+LSAs	Tayside	1	1	2	2	0.500000000000	NULL	NULL	8	5	0.0625
+lsassitwithin strategic organization	NHS authority	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LSAT study guide	LSAT for dummy	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSAT test preparation course	Princeton Review	1	1	1	1	NULL	NULL	NULL	122	83	0.00819672131147541
+LSAW publication	LSAW Reference Manual	1	1	1	1	NULL	NULL	NULL	1	1	1
+lsb-based image hiding scheme	greedy LSB substitution technique	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lsb-based image hiding scheme	optimal LSB substitution technique	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lsb-based image hiding scheme	simple LSB substitution technique	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lsbf's postgraduate program	MBA	1	1	1	1	NULL	NULL	NULL	398	155	0.002512562814070352
+LSBs	SME Bank	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+LSBs	state-owned Lankaputhra Development Bank	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSC parameter	life-sign checking interval	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSC parameter	overload response time	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSC policy initiative	Agenda for Change	1	1	2	2	1.000000000000	NULL	NULL	13	13	0.038461538461538464
+LSC policy initiative	coupled with the revised Ofsted inspection arrangement	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+LSC program	Train to Gain	1	1	1	1	NULL	NULL	NULL	47	26	0.02127659574468085
+LSC provider	independent learning provider	2	1	2	1	NULL	NULL	NULL	2	1	1
+LSC recipient	ULS	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+LSC valve parameter	spring stiffness	1	1	3	3	1.000000000000	NULL	NULL	16	7	0.020833333333333332
+LSC valve parameter	valve orifice area	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+LSC valve parameter	valve stroke	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+lsc-tomball service	internet access	2	1	4	2	NULL	NULL	NULL	1386	471	0.0007215007215007215
+lsc-tomball service	Library	2	1	4	2	NULL	NULL	NULL	6833	2108	0.00014634860237084735
+LSCB group	prevention	1	1	2	2	NULL	NULL	NULL	468	228	0.0010683760683760685
+LSCB group	protection working group	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LSCB member	primary care trust	1	1	2	2	0.500000000000	NULL	NULL	66	42	0.007575757575757576
+LSCB member	police	1	1	2	2	0.500000000000	NULL	NULL	6527	1820	0.00007660487206986364
+LSCB promotional material	stress ball	1	1	2	2	NULL	NULL	NULL	91	57	0.005494505494505495
+LSCB promotional material	key ring	1	1	2	2	NULL	NULL	NULL	355	185	0.0014084507042253522
+LSCBs	Tameside	1	1	1	1	1.000000000000	NULL	NULL	15	9	0.06666666666666667
+LSD	Quaife	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+LSD application	non-road equipment	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSD cell	eneloop	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+LSD chain	BENNET	1	1	4	4	0.333333333333	NULL	NULL	15	14	0.016666666666666666
+LSD chain	AUCHAN	1	1	4	4	0.333333333333	NULL	NULL	106	54	0.0023584905660377358
+LSD chain	ESSELUNGA	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+LSD chain	CONAD	1	1	4	4	0.333333333333	NULL	NULL	4	4	0.0625
+LSD medium caoacity nimh cell	Sanyo Eneloops	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+LSD proponent	author Ken Kesey	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LSD proponent	academic Timothy Leary	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSD record	Eight Miles High	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LSD unit	Auburn	1	1	1	1	NULL	NULL	NULL	316	123	0.0031645569620253164
+LSDB transaction	Wpns Qual	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSDBEs	Dynamic Concepts Inc.	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSDI institution	University of Wisconsin-Madison Libraries	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+LSDI institution	Cornell University Library	1	1	4	3	NULL	NULL	NULL	3	2	0.08333333333333333
+LSDI institution	Cornell Univers ity Library	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+LSDPs	Kalanchoe	1	1	2	2	NULL	NULL	NULL	79	30	0.006329113924050633
+LSDPs	Bryophyllum	1	1	2	2	NULL	NULL	NULL	8	3	0.0625
+lsds	stock nissan lsd's	1	1	2	2	0.857142857142	NULL	NULL	1	1	0.5
+LSDs	Tay-Sachs disease	1	1	2	2	0.857142857142	NULL	NULL	111	42	0.0045045045045045045
+LSE	ABI Inform	1	1	1	1	0.666666666666	NULL	NULL	14	8	0.07142857142857142
+LSE academic	Tony Travers	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+LSE academic	Professor Damian Chalmers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LSE academic	Professor Nicholas Barr	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LSE econometricians	Hendry	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+LSE information	campus map	1	1	2	2	1.000000000000	NULL	NULL	21	15	0.023809523809523808
+LSE information	PC availability	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+LSE material	polyethylene	2	2	3	2	NULL	NULL	NULL	3181	975	0.0004191554018652415
+LSE material	polypropylene	1	1	3	2	NULL	NULL	NULL	3078	933	0.00010829542993285683
+LSE program activity	Disposition of Labor Standards Cases	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSE quality support system	student assessment	1	1	1	1	1.000000000000	NULL	NULL	27	23	0.037037037037037035
+lse shop selling item	lse cuff link	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSE useful contact	Library	1	1	1	1	0.333333333333	NULL	NULL	6833	2108	0.00014634860237084735
+lses	Adamsite	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+lses	Arizona Electric	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSF information	number of jobs in different state for a given time interval	1	1	1	1	NULL	NULL	NULL	1	1	1
+lsi	bi-cmos memory lsi	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lsi	large standardized lsi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSI application	printer controller	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+LSI approach	Conversation Analysis	1	1	3	3	0.666666666666	NULL	NULL	14	13	0.023809523809523808
+LSI approach	Discourse Analysis	1	1	3	3	0.666666666666	NULL	NULL	72	41	0.004629629629629629
+LSI approach	Ethnography of Communication	1	1	3	3	0.666666666666	NULL	NULL	6	6	0.05555555555555555
+LSI chip	microprocessor	3	3	4	3	0.500000000000	NULL	NULL	1148	446	0.00195993031358885
+lsi chip	digital lsi chip	1	1	4	3	0.500000000000	NULL	NULL	2	2	0.125
+LSI device	bipolar memory	1	1	2	3	NULL	NULL	NULL	3	2	0.16666666666666666
+LSI device	bipolar microprocessor device	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+LSI element	LSI wafer	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSI logic standards-based core	ARM processor	2	2	4	2	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+LSI logic standards-based core	PCI Express Link	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+LSI program	Innovation Partnership	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+LSID client	LSID Tester	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSIO parameter	base address	1	1	1	1	1.000000000000	NULL	NULL	19	10	0.05263157894736842
+LSIs	system LSIs mounted in vehicle	1	1	2	2	0.250000000000	NULL	NULL	1	1	0.5
+lsis	reconfigurable logic lsis	1	1	2	2	0.250000000000	NULL	NULL	1	1	0.5
+LSIS program	new World Class Skills Developing Responsive Provision program	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSIS project	FIF project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSIS project	EII program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSL command	play	1	1	1	1	NULL	NULL	NULL	1983	812	0.0005042864346949068
+LSL concept	event	1	1	2	2	NULL	NULL	NULL	1629	766	0.0003069367710251688
+LSL concept	message	1	1	2	2	NULL	NULL	NULL	639	295	0.000782472613458529
+LSL function	llsay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSL function	llwhisper	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSM subcomponents	panel	1	1	2	2	0.500000000000	NULL	NULL	811	396	0.0006165228113440197
+LSM subcomponents	individual cell	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+LSM system	Blackboard	1	1	1	1	NULL	NULL	NULL	914	432	0.0010940919037199124
+lsm-tree primitive	admission control	1	1	1	1	NULL	NULL	NULL	69	49	0.014492753623188406
+LSMRs	USNS Bob Hope	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lso classical field crop	maize	1	1	1	1	NULL	NULL	NULL	3361	842	0.0002975304968759298
+lso indirect benefit	lower costs for training replacement worker	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+lso indirect benefit	increased productivity	1	1	2	2	NULL	NULL	NULL	133	64	0.0037593984962406013
+lso purchase product	DVDs	1	1	1	1	NULL	NULL	NULL	1949	787	0.000513083632632119
+LSO scanner	microPET R4	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSO's	Lt. Andrew McLean of VX-23	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSO's	Lt. Geoffrey McAlwee of VX-20	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSP	EPIC Translations	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSP attribute	bandwidth	1	1	2	2	NULL	NULL	NULL	1137	466	0.00043975373790677223
+LSP attribute	priority	1	1	2	2	NULL	NULL	NULL	428	200	0.0011682242990654205
+LSP field	economics	2	1	4	2	NULL	NULL	NULL	3114	788	0.0003211303789338471
+LSP field	politics	2	1	4	2	NULL	NULL	NULL	3289	854	0.0003040437823046519
+LSP member business	food co-ops	1	1	3	3	0.333333333333	NULL	NULL	15	14	0.02222222222222222
+LSP member business	farmers market	1	1	3	3	0.333333333333	NULL	NULL	359	208	0.0009285051067780872
+LSP member business	restaurant	1	1	3	3	0.333333333333	NULL	NULL	11422	2864	0.00002918344714877721
+LSP partner	primary care trust	1	1	1	1	1.000000000000	NULL	NULL	66	42	0.015151515151515152
+LSP path qos -metric	delay	1	1	2	2	NULL	NULL	NULL	1442	646	0.00034674063800277393
+LSP path qos -metric	loss	1	1	2	2	NULL	NULL	NULL	938	398	0.0005330490405117271
+LSP test	Occupational English Test	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSP test	English for Aviation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LSPs	Coventry Partnership	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSPs	pinnacle liquid souveran	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSR	LSR 595-HC	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSR design	Blue Flame	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+LSR design	Budweiser rocket	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lsr's professional program	Journalism	1	1	1	1	NULL	NULL	NULL	774	285	0.0012919896640826874
+lsrcp-funded action	chinookbroodstock collection	1	1	1	1	NULL	NULL	NULL	1	1	1
+lsrger type	oceangoing Type IX	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSS policy	Values Policy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSS policy	Guidelines for Customer Care	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSS tool	fault tree analysis	1	1	4	5	0.500000000000	NULL	NULL	122	65	0.0020491803278688526
+LSS tool	input-process-output matrix	1	1	4	5	0.500000000000	NULL	NULL	1	1	0.25
+LSS tool	process flow map	1	1	4	5	0.500000000000	NULL	NULL	1	1	0.25
+lss tool	basic lss tool	1	1	4	5	0.500000000000	NULL	NULL	2	2	0.125
+LSS vessel	Goada Chief	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LSS vessel	Ok Tarim	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LSS vessel	Steel Challenger	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LSSs	LSSs 205	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSSU supporter	event's title sponsor for the fourth consecutive year	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSSU supporter	Sault Ste. Marie's Shane Woolever DO of Greater Peninsula Orthopedics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSTA program	Powerful Partners	1	1	1	1	NULL	NULL	NULL	1	1	1
+lsta-funded project	Statewide Database Licensing	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+lsta-funded project	World Languages	1	1	4	4	1.000000000000	NULL	NULL	12	11	0.020833333333333332
+lsta-funded project	Virtual Reference Service	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+lsta-funded project	Summer Reading Collaborative	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+LSTM parameter	learning rate	1	1	1	1	1.000000000000	NULL	NULL	73	28	0.0136986301369863
+LSU agcenter agent	Vermilion Parish agent Andrew Granger	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSU agcenter recommendation	no-till planting	1	1	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+LSU commitment	Lamin Barrow	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LSU commitment	Chris Davenport	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+LSU commitment	Michael Ford	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+LSU fan	Bossier resident Scott Martin	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSU figure	football coach Les Miles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSU figure	men's basketball coach Trent Johnson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSU homecoming festivity	Parade	1	1	1	1	NULL	NULL	NULL	930	307	0.001075268817204301
+LSU houston event	family outing	2	2	7	4	0.666666666666	NULL	NULL	52	35	0.010989010989010988
+LSU houston event	network luncheon	2	2	7	4	0.666666666666	NULL	NULL	2	1	0.2857142857142857
+LSU houston event	happy hour	2	2	7	4	0.666666666666	NULL	NULL	243	90	0.0023515579071134627
+LSU houston event	annual crawfish boil	1	1	7	4	0.666666666666	NULL	NULL	2	2	0.07142857142857142
+LSU product	polo	1	1	4	4	NULL	NULL	NULL	485	208	0.0005154639175257732
+LSU product	cap	1	1	4	4	NULL	NULL	NULL	1772	770	0.00014108352144469525
+LSU product	gift	1	1	4	4	NULL	NULL	NULL	1190	479	0.0002100840336134454
+LSU product	tee	1	1	4	4	NULL	NULL	NULL	631	257	0.0003961965134706815
+LSU staff	Kath Taito	2	1	2	1	NULL	NULL	NULL	2	1	1
+lsu's big-play threat	receiver Reuben Randle	1	1	1	1	NULL	NULL	NULL	1	1	1
+lsu-related and college-related website	LSU Athletics official website	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lsu-related and college-related website	LSU official website	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lsuhsc-affiliated public or private facility	private-sector hospital	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lsuhsc-affiliated public or private facility	not-for-profit hospital	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LSUS program	American Humanics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LSUS program	student organization	1	1	2	2	NULL	NULL	NULL	53	38	0.009433962264150943
+LSVCCs	Workers Investment Fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+LSW student government	student council	1	1	1	1	NULL	NULL	NULL	509	118	0.0019646365422396855
+LSX task	object manipulation	1	1	3	3	0.666666666666	NULL	NULL	16	15	0.020833333333333332
+LSX task	initialization	1	1	3	3	0.666666666666	NULL	NULL	47	31	0.0070921985815602835
+LSX task	object creation	1	1	3	3	0.666666666666	NULL	NULL	29	21	0.011494252873563218
+lsx tuning software manufacturer	HP Tuners	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+LSx V8	LS1	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667

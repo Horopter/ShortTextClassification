@@ -1,0 +1,90 @@
+oy alternative	Skoy cloth	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oyakata	Takanohana	1	1	1	1	NULL	NULL	NULL	1	1	1
+OYC antihistamine	Claritin	1	1	1	1	NULL	NULL	NULL	575	161	0.0017391304347826088
+OYCFC former player	Pat Heverin	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyedeji's bellaire teammate	Outler	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyf's MS office suite program	Microsoft Publisher	1	1	2	2	NULL	NULL	NULL	248	78	0.0020161290322580645
+oyf's MS office suite program	professional	1	1	2	2	NULL	NULL	NULL	519	297	0.0009633911368015414
+oyher option	using Nok Air	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oyher option	Air Asia from Chiangmai to Bangkok	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oyher very respectable investor	Joel Greenblatt	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+oyinhandmade.com hair care product	greg juice	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyinhandmade.com hair care product	grand poo bar	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyinhandmade.com hair care product	honey-hemp conditioner	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyl's show	Jean Anouilh's Antigone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oyl's show	August Strindberg's Miss Julie	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oyster	Kumamoto	3	2	17	13	1.000000000000	NULL	NULL	14	11	0.037815126050420166
+oyster	Belon	2	1	17	13	1.000000000000	NULL	NULL	6	5	0.0392156862745098
+oyster	Crassostrea gigas	2	2	17	13	1.000000000000	NULL	NULL	5	4	0.047058823529411764
+oyster	Gryphaea arcuata	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster	prince edward island oyster	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster	mild east coast oyster	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster	found in the Tahitian Islands	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster	Malpeque	1	1	17	13	1.000000000000	NULL	NULL	7	6	0.008403361344537815
+oyster	Ostrea edulis	1	1	17	13	1.000000000000	NULL	NULL	4	4	0.014705882352941176
+oyster	Inoceramus mucronata	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster	Eastern oyster	1	1	17	13	1.000000000000	NULL	NULL	15	11	0.00392156862745098
+oyster	Ostrea plumosa	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster	European edible oyster	1	1	17	13	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+oyster area	INIount Pleasant Bay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oyster area	Wyesocking Bay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oyster baby event	International Day	1	1	4	5	1.000000000000	NULL	NULL	27	18	0.009259259259259259
+oyster baby event	Special Person's Day	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+oyster baby event	Art Fair	1	1	4	5	1.000000000000	NULL	NULL	53	35	0.0047169811320754715
+oyster baby event	Special Person's Day Grandparent Day Art Fair International Day	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+oyster bar specialty	restaurant's unique bouillabaisse	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster disease	MSX	2	2	5	3	1.000000000000	NULL	NULL	10	7	0.08
+oyster disease	Dermo	2	2	5	3	1.000000000000	NULL	NULL	12	7	0.06666666666666667
+oyster disease	Perkinsus marinus	1	1	5	3	1.000000000000	NULL	NULL	3	2	0.06666666666666667
+oyster dish	oyster porridge	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster dish	kaki natane yaki	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster dish	roasted oyster	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+oyster dredge boat	bugeye	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster filter dinoflagellates	Pfiesteria	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+oyster fishery	Chesapeake Bay in the United States	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oyster gene	2 macroglobuline	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster lover	Greg	1	1	1	1	1.000000000000	NULL	NULL	24	20	0.041666666666666664
+Oyster mushroom	Pleurotus flabellatus	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster packing house	Harrison's Oyster Company	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster population feature	spawning	1	1	4	4	NULL	NULL	NULL	40	25	0.00625
+oyster population feature	population size	1	1	4	4	NULL	NULL	NULL	348	138	0.0007183908045977011
+oyster population feature	growth	1	1	4	4	NULL	NULL	NULL	1594	663	0.00015683814303638644
+oyster population feature	age structure	1	1	4	4	NULL	NULL	NULL	88	51	0.002840909090909091
+oyster predator	non-native oyster predator	1	1	2	2	0.333333333333	NULL	NULL	2	2	0.25
+oyster predator	starfish	1	1	2	2	0.333333333333	NULL	NULL	350	149	0.0014285714285714286
+oyster processing method	freezing	1	1	1	1	NULL	NULL	NULL	561	269	0.0017825311942959
+oyster processor	Motivatit in Houma	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster processor	Wash.	1	1	3	3	NULL	NULL	NULL	68	38	0.004901960784313725
+oyster processor	Nisbet Oyster Co. in Bay Center	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster reef	well known Hanna's reef	1	1	1	1	NULL	NULL	NULL	1	1	1
+OYSTER series watch	Centregraph	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster shell-shaped station	Harbour Nakheel	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster specialty	Oysters Biloxi	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+oyster specialty	Oysters on the Half Shell	1	1	5	5	1.000000000000	NULL	NULL	11	11	0.018181818181818184
+oyster specialty	Oysters Bienville	1	1	5	5	1.000000000000	NULL	NULL	7	6	0.028571428571428574
+oyster specialty	Gulf Coast Rockefeller	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+oyster specialty	New Orleans BBQ Oysters	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+oyster species	Eastern oyster	1	1	3	3	1.000000000000	NULL	NULL	15	11	0.02222222222222222
+oyster species	Pteria Penguin	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oyster species	Pinctada Margaritifera	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+oyster variety	Bee's River Eastham	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+oyster variety	yellow	1	1	8	8	0.250000000000	NULL	NULL	5611	1380	0.000022277668864729994
+oyster variety	Hog Island	1	1	8	8	0.250000000000	NULL	NULL	5	5	0.025
+oyster variety	blue	1	1	8	8	0.250000000000	NULL	NULL	7681	1817	0.000016273922666319488
+oyster variety	Malpeque	1	1	8	8	0.250000000000	NULL	NULL	7	6	0.017857142857142856
+oyster variety	Quivet Neck	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+oyster variety	Quilcene	1	1	8	8	0.250000000000	NULL	NULL	7	3	0.017857142857142856
+oyster variety	white	1	1	8	8	0.250000000000	NULL	NULL	6155	1632	0.000020308692120227456
+oyster-associated human pathogen	enteric bacterium	1	1	1	1	NULL	NULL	NULL	10	5	0.1
+Oyster-dependent species	naked goby	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+oyster-industry official	chairman of the Gulf Oyster Task Force	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster-industry official	vice president of Houma's Motivatit Seafood	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster-industry official	Mike Voisin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oyster-packing-house worker	Mildred Butler from Rock Hall	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster-producing country	France	1	1	2	2	NULL	NULL	NULL	18997	2318	0.00002631994525451387
+oyster-producing country	United States	1	1	2	2	NULL	NULL	NULL	15613	2250	0.000032024594888874656
+oyster-related high value-added product market	oyster utilizing processed food	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster-rich stratum	Valanginian of the Jura area of France	1	1	1	1	NULL	NULL	NULL	1	1	1
+oyster-specific factor	physiology	1	1	1	1	NULL	NULL	NULL	731	270	0.0013679890560875513
+oyther rate	AAA	1	1	1	1	NULL	NULL	NULL	576	241	0.001736111111111111
+OYW veteran	Sir Bob Geldof	2	2	2	1	1.000000000000	NULL	NULL	12	8	0.16666666666666666

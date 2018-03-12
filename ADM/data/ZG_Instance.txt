@@ -1,0 +1,15 @@
+publication	ZG	1	1	15724	7119	0.676279069767	-0.944959831469237	-0.999057856035507	3	3	0.000021199016365640635
+raid instance	ZG	1	1	6	6	0.500000000000	NULL	NULL	3	3	0.05555555555555555
+classic zone	ZG	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+standard pulse program	zg . zgdc	1	1	1	1	NULL	NULL	NULL	1	1	1
+fast attack speed pet	ZG bat	1	1	1	1	NULL	NULL	NULL	1	1	1
+laser based measurement sensor	ZG Profiling Sensor for edge inspection	1	1	1	1	NULL	NULL	NULL	1	1	1
+strong anion exchange resin	ZGA313 in the bicarbonate form	1	1	1	1	NULL	NULL	NULL	1	1	1
+real typical slovenian dish	zganci	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+DV info net sponsor	ZGC	1	1	1	1	NULL	NULL	NULL	1	1	1
+effort	zgeo for Zope	1	1	5443	4761	0.530367231638	-0.466363383459811	-0.99739645088943	1	1	0.00018372221201543268
+machine accessory	ZGH5 Lubricated Steel Ring	1	1	32	28	0.214285714285	NULL	NULL	1	1	0.03125
+christian area	Zgharta	1	1	8	8	0.666666666666	NULL	NULL	1	1	0.125
+labor camp	Zgoda labor camp	1	1	16	15	0.750000000000	NULL	NULL	1	1	0.0625
+interesting work	Zgodlocator by Herwig Weiser	1	1	16	16	NULL	NULL	NULL	1	1	0.0625
+lexicographic textbook	Zgusta	1	1	1	1	NULL	NULL	NULL	1	1	1

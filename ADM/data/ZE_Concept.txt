@@ -1,0 +1,1236 @@
+ZE feature	2 megapixel cam	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ZE feature	UIQ interface	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ZE feature	microSD card slot	1	1	3	3	1.000000000000	NULL	NULL	18	11	0.018518518518518517
+Ze healthy drinking water	natural mineral water	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+zeachem specific ethanol production parameter	ethanol yield	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+zealand	beautiful landscape filled with native wildlife	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand academic	Bryan Gould of the University of Waikato	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand accommodation provider	motel	1	1	2	2	0.333333333333	NULL	NULL	632	278	0.0007911392405063291
+zealand accommodation provider	hotel	1	1	2	2	0.333333333333	NULL	NULL	7730	2372	0.0000646830530401035
+zealand actor	Sam Neill	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+zealand adventure activity	bush walking	1	1	2	2	1.000000000000	NULL	NULL	61	27	0.00819672131147541
+zealand adventure activity	scenic eco-cruises	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zealand agency	Income NZ	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+zealand agricultural product	crop	1	1	4	4	NULL	NULL	NULL	689	327	0.000362844702467344
+zealand agricultural product	timber	1	1	4	4	NULL	NULL	NULL	2191	725	0.00011410314924691921
+zealand agricultural product	meat	1	1	4	4	NULL	NULL	NULL	9410	1886	0.00002656748140276302
+zealand agricultural product	wine	1	1	4	4	NULL	NULL	NULL	3790	1190	0.00006596306068601583
+zealand airport	Wellington International Airport	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand artist	Katchafire	1	1	14	14	1.000000000000	NULL	NULL	14	9	0.00510204081632653
+zealand artist	King Kapisi	1	1	14	14	1.000000000000	NULL	NULL	7	5	0.01020408163265306
+zealand artist	Colin McCahon	1	1	14	14	1.000000000000	NULL	NULL	11	8	0.006493506493506493
+zealand artist	Disasteradio	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+zealand artist	Che Fu	1	1	14	14	1.000000000000	NULL	NULL	5	3	0.014285714285714285
+zealand artist	Bic Runga	1	1	14	14	1.000000000000	NULL	NULL	15	12	0.0047619047619047615
+zealand artist	Kora	1	1	14	14	1.000000000000	NULL	NULL	40	21	0.0017857142857142857
+zealand artist	Doris Lusk	1	1	14	14	1.000000000000	NULL	NULL	4	4	0.017857142857142856
+zealand artist	Shane Cotton	1	1	14	14	1.000000000000	NULL	NULL	4	3	0.017857142857142856
+zealand artist	Garth Tapper	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+zealand artist	Len Lye	1	1	14	14	1.000000000000	NULL	NULL	9	8	0.007936507936507936
+zealand artist	Toss Woollaston	1	1	14	14	1.000000000000	NULL	NULL	2	2	0.03571428571428571
+zealand artist	Rita Angus	1	1	14	14	1.000000000000	NULL	NULL	4	3	0.017857142857142856
+zealand artist	Pauline Rhodes	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+zealand author	Fiona Kidman	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zealand author	Tessa Duder	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+zealand author	Gavin Bishop	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zealand author	David Elliot	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand authority	bank	1	1	2	2	NULL	NULL	NULL	11524	2789	0.00004338771259979174
+zealand authority	Ministry of Health	1	1	2	2	NULL	NULL	NULL	207	78	0.0024154589371980675
+Zealand aviation information	cheap flight	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+Zealand aviation information	airline schedule	1	1	5	5	1.000000000000	NULL	NULL	10	8	0.02
+Zealand aviation information	private charter	1	1	5	5	1.000000000000	NULL	NULL	6	6	0.03333333333333333
+Zealand aviation information	helicopter trip	1	1	5	5	1.000000000000	NULL	NULL	8	6	0.025
+Zealand aviation information	scenic flight	1	1	5	5	1.000000000000	NULL	NULL	24	12	0.008333333333333333
+zealand band	New Ending	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+zealand band	Fat Freddy's Drop	1	1	5	5	1.000000000000	NULL	NULL	12	10	0.016666666666666666
+zealand band	Forever Now	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+zealand band	Black Seeds	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+zealand band	Supergroove	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Zealand band vids	Garageland & Splitter	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand bird	tui	1	1	5	5	0.800000000000	NULL	NULL	74	29	0.002702702702702703
+zealand bird	kokako	1	1	5	5	0.800000000000	NULL	NULL	18	13	0.011111111111111112
+zealand bird	weka	1	1	5	5	0.800000000000	NULL	NULL	32	20	0.00625
+zealand bird	bellbird	1	1	5	5	0.800000000000	NULL	NULL	30	14	0.006666666666666667
+zealand bird	takahe	1	1	5	5	0.800000000000	NULL	NULL	19	14	0.010526315789473684
+Zealand bird species	kiwi	1	1	1	1	NULL	NULL	NULL	1146	299	0.0008726003490401396
+zealand brand	GL Bowron Sheepskins	2	1	12	10	0.800000000000	NULL	NULL	2	1	0.16666666666666666
+zealand brand	Swanndri	2	2	12	10	0.800000000000	NULL	NULL	4	3	0.08333333333333333
+zealand brand	Canterbury of NZ	1	1	12	10	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+zealand brand	Canterbury of New Zealand	1	1	12	10	0.800000000000	NULL	NULL	4	4	0.020833333333333332
+zealand brand	RPM	1	1	12	10	0.800000000000	NULL	NULL	217	123	0.00038402457757296467
+zealand brand	Alpine Silk Lanolin	1	1	12	10	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+zealand brand	Orca	1	1	12	10	0.800000000000	NULL	NULL	29	42	0.0028735632183908046
+zealand brand	Zambesi	1	1	12	10	0.800000000000	NULL	NULL	13	8	0.00641025641025641
+zealand brand	42	1	1	12	10	0.800000000000	NULL	NULL	25	17	0.003333333333333333
+zealand brand	Karen Walker	1	1	12	10	0.800000000000	NULL	NULL	30	16	0.0027777777777777775
+zealand bulk trade	log	1	1	1	1	NULL	NULL	NULL	1307	602	0.0007651109410864575
+zealand business	architect	1	1	4	4	NULL	NULL	NULL	1823	518	0.00013713658804168953
+zealand business	Warehouse	1	1	4	4	NULL	NULL	NULL	1650	677	0.00015151515151515152
+zealand business	lawyer	1	1	4	4	NULL	NULL	NULL	4156	1038	0.00006015399422521656
+zealand business	Genesis Energy	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+zealand business commentator	Bernard Hickey of Fairfax Media	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand buyer	Paul Moroney	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand buyer	Graeme Rogerson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand campaigner	Kate Sheppard	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zealand celebrity	David Tua	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+zealand celebrity	Rena Owen	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+zealand celebrity	Kylie Bax	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+zealand celebrity	Michael Jones	1	1	4	4	1.000000000000	NULL	NULL	10	9	0.025
+Zealand charopids	Ptychodon	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand cheap airfare airline	Korean Airlines	1	1	3	3	1.000000000000	NULL	NULL	17	8	0.0196078431372549
+zealand cheap airfare airline	Philippine Airlines	1	1	3	3	1.000000000000	NULL	NULL	45	15	0.007407407407407407
+zealand cheap airfare airline	Asiana	1	1	3	3	1.000000000000	NULL	NULL	11	6	0.0303030303030303
+zealand city	Auckland	2	2	3	2	NULL	NULL	NULL	217	76	0.006144393241167435
+zealand city	Christchurch	1	1	3	2	NULL	NULL	NULL	107	42	0.003115264797507788
+zealand client	Flying Flowers	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand community leader	members of parliament	1	1	1	1	1.000000000000	NULL	NULL	59	51	0.01694915254237288
+zealand company	Fonterra	3	3	19	17	0.666666666666	NULL	NULL	45	25	0.010526315789473684
+zealand company	Formula Cruisers	1	1	19	17	0.666666666666	NULL	NULL	2	2	0.02631578947368421
+zealand company	Heinz Wattie's	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Stickmen Studios	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Crown Research Institutes	1	1	19	17	0.666666666666	NULL	NULL	10	9	0.005263157894736842
+zealand company	Dairy Holdings	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Wrightson NMA	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Forest Enterprises	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Hunza Productions	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Heinz Wattie s	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Heritage Hotels	1	1	19	17	0.666666666666	NULL	NULL	2	2	0.02631578947368421
+zealand company	Icebreaker	1	1	19	17	0.666666666666	NULL	NULL	57	26	0.0009233610341643582
+zealand company	Christchurch's Connexions	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company	Transpower	1	1	19	17	0.666666666666	NULL	NULL	6	5	0.008771929824561403
+zealand company	Fletcher Building	1	1	19	17	0.666666666666	NULL	NULL	15	10	0.003508771929824561
+zealand company	Air New Zealand	1	1	19	17	0.666666666666	NULL	NULL	152	40	0.00034626038781163435
+zealand company	New Zealand Universities	1	1	19	17	0.666666666666	NULL	NULL	1	1	0.05263157894736842
+zealand company settlement	New Plymouth	1	1	3	3	0.333333333333	NULL	NULL	19	15	0.017543859649122806
+zealand company settlement	Whanganui	1	1	3	3	0.333333333333	NULL	NULL	7	5	0.047619047619047616
+zealand company settlement	Nelson	1	1	3	3	0.333333333333	NULL	NULL	172	86	0.001937984496124031
+zealand concrete application structure	significant raft foundation	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zealand concrete application structure	concrete dam	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+zealand concrete application structure	wind turbine foundation	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+zealand contemporary	A. R. D. Fairburn	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zealand contemporary	John Gully	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zealand contemporary	J. B. C. Hoyte	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand critic	ACT MP John Boscawen	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand crown research institute	Landcare Research	1	1	2	2	1.000000000000	NULL	NULL	6	4	0.08333333333333333
+zealand crown research institute	AgResearch	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+zealand cultural activity	Te Papa Tongarewa	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+zealand cultural activity	national museum	1	1	2	2	NULL	NULL	NULL	208	82	0.002403846153846154
+zealand dairy product	Anchor	1	1	1	1	NULL	NULL	NULL	481	242	0.002079002079002079
+zealand dating date	flower	1	1	1	1	NULL	NULL	NULL	5682	2006	0.00017599436818021823
+zealand deepwater seafood product	hoki	1	1	1	1	1.000000000000	NULL	NULL	42	24	0.023809523809523808
+zealand dependency	Cook Islands	1	1	1	1	NULL	NULL	NULL	161	59	0.006211180124223602
+zealand designer	Zambesi	2	1	9	8	0.750000000000	NULL	NULL	13	8	0.034188034188034185
+zealand designer	Chalky Digits andMiranda Brown	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+zealand designer	Stone Arrow jewellery specialise in silver	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+zealand designer	Annah Stretton in the show	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+zealand designer	Karen Walker	1	1	9	8	0.750000000000	NULL	NULL	30	16	0.0037037037037037034
+zealand designer	Trelise Cooper	1	1	9	8	0.750000000000	NULL	NULL	15	10	0.007407407407407407
+zealand designer	World	1	1	9	8	0.750000000000	NULL	NULL	173	114	0.0006422607578676942
+zealand designer	Sabatini	1	1	9	8	0.750000000000	NULL	NULL	4	3	0.027777777777777776
+zealand destination	Three Kings Islands	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+zealand destination	Auckland	1	1	6	6	0.333333333333	NULL	NULL	217	76	0.0007680491551459293
+zealand destination	Queenstown with Jetstar	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+zealand destination	Ranfurly Banks	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+zealand destination	Christchurch	1	1	6	6	0.333333333333	NULL	NULL	107	42	0.001557632398753894
+zealand destination	White Island	1	1	6	6	0.333333333333	NULL	NULL	7	7	0.023809523809523808
+zealand education provider	Cognition Consulting	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand export industry	winemaking	1	1	1	1	1.000000000000	NULL	NULL	16	13	0.0625
+zealand favorite	Jaffas	1	1	6	6	1.000000000000	NULL	NULL	8	8	0.020833333333333332
+zealand favorite	Buzz Bars	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+zealand favorite	K Bars	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+zealand favorite	Mint Humbugs	1	1	6	6	1.000000000000	NULL	NULL	6	4	0.027777777777777776
+zealand favorite	Blackballs	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+zealand favorite	Milkshakes	1	1	6	6	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+zealand film	Jane Campion s Academy Award-winning film The Piano	3	3	12	6	1.000000000000	NULL	NULL	3	1	0.25
+zealand film	Jane Campion's Academy Award-winning film The Piano	3	3	12	6	1.000000000000	NULL	NULL	3	1	0.25
+zealand film	Utu	3	3	12	6	1.000000000000	NULL	NULL	13	10	0.057692307692307696
+zealand film	Sleeping Dogs	1	1	12	6	1.000000000000	NULL	NULL	14	8	0.005952380952380952
+zealand film	Whale Rider	1	1	12	6	1.000000000000	NULL	NULL	12	6	0.006944444444444444
+zealand film	Skin d eep	1	1	12	6	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zealand firm	Glidepath	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zealand firm	Paykel Healthcare Ltd	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand firm	Fisher	1	1	3	3	NULL	NULL	NULL	286	125	0.0011655011655011655
+zealand flavor	horopito	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+zealand franchise	Canterbury Tactix	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+zealand franchise	Southern Steel	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+Zealand freedom camping information	location of public toilet	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Zealand freedom camping information	freedom camping spot	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zealand fruit	feijoa	1	1	1	1	1.000000000000	NULL	NULL	16	10	0.0625
+zealand game	Duck Duck Duck Goose	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand genus	Melicytus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand genus	Carmichaelia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand genus	Pimelea	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand government agency	Department of Work	1	1	4	4	1.000000000000	NULL	NULL	10	9	0.025
+zealand government agency	Tourism New Zealand	1	1	4	4	1.000000000000	NULL	NULL	5	5	0.05
+zealand government agency	Statistics New Zealand	1	1	4	4	1.000000000000	NULL	NULL	7	7	0.03571428571428571
+zealand government agency	NZTE	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+zealand government commerce link	Ministry of Economic Development	2	2	4	2	NULL	NULL	NULL	7	5	0.14285714285714285
+zealand government commerce link	Trade	2	2	4	2	NULL	NULL	NULL	1822	671	0.0005488474204171241
+zealand group	Pacific Curls	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand guide	Julian Peters	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand guide	Daryl Paskell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand heavyweight	Tim Richards	2	2	8	4	NULL	NULL	NULL	5	4	0.1
+zealand heavyweight	Aural Trash	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+zealand heavyweight	Daniel Farley	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+zealand heavyweight	Dick Johnson	2	2	8	4	NULL	NULL	NULL	8	5	0.0625
+zealand herb	Kawakawa	1	1	2	2	1.000000000000	NULL	NULL	15	11	0.03333333333333333
+zealand herb	Pukatea	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+zealand hip hop dance style	breaking	1	1	1	1	NULL	NULL	NULL	46	33	0.021739130434782608
+zealand honey	pohutakawa honey	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zealand honey	manuka honey	1	1	6	6	NULL	NULL	NULL	93	52	0.0017921146953405018
+zealand honey	tawari honey	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zealand honey	rewarewa honey	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zealand honey	kamahi honey	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zealand honey	rata honey	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zealand icon	Silver Fern	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+zealand icon	Kiwi	1	1	2	2	0.500000000000	NULL	NULL	1146	299	0.0004363001745200698
+zealand import poultry product	dried egg product	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand incubator	Icehouse	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+zealand initiative	Strengthening Families	1	1	1	1	1.000000000000	NULL	NULL	21	14	0.047619047619047616
+zealand instant game	Instant Kiwi	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zealand institute	GNS Science	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+zealand institute	University of Otago	1	1	5	5	1.000000000000	NULL	NULL	9	9	0.022222222222222223
+zealand institute	Victoria University of Wellington	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+zealand institute	Massey University	1	1	5	5	1.000000000000	NULL	NULL	11	8	0.018181818181818184
+zealand institute	University of Canterbury	1	1	5	5	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+zealand institution	Super Fund	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+zealand institution	University of Otago	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+zealand international	Mark Greatbatch	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zealand internet gambling site	lottery	1	1	1	1	NULL	NULL	NULL	262	160	0.003816793893129771
+zealand invertebrate	weta	1	1	1	1	1.000000000000	NULL	NULL	24	16	0.041666666666666664
+zealand issue	cultural identity	1	1	1	1	NULL	NULL	NULL	118	53	0.00847457627118644
+zealand judge	Lord Cooke of Thorndon	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand kid brand	Playhouse Kids	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand kid brand	Three Bags Full	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zealand kiwiana	ornaments made from paua shell	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand label	Villa Maria	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+zealand label	Anne Mardell	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zealand legend	Dave Dobbyn	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+zealand legend	Greg Murphy	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+zealand legend	Sir Peter Leitch	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand legend	Sir Colin Meads	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+zealand legislative requirement	Companies Act	1	1	1	1	1.000000000000	NULL	NULL	21	11	0.047619047619047616
+zealand luminary	Salmonella Dub	2	2	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+zealand maori player	Zinzan Brooke	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+zealand maori player	Rico Gear	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+zealand maori player	Steve McDowall	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand material	William Colenso's early work on the moa	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand medium outlet	NZ Herald	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zealand mental hospital	Seacliff	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+zealand mental hospital	Porirua	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+zealand music heavyweight	Julia Deans	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zealand music heavyweight	Anika Moa	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+zealand musician	Goldenhorse	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+zealand musician	Bic Runga	1	1	3	3	0.500000000000	NULL	NULL	15	12	0.02222222222222222
+zealand musician	Scribe	1	1	3	3	0.500000000000	NULL	NULL	143	89	0.002331002331002331
+Zealand mustelids	ferret	1	1	1	1	NULL	NULL	NULL	632	136	0.0015822784810126582
+zealand name	Sir Ralph Love	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand national depression initiative	campaign featuring John Kirwan aimed at raising public awareness about depression	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand native	Kereru	3	2	13	7	0.600000000000	NULL	NULL	32	11	0.021634615384615384
+zealand native	Keas	3	2	13	7	0.600000000000	NULL	NULL	7	5	0.0989010989010989
+zealand native	Teal	3	2	13	7	0.600000000000	NULL	NULL	384	155	0.0018028846153846153
+zealand native	Kotuku Ngutu Papa	1	1	13	7	0.600000000000	NULL	NULL	2	2	0.038461538461538464
+zealand native	ribbonwood Plagianthus regius	1	1	13	7	0.600000000000	NULL	NULL	1	1	0.07692307692307693
+zealand native	kowhai Sophora tetraptera	1	1	13	7	0.600000000000	NULL	NULL	1	1	0.07692307692307693
+zealand native	cabbage tree Cordyline australis	1	1	13	7	0.600000000000	NULL	NULL	1	1	0.07692307692307693
+zealand native timber	Matai	1	1	4	4	1.000000000000	NULL	NULL	23	15	0.010869565217391304
+zealand native timber	Rimu	1	1	4	4	1.000000000000	NULL	NULL	52	29	0.004807692307692308
+zealand native timber	Tawa	1	1	4	4	1.000000000000	NULL	NULL	24	15	0.010416666666666666
+zealand native timber	Kauri	1	1	4	4	1.000000000000	NULL	NULL	25	15	0.01
+zealand native tree	tawa	1	1	2	2	1.000000000000	NULL	NULL	24	15	0.020833333333333332
+zealand native tree	rimu	1	1	2	2	1.000000000000	NULL	NULL	52	29	0.009615384615384616
+zealand natural skincare brand	Living Nature	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+zealand natural skincare brand	Trilogy	1	1	3	3	1.000000000000	NULL	NULL	36	29	0.009259259259259259
+zealand natural skincare brand	Antipodes	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+zealand nut	hazelnut	1	1	2	2	NULL	NULL	NULL	863	259	0.0005793742757821553
+zealand nut	walnut	1	1	2	2	NULL	NULL	NULL	3845	927	0.00013003901170351105
+zealand olive oil	Village Press on the market for value	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand operator	transport	1	1	2	2	NULL	NULL	NULL	4212	1268	0.00011870845204178538
+zealand operator	attraction provider	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand organization	Kiwibank	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+zealand organization	Play Centre	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+zealand outdoor education academic	Boyes	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+zealand parliamentary officer	Auditor-General	1	1	2	2	0.500000000000	NULL	NULL	24	18	0.020833333333333332
+zealand parliamentary officer	Ombudsman	1	1	2	2	0.500000000000	NULL	NULL	178	99	0.0028089887640449437
+zealand pastor	Frank Houston	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+zealand pastor	Robert Midgley	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+Zealand placenames	Aroha Island	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Zealand placenames	Gillespies Point	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Zealand placenames	Mount Te Aroha	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Zealand placenames	Glenorchy	1	1	5	5	1.000000000000	NULL	NULL	10	8	0.02
+Zealand placenames	Lumsden	1	1	5	5	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+zealand plant	Corokia	1	1	4	4	0.750000000000	NULL	NULL	2	2	0.125
+zealand plant	flax	1	1	4	4	0.750000000000	NULL	NULL	1124	392	0.00022241992882562276
+zealand plant	Hebe	1	1	4	4	0.750000000000	NULL	NULL	28	16	0.008928571428571428
+zealand plant	Coprosma	1	1	4	4	0.750000000000	NULL	NULL	11	8	0.022727272727272728
+Zealand plant species	kohekohe	1	1	3	3	1.000000000000	NULL	NULL	16	14	0.020833333333333332
+Zealand plant species	native red mistletoe	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Zealand plant species	pohutukawa	1	1	3	3	1.000000000000	NULL	NULL	18	11	0.018518518518518517
+zealand poet	James K Baxter	2	2	4	3	NULL	NULL	NULL	6	4	0.16666666666666666
+zealand poet	Sam Hunt	1	1	4	3	NULL	NULL	NULL	3	3	0.08333333333333333
+zealand poet	Bill Manhire	1	1	4	3	NULL	NULL	NULL	3	3	0.08333333333333333
+zealand poetry publication	Landfall	2	1	12	6	1.000000000000	NULL	NULL	15	12	0.02222222222222222
+zealand poetry publication	Takahe	2	1	12	6	1.000000000000	NULL	NULL	19	14	0.017543859649122806
+zealand poetry publication	Bravado	2	1	12	6	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+zealand poetry publication	Valley Micropress	2	1	12	6	1.000000000000	NULL	NULL	2	1	0.16666666666666666
+zealand poetry publication	Poetry New Zealand	2	1	12	6	1.000000000000	NULL	NULL	2	1	0.16666666666666666
+zealand poetry publication	Blackmail Press	2	1	12	6	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+zealand political scientist	Richard Mulgan	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand port	Auckland	1	1	1	1	NULL	NULL	NULL	217	76	0.004608294930875576
+zealand practice	sole tendering of supply	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand producer	Babich	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+zealand producer	Matua Valley	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+zealand producer	Montana	1	1	3	3	NULL	NULL	NULL	1115	173	0.0002989536621823617
+zealand product	lamb	1	1	1	1	0.500000000000	NULL	NULL	1631	591	0.0006131207847946045
+zealand professional training school	Otago law	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand publication	national Mana Magazine	3	3	4	2	1.000000000000	NULL	NULL	3	1	0.75
+zealand publication	Women's Weekly	1	1	4	2	1.000000000000	NULL	NULL	9	7	0.027777777777777776
+zealand radio station	ZM	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+zealand recruitment agency	Enterprise	1	1	3	3	NULL	NULL	NULL	552	242	0.0006038647342995169
+zealand recruitment agency	Greenstone Recruitment	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand recruitment agency	Alpha Personnel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand regional publishing asset	Northern Advocate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand regional publishing asset	Bay Of Plenty Times	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand resident	William Colenso	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zealand resident entity	unit trust	3	3	6	2	NULL	NULL	NULL	310	124	0.004838709677419355
+zealand resident entity	company	3	3	6	2	NULL	NULL	NULL	1498	577	0.0010013351134846463
+zealand resource	Wairakei	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+zealand rider	Kashi Leuchs	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zealand rural export	cheese	1	1	1	1	NULL	NULL	NULL	9373	2034	0.0001066894270777766
+Zealand s magnificent scenery	majestic mountain	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Zealand Sauv Blancs	Dog Point	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zealand sauvignon blancs	Jackson Estates	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+zealand scholar	Elsdon Best	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand scholar	James Cowan	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zealand school	University of Canterbury	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zealand scientist	Mr Lock	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand shrub	extraordinary Brachyglottis rotundifolia	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand side sport major player	Mike Moore	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+zealand side sport major player	former Prime Ministers Jim Bolger	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zealand singer	John Rowles	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zealand singer	Bic Runga	1	1	4	4	1.000000000000	NULL	NULL	15	12	0.016666666666666666
+zealand singer	Brooke Fraser	1	1	4	4	1.000000000000	NULL	NULL	14	8	0.017857142857142856
+zealand singer	Anika Moa	1	1	4	4	1.000000000000	NULL	NULL	10	9	0.025
+zealand smoking product	Spice	1	1	1	1	NULL	NULL	NULL	2055	721	0.00048661800486618007
+zealand snail	spiny murex	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zealand sourced income	income from a rental property	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zealand special force unit	original Long Range Desert Group in North Africa	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zealand species	black robin	1	1	3	3	NULL	NULL	NULL	7	4	0.047619047619047616
+Zealand species	Black Tree Fern	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zealand species	Silver Tree Fern	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand sport team	Silver Ferns	4	4	6	3	NULL	NULL	NULL	5	2	0.5333333333333333
+zealand sport team	Silver Fern s	1	1	6	3	NULL	NULL	NULL	1	1	0.16666666666666666
+zealand sport team	Cricket team	1	1	6	3	NULL	NULL	NULL	5	5	0.03333333333333333
+Zealand stabilisers	cement	2	1	2	1	NULL	NULL	NULL	2796	868	0.000715307582260372
+zealand standard	electrical	1	1	1	1	NULL	NULL	NULL	2498	865	0.00040032025620496394
+zealand state sector agency	Ministry of Education	1	1	1	1	NULL	NULL	NULL	160	68	0.00625
+Zealand stones	bowenite	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+Zealand stones	argillite	1	1	3	3	0.500000000000	NULL	NULL	17	17	0.0196078431372549
+Zealand stones	jasper	1	1	3	3	0.500000000000	NULL	NULL	278	120	0.001199040767386091
+zealand street dance crew	Elite DC	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand suburb	Royal Oak	1	1	2	2	1.000000000000	NULL	NULL	54	29	0.009259259259259259
+zealand suburb	Porirua	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+zealand technology supplier	4RF Communications	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+zealand technology supplier	Tait Electronics	2	2	4	2	1.000000000000	NULL	NULL	4	3	0.25
+zealand test player	Stewie Dempster	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand test player	Michael Papps	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand thrower	Beatrice Faumuina	2	2	2	1	NULL	NULL	NULL	2	1	1
+zealand tourism site	Discover New Zealand	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand tourism site	New Zealand Tourism Online	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand tourism site	100% Pure New Zealand	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zealand town	Taihape	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+zealand trace element	copper	1	1	1	1	NULL	NULL	NULL	15607	2840	0.00006407381303261357
+zealand trading partner	Malaysia	1	1	1	1	NULL	NULL	NULL	6168	917	0.00016212710765239947
+zealand transport agency datum	traffic update	1	1	1	1	1.000000000000	NULL	NULL	30	19	0.03333333333333333
+zealand university	Lincoln University	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+zealand vacation rental	apartment	1	1	2	2	NULL	NULL	NULL	1308	573	0.00038226299694189603
+zealand vacation rental	villa	1	1	2	2	NULL	NULL	NULL	330	154	0.0015151515151515152
+zealand variety	Pacific Queen	4	4	4	1	NULL	NULL	NULL	5	2	0.8
+zealand vessel	large cargo ship	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zealand vessel	Cook Strait ferry	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand white clover	Grasslands Huia	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand wine	pinot noir	1	1	2	2	NULL	NULL	NULL	584	219	0.0008561643835616438
+zealand wine	sauvignon blanc	1	1	2	2	NULL	NULL	NULL	439	167	0.0011389521640091116
+zealand wine luminary	Bryan Mogridge	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand wine luminary	Mate Brajkovich	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand wine luminary	Peter Hubscher	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand wine luminary	Assid Corban	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand winery	Villa Maria	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+zealand winery	Spy Valley	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+zealand woman	Invercargill-born Cecil Hall	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zealand Working sector	Fast food catering	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zealand wrestler	Siva Afi	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zealand wrestler	Tony Garea	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+zealand wrestler	Sheepherders	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zealand wrestler	Peter Maivia	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zealand writer	Tessa Duder	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+zealand's best known artist	Anika Moa	1	1	7	7	1.000000000000	NULL	NULL	10	9	0.014285714285714285
+zealand's best known artist	Carly Binding	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+zealand's best known artist	Moana Maniopoto	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+zealand's best known artist	Nathan & Joel Haines	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+zealand's best known artist	Fiona McDonald	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+zealand's best known artist	Mahinarangi Tocker	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+zealand's best known artist	Greg Johnson	1	1	7	7	1.000000000000	NULL	NULL	3	3	0.047619047619047616
+zealand's best musician	Riki Gooch from Trinity Roots	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's best-known firm	New Zealand Meat Producers Board	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand's best-known firm	Bluebird Foods	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand's best-known firm	Unilever	1	1	4	4	NULL	NULL	NULL	1354	416	0.00018463810930576072
+zealand's best-known firm	Healtheries	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zealand's best-studied stock	P. auratus	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's cave network	Waitomo	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+zealand's climatic variable	UV radiation	1	1	2	2	NULL	NULL	NULL	187	88	0.00267379679144385
+zealand's climatic variable	temperature	1	1	2	2	NULL	NULL	NULL	21509	4199	0.0000232460830350086
+zealand's competitor	Australia	1	1	1	1	NULL	NULL	NULL	16600	2128	0.000060240963855421684
+zealand's constraint	topography	1	1	1	1	NULL	NULL	NULL	1776	533	0.0005630630630630631
+zealand's currently active fault	Alpine Fault	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+zealand's finest talent	Brendon Hartley	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zealand's glacier	Franz Josef	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zealand's great walk	Whanganui Journey	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zealand's great walk	Lake Waikaremoana	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zealand's great walk	famous Abel Tasman	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zealand's great walk	Heaphy Track	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+zealand's greatest artist	Dave Dobbyn	2	2	4	2	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+zealand's greatest artist	Crowded House	2	2	4	2	1.000000000000	NULL	NULL	31	11	0.03225806451612903
+zealand's iconic musician	Jordan Luck	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's iconic musician	Hollie Smith	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+zealand's iconic musician	Opshop	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's international obligation	WTO Agreements	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+zealand's key export wine market	large UK supermarket	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's larger, deeper lake	Lake Taupo	1	1	2	2	1.000000000000	NULL	NULL	14	14	0.03571428571428571
+zealand's larger, deeper lake	Rotorua Lakes	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zealand's largest company	Fisher & Paykel	1	1	4	4	0.500000000000	NULL	NULL	46	22	0.005434782608695652
+zealand's largest company	Telecom	1	1	4	4	0.500000000000	NULL	NULL	884	226	0.0002828054298642534
+zealand's largest company	leading bank	1	1	4	4	0.500000000000	NULL	NULL	10	7	0.025
+zealand's largest company	IBM	1	1	4	4	0.500000000000	NULL	NULL	11151	2595	0.000022419513944937674
+zealand's literary heavyweight	New Zealand Poet Laureate Cilla McQueen	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's main university town	Dunedin	1	1	1	1	NULL	NULL	NULL	54	27	0.018518518518518517
+zealand's major horticultural crop	kiwifruit	1	1	1	1	NULL	NULL	NULL	135	51	0.007407407407407408
+zealand's major primary industry	horticulture	1	1	3	3	0.333333333333	NULL	NULL	486	228	0.0006858710562414266
+zealand's major primary industry	dairying	1	1	3	3	0.333333333333	NULL	NULL	58	30	0.005747126436781609
+zealand's major primary industry	meat	1	1	3	3	0.333333333333	NULL	NULL	9410	1886	0.000035423308537017356
+zealand's most established performer	Ladykillers	1	1	1	1	1.000000000000	NULL	NULL	20	11	0.05
+zealand's most famous streaker	Lisa Lewis	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zealand's most famous streaker	Marc Ellis	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zealand's most iconic company	Carter Holt Harvey	1	1	3	3	0.666666666666	NULL	NULL	10	6	0.03333333333333333
+zealand's most iconic company	Fonterra	1	1	3	3	0.666666666666	NULL	NULL	45	25	0.007407407407407407
+zealand's most iconic company	Air New Zealand	1	1	3	3	0.666666666666	NULL	NULL	152	40	0.0021929824561403508
+zealand's most iconic landscape	dramatic volcanoes in Tongariro National Park	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand's most iconic landscape	pristine river	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand's most picturesque location	Lake Taupo	1	1	2	2	0.250000000000	NULL	NULL	14	14	0.03571428571428571
+zealand's most picturesque location	Auckland	1	1	2	2	0.250000000000	NULL	NULL	217	76	0.002304147465437788
+zealand's native bird	Bell Bird	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Zealand's native species	beautiful yellow Kowhai tree	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's natural resource	gas	1	1	2	2	NULL	NULL	NULL	7329	2137	0.00006822213125938055
+zealand's natural resource	oil	1	1	2	2	NULL	NULL	NULL	15331	4205	0.00003261365860022177
+zealand's primitive plant	flowering plant hutu	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's pure natural product	manuka honey	1	1	1	1	0.500000000000	NULL	NULL	93	52	0.010752688172043012
+zealand's quintessential pursuit	Rugby	1	1	1	1	NULL	NULL	NULL	1841	356	0.0005431830526887561
+Zealand's rarest species	plains Olearia	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand's resource	aluminium	1	1	2	2	NULL	NULL	NULL	2542	745	0.0001966955153422502
+zealand's resource	coal	1	1	2	2	NULL	NULL	NULL	6839	1602	0.00007311010381634741
+zealand's route	important Milford Road	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand's route	famous Milford Road	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zealand's specific circumstance	Treaty of Waitangi	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+zealand's top choreographer	Fleur De Tier	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's top choreographer	Douglas Wright	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's top choreographer	Michael Parmenter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's top label	Trelise Cooper	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+zealand's top pro	Michael Campbell	1	1	1	1	1.000000000000	NULL	NULL	10	6	0.1
+zealand's top star	Ross Taylor	3	3	9	3	1.000000000000	NULL	NULL	8	5	0.125
+zealand's top star	Daniel Vettori	3	3	9	3	1.000000000000	NULL	NULL	10	7	0.1
+zealand's top star	Brendon McCullum	3	3	9	3	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+zealand's unique geographical feature	Alpine fault	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+zealand's unique geographical feature	weather extreme	2	2	4	2	1.000000000000	NULL	NULL	31	18	0.03225806451612903
+zealand's well-known actor	Jennifer Ward Lealand	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's well-known actor	Rena Owen	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zealand's well-known actor	Michael Hurst	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand's white wine	Sauvignon Blanc	1	1	2	2	NULL	NULL	NULL	439	167	0.0011389521640091116
+zealand's white wine	Chardonnay	1	1	2	2	NULL	NULL	NULL	890	316	0.0005617977528089888
+zealand-based collector	Justice Chapman	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-based collector	Downie Stewart	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-based collector	Sir George Grey	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+zealand-based collector	Alexander Turnbull	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-based furniture manufacturer	Otto Larsen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand-based furniture manufacturer	Don Furniture	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zealand-based furniture manufacturer	Airest	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zealand-based supplier	Greentree	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+zealand-based tour operator	Kapiti Island Alive	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand-born actor	Russell Crowe	1	1	2	2	0.500000000000	NULL	NULL	69	23	0.007246376811594203
+zealand-born actor	Anna Paquin	1	1	2	2	0.500000000000	NULL	NULL	24	13	0.020833333333333332
+zealand-focused player	Pohutukawa Fund	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-focused player	Direct Capital	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-focused player	No 8 Ventures	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-focused player	Morrison & Co	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zealand-focused work	Amiria Henare's Museums	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealand-made product	bee pollen	1	1	5	5	NULL	NULL	NULL	197	74	0.0010152284263959391
+zealand-made product	Manuka honey	1	1	5	5	NULL	NULL	NULL	93	52	0.002150537634408602
+zealand-made product	colostrum	1	1	5	5	NULL	NULL	NULL	62	30	0.0032258064516129032
+zealand-made product	propolis	1	1	5	5	NULL	NULL	NULL	148	62	0.0013513513513513514
+zealand-made product	royal jelly	1	1	5	5	NULL	NULL	NULL	203	80	0.0009852216748768474
+zealand-made remanufactured product	furniture	1	1	2	2	NULL	NULL	NULL	8749	2264	0.000057149388501543034
+zealand-made remanufactured product	moulding	1	1	2	2	NULL	NULL	NULL	210	113	0.002380952380952381
+zealand-owned financial institution	finance company	1	1	3	3	NULL	NULL	NULL	196	96	0.0017006802721088435
+zealand-owned financial institution	building society	1	1	3	3	NULL	NULL	NULL	298	114	0.0011185682326621924
+zealand-owned financial institution	government-owned Rural Bank	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zealandauthors	Michael King	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+Zealandauthors	James Bellich	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zealanders	coach Mark Greatbatch	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	Denis Hulme	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+zealanders	iconic new zealanders	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	Hugh Wright	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	Frank Hutter	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	Bruce McLaren	1	1	14	14	1.000000000000	NULL	NULL	11	10	0.006493506493506493
+zealanders	well-known new zealanders	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	food writer Elisabeth Pedersen	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	William Manchester	1	1	14	14	1.000000000000	NULL	NULL	7	7	0.01020408163265306
+Zealanders	Jim Dennistoun	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	Malcolm Ross	1	1	14	14	1.000000000000	NULL	NULL	3	2	0.023809523809523808
+Zealanders	Hugh Chambers	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealanders	Ivan Mauger	1	1	14	14	1.000000000000	NULL	NULL	3	3	0.023809523809523808
+Zealanders	Warriors owner Eric Watson	1	1	14	14	1.000000000000	NULL	NULL	1	1	0.07142857142857142
+Zealands budget accommodation	hostel	1	1	1	1	NULL	NULL	NULL	337	168	0.002967359050445104
+zealands top rider	Cody Cooper	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Zealend throwirs	Beatrice Faumuena	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealot	Carl Paladino	2	1	29	28	0.454545454545	NULL	NULL	4	3	0.034482758620689655
+zealot	Helmut Kohl	1	1	29	28	0.454545454545	NULL	NULL	11	11	0.003134796238244514
+zealot	Ivan Neronov	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	FDA agent specializing in chasing down pro athlete doper	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Reb Abrahamel Szwarc	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Delors	1	1	29	28	0.454545454545	NULL	NULL	4	4	0.008620689655172414
+zealot	Alexander of Hierapolis	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	bionics boosters around Wired Magazine	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Archpriests Avvakum	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	John Roscmond	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Lafferty	1	1	29	28	0.454545454545	NULL	NULL	3	3	0.011494252873563218
+zealot	Larry Bryant	1	1	29	28	0.454545454545	NULL	NULL	3	2	0.011494252873563218
+zealot	Meletius of Mopsuestia	1	1	29	28	0.454545454545	NULL	NULL	2	2	0.017241379310344827
+zealot	Zaid Hamid	1	1	29	28	0.454545454545	NULL	NULL	7	5	0.0049261083743842365
+zealot	neoconservative charter school zealot	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Adam Schwab	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Chuck Shumer	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Jeff Novitzky	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	labor party zealot	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	author of The Population Explosion	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	FT2	1	1	29	28	0.454545454545	NULL	NULL	4	4	0.008620689655172414
+zealot	Reb Sane Stocinski	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Reb Berisz Frydman	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Peter Gersten	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	Alessia Ottus	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	late Clifton Chenier	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	immortalists	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+zealot	mislead religous zealot	1	1	29	28	0.454545454545	NULL	NULL	1	1	0.034482758620689655
+Zealot leader	Eleazar occupying the Temple	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealous and non canon element	style	1	1	3	3	NULL	NULL	NULL	1511	547	0.00022060445621001543
+zealous and non canon element	butt	1	1	3	3	NULL	NULL	NULL	59	39	0.005649717514124294
+zealous and non canon element	book	1	1	3	3	NULL	NULL	NULL	13029	3482	0.00002558395374421163
+zealous group	Essenes	1	1	2	2	0.500000000000	NULL	NULL	62	28	0.008064516129032258
+zealous group	Pharisees	1	1	2	2	0.500000000000	NULL	NULL	73	36	0.00684931506849315
+zealous health official	Australian Therapeutic Goods Administration	1	1	1	1	NULL	NULL	NULL	1	1	1
+zealous hygiene practice	douching	1	1	1	1	1.000000000000	NULL	NULL	40	24	0.025
+zealous Jews	Nicodemus	1	1	1	1	NULL	NULL	NULL	33	20	0.030303030303030304
+zealous lay movement	Opus Dei	1	1	1	1	1.000000000000	NULL	NULL	41	26	0.024390243902439025
+zealous medium star	Bill O'Reilly	1	1	1	1	1.000000000000	NULL	NULL	83	67	0.012048192771084338
+zealous patriot	Samuel Adams	2	2	3	2	NULL	NULL	NULL	133	77	0.010025062656641603
+zealous patriot	John Adams	1	1	3	2	NULL	NULL	NULL	254	106	0.0013123359580052493
+zealous prelate	Milan s Archbishop Carlo Borromeo	5	5	15	5	NULL	NULL	NULL	5	1	0.3333333333333333
+zealous prelate	Milan's Archbishop Carlo Borromeo	4	4	15	5	NULL	NULL	NULL	4	1	0.26666666666666666
+zealous prelate	Milan s Archbishop Carlo Boromeo	4	4	15	5	NULL	NULL	NULL	4	1	0.26666666666666666
+zealous prelate	Milan's Archbishop Charles Borromeo	1	1	15	5	NULL	NULL	NULL	1	1	0.06666666666666667
+zealous prelate	Milan's Archbishop Carlo Boromeo	1	1	15	5	NULL	NULL	NULL	1	1	0.06666666666666667
+Zealous Protestants	Nicholas Ridley	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+Zealous Protestants	Hugh Latimer	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+zealous renegade	Friedrich Schlegel	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+zealous scholar	Callimachus Experiens	4	1	8	4	1.000000000000	NULL	NULL	4	1	0.5
+zealous scholar	Pomponius Lsetus	2	1	8	4	1.000000000000	NULL	NULL	2	1	0.25
+zealous scholar	Pomponius Laetus	1	1	8	4	1.000000000000	NULL	NULL	1	1	0.125
+zealous scholar	Pomponius Lgetus	1	1	8	4	1.000000000000	NULL	NULL	1	1	0.125
+zealous security program	Norton	1	1	1	1	NULL	NULL	NULL	944	403	0.001059322033898305
+zealous security software	firewall	1	1	2	2	NULL	NULL	NULL	2973	1055	0.00016818028927009755
+zealous security software	anti-virus program	1	1	2	2	NULL	NULL	NULL	72	43	0.006944444444444444
+Zealous Stalinists	Herman Remmele	2	2	2	1	NULL	NULL	NULL	2	1	1
+zealous visionary	Memphis own Sam Phillips	1	1	1	1	NULL	NULL	NULL	1	1	1
+zebeta low blood sugar symptom	heart palpitation	1	1	1	1	NULL	NULL	NULL	340	103	0.0029411764705882353
+zebra auto accessory	Seat Covers & Floor Mats	3	3	4	2	NULL	NULL	NULL	5	3	0.45
+zebra auto accessory	Bum Covers & Floor Mats	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+zebra bedding	pillow	1	1	2	2	NULL	NULL	NULL	2414	760	0.00020712510356255177
+zebra bedding	bed sheet	1	1	2	2	NULL	NULL	NULL	210	136	0.002380952380952381
+Zebra card printer	Fargo DTC525-LC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zebra card printer	Zebra P640i	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Zebra card printer	ZXP Series 8TM retransfer printer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zebra consultant service	Windows Live Hotmail	1	1	1	1	1.000000000000	NULL	NULL	44	35	0.022727272727272728
+zebra crossing	Upperton Rd	1	1	1	1	NULL	NULL	NULL	1	1	1
+zebra print accessory	zebra print bag	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Zebra print apparel	sandal	1	1	1	1	NULL	NULL	NULL	509	222	0.0019646365422396855
+Zebra Printhead Inconsistent print quality	voids in the bar code	1	1	1	1	NULL	NULL	NULL	9	3	0.1111111111111111
+zebra rival	Printronix	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+zebra support document	manual	1	1	1	1	NULL	NULL	NULL	1348	559	0.000741839762611276
+zebra value card printer	Zebra P110i	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zebra's truecolours secure supply	laminate	1	1	2	2	NULL	NULL	NULL	638	255	0.0007836990595611285
+zebra's truecolours secure supply	varnish overlay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zebrafi sh mutation	Violet Beauregarde	1	1	1	1	NULL	NULL	NULL	1	1	1
+zebrafish mutant	sauterne	1	1	6	6	0.250000000000	NULL	NULL	1	9	0.16666666666666666
+zebrafish mutant	weissherbst	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+zebrafish mutant	frascati	1	1	6	6	0.250000000000	NULL	NULL	12	12	0.013888888888888888
+zebrafish mutant	chardonnay	1	1	6	6	0.250000000000	NULL	NULL	890	316	0.00018726591760299624
+zebrafish mutant	chianti	1	1	6	6	0.250000000000	NULL	NULL	136	67	0.0012254901960784314
+zebrafish mutant	zinfandel	1	1	6	6	0.250000000000	NULL	NULL	198	82	0.0008417508417508417
+zebrafish sensory organ	lateral line organ	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zebrafish sensory organ	retina	1	1	2	2	NULL	NULL	NULL	197	104	0.0025380710659898475
+Zebrafishmutants	chianti	1	1	6	6	0.250000000000	NULL	NULL	136	67	0.0012254901960784314
+Zebrafishmutants	frascati	1	1	6	6	0.250000000000	NULL	NULL	12	12	0.013888888888888888
+Zebrafishmutants	zinfandel	1	1	6	6	0.250000000000	NULL	NULL	198	82	0.0008417508417508417
+Zebrafishmutants	saut ernes	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+Zebrafishmutants	weissherbst	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+Zebrafishmutants	clear blood	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+Zebramosa species	purple tang	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+Zebramosa species	scopas	1	1	3	3	0.500000000000	NULL	NULL	10	7	0.03333333333333333
+Zebramosa species	yellow	1	1	3	3	0.500000000000	NULL	NULL	5611	1380	0.00005940711697261331
+Zebrasoma species	yellow tang	2	2	2	1	1.000000000000	NULL	NULL	17	13	0.11764705882352941
+zebu breed	Brahman	1	1	1	1	1.000000000000	NULL	NULL	54	29	0.018518518518518517
+zebu cattle breed	Gir	3	3	6	2	1.000000000000	NULL	NULL	10	7	0.15
+zebu cattle breed	Ongole	3	3	6	2	1.000000000000	NULL	NULL	6	3	0.25
+zectiveinlarger old building	church	1	1	1	1	NULL	NULL	NULL	6841	2094	0.000146177459435755
+ZED agreement information	eligibility criterion	1	1	1	1	1.000000000000	NULL	NULL	44	24	0.022727272727272728
+zed press contributor	Angela Davis	1	1	5	5	0.500000000000	NULL	NULL	52	34	0.0038461538461538464
+zed press contributor	Zillah Eisenstein	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+zed press contributor	Cynthia Enloe	1	1	5	5	0.500000000000	NULL	NULL	11	10	0.018181818181818184
+zed press contributor	Jasbir Puar	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+zed press contributor	Leslie Cagan	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+ZEdblB Personal information	address	1	1	2	2	NULL	NULL	NULL	8879	1453	0.00005631264782070053
+ZEdblB Personal information	telephone number	1	1	2	2	NULL	NULL	NULL	2511	442	0.00019912385503783353
+zediva stream movie	Social Network	1	1	1	1	NULL	NULL	NULL	812	399	0.0012315270935960591
+zedlinearmodels	logistic model	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+zedoperators	path crossover	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zedpattern mining approach	Cumulate algorithm	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zedrepositories	back ends of geographical information system	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+zedsoaringbirds	vulture	1	1	2	2	NULL	NULL	NULL	348	95	0.0014367816091954023
+zedsoaringbirds	pelican	1	1	2	2	NULL	NULL	NULL	447	159	0.0011185682326621924
+zedsoftware	EnCase	1	1	1	1	1.000000000000	NULL	NULL	43	25	0.023255813953488372
+zedtypesof inference	complex logical inference	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zedx information product	integrated pest management model	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zedx information product	analytical tool	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+zee arabiya's recent program	reality show VJ Hunt	1	1	1	1	NULL	NULL	NULL	1	1	1
+zee turner litigation	disputes between Zee Turner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zee turner litigation	disputes in TDSAT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zee TV hindi soap	Saat Phere	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+zee's show	Saat Phere	2	2	5	4	NULL	NULL	NULL	4	3	0.2
+zee's show	Maayka	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zee's show	Kasamh Se	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+zee's show	Ghar Ki Lakshmi Betiyaan	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+zeebo convinced developer	Activision	1	1	2	2	NULL	NULL	NULL	179	73	0.002793296089385475
+zeebo convinced developer	Electronic Arts	1	1	2	2	NULL	NULL	NULL	420	148	0.0011904761904761906
+zeedijk top quality restaurant	Blakes	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+zeehan's heritage building	Gaiety Theatre	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zeehan's heritage building	police station	1	1	3	3	NULL	NULL	NULL	486	242	0.0006858710562414266
+zeehan's heritage building	courthouse	1	1	3	3	NULL	NULL	NULL	195	98	0.0017094017094017094
+zeeland east senior	linebacker Ethan Lampe	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeer community	Snackfood Lovers	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeevee product	ZvBox 150	2	2	2	1	NULL	NULL	NULL	2	1	1
+zegna many brand	flagship store in modern shopping center	2	2	2	1	NULL	NULL	NULL	2	1	1
+zeigler customer government agency	Centers for Disease Control	1	1	3	3	0.333333333333	NULL	NULL	248	75	0.0013440860215053762
+zeigler customer government agency	National Institutes of Health	1	1	3	3	0.333333333333	NULL	NULL	409	116	0.0008149959250203749
+zeigler customer government agency	Federal Drug Administration	1	1	3	3	0.333333333333	NULL	NULL	11	10	0.0303030303030303
+zein property	solubility	1	1	3	3	0.333333333333	NULL	NULL	662	196	0.0005035246727089627
+zein property	viscosity	1	1	3	3	0.333333333333	NULL	NULL	1504	452	0.00022163120567375886
+zein property	gelation	1	1	3	3	0.333333333333	NULL	NULL	29	16	0.011494252873563218
+zeins	22 kda	2	2	2	1	NULL	NULL	NULL	2	1	1
+zeiss camera	Contarex SLRs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeiss camera	original rangefinder Contaxes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeitgebers	light	3	3	9	5	0.363636363636	NULL	NULL	6435	2121	0.0001554001554001554
+zeitgebers	social factor	2	2	9	5	0.363636363636	NULL	NULL	68	31	0.0065359477124183
+zeitgebers	temperature	2	2	9	5	0.363636363636	NULL	NULL	21509	4199	0.000020663184920007643
+zeitgebers	natural light	1	1	9	5	0.363636363636	NULL	NULL	117	66	0.0009496676163342829
+zeitgebers	work schedule	1	1	9	5	0.363636363636	NULL	NULL	165	88	0.0006734006734006733
+zeitgeist feature	Purchase Circles	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zeitgeist feature	Bestsellers	1	1	4	4	NULL	NULL	NULL	9	3	0.027777777777777776
+zeitgeist feature	Movers & Shakers	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+zeitgeist feature	Sales Rank	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+zeitgeist item	dark chocolate	1	1	1	1	NULL	NULL	NULL	209	109	0.004784688995215311
+Zeitronix add-ons	boost sensor	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zeitung author	Kracauer	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+zelaya's modest reform	raising the minimum wage	1	1	1	1	1.000000000000	NULL	NULL	27	19	0.037037037037037035
+zelda character	Owl	1	1	3	3	NULL	NULL	NULL	1154	336	0.00028885037550548814
+zelda character	Ruto	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zelda character	Darunia	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Zelda collection	Twilight Princess Trailer Theme	1	1	1	1	NULL	NULL	NULL	1	1	1
+zelda game	Twilight Princess	2	2	16	15	0.777777777777	NULL	NULL	28	13	0.008928571428571428
+zelda game	good	1	1	16	15	0.777777777777	NULL	NULL	763	345	0.000081913499344692
+zelda game	Phantom Hourglass	1	1	16	15	0.777777777777	NULL	NULL	9	8	0.006944444444444444
+zelda game	future-placed zelda game	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+zelda game	great zelda game	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+zelda game	Final Fantasy	1	1	16	15	0.777777777777	NULL	NULL	379	150	0.00016490765171503957
+zelda game	Adventures of Link	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+zelda game	Skyward Sword	1	1	16	15	0.777777777777	NULL	NULL	6	6	0.010416666666666666
+zelda game	Minish Cap	1	1	16	15	0.777777777777	NULL	NULL	13	11	0.004807692307692308
+zelda game	Link's awakening	1	1	16	15	0.777777777777	NULL	NULL	8	7	0.0078125
+zelda game	Majora's Mask	1	1	16	15	0.777777777777	NULL	NULL	9	6	0.006944444444444444
+zelda game	Four Swords	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+zelda game	2d zelda game	1	1	16	15	0.777777777777	NULL	NULL	2	2	0.03125
+zelda game	Wind Waker	1	1	16	15	0.777777777777	NULL	NULL	19	6	0.003289473684210526
+zelda game	Oracle game	1	1	16	15	0.777777777777	NULL	NULL	1	1	0.0625
+zelda item	traditional zelda item	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zelda title	Spirit Tracks	1	1	6	6	1.000000000000	NULL	NULL	5	4	0.03333333333333333
+zelda title	Minish Cap	1	1	6	6	1.000000000000	NULL	NULL	13	11	0.01282051282051282
+zelda title	Wind Waker	1	1	6	6	1.000000000000	NULL	NULL	19	6	0.008771929824561403
+zelda title	Twilight Princess	1	1	6	6	1.000000000000	NULL	NULL	28	13	0.005952380952380952
+zelda title	Ocarina of Time 3D	1	1	6	6	1.000000000000	NULL	NULL	5	5	0.03333333333333333
+zelda title	Phantom Hourglass	1	1	6	6	1.000000000000	NULL	NULL	9	8	0.018518518518518517
+zelda weapon	Hero's bow	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+zelda's game	Ocarina of time	1	1	1	1	1.000000000000	NULL	NULL	25	12	0.04
+zelda-related game	Soulcalibur II	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zelda-related game	Super Smash Bros. series	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+zelenolistnata vegetable	lettuce	1	1	1	1	NULL	NULL	NULL	5133	1104	0.0001948178453146308
+zemoga cultural event	social event	1	1	1	1	NULL	NULL	NULL	283	149	0.0035335689045936395
+zen art	tea ceremony	3	3	7	5	NULL	NULL	NULL	156	84	0.00824175824175824
+zen art	gardening	1	1	7	5	NULL	NULL	NULL	3199	895	0.00004465681239673112
+zen art	Japanese Archery	1	1	7	5	NULL	NULL	NULL	1	1	0.14285714285714285
+zen art	archery	1	1	7	5	NULL	NULL	NULL	1568	415	0.00009110787172011662
+zen art	Art of Tea	1	1	7	5	NULL	NULL	NULL	2	2	0.07142857142857142
+Zen background	Tree Climber	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+zen buddhist practice	zazen	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+zen cart's many built-in feature	templating system	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zen cart's many built-in feature	product attribute	1	1	3	3	1.000000000000	NULL	NULL	21	15	0.015873015873015872
+zen cart's many built-in feature	coupon system	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zen center	Jemez Bodhi Mandala	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zen center	San Francisco Zen Center	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zen center	Mount Baldy	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+zen circuit	Bride of Zen	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+zen concept	simplicity	2	2	12	11	0.200000000000	NULL	NULL	549	230	0.000607164541590771
+zen concept	control of the emotion	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	emptiness	1	1	12	11	0.200000000000	NULL	NULL	62	26	0.0013440860215053762
+zen concept	beginning with the end in mind	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	clarity	1	1	12	11	0.200000000000	NULL	NULL	517	201	0.00016118633139909736
+zen concept	emphasis placed on the tranquil	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	acceptance of the inevitable	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	immovable mind	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	being in the moment	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	avoidance of clutter	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+zen concept	moderation	1	1	12	11	0.200000000000	NULL	NULL	83	38	0.001004016064257028
+zen design	yin yang spirit wall decal	1	1	1	1	NULL	NULL	NULL	1	1	1
+zen haven	Meiji Shrine	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+zen ideal	compassion	1	1	1	1	NULL	NULL	NULL	1891	546	0.0005288207297726071
+zen master	Huang Po	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+zen master	ancient zen master	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+zen master	late Shunryu Suzuki	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+zen master	famous zen master	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+zen master	Dogen Zenji	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+zen master	Keizan Zenji	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+zen master	Ma-tsu	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+zen model	Zen Micro	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+zen model	Zen Touch	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zen model	Zen Nano Plus	1	1	3	3	NULL	NULL	NULL	4	2	0.08333333333333333
+zen MP3 player	256 MB Zen Muvo Slim	1	1	1	1	NULL	NULL	NULL	1	1	1
+zen painter	Sengai Gibon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen painter	Nakahara Nantenbo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen practitioner	Peter Matthiessen	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Zen priest-painters	Hakuin Ekaku	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zen principle	mindfulness	1	1	1	1	NULL	NULL	NULL	262	127	0.003816793893129771
+zen ritual	chanting	1	1	2	2	NULL	NULL	NULL	138	70	0.0036231884057971015
+zen ritual	bowing	1	1	2	2	NULL	NULL	NULL	63	42	0.007936507936507936
+zen school	Tofuku-ji	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zen school	Shokoku-ji in Kyoto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen scripture	riddle questions in meditation task	1	1	1	1	NULL	NULL	NULL	1	1	1
+zen teaching	staying mindful of worldly attachment	2	2	2	1	NULL	NULL	NULL	2	1	1
+zen temple	Kenchoji Temple	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen temple	Engakuji Temple	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen term	satori	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+zen-derived aesthetic principle	appreciation for the subdued	1	1	1	1	NULL	NULL	NULL	1	1	1
+zen-fire broker	Amp Trading	1	1	1	1	NULL	NULL	NULL	1	1	1
+zen-inspired amenity	fitness center	2	2	12	6	0.666666666666	NULL	NULL	1465	366	0.00022753128555176336
+zen-inspired amenity	immaculate putting green	2	2	12	6	0.666666666666	NULL	NULL	2	1	0.16666666666666666
+zen-inspired amenity	residents lounge	2	2	12	6	0.666666666666	NULL	NULL	21	11	0.015873015873015872
+zen-inspired amenity	roof deck	2	2	12	6	0.666666666666	NULL	NULL	35	24	0.009523809523809523
+zen-inspired amenity	dramatic two-story attended lobby	2	2	12	6	0.666666666666	NULL	NULL	2	1	0.16666666666666666
+zen-inspired amenity	pet spa	2	2	12	6	0.666666666666	NULL	NULL	2	1	0.16666666666666666
+Zen-inspired ephemera	Falling Rain	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+Zen-inspired ephemera	Green Bamboo	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+zen-inspired feature	warm wood	1	1	2	3	0.500000000000	NULL	NULL	9	6	0.05555555555555555
+zen-inspired feature	bamboo flooring	1	1	2	3	0.500000000000	NULL	NULL	167	82	0.0029940119760479044
+zen-inspired garden	gravel garden of Ryoan-ji	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen-inspired garden	world famous rock	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen-inspired piece	big stone Buddha with a flower-garland necklace	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zen-inspired piece	surrounded by candle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zen-inspired property	home	1	1	1	1	NULL	NULL	NULL	3273	1179	0.00030553009471432935
+zen-like accessory	table-top fountain	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zen-like accessory	candle	1	1	2	2	NULL	NULL	NULL	2837	1038	0.00017624250969333803
+zen-like activity	yoga	1	1	1	1	NULL	NULL	NULL	10229	2367	0.00009776126698602014
+zen-like feature	space	1	1	1	1	NULL	NULL	NULL	2040	725	0.0004901960784313725
+zend development environment feature	code completion	1	1	6	6	NULL	NULL	NULL	70	28	0.0023809523809523807
+zend development environment feature	syntax error highlighting	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zend development environment feature	cross-file search	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+zend development environment feature	auto indentation	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+zend development environment feature	project management	1	1	6	6	NULL	NULL	NULL	1814	676	0.00009187798603454612
+zend development environment feature	syntax highlighting	1	1	6	6	NULL	NULL	NULL	111	46	0.0015015015015015015
+Zend Studio s functionality	Content Assist	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+Zend Studio's functionality	Code Assist	2	2	2	1	NULL	NULL	NULL	5	2	0.4
+zendaya coleman diet ligament	Six Thinking Hats by Edward	1	1	1	1	NULL	NULL	NULL	1	1	1
+ZENEC program component	navigation	6	4	12	3	0.500000000000	NULL	NULL	1419	591	0.0021141649048625794
+ZENEC program component	DVBT tuner	4	4	12	3	0.500000000000	NULL	NULL	5	2	0.26666666666666666
+ZENEC program component	DVB-T tuner	2	2	12	3	0.500000000000	NULL	NULL	8	7	0.041666666666666664
+zener diode	150 volt zener diode	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zener diode	industry standard type 1N5258B	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zenerx ingredient	coffee	1	1	1	1	NULL	NULL	NULL	11509	2489	0.00008688852202624034
+zeng	douglas zhihua zeng	1	1	1	1	NULL	NULL	NULL	1	1	1
+zenga game	referral signups	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zenists	Taezan Maezumi Roshi	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Zenists	Kosho Uchiyama Roshi	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zenith artist	Vanessa Bell	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+zenith client	Sportsgirl	1	1	2	2	1.000000000000	NULL	NULL	32	26	0.015625
+zenith client	Network Seven	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zenith crusher	Jaw crusher	1	1	4	4	1.000000000000	NULL	NULL	130	38	0.0019230769230769232
+zenith crusher	Impact crusher	1	1	4	4	1.000000000000	NULL	NULL	26	16	0.009615384615384616
+zenith crusher	Cone crusher	1	1	4	4	1.000000000000	NULL	NULL	51	31	0.004901960784313725
+zenith crusher	portable crusher	1	1	4	4	1.000000000000	NULL	NULL	5	5	0.05
+zenith product	SmartStyle Computing solution	1	1	1	1	NULL	NULL	NULL	1	1	1
+zenith system	ultrasonic parts washer shown	1	1	1	1	NULL	NULL	NULL	1	1	1
+zenith watch	Breitling Watches	1	1	3	3	1.000000000000	NULL	NULL	33	33	0.0101010101010101
+zenith watch	Rolex Watches	1	1	3	3	1.000000000000	NULL	NULL	47	40	0.0070921985815602835
+zenith watch	Omega Watches	1	1	3	3	1.000000000000	NULL	NULL	43	35	0.007751937984496124
+Zenits	Zenit B	2	2	2	1	NULL	NULL	NULL	2	1	1
+zenmed product	Botanical Acne Mask	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeno client	JAMDAT Mobile	1	1	3	3	0.500000000000	NULL	NULL	6	4	0.05555555555555555
+zeno client	Oracle	1	1	3	3	0.500000000000	NULL	NULL	4631	1430	0.00007197869430648528
+zeno client	Sirius Satellite Radio	1	1	3	3	0.500000000000	NULL	NULL	88	30	0.0037878787878787876
+zeno's paradox	Achilles	1	1	1	1	NULL	NULL	NULL	121	79	0.008264462809917356
+zenos manager	Regional Careers Managers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zenos manager	Programme Managers	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+zenoss monitoring remote system	using ssh command	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zenoss monitoring remote system	TSM	1	1	2	2	1.000000000000	NULL	NULL	11	7	0.045454545454545456
+Zens	MicroPhoto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zens	Nano Plus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zensah product	Zensah Compression Leg Sleeves	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zensah product	Zensah Compression Socks	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zensah product	Zensah Cycling Arm Sleeves	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zensah product	Zensah Cycling Compression Leg Sleeves	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Zentyal server functionalities	Zentyal Gateway	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zentyal server functionalities	Zentyal Office Server	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zenworks object	policy	2	1	2	1	NULL	NULL	NULL	1472	661	0.001358695652173913
+zeo accessory	extra sensor pad	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zeo accessory	replacement part	1	1	2	2	1.000000000000	NULL	NULL	64	39	0.0078125
+zeolite	ZSM-5	3	2	15	12	1.000000000000	NULL	NULL	105	54	0.005714285714285715
+zeolite	molecular sieve catalyst	2	2	15	12	1.000000000000	NULL	NULL	3	2	0.08888888888888889
+zeolite	mordenite	1	1	15	12	1.000000000000	NULL	NULL	53	30	0.0012578616352201257
+zeolite	Thomsonite	1	1	15	12	1.000000000000	NULL	NULL	4	3	0.016666666666666666
+zeolite	ferrierite	1	1	15	12	1.000000000000	NULL	NULL	15	5	0.0044444444444444444
+zeolite	medium-pore silicoalumina zeolite	1	1	15	12	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+zeolite	Y-type zeolite	1	1	15	12	1.000000000000	NULL	NULL	5	4	0.013333333333333332
+zeolite	acid washedmineral zeolite	1	1	15	12	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+zeolite	crystalline high silica-containing zeolite	1	1	15	12	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+zeolite	large pore zeolite	1	1	15	12	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+zeolite	NH 4 Y-zeolite	1	1	15	12	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+zeolite	acid crystalline metallosilicate zeolite	1	1	15	12	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+zeolite catalyst	metal	1	1	2	2	NULL	NULL	NULL	11430	2556	0.00004374453193350831
+zeolite catalyst	silica	1	1	2	2	NULL	NULL	NULL	2326	833	0.00021496130696474635
+zeolite cement	analcime	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+zeolite ceramic	filter printed with zeolite powder	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeolite composition	silicate	2	2	2	1	NULL	NULL	NULL	474	234	0.004219409282700422
+zeolite material	zeolite ZSM-5	2	2	6	5	0.500000000000	NULL	NULL	3	2	0.2222222222222222
+zeolite material	mordenite	1	1	6	5	0.500000000000	NULL	NULL	53	30	0.003144654088050314
+zeolite material	zeolites	1	1	6	5	0.500000000000	NULL	NULL	509	231	0.00032743942370661423
+zeolite material	erionite	1	1	6	5	0.500000000000	NULL	NULL	43	19	0.003875968992248062
+zeolite material	sodalite	1	1	6	5	0.500000000000	NULL	NULL	41	21	0.004065040650406504
+zeolite membrane	silicalite-1 membrane	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+zeolite mineral	erionite	3	2	14	7	1.000000000000	NULL	NULL	43	19	0.01495016611295681
+zeolite mineral	chabazite	3	3	14	7	1.000000000000	NULL	NULL	30	11	0.021428571428571425
+zeolite mineral	mordenite	2	2	14	7	1.000000000000	NULL	NULL	53	30	0.005390835579514824
+zeolite mineral	stilbite	2	2	14	7	1.000000000000	NULL	NULL	10	4	0.02857142857142857
+zeolite mineral	mesolite	2	2	14	7	1.000000000000	NULL	NULL	5	4	0.05714285714285714
+zeolite mineral	clinoptilolite	1	1	14	7	1.000000000000	NULL	NULL	38	13	0.0018796992481203006
+zeolite mineral	natural zeolite mineral	1	1	14	7	1.000000000000	NULL	NULL	2	2	0.03571428571428571
+zeolite object	ball	1	1	1	1	NULL	NULL	NULL	1998	808	0.0005005005005005005
+zeolite property	size of the internal channel	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeolite synthesis parameter	synthesis time	1	1	4	4	NULL	NULL	NULL	6	4	0.041666666666666664
+zeolite synthesis parameter	temperature	1	1	4	4	NULL	NULL	NULL	21509	4199	0.0000116230415175043
+zeolite synthesis parameter	mode of agitation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zeolite synthesis parameter	ph	1	1	4	4	NULL	NULL	NULL	6258	1312	0.00003994886545222116
+zeolite type	MWW	2	2	3	2	0.666666666666	NULL	NULL	3	2	0.4444444444444444
+zeolite type	ZSM-5	1	1	3	2	0.666666666666	NULL	NULL	105	54	0.0031746031746031746
+zeolite's residual surface reactivity reaction	oligomerization	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+zeolite-based catalyst	ZSM-5	1	1	1	1	NULL	NULL	NULL	105	54	0.009523809523809525
+zeolites	ZSM-5	31	12	170	62	0.900000000000	NULL	NULL	105	54	0.053837535014005594
+zeolites	mordenite	13	9	170	62	0.900000000000	NULL	NULL	53	30	0.018756936736958933
+zeolites	clinoptilolite	10	8	170	62	0.900000000000	NULL	NULL	38	13	0.015479876160990712
+zeolites	faujasite	10	8	170	62	0.900000000000	NULL	NULL	21	10	0.028011204481792718
+zeolites	zeolite Y	8	3	170	62	0.900000000000	NULL	NULL	27	13	0.013943355119825708
+zeolites	zeolites X	8	3	170	62	0.900000000000	NULL	NULL	16	7	0.023529411764705882
+zeolites	phillipsite	7	6	170	62	0.900000000000	NULL	NULL	15	8	0.019215686274509803
+zeolites	chabazite	6	6	170	62	0.900000000000	NULL	NULL	30	11	0.007058823529411765
+zeolites	analcime	6	6	170	62	0.900000000000	NULL	NULL	15	10	0.01411764705882353
+zeolites	ferrierite	5	4	170	62	0.900000000000	NULL	NULL	15	5	0.00980392156862745
+zeolites	heulandite	4	4	170	62	0.900000000000	NULL	NULL	11	4	0.008556149732620321
+zeolites	stilbite	3	3	170	62	0.900000000000	NULL	NULL	10	4	0.005294117647058823
+zeolites	ZSM-5 ZSM-11 ZSM-12 ZSM-23 ZSM-35	3	1	170	62	0.900000000000	NULL	NULL	3	1	0.01764705882352941
+zeolites	silicalite zeolites	3	3	170	62	0.900000000000	NULL	NULL	3	1	0.01764705882352941
+zeolites	erionite	2	2	170	62	0.900000000000	NULL	NULL	43	19	0.0005471956224350205
+zeolites	Zeolite P	2	2	170	62	0.900000000000	NULL	NULL	3	2	0.00784313725490196
+zeolites	Natrolite	2	2	170	62	0.900000000000	NULL	NULL	10	7	0.002352941176470588
+zeolites	zeolite Beta	2	2	170	62	0.900000000000	NULL	NULL	14	6	0.001680672268907563
+zeolites	zeolite 13X	2	2	170	62	0.900000000000	NULL	NULL	5	3	0.004705882352941176
+zeolites	ZSM	2	2	170	62	0.900000000000	NULL	NULL	3	2	0.00784313725490196
+zeolites	faujasite type zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	thearomatic-selective large pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	Type Y	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	large pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	MCM-22 zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	medium pore aluminosilicate zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	medium pore zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	zsm-5 type zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	zeolite 5A	1	1	170	62	0.900000000000	NULL	NULL	3	2	0.00196078431372549
+zeolites	wide-pore zeolites HY	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	natural and synthetic zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	Na-A type zeolite	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	intermediate pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	synthetic zeolites F	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	medium-pore ZSM-5	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	zeolite NaX	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	natural or synthetic zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	mordenite framework inverted type zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	synthetic or natural zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	unmodified intermediate pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	type 4A	1	1	170	62	0.900000000000	NULL	NULL	3	3	0.00196078431372549
+zeolites	coarsely crystalline zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	conventional synthetic zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	aromatic-selective large pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	laumontite	1	1	170	62	0.900000000000	NULL	NULL	7	4	0.0008403361344537815
+zeolites	large pore faujasite zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	large port zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	intermediate pore zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	Mesolite	1	1	170	62	0.900000000000	NULL	NULL	5	4	0.001176470588235294
+zeolites	zeolite L	1	1	170	62	0.900000000000	NULL	NULL	4	4	0.0014705882352941176
+zeolites	shape selective zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	pentasil type zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	purely synthetic zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	abstract medium-pore zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	small pore zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	apophyllite	1	1	170	62	0.900000000000	NULL	NULL	11	8	0.0005347593582887701
+zeolites	medium pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	narrow pore zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites	mordenite L zeolite	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	1	1	0.0058823529411764705
+zeolites	small pore size zeolites	1	1	170	62	0.900000000000	NULL	NULL	2	2	0.0029411764705882353
+zeolites structure	ZSM-5	1	1	1	1	NULL	NULL	NULL	105	54	0.009523809523809525
+Zeolites typically includeatoms	silicon	1	1	2	2	NULL	NULL	NULL	2595	737	0.0001926782273603083
+Zeolites typically includeatoms	oxygen	1	1	2	2	NULL	NULL	NULL	4210	1106	0.00011876484560570071
+zeolitic aluminosilicates	faujasite	1	1	1	1	1.000000000000	NULL	NULL	21	10	0.047619047619047616
+zeolitic catalyst	ZSM-5	2	1	6	3	1.000000000000	NULL	NULL	105	54	0.006349206349206349
+zeolitic catalyst	faujasiteand zeolite Beta	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+zeolitic catalyst	mordenite	2	1	6	3	1.000000000000	NULL	NULL	53	30	0.012578616352201257
+zeolitic material	ZSM-5	3	3	4	2	0.500000000000	NULL	NULL	105	54	0.02142857142857143
+zeolitic material	erionite	1	1	4	2	0.500000000000	NULL	NULL	43	19	0.005813953488372093
+zeolitic molecular sieve	5A	3	1	3	1	1.000000000000	NULL	NULL	9	7	0.3333333333333333
+zeolitic substrate	TS-1 in a powder form	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeomic's advantageous feature	heat resistance	1	1	2	2	NULL	NULL	NULL	204	68	0.0024509803921568627
+zeomic's advantageous feature	long-lasting antimicrobial power	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeos class	TZQuery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeos class	TZTable	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeotropic mixture	R-410A	2	1	2	1	1.000000000000	NULL	NULL	18	11	0.1111111111111111
+zeovit additive	amino acid	1	1	1	1	NULL	NULL	NULL	2111	741	0.0004737091425864519
+zephion's circuit provider	Qwest	1	1	2	2	0.500000000000	NULL	NULL	240	125	0.0020833333333333333
+zephion's circuit provider	WorldCom Inc.	1	1	2	2	0.500000000000	NULL	NULL	13	9	0.038461538461538464
+zephyr contributor	John Ring	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zephyr contributor	Bill Knight	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+zephyr contributor	Rich Miller	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zephyr outing	special family outing	1	1	1	1	NULL	NULL	NULL	1	1	1
+zeppelin	catalog number C15	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zeppelin cover	Battle of Evermore	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zeppelin topic	fairy	1	1	1	1	NULL	NULL	NULL	353	205	0.0028328611898017
+zerg building	hydralisk den	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zerg player	Jaedong	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+zerg structure	hatchery	1	1	1	1	1.000000000000	NULL	NULL	44	38	0.022727272727272728
+zerlithic catalyst	hydrocracking catalyst	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero energy developments	BedZED	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+zero point	finding water	1	1	2	2	0.333333333333	NULL	NULL	13	12	0.038461538461538464
+zero point	home	1	1	2	2	0.333333333333	NULL	NULL	3273	1179	0.00015276504735716468
+zero-altered probability process	zero-inflated Poisson	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+zero-bedroom unit	studio	1	1	1	1	NULL	NULL	NULL	341	198	0.002932551319648094
+zero-byte message	real-time message	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zero-byte message	tune request	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zero-cal artificial sweetener	aspartame	3	3	9	3	NULL	NULL	NULL	1333	228	0.0007501875468867217
+zero-cal artificial sweetener	saccharin	3	3	9	3	NULL	NULL	NULL	542	128	0.0018450184501845018
+zero-cal artificial sweetener	xylitol	3	3	9	3	NULL	NULL	NULL	442	138	0.0022624434389140274
+zero-calorie beverage	water	15	7	29	8	0.166666666666	NULL	NULL	25348	6311	0.00030608413640741567
+zero-calorie beverage	iced green tea	5	1	29	8	0.166666666666	NULL	NULL	9	4	0.09578544061302682
+zero-calorie beverage	iced tea	3	1	29	8	0.166666666666	NULL	NULL	290	108	0.001070154577883472
+zero-calorie beverage	tea	2	2	29	8	0.166666666666	NULL	NULL	7608	1710	0.000018129736393632835
+zero-calorie beverage	iced tea with a squirt of lemon juice	1	1	29	8	0.166666666666	NULL	NULL	1	1	0.034482758620689655
+zero-calorie beverage	diet soda	1	1	29	8	0.166666666666	NULL	NULL	161	84	0.00021417862497322766
+zero-calorie beverage	green tea	1	1	29	8	0.166666666666	NULL	NULL	2065	668	0.000016698672455539784
+zero-calorie beverage	seltzer	1	1	29	8	0.166666666666	NULL	NULL	34	25	0.0010141987829614604
+zero-calorie drink	Crystal Light	1	1	1	1	1.000000000000	NULL	NULL	69	55	0.014492753623188406
+zero-calorie fat substitute	Olestra	1	1	1	1	1.000000000000	NULL	NULL	31	19	0.03225806451612903
+zero-calorie item	celery	1	1	1	1	NULL	NULL	NULL	3210	729	0.00031152647975077883
+zero-calorie sweetener	sucralose	3	3	6	2	NULL	NULL	NULL	397	97	0.003778337531486146
+zero-calorie sweetener	aspartame	3	3	6	2	NULL	NULL	NULL	1333	228	0.0011252813203300824
+zero-calorie, artificial sweetener	Equal	1	1	2	2	NULL	NULL	NULL	187	53	0.00267379679144385
+zero-calorie, artificial sweetener	Splenda	1	1	2	2	NULL	NULL	NULL	368	84	0.001358695652173913
+zero-calorie, zero-fizz fruit-flavored water	Fruit2O	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+zero-carb food	lettuce	1	1	2	2	0.500000000000	NULL	NULL	5133	1104	0.0000974089226573154
+zero-carb food	raw spinach	1	1	2	2	0.500000000000	NULL	NULL	20	12	0.025
+zero-carbohydrate dairy product	heavy cream	1	1	1	1	1.000000000000	NULL	NULL	53	35	0.018867924528301886
+zero-carbon approach	use of biofuels	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zero-carbon fuel	nuclear	1	1	1	1	NULL	NULL	NULL	703	331	0.001422475106685633
+zero-carbon generation source	renewable energy	1	1	2	2	NULL	NULL	NULL	776	308	0.0006443298969072165
+zero-carbon generation source	nuclear power	1	1	2	2	NULL	NULL	NULL	553	236	0.0009041591320072332
+zero-carbon option	nuclear	1	1	1	1	NULL	NULL	NULL	703	331	0.001422475106685633
+zero-carbon resource	low and zero-carbon resource	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-carbon source	hydropower	2	2	4	3	NULL	NULL	NULL	343	139	0.0029154518950437317
+zero-carbon source	high-temperature solar	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+zero-carbon source	nuclear power	1	1	4	3	NULL	NULL	NULL	553	236	0.0004520795660036166
+zero-carbon technology	low and zero-carbon technology	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zero-carbon technology	solar	1	1	2	2	NULL	NULL	NULL	4132	912	0.00012100677637947725
+zero-client protocol	PCoIP	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-cost and cost-reduction structure	long put	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-cost artifact	Welding Jar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zero-cost artifact	Ornithopter	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+zero-cost military academy	Naval Academy	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+zero-cost option	system maintained by the NICB	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-cross point	q 1	2	1	2	1	1.000000000000	NULL	NULL	5	4	0.4
+zero-day attack	Aurora	3	3	5	3	NULL	NULL	NULL	271	129	0.006642066420664206
+zero-day attack	SQL injection	1	1	5	3	NULL	NULL	NULL	236	92	0.0008474576271186442
+zero-day attack	buffer overflow	1	1	5	3	NULL	NULL	NULL	112	73	0.0017857142857142859
+zero-day cyber attack	worm	2	2	2	1	NULL	NULL	NULL	2308	714	0.0008665511265164644
+zero-day exploit	Conficker	1	1	1	1	1.000000000000	NULL	NULL	36	20	0.027777777777777776
+zero-day protection	HIPS program	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-delay PLL-type clock driver	Cypress Semiconductor CY2305	2	2	2	1	NULL	NULL	NULL	2	1	1
+Zero-dimensional crystal Si nanomaterials	Si nanoparticles	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-dimensional geometry	Point	1	1	1	1	NULL	NULL	NULL	1043	513	0.0009587727708533077
+zero-dimensional point defect	substitutional impurity	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Zero-dimensional semiconductor heterostructures	self-organized quantum dot	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-dimensional simulation code	GT Power	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+zero-dimensional structure	blob	1	1	2	2	NULL	NULL	NULL	64	45	0.0078125
+zero-dimensional structure	junction	1	1	2	2	NULL	NULL	NULL	73	58	0.00684931506849315
+zero-displacement valve	ball valve	1	1	1	1	NULL	NULL	NULL	213	192	0.004694835680751174
+zero-drift amplifier	AD8628 shown in Figure 4	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-emission car	electric car	1	1	1	1	0.500000000000	NULL	NULL	207	111	0.004830917874396135
+zero-emission coal technology	geologic sequestration	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-emission electric vehicle	trolley bus	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+zero-emission electric vehicle	Safa tempo	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zero-emission energy producer	nuclear power plant	1	1	1	1	NULL	NULL	NULL	324	194	0.0030864197530864196
+zero-emission plug-in vehicle	Nissan Leaf	1	1	2	2	NULL	NULL	NULL	231	83	0.0021645021645021645
+zero-emission plug-in vehicle	Chevrolet Volt on the rise	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zero-emission solar technology	solar electricity	3	3	5	2	1.000000000000	NULL	NULL	34	23	0.05294117647058823
+zero-emission solar technology	solar water heating	2	2	5	2	1.000000000000	NULL	NULL	139	89	0.0057553956834532375
+zero-emission technology	fuel cell	2	1	3	2	0.666666666666	NULL	NULL	1130	408	0.0011799410029498525
+zero-emission technology	ultracapacitors	1	1	3	2	0.666666666666	NULL	NULL	49	24	0.006802721088435374
+zero-emission vehicle	EV	1	1	8	8	0.375000000000	NULL	NULL	41	30	0.003048780487804878
+zero-emission vehicle	Nissan LEAF	1	1	8	8	0.375000000000	NULL	NULL	231	83	0.0005411255411255411
+zero-emission vehicle	electric car	1	1	8	8	0.375000000000	NULL	NULL	207	111	0.0006038647342995169
+zero-emission vehicle	industrial-utility vehicle	1	1	8	8	0.375000000000	NULL	NULL	1	1	0.125
+zero-emission vehicle	plug-in electric	1	1	8	8	0.375000000000	NULL	NULL	1	1	0.125
+zero-emission vehicle	scooter	1	1	8	8	0.375000000000	NULL	NULL	799	439	0.00015644555694618273
+zero-emission vehicle	fuel cell vehicle	1	1	8	8	0.375000000000	NULL	NULL	37	26	0.0033783783783783786
+zero-emission vehicle	wheelchair	1	1	8	8	0.375000000000	NULL	NULL	1254	363	0.00009968102073365231
+zero-emissions vehicle	bicycle	1	1	1	1	NULL	NULL	NULL	1604	596	0.0006234413965087282
+zero-emitting technology	fuel cell bus	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+zero-energy neighborhood	BedZED development in the United Kingdom	6	5	6	1	NULL	NULL	NULL	8	2	0.75
+zero-entry swimming pool chemical disinfectant	bromine	1	1	2	2	NULL	NULL	NULL	710	204	0.0007042253521126761
+zero-entry swimming pool chemical disinfectant	chlorine	1	1	2	2	NULL	NULL	NULL	3414	804	0.00014645577035735208
+zero-equation model	one-equation model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zero-equation model	mixing length model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zero-fault application	aircraft	1	1	1	1	NULL	NULL	NULL	1633	643	0.000612369871402327
+zero-g countermeasure	drug	1	1	1	1	NULL	NULL	NULL	5262	1715	0.00019004180919802356
+Zero-G Downloadable CDs available online	Funk Guitar	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+Zero-G Downloadable CDs available online	Total House	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+Zero-G Downloadable CDs available online	Deepest India	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+Zero-G Downloadable CDs available online	Jungle Warfare	1	1	6	6	1.000000000000	NULL	NULL	10	9	0.016666666666666666
+Zero-G Downloadable CDs available online	Chemical Beats	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+Zero-G Downloadable CDs available online	Planet of the Breaks	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+zero-gap semiconductor	HgTe	2	2	2	1	1.000000000000	NULL	NULL	7	6	0.2857142857142857
+zero-impact design	Riello Multi Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-inflated count regression model	zero-inflated Poisson	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+zero-inflated count regression model	zero-inflated negative binomial	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+zero-inflated model	zero-inflated negative binomial	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+zero-inflated model	two-part model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zero-inflated probability process	zero-inflated Poisson	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+zero-inflated probability process	zero-inflated negative binomial regression model	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zero-interest account	checking account	1	1	1	1	NULL	NULL	NULL	315	126	0.0031746031746031746
+zero-investment strategy	time-scheduled operation	3	2	9	3	1.000000000000	NULL	NULL	3	1	0.3333333333333333
+zero-investment strategy	thermostat control	3	2	9	3	1.000000000000	NULL	NULL	17	11	0.058823529411764705
+zero-investment strategy	night setback control	3	2	9	3	1.000000000000	NULL	NULL	3	1	0.3333333333333333
+zero-knowledge password protocol	SRP	1	1	1	1	1.000000000000	NULL	NULL	27	19	0.037037037037037035
+zero-length cross-linker formaldehyde	paraformaldehyde	1	1	1	1	NULL	NULL	NULL	47	33	0.02127659574468085
+zero-length datum structure	array	1	1	1	1	NULL	NULL	NULL	743	338	0.0013458950201884253
+zero-length feature	insertion site	2	2	2	1	NULL	NULL	NULL	6	4	0.3333333333333333
+zero-loudness curve	conventional Fletcher-Munson curve	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-one system	styrene	1	1	1	1	NULL	NULL	NULL	738	277	0.0013550135501355014
+zero-operand instruction	return from subroutine	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-oriented concept	zero tolerance for waste	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+zero-oriented concept	breakdown	1	1	3	3	NULL	NULL	NULL	147	95	0.0022675736961451248
+zero-oriented concept	defect	1	1	3	3	NULL	NULL	NULL	143	90	0.002331002331002331
+zero-player game	Conway's Game of Life	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+zero-point food	turnip	1	1	4	4	NULL	NULL	NULL	1793	438	0.00013943112102621306
+zero-point food	spinach	1	1	4	4	NULL	NULL	NULL	8593	1370	0.000029093448155475387
+zero-point food	beet	1	1	4	4	NULL	NULL	NULL	2219	557	0.00011266336187471834
+zero-point food	cucumber	1	1	4	4	NULL	NULL	NULL	3938	1031	0.00006348400203148806
+zero-pressure container	accordian bellow	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-price service	public library	1	1	2	2	NULL	NULL	NULL	389	185	0.0012853470437017994
+zero-price service	public school	1	1	2	2	NULL	NULL	NULL	342	188	0.0014619883040935672
+zero-priced service	business advice	1	1	2	2	1.000000000000	NULL	NULL	19	14	0.02631578947368421
+zero-priced service	commercial information	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+zero-radius-turning ground maintenance vehicle	ZRT riding mower	2	2	2	1	NULL	NULL	NULL	2	1	1
+zero-rate or reduced-rate area	administrative areas within the building	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-rate VAT item	book	1	1	2	2	0.500000000000	NULL	NULL	13029	3482	0.000038375930616317444
+zero-rate VAT item	childrens clothes	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+zero-rated good	book	2	1	4	3	0.333333333333	NULL	NULL	13029	3482	0.00007675186123263489
+zero-rated good	children's clothes	1	1	4	3	0.333333333333	NULL	NULL	33	19	0.007575757575757576
+zero-rated good	food	1	1	4	3	0.333333333333	NULL	NULL	18353	4439	0.000013621751212335857
+zero-rated item	food	5	5	18	8	0.500000000000	NULL	NULL	18353	4439	0.0000756763956240881
+zero-rated item	book	4	4	18	8	0.500000000000	NULL	NULL	13029	3482	0.000068223876651231
+zero-rated item	children's clothing	3	3	18	8	0.500000000000	NULL	NULL	99	49	0.005050505050505051
+zero-rated item	newspaper	2	2	18	8	0.500000000000	NULL	NULL	5708	1864	0.00003893171377404033
+zero-rated item	rail fare	1	1	18	8	0.500000000000	NULL	NULL	8	7	0.006944444444444444
+zero-rated item	children's clothes	1	1	18	8	0.500000000000	NULL	NULL	33	19	0.0016835016835016834
+zero-rated item	unframed map	1	1	18	8	0.500000000000	NULL	NULL	5	2	0.01111111111111111
+zero-rated item	children clothes	1	1	18	8	0.500000000000	NULL	NULL	2	7	0.027777777777777776
+zero-rated supply	prescription drug	2	2	5	4	0.333333333333	NULL	NULL	454	171	0.001762114537444934
+zero-rated supply	basic food	1	1	5	4	0.333333333333	NULL	NULL	27	21	0.007407407407407408
+zero-rated supply	basic grocery	1	1	5	4	0.333333333333	NULL	NULL	18	4	0.011111111111111112
+zero-rated supply	grocery	1	1	5	4	0.333333333333	NULL	NULL	1324	489	0.00015105740181268882
+zero-risk investment	savings account	1	1	2	2	NULL	NULL	NULL	551	210	0.0009074410163339383
+zero-risk investment	money market	1	1	2	2	NULL	NULL	NULL	201	107	0.0024875621890547263
+zero-risk statu tes	infamous Delaneyclauseof the Food	1	0	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+zero-risk statu tes	Cosmetic Act	1	0	3	3	0.500000000000	NULL	NULL	8	5	0.041666666666666664
+zero-risk statu tes	Drug	1	0	3	3	0.500000000000	NULL	NULL	5262	1715	0.00006334726973267451
+zero-runoff irrigation system	ebb-and-flow bench	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zero-runoff irrigation system	flood floor	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+zero-runoff irrigation system	trough	1	1	3	3	NULL	NULL	NULL	52	44	0.00641025641025641
+zero-sum activity	war	1	1	1	1	NULL	NULL	NULL	3625	1222	0.00027586206896551725
+zero-sum game	chess	6	6	28	17	0.333333333333	NULL	NULL	2480	629	0.0005184331797235022
+zero-sum game	checker	3	3	28	17	0.333333333333	NULL	NULL	697	175	0.00046116007378561174
+zero-sum game	poker	2	1	28	17	0.333333333333	NULL	NULL	1541	340	0.00009270418095856123
+zero-sum game	robot soccer	2	1	28	17	0.333333333333	NULL	NULL	7	6	0.02040816326530612
+zero-sum game	basketball	2	2	28	17	0.333333333333	NULL	NULL	10932	1509	0.000013067795724217237
+zero-sum game	baseball	2	2	28	17	0.333333333333	NULL	NULL	6093	1077	0.000023446109118191834
+zero-sum game	tic-tac-toe	2	1	28	17	0.333333333333	NULL	NULL	93	36	0.0015360983102918587
+zero-sum game	CTF	1	1	28	17	0.333333333333	NULL	NULL	54	36	0.0006613756613756613
+zero-sum game	two-player ``zero-sum'' game	1	1	28	17	0.333333333333	NULL	NULL	2	2	0.017857142857142856
+zero-sum game	simple competitive zero-sum game	1	1	28	17	0.333333333333	NULL	NULL	2	2	0.017857142857142856
+zero-sum game	trading	1	0	28	17	0.333333333333	NULL	NULL	385	212	0.00009276437847866419
+zero-sum game	perfect-information  zero-sum game	1	1	28	17	0.333333333333	NULL	NULL	2	2	0.017857142857142856
+zero-sum game	paper-rock-scissors	1	1	28	17	0.333333333333	NULL	NULL	2	2	0.017857142857142856
+zero-sum game	struggles for wealth	1	1	28	17	0.333333333333	NULL	NULL	1	1	0.03571428571428571
+zero-sum game	tennis	1	1	28	17	0.333333333333	NULL	NULL	8416	1354	0.000004243617599130907
+zero-sum game	politics	1	1	28	17	0.333333333333	NULL	NULL	3289	854	0.000010858706510880424
+zero-sum game market	option	1	1	2	2	NULL	NULL	NULL	1756	439	0.0002847380410022779
+zero-sum game market	future	1	1	2	2	NULL	NULL	NULL	1325	264	0.0003773584905660377
+zero-sum game strategy	massive price discounting	3	3	3	1	NULL	NULL	NULL	5	2	0.6
+zero-sum games	Risk	1	1	1	1	NULL	NULL	NULL	1122	401	0.00089126559714795
+zero-sum gaming strategy	massive price discounting	2	2	2	1	NULL	NULL	NULL	5	2	0.4
+zero-sum goal	falsity of a given proposition	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-sum issue	military dominance over territory	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-sum market	future	1	1	2	2	NULL	NULL	NULL	1325	264	0.0003773584905660377
+zero-sum market	option	1	1	2	2	NULL	NULL	NULL	1756	439	0.0002847380410022779
+zero-sum system	old TBC system	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-tannin white-flowered variety	Snowbird	1	1	1	1	1.000000000000	NULL	NULL	17	15	0.058823529411764705
+zero-taxed investor	pension fund	1	1	1	1	NULL	NULL	NULL	2003	558	0.0004992511233150275
+zero-tolerance advocate	Gerald Tirozzi	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-traffic-deaths proponent	Bernie Arseneau of Minnesota's Department of Transportation	1	1	1	1	NULL	NULL	NULL	1	1	1
+zero-unit course	field education	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zero-unit course	ESL	1	1	2	2	NULL	NULL	NULL	174	86	0.0028735632183908046
+zero-valence-state metal	metallic iron	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+zero-valent complex compound	palladium	1	1	1	1	NULL	NULL	NULL	1292	326	0.0007739938080495357
+zero-valent metal	zinc	1	1	4	4	NULL	NULL	NULL	8418	1394	0.000029698265621287717
+zero-valent metal	nanoscale zero-valent iron	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zero-valent metal	bulk iron	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zero-valent metal	iron	1	1	4	4	NULL	NULL	NULL	11941	2300	0.000020936269994137844
+zero-valent nickel complex	bisnickel	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zero-valent palladium reagent	tetrakis palladium	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+zero-valent palladium reagent	tetrakispalladium	2	2	4	2	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+zero-valentpalladium reagent	tetrakispalladium	1	0	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+zero-warning threat	ground-based laser	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+zeroth-order effect	splitting of shear-waves and-converted wave	1	1	1	1	NULL	NULL	NULL	1	1	1
+zerotree set-partitioning algorithm	SPIHT	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+zerotreewavelet coding algorithm	EZW	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+Zerovalent chromium	dibenzene chromium	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+Zerovalent chromium	dicumene chromium	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+Zerovalent chromium	ditoluene chromium	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+zerovalent compound	vanadium metal powder	2	2	2	1	NULL	NULL	NULL	2	1	1
+zerovalent pd compound	trisdipalladium	1	1	1	1	NULL	NULL	NULL	1	1	1
+zerovalent sulfur	elemental sulfur	1	1	1	1	0.500000000000	NULL	NULL	61	39	0.01639344262295082
+zerust product	cushioning film	1	1	1	1	NULL	NULL	NULL	1	1	1
+zese new unit	different chaos termies	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zese new unit	Khornate lieutenant	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zest	lemon zest	1	1	1	1	0.333333333333	NULL	NULL	30	17	0.03333333333333333
+zest factor	freedom from confining process	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zest factor	experimentation	1	1	2	2	NULL	NULL	NULL	96	58	0.005208333333333333
+zestful actress	Reese Witherspoon	1	1	1	1	NULL	NULL	NULL	225	65	0.0044444444444444444
+zestimate's parameter	square footage	1	1	1	1	NULL	NULL	NULL	239	85	0.0041841004184100415
+zesty addition	sweet	1	1	1	1	NULL	NULL	NULL	1666	628	0.0006002400960384153
+zesty and dry white wine	Soave	1	1	1	1	1.000000000000	NULL	NULL	35	26	0.02857142857142857
+zesty citrus note	lemon	1	1	2	2	NULL	NULL	NULL	4478	1053	0.00011165698972755694
+zesty citrus note	mandarin	1	1	2	2	NULL	NULL	NULL	613	212	0.0008156606851549756
+zesty color	organic green	1	1	5	5	0.333333333333	NULL	NULL	8	6	0.025
+zesty color	pink	1	1	5	5	0.333333333333	NULL	NULL	4262	1062	0.00004692632566870014
+zesty color	cerise pink	1	1	5	5	0.333333333333	NULL	NULL	6	5	0.03333333333333333
+zesty color	tangerine	1	1	5	5	0.333333333333	NULL	NULL	668	194	0.0002994011976047904
+zesty color	rich yellow	1	1	5	5	0.333333333333	NULL	NULL	4	3	0.05
+zesty condiment	caper	2	2	5	3	0.666666666666	NULL	NULL	141	83	0.005673758865248227
+zesty condiment	pickled cucumber	2	2	5	3	0.666666666666	NULL	NULL	13	14	0.06153846153846154
+zesty condiment	black olive	1	1	5	3	0.666666666666	NULL	NULL	122	60	0.001639344262295082
+zesty deli meat	salami	1	1	1	1	NULL	NULL	NULL	726	240	0.0013774104683195593
+zesty dish	pasta	1	1	2	2	NULL	NULL	NULL	7372	1634	0.00006782419967444384
+zesty dish	pesto	1	1	2	2	NULL	NULL	NULL	142	90	0.0035211267605633804
+zesty essential oil	orange	1	1	5	5	NULL	NULL	NULL	12312	2565	0.000016244314489928527
+zesty essential oil	lemon	1	1	5	5	NULL	NULL	NULL	4478	1053	0.00004466279589102278
+zesty essential oil	lime	1	1	5	5	NULL	NULL	NULL	2829	925	0.00007069635913750442
+zesty essential oil	grapefruit	1	1	5	5	NULL	NULL	NULL	2056	406	0.0000972762645914397
+zesty essential oil	peppermint	1	1	5	5	NULL	NULL	NULL	2214	516	0.0000903342366757001
+zesty fare	roast chicken marinated with lime	3	2	3	1	NULL	NULL	NULL	3	1	1
+zesty food	kalamata olive	1	1	1	1	1.000000000000	NULL	NULL	31	23	0.03225806451612903
+zesty fruit	passion fruit	1	1	3	3	NULL	NULL	NULL	336	137	0.000992063492063492
+zesty fruit	pineapple	1	1	3	3	NULL	NULL	NULL	3391	827	0.0000982994200334218
+zesty fruit	bold orange	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zesty fruit flavor	kiwi	1	1	3	3	0.333333333333	NULL	NULL	1146	299	0.00029086678301337986
+zesty fruit flavor	grapefruit	1	1	3	3	0.333333333333	NULL	NULL	2056	406	0.00016212710765239947
+zesty fruit flavor	honeydew melon	1	1	3	3	0.333333333333	NULL	NULL	59	23	0.005649717514124294
+zesty ingredient	tomato	1	1	6	6	0.250000000000	NULL	NULL	10378	2224	0.00001605961328451211
+zesty ingredient	lemon juice	1	1	6	6	0.250000000000	NULL	NULL	1124	357	0.00014827995255041517
+zesty ingredient	soy sauce	1	1	6	6	0.250000000000	NULL	NULL	892	258	0.00018684603886397606
+zesty ingredient	fried garlic	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+zesty ingredient	arugula with balsamic	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+zesty ingredient	Dijon mustard	1	1	6	6	0.250000000000	NULL	NULL	34	20	0.004901960784313725
+zesty Mexican side dish	Chipotle Corn Salad	1	1	1	1	NULL	NULL	NULL	1	1	1
+zesty option	broccoli ni bitashi	1	1	1	1	NULL	NULL	NULL	1	1	1
+zesty recipe	Spicy Soy Chili	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zesty recipe	Bananas Foster French Toast	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+zesty red	Corvo Rosso	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zesty red	Neirano Barbera d'asti	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zesty red wine	Bardolino	1	1	1	1	1.000000000000	NULL	NULL	18	13	0.05555555555555555
+zesty salad	larb ped of shredded duck with lime	1	1	1	1	NULL	NULL	NULL	1	1	1
+zesty sauce	marinara	1	1	1	1	1.000000000000	NULL	NULL	59	27	0.01694915254237288
+zesty spice	black pepper	1	1	3	3	NULL	NULL	NULL	723	208	0.0004610419548178884
+zesty spice	red pepper	1	1	3	3	NULL	NULL	NULL	399	164	0.000835421888053467
+zesty spice	chili powder	1	1	3	3	NULL	NULL	NULL	258	80	0.0012919896640826872
+Zesty takeaways	madras	1	1	1	1	0.500000000000	NULL	NULL	85	46	0.011764705882352941
+zesty thai dish	stir-fried sea crab with black pepper sauce	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zesty thai dish	deep-fried sea bass with spicy mango salad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zesty white	riesling	1	1	1	1	NULL	NULL	NULL	548	184	0.0018248175182481751
+zesty wine	Italian primitivo	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+zesty wine	Sauvignon Blanc	1	1	3	3	0.500000000000	NULL	NULL	439	167	0.000759301442672741
+zesty wine	Australian shiraz	1	1	3	3	0.500000000000	NULL	NULL	21	16	0.015873015873015872
+zesty, medium-bodied red	grenache	1	1	2	2	NULL	NULL	NULL	134	66	0.0037313432835820895
+zesty, medium-bodied red	pinot noir	1	1	2	2	NULL	NULL	NULL	584	219	0.0008561643835616438
+zesty, refreshing dry white	young riesling	1	1	1	1	NULL	NULL	NULL	1	1	1
+zesty, robust food	grilled	1	1	3	3	0.500000000000	NULL	NULL	46	39	0.007246376811594202
+zesty, robust food	stewed meat	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+zesty, robust food	roasted	1	1	3	3	0.500000000000	NULL	NULL	55	33	0.006060606060606061
+zeta sister	Connie Forestner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeta sister	Jill McMillan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zetaclear ingredient	almond oil	1	1	1	1	0.500000000000	NULL	NULL	462	146	0.0021645021645021645
+zetaclear side effect	allergy	1	1	3	3	NULL	NULL	NULL	3153	803	0.0001057194206575748
+zetaclear side effect	dry mouth	1	1	3	3	NULL	NULL	NULL	1148	261	0.00029036004645760743
+zetaclear side effect	headache	1	1	3	3	NULL	NULL	NULL	11164	1934	0.000029857876507822763
+zetec option	central locking	1	1	4	4	NULL	NULL	NULL	86	47	0.0029069767441860465
+zetec option	sports trim	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zetec option	white dial	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+zetec option	power steering	1	1	4	4	NULL	NULL	NULL	451	162	0.0005543237250554324
+zethner cereal crop	rice	1	1	2	2	NULL	NULL	NULL	11473	2640	0.000043580580493332174
+zethner cereal crop	maize	1	1	2	2	NULL	NULL	NULL	3361	842	0.0001487652484379649
+zetros feature extreme luxury amenity	bathroom with heated marble floor	2	2	2	1	NULL	NULL	NULL	2	1	1
+zettagrid service	Small Business Server	1	0	1	1	1.000000000000	NULL	NULL	19	16	0.05263157894736842
+Zeuglodonts	Basilosaurus	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+zeuhl band	Koenjihyakkei	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zeuhl band	Magma	1	1	2	2	1.000000000000	NULL	NULL	34	28	0.014705882352941176
+zeuhl element	prominent bass line	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zeuhl element	operatic vocal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zexel part	Zexel AC Compressor	1	1	1	1	NULL	NULL	NULL	1	1	1

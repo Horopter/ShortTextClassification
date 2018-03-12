@@ -1,0 +1,1850 @@
+Ya	Beautiful Places	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ya	Healing over time from the stimpack	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ya author	great ya author	1	1	11	11	1.000000000000	NULL	NULL	2	2	0.045454545454545456
+YA author	Alexa Young	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+YA author	Scott Westerfeld	1	1	11	11	1.000000000000	NULL	NULL	6	4	0.015151515151515152
+YA author	John Green	1	1	11	11	1.000000000000	NULL	NULL	8	7	0.011363636363636364
+YA author	Libba Bray	1	1	11	11	1.000000000000	NULL	NULL	2	2	0.045454545454545456
+YA author	Natalie Babbitt	1	1	11	11	1.000000000000	NULL	NULL	4	4	0.022727272727272728
+YA author	Cecily von Ziegesar	1	1	11	11	1.000000000000	NULL	NULL	2	2	0.045454545454545456
+YA author	Carrie Ryan	1	1	11	11	1.000000000000	NULL	NULL	3	3	0.030303030303030304
+YA author	James Dashner	1	1	11	11	1.000000000000	NULL	NULL	3	3	0.030303030303030304
+YA author	Suzanne Collins	1	1	11	11	1.000000000000	NULL	NULL	5	5	0.01818181818181818
+YA author	Stephanie Perkins	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+YA book	Hunger Games trilogy	2	2	6	5	0.500000000000	NULL	NULL	7	4	0.09523809523809523
+YA book	Giver	1	1	6	5	0.500000000000	NULL	NULL	26	11	0.00641025641025641
+YA book	Harry Potter	1	1	6	5	0.500000000000	NULL	NULL	835	316	0.0001996007984031936
+YA book	Time Hunters	1	1	6	5	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+YA book	John Green's Looking for Alaska	1	1	6	5	0.500000000000	NULL	NULL	3	3	0.05555555555555555
+YA book series	Harry Potter	2	2	6	3	0.333333333333	NULL	NULL	835	316	0.0007984031936127744
+YA book series	Twilight	2	2	6	3	0.333333333333	NULL	NULL	271	136	0.0024600246002460025
+YA book series	Hunger Games	2	2	6	3	0.333333333333	NULL	NULL	50	21	0.013333333333333332
+YA classics	Hinton's The Outsiders	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+YA classics	Cormier's The Chocolate War	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+YA classics	Blume's Forever	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+YA great	13 Little Blue Envelopes by Maureen Johnson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+YA great	Abundance of Katherines by John Green	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+YA great	Forever by Judy Blume	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+ya novel	classic ya novel	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+YA novel	Buddha Boy	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+YA novel	Headlong	1	1	4	4	0.500000000000	NULL	NULL	5	5	0.05
+YA novel	Forbidden	1	1	4	4	0.500000000000	NULL	NULL	8	7	0.03125
+YA novelist	Courtney Summers	1	1	1	1	NULL	NULL	NULL	1	1	1
+YA saga	Immortals Series	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YA saga	House of Night Series	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+YA series	Ranger's Apprentice	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YA series	Inkheart trilogy	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+YA-SF series	James Patterson's Maximum Ride''	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaagas	aagneya	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaatra	kaashi	1	1	1	1	NULL	NULL	NULL	1	1	1
+yabanca group	Kinks	1	1	1	1	NULL	NULL	NULL	128	37	0.0078125
+yabbie-style pattern	Baited Breaths	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yabbie-style pattern	Clouser Minnows	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+yabbie-style pattern	various yabby imitation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yabbies	Boi Ling	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yabby meat	destructor	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yabby pattern	Berkley Bulky Hawg	1	1	1	1	NULL	NULL	NULL	1	1	1
+yabby-pattern lure	Deception Shrimp	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+YAC transgenic animal	VIP2 receptor null mice	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yacas object	atom	1	1	2	2	NULL	NULL	NULL	392	196	0.0012755102040816326
+Yacas object	list	1	1	2	2	NULL	NULL	NULL	1193	582	0.00041911148365465214
+yacht	Gallant Lady	4	4	68	63	0.586206896551	NULL	NULL	4	1	0.058823529411764705
+yacht	Bavaria	2	2	68	63	0.586206896551	NULL	NULL	121	52	0.0004861448711716091
+yacht	Delphine	2	2	68	63	0.586206896551	NULL	NULL	5	4	0.011764705882352941
+yacht	Endeavour	1	1	68	63	0.586206896551	NULL	NULL	10	8	0.0014705882352941176
+yacht	130 Victoria of Strathearn	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	32 Express	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	top quality yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Helios II	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Black Raven	1	1	68	63	0.586206896551	NULL	NULL	4	4	0.003676470588235294
+yacht	Bob Oatley's Wild Oats XI''	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Benetti	1	1	68	63	0.586206896551	NULL	NULL	8	7	0.001838235294117647
+yacht	Voortrekker II	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Sail NYC	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	regular sailing yacht	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	Rainbow II with Chris Bouzaid at the helm	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Pearson 424	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Parsifal III	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Maltese Falcon	1	1	68	63	0.586206896551	NULL	NULL	55	29	0.00026737967914438503
+yacht	Maior	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Little Jim	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	classic blue-water  sailing yacht	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	classic blue-water yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Thunderchild	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	35 metre Hamilton II	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Adela	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	Fidelis	1	1	68	63	0.586206896551	NULL	NULL	4	4	0.003676470588235294
+yacht	Dorade	1	1	68	63	0.586206896551	NULL	NULL	6	6	0.0024509803921568627
+yacht	crewed sailing yacht	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	Neptunus	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	Viking Yachts	1	1	68	63	0.586206896551	NULL	NULL	3	3	0.004901960784313725
+yacht	Riviera Convertible	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Grady-White Boats	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	great sailing yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	catamaran	1	1	68	63	0.586206896551	NULL	NULL	134	82	0.00010974539069359087
+yacht	Carl Scriber's Suraya	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Bayliner	1	1	68	63	0.586206896551	NULL	NULL	22	16	0.0006684491978609625
+yacht	LGB	1	1	68	63	0.586206896551	NULL	NULL	11	10	0.001336898395721925
+yacht	large motor yacht	1	1	68	63	0.586206896551	NULL	NULL	3	2	0.004901960784313725
+yacht	Fascination of Power	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	America's Cup racing yacht	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	Cruisers	1	1	68	63	0.586206896551	NULL	NULL	9	9	0.0016339869281045752
+yacht	USS Hilo	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	mega yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Princess Luxury Cruiser	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Oceanis 323	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Perini Navi's Antara	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Sealine	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Windrose	1	1	68	63	0.586206896551	NULL	NULL	4	4	0.003676470588235294
+yacht	large classic yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Ariki	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	cabin cruiser	1	1	68	63	0.586206896551	NULL	NULL	18	10	0.0008169934640522876
+yacht	Cerano De Bergarac	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	typically larger yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Velsheda	1	1	68	63	0.586206896551	NULL	NULL	3	3	0.004901960784313725
+yacht	Sunseeker 40M	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Soling	1	1	68	63	0.586206896551	NULL	NULL	7	7	0.0021008403361344537
+yacht	Alfa Romeos	1	1	68	63	0.586206896551	NULL	NULL	7	7	0.0021008403361344537
+yacht	Nick Lutte's DK46 Shockwave	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Ocean Alexander	1	1	68	63	0.586206896551	NULL	NULL	2	2	0.007352941176470588
+yacht	pretty expensive yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	regular handicap yacht	1	1	68	63	0.586206896551	NULL	NULL	1	1	0.014705882352941176
+yacht	Wild Oats XI	1	1	68	63	0.586206896551	NULL	NULL	4	4	0.003676470588235294
+yacht	Waitangi	1	1	68	63	0.586206896551	NULL	NULL	8	6	0.001838235294117647
+yacht attitude information	roll	1	1	3	3	0.666666666666	NULL	NULL	662	341	0.0005035246727089627
+yacht attitude information	yaw	1	1	3	3	0.666666666666	NULL	NULL	52	34	0.00641025641025641
+yacht attitude information	heave	1	1	3	3	0.666666666666	NULL	NULL	17	13	0.0196078431372549
+yacht brand	Bayliner	1	1	8	8	0.833333333333	NULL	NULL	22	16	0.005681818181818182
+yacht brand	CNB	1	1	8	8	0.833333333333	NULL	NULL	9	9	0.013888888888888888
+yacht brand	Ferretti	1	1	8	8	0.833333333333	NULL	NULL	14	12	0.008928571428571428
+yacht brand	Azimut	1	1	8	8	0.833333333333	NULL	NULL	20	18	0.00625
+yacht brand	Lagoon	1	1	8	8	0.833333333333	NULL	NULL	299	190	0.0004180602006688963
+yacht brand	Sea Ray	1	1	8	8	0.833333333333	NULL	NULL	68	26	0.001838235294117647
+yacht brand	Nautor's Swan	1	1	8	8	0.833333333333	NULL	NULL	1	1	0.125
+yacht brand	popular yacht brand	1	1	8	8	0.833333333333	NULL	NULL	2	2	0.0625
+yacht builder	Sunseeker	1	1	3	3	1.000000000000	NULL	NULL	20	15	0.016666666666666666
+yacht builder	Bavaria Yachtbau	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yacht builder	Fairline	1	1	3	3	1.000000000000	NULL	NULL	13	9	0.02564102564102564
+yacht charter agency	International Yachts Collection	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht charter center	Sibenik	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+yacht charter hot spot	Dubrovnik	1	1	3	3	0.666666666666	NULL	NULL	92	47	0.003623188405797101
+yacht charter hot spot	Rovinj	1	1	3	3	0.666666666666	NULL	NULL	27	19	0.012345679012345678
+yacht charter hot spot	Rijeka	1	1	3	3	0.666666666666	NULL	NULL	23	13	0.014492753623188404
+yacht charter service	shower	1	1	4	4	NULL	NULL	NULL	1742	602	0.00014351320321469576
+yacht charter service	restroom	1	1	4	4	NULL	NULL	NULL	847	311	0.00029515938606847696
+yacht charter service	laundry	1	1	4	4	NULL	NULL	NULL	3193	875	0.00007829627309740057
+yacht charter service	ice bag	1	1	4	4	NULL	NULL	NULL	44	31	0.005681818181818182
+yacht charter type	economy yacht	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yacht charter type	motor yacht	1	1	3	3	1.000000000000	NULL	NULL	13	13	0.02564102564102564
+yacht charter type	group booking yacht	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yacht charter vacation	Alaska cruise	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+yacht club	Albert Park	1	1	13	13	1.000000000000	NULL	NULL	29	20	0.0026525198938992045
+yacht club	urban yacht club	1	1	13	13	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+yacht club	Florida Yacht Club	1	1	13	13	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+yacht club	key yacht club	1	1	13	13	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+yacht club	Cowes	1	1	13	13	1.000000000000	NULL	NULL	15	12	0.005128205128205128
+yacht club	Epping Forest	1	1	13	13	1.000000000000	NULL	NULL	17	13	0.004524886877828055
+yacht club	ultra-exclusive yacht club	1	1	13	13	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+yacht club	St. Francis Yacht Club in San Francisco	1	1	13	13	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+yacht club	Lysterfield	1	1	13	13	1.000000000000	NULL	NULL	2	2	0.038461538461538464
+yacht club	McRae	1	1	13	13	1.000000000000	NULL	NULL	9	9	0.008547008547008548
+yacht club	RYA in UK	1	1	13	13	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+yacht club	Bird Key Yacth Club	1	1	13	13	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+yacht club	New York Yacht Club	1	1	13	13	1.000000000000	NULL	NULL	1	1	0.07692307692307693
+yacht club image	SanMar's Port Authority	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht club member	Richard Lauric	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht company	Pearl Motor Yachts	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht crew	former Stew Genia Nowicki	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht design book	Understanding Boat Design	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht designer	George Buehler	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yacht designer	Charles Nicholson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yacht designer	Ted Brewer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yacht furnishings	entertainment center	1	1	3	3	NULL	NULL	NULL	218	125	0.0015290519877675841
+yacht furnishings	cabinet	1	1	3	3	NULL	NULL	NULL	1455	623	0.0002290950744558992
+yacht furnishings	table	1	1	3	3	NULL	NULL	NULL	6328	2130	0.00005267593763168984
+yacht haven's established tradition	Pimms bar	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+yacht house	yacht house at Scow Island	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht maker	french yacht maker	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yacht manufacturer	leading yacht manufacturer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yacht manufacturer	Sunseeker yacht	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yacht marina	Monaco	1	1	1	1	NULL	NULL	NULL	274	112	0.0036496350364963502
+yacht owner	Sun Microsystems founder Bill Joy	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yacht race	large yacht race	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+yacht race	America's Cup	1	1	4	4	1.000000000000	NULL	NULL	18	14	0.013888888888888888
+yacht race	America Cup	1	1	4	4	1.000000000000	NULL	NULL	1	3	0.25
+yacht race	famous yacht race	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+yacht racing	modern yacht racing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yacht racing instrument manufacturer	Brookes & Gatehouse	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht related offer	Yacht Boat	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yacht s	hovercraft	1	1	1	1	1.000000000000	NULL	NULL	39	30	0.02564102564102564
+yacht service	docking	2	2	7	5	0.666666666666	NULL	NULL	91	67	0.006279434850863422
+yacht service	removing yachts from the water	2	2	7	5	0.666666666666	NULL	NULL	2	1	0.2857142857142857
+yacht service	yacht insurance	1	1	7	5	0.666666666666	NULL	NULL	2	2	0.07142857142857142
+yacht service	maintenance	1	1	7	5	0.666666666666	NULL	NULL	4873	1506	0.00002931605640409252
+yacht service	dry dock	1	1	7	5	0.666666666666	NULL	NULL	9	8	0.015873015873015872
+yacht service provider	Brewer Yacht Yards in the United States	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yacht smen	Francis Chichester	1	1	1	1	NULL	NULL	NULL	12	4	0.08333333333333333
+yacht transporter	Dockwise	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yacht type	sailing yacht	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+yacht type	extravagant luxury yacht	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yacht's operational expense	fuel	2	2	2	1	NULL	NULL	NULL	3530	1145	0.0005665722379603399
+yacht-like ship	Pegasus	1	1	1	1	NULL	NULL	NULL	130	99	0.007692307692307693
+yacht-like system	standard bow	1	1	1	1	NULL	NULL	NULL	1	1	1
+yacht-management company	Northrop & Johnson	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yacht-type ship	Seabourn Pride	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yachtbuilder website	Benetti	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+yachting accessory	outboard motor cover	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yachting accessory	binnacle cover	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yachting accessory	wheel	1	1	3	3	NULL	NULL	NULL	1479	630	0.00022537750732476897
+yachting agency	Blue Water	1	1	3	3	1.000000000000	NULL	NULL	14	11	0.023809523809523808
+yachting agency	Luxury Yachts	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+yachting agency	Peter Insull	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yachting center	Admiralty Bay in Bequia	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yachting center	Key West	1	1	4	4	NULL	NULL	NULL	109	52	0.0022935779816513763
+yachting center	Annapolis	1	1	4	4	NULL	NULL	NULL	66	29	0.003787878787878788
+yachting center	Union Island's Clifton Harbour	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yachting centre	Dartmouth	1	1	1	1	NULL	NULL	NULL	226	89	0.004424778761061947
+yachting establishment	marina	1	1	1	1	0.500000000000	NULL	NULL	478	274	0.0020920502092050207
+yachting event	upcoming King's Cup Regatta in Thailand	1	1	1	1	NULL	NULL	NULL	1	1	1
+yachting haven	Caribbean	1	1	1	1	NULL	NULL	NULL	729	249	0.0013717421124828531
+Yachting heroes	Simon Gundry	2	2	7	4	NULL	NULL	NULL	2	1	0.2857142857142857
+Yachting heroes	Kevin Shoebridge	2	2	7	4	NULL	NULL	NULL	2	1	0.2857142857142857
+Yachting heroes	Grant Dalton	2	2	7	4	NULL	NULL	NULL	6	5	0.09523809523809523
+Yachting heroes	Glen Sowry	1	1	7	4	NULL	NULL	NULL	1	1	0.14285714285714285
+yachting identity	Genevieve White	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yachting identity	Geoffrey Megga Bascombe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yachting legend	Grant Dalton	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+yachting lesson	team work	1	1	3	3	NULL	NULL	NULL	492	187	0.0006775067750677507
+yachting lesson	endurance	1	1	3	3	NULL	NULL	NULL	446	215	0.0007473841554559043
+yachting lesson	time management	1	1	3	3	NULL	NULL	NULL	1723	499	0.0001934610176049526
+yachting magazine	Practical Boat Owner	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+yachting magazine	Yachting Monthly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yachting port	St. Martin	1	1	1	1	1.000000000000	NULL	NULL	31	18	0.03225806451612903
+yachting qualification	Coastal Skipper	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yachting supply store	West Marine	1	1	1	1	1.000000000000	NULL	NULL	60	30	0.016666666666666666
+yachtsman	Francis Chichester	9	3	13	5	NULL	NULL	NULL	12	4	0.5192307692307693
+yachtsman	Doug Gilling	1	1	13	5	NULL	NULL	NULL	1	1	0.07692307692307693
+yachtsman	Hugh Treharne	1	1	13	5	NULL	NULL	NULL	1	1	0.07692307692307693
+yachtsman	Pod O'Donnell	1	1	13	5	NULL	NULL	NULL	1	1	0.07692307692307693
+yachtsman	Ron Swanson	1	1	13	5	NULL	NULL	NULL	1	1	0.07692307692307693
+yackandandah festival favorite	Jim Macquarie	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yackandandah festival favorite	Bruce Watson	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yacon-derived product	yacon tea	1	1	1	1	NULL	NULL	NULL	1	1	1
+YACs	Russell Humphreys	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+YACs	Leonard Brand	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yad vashem's ongoing training program	Seventh International Conference on Holocaust Education	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+yad's event	Blue Monday	1	1	3	3	1.000000000000	NULL	NULL	10	9	0.03333333333333333
+yad's event	Club Fed	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+yad's event	Latke Ball	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yadan area	Loulan	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yaddthat traditional system	bucket wheel	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yadisksimmodels various component	main memory	1	1	3	3	0.500000000000	NULL	NULL	34	21	0.00980392156862745
+yadisksimmodels various component	flash memory	1	1	3	3	0.500000000000	NULL	NULL	594	246	0.0005611672278338944
+yadisksimmodels various component	hard disk storage	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+yadjustmentstoinco	anI RAd eduction	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yadnyas	Gayatri Yadnya	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaesu radio	FT-415	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yaesu radio	FT-530	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yaesu radio	FT-76	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yaesu radio	FT-26	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yaesu rig	FT-1000MP	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaffy offer specialist product	Nomex & Kermel Public Order Overalls with Gore Riotliners	1	1	1	1	NULL	NULL	NULL	1	1	1
+YAG laser light source	Log-E machine by Log-E-Tronics	1	1	1	1	NULL	NULL	NULL	1	1	1
+yag laser technology	Cutera Genesis Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+yagas	Garudachayana	2	2	2	1	NULL	NULL	NULL	2	1	1
+yage herb	divinorum	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yage herb	salvia	1	1	7	7	NULL	NULL	NULL	231	114	0.0006184291898577612
+yage herb	zacatechichi dream herb	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yage herb	calea	1	1	7	7	NULL	NULL	NULL	4	3	0.03571428571428571
+yage herb	sinicuichi	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yage herb	trichocereus pachanoi san pedro cactus	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yage herb	psychotria viridis chacruna	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yage-related datum	destination	1	1	3	3	0.500000000000	NULL	NULL	319	134	0.001044932079414838
+yage-related datum	ship's draft	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+yage-related datum	hazardous cargo	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+yagis	5 el	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yagnas	Ashwamedha	1	1	2	2	1.000000000000	NULL	NULL	9	4	0.05555555555555555
+Yagnas	Rajasuya	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+yagura ruin	Gosankai Yagura	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yagyas	Bagalamukhi	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+Yagyas	Ashvamedha	1	1	5	5	1.000000000000	NULL	NULL	5	4	0.04
+Yagyas	Chandi	1	1	5	5	1.000000000000	NULL	NULL	6	5	0.03333333333333333
+Yagyas	Putrakameshti	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+Yagyas	Rajasuya	1	1	5	5	1.000000000000	NULL	NULL	8	7	0.025
+yah	pog	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yahoo	Principals Committee	1	1	1	1	NULL	NULL	NULL	1	1	1
+yahoo account	yahoo mail	1	1	4	4	NULL	NULL	NULL	311	162	0.0008038585209003215
+yahoo account	rocketmail.com	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yahoo account	yahoo messenger	1	1	4	4	NULL	NULL	NULL	436	147	0.0005733944954128441
+yahoo account	ymail.com	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+yahoo application	answer	1	1	2	2	NULL	NULL	NULL	123	82	0.0040650406504065045
+yahoo application	mail	1	1	2	2	NULL	NULL	NULL	1285	538	0.0003891050583657588
+yahoo area	forum	1	1	2	2	NULL	NULL	NULL	2019	808	0.00024764735017335313
+yahoo area	groups outside Flickr	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo client	yazaak	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo client	yahelite	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yahoo client program	yazak	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo client program	ymlite	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo content source	Yahoo Health	1	1	1	2	NULL	NULL	NULL	3	2	0.3333333333333333
+yahoo daily new environmental regulation	Euro 5	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+yahoo daily new famous comet	Halley	1	1	2	2	1.000000000000	NULL	NULL	16	12	0.03125
+yahoo daily new famous comet	Hale-Bopp	1	1	2	2	1.000000000000	NULL	NULL	18	9	0.027777777777777776
+yahoo daily new internet giant	Facebook	1	1	1	1	NULL	NULL	NULL	29637	3798	0.00003374160677531464
+yahoo daily new leading enterprise	AARP	1	1	1	1	NULL	NULL	NULL	496	157	0.0020161290322580645
+yahoo daily new medium outlet	Reuters	1	1	1	1	NULL	NULL	NULL	715	289	0.0013986013986013986
+yahoo daily new moderate exercise	walking	1	1	1	1	NULL	NULL	NULL	13109	2473	0.00007628346937218705
+yahoo daily new NYC photographer	Gregory Allen Deese	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+yahoo daily new petty graft	tax evasion	1	1	2	2	NULL	NULL	NULL	163	85	0.003067484662576687
+yahoo daily new petty graft	demands for bribe	1	1	2	2	NULL	NULL	NULL	5	2	0.1
+yahoo daily new site	Wikipedia	1	1	1	1	NULL	NULL	NULL	1844	607	0.0005422993492407809
+yahoo datum communication service	e-mail	1	1	1	1	NULL	NULL	NULL	4959	1772	0.00020165355918531962
+yahoo domain	yahoo.com	1	1	1	1	NULL	NULL	NULL	287	137	0.003484320557491289
+yahoo feature	Calendar	2	2	8	7	0.400000000000	NULL	NULL	4173	1466	0.00011981787682722263
+yahoo feature	Finance	2	2	8	7	0.400000000000	NULL	NULL	7520	2058	0.00006648936170212766
+yahoo feature	Yahoo Mail	2	2	8	7	0.400000000000	NULL	NULL	311	162	0.001607717041800643
+yahoo feature	tool bar	1	1	8	7	0.400000000000	NULL	NULL	35	27	0.0035714285714285713
+yahoo feature	web radio	1	1	8	7	0.400000000000	NULL	NULL	18	16	0.006944444444444444
+yahoo function	weather forecast	1	1	2	2	0.500000000000	NULL	NULL	261	122	0.0019157088122605363
+yahoo function	news feed	1	1	2	2	0.500000000000	NULL	NULL	48	27	0.010416666666666666
+yahoo game	pool room	1	1	5	5	0.400000000000	NULL	NULL	14	11	0.014285714285714287
+yahoo game	Gin	1	1	5	5	0.400000000000	NULL	NULL	481	146	0.0004158004158004158
+yahoo game	Bridge	1	1	5	5	0.400000000000	NULL	NULL	5081	2007	0.0000393623302499508
+yahoo game	Pool	1	1	5	5	0.400000000000	NULL	NULL	3504	1006	0.00005707762557077626
+yahoo game	canasta	1	1	5	5	0.400000000000	NULL	NULL	63	24	0.0031746031746031746
+yahoo game play online game	Deuces Wild	1	1	9	9	0.444444444444	NULL	NULL	36	18	0.0030864197530864196
+yahoo game play online game	cribbage	1	1	9	9	0.444444444444	NULL	NULL	141	41	0.0007880220646178092
+yahoo game play online game	bridge	1	1	9	9	0.444444444444	NULL	NULL	5081	2007	0.000021867961249972665
+yahoo game play online game	gin	1	1	9	9	0.444444444444	NULL	NULL	481	146	0.000231000231000231
+yahoo game play online game	Free Cell	1	1	9	9	0.444444444444	NULL	NULL	11	8	0.0101010101010101
+yahoo game play online game	blackjack	1	1	9	9	0.444444444444	NULL	NULL	2336	424	0.00004756468797564688
+yahoo game play online game	canasta	1	1	9	9	0.444444444444	NULL	NULL	63	24	0.001763668430335097
+yahoo game play online game	euchre	1	1	9	9	0.444444444444	NULL	NULL	86	31	0.0012919896640826872
+yahoo game play online game	solitaire	1	1	9	9	0.444444444444	NULL	NULL	275	110	0.00040404040404040404
+yahoo group	ayurvedaonline	2	2	20	19	1.000000000000	NULL	NULL	2	1	0.1
+yahoo group	chelatingkids2	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	DTLA Kids	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Tunnel Lodge Group	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Discussing NT	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Americans in Panama	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Americans Against NAIS	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	APV	1	1	20	19	1.000000000000	NULL	NULL	14	11	0.0035714285714285718
+yahoo group	free sperm donor	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	GrouplyImprovements group	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Rabbit Classifieds	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Vintage Asian Motorcycles	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Yamaha Owners	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	autisminfo	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Show Bunny List	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Charlotte Mason with a Twist	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Gender Mosaic	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	Hire top talent	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo group	search for Holland Lop breeders online	1	1	20	19	1.000000000000	NULL	NULL	1	1	0.05
+yahoo icon	Home	1	1	3	3	NULL	NULL	NULL	3273	1179	0.00010184336490477645
+yahoo icon	Page	1	1	3	3	NULL	NULL	NULL	261	176	0.0012771392081736908
+yahoo icon	Print	1	1	3	3	NULL	NULL	NULL	1806	782	0.00018456995201181247
+yahoo investor	Eric Jackson	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+yahoo list	Hank's list	1	1	1	1	NULL	NULL	NULL	1	1	1
+yahoo mail button	Delete	2	1	4	2	0.666666666666	NULL	NULL	138	72	0.007246376811594203
+yahoo mail button	Compose	2	1	4	2	0.666666666666	NULL	NULL	12	8	0.08333333333333333
+yahoo messenger	official yahoo messenger	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yahoo page	sport	1	1	2	2	NULL	NULL	NULL	7765	2042	0.0000643915003219575
+yahoo page	new	1	1	2	2	NULL	NULL	NULL	1979	778	0.00025265285497726126
+yahoo page search	traffic los angeles	1	1	1	1	NULL	NULL	NULL	1	1	1
+yahoo partner publisher	New York Times	1	1	1	1	NULL	NULL	NULL	3073	727	0.0003254149040026033
+yahoo product	Yahoo Groups	1	1	2	2	0.500000000000	NULL	NULL	33	31	0.015151515151515152
+yahoo product	Yahoo Answers	1	1	2	2	0.500000000000	NULL	NULL	112	43	0.004464285714285714
+yahoo program	booters	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo program	Yahoo toolbar for IE	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo property	Yahoo sport	1	1	1	1	NULL	NULL	NULL	11	7	0.09090909090909091
+yahoo r elated service	Yahoo Mail	1	1	1	1	NULL	NULL	NULL	311	162	0.003215434083601286
+yahoo service	Yahoo Mail	2	2	17	17	0.250000000000	NULL	NULL	311	162	0.0007565727255532438
+yahoo service	email	2	2	17	17	0.250000000000	NULL	NULL	8680	2858	0.000027107617240444564
+yahoo service	address book	1	1	17	17	0.250000000000	NULL	NULL	555	278	0.00010598834128245893
+yahoo service	online game	1	1	17	17	0.250000000000	NULL	NULL	202	129	0.00029120559114735004
+yahoo service	Music	1	1	17	17	0.250000000000	NULL	NULL	14153	3857	0.000004156258702166658
+yahoo service	Finance	1	1	17	17	0.250000000000	NULL	NULL	7520	2058	0.000007822277847309136
+yahoo service	Weather	1	1	17	17	0.250000000000	NULL	NULL	6139	1357	0.000009581939959564214
+yahoo service	photo	1	1	17	17	0.250000000000	NULL	NULL	4315	1298	0.000013632335900756594
+yahoo service	homepage	1	1	17	17	0.250000000000	NULL	NULL	59	40	0.0009970089730807576
+yahoo service	Flickr	1	1	17	17	0.250000000000	NULL	NULL	2328	648	0.000025267839094400645
+yahoo service	Yahoo Finance	1	1	17	17	0.250000000000	NULL	NULL	86	38	0.0006839945280437756
+yahoo service	yahoo group	1	1	17	17	0.250000000000	NULL	NULL	37	28	0.0015898251192368838
+yahoo service	maillist	1	1	17	17	0.250000000000	NULL	NULL	1	1	0.058823529411764705
+yahoo service	Calendar	1	1	17	17	0.250000000000	NULL	NULL	4173	1466	0.000014096220803202662
+yahoo service	Yahoo sport	1	1	17	17	0.250000000000	NULL	NULL	11	7	0.0053475935828877
+yahoo shareholder	Eric Jackson	2	2	4	3	0.500000000000	NULL	NULL	9	8	0.1111111111111111
+yahoo shareholder	activist investment firm in Naples	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+yahoo shareholder	Fla.	1	1	4	3	0.500000000000	NULL	NULL	175	75	0.0014285714285714286
+yahoo site	mail	1	1	1	1	NULL	NULL	NULL	1285	538	0.0007782101167315176
+yahoo social property	Flickr	1	1	1	1	0.333333333333	NULL	NULL	2328	648	0.000429553264604811
+yahoo user-centric property	Flickr	1	1	2	2	NULL	NULL	NULL	2328	648	0.0002147766323024055
+yahoo user-centric property	del.icio.us Yahoo Answers Network	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yahoo variable	Name	1	1	3	3	NULL	NULL	NULL	13911	2278	0.000023961852730453116
+yahoo variable	low	1	1	3	3	NULL	NULL	NULL	388	237	0.000859106529209622
+yahoo variable	52-week high	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Yahoo web page	Yahoo Answers	1	1	1	1	NULL	NULL	NULL	112	43	0.008928571428571428
+yahoo's advertiser	PepsiCo Inc.	1	1	2	2	1.000000000000	NULL	NULL	26	12	0.019230769230769232
+yahoo's advertiser	State Farm Insurance Cos.	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yahoo's branded property	OMG	2	2	2	1	1.000000000000	NULL	NULL	60	29	0.03333333333333333
+yahoo's broadband partner	BT	2	2	2	1	NULL	NULL	NULL	1007	358	0.0019860973187686196
+yahoo's display ad	video	2	2	4	2	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+yahoo's display ad	banner	2	2	4	2	NULL	NULL	NULL	1989	924	0.0005027652086475615
+yahoo's flagship property	Yahoo Local	1	1	3	3	1.000000000000	NULL	NULL	41	29	0.008130081300813007
+yahoo's flagship property	Y Music	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yahoo's flagship property	Yahoo Photos	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+yahoo's free service	Yahoo group	1	1	2	2	0.500000000000	NULL	NULL	37	28	0.013513513513513514
+yahoo's free service	Yahoo mail	1	1	2	2	0.500000000000	NULL	NULL	311	162	0.001607717041800643
+yahoo's in-channel search	movie	1	1	1	1	NULL	NULL	NULL	4206	1513	0.00023775558725630053
+yahoo's recent development	Search Monkey	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yahoo's service	LAUNCHcast Music	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+yahoo's service	Yahoo Local	1	1	6	6	0.666666666666	NULL	NULL	41	29	0.004065040650406504
+yahoo's service	Yahoo blogs	1	1	6	6	0.666666666666	NULL	NULL	2	2	0.08333333333333333
+yahoo's service	Yahoo Groups	1	1	6	6	0.666666666666	NULL	NULL	33	31	0.00505050505050505
+yahoo's service	Yahoo Messenger	1	1	6	6	0.666666666666	NULL	NULL	436	147	0.00038226299694189603
+yahoo's service	Yahoo Photos	1	1	6	6	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+yahoo's usual audience targeting capability	Zip code	1	1	3	3	NULL	NULL	NULL	688	210	0.00048449612403100775
+yahoo's usual audience targeting capability	time of day	1	1	3	3	NULL	NULL	NULL	1086	262	0.0003069367710251688
+yahoo's usual audience targeting capability	gender	1	1	3	3	NULL	NULL	NULL	16818	2908	0.000019820034090458636
+yahoo-owned online service	Flickr	1	1	2	2	0.500000000000	NULL	NULL	2328	648	0.0002147766323024055
+yahoo-owned online service	Yahoo News	1	1	2	2	0.500000000000	NULL	NULL	32	27	0.015625
+yahoo.com parent support group	Listen-Up email listserve	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yahrtzeits	Rachel Imenu	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Yahrtzeits	Ari Hakadosh	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Yahrtzeits	Amuka	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+Yahrtzeits	Shala Hakadosh	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Yahrtzeits	Rebbe Meir Bal Haness	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yahtzee item	dice cup	1	1	2	2	NULL	NULL	NULL	1	2	0.5
+yahtzee item	chip	1	1	2	2	NULL	NULL	NULL	2396	808	0.00020868113522537563
+yahweh cult	David Koresh in Waco	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+yahweh cult	Jim Jones	2	2	4	2	1.000000000000	NULL	NULL	87	49	0.011494252873563218
+yahweh talented rapper	Jae Hood	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yahweh talented rapper	Maino	1	1	2	2	1.000000000000	NULL	NULL	15	6	0.03333333333333333
+yahwist prophet	Elijah	1	1	1	1	NULL	NULL	NULL	214	82	0.004672897196261682
+Yai	kho kwang	1	1	1	1	NULL	NULL	NULL	1	1	1
+yai's contemporary	former Vice-Chancellor of Obafemi Awolowo University	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yai's contemporary	Ile Ife	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Yajnas	Gayatri Yajna	2	2	8	6	0.333333333333	NULL	NULL	2	1	0.25
+Yajnas	Vishnu Yajna	2	2	8	6	0.333333333333	NULL	NULL	2	1	0.25
+Yajnas	Rajasuya	1	1	8	6	0.333333333333	NULL	NULL	8	7	0.015625
+Yajnas	Putrakameshti	1	1	8	6	0.333333333333	NULL	NULL	2	2	0.0625
+Yajnas	Ashvamedha	1	1	8	6	0.333333333333	NULL	NULL	5	4	0.025
+yajnas	obscenely ostentatious yajnas	1	1	8	6	0.333333333333	NULL	NULL	1	1	0.125
+yak wool product	glove	1	1	3	3	NULL	NULL	NULL	4008	1201	0.00008316699933466401
+yak wool product	hat	1	1	3	3	NULL	NULL	NULL	4593	1302	0.00007257420712678713
+yak wool product	scarf	1	1	3	3	NULL	NULL	NULL	2821	751	0.00011816140848398913
+yaka group	Ngombe	1	1	1	1	NULL	NULL	NULL	1	1	1
+yakama business enterprise	Wheeler Logging	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+yakama business enterprise	Mistletoe Logging	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+yaki	dorayaki	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yaki texture	deep wave	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+yaki texture	body wave	1	1	3	3	1.000000000000	NULL	NULL	25	17	0.013333333333333332
+yaki texture	loose wave	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+yakima city council member	John Puccinelli	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakima city council member	Mary Place	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakima county location	Tieton	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+yakima county location	Yakama Nation	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+yakima part	crossbar	1	1	2	2	1.000000000000	NULL	NULL	31	24	0.016129032258064516
+yakima part	bike tray	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yakima river basin investigation	Watershed Management Plan for the Yakima River Basin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakima river basin investigation	Yakima River Basin Water Enhancement Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakima valley brewery	Yakima Craft Brewery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakima valley brewery	Snipes Mountain	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakimono	tsukune with poached egg	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Yakiniku restaurant	Seoul	1	1	1	1	NULL	NULL	NULL	342	91	0.0029239766081871343
+yakisoba	electronic signature law instant yakisoba	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yakitori item	beef tongue	1	1	5	5	0.500000000000	NULL	NULL	24	19	0.008333333333333333
+yakitori item	pork belly	1	1	5	5	0.500000000000	NULL	NULL	72	40	0.002777777777777778
+yakitori item	Chicken wing	1	1	5	5	0.500000000000	NULL	NULL	264	150	0.0007575757575757576
+yakitori item	sausage	1	1	5	5	0.500000000000	NULL	NULL	2572	731	0.00007776049766718508
+yakitori item	gizzard	1	1	5	5	0.500000000000	NULL	NULL	26	14	0.007692307692307693
+yakko warner science	engineering	1	1	2	2	NULL	NULL	NULL	5664	1535	0.00008827683615819209
+yakko warner science	physic	1	1	2	2	NULL	NULL	NULL	2703	613	0.0001849796522382538
+yakshagana artiste	Kumble Sridhar Rao	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+yakshagana artiste	Nellikatte Narayana Hasyagara	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+yakshagana artiste	Manjeshwar Janardhana Jogi	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+yakshagana artiste	Balipa Narayana Bhagavatha	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+yakshagana artiste	Palli Srinivasa Hegde	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+yakshagana artiste	Venkatesh Rao Jalavalli	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+Yakshagana melas	Saligrama	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Yakshagana melas	Idagunji	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yakuza boss	Yoshio Kodama	1	1	1	1	NULL	NULL	NULL	1	1	1
+yala production area	Polonnaruwa	1	1	2	2	1.000000000000	NULL	NULL	28	21	0.017857142857142856
+yala production area	Ampara	1	1	2	2	1.000000000000	NULL	NULL	11	6	0.045454545454545456
+yale administrative office	Budget Office	1	1	2	2	0.666666666666	NULL	NULL	9	9	0.05555555555555555
+yale administrative office	Human Resources	1	1	2	2	0.666666666666	NULL	NULL	156	245	0.003205128205128205
+yale alumnus	Boni Horn	1	1	1	1	NULL	NULL	NULL	1	1	1
+yale building	Center for British Art	1	1	1	1	NULL	NULL	NULL	1	1	1
+yale club benefit	discount	1	1	1	1	NULL	NULL	NULL	906	363	0.0011037527593818985
+yale cultural group	Movimiento Estudiantil Chicano de Aztlan	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+yale department	divinity school	1	1	4	4	0.333333333333	NULL	NULL	3	3	0.08333333333333333
+yale department	political science	1	1	4	4	0.333333333333	NULL	NULL	722	159	0.00034626038781163435
+yale department	art school	1	1	4	4	0.333333333333	NULL	NULL	33	25	0.007575757575757576
+yale department	library	1	1	4	4	0.333333333333	NULL	NULL	6833	2108	0.00003658715059271184
+yale faculty member	law professor Peter Schuck	3	2	3	1	NULL	NULL	NULL	3	1	1
+yale law school fellowship	Liman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yale law school fellowship	YLS Public Interest Fellowships	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yale law school fellowship	Heyman	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+yale musical event	opera Master class	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yale musical event	Yale Russian Chorus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yale official	Michael Morand	1	1	1	1	NULL	NULL	NULL	1	1	1
+yale organization	Yale Science Magazine	1	1	1	1	NULL	NULL	NULL	1	1	1
+yale science department	electrical engineering	1	1	3	3	NULL	NULL	NULL	245	101	0.0013605442176870747
+yale science department	mathematics	1	1	3	3	NULL	NULL	NULL	3159	796	0.00010551862403714255
+yale science department	astronomy	1	1	3	3	NULL	NULL	NULL	946	265	0.0003523608174770965
+yale venue	Woolsey Hall	1	1	1	1	NULL	NULL	NULL	1	1	1
+yale's distinguished professor	Josiah Willard Gibbs	2	2	3	2	1.000000000000	NULL	NULL	6	2	0.2222222222222222
+yale's distinguished professor	Irving Palo Alto Va Phone Number	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+yale's investment type	private equity	1	1	1	1	NULL	NULL	NULL	531	196	0.0018832391713747645
+yale's peer	Harvard	1	1	2	2	NULL	NULL	NULL	2040	544	0.00024509803921568627
+yale's peer	Columbia	1	1	2	2	NULL	NULL	NULL	1145	374	0.0004366812227074236
+yali student	Qiu xun	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yali student	Tang Qinan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yali student	Wan fei	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+YALP tool	10-minute system	1	1	1	1	NULL	NULL	NULL	1	1	1
+YALSA member blogs	Booklist's Bookends	1	1	1	1	NULL	NULL	NULL	1	1	1
+yalso cover service	tow ing	2	1	2	1	NULL	NULL	NULL	2	1	1
+yam	D. alata	2	1	5	4	NULL	NULL	NULL	6	4	0.13333333333333333
+yam	ba l tji	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+yam	sweet potato	1	1	5	4	NULL	NULL	NULL	2558	814	0.00007818608287724786
+yam	Dioscorea bulbifera	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+yam crop	diascorea	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yam crop	sweet potato	1	1	5	5	NULL	NULL	NULL	2558	814	0.00007818608287724786
+yam crop	cassava	1	1	5	5	NULL	NULL	NULL	1112	315	0.00017985611510791367
+yam crop	king yam	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yam crop	elephant food yam	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+yam processing system	knitting yam feeding device	1	1	1	1	NULL	NULL	NULL	1	1	1
+yama rule	ahimsa	1	1	1	1	1.000000000000	NULL	NULL	34	16	0.029411764705882353
+yama-budo product	juice	1	1	3	3	NULL	NULL	NULL	2975	876	0.00011204481792717086
+yama-budo product	jam	1	1	3	3	NULL	NULL	NULL	1338	530	0.00024912805181863477
+yama-budo product	wine	1	1	3	3	NULL	NULL	NULL	3790	1190	0.00008795074758135444
+yamaguchi-gumi s important yakuza war	Yama-Ichi War	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaguchi-gumi s important yakuza war	Osaka War	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaha accessory	power adaptor	1	1	1	1	1.000000000000	NULL	NULL	27	22	0.037037037037037035
+yamaha blaster part	cover	3	2	9	3	0.500000000000	NULL	NULL	734	361	0.0013623978201634877
+yamaha blaster part	dress-up part	3	2	9	3	0.500000000000	NULL	NULL	3	1	0.3333333333333333
+yamaha blaster part	repair kit	3	2	9	3	0.500000000000	NULL	NULL	48	24	0.020833333333333332
+yamaha competitor	Honda	1	1	1	1	NULL	NULL	NULL	2841	812	0.00035198873636043646
+yamaha dealer site	port yamaha	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yamaha digital keyboard	Clavinova	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Yamaha digital piano	Clavinova	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yamaha digital signal processor	DME series Digital Mixing Engines	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaha digital signal processor	new DME Satellite	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Yamaha electronic piano	Clavinova	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yamaha enduro brand	DT	1	1	3	3	0.571428571428	NULL	NULL	47	29	0.0070921985815602835
+yamaha enduro brand	GT	1	1	3	3	0.571428571428	NULL	NULL	86	55	0.003875968992248062
+yamaha enduro brand	HT	1	1	3	3	0.571428571428	NULL	NULL	19	18	0.017543859649122806
+yamaha guitar	Compass Caribbean Acoustic Guitar	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamaha high end kit	Absolutes	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yamaha jet ski	Yamaha VX110	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yamaha jet ski	Yamaha Wave Runner FX HO	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yamaha jet ski	Sea doo GTI	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+yamaha marine product	inflatable	1	1	3	3	0.500000000000	NULL	NULL	99	61	0.003367003367003367
+yamaha marine product	outboard	1	1	3	3	0.500000000000	NULL	NULL	17	14	0.0196078431372549
+yamaha marine product	Wave runers	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yamaha model	Yamaha R6	1	1	3	3	0.600000000000	NULL	NULL	12	7	0.027777777777777776
+yamaha model	R1	1	1	3	3	0.600000000000	NULL	NULL	39	26	0.008547008547008546
+yamaha model	Yamaha R1	1	1	3	3	0.600000000000	NULL	NULL	15	8	0.02222222222222222
+yamaha motorcycle part	improved performance muffler	2	2	7	7	NULL	NULL	NULL	3	2	0.19047619047619047
+yamaha motorcycle part	carburetor	1	1	7	7	NULL	NULL	NULL	165	82	0.0008658008658008658
+yamaha motorcycle part	brake	1	1	7	7	NULL	NULL	NULL	1680	597	0.00008503401360544217
+yamaha motorcycle part	engine	1	1	7	7	NULL	NULL	NULL	2149	764	0.00006647610184138802
+yamaha motorcycle part	clutch	1	1	7	7	NULL	NULL	NULL	780	245	0.00018315018315018315
+yamaha motorcycle part	frame	1	1	7	7	NULL	NULL	NULL	1466	688	0.00009744689144416293
+yamaha musical instrument	effect	1	1	9	9	0.222222222222	NULL	NULL	419	180	0.00026518164942985947
+yamaha musical instrument	saxophone	1	1	9	9	0.222222222222	NULL	NULL	396	98	0.0002805836139169472
+yamaha musical instrument	bass guitar	1	1	9	9	0.222222222222	NULL	NULL	122	43	0.0009107468123861566
+yamaha musical instrument	drum	1	1	9	9	0.222222222222	NULL	NULL	1733	552	0.00006411489388985061
+yamaha musical instrument	Yamaha keyboard	1	1	9	9	0.222222222222	NULL	NULL	2	2	0.05555555555555555
+yamaha musical instrument	digital piano	1	1	9	9	0.222222222222	NULL	NULL	28	17	0.003968253968253968
+yamaha musical instrument	speaker	1	1	9	9	0.222222222222	NULL	NULL	1706	596	0.00006512960791976031
+yamaha musical instrument	recorder	1	1	9	9	0.222222222222	NULL	NULL	411	190	0.0002703433360367667
+yamaha musical instrument	monitor	1	1	9	9	0.222222222222	NULL	NULL	1940	652	0.0000572737686139748
+yamaha need	Yamaha C1	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yamaha need	Yamaha C3	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+yamaha need	Yamaha U1	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+yamaha need	Yamaha U3	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yamaha power adapter	PA-5	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamaha power adapter	PA-3	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamaha power adapter	PA-6	1	1	3	3	NULL	NULL	NULL	6	5	0.05555555555555555
+yamaha press cds covering rider	Carlos Checa	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+yamaha pro model	Xeno	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+Yamaha Raptor ATVs	Yamaha Raptor 250R	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Yamaha Raptor ATVs	Outlander	1	1	2	2	1.000000000000	NULL	NULL	13	13	0.038461538461538464
+yamaha representative	Yamaha Monster Energy Ricci MX Team's Nico Aubin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaha representative	Utag Yamaha.com's Mel Pocock	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaha rhino power steering modification	taller tire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaha rhino power steering modification	aftermarket wheel	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+Yamaha rompler	S30	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+yamaha sample	string	1	1	1	1	NULL	NULL	NULL	2015	807	0.0004962779156327543
+yamaha scooter	Majesty	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+Yamaha software	voice editing software	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamaha special effect	handset vibration	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamaha sport bike model	FJR1300	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Yamaha synths	SY77	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Yamaha synths	DX7	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+yamaha tuner	T-80	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Yamaha XG MIDI SoftSynthesizers	discontinued S-YXG50	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamaha's advanced exclusive technology	Adaptive Dynamic Range Control	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+yamaha's advanced exclusive technology	CINEMA DSP	3	3	6	2	NULL	NULL	NULL	4	2	0.375
+yamaha's big scooter	250cc Majesty	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yamaha's big scooter	500cc TMAX	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yamaha's initiative	Safe riding science workshop	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yamaha's initiative	Yamaha Fiesta	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Yamaha's monitor speaker	Yamaha NS10M	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamaha's new model	Super Tenere Adventure-tourer	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamaha's new model	Star Stryker cruiser	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamaha's new model	FZ8 naked bike	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamaha's performance enhancing feature	Smart Throttle	2	2	5	3	NULL	NULL	NULL	3	2	0.26666666666666666
+yamaha's performance enhancing feature	Inverter Technology	2	2	5	3	NULL	NULL	NULL	3	2	0.26666666666666666
+yamaha's performance enhancing feature	Noise Block	1	1	5	3	NULL	NULL	NULL	2	2	0.1
+yamaha's performance oriented vehicle	R15	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+yamaha's top model	R15	3	3	6	2	1.000000000000	NULL	NULL	11	8	0.13636363636363635
+yamaha's top model	FZ series	3	3	6	2	1.000000000000	NULL	NULL	6	3	0.25
+yamahas	Artist model C	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamahas new model	FZ8 naked bike	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamahas new model	Star Stryker cruiser	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamahas new model	Super Tenere Adventure-tourer	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yamashita brand	cuttlefish Jack Smith	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamato cast member	Toshihiro Yashiba in Densha Otoko	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamato PVC figure	Air Gear Noyama Ringo	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamato-e masterpiece	wall paintings at Byodoin Temple	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamok master carver	Jack Bai	1	1	1	1	NULL	NULL	NULL	1	1	1
+yamolhasitsurban creature	dog	1	1	2	2	NULL	NULL	NULL	7516	1309	0.00006652474720596061
+yamolhasitsurban creature	bat	1	1	2	2	NULL	NULL	NULL	1946	517	0.00025693730729701953
+yampa valley town	Craig	1	1	3	3	NULL	NULL	NULL	56	41	0.005952380952380952
+yampa valley town	Steamboat Springs	1	1	3	3	NULL	NULL	NULL	45	30	0.007407407407407407
+yampa valley town	Hayden	1	1	3	3	NULL	NULL	NULL	61	34	0.00546448087431694
+yams	garnet yam	2	2	2	1	0.333333333333	NULL	NULL	2	1	1
+yanas	Vajrayana	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+yanas	Mahayana	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+yanbian's urban center	Yanji	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yandere-themed fan Vocaloids	Taito	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+yandere-themed fan Vocaloids	Juon Kiku	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yang activity	watching TV	1	1	2	2	NULL	NULL	NULL	489	187	0.0010224948875255625
+yang activity	athletics	1	1	2	2	NULL	NULL	NULL	1396	380	0.00035816618911174784
+yang area	scalp	1	1	2	2	NULL	NULL	NULL	167	59	0.0029940119760479044
+yang area	neck	1	1	2	2	NULL	NULL	NULL	1160	422	0.0004310344827586207
+yang color	Red	2	2	5	3	NULL	NULL	NULL	9245	2185	0.00008653326122228232
+yang color	orange	2	2	5	3	NULL	NULL	NULL	12312	2565	0.00006497725795971411
+yang color	yellow	1	1	5	3	NULL	NULL	NULL	5611	1380	0.000035644270183567996
+yang concept	God	1	1	4	4	NULL	NULL	NULL	769	345	0.00032509752925877764
+yang concept	freedom	1	1	4	4	NULL	NULL	NULL	1484	472	0.00016846361185983828
+yang concept	capitalism	1	1	4	4	NULL	NULL	NULL	313	154	0.0007987220447284345
+yang concept	Ten Commandments of Moses	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yang element	bright color	2	2	3	2	1.000000000000	NULL	NULL	93	63	0.014336917562724014
+yang element	live plant	1	1	3	2	1.000000000000	NULL	NULL	23	20	0.014492753623188404
+yang energy food	mutton	1	1	1	1	NULL	NULL	NULL	175	87	0.005714285714285714
+yang food	salt	3	3	29	21	0.157894736842	NULL	NULL	6145	1390	0.000050503633455851407
+yang food	meat	3	3	29	21	0.157894736842	NULL	NULL	9410	1886	0.00003298032174136099
+yang food	cheese	2	2	29	21	0.157894736842	NULL	NULL	9373	2034	0.000014715783045210564
+yang food	egg	2	2	29	21	0.157894736842	NULL	NULL	9254	1960	0.000014905017774233696
+yang food	animal protein	2	2	29	21	0.157894736842	NULL	NULL	75	45	0.0018390804597701149
+yang food	fish	2	2	29	21	0.157894736842	NULL	NULL	12757	2977	0.000010812184250431812
+yang food	healthy fat	1	1	29	21	0.157894736842	NULL	NULL	40	26	0.0008620689655172414
+yang food	bean	1	1	29	21	0.157894736842	NULL	NULL	8901	1912	0.000003874031976259932
+yang food	beef	1	1	29	21	0.157894736842	NULL	NULL	3913	1020	0.000008812358451492373
+yang food	red meat	1	1	29	21	0.157894736842	NULL	NULL	1318	290	0.000026162942807807022
+yang food	pigs foot	1	1	29	21	0.157894736842	NULL	NULL	14	12	0.0024630541871921183
+yang food	garlic	1	1	29	21	0.157894736842	NULL	NULL	6018	1376	0.0000057299366269009064
+yang food	ginger	1	1	29	21	0.157894736842	NULL	NULL	3867	984	0.000008917186092756569
+yang food	chicken	1	1	29	21	0.157894736842	NULL	NULL	8933	2087	0.000003860154328970072
+yang food	pepper	1	1	29	21	0.157894736842	NULL	NULL	4612	1166	0.000007476747315847714
+yang food	spicy food	1	1	29	21	0.157894736842	NULL	NULL	369	126	0.00009344921035417251
+yang food	eggs vinegar	1	1	29	21	0.157894736842	NULL	NULL	1	1	0.034482758620689655
+yang food	dairy product	1	1	29	21	0.157894736842	NULL	NULL	2120	517	0.000016265452179570593
+yang food	lentil	1	1	29	21	0.157894736842	NULL	NULL	2437	561	0.00001414967526495267
+yang food	fried food	1	1	29	21	0.157894736842	NULL	NULL	600	211	0.00005747126436781609
+yang food	avoiding cold liquid	1	1	29	21	0.157894736842	NULL	NULL	1	1	0.034482758620689655
+yang herb	Thyme	1	1	3	3	NULL	NULL	NULL	2813	593	0.00011849745230477543
+yang herb	Fenugreek	1	1	3	3	NULL	NULL	NULL	564	147	0.000591016548463357
+yang herb	Horseradish	1	1	3	3	NULL	NULL	NULL	279	110	0.0011947431302270011
+yang material	stone	1	1	1	1	NULL	NULL	NULL	4509	1342	0.00022177866489243733
+yang motion	Jom Sau	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yang motion	Boang Sau	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yang organ	Stomach	2	2	6	4	0.500000000000	NULL	NULL	859	256	0.0007760962359332557
+yang organ	Large Intestine	2	2	6	4	0.500000000000	NULL	NULL	33	20	0.0202020202020202
+yang organ	gall bladder	1	1	6	4	0.500000000000	NULL	NULL	67	36	0.0024875621890547263
+yang organ	small intestine	1	1	6	4	0.500000000000	NULL	NULL	98	37	0.0017006802721088435
+Yang penting kena active lifestyle	sport	1	1	1	1	NULL	NULL	NULL	7765	2042	0.000128783000643915
+yang qiu surface	frost	1	1	1	1	NULL	NULL	NULL	386	191	0.0025906735751295338
+yang quality	light	1	1	8	8	NULL	NULL	NULL	6435	2121	0.000019425019425019425
+yang quality	logic	1	1	8	8	NULL	NULL	NULL	782	380	0.00015984654731457802
+yang quality	resistance	1	1	8	8	NULL	NULL	NULL	652	310	0.00019171779141104295
+yang quality	rationality	1	1	8	8	NULL	NULL	NULL	146	79	0.0008561643835616438
+yang quality	separation	1	1	8	8	NULL	NULL	NULL	593	303	0.00021079258010118043
+yang quality	action	1	1	8	8	NULL	NULL	NULL	704	305	0.0001775568181818182
+yang quality	individuality	1	1	8	8	NULL	NULL	NULL	131	62	0.0009541984732824427
+yang quality	reason	1	1	8	8	NULL	NULL	NULL	332	166	0.00037650602409638556
+yang spice	black pepper	1	1	4	4	NULL	NULL	NULL	723	208	0.00034578146611341634
+yang spice	garlic	1	1	4	4	NULL	NULL	NULL	6018	1376	0.00004154204054503157
+yang spice	ginger	1	1	4	4	NULL	NULL	NULL	3867	984	0.00006464959917248513
+yang spice	clove	1	1	4	4	NULL	NULL	NULL	1577	372	0.0001585288522511097
+yang style form	Yang Chen Fu Form	1	1	1	1	NULL	NULL	NULL	1	1	1
+yang tonic herb	Deer Antler	2	2	4	3	1.000000000000	NULL	NULL	39	28	0.02564102564102564
+yang tonic herb	cinnamon bark	1	1	4	3	1.000000000000	NULL	NULL	51	26	0.004901960784313725
+yang tonic herb	prepared aconite	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+YANG type	swimming	1	1	1	1	NULL	NULL	NULL	15629	2556	0.00006398362019323054
+Yang type meat	beef	1	1	1	1	NULL	NULL	NULL	3913	1020	0.0002555583950932788
+Yang water	fountain	1	1	1	1	NULL	NULL	NULL	1526	553	0.000655307994757536
+YANG work	politics	1	1	1	1	NULL	NULL	NULL	3289	854	0.0003040437823046519
+yang, active taoist practice	Chi Kung	1	1	1	1	1.000000000000	NULL	NULL	42	27	0.023809523809523808
+yang-reinforcing food	finless eel	1	1	1	1	NULL	NULL	NULL	1	1	1
+yangfeihuoxue fruit	pear	1	1	4	4	NULL	NULL	NULL	3815	883	0.0000655307994757536
+yangfeihuoxue fruit	cucumber	1	1	4	4	NULL	NULL	NULL	3938	1031	0.00006348400203148806
+yangfeihuoxue fruit	corn	1	1	4	4	NULL	NULL	NULL	11029	2454	0.000022667512920482365
+yangfeihuoxue fruit	tomato	1	1	4	4	NULL	NULL	NULL	10378	2224	0.000024089419926768162
+yangmengandung food ingredient	chili	1	1	1	1	NULL	NULL	NULL	1107	448	0.0009033423667570009
+yangming channel point	Zusanli ST-36	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+yangming channel point	Futu ST-32	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yangon's larger hotel	Traders	1	1	3	3	0.500000000000	NULL	NULL	6	6	0.05555555555555555
+yangon's larger hotel	Sedona	1	1	3	3	0.500000000000	NULL	NULL	71	44	0.004694835680751174
+yangon's larger hotel	Centrepoint Towers	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yangtze delta city	Suzhou	1	1	4	4	0.666666666666	NULL	NULL	116	48	0.0021551724137931034
+yangtze delta city	Kunshan	1	1	4	4	0.666666666666	NULL	NULL	7	6	0.03571428571428571
+yangtze delta city	Huzhou	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+yangtze delta city	Wuxi	1	1	4	4	0.666666666666	NULL	NULL	37	15	0.006756756756756757
+yangtze river delta city	Shanghai	2	2	4	3	NULL	NULL	NULL	2096	455	0.00047709923664122136
+yangtze river delta city	Nanjing in Jiangsu province	1	1	4	3	NULL	NULL	NULL	2	2	0.125
+yangtze river delta city	Hangzhou	1	1	4	3	NULL	NULL	NULL	199	73	0.001256281407035176
+yangzi river water town	Tongli	5	4	7	2	1.000000000000	NULL	NULL	9	3	0.39682539682539686
+yangzi river water town	Zhouzhuang	2	2	7	2	1.000000000000	NULL	NULL	10	7	0.05714285714285714
+yaninsider	company executive	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+yanji hotel	Youdian hotel	1	1	1	1	NULL	NULL	NULL	1	1	1
+yank	Calvin Klein	1	1	4	4	0.250000000000	NULL	NULL	1232	359	0.00020292207792207794
+yank	JP Dellacamera	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+yank	Dave O'Brien	1	1	4	4	0.250000000000	NULL	NULL	2	2	0.125
+yank	Michael Kors	1	1	4	4	0.250000000000	NULL	NULL	377	130	0.000663129973474801
+yank many advantage	abundant resource	1	1	4	4	0.200000000000	NULL	NULL	5	5	0.05
+yank many advantage	political system	1	1	4	4	0.200000000000	NULL	NULL	108	47	0.0023148148148148147
+yank many advantage	population	1	1	4	4	0.200000000000	NULL	NULL	1588	562	0.00015743073047858942
+yank many advantage	agriculture	1	1	4	4	0.200000000000	NULL	NULL	6485	1582	0.00003855050115651503
+yankee all-time category	hit	1	1	3	3	0.333333333333	NULL	NULL	131	72	0.0025445292620865138
+yankee all-time category	HR	1	1	3	3	0.333333333333	NULL	NULL	868	411	0.00038402457757296467
+yankee all-time category	RBI	1	1	3	3	0.333333333333	NULL	NULL	47	33	0.0070921985815602835
+yankee entrepreneur	William Butler Ogden	1	1	1	1	NULL	NULL	NULL	1	1	1
+yankee food	cake	1	1	3	3	NULL	NULL	NULL	4260	1150	0.00007824726134585289
+yankee food	pie	1	1	3	3	NULL	NULL	NULL	1329	484	0.00025081514923501377
+yankee food	sauce	1	1	3	3	NULL	NULL	NULL	1135	411	0.0002936857562408223
+Yankee Ftars	Chase ami Ford	1	1	1	1	NULL	NULL	NULL	1	1	1
+yankee giant	Babe Ruth	2	2	7	5	0.500000000000	NULL	NULL	236	104	0.0024213075060532684
+yankee giant	Lou Gehrig	2	2	7	5	0.500000000000	NULL	NULL	68	37	0.008403361344537815
+yankee giant	Bob Meusel	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+yankee giant	Earle Combs	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+yankee giant	Tony Lazzeri	1	1	7	5	0.500000000000	NULL	NULL	3	3	0.047619047619047616
+yankee great	Mickey Mantle	2	2	18	17	0.500000000000	NULL	NULL	123	50	0.0018066847335140017
+yankee great	Derek Jeter	1	1	18	17	0.500000000000	NULL	NULL	142	63	0.00039123630672926443
+yankee great	Yogi Berra	1	1	18	17	0.500000000000	NULL	NULL	52	30	0.0010683760683760683
+yankee great	outfielder Bob Meusel	1	1	18	17	0.500000000000	NULL	NULL	2	2	0.027777777777777776
+yankee great	Babe Ruth	1	1	18	17	0.500000000000	NULL	NULL	236	104	0.00023540489642184556
+yankee great	Mariano Rivera	1	1	18	17	0.500000000000	NULL	NULL	38	17	0.0014619883040935672
+yankee great	Tino Martinez	1	1	18	17	0.500000000000	NULL	NULL	6	6	0.009259259259259259
+yankee great	all-time yankee great	1	1	18	17	0.500000000000	NULL	NULL	2	2	0.027777777777777776
+yankee great	DiMaggio	1	1	18	17	0.500000000000	NULL	NULL	13	12	0.004273504273504273
+yankee great	pitcher Waite Hoyt	1	1	18	17	0.500000000000	NULL	NULL	2	2	0.027777777777777776
+yankee great	Jorge Posada	1	1	18	17	0.500000000000	NULL	NULL	28	11	0.001984126984126984
+yankee great	Mantle	1	1	18	17	0.500000000000	NULL	NULL	90	54	0.0006172839506172839
+yankee great	Paul O'Neill	1	1	18	17	0.500000000000	NULL	NULL	7	6	0.007936507936507936
+yankee great	second baseman Tony Lazzeri	1	1	18	17	0.500000000000	NULL	NULL	2	2	0.027777777777777776
+yankee great	Andy Petitte	1	1	18	17	0.500000000000	NULL	NULL	2	2	0.027777777777777776
+yankee great	Joe DiMaggio	1	1	18	17	0.500000000000	NULL	NULL	103	52	0.0005393743257820927
+yankee great	Ruth	1	1	18	17	0.500000000000	NULL	NULL	132	68	0.00042087542087542086
+Yankee hater	Mr Mackay	1	1	1	1	NULL	NULL	NULL	1	1	1
+yankee hotspot	New York City	1	1	2	2	NULL	NULL	NULL	1868	470	0.0002676659528907923
+yankee hotspot	Washington	1	1	2	2	NULL	NULL	NULL	4211	716	0.00011873664212776063
+yankee legend	Yogi Berra	1	1	2	2	1.000000000000	NULL	NULL	52	30	0.009615384615384616
+yankee legend	great yankee legend	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+yankee metropolitan town	Los Angeles	1	1	2	2	NULL	NULL	NULL	4589	886	0.00010895619960775768
+yankee metropolitan town	New York	1	1	2	2	NULL	NULL	NULL	13310	1915	0.00003756574004507889
+Yankee personnel	trainer Gene Monahan	1	1	1	1	NULL	NULL	NULL	1	1	1
+yankee player	A-Rod	1	1	13	13	0.750000000000	NULL	NULL	33	25	0.002331002331002331
+yankee player	Jorge Posada	1	1	13	13	0.750000000000	NULL	NULL	28	11	0.0027472527472527475
+yankee player	Sanders	1	1	13	13	0.750000000000	NULL	NULL	35	23	0.002197802197802198
+yankee player	Jeter	1	1	13	13	0.750000000000	NULL	NULL	24	11	0.0032051282051282055
+yankee player	Alex Rodriguez	1	1	13	13	0.750000000000	NULL	NULL	153	64	0.0005027652086475616
+yankee player	Andy Pettitte	1	1	13	13	0.750000000000	NULL	NULL	22	12	0.0034965034965034965
+yankee player	Bobby Abreu	1	1	13	13	0.750000000000	NULL	NULL	27	17	0.002849002849002849
+yankee player	Mendoza	1	1	13	13	0.750000000000	NULL	NULL	37	18	0.002079002079002079
+yankee player	legendary new york yankee player	1	1	13	13	0.750000000000	NULL	NULL	2	2	0.038461538461538464
+yankee player	Hideki Matsui	1	1	13	13	0.750000000000	NULL	NULL	20	10	0.0038461538461538464
+yankee player	Derek Jeter	1	1	13	13	0.750000000000	NULL	NULL	142	63	0.0005417118093174432
+yankee player	Melky Cabrera	1	1	13	13	0.750000000000	NULL	NULL	9	8	0.008547008547008548
+yankee player	Mattingly	1	1	13	13	0.750000000000	NULL	NULL	12	10	0.006410256410256411
+yankee product	lumber	1	1	3	3	NULL	NULL	NULL	1284	427	0.00025960539979231567
+yankee product	fish	1	1	3	3	NULL	NULL	NULL	12757	2977	0.000026129445271876875
+yankee product	rope	1	1	3	3	NULL	NULL	NULL	1379	516	0.000241721053903795
+yankee prospect	Eric Milton	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+yankee prospect	Ted Lilly	1	1	5	5	1.000000000000	NULL	NULL	11	8	0.018181818181818184
+yankee prospect	Jake Westbrook	1	1	5	5	1.000000000000	NULL	NULL	8	6	0.025
+yankee prospect	Brandon Claussen	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+yankee prospect	Zach Day	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+yankee scent duplication	Autumn Wreath	1	1	1	1	0.500000000000	NULL	NULL	3	3	0.3333333333333333
+yankee spa with treatment	caviar essence care	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yankee spa with treatment	breast lift	1	1	2	2	NULL	NULL	NULL	175	57	0.002857142857142857
+yankee stalwart	Bobby Richardson	1	1	3	3	0.750000000000	NULL	NULL	4	4	0.08333333333333333
+yankee stalwart	Mickey Mantle	1	1	3	3	0.750000000000	NULL	NULL	123	50	0.0027100271002710027
+yankee stalwart	Whitey Ford	1	1	3	3	0.750000000000	NULL	NULL	34	18	0.00980392156862745
+yankee star	Jorge Posada	1	1	4	4	0.666666666666	NULL	NULL	28	11	0.008928571428571428
+yankee star	Derek Jeter	1	1	4	4	0.666666666666	NULL	NULL	142	63	0.0017605633802816902
+yankee star	Reggie Jackson	1	1	4	4	0.666666666666	NULL	NULL	47	28	0.005319148936170213
+yankee star	opposing players like Kevin Millar of the Toronto Blue Jays	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+yankee touch	glass doorknob	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+Yankees	Denny Neagle	1	1	16	16	0.846153846153	NULL	NULL	2	2	0.03125
+Yankees	Derek Jeter	1	1	16	16	0.846153846153	NULL	NULL	142	63	0.00044014084507042255
+Yankees	William Ripley	1	1	16	16	0.846153846153	NULL	NULL	1	1	0.0625
+Yankees	Nick Johnson	1	1	16	16	0.846153846153	NULL	NULL	15	12	0.004166666666666667
+Yankees	General Francis Walker	1	1	16	16	0.846153846153	NULL	NULL	1	1	0.0625
+Yankees	Charles Davenport	1	1	16	16	0.846153846153	NULL	NULL	7	6	0.008928571428571428
+Yankees	central Indiana	1	1	16	16	0.846153846153	NULL	NULL	5	5	0.0125
+Yankees	Joba Chamberlain	1	1	16	16	0.846153846153	NULL	NULL	11	10	0.005681818181818182
+Yankees	Lou Pinella	1	1	16	16	0.846153846153	NULL	NULL	4	4	0.015625
+Yankees	Randy Velarde	1	1	16	16	0.846153846153	NULL	NULL	1	1	0.0625
+Yankees	reliever David Robertson	1	1	16	16	0.846153846153	NULL	NULL	1	1	0.0625
+Yankees	shortstop Derek Jeter	1	1	16	16	0.846153846153	NULL	NULL	4	3	0.015625
+Yankees	outfielder Nick Swisher	1	1	16	16	0.846153846153	NULL	NULL	2	2	0.03125
+Yankees	outfielder Juan Rivera	1	1	16	16	0.846153846153	NULL	NULL	1	1	0.0625
+Yankees	Cynthia Baird	1	1	16	16	0.846153846153	NULL	NULL	1	1	0.0625
+Yankees	A-Rod	1	1	16	16	0.846153846153	NULL	NULL	33	25	0.001893939393939394
+yankees alumnus	distinguished yankees alumnus	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yankees great	Gehrig	1	1	6	6	0.333333333333	NULL	NULL	15	10	0.01111111111111111
+yankees great	Mantle	1	1	6	6	0.333333333333	NULL	NULL	90	54	0.0018518518518518517
+yankees great	second baseman Tony Lazzeri	1	1	6	6	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+yankees great	Ruth	1	1	6	6	0.333333333333	NULL	NULL	132	68	0.0012626262626262625
+yankees great	pitcher Waite Hoyt	1	1	6	6	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+yankees great	outfielder Bob Meusel	1	1	6	6	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+yankees legend	Reggie Jackson	1	1	1	1	1.000000000000	NULL	NULL	47	28	0.02127659574468085
+yankees pitcher	Tommy John	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+yankees pitcher	Rick Rhoden	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yankees player	Alex Rodriguez	1	1	3	3	NULL	NULL	NULL	153	64	0.0021786492374727667
+yankees player	Derek Jeter	1	1	3	3	NULL	NULL	NULL	142	63	0.002347417840375587
+yankees player	Ralph Houk	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yankees premium item	pin	1	1	3	3	0.333333333333	NULL	NULL	2022	726	0.00016485328058028355
+yankees premium item	bobbleheads	1	1	3	3	0.333333333333	NULL	NULL	18	12	0.018518518518518517
+yankees premium item	wristband	1	1	3	3	0.333333333333	NULL	NULL	123	78	0.0027100271002710027
+yankees stalwart	shortstop Derek Jeter	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+yankees stalwart	right-fielder Paul O'Neill	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yankees star	Derek Jeter	1	1	4	4	0.500000000000	NULL	NULL	142	63	0.0017605633802816902
+yankees star	Robinson Cano	1	1	4	4	0.500000000000	NULL	NULL	16	10	0.015625
+yankees star	CC Sabathia	1	1	4	4	0.500000000000	NULL	NULL	22	14	0.011363636363636364
+yankees star	Alex Rodriguez	1	1	4	4	0.500000000000	NULL	NULL	153	64	0.0016339869281045752
+yankees veteran	Alex Rodriguez	2	1	4	2	1.000000000000	NULL	NULL	153	64	0.006535947712418301
+yankees veteran	CC Sabathia	2	1	4	2	1.000000000000	NULL	NULL	22	14	0.045454545454545456
+yankton south dakota area business	Alcoa	1	1	1	1	NULL	NULL	NULL	307	115	0.003257328990228013
+yanmar compact engine power machine	mini excavator	1	1	2	2	0.500000000000	NULL	NULL	14	14	0.03571428571428571
+yanmar compact engine power machine	wheel loader	1	1	2	2	0.500000000000	NULL	NULL	155	62	0.0032258064516129032
+yanni album	Dare to Dream	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yanni album	Reflections of Passion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yanninicum variety	Gosse	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+yanninicum variety	Riverina	1	1	2	2	1.000000000000	NULL	NULL	15	12	0.03333333333333333
+yanobacteria	Synechococcus	1	1	1	1	1.000000000000	NULL	NULL	16	12	0.0625
+yanomami leader	Davi Kopenawa	1	1	1	1	NULL	NULL	NULL	1	1	1
+yanqing's major attraction	Yudu Mountain	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yanqing's major attraction	Longqing Ravine	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yanqing's major attraction	Songshan National Nature Reserve	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yantai specialty	Yantai apple	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yantras	Shri Yantra	1	1	1	1	NULL	NULL	NULL	1	1	1
+yanushka's land internet game	Tetris	1	1	1	1	NULL	NULL	NULL	328	113	0.003048780487804878
+yao's disciple	Zhong Zhenshan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yao's disciple	Zhai Weichuan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Yaobu little thin, adduction	Shu Yao	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaoi	Junjou Romantica	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+yaoi cartoon	Sukisyo	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaoi game	Absolute Obedience into English	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+yaoi game	Enzai	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+Yaoi mangas	Ai No Kusabi	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaoi novel	Love Like a Comedy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yaoi novel	Dark Walker	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yap proper leader	Senator Charles Chieng	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yap proper leader	Chief Justice Cyprian Manmaw	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yap proper leader	former Governor Robert Ruecho	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yap proper leader	former Governor Vincent Figir	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yapa social event	public cards game	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yapa social event	hunting trip	1	1	3	3	0.500000000000	NULL	NULL	14	11	0.023809523809523808
+yapa social event	ceremony	1	1	3	3	0.500000000000	NULL	NULL	265	123	0.0012578616352201257
+yaphank resident	James Gamaldi	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yappy dog	small, yappy dog	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+yappy little ankle biter	Yorkshire Terriers & the Bichon Frise	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaqui group	family	1	1	1	1	NULL	NULL	NULL	5717	1803	0.00017491691446562882
+yara international's raw material cost	natural gas used in the production of ammonia	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yara's raw material cost	natural gas used in the production of ammonia	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yard	Bollinger	3	3	88	79	0.428571428571	NULL	NULL	27	21	0.0037878787878787876
+yard	Chesapeake Shipbuilding Corp.	2	2	88	79	0.428571428571	NULL	NULL	2	1	0.022727272727272728
+yard	Raylton Dixon	2	2	88	79	0.428571428571	NULL	NULL	2	1	0.022727272727272728
+yard	Feadship	2	2	88	79	0.428571428571	NULL	NULL	5	4	0.00909090909090909
+yard	Boston	2	2	88	79	0.428571428571	NULL	NULL	3077	695	0.000014772357963778179
+yard	B&B Boat Builders	2	2	88	79	0.428571428571	NULL	NULL	2	1	0.022727272727272728
+yard	New York	2	2	88	79	0.428571428571	NULL	NULL	13310	1915	0.0000034150672768253536
+yard	Lambton	2	2	88	79	0.428571428571	NULL	NULL	4	3	0.011363636363636364
+yard	Jemison Marine	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Lurssen	1	1	88	79	0.428571428571	NULL	NULL	3	3	0.003787878787878788
+yard	headquartered in Lockport	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	HDW in Kiel	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Hoo Junction	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Inglis	1	1	88	79	0.428571428571	NULL	NULL	12	11	0.000946969696969697
+yard	Chicago s Salvage	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Ghost Yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Baldwin Nettleton	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Austal	1	1	88	79	0.428571428571	NULL	NULL	4	3	0.002840909090909091
+yard	Swan Hunter	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	TKMS Nordseewerke in Emden	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	SSW Schichau Seebeck Shipyard in Bremerhaven	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Cock Yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Tough's at Teddington	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	EASY	1	1	88	79	0.428571428571	NULL	NULL	13	10	0.0008741258741258741
+yard	Cycle Systems in VA	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Newcastle Marine	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Plumstead	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	Platinum Marine Services	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Austin	1	1	88	79	0.428571428571	NULL	NULL	902	238	0.000012598266478532554
+yard	Bollinger Shipyards	1	1	88	79	0.428571428571	NULL	NULL	3	3	0.003787878787878788
+yard	Cammell Laird	1	1	88	79	0.428571428571	NULL	NULL	5	4	0.0022727272727272726
+yard	cammell Laird Gibraltar	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Charleston	1	1	88	79	0.428571428571	NULL	NULL	543	139	0.00002092750711535242
+yard	Dubai Drydocks	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Damen	1	1	88	79	0.428571428571	NULL	NULL	3	3	0.003787878787878788
+yard	Stamford	1	1	88	79	0.428571428571	NULL	NULL	106	59	0.0001072041166380789
+yard	Manchester Marine	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	New London	1	1	88	79	0.428571428571	NULL	NULL	37	24	0.0003071253071253071
+yard	Ocean Marine	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	Ogden	1	1	88	79	0.428571428571	NULL	NULL	42	27	0.00027056277056277056
+yard	ones in the Chennai suburb	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Pendennis Shipyard in Cornwall	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Slipway at English Harbour	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Schleswig-Holstein	1	1	88	79	0.428571428571	NULL	NULL	18	12	0.0006313131313131314
+yard	building ant mounds in the lawn	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Besiktas	1	1	88	79	0.428571428571	NULL	NULL	11	11	0.0010330578512396695
+yard	big name yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	BAMY	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Belliure in Spain	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Bender Shipbuilding & Repair Co.	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	BAE Barrow	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Hyundai Heavy Industries	1	1	88	79	0.428571428571	NULL	NULL	31	21	0.00036656891495601173
+yard	Lassco in London	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Alabama Shipyard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Edison Chouest	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	Colvic Craft in Great Britain	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Mitsui Engineering & Shipbuilding	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	Racing Yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Promet	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Oak Island	1	1	88	79	0.428571428571	NULL	NULL	10	10	0.0011363636363636363
+yard	North White Plains	1	1	88	79	0.428571428571	NULL	NULL	3	2	0.003787878787878788
+yard	Nordic Yards in Wismar	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	New England Boatworks	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	Pan United	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Peterboro	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Calgary	1	1	88	79	0.428571428571	NULL	NULL	452	143	0.0000251407884151247
+yard	Boulters for an old cooker	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Talland	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	South Kearny	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Stratimer in France	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Desert Pull-A-Part Salvage Yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	domestic large shipbuilding yard	1	1	88	79	0.428571428571	NULL	NULL	2	2	0.005681818181818182
+yard	european container yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Aleutian Yachts	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	ABG	1	1	88	79	0.428571428571	NULL	NULL	17	12	0.0006684491978609626
+yard	Master Boat Builders	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	motor salvage yard	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Mughalsarai	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard	Rodriguez Boat Builders	1	1	88	79	0.428571428571	NULL	NULL	1	1	0.011363636363636364
+yard & garage tool	rake	1	1	4	4	NULL	NULL	NULL	592	183	0.0004222972972972973
+yard & garage tool	shovel	1	1	4	4	NULL	NULL	NULL	1261	343	0.00019825535289452815
+yard & garage tool	broom	1	1	4	4	NULL	NULL	NULL	703	272	0.00035561877667140827
+yard & garage tool	tamp	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+Yard & Garden Debris	Tree Trimmings	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard accessory	bottle-brush tree	2	1	4	3	0.500000000000	NULL	NULL	2	1	0.5
+yard accessory	mailbox	1	1	4	3	0.500000000000	NULL	NULL	226	146	0.0011061946902654867
+yard accessory	small figurine	1	1	4	3	0.500000000000	NULL	NULL	12	11	0.020833333333333332
+yard activity	light to moderate gardening	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+yard activity	weeding the garden	1	1	4	4	0.500000000000	NULL	NULL	22	19	0.011363636363636364
+yard activity	raking leaf	1	1	4	4	0.500000000000	NULL	NULL	192	79	0.0013020833333333333
+yard activity	routine yard activity	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+yard animal	pig	1	1	1	1	NULL	NULL	NULL	2963	686	0.0003374957813027337
+yard appliance	lawn mower	1	1	2	2	0.666666666666	NULL	NULL	567	266	0.0008818342151675485
+yard appliance	lawn tractor	1	1	2	2	0.666666666666	NULL	NULL	35	25	0.014285714285714285
+yard bird	cardinal	2	2	12	10	0.125000000000	NULL	NULL	434	122	0.0007680491551459293
+yard bird	robin	2	2	12	10	0.125000000000	NULL	NULL	801	223	0.00041614648356221387
+yard bird	sparrow	1	1	12	10	0.125000000000	NULL	NULL	564	157	0.00014775413711583924
+yard bird	bluebird	1	1	12	10	0.125000000000	NULL	NULL	263	75	0.0003168567807351077
+yard bird	woodpecker	1	1	12	10	0.125000000000	NULL	NULL	558	150	0.00014934289127837514
+yard bird	chickadee	1	1	12	10	0.125000000000	NULL	NULL	497	118	0.00016767270288397049
+yard bird	common yard bird	1	1	12	10	0.125000000000	NULL	NULL	2	2	0.041666666666666664
+yard bird	towhee	1	1	12	10	0.125000000000	NULL	NULL	45	18	0.0018518518518518517
+yard bird	robbins	1	1	12	10	0.125000000000	NULL	NULL	26	17	0.003205128205128205
+yard bird	normal yard bird	1	1	12	10	0.125000000000	NULL	NULL	2	2	0.041666666666666664
+yard building	control room	2	1	5	4	0.250000000000	NULL	NULL	104	65	0.007692307692307693
+yard building	gazebo	1	1	5	4	0.250000000000	NULL	NULL	699	295	0.0002861230329041488
+yard building	green house	1	1	5	4	0.250000000000	NULL	NULL	124	108	0.0016129032258064516
+yard building	shed	1	1	5	4	0.250000000000	NULL	NULL	884	318	0.00022624434389140272
+yard byproduct	lawn clipping	1	1	2	2	NULL	NULL	NULL	97	44	0.005154639175257732
+yard byproduct	leaf	1	1	2	2	NULL	NULL	NULL	4185	1340	0.00011947431302270011
+yard care	mowing	1	1	2	2	0.500000000000	NULL	NULL	917	414	0.0005452562704471102
+yard care	cutting grass	1	1	2	2	0.500000000000	NULL	NULL	60	47	0.008333333333333333
+yard characteristic	distance of bird feeders from window	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard chemical	insecticide	1	1	4	4	0.250000000000	NULL	NULL	1030	346	0.00024271844660194174
+yard chemical	fertilizer	1	1	4	4	0.250000000000	NULL	NULL	3071	945	0.00008140670791273201
+yard chemical	plant food	1	1	4	4	0.250000000000	NULL	NULL	49	35	0.00510204081632653
+yard chemical	pesticide	1	1	4	4	0.250000000000	NULL	NULL	4878	1151	0.00005125051250512505
+yard chore	raking leaf	1	1	1	1	NULL	NULL	NULL	192	79	0.005208333333333333
+yard clipping	leaf	2	2	7	5	NULL	NULL	NULL	4185	1340	0.00013654207202594298
+yard clipping	grass clipping	2	2	7	5	NULL	NULL	NULL	849	234	0.0006730607437321217
+yard clipping	tree limb	1	1	7	5	NULL	NULL	NULL	250	87	0.0005714285714285714
+yard clipping	twig	1	1	7	5	NULL	NULL	NULL	772	294	0.0001850481125092524
+yard clipping	grass	1	1	7	5	NULL	NULL	NULL	3076	1135	0.00004644250417982537
+yard container	large fountain	2	1	5	3	1.000000000000	NULL	NULL	4	3	0.2
+yard container	animal water trough	2	1	5	3	1.000000000000	NULL	NULL	2	1	0.4
+yard container	ornamental fish pond	1	1	5	3	1.000000000000	NULL	NULL	2	2	0.1
+yard cover	grass	1	1	2	2	NULL	NULL	NULL	3076	1135	0.00016254876462938882
+yard cover	deep gravel	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+Yard debris	leaf	33	32	121	33	0.275862068965	NULL	NULL	4185	1340	0.002150537634408602
+Yard debris	grass clipping	25	22	121	33	0.275862068965	NULL	NULL	849	234	0.006083968499644697
+Yard debris	limb	8	5	121	33	0.275862068965	NULL	NULL	230	123	0.0022996766079770034
+Yard debris	grass	7	7	121	33	0.275862068965	NULL	NULL	3076	1135	0.00013165106556760415
+Yard debris	bush	6	3	121	33	0.275862068965	NULL	NULL	699	332	0.00042563756960947756
+Yard debris	stick	4	4	121	33	0.275862068965	NULL	NULL	1132	366	0.00011681219519317817
+Yard debris	weed	4	4	121	33	0.275862068965	NULL	NULL	699	307	0.0001891722531597678
+Yard debris	branch	3	3	121	33	0.275862068965	NULL	NULL	1003	460	0.00007415769221261835
+Yard debris	brush	3	3	121	33	0.275862068965	NULL	NULL	2012	738	0.00003696827300658857
+Yard debris	small branch	2	2	121	33	0.275862068965	NULL	NULL	33	22	0.0010017530678687705
+Yard debris	old board	2	2	121	33	0.275862068965	NULL	NULL	10	6	0.003305785123966942
+Yard debris	tree trimming	2	2	121	33	0.275862068965	NULL	NULL	142	83	0.00023280176929344664
+Yard debris	dry tree brances	2	2	121	33	0.275862068965	NULL	NULL	2	1	0.01652892561983471
+Yard debris	embedded cobble	1	1	121	33	0.275862068965	NULL	NULL	1	1	0.008264462809917356
+Yard debris	fallen tree limb	1	1	121	33	0.275862068965	NULL	NULL	10	9	0.0008264462809917355
+Yard debris	stump	1	1	121	33	0.275862068965	NULL	NULL	313	128	0.000026404034536477173
+Yard debris	rock pile	1	1	121	33	0.275862068965	NULL	NULL	56	34	0.00014757969303423848
+Yard debris	rock	1	1	121	33	0.275862068965	NULL	NULL	5667	1843	0.000001458348828289634
+Yard debris	mulch	1	1	121	33	0.275862068965	NULL	NULL	605	253	0.000013660269107301414
+Yard debris	tree trimings	1	1	121	33	0.275862068965	NULL	NULL	1	1	0.008264462809917356
+Yard debris	tire	1	1	121	33	0.275862068965	NULL	NULL	2102	655	0.00000393171399139741
+Yard debris	raked leaf	1	1	121	33	0.275862068965	NULL	NULL	5	4	0.001652892561983471
+Yard debris	toy	1	1	121	33	0.275862068965	NULL	NULL	5414	1538	0.0000015264984872399992
+Yard debris	root	1	1	121	33	0.275862068965	NULL	NULL	988	442	0.000008364840900726069
+Yard debris	wood pile	1	1	121	33	0.275862068965	NULL	NULL	51	28	0.00016204829039053638
+Yard debris	twig	1	1	121	33	0.275862068965	NULL	NULL	772	294	0.000010705262707146833
+Yard debris	fallen leaf	1	1	121	33	0.275862068965	NULL	NULL	121	63	0.00006830134553650708
+Yard debris	dog bone	1	1	121	33	0.275862068965	NULL	NULL	28	22	0.00029515938606847696
+Yard debris	dead leaf	1	1	121	33	0.275862068965	NULL	NULL	121	69	0.00006830134553650708
+Yard debris	small stick	1	1	121	33	0.275862068965	NULL	NULL	21	17	0.00039354584809130267
+Yard debris	sod	1	1	121	33	0.275862068965	NULL	NULL	108	63	0.00007652280379553107
+yard debris	normal yard debris	1	1	121	33	0.275862068965	NULL	NULL	2	2	0.004132231404958678
+Yard debris	metal	1	1	121	33	0.275862068965	NULL	NULL	11430	2556	0.0000007230501146034432
+yard decoration	statue	7	7	29	21	0.105263157894	NULL	NULL	899	412	0.0018794829504046643
+yard decoration	light	2	2	29	21	0.105263157894	NULL	NULL	6435	2121	0.00002143450419312488
+yard decoration	bird bath	2	2	29	21	0.105263157894	NULL	NULL	241	131	0.0005723279439118615
+yard decoration	birdbath	1	1	29	21	0.105263157894	NULL	NULL	153	78	0.000225377507324769
+yard decoration	Christmas trees decorated	1	1	29	21	0.105263157894	NULL	NULL	1	1	0.034482758620689655
+yard decoration	small animal	1	1	29	21	0.105263157894	NULL	NULL	63	43	0.0005473453749315818
+yard decoration	windchimes	1	1	29	21	0.105263157894	NULL	NULL	20	17	0.0017241379310344827
+yard decoration	banner	1	1	29	21	0.105263157894	NULL	NULL	1989	924	0.000017336731332674536
+yard decoration	bench	1	1	29	21	0.105263157894	NULL	NULL	2012	772	0.00001713854802221156
+yard decoration	plant	1	1	29	21	0.105263157894	NULL	NULL	3283	1058	0.000010503429369689203
+yard decoration	reindeer	1	1	29	21	0.105263157894	NULL	NULL	310	172	0.00011123470522803115
+yard decoration	sculpture	1	1	29	21	0.105263157894	NULL	NULL	1810	688	0.000019051247856734615
+yard decoration	chair	1	1	29	21	0.105263157894	NULL	NULL	3601	1244	0.000009575884093498933
+yard decoration	fun character christmas yard decoration	1	1	29	21	0.105263157894	NULL	NULL	2	2	0.017241379310344827
+yard decoration	background for a flower bed	1	1	29	21	0.105263157894	NULL	NULL	1	1	0.034482758620689655
+yard decoration	cutout	1	1	29	21	0.105263157894	NULL	NULL	45	29	0.0007662835249042146
+yard decoration	sleigh	1	1	29	21	0.105263157894	NULL	NULL	28	23	0.0012315270935960591
+yard decoration	lighthouse	1	1	29	21	0.105263157894	NULL	NULL	271	172	0.0001272426517368622
+yard decoration	inflatable	1	1	29	21	0.105263157894	NULL	NULL	99	61	0.00034831069313827936
+yard decoration	stepping stones	1	1	29	21	0.105263157894	NULL	NULL	88	64	0.00039184952978056425
+yard decoration	Santa	1	1	29	21	0.105263157894	NULL	NULL	147	104	0.0002345765892563922
+yard duty	cleaning the display vehicle	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yard duty	collecting garbage	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+yard enhancement	specific types of planting	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard equipment	lawn mower	2	2	7	6	0.500000000000	NULL	NULL	567	266	0.0010078105316200553
+yard equipment	gasoline-powered yard equipment	1	1	7	6	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+yard equipment	two-stroke gasoline-powered yard equipment	1	1	7	6	0.500000000000	NULL	NULL	3	3	0.047619047619047616
+yard equipment	hedge trimmer	1	1	7	6	0.500000000000	NULL	NULL	77	53	0.0018552875695732837
+yard equipment	weed whacker	1	1	7	6	0.500000000000	NULL	NULL	27	21	0.005291005291005291
+yard equipment	mower	1	1	7	6	0.500000000000	NULL	NULL	205	106	0.0006968641114982578
+yard facility	animal holding pen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yard facility	recycling structure	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yard feature	stream	1	1	4	4	0.250000000000	NULL	NULL	1227	476	0.00020374898125509371
+yard feature	retaining wall	1	1	4	4	0.250000000000	NULL	NULL	609	288	0.00041050903119868636
+yard feature	koi pond	1	1	4	4	0.250000000000	NULL	NULL	53	21	0.0047169811320754715
+yard feature	pond	1	1	4	4	0.250000000000	NULL	NULL	2056	813	0.00012159533073929961
+yard flower	rosa's yard flower	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Yard fowl	guinea hen	1	1	3	3	0.333333333333	NULL	NULL	16	10	0.020833333333333332
+Yard fowl	chicken	1	1	3	3	0.333333333333	NULL	NULL	8933	2087	0.00003731482518004403
+Yard fowl	turkey	1	1	3	3	0.333333333333	NULL	NULL	7587	1715	0.00004393480075567857
+yard game	croquet	8	8	51	25	0.611111111111	NULL	NULL	286	125	0.0043877690936514465
+yard game	badminton	5	5	51	25	0.611111111111	NULL	NULL	1672	382	0.0002931794727460362
+yard game	volleyball	5	5	51	25	0.611111111111	NULL	NULL	5132	828	0.00009551755230541164
+yard game	bocce	4	4	51	25	0.611111111111	NULL	NULL	98	50	0.0032012805122048817
+yard game	horseshoe	4	4	51	25	0.611111111111	NULL	NULL	462	181	0.0006790595025889144
+yard game	bocce ball	3	3	51	25	0.611111111111	NULL	NULL	115	53	0.0015345268542199487
+yard game	lawn dart	2	2	51	25	0.611111111111	NULL	NULL	19	14	0.0041279669762641896
+yard game	horse shoe	2	2	51	25	0.611111111111	NULL	NULL	65	35	0.0012066365007541479
+yard game	corn hole	2	2	51	25	0.611111111111	NULL	NULL	35	13	0.002240896358543417
+yard game	cornhole	1	1	51	25	0.611111111111	NULL	NULL	51	20	0.00038446751249519417
+yard game	catch	1	1	51	25	0.611111111111	NULL	NULL	90	60	0.00021786492374727668
+yard game	fun yard game	1	1	51	25	0.611111111111	NULL	NULL	2	2	0.00980392156862745
+yard game	tetherball	1	1	51	25	0.611111111111	NULL	NULL	24	13	0.0008169934640522876
+yard game	traditional yard game	1	1	51	25	0.611111111111	NULL	NULL	2	2	0.00980392156862745
+yard game	classic yard game	1	1	51	25	0.611111111111	NULL	NULL	2	2	0.00980392156862745
+yard game	portable yard game	1	1	51	25	0.611111111111	NULL	NULL	2	2	0.00980392156862745
+yard game	ladder golf	1	1	51	25	0.611111111111	NULL	NULL	16	10	0.0012254901960784314
+yard game	bocci ball	1	1	51	25	0.611111111111	NULL	NULL	8	7	0.0024509803921568627
+yard game	tossing frisbees around	1	1	51	25	0.611111111111	NULL	NULL	1	1	0.0196078431372549
+yard game	water balloon	1	1	51	25	0.611111111111	NULL	NULL	50	37	0.000392156862745098
+yard game	shuffleboard	1	1	51	25	0.611111111111	NULL	NULL	174	80	0.0001126887536623845
+yard game	bean bag	1	1	51	25	0.611111111111	NULL	NULL	141	74	0.00013906271728549575
+yard game	good old standby yard game	1	1	51	25	0.611111111111	NULL	NULL	2	2	0.00980392156862745
+yard game	frisbee	1	1	51	25	0.611111111111	NULL	NULL	320	129	0.00006127450980392157
+yard game	Ladder Golf Game	1	1	51	25	0.611111111111	NULL	NULL	1	1	0.0196078431372549
+yard garden electrician	commercial electrician	2	2	6	3	NULL	NULL	NULL	4	3	0.16666666666666666
+yard garden electrician	lineman electrician	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+yard garden electrician	residential electrician	2	2	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+yard head	Rio Out Bound Short	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard improvement	fence	2	2	12	11	0.100000000000	NULL	NULL	2735	975	0.0001218769043266301
+yard improvement	aboveground swimming pool	1	1	12	11	0.100000000000	NULL	NULL	7	7	0.011904761904761904
+yard improvement	swimming pool	1	1	12	11	0.100000000000	NULL	NULL	5047	1164	0.000016511458952513043
+yard improvement	patio	1	1	12	11	0.100000000000	NULL	NULL	1556	548	0.00005355612682090831
+yard improvement	storage building	1	1	12	11	0.100000000000	NULL	NULL	112	57	0.000744047619047619
+yard improvement	tree	1	1	12	11	0.100000000000	NULL	NULL	6423	2236	0.000012974207275935439
+yard improvement	construction of new fence	1	1	12	11	0.100000000000	NULL	NULL	1	1	0.08333333333333333
+yard improvement	shed	1	1	12	11	0.100000000000	NULL	NULL	884	318	0.00009426847662141779
+yard improvement	walkway	1	1	12	11	0.100000000000	NULL	NULL	663	300	0.00012569130216189038
+yard improvement	driveway	1	1	12	11	0.100000000000	NULL	NULL	895	357	0.00009310986964618249
+yard improvement	landscaping	1	1	12	11	0.100000000000	NULL	NULL	2113	749	0.000039438397223536837
+yard improvement service	lawn mowing	1	1	2	2	0.500000000000	NULL	NULL	250	123	0.002
+yard improvement service	lawn aeration	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+yard interlock fabric	TTC double-layer fabric	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+yard interlock fabric	cotton	1	1	4	4	0.666666666666	NULL	NULL	8381	1830	0.00002982937596945472
+yard interlock fabric	rayon fabric	1	1	4	4	0.666666666666	NULL	NULL	8	8	0.03125
+yard interlock fabric	blended fabric	1	1	4	4	0.666666666666	NULL	NULL	11	11	0.022727272727272728
+yard item	swing set	2	2	25	25	0.210526315789	NULL	NULL	141	70	0.0011347517730496454
+yard item	yard tool	2	2	25	25	0.210526315789	NULL	NULL	6	5	0.02666666666666667
+yard item	rake	2	2	25	25	0.210526315789	NULL	NULL	592	183	0.0002702702702702703
+yard item	Trellis	1	1	25	25	0.210526315789	NULL	NULL	458	195	0.00008733624454148472
+yard item	bird bath	1	1	25	25	0.210526315789	NULL	NULL	241	131	0.00016597510373443983
+yard item	bird feeder	1	1	25	25	0.210526315789	NULL	NULL	167	106	0.00023952095808383233
+yard item	large yard item	1	1	25	25	0.210526315789	NULL	NULL	2	2	0.02
+yard item	snowman	1	1	25	25	0.210526315789	NULL	NULL	223	148	0.00017937219730941703
+yard item	ladder	1	1	25	25	0.210526315789	NULL	NULL	1107	460	0.000036133694670280034
+yard item	grill	1	1	25	25	0.210526315789	NULL	NULL	690	284	0.00005797101449275363
+yard item	wheelbarrow	1	1	25	25	0.210526315789	NULL	NULL	125	76	0.00032
+yard item	Pergolas	1	1	25	25	0.210526315789	NULL	NULL	9	13	0.0044444444444444444
+yard item	plant food	1	1	25	25	0.210526315789	NULL	NULL	49	35	0.0008163265306122449
+yard item	children s pools lawn furniture	1	1	25	25	0.210526315789	NULL	NULL	1	1	0.04
+yard item	swing	1	1	25	25	0.210526315789	NULL	NULL	961	415	0.00004162330905306972
+yard item	garden tool	1	1	25	25	0.210526315789	NULL	NULL	206	88	0.0001941747572815534
+yard item	chair	1	1	25	25	0.210526315789	NULL	NULL	3601	1244	0.000011108025548458762
+yard item	toy	1	1	25	25	0.210526315789	NULL	NULL	5414	1538	0.000007388252678241596
+yard item	lawn furniture	1	1	25	25	0.210526315789	NULL	NULL	199	67	0.00020100502512562814
+yard item	lawn chair	1	1	25	25	0.210526315789	NULL	NULL	97	52	0.0004123711340206186
+yard item	shed	1	1	25	25	0.210526315789	NULL	NULL	884	318	0.00004524886877828054
+yard item	Rudolph the Red-Nosed Reindeer	1	1	25	25	0.210526315789	NULL	NULL	22	14	0.0018181818181818182
+yard landscaping concept	rock pool	1	1	2	2	1.000000000000	NULL	NULL	23	18	0.021739130434782608
+yard landscaping concept	water attribute	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yard maintance	creosoting	1	1	1	1	0.500000000000	NULL	NULL	3	2	0.3333333333333333
+yard maintenance	lawn mowing	1	1	1	1	0.500000000000	NULL	NULL	250	123	0.004
+yard maintenance activity	mowing	1	1	3	3	NULL	NULL	NULL	917	414	0.0003635041802980734
+yard maintenance activity	pruning	1	1	3	3	NULL	NULL	NULL	708	341	0.00047080979284369113
+yard maintenance activity	regular yard maintenance activity	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+yard maintenance task	hedge trimming	1	1	1	1	1.000000000000	NULL	NULL	56	29	0.017857142857142856
+yard maintenance tool	rake	2	2	4	3	NULL	NULL	NULL	592	183	0.0016891891891891893
+yard maintenance tool	shovel	1	1	4	3	NULL	NULL	NULL	1261	343	0.00019825535289452815
+yard maintenance tool	wheelbarrow	1	1	4	3	NULL	NULL	NULL	125	76	0.002
+yard many small vessel	motor launch	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard martial art	metallic megastars	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard material	leaf	2	2	12	10	0.111111111111	NULL	NULL	4185	1340	0.00007964954201513341
+yard material	grass clipping	2	2	12	10	0.111111111111	NULL	NULL	849	234	0.000392618767177071
+yard material	limb	1	1	12	10	0.111111111111	NULL	NULL	230	123	0.00036231884057971015
+yard material	tree leaf	1	1	12	10	0.111111111111	NULL	NULL	32	26	0.0026041666666666665
+yard material	recyclable yard material	1	1	12	10	0.111111111111	NULL	NULL	2	2	0.041666666666666664
+yard material	woodchips	1	1	12	10	0.111111111111	NULL	NULL	98	60	0.0008503401360544217
+yard material	stick	1	1	12	10	0.111111111111	NULL	NULL	1132	366	0.00007361601884570082
+yard material	soil	1	1	12	10	0.111111111111	NULL	NULL	3401	1213	0.000024502597275311183
+yard material	weed	1	1	12	10	0.111111111111	NULL	NULL	699	307	0.00011921793037672866
+yard material	oil	1	1	12	10	0.111111111111	NULL	NULL	15331	4205	0.000005435609766703629
+yard object	deck chair	1	1	1	1	1.000000000000	NULL	NULL	27	27	0.037037037037037035
+yard offshore, blue water species	wahoo	1	1	3	3	0.333333333333	NULL	NULL	241	90	0.0013831258644536651
+yard offshore, blue water species	sailfish	1	1	3	3	0.333333333333	NULL	NULL	148	75	0.0022522522522522522
+yard offshore, blue water species	yellowfin	1	1	3	3	0.333333333333	NULL	NULL	41	22	0.008130081300813007
+yard operation	storage policy	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+yard ornament	large steel flower	1	1	8	8	0.142857142857	NULL	NULL	1	1	0.125
+yard ornament	bird feeder	1	1	8	8	0.142857142857	NULL	NULL	167	106	0.0007485029940119761
+yard ornament	birdbath	1	1	8	8	0.142857142857	NULL	NULL	153	78	0.0008169934640522876
+yard ornament	windmill	1	1	8	8	0.142857142857	NULL	NULL	367	207	0.0003405994550408719
+yard ornament	antique marble milk trough	1	1	8	8	0.142857142857	NULL	NULL	1	1	0.125
+yard ornament	deer	1	1	8	8	0.142857142857	NULL	NULL	4037	801	0.000030963586821897446
+yard ornament	wishing well	1	1	8	8	0.142857142857	NULL	NULL	24	18	0.005208333333333333
+yard ornament	planter	1	1	8	8	0.142857142857	NULL	NULL	540	274	0.0002314814814814815
+yard plant	golden bamboo	1	1	7	7	NULL	NULL	NULL	5	4	0.02857142857142857
+yard plant	everyday yard plant	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+yard plant	oleander	1	1	7	7	NULL	NULL	NULL	194	85	0.0007363770250368188
+yard plant	common yard plant	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+yard plant	flower	1	1	7	7	NULL	NULL	NULL	5682	2006	0.000025142052597174033
+yard plant	shrub	1	1	7	7	NULL	NULL	NULL	993	403	0.00014386419220256078
+yard plant	privet	1	1	7	7	NULL	NULL	NULL	236	109	0.0006053268765133171
+yard pollen producer	lamb's quarter	1	1	5	5	NULL	NULL	NULL	40	21	0.005
+yard pollen producer	redroot	1	1	5	5	NULL	NULL	NULL	5	5	0.04
+yard pollen producer	pigweed	1	1	5	5	NULL	NULL	NULL	162	60	0.0012345679012345679
+yard pollen producer	ragweed	1	1	5	5	NULL	NULL	NULL	270	104	0.0007407407407407408
+yard pollen producer	Russian thistle	1	1	5	5	NULL	NULL	NULL	91	41	0.002197802197802198
+yard product	insect repellent	2	1	6	5	NULL	NULL	NULL	149	72	0.0044742729306487695
+yard product	organophosphates	1	1	6	5	NULL	NULL	NULL	244	97	0.0006830601092896175
+yard product	weed	1	1	6	5	NULL	NULL	NULL	699	307	0.0002384358607534573
+yard product	pesticide	1	1	6	5	NULL	NULL	NULL	4878	1151	0.00003416700833675003
+yard product	mold	1	1	6	5	NULL	NULL	NULL	2011	616	0.00008287750704458809
+yard project	home addition	1	1	3	3	0.500000000000	NULL	NULL	45	15	0.007407407407407407
+yard project	deck addition	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+yard project	pool	1	1	3	3	0.500000000000	NULL	NULL	3504	1006	0.00009512937595129375
+yard resource	car shop	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+yard resource	cleanout track	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yard resource	crew taxi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yard sale aficionado	Modesto resident Dale Siler	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard sale item	book	3	3	11	6	NULL	NULL	NULL	13029	3482	0.00006279697737215581
+yard sale item	furniture	2	2	11	6	NULL	NULL	NULL	8749	2264	0.00004156319163748584
+yard sale item	dish	2	2	11	6	NULL	NULL	NULL	1090	457	0.0003336113427856547
+yard sale item	clothing	2	2	11	6	NULL	NULL	NULL	9665	2540	0.00003762404176268636
+yard sale item	clothes	1	1	11	6	NULL	NULL	NULL	3774	1059	0.00002408825938237703
+yard sale item	women shoe	1	1	11	6	NULL	NULL	NULL	2	2	0.045454545454545456
+yard sale treasure	glove	1	1	3	3	NULL	NULL	NULL	4008	1201	0.00008316699933466401
+yard sale treasure	hat	1	1	3	3	NULL	NULL	NULL	4593	1302	0.00007257420712678713
+yard sale treasure	shoe	1	1	3	3	NULL	NULL	NULL	4445	1269	0.00007499062617172853
+Yard salers	Ava Seavey of Milford	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Yard salers	Jody Malloy of Lower Makefield	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yard scrap	grass clipping	5	3	8	2	0.250000000000	NULL	NULL	849	234	0.0036808009422850414
+yard scrap	leaf	3	2	8	2	0.250000000000	NULL	NULL	4185	1340	0.00026881720430107527
+yard sculpture	fountain	1	1	1	1	NULL	NULL	NULL	1526	553	0.000655307994757536
+yard service	mowing	4	2	25	19	0.583333333333	NULL	NULL	917	414	0.000697928026172301
+yard service	aeration	2	2	25	19	0.583333333333	NULL	NULL	407	166	0.0003931203931203931
+yard service	tree trimming	2	1	25	19	0.583333333333	NULL	NULL	142	83	0.0011267605633802818
+yard service	cleanup	2	1	25	19	0.583333333333	NULL	NULL	90	53	0.0017777777777777779
+yard service	hedge trimming	1	1	25	19	0.583333333333	NULL	NULL	56	29	0.0007142857142857143
+yard service	looking after flower bed	1	1	25	19	0.583333333333	NULL	NULL	1	1	0.04
+yard service	flower bed maintenance	1	1	25	19	0.583333333333	NULL	NULL	2	2	0.02
+yard service	pruning	1	1	25	19	0.583333333333	NULL	NULL	708	341	0.00005649717514124294
+yard service	custom irrigation	1	1	25	19	0.583333333333	NULL	NULL	1	1	0.04
+yard service	custom landscaping	1	1	25	19	0.583333333333	NULL	NULL	2	2	0.02
+yard service	complete yard service	1	1	25	19	0.583333333333	NULL	NULL	2	2	0.02
+yard service	mulching	1	1	25	19	0.583333333333	NULL	NULL	541	261	0.00007393715341959335
+yard service	seeding	1	1	25	19	0.583333333333	NULL	NULL	212	103	0.00018867924528301886
+yard service	heavy brush work	1	1	25	19	0.583333333333	NULL	NULL	1	1	0.04
+yard service	growing vegetable	1	1	25	19	0.583333333333	NULL	NULL	27	21	0.0014814814814814814
+yard service	mowing yard	1	1	25	19	0.583333333333	NULL	NULL	9	5	0.0044444444444444444
+yard service	stump grinding	1	1	25	19	0.583333333333	NULL	NULL	52	21	0.0007692307692307692
+yard service	clean up	1	1	25	19	0.583333333333	NULL	NULL	21	16	0.0019047619047619048
+yard service	final grading	1	1	25	19	0.583333333333	NULL	NULL	2	2	0.02
+yard service many main-stream builder	Sunseeker	1	1	2	2	0.750000000000	NULL	NULL	20	15	0.025
+yard service many main-stream builder	Fairline	1	1	2	2	0.750000000000	NULL	NULL	13	9	0.038461538461538464
+yard sign	stock yard sign	1	1	8	8	0.500000000000	NULL	NULL	2	2	0.0625
+yard sign	political	1	1	8	8	0.500000000000	NULL	NULL	1074	417	0.00011638733705772812
+yard sign	Flat For Rent	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+yard sign	Flat For Sale	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+yard sign	Apartment For Sale	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+yard sign	lawn sign	1	1	8	8	0.500000000000	NULL	NULL	20	17	0.00625
+yard sign	Yard Sales	1	1	8	8	0.500000000000	NULL	NULL	2	3	0.0625
+yard sign	realtor stand	1	1	8	8	0.500000000000	NULL	NULL	2	2	0.0625
+yard structure	gazebo	2	2	5	4	NULL	NULL	NULL	699	295	0.0011444921316165952
+yard structure	greenhouse	1	1	5	4	NULL	NULL	NULL	513	251	0.00038986354775828464
+yard structure	pergola	1	1	5	4	NULL	NULL	NULL	482	231	0.00041493775933609963
+yard structure	yard structure yard structure	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+yard supply	fertilizer	1	1	2	2	NULL	NULL	NULL	3071	945	0.00016281341582546403
+yard supply	bagged soil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yard tool	shovel	7	7	56	28	0.565217391304	NULL	NULL	1261	343	0.0006938937351308486
+yard tool	rake	6	6	56	28	0.565217391304	NULL	NULL	592	183	0.001085907335907336
+yard tool	lawnmower	3	3	56	28	0.565217391304	NULL	NULL	334	166	0.00048118049615055597
+yard tool	weed trimmer	3	3	56	28	0.565217391304	NULL	NULL	37	22	0.004343629343629344
+yard tool	hedge clipper	3	3	56	28	0.565217391304	NULL	NULL	15	11	0.010714285714285713
+yard tool	mower	3	3	56	28	0.565217391304	NULL	NULL	205	106	0.00078397212543554
+yard tool	spade	2	2	56	28	0.565217391304	NULL	NULL	330	134	0.00021645021645021645
+yard tool	trimmer	2	2	56	28	0.565217391304	NULL	NULL	112	63	0.0006377551020408163
+yard tool	chain saw	2	2	56	28	0.565217391304	NULL	NULL	316	141	0.0002260397830018083
+yard tool	brush cutter	2	2	56	28	0.565217391304	NULL	NULL	54	35	0.0013227513227513227
+yard tool	hoe	2	2	56	28	0.565217391304	NULL	NULL	404	129	0.00017680339462517678
+yard tool	blower	2	2	56	28	0.565217391304	NULL	NULL	432	210	0.00016534391534391533
+yard tool	lawn mower	2	2	56	28	0.565217391304	NULL	NULL	567	266	0.00012597631645250691
+yard tool	chemical spreader	2	2	56	28	0.565217391304	NULL	NULL	2	1	0.03571428571428571
+yard tool	snow blower	2	2	56	28	0.565217391304	NULL	NULL	113	68	0.0006321112515802781
+yard tool	wheel barrel	1	1	56	28	0.565217391304	NULL	NULL	8	6	0.002232142857142857
+yard tool	yard waste bag	1	1	56	28	0.565217391304	NULL	NULL	2	2	0.008928571428571428
+yard tool	ladder	1	1	56	28	0.565217391304	NULL	NULL	1107	460	0.0000161311136920893
+yard tool	hard rake	1	1	56	28	0.565217391304	NULL	NULL	1	1	0.017857142857142856
+yard tool	flat-edged shovel	1	1	56	28	0.565217391304	NULL	NULL	1	1	0.017857142857142856
+yard tool	trowel	1	1	56	28	0.565217391304	NULL	NULL	259	86	0.00006894649751792608
+yard tool	pruner	1	1	56	28	0.565217391304	NULL	NULL	62	22	0.0002880184331797235
+yard tool	hand-held electric yard tool	1	1	56	28	0.565217391304	NULL	NULL	2	2	0.008928571428571428
+yard tool	loppers	1	1	56	28	0.565217391304	NULL	NULL	78	23	0.00022893772893772894
+yard tool	two-stroke yard tool	1	1	56	28	0.565217391304	NULL	NULL	2	2	0.008928571428571428
+yard tool	edger	1	1	56	28	0.565217391304	NULL	NULL	36	27	0.000496031746031746
+yard tool	moving truck	1	1	56	28	0.565217391304	NULL	NULL	16	14	0.0011160714285714285
+yard tool	weed whacker	1	1	56	28	0.565217391304	NULL	NULL	27	21	0.0006613756613756613
+yard toy	little rake	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yard toy	paddleball	1	1	3	3	0.500000000000	NULL	NULL	18	9	0.018518518518518517
+yard toy	tennis racquets for the nearby court	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yard trash	leaf	1	1	2	2	NULL	NULL	NULL	4185	1340	0.00011947431302270011
+yard trash	fallen leaf	1	1	2	2	NULL	NULL	NULL	121	63	0.004132231404958678
+yard treatment spray	Virbac Yard Spray	1	1	1	1	NULL	NULL	NULL	1	1	1
+yard tree	hickory	1	1	3	3	NULL	NULL	NULL	893	308	0.0003732736095558044
+yard tree	beech	1	1	3	3	NULL	NULL	NULL	1169	411	0.000285143997718848
+yard tree	black walnut	1	1	3	3	NULL	NULL	NULL	282	114	0.001182033096926714
+yard trimming	leaf	15	13	50	15	0.312500000000	NULL	NULL	4185	1340	0.001075268817204301
+yard trimming	grass clipping	13	13	50	15	0.312500000000	NULL	NULL	849	234	0.0039811542991755
+yard trimming	branch	5	5	50	15	0.312500000000	NULL	NULL	1003	460	0.0004985044865403788
+yard trimming	grass	4	4	50	15	0.312500000000	NULL	NULL	3076	1135	0.00010403120936280885
+yard trimming	tree limb	2	2	50	15	0.312500000000	NULL	NULL	250	87	0.00032
+yard trimming	old leaf	2	2	50	15	0.312500000000	NULL	NULL	13	9	0.006153846153846154
+yard trimming	garden trimming	1	1	50	15	0.312500000000	NULL	NULL	9	8	0.0022222222222222222
+yard trimming	hedge clipping	1	1	50	15	0.312500000000	NULL	NULL	7	5	0.002857142857142857
+yard trimming	cuttings from shrub	1	1	50	15	0.312500000000	NULL	NULL	1	1	0.02
+yard trimming	straw	1	1	50	15	0.312500000000	NULL	NULL	2432	856	0.000008223684210526316
+yard trimming	brush	1	1	50	15	0.312500000000	NULL	NULL	2012	738	0.000009940357852882704
+yard trimming	palm frond	1	1	50	15	0.312500000000	NULL	NULL	32	20	0.000625
+yard trimming	fallen leaf	1	1	50	15	0.312500000000	NULL	NULL	121	63	0.00016528925619834712
+yard trimming	place yard trimming	1	1	50	15	0.312500000000	NULL	NULL	2	2	0.01
+yard trimming	oversized yard trimming	1	1	50	15	0.312500000000	NULL	NULL	2	2	0.01
+yard utensil	rake	1	1	4	4	0.250000000000	NULL	NULL	592	183	0.0004222972972972973
+yard utensil	shovel	1	1	4	4	0.250000000000	NULL	NULL	1261	343	0.00019825535289452815
+yard utensil	hoe	1	1	4	4	0.250000000000	NULL	NULL	404	129	0.0006188118811881188
+yard utensil	hedge clipper	1	1	4	4	0.250000000000	NULL	NULL	15	11	0.016666666666666666
+yard vehicle	tractor	1	1	1	1	NULL	NULL	NULL	1088	427	0.0009191176470588235
+yard visitor	opossum	1	1	1	1	NULL	NULL	NULL	657	174	0.0015220700152207
+yard waste	leaf	67	52	255	56	0.416666666666	NULL	NULL	4185	1340	0.0042064328718345164
+yard waste	grass clipping	60	58	255	56	0.416666666666	NULL	NULL	849	234	0.01662855955102889
+yard waste	branch	15	13	255	56	0.416666666666	NULL	NULL	1003	460	0.0008797137997771391
+yard waste	grass	11	11	255	56	0.416666666666	NULL	NULL	3076	1135	0.000154261964863969
+yard waste	fallen leaf	11	11	255	56	0.416666666666	NULL	NULL	121	63	0.00392156862745098
+yard waste	weed	10	10	255	56	0.416666666666	NULL	NULL	699	307	0.0005610255547140172
+yard waste	straw	6	6	255	56	0.416666666666	NULL	NULL	2432	856	0.00005804953560371517
+yard waste	brush	6	6	255	56	0.416666666666	NULL	NULL	2012	738	0.00007016723190270144
+yard waste	remains of garden plant	5	5	255	56	0.416666666666	NULL	NULL	5	1	0.0196078431372549
+yard waste	tree trimming	5	5	255	56	0.416666666666	NULL	NULL	142	83	0.0006904170118751726
+yard waste	shrub	4	3	255	56	0.416666666666	NULL	NULL	993	403	0.00006318740990857571
+yard waste	twig	4	4	255	56	0.416666666666	NULL	NULL	772	294	0.00008127603372955399
+yard waste	tree prunings	2	2	255	56	0.416666666666	NULL	NULL	7	6	0.002240896358543417
+yard waste	small twig	2	2	255	56	0.416666666666	NULL	NULL	22	17	0.00071301247771836
+yard waste	flower	2	2	255	56	0.416666666666	NULL	NULL	5682	2006	0.0000027606959714544035
+yard waste	limb	2	2	255	56	0.416666666666	NULL	NULL	230	123	0.00006820119352088662
+yard waste	lawn clipping	2	1	255	56	0.416666666666	NULL	NULL	97	44	0.00016171417020416413
+yard waste	stick	2	2	255	56	0.416666666666	NULL	NULL	1132	366	0.000013857132959190744
+yard waste	clipping	2	2	255	56	0.416666666666	NULL	NULL	182	110	0.00008618832148243914
+yard waste	tree	1	1	255	56	0.416666666666	NULL	NULL	6423	2236	0.000000610550930632256
+yard waste	tree branch	1	1	255	56	0.416666666666	NULL	NULL	202	116	0.000019413706076490002
+yard waste	dead plant	1	1	255	56	0.416666666666	NULL	NULL	28	19	0.00014005602240896358
+yard waste	bagged and loose yard waste	1	1	255	56	0.416666666666	NULL	NULL	3	3	0.00130718954248366
+yard waste	bulk yard waste	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+yard waste	yard waste yard waste	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+yard waste	seedless weed	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	soil	1	1	255	56	0.416666666666	NULL	NULL	3401	1213	0.0000011530634011911145
+yard waste	rock	1	1	255	56	0.416666666666	NULL	NULL	5667	1843	0.0000006920008165609636
+yard waste	non-woody plant trimming	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	non-woody yard waste	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+yard waste	non organic yard waste	1	1	255	56	0.416666666666	NULL	NULL	3	3	0.00130718954248366
+yard waste	potted flower	1	1	255	56	0.416666666666	NULL	NULL	9	8	0.00043572984749455336
+yard waste	le av es	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	lawn	1	1	255	56	0.416666666666	NULL	NULL	475	255	0.00000825593395252838
+yard waste	brush in pond	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	animal manure	1	1	255	56	0.416666666666	NULL	NULL	230	102	0.000017050298380221655
+yard waste	dried leaf	1	1	255	56	0.416666666666	NULL	NULL	62	38	0.00006325110689437066
+yard waste	dry brown yard waste	1	1	255	56	0.416666666666	NULL	NULL	3	3	0.00130718954248366
+yard waste	tree trimmings in the cart	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	tree clipping	1	1	255	56	0.416666666666	NULL	NULL	4	4	0.000980392156862745
+yard waste	clippings from the mower	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	shrubbery	1	1	255	56	0.416666666666	NULL	NULL	93	52	0.0000421674045962471
+yard waste	fall leaf	1	1	255	56	0.416666666666	NULL	NULL	22	13	0.00017825311942959
+yard waste	curbside composting yard waste	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+yard waste	cut branch	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+yard waste	grass cuttings in the summer	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	grass cutting	1	1	255	56	0.416666666666	NULL	NULL	224	121	0.000017507002801120447
+yard waste	leaves Height	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	leaves with bulk	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	garden residue	1	1	255	56	0.416666666666	NULL	NULL	1	1	0.00392156862745098
+yard waste	garden debris	1	1	255	56	0.416666666666	NULL	NULL	6	5	0.00065359477124183
+yard waste	wood chip	1	1	255	56	0.416666666666	NULL	NULL	1230	438	0.0000031882671767894148
+yard waste	sod	1	1	255	56	0.416666666666	NULL	NULL	108	63	0.000036310820624546116
+yard waste	grass trimming	1	1	255	56	0.416666666666	NULL	NULL	4	4	0.000980392156862745
+yard waste	vegetable and yard waste	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+yard waste	old Christmas tree	1	1	255	56	0.416666666666	NULL	NULL	2	2	0.00196078431372549
+Yard waste debris	leaf	1	1	3	3	NULL	NULL	NULL	4185	1340	0.00007964954201513341
+Yard waste debris	grass clipping	1	1	3	3	NULL	NULL	NULL	849	234	0.000392618767177071
+Yard waste debris	clean brush	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+yard waste ingredient	leaf	1	1	1	1	NULL	NULL	NULL	4185	1340	0.00023894862604540023
+yard waste item	flower	2	2	7	4	NULL	NULL	NULL	5682	2006	0.00010056821038869613
+yard waste item	leaf	2	2	7	4	NULL	NULL	NULL	4185	1340	0.00013654207202594298
+yard waste item	weed	2	2	7	4	NULL	NULL	NULL	699	307	0.0008174943797261393
+yard waste item	grass clipping	1	1	7	4	NULL	NULL	NULL	849	234	0.00016826518593303044
+yard waste material	leaf	5	5	27	15	0.214285714285	NULL	NULL	4185	1340	0.000221248727819815
+yard waste material	grass clipping	4	4	27	15	0.214285714285	NULL	NULL	849	234	0.0006979889194259041
+yard waste material	limb	2	2	27	15	0.214285714285	NULL	NULL	230	123	0.000644122383252818
+yard waste material	shrub	2	2	27	15	0.214285714285	NULL	NULL	993	403	0.00014919249561747044
+yard waste material	plant	2	2	27	15	0.214285714285	NULL	NULL	3283	1058	0.00004512584469940547
+yard waste material	twig	2	2	27	15	0.214285714285	NULL	NULL	772	294	0.00019190174630589137
+yard waste material	brush	2	2	27	15	0.214285714285	NULL	NULL	2012	738	0.00007363228039172373
+yard waste material	hay	1	1	27	15	0.214285714285	NULL	NULL	931	397	0.000039781994669212715
+yard waste material	tree & shrub trimming	1	1	27	15	0.214285714285	NULL	NULL	1	1	0.037037037037037035
+yard waste material	tree prunings	1	1	27	15	0.214285714285	NULL	NULL	7	6	0.005291005291005291
+yard waste material	grass	1	1	27	15	0.214285714285	NULL	NULL	3076	1135	0.000012040649231806579
+yard waste material	straw	1	1	27	15	0.214285714285	NULL	NULL	2432	856	0.000015229044834307991
+yard waste material	plant trimming	1	1	27	15	0.214285714285	NULL	NULL	8	7	0.004629629629629629
+yard waste material	weed	1	1	27	15	0.214285714285	NULL	NULL	699	307	0.00005298574683410162
+yard waste material	hedge trimming	1	1	27	15	0.214285714285	NULL	NULL	56	29	0.0006613756613756613
+yard waste rather substance	solvent	1	1	3	3	NULL	NULL	NULL	2858	751	0.0001166316771635176
+yard waste rather substance	cleaner	1	1	3	3	NULL	NULL	NULL	1041	373	0.0003202049311559398
+yard waste rather substance	paint	1	1	3	3	NULL	NULL	NULL	7733	1968	0.000043105306263201
+yard work	raking leaf	13	11	48	22	0.466666666666	NULL	NULL	192	79	0.01833767361111111
+yard work	mowing the lawn	7	7	48	22	0.466666666666	NULL	NULL	275	119	0.0037121212121212126
+yard work	mowing lawn	4	3	48	22	0.466666666666	NULL	NULL	135	71	0.0024691358024691358
+yard work	shoveling snow	3	2	48	22	0.466666666666	NULL	NULL	162	78	0.0011574074074074073
+yard work	planting flower	2	1	48	22	0.466666666666	NULL	NULL	59	33	0.0014124293785310734
+yard work	gardening	2	2	48	22	0.466666666666	NULL	NULL	3199	895	0.000026049807231426486
+yard work	mowing	2	2	48	22	0.466666666666	NULL	NULL	917	414	0.00009087604507451835
+yard work	cutting weed	1	1	48	22	0.466666666666	NULL	NULL	4	4	0.005208333333333333
+yard work	mowing wet grass during the storm	1	1	48	22	0.466666666666	NULL	NULL	1	1	0.020833333333333332
+yard work	planting	1	1	48	22	0.466666666666	NULL	NULL	625	315	0.00003333333333333333
+yard work	lawn mowing	1	1	48	22	0.466666666666	NULL	NULL	250	123	0.00008333333333333333
+yard work	landscape maintenance	1	1	48	22	0.466666666666	NULL	NULL	43	32	0.00048449612403100775
+yard work	heavy-duty yard work	1	1	48	22	0.466666666666	NULL	NULL	2	2	0.010416666666666666
+yard work	sweeping the driveway	1	1	48	22	0.466666666666	NULL	NULL	4	3	0.005208333333333333
+yard work	tree cutting	1	1	48	22	0.466666666666	NULL	NULL	39	26	0.0005341880341880341
+yard work	trimming plant	1	1	48	22	0.466666666666	NULL	NULL	2	2	0.010416666666666666
+yard work	raking wet leaf	1	1	48	22	0.466666666666	NULL	NULL	1	1	0.020833333333333332
+yard work	watering plant	1	1	48	22	0.466666666666	NULL	NULL	133	71	0.00015664160401002505
+yard work	loading	1	1	48	22	0.466666666666	NULL	NULL	302	155	0.00006898454746136865
+yard work	mowing the grass	1	1	48	22	0.466666666666	NULL	NULL	28	22	0.000744047619047619
+yard work	outdoor yard work	1	1	48	22	0.466666666666	NULL	NULL	2	2	0.010416666666666666
+yard work	weeding	1	1	48	22	0.466666666666	NULL	NULL	370	192	0.0000563063063063063
+yard work duty	mulching	2	1	7	5	0.800000000000	NULL	NULL	541	261	0.0010562450488513335
+yard work duty	trimming hedge	2	1	7	5	0.800000000000	NULL	NULL	15	9	0.03809523809523809
+yard work duty	trimming the hedge	1	1	7	5	0.800000000000	NULL	NULL	3	3	0.047619047619047616
+yard work duty	pulling weed	1	1	7	5	0.800000000000	NULL	NULL	40	32	0.0035714285714285713
+yard work duty	cutting the grass	1	1	7	5	0.800000000000	NULL	NULL	40	31	0.0035714285714285713
+yard work service	cutting back tree	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+yard work service	raking leaf	1	1	4	4	NULL	NULL	NULL	192	79	0.0013020833333333333
+yard work service	general yard debris hauling	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+yard work service	mowing	1	1	4	4	NULL	NULL	NULL	917	414	0.0002726281352235551
+yard-maintenance product	lawn mower	1	1	1	1	NULL	NULL	NULL	567	266	0.001763668430335097
+yardage horse	Ryan Grant	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+yarde's special event	music weekends featuring local musician	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarder	Berger L-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+yardi system product line	Advantage	1	1	2	2	NULL	NULL	NULL	499	214	0.001002004008016032
+yardi system product line	Professional	1	1	2	2	NULL	NULL	NULL	519	297	0.0009633911368015414
+yarding feature	corridor	1	1	2	2	NULL	NULL	NULL	450	205	0.0011111111111111111
+yarding feature	landing	1	1	2	2	NULL	NULL	NULL	131	86	0.003816793893129771
+yarding system	long-line skyline	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yarding system	helicopter	1	1	2	2	NULL	NULL	NULL	1018	386	0.0004911591355599214
+yardley classic	Lavender	1	1	3	3	0.333333333333	NULL	NULL	4569	1150	0.00007295542423579193
+yardley classic	English Rose	1	1	3	3	0.333333333333	NULL	NULL	6	6	0.05555555555555555
+yardley classic	Lily of the Valley	1	1	3	3	0.333333333333	NULL	NULL	148	87	0.0022522522522522522
+yardstick	continuing high unemployment rate	2	2	14	13	0.212121212121	NULL	NULL	3	2	0.09523809523809523
+yardstick	china's major indebtedness yardstick	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick	guage	1	1	14	13	0.212121212121	NULL	NULL	3	3	0.023809523809523808
+yardstick	net present value	1	1	14	13	0.212121212121	NULL	NULL	304	185	0.00023496240601503758
+yardstick	number of prospects generated	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick	total population	1	1	14	13	0.212121212121	NULL	NULL	60	36	0.0011904761904761904
+yardstick	longtime standard statistical yardstick	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick	share ofa business inputs procured from certified source	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick	capitalized cost	1	1	14	13	0.212121212121	NULL	NULL	5	3	0.014285714285714285
+yardstick	future anticipated income	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick	gaining of entry	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick	economic growth	1	1	14	13	0.212121212121	NULL	NULL	565	228	0.00012642225031605562
+yardstick	considerations of peace	1	1	14	13	0.212121212121	NULL	NULL	1	1	0.07142857142857142
+yardstick competition	car race	1	1	1	1	1.000000000000	NULL	NULL	41	25	0.024390243902439025
+yardstick online	transcribing podcasts	1	1	1	1	NULL	NULL	NULL	1	1	1
+yardstick scheme	Guided Bus	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+Yardwaste	leaf	2	2	6	4	NULL	NULL	NULL	4185	1340	0.00015929908403026683
+Yardwaste	grass clipping	2	2	6	4	NULL	NULL	NULL	849	234	0.000785237534354142
+Yardwaste	shrubbery	1	1	6	4	NULL	NULL	NULL	93	52	0.0017921146953405018
+Yardwaste	weed	1	1	6	4	NULL	NULL	NULL	699	307	0.0002384358607534573
+yardwork	gardening	2	2	9	7	0.666666666666	NULL	NULL	3199	895	0.0001389323052342746
+yardwork	pulling weed	2	2	9	7	0.666666666666	NULL	NULL	40	32	0.01111111111111111
+yardwork	tending garden	1	1	9	7	0.666666666666	NULL	NULL	4	4	0.027777777777777776
+yardwork	cutting grass	1	1	9	7	0.666666666666	NULL	NULL	60	47	0.0018518518518518517
+yardwork	Trim Tree	1	1	9	7	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+yardwork	mowing lawn	1	1	9	7	0.666666666666	NULL	NULL	135	71	0.0008230452674897119
+yardwork	sweeping the porch	1	1	9	7	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+yareah male flower product	original gift	1	1	1	1	NULL	NULL	NULL	1	1	1
+yaried technique	feature recognition	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+yariety chain	Marks & Spencer	1	1	1	1	NULL	NULL	NULL	765	277	0.00130718954248366
+yarious method	silver nitrate	1	1	2	2	0.333333333333	NULL	NULL	155	81	0.0032258064516129032
+yarious method	India ink	1	1	2	2	0.333333333333	NULL	NULL	36	29	0.013888888888888888
+yarn	cotton	18	16	304	180	0.445783132530	NULL	NULL	8381	1830	0.0001271673396592543
+yarn	polyester	10	10	304	180	0.445783132530	NULL	NULL	3517	980	0.00009353067057749576
+yarn	wool	10	10	304	180	0.445783132530	NULL	NULL	3859	1003	0.00008524160881602814
+yarn	silk	9	9	304	180	0.445783132530	NULL	NULL	4547	1140	0.000058598497563459994
+yarn	acrylic	7	7	304	180	0.445783132530	NULL	NULL	2269	706	0.00007103755422050057
+yarn	chenille	7	6	304	180	0.445783132530	NULL	NULL	181	69	0.0008905205001453911
+yarn	rayon	7	7	304	180	0.445783132530	NULL	NULL	844	251	0.00019097655275629834
+yarn	cashmere	7	6	304	180	0.445783132530	NULL	NULL	551	226	0.00029253032763396693
+yarn	Viscose	5	5	304	180	0.445783132530	NULL	NULL	148	70	0.0005556543385490753
+yarn	alpaca	5	5	304	180	0.445783132530	NULL	NULL	330	124	0.00024920255183413076
+yarn	boucle	5	5	304	180	0.445783132530	NULL	NULL	17	8	0.004837461300309597
+yarn	Itata	4	2	304	180	0.445783132530	NULL	NULL	4	1	0.013157894736842105
+yarn	nylon	4	4	304	180	0.445783132530	NULL	NULL	3721	1063	0.000014144471633262139
+yarn	Ulmo	4	2	304	180	0.445783132530	NULL	NULL	6	2	0.008771929824561403
+yarn	Nature Cotton	4	2	304	180	0.445783132530	NULL	NULL	4	1	0.013157894736842105
+yarn	Lonco	4	2	304	180	0.445783132530	NULL	NULL	4	1	0.013157894736842105
+yarn	Ruca	4	2	304	180	0.445783132530	NULL	NULL	4	1	0.013157894736842105
+yarn	acetate	3	3	304	180	0.445783132530	NULL	NULL	950	396	0.00003116343490304709
+yarn	linen	3	3	304	180	0.445783132530	NULL	NULL	3019	817	0.000009806314394797858
+yarn	eyelash	3	3	304	180	0.445783132530	NULL	NULL	72	49	0.00041118421052631577
+yarn	Trevira	2	2	304	180	0.445783132530	NULL	NULL	11	10	0.0011961722488038277
+yarn	Hand Knitting Yarns	2	1	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	angora	2	2	304	180	0.445783132530	NULL	NULL	152	62	0.00008656509695290859
+yarn	Silk Mohair	2	2	304	180	0.445783132530	NULL	NULL	4	3	0.003289473684210526
+yarn	yarn strands Y	2	2	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	woven fabric	2	2	304	180	0.445783132530	NULL	NULL	71	50	0.00018532246108228317
+yarn	Jute	2	2	304	180	0.445783132530	NULL	NULL	764	277	0.000017222375310002754
+yarn	lace weight mohair	2	1	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	Brown Sheep	2	2	304	180	0.445783132530	NULL	NULL	4	3	0.003289473684210526
+yarn	glass	2	2	304	180	0.445783132530	NULL	NULL	12254	3248	0.000001073763239500743
+yarn	filament yarns for knitted	2	2	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	Rowan	2	2	304	180	0.445783132530	NULL	NULL	171	81	0.00007694675284702985
+yarn	polyester yarn	2	2	304	180	0.445783132530	NULL	NULL	39	32	0.00033738191632928474
+yarn	cotton yarn	2	2	304	180	0.445783132530	NULL	NULL	68	33	0.00019349845201238389
+yarn	Handmaiden's Lady Godiva	2	1	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	Lurex	2	2	304	180	0.445783132530	NULL	NULL	13	9	0.0010121457489878543
+yarn	pure cotton	2	2	304	180	0.445783132530	NULL	NULL	32	18	0.00041118421052631577
+yarn	cashmere Hand Knitting Yarn	2	2	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	Designer's Dream	2	2	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	tweed	2	2	304	180	0.445783132530	NULL	NULL	222	129	0.00005926979611190137
+yarn	Sport Weight	2	1	304	180	0.445783132530	NULL	NULL	3	2	0.0043859649122807015
+yarn	metallic yarn	2	2	304	180	0.445783132530	NULL	NULL	19	15	0.0006925207756232687
+yarn	pashmina yarn	2	2	304	180	0.445783132530	NULL	NULL	2	1	0.006578947368421052
+yarn	marl	1	1	304	180	0.445783132530	NULL	NULL	46	29	0.00007151029748283753
+yarn	spun rayon	1	1	304	180	0.445783132530	NULL	NULL	8	3	0.00041118421052631577
+yarn	Steadfast Fibers Wonderful Wool	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Sugar & Cream cotton	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	sport weight yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	synthetic yarn	1	1	304	180	0.445783132530	NULL	NULL	10	8	0.0003289473684210526
+yarn	cloth	1	1	304	180	0.445783132530	NULL	NULL	1387	522	0.0000023716464918605093
+yarn	colored cotton yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	fire resistant yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	fancy yarn	1	1	304	180	0.445783132530	NULL	NULL	25	20	0.00013157894736842105
+yarn	fair trade yarn	1	1	304	180	0.445783132530	NULL	NULL	5	5	0.0006578947368421052
+yarn	100% Wool	1	1	304	180	0.445783132530	NULL	NULL	8	8	0.00041118421052631577
+yarn	alpaca silk	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	fun fur	1	1	304	180	0.445783132530	NULL	NULL	7	6	0.00046992481203007516
+yarn	fluffy or hairy yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Antron Yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	baby weight yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	bamboo	1	1	304	180	0.445783132530	NULL	NULL	2802	993	0.0000011739734775911942
+yarn	best quality yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	lace weight wool	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	japanese silk	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	polypropylene	1	1	304	180	0.445783132530	NULL	NULL	3078	933	0.0000010687049006531924
+yarn	olefin	1	1	304	180	0.445783132530	NULL	NULL	79	40	0.000041638907395069954
+yarn	novelty fur	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	multifilament yarn used for forming the front	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	microfiber yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Rowan Yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	smooth cotton yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	well-loved bible yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	worsted	1	1	304	180	0.445783132530	NULL	NULL	5	5	0.0006578947368421052
+yarn	woolen yarn	1	1	304	180	0.445783132530	NULL	NULL	6	6	0.0005482456140350877
+yarn	low-count yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	lightweight mohair	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Jaggerspun Zephyr	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	lace	1	1	304	180	0.445783132530	NULL	NULL	1112	414	0.0000029581597879591062
+yarn	high end luxury yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	high-count combed yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	carbon fiber	1	1	304	180	0.445783132530	NULL	NULL	1008	325	0.0000032633667502088553
+yarn	Cascade's Tuscany Grande	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	carpet yarn	1	1	304	180	0.445783132530	NULL	NULL	3	3	0.0010964912280701754
+yarn	fuzzy aran yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Baby Bamboo	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	bright acrylic of the same shade	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	compact yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	top-quality precious yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	socks cotton yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	7 Nm	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	fifty' adventure yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	eco friendly yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Medium Worsted Weight Yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Merino Blend DK	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	pure wool	1	1	304	180	0.445783132530	NULL	NULL	31	17	0.00010611205432937182
+yarn	PP BCF	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Noro Kureyon	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	painterly random-dyed textured yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	sewing yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Silk Stainless Steel	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Rip Van Winkle	1	1	304	180	0.445783132530	NULL	NULL	15	13	0.00021929824561403506
+yarn	filament yarns from becoming nappy	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	fine micron merino 8ply	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	acrylic weavings yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Double Knitting	1	1	304	180	0.445783132530	NULL	NULL	5	3	0.0006578947368421052
+yarn	Classic Elite	1	1	304	180	0.445783132530	NULL	NULL	3	3	0.0010964912280701754
+yarn	conventional elastic yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	soft natural yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	good shiny yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	chunky yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Cherry Tree Hill	1	1	304	180	0.445783132530	NULL	NULL	3	3	0.0010964912280701754
+yarn	chenille yarn	1	1	304	180	0.445783132530	NULL	NULL	5	4	0.0006578947368421052
+yarn	cheap acrylic yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	blended yarn	1	1	304	180	0.445783132530	NULL	NULL	18	14	0.0001827485380116959
+yarn	belgian linen	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	knit in conjunction with a thicker yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	King Cole Bamboo Cotton	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	kevlar yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Kevlar	1	1	304	180	0.445783132530	NULL	NULL	469	201	0.000007013803164627987
+yarn	Lion Homespun	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	long print yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Lycra	1	1	304	180	0.445783132530	NULL	NULL	322	127	0.000010215756783262504
+yarn	homespun	1	1	304	180	0.445783132530	NULL	NULL	12	10	0.00027412280701754384
+yarn	high quality italian yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	high performance yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	high twist yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	hard-wearing sock yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Indigo Moon	1	1	304	180	0.445783132530	NULL	NULL	3	3	0.0010964912280701754
+yarn	prepared by ring	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	printing yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	organic cotton yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	Noro	1	1	304	180	0.445783132530	NULL	NULL	14	8	0.00023496240601503758
+yarn	one-component yarns of natural	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Patons Smoothie	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Patons SWS	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	pattern yarns 23a	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	neon fluorescent	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Rowan wool-cotton	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	self striping yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	silk weaving yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	yarns F1	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	worsted weight yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	viscose blened yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	viscose blended yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	Buffalo Gold	1	1	304	180	0.445783132530	NULL	NULL	3	3	0.0010964912280701754
+yarn	heavy-weight cotton yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	heat resistant yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	heavily textured yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	high sheen artsilk	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Linen Steel	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Malabrigo Worsted	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Manos de Uraguay	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Manos del Uruguay Wool Clasica	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Lambswool	1	1	304	180	0.445783132530	NULL	NULL	20	14	0.0001644736842105263
+yarn	kevlar aramid yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	texterised dyed yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Suri Dream	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	super bulky yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	super bulky	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	F7	1	1	304	180	0.445783132530	NULL	NULL	11	10	0.0002990430622009569
+yarn	``heavier weight'' yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	40s	1	1	304	180	0.445783132530	NULL	NULL	6	6	0.0005482456140350877
+yarn	100% bamboo yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Mochi Plus	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	mohair	1	1	304	180	0.445783132530	NULL	NULL	220	94	0.000014952153110047846
+yarn	Sirdar Crofter Dk	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	slub yarn karded	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	soft warm yarn	1	1	304	180	0.445783132530	NULL	NULL	2	2	0.001644736842105263
+yarn	Shadow Kingdom	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Nylon BCF	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Okimi Ribbon	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	organic cotton	1	1	304	180	0.445783132530	NULL	NULL	454	181	0.000007245536749362393
+yarn	Noro Silk Garden	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Noro Yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	pile yarn	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	printed Weaving Yarns	1	1	304	180	0.445783132530	NULL	NULL	1	1	0.003289473684210526
+yarn	Red Heart	1	1	304	180	0.445783132530	NULL	NULL	26	23	0.00012651821862348178
+yarn	Red Heart Super Saver	1	1	304	180	0.445783132530	NULL	NULL	3	3	0.0010964912280701754
+yarn accerssories	yarn winder	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yarn architecture parameter	braid angle	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+yarn base	organic merino	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+yarn base	cashmere	1	1	4	4	NULL	NULL	NULL	551	226	0.00045372050816696913
+yarn base	bamboo	1	1	4	4	NULL	NULL	NULL	2802	993	0.00008922198429693076
+yarn base	superwash merino	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+yarn brand	Caron	1	1	5	5	0.666666666666	NULL	NULL	8	7	0.025
+yarn brand	Rowan	1	1	5	5	0.666666666666	NULL	NULL	171	81	0.0011695906432748538
+yarn brand	Manos Del Uruguay	1	1	5	5	0.666666666666	NULL	NULL	2	2	0.1
+yarn brand	Rowan Berroco Karabella Crystal Palace Noro	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+yarn brand	Lion Brand	1	1	5	5	0.666666666666	NULL	NULL	19	13	0.010526315789473684
+yarn brand website	Red Heart	1	1	1	1	1.000000000000	NULL	NULL	26	23	0.038461538461538464
+yarn carrier	textile bobbin	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn characteristic	tenacity	2	2	13	11	0.285714285714	NULL	NULL	159	89	0.0019351717464925013
+yarn characteristic	breaking elongation	2	2	13	11	0.285714285714	NULL	NULL	11	6	0.027972027972027972
+yarn characteristic	detailed yarn characteristic	1	1	13	11	0.285714285714	NULL	NULL	2	2	0.038461538461538464
+yarn characteristic	thick place	1	1	13	11	0.285714285714	NULL	NULL	5	5	0.015384615384615385
+yarn characteristic	uniformity	1	1	13	11	0.285714285714	NULL	NULL	149	85	0.0005162622612287042
+yarn characteristic	density	1	1	13	11	0.285714285714	NULL	NULL	3212	1051	0.00002394865408564039
+yarn characteristic	linear density	1	1	13	11	0.285714285714	NULL	NULL	5	4	0.015384615384615385
+yarn characteristic	yarn mass CV%	1	1	13	11	0.285714285714	NULL	NULL	1	1	0.07692307692307693
+yarn characteristic	elongation	1	1	13	11	0.285714285714	NULL	NULL	315	109	0.0002442002442002442
+yarn characteristic	appearance	1	1	13	11	0.285714285714	NULL	NULL	933	363	0.00008244702778464837
+yarn characteristic	thin place	1	1	13	11	0.285714285714	NULL	NULL	3	3	0.025641025641025644
+yarn clearing parameter	clearing channels with classification matrix	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yarn clearing parameter	clearer curve	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yarn company	Lion Brand	6	5	13	9	0.750000000000	NULL	NULL	19	13	0.145748987854251
+yarn company	Mohawk	1	1	13	9	0.750000000000	NULL	NULL	187	84	0.00041135335252982314
+yarn company	Rowan Yarns	1	1	13	9	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+yarn company	rachel most major yarn company	1	1	13	9	0.750000000000	NULL	NULL	2	2	0.038461538461538464
+yarn company	Classic Elite Yarns	1	1	13	9	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+yarn company	Caron	1	1	13	9	0.750000000000	NULL	NULL	8	7	0.009615384615384616
+yarn company	basic, cheaper yarn company	1	1	13	9	0.750000000000	NULL	NULL	2	2	0.038461538461538464
+yarn company	Red Heart	1	1	13	9	0.750000000000	NULL	NULL	26	23	0.002958579881656805
+yarn company site	Lion Brand	1	1	2	2	1.000000000000	NULL	NULL	19	13	0.02631578947368421
+yarn company site	Crystal palace	1	1	2	2	1.000000000000	NULL	NULL	55	29	0.00909090909090909
+yarn construction feature	twist	2	2	4	3	NULL	NULL	NULL	273	155	0.003663003663003663
+yarn construction feature	linear density	1	1	4	3	NULL	NULL	NULL	5	4	0.05
+yarn construction feature	diameter	1	1	4	3	NULL	NULL	NULL	663	314	0.0003770739064856712
+yarn defect	slub	1	1	2	2	0.666666666666	NULL	NULL	3	3	0.16666666666666666
+yarn defect	thick place	1	1	2	2	0.666666666666	NULL	NULL	5	5	0.1
+yarn dyeing machine	linen Yarn Dyeing Machines	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn fabric	woollen	1	1	2	2	0.500000000000	NULL	NULL	11	9	0.045454545454545456
+yarn fabric	sheeting	1	1	2	2	0.500000000000	NULL	NULL	51	38	0.00980392156862745
+yarn feeler lever	yarn feeler lever on the outlet side	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn guide element	yarn eyelet	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn handling machine	spinning frame	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+yarn holding element	pin	1	1	1	1	NULL	NULL	NULL	2022	726	0.0004945598417408506
+yarn line	Noro	1	1	1	1	0.333333333333	NULL	NULL	14	8	0.07142857142857142
+yarn maker	Vardhaman Textiles	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yarn manufacture mill	Almer Textile	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yarn manufacture mill	Karsu Textile	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yarn manufacturer	Lion Brand	2	2	5	4	1.000000000000	NULL	NULL	19	13	0.042105263157894736
+yarn manufacturer	notable yarn manufacturer	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+yarn manufacturer	budget yarn manufacturer	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+yarn manufacturer	Red Heart	1	1	5	4	1.000000000000	NULL	NULL	26	23	0.007692307692307693
+yarn material	nylon	2	2	4	2	NULL	NULL	NULL	3721	1063	0.0002687449610319806
+yarn material	multi-filament polyester	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yarn merchant	James Oakes in Bury St Edmunds	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn parameter	short IPI	1	1	9	9	0.142857142857	NULL	NULL	1	1	0.1111111111111111
+yarn parameter	hairiness	1	1	9	9	0.142857142857	NULL	NULL	26	16	0.004273504273504273
+yarn parameter	twist	1	1	9	9	0.142857142857	NULL	NULL	273	155	0.000407000407000407
+yarn parameter	Classimat fault	1	1	9	9	0.142857142857	NULL	NULL	1	1	0.1111111111111111
+yarn parameter	elongation	1	1	9	9	0.142857142857	NULL	NULL	315	109	0.00035273368606701937
+yarn parameter	diameter	1	1	9	9	0.142857142857	NULL	NULL	663	314	0.0001675884028825205
+yarn parameter	extensibility	1	1	9	9	0.142857142857	NULL	NULL	112	61	0.000992063492063492
+yarn parameter	tenacity	1	1	9	9	0.142857142857	NULL	NULL	159	89	0.0006988120195667365
+yarn parameter	strength	1	1	9	9	0.142857142857	NULL	NULL	2884	881	0.000038526737555863765
+yarn preparatory machine	segments of twisting	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn processing machine	bobbin winder	1	1	1	1	1.000000000000	NULL	NULL	16	9	0.0625
+yarn processing system	knitting yarn feeding device	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn producer	Celanese	1	1	4	4	0.333333333333	NULL	NULL	16	11	0.015625
+yarn producer	DuPont	1	1	4	4	0.333333333333	NULL	NULL	897	294	0.0002787068004459309
+yarn producer	Knit Picks	1	1	4	4	0.333333333333	NULL	NULL	3	3	0.08333333333333333
+yarn producer	Monsanto	1	1	4	4	0.333333333333	NULL	NULL	762	272	0.00032808398950131233
+yarn product	unfinished project	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yarn product	elastic	1	1	2	2	NULL	NULL	NULL	137	73	0.0036496350364963502
+yarn property	strength	5	4	38	23	0.470588235294	NULL	NULL	2884	881	0.00022811884079129862
+yarn property	bundle diameter	4	3	38	23	0.470588235294	NULL	NULL	4	1	0.10526315789473684
+yarn property	yield	4	3	38	23	0.470588235294	NULL	NULL	577	275	0.0007297272644349174
+yarn property	elongation	3	3	38	23	0.470588235294	NULL	NULL	315	109	0.0007518796992481202
+yarn property	tenacity	2	2	38	23	0.470588235294	NULL	NULL	159	89	0.0006620324395895398
+yarn property	linear density	2	1	38	23	0.470588235294	NULL	NULL	5	4	0.021052631578947368
+yarn property	elongation at break	2	1	38	23	0.470588235294	NULL	NULL	113	28	0.0009315323707498835
+yarn property	elasticity recovery	1	1	38	23	0.470588235294	NULL	NULL	1	1	0.02631578947368421
+yarn property	dimension	1	1	38	23	0.470588235294	NULL	NULL	1006	421	0.000026158836454954484
+yarn property	denier	1	1	38	23	0.470588235294	NULL	NULL	8	7	0.003289473684210526
+yarn property	tensile modulus	1	1	38	23	0.470588235294	NULL	NULL	64	23	0.00041118421052631577
+yarn property	breaking elongation	1	1	38	23	0.470588235294	NULL	NULL	11	6	0.0023923444976076554
+yarn property	yarn surface	1	1	38	23	0.470588235294	NULL	NULL	1	1	0.02631578947368421
+yarn property	breaking strength	1	1	38	23	0.470588235294	NULL	NULL	23	16	0.0011441647597254005
+yarn property	breaking extension	1	1	38	23	0.470588235294	NULL	NULL	2	2	0.013157894736842105
+yarn property	tensile strength	1	1	38	23	0.470588235294	NULL	NULL	997	228	0.000026394974396874834
+yarn property	evenness	1	1	38	23	0.470588235294	NULL	NULL	41	32	0.0006418485237483953
+yarn property	energy at break point	1	1	38	23	0.470588235294	NULL	NULL	1	1	0.02631578947368421
+yarn property	electrical resistance	1	1	38	23	0.470588235294	NULL	NULL	57	38	0.0004616805170821791
+yarn property	rigidity	1	1	38	23	0.470588235294	NULL	NULL	310	133	0.00008488964346349744
+yarn property	breaking load	1	1	38	23	0.470588235294	NULL	NULL	5	5	0.005263157894736842
+yarn property	critical yarn property	1	1	38	23	0.470588235294	NULL	NULL	2	2	0.013157894736842105
+yarn property	modulus	1	1	38	23	0.470588235294	NULL	NULL	280	82	0.00009398496240601503
+yarn quality measure	strength	1	1	2	2	NULL	NULL	NULL	2884	881	0.00017337031900138697
+yarn quality measure	elongation	1	1	2	2	NULL	NULL	NULL	315	109	0.0015873015873015873
+yarn quality parameter	strength	4	4	13	5	0.750000000000	NULL	NULL	2884	881	0.0004267577083111064
+yarn quality parameter	elongation	4	4	13	5	0.750000000000	NULL	NULL	315	109	0.003907203907203907
+yarn quality parameter	hairiness	3	3	13	5	0.750000000000	NULL	NULL	26	16	0.026627218934911243
+yarn quality parameter	evenness	1	1	13	5	0.750000000000	NULL	NULL	41	32	0.001876172607879925
+yarn quality parameter	classical yarn quality parameter	1	1	13	5	0.750000000000	NULL	NULL	3	3	0.025641025641025644
+yarn related offer	Metallic Yarn	1	1	2	2	1.000000000000	NULL	NULL	19	15	0.02631578947368421
+yarn related offer	Polyester Yarn	1	1	2	2	1.000000000000	NULL	NULL	39	32	0.01282051282051282
+yarn s	slub yarn karded	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+yarn s	viscose blended yarn	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+yarn s	organic cotton yarn	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+yarn s	printing yarn	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+yarn s	cotton yarn s	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+yarn s	carpet yarn	1	1	8	8	1.000000000000	NULL	NULL	3	3	0.041666666666666664
+yarn s	fair trade yarn	1	1	8	8	1.000000000000	NULL	NULL	5	5	0.025
+yarn s	woolen yarn	1	1	8	8	1.000000000000	NULL	NULL	6	6	0.020833333333333332
+yarn shop	John Lewis's	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yarn site	Lion Brand	1	1	2	2	0.500000000000	NULL	NULL	19	13	0.02631578947368421
+yarn site	Vogue	1	1	2	2	0.500000000000	NULL	NULL	1131	265	0.0004420866489832007
+yarn specification	tensile strength	1	1	1	1	NULL	NULL	NULL	997	228	0.0010030090270812437
+yarn store	Fiber Studio in Henniker	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yarn store	Harrisville	1	1	2	2	NULL	NULL	NULL	7	4	0.07142857142857142
+yarn structural variant	spinning draft	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn structure parameter	twist	1	1	2	2	0.500000000000	NULL	NULL	273	155	0.0018315018315018315
+yarn structure parameter	hairiness	1	1	2	2	0.500000000000	NULL	NULL	26	16	0.019230769230769232
+yarn system	nylon	2	2	5	4	NULL	NULL	NULL	3721	1063	0.00021499596882558453
+yarn system	wool	1	1	5	4	NULL	NULL	NULL	3859	1003	0.000051826898160145116
+yarn system	Anso	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+yarn system	polyester	1	1	5	4	NULL	NULL	NULL	3517	980	0.000056866647711117435
+yarn type	acrylic	1	1	7	7	NULL	NULL	NULL	2269	706	0.00006296039790971479
+yarn type	plied monofilament	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yarn type	plied multifilament	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yarn type	Solospun yarn	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yarn type	glass PBI	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+yarn type	nylon	1	1	7	7	NULL	NULL	NULL	3721	1063	0.00003839213729028295
+yarn type	wool	1	1	7	7	NULL	NULL	NULL	3859	1003	0.00003701921297153222
+yarn variety	Alpine Wool	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn waste	cotton yarn waste	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+yarn waste	cotton waste	1	1	2	2	1.000000000000	NULL	NULL	40	20	0.0125
+yarn waste product	acrylic	1	1	2	2	NULL	NULL	NULL	2269	706	0.00022036139268400177
+yarn waste product	polypropylene with good price	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yarn website	Lion Yarn	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarn-dyed pattern	stripe	1	1	1	1	NULL	NULL	NULL	656	267	0.001524390243902439
+Yarn-makers	Parkdale Mills	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+yarn-twisting machine	Italian-type yarn-twisting machine	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yarn-twisting machine	ring yarn-twisting machine	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+yarra past landmark	Victorian Arts Centre	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+yarra past landmark	Royal Botanic Gardens	1	1	3	3	1.000000000000	NULL	NULL	29	24	0.011494252873563218
+yarra past landmark	MCG	1	1	3	3	1.000000000000	NULL	NULL	27	20	0.012345679012345678
+yarrabah resident	Mr Neal	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yarragon local	Ray Williams	1	1	1	1	NULL	NULL	NULL	1	1	1
+yarts	poetry	1	1	1	1	NULL	NULL	NULL	1427	537	0.000700770847932726
+yas island attraction	Yas Marina & Yacht Club	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yas island attraction	Yas Marina Circuit	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+yasalam event	Mastering Motorsport	1	1	1	1	NULL	NULL	NULL	1	1	1
+Yasculartumors	hemangiomas	1	1	1	1	NULL	NULL	NULL	141	56	0.0070921985815602835
+yasemin besen-cassino traditional domestic duty	housekeeping	1	1	1	1	NULL	NULL	NULL	1057	380	0.000946073793755913
+yaskawa AC drive	A1000	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+yaskawa AC drive feature	Stall Prevention	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+yaskawa AC drive feature	Dwell	1	1	2	2	1.000000000000	NULL	NULL	53	22	0.009433962264150943
+yaskawa's new technology	speed observer control	2	2	2	1	NULL	NULL	NULL	2	1	1
+yasmin ahmad's film	Sepet	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+yasmin ahmad's film	Muallaf	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yasmin franchise	lower dose version YAZ	1	1	1	1	NULL	NULL	NULL	1	1	1
+yasmin's movie	Sepet	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+yasmin's movie	Talentime	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yassmin mohsen's private life datum	romance	1	1	3	3	NULL	NULL	NULL	427	152	0.00078064012490242
+yassmin mohsen's private life datum	dating person	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+yassmin mohsen's private life datum	boyfriend	1	1	3	3	NULL	NULL	NULL	72	57	0.004629629629629629
+yasuharu hasebe flick	Assault Jack The Ripper	1	1	1	1	NULL	NULL	NULL	1	1	1
+yateley myth & legend	Gunpowder Plot	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+yateley myth & legend	Parson Darby	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+yater asset	blanket	2	2	2	1	NULL	NULL	NULL	3502	1014	0.0005711022272986865
+yates county crop farm	vineyard	1	1	1	1	NULL	NULL	NULL	166	97	0.006024096385542169
+yates county public record	birth	1	1	3	3	NULL	NULL	NULL	2157	686	0.00015453562046051613
+yates county public record	marriage	1	1	3	3	NULL	NULL	NULL	4449	1264	0.0000749232037161909
+yates county public record	death	1	1	3	3	NULL	NULL	NULL	4423	1491	0.00007536362951239732
+yates county town	Jerusalem	1	1	2	2	0.500000000000	NULL	NULL	339	127	0.0014749262536873156
+yates county town	Benton	1	1	2	2	0.500000000000	NULL	NULL	24	14	0.020833333333333332
+yates program	Bible study group	1	1	3	3	1.000000000000	NULL	NULL	19	13	0.017543859649122806
+yates program	Sunday school class	1	1	3	3	1.000000000000	NULL	NULL	70	25	0.0047619047619047615
+yates program	prayer group	1	1	3	3	1.000000000000	NULL	NULL	44	33	0.007575757575757575
+Yatras	Dola Yatra	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yatras	Rahul Baba's padyatra	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Yatras	Ratha Yatra	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+yatsubusa form	Little Princess	1	1	1	1	1.000000000000	NULL	NULL	22	17	0.045454545454545456
+yatsufusa dwarf variety	kokonoe	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+yauatcha's excellent beverage flavored macaroon	coffee	1	1	1	1	NULL	NULL	NULL	11509	2489	0.00008688852202624034
+yavnean master	Gamaliel	2	2	3	2	0.500000000000	NULL	NULL	9	6	0.14814814814814814
+yavnean master	Aqiba	1	1	3	2	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+yavneh stream subject	Chumash	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+yaw control device	rudder pedal	1	1	1	1	1.000000000000	NULL	NULL	18	16	0.05555555555555555
+yaw effect	sideslip	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+yayoi kusama good	marble chocolate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yayoi kusama good	cookie	1	1	2	2	NULL	NULL	NULL	5329	1507	0.00009382623381497467
+yaz side effect	pulmonary embolism	1	1	1	1	NULL	NULL	NULL	418	151	0.0023923444976076554
+yazd craft	china	1	1	5	5	0.250000000000	NULL	NULL	30422	3640	0.00000657418973111564
+yazd craft	Termeh	1	1	5	5	0.250000000000	NULL	NULL	5	3	0.04
+yazd craft	pottery	1	1	5	5	0.250000000000	NULL	NULL	1931	710	0.0001035732780942517
+yazd craft	Kilim	1	1	5	5	0.250000000000	NULL	NULL	11	9	0.018181818181818184
+yazd craft	rug	1	1	5	5	0.250000000000	NULL	NULL	1236	485	0.00016181229773462783
+yazd's handicraft	Kilim	3	3	18	7	0.400000000000	NULL	NULL	11	9	0.045454545454545456
+yazd's handicraft	rug	3	3	18	7	0.400000000000	NULL	NULL	1236	485	0.0004045307443365696
+yazd's handicraft	Termeh	3	3	18	7	0.400000000000	NULL	NULL	5	3	0.1
+yazd's handicraft	pottery	3	3	18	7	0.400000000000	NULL	NULL	1931	710	0.0002589331952356292
+yazd's handicraft	small carpet	3	3	18	7	0.400000000000	NULL	NULL	5	2	0.1
+yazd's handicraft	earthenware	2	2	18	7	0.400000000000	NULL	NULL	63	44	0.003527336860670194
+yazd's handicraft	ceramic	1	1	18	7	0.400000000000	NULL	NULL	4473	1434	0.000012420200213627444
+yazoo brewery staple	Dos Perros	1	1	1	1	NULL	NULL	NULL	1	1	1

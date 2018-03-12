@@ -1,0 +1,26 @@
+vx-specific part	body panel	1	1	3	3	0.666666666666	NULL	NULL	63	40	0.005291005291005291
+vx-specific part	headlamp	1	1	3	3	0.666666666666	NULL	NULL	140	79	0.0023809523809523807
+vx-specific part	interior panel	1	1	3	3	0.666666666666	NULL	NULL	23	12	0.014492753623188404
+vx37l's basic function	volume	1	1	2	2	NULL	NULL	NULL	2436	1012	0.00020525451559934318
+vx37l's basic function	power	1	1	2	2	NULL	NULL	NULL	4617	1701	0.00010829542993285683
+VX8000 accessory	holster	1	1	3	3	NULL	NULL	NULL	412	269	0.0008090614886731391
+VX8000 accessory	charger	1	1	3	3	NULL	NULL	NULL	924	460	0.00036075036075036075
+VX8000 accessory	case	1	1	3	3	NULL	NULL	NULL	1324	675	0.00025176233635448137
+VXI hardware	VT1432B digitizers for high-channel count real-time data acquisition	1	1	1	1	NULL	NULL	NULL	1	1	1
+VXI-11 device	LXI instrument	1	1	1	1	NULL	NULL	NULL	1	1	1
+VXI-11 protocol with program	National Instrument's NI-VISA	1	1	1	1	NULL	NULL	NULL	1	1	1
+VXIbus controller functionality	multiple chassis connectivity	2	2	7	4	0.500000000000	NULL	NULL	2	1	0.2857142857142857
+VXIbus controller functionality	trigger control	2	2	7	4	0.500000000000	NULL	NULL	28	17	0.02040816326530612
+VXIbus controller functionality	memory management	2	2	7	4	0.500000000000	NULL	NULL	221	123	0.002585649644473174
+VXIbus controller functionality	automatic resource manager functionality	1	1	7	4	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+vxvm object	volume	2	2	2	1	0.500000000000	NULL	NULL	2436	1012	0.0008210180623973727
+VxVM related information	data in the VxVM private areas on removed disk	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VxVM-related information	data in the VxVM private areas on removed disk	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vxworks device	Gateway Controllers	1	1	1	1	NULL	NULL	NULL	1	1	1
+vxworks feature	user hook routines at task-switch time	1	1	1	1	NULL	NULL	NULL	1	1	1
+vxworks kernel object	message queue	1	1	2	2	0.500000000000	NULL	NULL	44	35	0.011363636363636364
+vxworks kernel object	semaphore	1	1	2	2	0.500000000000	NULL	NULL	192	118	0.0026041666666666665
+vxworks tool	console	1	1	4	5	NULL	NULL	NULL	117	67	0.002136752136752137
+vxworks tool	performance scope	1	1	4	5	NULL	NULL	NULL	1	1	0.25
+vxworks tool	shell vb	1	1	4	5	NULL	NULL	NULL	1	1	0.25
+vxworks tool	system viewer	1	1	4	5	NULL	NULL	NULL	1	1	0.25

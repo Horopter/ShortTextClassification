@@ -1,0 +1,108 @@
+GB accessory	cable tie	1	1	1	1	NULL	NULL	NULL	110	60	0.00909090909090909
+GB department	Defense	1	1	2	3	0.500000000000	NULL	NULL	1651	550	0.0003028467595396729
+GB department	Inland Revenue	1	1	2	3	0.500000000000	NULL	NULL	46	20	0.010869565217391304
+GB drug	pentolinium	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+GB drug	hexamethonium	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+GB feature	theme chooser	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+GB feature	CRT animation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+GB game	Pokemon Red	1	1	3	3	NULL	NULL	NULL	13	4	0.02564102564102564
+GB game	Gargoyle's Quest	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+GB game	Supermario Land	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+GB hard disk	Hitachi 7K160	1	1	1	1	NULL	NULL	NULL	1	1	1
+GB industrial battery asset	fund	1	1	3	3	NULL	NULL	NULL	244	130	0.001366120218579235
+GB industrial battery asset	computer	1	1	3	3	NULL	NULL	NULL	13729	3711	0.00002427950566926457
+GB industrial battery asset	product	1	1	3	3	NULL	NULL	NULL	1416	669	0.00023540489642184556
+GB memory card	Memory Mobile phone	1	1	1	1	NULL	NULL	NULL	1	1	1
+GB mp3 player	Zune	1	1	1	1	NULL	NULL	NULL	290	95	0.0034482758620689655
+GB pitcher	Lowe	1	1	1	1	1.000000000000	NULL	NULL	28	25	0.03571428571428571
+GB platter drive	Samsung Spinpoint F3	1	1	1	1	NULL	NULL	NULL	1	1	1
+GB power market driver	coal price	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+GB rail demand forecasting methodology	Passenger Demand Forecasting Handbook	1	1	1	1	NULL	NULL	NULL	1	1	1
+GB relatedphenomena	grain boundary sliding	1	1	1	1	0.500000000000	NULL	NULL	12	9	0.08333333333333333
+GB series valve	tee ball valve	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+GB series valve	GB gate	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+GB series valve	globe	1	1	6	6	0.500000000000	NULL	NULL	354	214	0.00047080979284369113
+GB series valve	float ball	1	1	6	6	0.500000000000	NULL	NULL	18	8	0.009259259259259259
+GB series valve	vertical check	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+GB series valve	lift check	1	1	6	6	0.500000000000	NULL	NULL	3	2	0.05555555555555555
+GB structure	pair-correlation function	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GB style S&C	daily wod	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GB superstar	Amy Winehouse	1	1	2	2	NULL	NULL	NULL	195	82	0.002564102564102564
+GB superstar	Coldplay	1	1	2	2	NULL	NULL	NULL	487	127	0.001026694045174538
+GB title	Donkey Kong	1	1	1	1	NULL	NULL	NULL	224	106	0.004464285714285714
+gb-deficient plant	tobacco	1	1	1	1	NULL	NULL	NULL	3589	1064	0.00027862914460852607
+gb-oriented contribution	Campos	1	1	1	1	0.500000000000	NULL	NULL	13	11	0.07692307692307693
+gb-wide clean energy cash-back initiative	proposed Renewable Heat Incentive	1	1	1	2	NULL	NULL	NULL	1	1	1
+gb020arresting gear device	cable	1	1	1	1	NULL	NULL	NULL	3854	1434	0.0002594706798131811
+GBA add-on gadget	wireless adapter	1	1	1	1	1.000000000000	NULL	NULL	34	24	0.029411764705882353
+GBA emulator	VisualBoyAdvance	1	1	1	1	NULL	NULL	NULL	6	2	0.16666666666666666
+GBA favorite	GBA Annual Senior Advisory Luncheons	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBA flashcard	Flash2Advance Ultra	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBA game	Drill Dozer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+gba game	promising new gba game	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+GBA game	Dogz	1	1	5	5	NULL	NULL	NULL	6	4	0.03333333333333333
+GBA game	FFTA	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+GBA game	Superstar Saga	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+GBA goodie	versions of Puyo Pop	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBA Pokemon game	FireRed	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+GBA racing title	F-Zero	1	1	1	1	1.000000000000	NULL	NULL	21	13	0.047619047619047616
+gba remake	FFIV	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+gba remake	FFVI	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+GBA RPGs	Golden Sun	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+gba title	infinitely better gba title	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GBAS system	Local Area Augmentation System under development by the FAA	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBB rifle	King Arms	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+GBB rifle	ones made by G&P	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+GBBRs	Wetti M4	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBC also supply solution	water & solvent based medium	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+GBC also supply solution	window	1	1	2	2	NULL	NULL	NULL	4545	1712	0.00011001100110011001
+GBC classic	Pokemon Yellow	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GBC property	Kids CanMove	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBC risk management tool	club compliance form	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+GBC risk management tool	release	1	1	3	3	0.333333333333	NULL	NULL	195	123	0.0017094017094017094
+GBC risk management tool	informed consent form	1	1	3	3	0.333333333333	NULL	NULL	23	17	0.014492753623188404
+GBC social event	getaway weekend	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+GBC social event	getaway weekends in September	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+GBC social event	Graduate Formal	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+GBC social event	pub night	1	1	4	4	0.500000000000	NULL	NULL	43	20	0.005813953488372093
+gbc's advisor	Sridhara Maharaja	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+gbc's advisor	Narayana Maharaja	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+GBCA green star requirement furnishings	chair	1	1	1	1	NULL	NULL	NULL	3601	1244	0.00027770063871146905
+GBCI insider	Joel McKellar of the Real Life LEED Blog	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBCP expense	advertising	1	1	2	2	0.500000000000	NULL	NULL	4247	1447	0.0001177301624676242
+GBCP expense	room hire	1	1	2	2	0.500000000000	NULL	NULL	24	14	0.020833333333333332
+GBCs	Tamala Krishna	1	1	1	1	NULL	NULL	NULL	1	1	1
+gbe application	top-of-rack server access	1	1	1	1	NULL	NULL	NULL	1	1	1
+gbe language	Mina	1	1	2	2	1.000000000000	NULL	NULL	18	17	0.027777777777777776
+gbe language	Ewe	1	1	2	2	1.000000000000	NULL	NULL	35	21	0.014285714285714285
+gbe port-based protocol address	IP address	2	2	2	1	NULL	NULL	NULL	1561	490	0.0012812299807815502
+GBEs	Medibank Private	1	1	1	1	0.800000000000	NULL	NULL	9	9	0.1111111111111111
+GBI audit law enforcement agency	Clayton County Sheriff's Department	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBIF tool	GBIF data portal	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBIP information tool	Great Basin Bibliography	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBL heavyweight	Peabody looming on the horizon	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+GBL social program	drug	1	1	1	1	NULL	NULL	NULL	5262	1715	0.00019004180919802356
+GBM cell	A-172 MG	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GBM cell line	A-172 MG	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GBM gene alteration	PTEN inactivation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GBP larger purchase	mechanical	1	1	1	1	NULL	NULL	NULL	1078	503	0.0009276437847866419
+gbp-like activity	hemocyte aggregation activity	1	1	1	1	NULL	NULL	NULL	1	1	1
+gbps electronic subsystem	small n x n switching matrix	1	1	1	1	NULL	NULL	NULL	1	1	1
+gbrmscomposedof synthetic polymeric material	polyester	1	1	1	1	NULL	NULL	NULL	3517	980	0.0002843332385555871
+gbrv's social mission	Barrio Adentro	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+gbrv's social mission	Mercal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+GBS approach	Socratic	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+GBS prophylaxis therapy	Hibiclens periwashes	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBS settlement	Amazon.com	1	1	1	1	NULL	NULL	NULL	2845	836	0.000351493848857645
+GBS virulence factor	pore-forming toxin	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+GBS-S rate symptom	anxiety	1	1	3	3	0.250000000000	NULL	NULL	10807	2261	0.000030844205915918693
+GBS-S rate symptom	confusion	1	1	3	3	0.250000000000	NULL	NULL	1535	484	0.00021715526601520085
+GBS-S rate symptom	irritability	1	1	3	3	0.250000000000	NULL	NULL	2260	625	0.00014749262536873156
+GBSs	Draugen in the Norwegian sector of the North Sea	1	1	1	1	NULL	NULL	NULL	1	1	1
+GBV issue	domestic violence	2	2	3	2	NULL	NULL	NULL	1667	497	0.0007998400319936012
+GBV issue	human trafficking	1	1	3	2	NULL	NULL	NULL	274	119	0.0012165450121654502
+GBV related program	Teej festival	1	1	1	1	NULL	NULL	NULL	1	1	1
+gbv-related resource	counseling	1	1	2	2	NULL	NULL	NULL	2433	762	0.0002055076037813399
+gbv-related resource	information	1	1	2	2	NULL	NULL	NULL	1615	616	0.00030959752321981426
+GBW member	exhibitor Nancy Leavitt	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+GBW member	mingled with the Friends	1	1	2	2	NULL	NULL	NULL	1	1	0.5

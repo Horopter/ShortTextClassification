@@ -1,0 +1,8 @@
+kk halogen	Silverstar	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+KKK committed hate crime	burning down of black church	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KKK committed hate crime	burning down black peoples church	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KKK-A-1822 E medical device	suctioning apparatus	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+KKK-A-1822 E medical device	resuscitation	2	2	4	2	1.000000000000	NULL	NULL	68	44	0.014705882352941176
+KKR hadtoconvince conservative investor	pension fund	1	1	3	3	NULL	NULL	NULL	2003	558	0.00016641704110500916
+KKR hadtoconvince conservative investor	insurance company	1	1	3	3	NULL	NULL	NULL	2749	815	0.00012125621438098702
+KKR hadtoconvince conservative investor	educational endowment	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111

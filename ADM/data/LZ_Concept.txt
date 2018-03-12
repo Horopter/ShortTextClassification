@@ -1,0 +1,8 @@
+LZ family compression	LZ78	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+LZC system	PV	1	1	1	1	NULL	NULL	NULL	104	63	0.009615384615384616
+LZC technology	heat networks from Energy from Waste plant	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LZC technology	Fuel Cell CHP	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+LZC technology	Energy from Waste plant	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+LZC technology	district CHP heating network	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LZHS teen	junior Colleen Loverde	1	1	1	1	NULL	NULL	NULL	1	1	1
+LZs	Red Hiou	1	1	1	1	NULL	NULL	NULL	1	1	1

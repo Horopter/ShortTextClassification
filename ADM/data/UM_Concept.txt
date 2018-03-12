@@ -1,0 +1,1016 @@
+Um	magazine	1	1	2	2	NULL	NULL	NULL	4269	1431	0.00011712344811431249
+Um	park	1	1	2	2	NULL	NULL	NULL	5086	1754	0.00009830908375933936
+UM case	Greg Webb	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UM case	Leo Koury	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UM case	Rick Church	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UM Chemistry Emergency equipment	fire extinguisher	1	1	1	1	NULL	NULL	NULL	567	238	0.001763668430335097
+UM configuration setting	recorded name	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UM department	Business	1	1	1	1	NULL	NULL	NULL	5070	1629	0.0001972386587771203
+UM educator	Garon Smith	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UM educator	CASE 2008 Professor of the Year	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UM feature	text-to-speech reading of messages in a mobile environment	1	1	1	1	NULL	NULL	NULL	1	1	1
+UM law alumnus	Harley Tropin	1	1	1	1	NULL	NULL	NULL	1	1	1
+UM object	VoIP gateway	1	1	3	3	1.000000000000	NULL	NULL	24	23	0.013888888888888888
+UM object	hunt group	1	1	3	3	1.000000000000	NULL	NULL	40	24	0.008333333333333333
+UM object	dial plan	1	1	3	3	1.000000000000	NULL	NULL	12	12	0.027777777777777776
+UM parameter	user name	1	1	2	2	NULL	NULL	NULL	644	223	0.0007763975155279503
+UM parameter	message	1	1	2	2	NULL	NULL	NULL	639	295	0.000782472613458529
+UM software component	variable	1	1	4	4	NULL	NULL	NULL	563	286	0.0004440497335701599
+UM software component	function	1	1	4	4	NULL	NULL	NULL	980	432	0.00025510204081632655
+UM software component	action	1	1	4	4	NULL	NULL	NULL	704	305	0.0003551136363636364
+UM software component	external method	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UM sport	football	1	1	1	1	NULL	NULL	NULL	10605	1568	0.0000942951438000943
+UM tradition	Homecoming parade	1	1	2	2	0.500000000000	NULL	NULL	27	17	0.018518518518518517
+UM tradition	firework	1	1	2	2	0.500000000000	NULL	NULL	522	223	0.0009578544061302681
+UM trustee	Chuck Cobb	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UM trustee	Dean Colson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+um's sensory research institute	Bascom Palmer Eye Institute	1	1	1	1	NULL	NULL	NULL	1	1	1
+um-berof organization	distributed.net	1	1	2	2	0.500000000000	NULL	NULL	9	8	0.05555555555555555
+um-berof organization	SETI@home	1	1	2	2	0.500000000000	NULL	NULL	36	20	0.013888888888888888
+um-beroffactors	stochasticityof supply	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+um-beroffactors	observability of impression feature	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+um-flint student	Brad Vickers	1	1	1	1	NULL	NULL	NULL	1	1	1
+um-related and private project	Ford Corporate History Project	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+um-related and private project	UAW Oral History Project	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+um-related and private project	television series on labor history	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+um-related setting	associated UM dial plan	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+um-related setting	extension number for the user	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+um-related setting	associated UM mailbox policy	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+UM17	temporary crackdowns on sales of alcohol in club	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMA state	Florida	1	1	2	2	NULL	NULL	NULL	7654	980	0.00006532532009406845
+UMA state	Tennessee	1	1	2	2	NULL	NULL	NULL	1456	213	0.00034340659340659343
+UMA termination	VoIP terminations on a UMA interface	1	1	1	1	NULL	NULL	NULL	1	1	1
+Umaga autographed memorabilia	Olympic collectible	1	1	1	1	1.000000000000	NULL	NULL	29	29	0.034482758620689655
+umaibo loving celebrity	Takafumi Horie	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+umaine standout	outfielders Billy Cather	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umaine standout	Kevin McAvoy of Brewer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umaine's GLBT service	Wilde Stein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umaine's GLBT service	Rainbow Resource Center	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+umami compound	monosodium glutamate	1	1	1	1	NULL	NULL	NULL	227	72	0.004405286343612335
+umami food	rich ``umami'' food	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+umami food	mushroom	1	1	6	6	NULL	NULL	NULL	2656	800	0.00006275100401606425
+umami food	soy sauce	1	1	6	6	NULL	NULL	NULL	892	258	0.00018684603886397606
+umami food	red wine	1	1	6	6	NULL	NULL	NULL	742	248	0.00022461814914645102
+umami food	seaweed	1	1	6	6	NULL	NULL	NULL	820	342	0.0002032520325203252
+umami food	Parmesan cheese	1	1	6	6	NULL	NULL	NULL	99	56	0.0016835016835016834
+umami ingredient	glutamic acid	3	3	6	4	0.666666666666	NULL	NULL	158	69	0.00949367088607595
+umami ingredient	fermented fish	1	1	6	4	0.666666666666	NULL	NULL	9	7	0.018518518518518517
+umami ingredient	old cheese	1	1	6	4	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+umami ingredient	glutamate	1	1	6	4	0.666666666666	NULL	NULL	425	140	0.000392156862745098
+umami receptor	taste-mglur4	1	1	1	1	NULL	NULL	NULL	1	1	1
+umami rich food	fish sauce	1	1	2	2	NULL	NULL	NULL	154	65	0.003246753246753247
+umami rich food	soy	1	1	2	2	NULL	NULL	NULL	2533	796	0.00019739439399921041
+umami rich ingredient	parmesan cheese	1	1	6	6	0.200000000000	NULL	NULL	99	56	0.0016835016835016834
+umami rich ingredient	tomato paste	1	1	6	6	0.200000000000	NULL	NULL	146	68	0.001141552511415525
+umami rich ingredient	anchovy paste	1	1	6	6	0.200000000000	NULL	NULL	5	5	0.03333333333333333
+umami rich ingredient	black olive	1	1	6	6	0.200000000000	NULL	NULL	122	60	0.001366120218579235
+umami rich ingredient	balsamic vinegar	1	1	6	6	0.200000000000	NULL	NULL	123	74	0.0013550135501355014
+umami rich ingredient	porcini mushroom paste	1	1	6	6	0.200000000000	NULL	NULL	1	1	0.16666666666666666
+umami taste substance	MSG	1	1	1	1	NULL	NULL	NULL	344	115	0.0029069767441860465
+umami tasting compound	glutamate	1	1	1	1	NULL	NULL	NULL	425	140	0.002352941176470588
+umami-rich dish	grilled	1	1	1	1	1.000000000000	NULL	NULL	46	39	0.021739130434782608
+umami-rich food	fish	2	2	9	7	NULL	NULL	NULL	12757	2977	0.0000348392603625025
+umami-rich food	meat	2	2	9	7	NULL	NULL	NULL	9410	1886	0.00004723107804935648
+umami-rich food	aged cheese	1	1	9	7	NULL	NULL	NULL	167	47	0.0006653359946773121
+umami-rich food	shiitake mushroom	1	1	9	7	NULL	NULL	NULL	91	48	0.001221001221001221
+umami-rich food	fermented bean	1	1	9	7	NULL	NULL	NULL	3	3	0.037037037037037035
+umami-rich food	cheese	1	1	9	7	NULL	NULL	NULL	9373	2034	0.00001185438078641962
+umami-rich food	mushroom	1	1	9	7	NULL	NULL	NULL	2656	800	0.00004183400267737617
+umami-rich ingredient	hoisin	1	1	2	2	0.500000000000	NULL	NULL	25	13	0.02
+umami-rich ingredient	soy sauce	1	1	2	2	0.500000000000	NULL	NULL	892	258	0.0005605381165919282
+Umami-rich smoked fish	smoked haddock	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+Umami-rich smoked fish	salmon with delicate	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+umami-stimulating ingredient	mushroom	1	1	2	2	NULL	NULL	NULL	2656	800	0.00018825301204819278
+umami-stimulating ingredient	soy sauce	1	1	2	2	NULL	NULL	NULL	892	258	0.0005605381165919282
+uman activity	horseback riding	1	1	7	7	0.285714285714	NULL	NULL	2256	497	0.00006332320162107395
+uman activity	jogging	1	1	7	7	0.285714285714	NULL	NULL	5294	999	0.000026984726644719088
+uman activity	walking	1	1	7	7	0.285714285714	NULL	NULL	13109	2473	0.000010897638481741006
+uman activity	running pet	1	1	7	7	0.285714285714	NULL	NULL	3	3	0.047619047619047616
+uman activity	hunting	1	1	7	7	0.285714285714	NULL	NULL	3586	952	0.000039837463150346584
+uman activity	habitat destruction	1	1	7	7	0.285714285714	NULL	NULL	204	74	0.0007002801120448179
+uman activity	fossil fuel burning	1	1	7	7	0.285714285714	NULL	NULL	68	14	0.0021008403361344537
+uman capital measure	job experience	1	1	1	1	1.000000000000	NULL	NULL	59	28	0.01694915254237288
+UMAN D ISTURBANCE farming practice	haying	1	1	1	1	NULL	NULL	NULL	45	30	0.022222222222222223
+uman medical facility	clinic	1	1	5	6	0.200000000000	NULL	NULL	1405	563	0.0001423487544483986
+uman medical facility	research laboratory	1	1	5	6	0.200000000000	NULL	NULL	76	52	0.002631578947368421
+uman medical facility	nursing home	1	1	5	6	0.200000000000	NULL	NULL	1931	662	0.0001035732780942517
+uman medical facility	dentists office	1	1	5	6	0.200000000000	NULL	NULL	17	16	0.011764705882352941
+uman medical facility	hospital	1	1	5	6	0.200000000000	NULL	NULL	12116	3276	0.00001650709805216243
+uman science	education	1	1	3	3	NULL	NULL	NULL	21642	5033	0.000015402150140159565
+uman science	psychology	1	1	3	3	NULL	NULL	NULL	3044	631	0.00010950503723171266
+uman science	sociology	1	1	3	3	NULL	NULL	NULL	2096	356	0.0001590330788804071
+umanfacesconvey important message	age	1	1	1	1	NULL	NULL	NULL	32703	4368	0.00003057823441274501
+UMANS EXPOSED TOHYPOBARIC environment	astronauts during extravehicular activity	1	1	1	1	NULL	NULL	NULL	1	1	1
+umarex auto clone	Beretta nd CP88	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMAS california state chapter	CSULA	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+umass coach	Bob Pickett	1	1	1	1	NULL	NULL	NULL	1	1	1
+umass fund	President's Science & Technology Initiatives Fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+umass school	UMass Medical School	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umass school	Umass Amherst	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+umaxprint offer product	white plastic card	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+umaxprint offer product	promotional card	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+umaxprint offer product	full color business card	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+umayyad architectural element	floor mosaic	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+umayyad architectural element	window grille	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+umayyad palace	palace at anjar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umayyad palace	Dar al-Imara at Kufa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umayyad religious monument	well-known Dome of the Rock in Jerusalem	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMB administrative department	Financial Services in compliance with employment rules for non-immigrants	1	1	1	2	NULL	NULL	NULL	1	1	1
+UMB field	name	1	1	1	1	NULL	NULL	NULL	13911	2278	0.00007188555819135935
+umb's interdisciplinary center	Institute for Genome Sciences	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+umb's interdisciplinary center	Center for Vaccine Development	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umb's interdisciplinary center	Institute of Human Virology	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umbel flower	angelica in June	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+umbel flower	carrot	1	1	4	4	0.333333333333	NULL	NULL	10459	2027	0.000023902858781910316
+umbel flower	dill	1	1	4	4	0.333333333333	NULL	NULL	1185	273	0.0002109704641350211
+umbel flower	hogweed	1	1	4	4	0.333333333333	NULL	NULL	23	17	0.010869565217391304
+umbel-bearing plant	milkweed	1	1	2	2	NULL	NULL	NULL	178	69	0.0028089887640449437
+umbel-bearing plant	Hemlock	1	1	2	2	NULL	NULL	NULL	363	160	0.0013774104683195593
+umbel-type flower	yarrow	2	2	2	1	NULL	NULL	NULL	460	159	0.004347826086956522
+umbelhferous plant	c. in August	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+umbelhferous plant	Wild Carrot	1	1	3	3	0.500000000000	NULL	NULL	67	37	0.004975124378109453
+umbelhferous plant	128	1	1	3	3	0.500000000000	NULL	NULL	8	8	0.041666666666666664
+umbellate-type flower	parsley	1	1	3	3	NULL	NULL	NULL	2759	570	0.00012081672103419112
+umbellate-type flower	tansy	1	1	3	3	NULL	NULL	NULL	108	45	0.0030864197530864196
+umbellate-type flower	dill	1	1	3	3	NULL	NULL	NULL	1185	273	0.00028129395218002813
+umbellifer plant	parsnip	1	1	2	2	NULL	NULL	NULL	922	200	0.0005422993492407809
+umbellifer plant	root parsley	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbellifer shaped flower head	Anthriscus ravenswing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbellifer shaped flower head	Ammi majus	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+umbelliferae plant	angelica	1	1	1	1	NULL	NULL	NULL	216	74	0.004629629629629629
+umbelliferous flower	hogweed	1	1	3	3	0.333333333333	NULL	NULL	23	17	0.014492753623188404
+umbelliferous flower	parsnip	1	1	3	3	0.333333333333	NULL	NULL	922	200	0.00036153289949385393
+umbelliferous flower	fennel	1	1	3	3	0.333333333333	NULL	NULL	1230	360	0.00027100271002710027
+umbelliferous herb	fennel	2	2	5	3	NULL	NULL	NULL	1230	360	0.0006504065040650406
+umbelliferous herb	dill	2	2	5	3	NULL	NULL	NULL	1185	273	0.0006751054852320676
+umbelliferous herb	caraway	1	1	5	3	NULL	NULL	NULL	226	85	0.0008849557522123895
+umbelliferous plant	dill	3	3	11	7	NULL	NULL	NULL	1185	273	0.0006904487917146144
+umbelliferous plant	caraway	2	2	11	7	NULL	NULL	NULL	226	85	0.0016090104585679808
+umbelliferous plant	fennel	2	2	11	7	NULL	NULL	NULL	1230	360	0.00029563932002956393
+umbelliferous plant	carrot	1	1	11	7	NULL	NULL	NULL	10459	2027	0.000008691948647967388
+umbelliferous plant	Daucus spp.	1	1	11	7	NULL	NULL	NULL	1	1	0.09090909090909091
+umbelliferous plant	yarrow	1	1	11	7	NULL	NULL	NULL	460	159	0.0001976284584980237
+umbelliferous plant	wild carrot	1	1	11	7	NULL	NULL	NULL	67	37	0.00135685210312076
+umbelliferous vegetable	parsley	3	3	11	5	NULL	NULL	NULL	2759	570	0.00029655013344756005
+umbelliferous vegetable	carrot	3	3	11	5	NULL	NULL	NULL	10459	2027	0.00007822753783170648
+umbelliferous vegetable	celery	3	3	11	5	NULL	NULL	NULL	3210	729	0.00025488530161427354
+umbelliferous vegetable	cilantro	1	1	11	5	NULL	NULL	NULL	927	256	0.00009806805923310778
+umbelliferous vegetable	parsnip	1	1	11	5	NULL	NULL	NULL	922	200	0.00009859988168014199
+Umbellifers	Wild Carrot	2	2	7	5	0.555555555555	NULL	NULL	67	37	0.008528784648187633
+Umbellifers	bronze-leaved fennel	2	2	7	5	0.555555555555	NULL	NULL	2	1	0.2857142857142857
+Umbellifers	wild parsnip	1	1	7	5	0.555555555555	NULL	NULL	24	15	0.005952380952380952
+Umbellifers	cow parsley	1	1	7	5	0.555555555555	NULL	NULL	30	20	0.0047619047619047615
+Umbellifers	Hemlock Water-dropwort	1	1	7	5	0.555555555555	NULL	NULL	4	4	0.03571428571428571
+umber ofunocvered service	nursing home	1	1	1	1	NULL	NULL	NULL	1931	662	0.0005178663904712584
+Umbersols	type used in photography flash fixture	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbilical cord abnormality	blood clot	1	1	1	1	NULL	NULL	NULL	411	124	0.0024330900243309003
+umbilical cord biochemical marker	ph	1	1	1	1	NULL	NULL	NULL	6258	1312	0.00015979546180888463
+umbilical cord biomaterial	umbilical cord membrane	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbilical cord blood processing technique	post-thaw manipulation	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbilical cord infection	omphalitis	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+umbilical internal element	power cable	1	1	1	1	NULL	NULL	NULL	563	437	0.0017761989342806395
+umbilical morbidity	ugly-looking umbilicus	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+umbilical morbidity	umbilical hernia	1	1	2	2	1.000000000000	NULL	NULL	23	15	0.021739130434782608
+umbilical region anomaly	endometriosis	1	1	3	3	0.500000000000	NULL	NULL	858	233	0.0003885003885003885
+umbilical region anomaly	umbilical hern ia	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+umbilical region anomaly	urachus	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+umbilical symptom	discharge	1	1	2	2	NULL	NULL	NULL	453	217	0.0011037527593818985
+umbilical symptom	pain	1	1	2	2	NULL	NULL	NULL	5315	1495	0.00009407337723424271
+Umbles	mumble	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+umblical anomaly	sinus	1	1	2	2	NULL	NULL	NULL	158	92	0.0031645569620253164
+umblical anomaly	fistula	1	1	2	2	NULL	NULL	NULL	216	107	0.0023148148148148147
+umbra product	ubiquitous wave-topped wastebasket	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella	golf umbrella	5	5	58	41	0.600000000000	NULL	NULL	36	25	0.011973180076628353
+umbrella	adult umbrella	3	3	58	41	0.600000000000	NULL	NULL	3	1	0.05172413793103448
+umbrella	beach umbrella	3	3	58	41	0.600000000000	NULL	NULL	77	50	0.0020152261531571876
+umbrella	children umbrella	3	3	58	41	0.600000000000	NULL	NULL	10	8	0.015517241379310345
+umbrella	promotional umbrella	2	2	58	41	0.600000000000	NULL	NULL	10	7	0.006896551724137931
+umbrella	offset umbrella	2	2	58	41	0.600000000000	NULL	NULL	4	2	0.017241379310344827
+umbrella	kids umbrella	2	2	58	41	0.600000000000	NULL	NULL	2	1	0.034482758620689655
+umbrella	sun umbrella	2	2	58	41	0.600000000000	NULL	NULL	30	28	0.0022988505747126436
+umbrella	straight umbrella	2	2	58	41	0.600000000000	NULL	NULL	19	16	0.003629764065335753
+umbrella	market umbrella	2	2	58	41	0.600000000000	NULL	NULL	9	7	0.007662835249042145
+umbrella	small-size umbrella	2	2	58	41	0.600000000000	NULL	NULL	2	1	0.034482758620689655
+umbrella	mens umbrella	1	1	58	41	0.600000000000	NULL	NULL	3	2	0.005747126436781609
+umbrella	advitise umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	handicraft umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	lovers umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	garden umbrella	1	1	58	41	0.600000000000	NULL	NULL	8	17	0.0021551724137931034
+umbrella	advertising umbrella	1	1	58	41	0.600000000000	NULL	NULL	19	17	0.0009074410163339383
+umbrella	10 foot Square Commercial Wood Market Umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	designer umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	conventional large umbrella	1	1	58	41	0.600000000000	NULL	NULL	2	2	0.008620689655172414
+umbrella	umbrellas for foreign trade	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	parasol umbrella	1	1	58	41	0.600000000000	NULL	NULL	4	3	0.004310344827586207
+umbrella	water proof umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	formal relationship umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	folding umbrella	1	1	58	41	0.600000000000	NULL	NULL	9	9	0.0019157088122605363
+umbrella	cantilever umbrella	1	1	58	41	0.600000000000	NULL	NULL	2	2	0.008620689655172414
+umbrella	advertisement umbrella	1	1	58	41	0.600000000000	NULL	NULL	11	11	0.001567398119122257
+umbrella	TEAC	1	1	58	41	0.600000000000	NULL	NULL	14	11	0.0012315270935960591
+umbrella	sunshade	1	1	58	41	0.600000000000	NULL	NULL	88	41	0.00019592476489028212
+umbrella	TNE	1	1	58	41	0.600000000000	NULL	NULL	3	3	0.005747126436781609
+umbrella	patio umbrella patio umbrella	1	1	58	41	0.600000000000	NULL	NULL	2	2	0.008620689655172414
+umbrella	printed umbrella	1	1	58	41	0.600000000000	NULL	NULL	4	4	0.004310344827586207
+umbrella	umbrella U shown supported by a table in FIG	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	10 Square Commercial Wood Market Umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	11 foot Octagonal Commercial Wood Market Umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	11 Octagonal Commercial Wood Market Umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	9 foot Octagonal Commercial Wood Market Umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	fold umbrella	1	1	58	41	0.600000000000	NULL	NULL	4	4	0.004310344827586207
+umbrella	ladies umbrella	1	1	58	41	0.600000000000	NULL	NULL	5	4	0.0034482758620689655
+umbrella	portable umbrella	1	1	58	41	0.600000000000	NULL	NULL	1	1	0.017241379310344827
+umbrella	VUSTA	1	1	58	41	0.600000000000	NULL	NULL	2	2	0.008620689655172414
+umbrella activity	configuration management	3	2	13	10	0.428571428571	NULL	NULL	237	128	0.0029211295034079843
+umbrella activity	change management	2	2	13	10	0.428571428571	NULL	NULL	532	253	0.0005783689994216311
+umbrella activity	quality assurance	2	2	13	10	0.428571428571	NULL	NULL	614	245	0.0005011275369581559
+umbrella activity	joint trade activity	1	1	13	10	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+umbrella activity	quali ty assurance	1	1	13	10	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+umbrella activity	project management	1	1	13	10	0.428571428571	NULL	NULL	1814	676	0.00004240522432363668
+umbrella activity	software configuration management	1	1	13	10	0.428571428571	NULL	NULL	11	11	0.006993006993006993
+umbrella activity	software measurement overlay the framework activity	1	1	13	10	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+umbrella activity	presence in Atlanta for the Summer Olympics	1	1	13	10	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+umbrella administrative structure	marine laboratory	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella administrative structure	Queensland Centre for the Advancement of Technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella agency	Area Agencies on Aging	1	1	3	3	0.666666666666	NULL	NULL	36	22	0.009259259259259259
+umbrella agency	Association for Retarded Citizens	1	1	3	3	0.666666666666	NULL	NULL	10	10	0.03333333333333333
+umbrella agency	National Park Service	1	1	3	3	0.666666666666	NULL	NULL	218	69	0.0015290519877675841
+umbrella american television network	ESPN	1	1	2	2	NULL	NULL	NULL	888	341	0.0005630630630630631
+umbrella american television network	ABC	1	1	2	2	NULL	NULL	NULL	1106	446	0.0004520795660036166
+umbrella approach	Cement Sustainability Initiative	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+umbrella associate	Hispanic Alliance for Career Enhancement	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+umbrella associate	industry-specific groups like The Association of Latino Professionals in Finance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella association	Federation of German Industries	2	2	16	13	1.000000000000	NULL	NULL	4	3	0.0625
+umbrella association	Confederation of German Employers Associations	2	2	16	13	1.000000000000	NULL	NULL	2	1	0.125
+umbrella association	Polish Mission	2	1	16	13	1.000000000000	NULL	NULL	2	1	0.125
+umbrella association	Urban Authorities Association of Uganda	1	1	16	13	1.000000000000	NULL	NULL	1	1	0.0625
+umbrella association	Lower Hutt Kindergarten Association	1	1	16	13	1.000000000000	NULL	NULL	1	1	0.0625
+umbrella association	International Union of Local Authorities	1	1	16	13	1.000000000000	NULL	NULL	3	3	0.020833333333333332
+umbrella association	Polish Association of Excombatants	1	1	16	13	1.000000000000	NULL	NULL	1	1	0.0625
+umbrella association	Polish association of ex-combatants	1	1	16	13	1.000000000000	NULL	NULL	1	1	0.0625
+umbrella association	National Emergency Management Association	1	1	16	13	1.000000000000	NULL	NULL	6	5	0.010416666666666666
+umbrella association	big umbrella association	1	1	16	13	1.000000000000	NULL	NULL	2	2	0.03125
+umbrella association	Local Authorities Association of Uganda	1	1	16	13	1.000000000000	NULL	NULL	1	1	0.0625
+umbrella association	PA USATF	1	1	16	13	1.000000000000	NULL	NULL	1	1	0.0625
+umbrella association	National Governors Association	1	1	16	13	1.000000000000	NULL	NULL	54	20	0.0011574074074074073
+umbrella body	industry umbrella body	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+umbrella body	voluntary sector umbrella body	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+umbrella body	regional ngo umbrella body	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+umbrella brand	FedEx eBusiness Tools	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+umbrella brand	Red Apple in the Central Asian Republics	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+umbrella business association	Wisconsin Manufacturers	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+umbrella business group	Greater Arizona Chamber of Commerce & Industry	1	1	1	2	NULL	NULL	NULL	1	1	1
+umbrella campaign	United Way	1	1	1	2	NULL	NULL	NULL	920	278	0.0010869565217391304
+umbrella charity	United Way	1	1	1	1	NULL	NULL	NULL	920	278	0.0010869565217391304
+umbrella committee	Children's Coordinating Council	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella committee	Coordinating Council for Economic Development	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella company	Giant	1	1	5	5	NULL	NULL	NULL	334	185	0.0005988023952095808
+umbrella company	legitimate umbrella company	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+umbrella company	Pulse	1	1	5	5	NULL	NULL	NULL	1341	516	0.00014914243102162565
+umbrella company	Degree Succeed	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+umbrella company	Parasol	1	1	5	5	NULL	NULL	NULL	115	65	0.0017391304347826088
+umbrella company solution	Expat Advantage	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella concept	international studies in Japan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umbrella concept	globalization	1	1	3	3	NULL	NULL	NULL	1544	431	0.0002158894645941278
+umbrella concept	globalisation	1	1	3	3	NULL	NULL	NULL	672	217	0.000496031746031746
+umbrella conservation organization	conservation council	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+umbrella contract	Indefinite Quantity Contract	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella corporation certain task	risk management	1	1	1	1	NULL	NULL	NULL	1241	478	0.0008058017727639
+umbrella designation	Northern Sonoma	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+umbrella device	full-body umbrella	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella device	umbrella golf club	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella drink	Mizuno Colada	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella drink	Happy Bell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella factor	learning from past experience	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella factor	Pavlovian conditioning	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+umbrella foundation	Fondation de Luxembourg	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+umbrella frame related offer	Straight Umbrella	1	1	2	2	1.000000000000	NULL	NULL	19	16	0.02631578947368421
+umbrella frame related offer	Umbrellas	1	1	2	2	1.000000000000	NULL	NULL	7	11	0.07142857142857142
+umbrella fund-raising organization	community foundation	2	1	2	1	1.000000000000	NULL	NULL	80	44	0.025
+umbrella gadget	Photek Softlighter	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella game mode	deathmatch	1	1	2	2	NULL	NULL	NULL	110	59	0.004545454545454545
+umbrella game mode	objective	1	1	2	2	NULL	NULL	NULL	364	147	0.0013736263736263737
+umbrella group	coalition	1	1	37	39	0.818181818181	NULL	NULL	43	33	0.0006285355122564425
+umbrella group	Edison Electric Institute	1	1	37	39	0.818181818181	NULL	NULL	20	11	0.0013513513513513514
+umbrella group	Agencies for Nutrition Action playing a linchpin role in helping the community	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	non-jewish charity umbrella group	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	Mifflin Guard	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Moral Majority	1	1	37	39	0.818181818181	NULL	NULL	55	28	0.0004914004914004914
+umbrella group	Russian Movement for a New Socialism	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Welsh Refugee Council	1	1	37	39	0.818181818181	NULL	NULL	3	3	0.009009009009009009
+umbrella group	based at Yale University	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Tea Party Patriots	1	1	37	39	0.818181818181	NULL	NULL	14	8	0.0019305019305019305
+umbrella group	Aktion Deutschland Hilft in Germany	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	ABPI for pharmaceutical company	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Fathers Direct	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	federation	1	1	37	39	0.818181818181	NULL	NULL	95	68	0.0002844950213371266
+umbrella group	ngo umbrella group	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	national clinical leadership group	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	New York City Immigration Coalition	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	National Voices	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	PSF	1	1	37	39	0.818181818181	NULL	NULL	12	11	0.0022522522522522522
+umbrella group	local umbrella group	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	Business Roundtable	1	1	37	39	0.818181818181	NULL	NULL	82	36	0.00032959789057350036
+umbrella group	Mississippi legal aid society	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Umoja	1	1	37	39	0.818181818181	NULL	NULL	12	10	0.0022522522522522522
+umbrella group	United Minorities Council	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Disasters Emergency Committee in Britain	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	Democratic Forum	1	1	37	39	0.818181818181	NULL	NULL	3	3	0.009009009009009009
+umbrella group	American National Standards Institute	1	1	37	39	0.818181818181	NULL	NULL	63	26	0.000429000429000429
+umbrella group	Access to Knowledge	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	IFGE	1	1	37	39	0.818181818181	NULL	NULL	3	3	0.009009009009009009
+umbrella group	large umbrella group	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	Mississippi State Bar	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	SCVO	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	non-profit umbrella group	1	1	37	39	0.818181818181	NULL	NULL	2	2	0.013513513513513514
+umbrella group	NAR	1	1	37	39	0.818181818181	NULL	NULL	11	8	0.002457002457002457
+umbrella group	National Association of Royalty Owners	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella group	National Association of Manufacturers	1	1	37	39	0.818181818181	NULL	NULL	79	26	0.0003421142661648991
+umbrella group	National Association of evangelical	1	1	37	39	0.818181818181	NULL	NULL	1	1	0.02702702702702703
+umbrella industry group	Australian Industry Group	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+umbrella initiative	SGP	1	1	1	1	1.000000000000	NULL	NULL	13	13	0.07692307692307693
+umbrella institution	Rheumatism Council	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella lightweight model	Mont Bell's U. L. Trekking Umbrella	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella marketing program	Blue Mountain Certified	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella marketing program	Blue Mountain Fresh	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella membership organization	Association of Professional Fundraisers	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella model	Jewish Funeral Practices Committee of Greater Washington	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella movement	Assembly of the Poor	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+umbrella network	People's Global Action	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+umbrella NGOs	Mvula Trust in South Africa	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+umbrella NGOs	Panonija	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+umbrella NGOs	NGO Forum in Bangladesh	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+umbrella NGOs	International Council of Voluntary Agencies	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+umbrella omnibus group	ACF	1	1	1	1	NULL	NULL	NULL	35	23	0.02857142857142857
+umbrella organization	United Way	4	3	176	163	0.649122807017	NULL	NULL	920	278	0.00009881422924901186
+umbrella organization	Caribbean Media Corporation	4	4	176	163	0.649122807017	NULL	NULL	4	1	0.022727272727272728
+umbrella organization	Chambers of Commerce	3	2	176	163	0.649122807017	NULL	NULL	337	243	0.00015173995144321552
+umbrella organization	Central Union of Workers	2	2	176	163	0.649122807017	NULL	NULL	2	1	0.011363636363636364
+umbrella organization	General Confederation of Workers	2	2	176	163	0.649122807017	NULL	NULL	2	1	0.011363636363636364
+umbrella organization	associations of manufacture	2	1	176	163	0.649122807017	NULL	NULL	2	1	0.011363636363636364
+umbrella organization	Apache Jakarta	2	2	176	163	0.649122807017	NULL	NULL	2	1	0.011363636363636364
+umbrella organization	interest-based coalition	2	2	176	163	0.649122807017	NULL	NULL	2	1	0.011363636363636364
+umbrella organization	Family Welfare Association	2	2	176	163	0.649122807017	NULL	NULL	5	4	0.004545454545454545
+umbrella organization	American Medical Association	2	2	176	163	0.649122807017	NULL	NULL	536	123	0.00004240162822252375
+umbrella organization	Bulgarian Association of Regional Development Agencies	2	2	176	163	0.649122807017	NULL	NULL	2	1	0.011363636363636364
+umbrella organization	Business New Zealand	1	1	176	163	0.649122807017	NULL	NULL	9	8	0.0006313131313131314
+umbrella organization	British Jewellery & Giftware Exports	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	General Aviation Alliance	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	CCC	1	1	176	163	0.649122807017	NULL	NULL	130	65	0.000043706293706293706
+umbrella organization	Health Informatics Standard Board	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Greenpeace	1	1	176	163	0.649122807017	NULL	NULL	1502	371	0.000003782835007868297
+umbrella organization	Hunts Forum	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	International Montessori Society	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Interplanetary Internet Project	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Justice	1	1	176	163	0.649122807017	NULL	NULL	2127	641	0.0000026712826430738985
+umbrella organization	Jamaica Coalition on the Rights of the Child	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	labor union	1	1	176	163	0.649122807017	NULL	NULL	432	219	0.000013152356902356903
+umbrella organization	Lace Guild	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	KDE	1	1	176	163	0.649122807017	NULL	NULL	211	92	0.000026928048255062473
+umbrella organization	America's Promise	1	1	176	163	0.649122807017	NULL	NULL	14	8	0.00040584415584415587
+umbrella organization	European Federation REHVA	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	extension of the CMMI Group	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Defense Research	1	1	176	163	0.649122807017	NULL	NULL	7	7	0.0008116883116883117
+umbrella organization	DAWN partnership	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Dental Society	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Councils for Voluntary Service	1	1	176	163	0.649122807017	NULL	NULL	15	7	0.0003787878787878788
+umbrella organization	cultural organization	1	1	176	163	0.649122807017	NULL	NULL	37	26	0.00015356265356265356
+umbrella organization	TESOL	1	0	176	163	0.649122807017	NULL	NULL	35	28	0.00016233766233766234
+umbrella organization	Southwark Community Care Forum	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Tourist Boards	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Union of Women in Macedonia	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Community Chests	1	1	176	163	0.649122807017	NULL	NULL	3	3	0.001893939393939394
+umbrella organization	Community Health Charities of Tennessee	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Community Ministries of Montgomery County	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Mobile Marketing Association	1	1	176	163	0.649122807017	NULL	NULL	7	7	0.0008116883116883117
+umbrella organization	Northern Ireland Council for Voluntary Action	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	National Automobile Dealers Association	1	1	176	163	0.649122807017	NULL	NULL	6	6	0.000946969696969697
+umbrella organization	national or regional umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	National Mentoring Partnership	1	1	176	163	0.649122807017	NULL	NULL	5	5	0.0011363636363636363
+umbrella organization	NJCRAC	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	nation umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	National Quality Forum	1	1	176	163	0.649122807017	NULL	NULL	37	16	0.00015356265356265356
+umbrella organization	PARIS21 Consortium	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	NPF	1	1	176	163	0.649122807017	NULL	NULL	6	6	0.000946969696969697
+umbrella organization	Orego Food Bank for edible food rescue	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Professional Development Board	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Saskatchewan Outdoor	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	WEDO	1	1	176	163	0.649122807017	NULL	NULL	8	7	0.0007102272727272727
+umbrella organization	Women's Resource Centre	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Village Hydro Developers Association	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	FAI	1	1	176	163	0.649122807017	NULL	NULL	12	10	0.0004734848484848485
+umbrella organization	FECS	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	democratic Alliance for Burma	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Community Associations Institute	1	1	176	163	0.649122807017	NULL	NULL	12	5	0.0004734848484848485
+umbrella organization	Churches Together group	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	SSMU	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	international umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	International Fair Trade Association	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	IATEFL	1	0	176	163	0.649122807017	NULL	NULL	9	9	0.0006313131313131314
+umbrella organization	Land Trust Alliance	1	1	176	163	0.649122807017	NULL	NULL	10	7	0.0005681818181818182
+umbrella organization	Jesuit	1	1	176	163	0.649122807017	NULL	NULL	12	14	0.0004734848484848485
+umbrella organization	Association of Catholic Leadership Programs	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Association of Micro Hydro Manufacturers	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Bay Area Council	1	1	176	163	0.649122807017	NULL	NULL	9	9	0.0006313131313131314
+umbrella organization	Canadian Federation of Agriculture	1	1	176	163	0.649122807017	NULL	NULL	6	6	0.000946969696969697
+umbrella organization	CBI	1	1	176	163	0.649122807017	NULL	NULL	132	56	0.00004304407713498623
+umbrella organization	MCSC	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Mentoring USA	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Pentecostal World Conference	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	New Brunswick Council of the Atlantic Salmon Federation	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	National Association of Evangelicals	1	1	176	163	0.649122807017	NULL	NULL	23	13	0.00024703557312252963
+umbrella organization	National Jewish Community Relations Advisory Council	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	National Head Start Association	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	National Equity Fund	1	1	176	163	0.649122807017	NULL	NULL	8	7	0.0007102272727272727
+umbrella organization	National Council for Voluntary Organisations	1	1	176	163	0.649122807017	NULL	NULL	8	8	0.0007102272727272727
+umbrella organization	NPCTN in Mozambique	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Sanabel	1	1	176	163	0.649122807017	NULL	NULL	3	3	0.001893939393939394
+umbrella organization	VNG	1	1	176	163	0.649122807017	NULL	NULL	4	4	0.0014204545454545455
+umbrella organization	WA Marine Science Institute	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Shelter Forum in Kenya	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Wales Council for Voluntary Action	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	World Fair Trade Organisation	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	General Aviation Awareness Council	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Center for Health	1	1	176	163	0.649122807017	NULL	NULL	3	2	0.001893939393939394
+umbrella organization	Carrollton-Audubon Renaissance	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Christian Medical	1	1	176	163	0.649122807017	NULL	NULL	3	2	0.001893939393939394
+umbrella organization	impressive, hand-on ``umbrella'' organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	InterAction in the United States	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Hakikazi Catalyst	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Alliance for Equity in Higher Education	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	American Montessori Society	1	1	176	163	0.649122807017	NULL	NULL	4	4	0.0014204545454545455
+umbrella organization	Ambulatory Care Quality Alliance	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Federated Farmers	1	1	176	163	0.649122807017	NULL	NULL	16	11	0.0003551136363636364
+umbrella organization	EuropaBio	1	1	176	163	0.649122807017	NULL	NULL	4	3	0.0014204545454545455
+umbrella organization	EU	1	1	176	163	0.649122807017	NULL	NULL	1380	540	0.000004117259552042161
+umbrella organization	Eastern New Orleans Advisory Commission	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Comparative Sociology Section of the International Sociological Association	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Cooperative Committee for Cambodia	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Confederation of British Industry	1	1	176	163	0.649122807017	NULL	NULL	31	19	0.00018328445747800586
+umbrella organization	Tenants on the Rise	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	MIAA	1	1	176	163	0.649122807017	NULL	NULL	4	3	0.0014204545454545455
+umbrella organization	Model Cities Administration	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	NCSHPO	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	NCSS	1	1	176	163	0.649122807017	NULL	NULL	10	8	0.0005681818181818182
+umbrella organization	NCDPZ in Zimbabwe	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	National Council of Churches	1	1	176	163	0.649122807017	NULL	NULL	40	27	0.00014204545454545454
+umbrella organization	Muslim Charities Forum	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	National Softball Association	1	1	176	163	0.649122807017	NULL	NULL	3	3	0.001893939393939394
+umbrella organization	National AIDS Committee	1	1	176	163	0.649122807017	NULL	NULL	4	4	0.0014204545454545455
+umbrella organization	National Association for Tribal Historic Preservation Officers	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Opera Europa	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Ontario Federation of Labor	1	1	176	163	0.649122807017	NULL	NULL	5	5	0.0011363636363636363
+umbrella organization	rural association	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	WCVA	1	1	176	163	0.649122807017	NULL	NULL	3	3	0.001893939393939394
+umbrella organization	Washington Group on Disability Statistics	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Councils for Voluntary Youth Services	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Council of Social Agencies	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	successful regional umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	sports club	1	1	176	163	0.649122807017	NULL	NULL	265	144	0.000021440823327615782
+umbrella organization	TAF	1	1	176	163	0.649122807017	NULL	NULL	11	10	0.0005165289256198347
+umbrella organization	faculty	1	1	176	163	0.649122807017	NULL	NULL	339	142	0.000016760525610083132
+umbrella organization	Farm Stay	1	1	176	163	0.649122807017	NULL	NULL	8	8	0.0007102272727272727
+umbrella organization	Environment	1	1	176	163	0.649122807017	NULL	NULL	5164	1151	0.0000011002746285472855
+umbrella organization	Algiers Council of Neighborhood Presidents	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	African Palliative Care Association	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	ACBAR	1	1	176	163	0.649122807017	NULL	NULL	4	3	0.0014204545454545455
+umbrella organization	large umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Maryland State Youth Soccer Association	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	local umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Institute of Directors	1	1	176	163	0.649122807017	NULL	NULL	48	24	0.00011837121212121212
+umbrella organization	International Federation of Tour Operators	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Hong Kong Council of Social Services	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Audubon	1	1	176	163	0.649122807017	NULL	NULL	72	41	0.00007891414141414142
+umbrella organization	big umbrella organization	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Business Roundtable	1	1	176	163	0.649122807017	NULL	NULL	82	36	0.00006929046563192905
+umbrella organization	CFAR	1	1	176	163	0.649122807017	NULL	NULL	3	3	0.001893939393939394
+umbrella organization	Childminding Associations	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	governmental body	1	1	176	163	0.649122807017	NULL	NULL	23	15	0.00024703557312252963
+umbrella organization	FTF	1	1	176	163	0.649122807017	NULL	NULL	9	9	0.0006313131313131314
+umbrella organization	General Academy of Education	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Missouri Coalition for Roadway Safety	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	playcentre	1	1	176	163	0.649122807017	NULL	NULL	12	11	0.0004734848484848485
+umbrella organization	Presidents Conference	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Pre-School Learning Alliance	1	1	176	163	0.649122807017	NULL	NULL	8	7	0.0007102272727272727
+umbrella organization	Public Population Project in Genomics	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Office of Economic Opportunity	1	1	176	163	0.649122807017	NULL	NULL	5	3	0.0011363636363636363
+umbrella organization	National Council of the Union of Burma	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Northwest Aerospace Alliance	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	OpenSymphony	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	organizations involved in engineering	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Scottish Council for Voluntary Organisations	1	1	176	163	0.649122807017	NULL	NULL	2	2	0.002840909090909091
+umbrella organization	Volunteer Development Agency	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Small Business Association of Jamaica	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella organization	Wildlife Tourism Australia	1	1	176	163	0.649122807017	NULL	NULL	1	1	0.005681818181818182
+umbrella patient group	European Patients Forum	2	1	2	1	NULL	NULL	NULL	2	1	1
+umbrella policy	Special Education Policy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella policy	RLI Personal Umbrella	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella practice	Upland Wildlife Habitat Management practice	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella program	Clonlara	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+umbrella program	TQM	1	1	3	3	NULL	NULL	NULL	243	142	0.0013717421124828531
+umbrella program	Low Carbon Vehicle Innovation Platform	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umbrella project	IRC's Ushirika project for capacity building with local NGOs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella project	Mali PVO Co-Financing Project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella racial designation	black	1	1	1	1	NULL	NULL	NULL	7897	1968	0.00012663036596175764
+umbrella regulator	Energy Regulatory Commission	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+umbrella related offer	Beach Umbrella	1	1	2	2	0.500000000000	NULL	NULL	77	50	0.006493506493506494
+umbrella related offer	Advertising Umbrella	1	1	2	2	0.500000000000	NULL	NULL	19	17	0.02631578947368421
+umbrella rig	Alabama Rig	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella scheme	Company	1	1	1	1	NULL	NULL	NULL	1498	577	0.0006675567423230974
+umbrella schemes	Forest Stewardship Council	1	1	1	1	NULL	NULL	NULL	119	58	0.008403361344537815
+umbrella school	private ISP	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+umbrella school	public	1	1	4	4	NULL	NULL	NULL	505	262	0.0004950495049504951
+umbrella school	Oaks Private School	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+umbrella school	accredited high school	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+umbrella sequence database	InterPro	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+umbrella series	decorative umbrella	2	2	10	7	1.000000000000	NULL	NULL	2	1	0.2
+umbrella series	beach umbrella	2	2	10	7	1.000000000000	NULL	NULL	77	50	0.005194805194805195
+umbrella series	gift umbrella	2	2	10	7	1.000000000000	NULL	NULL	9	7	0.044444444444444446
+umbrella series	sun umbrella	1	1	10	7	1.000000000000	NULL	NULL	30	28	0.0033333333333333335
+umbrella series	straight pole umbrella	1	1	10	7	1.000000000000	NULL	NULL	3	3	0.03333333333333333
+umbrella series	two fold umbrella	1	1	10	7	1.000000000000	NULL	NULL	1	1	0.1
+umbrella series	three fold umbrella	1	1	10	7	1.000000000000	NULL	NULL	3	3	0.03333333333333333
+umbrella shaped flower	fennel	1	1	8	8	NULL	NULL	NULL	1230	360	0.0001016260162601626
+umbrella shaped flower	angelica	1	1	8	8	NULL	NULL	NULL	216	74	0.0005787037037037037
+umbrella shaped flower	dill	1	1	8	8	NULL	NULL	NULL	1185	273	0.00010548523206751055
+umbrella shaped flower	tansy	1	1	8	8	NULL	NULL	NULL	108	45	0.0011574074074074073
+umbrella shaped flower	wild carrot	1	1	8	8	NULL	NULL	NULL	67	37	0.0018656716417910447
+umbrella shaped flower	cilantro	1	1	8	8	NULL	NULL	NULL	927	256	0.00013484358144552318
+umbrella shaped flower	caraway	1	1	8	8	NULL	NULL	NULL	226	85	0.0005530973451327434
+umbrella shaped flower	yarrow	1	1	8	8	NULL	NULL	NULL	460	159	0.0002717391304347826
+umbrella societies	ACP	1	1	1	1	NULL	NULL	NULL	47	27	0.02127659574468085
+Umbrella species	bobwhite quail	1	1	9	9	0.142857142857	NULL	NULL	83	35	0.0013386880856760374
+Umbrella species	pencil umbrella	1	1	9	9	0.142857142857	NULL	NULL	1	1	0.1111111111111111
+Umbrella species	Panthera onca	1	1	9	9	0.142857142857	NULL	NULL	6	6	0.018518518518518517
+Umbrella species	deer	1	1	9	9	0.142857142857	NULL	NULL	4037	801	0.000027523188286131065
+Umbrella species	automatic umbrella	1	1	9	9	0.142857142857	NULL	NULL	1	1	0.1111111111111111
+Umbrella species	elk	1	1	9	9	0.142857142857	NULL	NULL	1506	381	0.00007377895824110963
+Umbrella species	cougar	1	1	9	9	0.142857142857	NULL	NULL	434	137	0.0002560163850486431
+Umbrella species	jaguar	1	1	9	9	0.142857142857	NULL	NULL	1068	406	0.00010403662089055347
+Umbrella species	woodpecker	1	1	9	9	0.142857142857	NULL	NULL	558	150	0.00019912385503783353
+Umbrella specifications	Java Technology for the Wireless Industry specification	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella sponsor	FedEx	1	1	2	2	NULL	NULL	NULL	1521	517	0.0003287310979618672
+umbrella sponsor	Nationwide	1	1	2	2	NULL	NULL	NULL	323	99	0.0015479876160990713
+umbrella standard	H.323	1	1	1	1	NULL	NULL	NULL	156	63	0.00641025641025641
+umbrella statement	Framework on Special Needs Education	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+umbrella statement	Salamanca Statement	2	1	4	2	NULL	NULL	NULL	4	3	0.25
+umbrella structure	bargaining council	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+umbrella structure	sectoral fund	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrella support organization	Social Development Fund	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+umbrella task	continuous task	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+umbrella technology	energy harvesting	1	1	1	1	1.000000000000	NULL	NULL	16	11	0.0625
+umbrella term	tier I	2	2	19	18	0.384615384615	NULL	NULL	3	2	0.07017543859649122
+umbrella term	BT Internet	2	2	19	18	0.384615384615	NULL	NULL	8	7	0.02631578947368421
+umbrella term	Christian Gnosticism	1	1	19	18	0.384615384615	NULL	NULL	2	2	0.02631578947368421
+umbrella term	injustice	1	1	19	18	0.384615384615	NULL	NULL	117	62	0.00044984255510571296
+umbrella term	transgender	1	1	19	18	0.384615384615	NULL	NULL	41	24	0.0012836970474967907
+umbrella term	conservative	1	1	19	18	0.384615384615	NULL	NULL	142	49	0.00037064492216456633
+umbrella term	Chicano	1	1	19	18	0.384615384615	NULL	NULL	6	2	0.008771929824561403
+umbrella term	Gardnerian Wicca	1	1	19	18	0.384615384615	NULL	NULL	8	4	0.006578947368421052
+umbrella term	peace	1	1	19	18	0.384615384615	NULL	NULL	1081	393	0.000048687862115974485
+umbrella term	human right	1	1	19	18	0.384615384615	NULL	NULL	1945	526	0.000027059937762143145
+umbrella term	Hispanic	1	1	19	18	0.384615384615	NULL	NULL	121	78	0.00043497172683775554
+umbrella term	liberal	1	1	19	18	0.384615384615	NULL	NULL	46	21	0.0011441647597254005
+umbrella term	Latino	1	1	19	18	0.384615384615	NULL	NULL	64	37	0.0008223684210526315
+umbrella term	LaVeyan Satanism	1	1	19	18	0.384615384615	NULL	NULL	6	4	0.008771929824561403
+umbrella term	Western Mystery Tradition	1	1	19	18	0.384615384615	NULL	NULL	2	2	0.02631578947368421
+umbrella term	Crowleyan Thelema	1	1	19	18	0.384615384615	NULL	NULL	1	1	0.05263157894736842
+umbrella term	equality	1	1	19	18	0.384615384615	NULL	NULL	1205	414	0.00004367765887748416
+umbrella theme	equality	1	1	3	3	NULL	NULL	NULL	1205	414	0.00027662517289073305
+umbrella theme	justice	1	1	3	3	NULL	NULL	NULL	2127	641	0.0001567152483936687
+umbrella theme	freedom	1	1	3	3	NULL	NULL	NULL	1484	472	0.00022461814914645102
+umbrella topic	so-called umbrella topic	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+umbrella type category	multimedia	1	1	1	1	NULL	NULL	NULL	934	415	0.0010706638115631692
+umbrella user	golfers during play	2	2	2	1	NULL	NULL	NULL	2	1	1
+umbrella website	National Trust for Scotland's education site	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrella word	queer	1	1	1	1	1.000000000000	NULL	NULL	45	18	0.022222222222222223
+umbrella's feature	locking mechanism	1	1	2	2	0.500000000000	NULL	NULL	17	22	0.029411764705882353
+umbrella's feature	size	1	1	2	2	0.500000000000	NULL	NULL	44267	2716	0.00001129509566946032
+umbrella-folding baby stroller	Maclaren Triumph	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+umbrella-type sephardic group	American Sephardic Federation	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbria architectural landmark	Romagna	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+umbria art city	Todi	1	1	5	5	0.400000000000	NULL	NULL	48	29	0.004166666666666667
+umbria art city	Gubbio	1	1	5	5	0.400000000000	NULL	NULL	31	18	0.0064516129032258064
+umbria art city	Orvieto	1	1	5	5	0.400000000000	NULL	NULL	67	41	0.0029850746268656717
+umbria art city	Perugia	1	1	5	5	0.400000000000	NULL	NULL	81	44	0.0024691358024691358
+umbria art city	Assisi	1	1	5	5	0.400000000000	NULL	NULL	85	38	0.0023529411764705885
+umbria town	Perugia	1	1	1	1	1.000000000000	NULL	NULL	81	44	0.012345679012345678
+umbrian art city	Assisi	1	1	2	2	0.500000000000	NULL	NULL	85	38	0.0058823529411764705
+umbrian art city	Perugia	1	1	2	2	0.500000000000	NULL	NULL	81	44	0.006172839506172839
+umbrian city	interesting umbrian city	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+umbrian city	Narni	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+umbrian city	Orvieto	1	1	5	5	NULL	NULL	NULL	67	41	0.0029850746268656717
+umbrian city	Todi	1	1	5	5	NULL	NULL	NULL	48	29	0.004166666666666667
+umbrian city	delightful umbrian city	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+umbrian classic	stringozzi	1	1	1	1	NULL	NULL	NULL	1	1	1
+umbrian master	Signorelli	1	1	2	2	1.000000000000	NULL	NULL	6	4	0.08333333333333333
+umbrian master	Perugino	1	1	2	2	1.000000000000	NULL	NULL	21	14	0.023809523809523808
+umbrian red	notable umbrian red	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umbrian red	Torgiano Rosso Riserva	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+umbrian town	Assisi	1	1	4	4	0.333333333333	NULL	NULL	85	38	0.0029411764705882353
+umbrian town	Deruta	1	1	4	4	0.333333333333	NULL	NULL	5	4	0.05
+umbrian town	Gubbio	1	1	4	4	0.333333333333	NULL	NULL	31	18	0.008064516129032258
+umbrian town	Todi	1	1	4	4	0.333333333333	NULL	NULL	48	29	0.005208333333333333
+Umbrisols	Brown Podzolic	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMBS item	alumni t-shirt	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+UMBS item	baby wear	1	1	2	2	1.000000000000	NULL	NULL	13	5	0.038461538461538464
+UMC employee	Amy Coleman	1	0	1	1	NULL	NULL	NULL	1	1	1
+UMC fan	Sergio	1	1	1	1	0.500000000000	NULL	NULL	6	6	0.16666666666666666
+UMC institution	Mary Johnston Hospital	1	1	3	3	0.750000000000	NULL	NULL	1	1	0.3333333333333333
+UMC institution	UTS	1	1	3	3	0.750000000000	NULL	NULL	15	8	0.02222222222222222
+UMC institution	Wesleyan	1	1	3	3	0.750000000000	NULL	NULL	44	22	0.007575757575757575
+umc's customer	STMicroelectronics	1	1	1	1	NULL	NULL	NULL	84	52	0.011904761904761904
+UMCC feature	wearability	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+UMCOR emergency kit	School Kits	1	1	3	3	0.333333333333	NULL	NULL	4	4	0.08333333333333333
+UMCOR emergency kit	health kit	1	1	3	3	0.333333333333	NULL	NULL	11	8	0.0303030303030303
+UMCOR emergency kit	Health	1	1	3	3	0.333333333333	NULL	NULL	12226	3162	0.00002726430012541578
+UMCOR partner	Church World Service	2	1	6	3	1.000000000000	NULL	NULL	39	23	0.017094017094017092
+UMCOR partner	Church's Auxiliary for Social Action	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+UMCOR partner	International Blue Crescent	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+UMCOR supply item	seed	1	1	1	1	NULL	NULL	NULL	2759	988	0.0003624501631025734
+umcor's specialized ministry	fighting hunger	2	2	4	2	1.000000000000	NULL	NULL	8	5	0.125
+umcor's specialized ministry	responding in disaster	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+umcor-donated in-kind supply	hygiene InterAction Member Activity Report for Armenia	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+UMD athletic event	football	1	1	3	3	NULL	NULL	NULL	10605	1568	0.00003143171460003143
+UMD athletic event	hockey	1	1	3	3	NULL	NULL	NULL	2679	470	0.00012442453651860145
+UMD athletic event	basketball game	1	1	3	3	NULL	NULL	NULL	169	81	0.0019723865877712033
+UMD domain	face recognition domain	1	1	1	1	NULL	NULL	NULL	1	1	1
+umd movie	sin city	1	1	1	1	1.000000000000	NULL	NULL	170	38	0.0058823529411764705
+UMD-E computer course	Mechanical Engineering	1	1	2	2	NULL	NULL	NULL	324	153	0.0015432098765432098
+UMD-E computer course	Web Page Design	1	1	2	2	NULL	NULL	NULL	82	55	0.006097560975609756
+UMDNJ function	Commencement	1	1	1	1	NULL	NULL	NULL	158	82	0.006329113924050633
+ume element	room	1	1	1	1	NULL	NULL	NULL	655	279	0.0015267175572519084
+umea attraction	Norrlands Opera House	1	1	1	1	NULL	NULL	NULL	1	1	1
+UmeansR clothing	scarf	2	1	2	1	NULL	NULL	NULL	2821	751	0.0007089684509039348
+umedother digestive enzyme	amylase	1	1	1	1	NULL	NULL	NULL	434	106	0.002304147465437788
+umedthat environmental factor	body posture	1	1	1	1	NULL	NULL	NULL	78	50	0.01282051282051282
+uments	birth certificate	1	1	4	4	0.200000000000	NULL	NULL	1504	299	0.00016622340425531914
+uments	insurance	1	1	4	4	0.200000000000	NULL	NULL	8820	2250	0.00002834467120181406
+uments	medical record	1	1	4	4	0.200000000000	NULL	NULL	548	182	0.0004562043795620438
+uments	project plan	1	1	4	4	0.200000000000	NULL	NULL	133	74	0.0018796992481203006
+umera ahmed novel	Amar Bail	1	1	1	1	NULL	NULL	NULL	1	1	1
+umerical modeling program	FLAC	1	1	1	1	NULL	NULL	NULL	414	108	0.0024154589371980675
+umericallinear algebra subroutine	eigenvalue subroutine	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+umerous commentator	former Nixon White House counsel John Dean	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umerous commentator	psychology professor Bob Altemeyer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umerous selling platform	Magento	1	1	3	3	0.333333333333	NULL	NULL	188	105	0.0017730496453900709
+umerous selling platform	Drupal	1	1	3	3	0.333333333333	NULL	NULL	703	307	0.00047415836889521095
+umerous selling platform	Zencart	1	1	3	3	0.333333333333	NULL	NULL	17	16	0.0196078431372549
+umeroussystems	artificial polymer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+umeroussystems	natural photosynthetic protein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+umesolved construction permit issue	requests for higher power	1	1	1	1	NULL	NULL	NULL	1	1	1
+umethatconcepts	logic gate	1	1	1	1	NULL	NULL	NULL	67	55	0.014925373134328358
+UMKC production	Black Snow	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMKC SOM student organization	MSAC	1	1	1	1	NULL	NULL	NULL	1	1	1
+umkhanyakude district plan	IDP	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+umkhanyakude district plan	Public Transport Plan	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UML artifact	class diagram	3	2	11	5	1.000000000000	NULL	NULL	62	37	0.013196480938416421
+UML artifact	use case diagram	3	2	11	5	1.000000000000	NULL	NULL	41	21	0.019955654101995565
+UML artifact	state diagram	2	1	11	5	1.000000000000	NULL	NULL	33	21	0.011019283746556474
+UML artifact	Activity Diagram	2	2	11	5	1.000000000000	NULL	NULL	49	29	0.0074211502782931356
+UML artifact	sequence diagram	1	1	11	5	1.000000000000	NULL	NULL	61	37	0.0014903129657228018
+UML association	aggregation	1	1	1	1	NULL	NULL	NULL	328	202	0.003048780487804878
+UML association concept	inverse role	1	1	1	1	NULL	NULL	NULL	1	1	1
+UML capability	dynamic modeling	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+uml case tool	motivation traditional uml case tool	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+UML case tool	Rational Rose	1	1	4	4	0.500000000000	NULL	NULL	89	44	0.0028089887640449437
+UML case tool	IBM Rational Rose	1	1	4	4	0.500000000000	NULL	NULL	5	5	0.05
+UML case tool	Enterprise Architect	1	1	4	4	0.500000000000	NULL	NULL	27	17	0.009259259259259259
+UML class diagram relationship	inheritance	1	1	4	4	NULL	NULL	NULL	1033	400	0.0002420135527589545
+UML class diagram relationship	composition	1	1	4	4	NULL	NULL	NULL	1555	612	0.0001607717041800643
+UML class diagram relationship	aggregation	1	1	4	4	NULL	NULL	NULL	328	202	0.0007621951219512195
+UML class diagram relationship	association	1	1	4	4	NULL	NULL	NULL	712	375	0.00035112359550561797
+UML class-based type	Capability Role	1	1	1	1	NULL	NULL	NULL	1	1	1
+UML commercially available supporting tool	Rational Rose	2	1	2	1	1.000000000000	NULL	NULL	89	44	0.02247191011235955
+UML concept	Class	2	2	22	19	0.062500000000	NULL	NULL	2573	947	0.00007066388722043599
+UML concept	inheritance	2	2	22	19	0.062500000000	NULL	NULL	1033	400	0.00017600985655196692
+UML concept	Association	2	2	22	19	0.062500000000	NULL	NULL	712	375	0.0002553626149131767
+uml concept	complex uml concept	1	1	22	19	0.062500000000	NULL	NULL	2	2	0.022727272727272728
+UML concept	Scope Diagramming	1	0	22	19	0.062500000000	NULL	NULL	1	1	0.045454545454545456
+UML concept	visibility	1	1	22	19	0.062500000000	NULL	NULL	491	203	0.00009257544899092761
+UML concept	template	1	1	22	19	0.062500000000	NULL	NULL	701	328	0.00006484243288808196
+UML concept	template binding	1	1	22	19	0.062500000000	NULL	NULL	1	1	0.045454545454545456
+UML concept	encapsulation	1	1	22	19	0.062500000000	NULL	NULL	320	158	0.00014204545454545454
+UML concept	aggregation	1	1	22	19	0.062500000000	NULL	NULL	328	202	0.0001385809312638581
+UML concept	object	1	1	22	19	0.062500000000	NULL	NULL	889	471	0.00005112997238981491
+UML concept	realization	1	1	22	19	0.062500000000	NULL	NULL	11	10	0.004132231404958678
+UML concept	generalization	1	1	22	19	0.062500000000	NULL	NULL	110	73	0.00041322314049586776
+UML concept	Package	1	1	22	19	0.062500000000	NULL	NULL	305	150	0.00014903129657228018
+UML concept	Constraint	1	1	22	19	0.062500000000	NULL	NULL	247	134	0.0001840264998159735
+UML concept	composition	1	1	22	19	0.062500000000	NULL	NULL	1555	612	0.000029231218941829874
+UML concept	dependency	1	1	22	19	0.062500000000	NULL	NULL	214	113	0.00021240441801189465
+UML concept	abstraction	1	1	22	19	0.062500000000	NULL	NULL	247	135	0.0001840264998159735
+UML concept	Attribute	1	1	22	19	0.062500000000	NULL	NULL	282	154	0.00016118633139909736
+UML diagram	class diagram	12	10	119	44	0.500000000000	NULL	NULL	62	37	0.01951748441312009
+UML diagram	Use case diagram	11	6	119	44	0.500000000000	NULL	NULL	41	21	0.024800163968026232
+UML diagram	sequence diagram	10	8	119	44	0.500000000000	NULL	NULL	61	37	0.013776002204160354
+UML diagram	use case	9	8	119	44	0.500000000000	NULL	NULL	166	89	0.004100435354864837
+UML diagram	Activity Diagram	7	4	119	44	0.500000000000	NULL	NULL	49	29	0.008403361344537815
+UML diagram	class	7	7	119	44	0.500000000000	NULL	NULL	2573	947	0.00016003292105804621
+UML diagram	Activity	5	5	119	44	0.500000000000	NULL	NULL	1200	522	0.0001750700280112045
+UML diagram	sequence	5	4	119	44	0.500000000000	NULL	NULL	402	222	0.000522597098540909
+UML diagram	Block Diagrams	4	1	119	44	0.500000000000	NULL	NULL	4	1	0.03361344537815126
+UML diagram	state chart	4	4	119	44	0.500000000000	NULL	NULL	15	11	0.008963585434173669
+UML diagram	Domain Models	4	1	119	44	0.500000000000	NULL	NULL	4	1	0.03361344537815126
+UML diagram	component	3	3	119	44	0.500000000000	NULL	NULL	461	262	0.00016405694598880768
+UML diagram	component diagram	3	3	119	44	0.500000000000	NULL	NULL	14	8	0.005402160864345739
+UML diagram	communication diagram	2	1	119	44	0.500000000000	NULL	NULL	3	2	0.011204481792717087
+UML diagram	deployment diagram	2	2	119	44	0.500000000000	NULL	NULL	6	4	0.0056022408963585435
+UML diagram	collaboration	2	2	119	44	0.500000000000	NULL	NULL	982	418	0.0000342295777781581
+UML diagram	state transition diagram	2	1	119	44	0.500000000000	NULL	NULL	15	13	0.002240896358543417
+UML diagram	Activity dig.	2	2	119	44	0.500000000000	NULL	NULL	2	1	0.01680672268907563
+UML diagram	Use Case dig.	2	2	119	44	0.500000000000	NULL	NULL	2	1	0.01680672268907563
+UML diagram	State	2	2	119	44	0.500000000000	NULL	NULL	2687	1107	0.000012509655890640587
+UML diagram	Interaction	2	2	119	44	0.500000000000	NULL	NULL	270	147	0.00012449424214130097
+UML diagram	Sequence dig.	2	2	119	44	0.500000000000	NULL	NULL	2	1	0.01680672268907563
+UML diagram	Component dig.	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	ERDs	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	conceptual model	1	1	119	44	0.500000000000	NULL	NULL	15	12	0.0005602240896358543
+uml diagram	system uml diagram	1	1	119	44	0.500000000000	NULL	NULL	2	2	0.004201680672268907
+UML diagram	flow diagram	1	1	119	44	0.500000000000	NULL	NULL	45	28	0.00018674136321195143
+UML diagram	object collaboration	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	Package	1	1	119	44	0.500000000000	NULL	NULL	305	150	0.000027552004408320703
+UML diagram	state diagram	1	1	119	44	0.500000000000	NULL	NULL	33	21	0.00025464731347084286
+UML diagram	State Chart diagram	1	1	119	44	0.500000000000	NULL	NULL	4	4	0.0021008403361344537
+UML diagram	Technical Use case	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	Collaboration Diagrams	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	class diag ram	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	sequence diagram for describing architecture	1	1	119	44	0.500000000000	NULL	NULL	1	1	0.008403361344537815
+UML diagram	workflow diagram	1	1	119	44	0.500000000000	NULL	NULL	8	8	0.0010504201680672268
+UML diagram	Deployment	1	1	119	44	0.500000000000	NULL	NULL	297	161	0.000028294145941204763
+UML diagram	Communication	1	1	119	44	0.500000000000	NULL	NULL	8195	2329	0.0000010254254233725217
+UML diagram	Object	1	1	119	44	0.500000000000	NULL	NULL	889	471	0.00000945259993761284
+UML diagram artifact	Frames	1	1	1	1	1.000000000000	NULL	NULL	25	25	0.04
+uml diagram type	standard uml diagram type	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+UML diagram type	collaboration diagram	1	1	7	7	1.000000000000	NULL	NULL	9	9	0.015873015873015872
+UML diagram type	use case diagram	1	1	7	7	1.000000000000	NULL	NULL	41	21	0.003484320557491289
+UML diagram type	statechart diagram	1	1	7	7	1.000000000000	NULL	NULL	12	8	0.011904761904761904
+UML diagram type	sequence diagram	1	1	7	7	1.000000000000	NULL	NULL	61	37	0.00234192037470726
+UML diagram type	class diagram	1	1	7	7	1.000000000000	NULL	NULL	62	37	0.002304147465437788
+UML diagram type	activity diagram	1	1	7	7	1.000000000000	NULL	NULL	49	29	0.0029154518950437317
+UML element	class	4	3	15	6	0.166666666666	NULL	NULL	2573	947	0.0004145614716932245
+UML element	use case	4	3	15	6	0.166666666666	NULL	NULL	166	89	0.00642570281124498
+UML element	interface	2	1	15	6	0.166666666666	NULL	NULL	490	242	0.0005442176870748299
+UML element	dependency	2	1	15	6	0.166666666666	NULL	NULL	214	113	0.0012461059190031153
+UML element	property	2	1	15	6	0.166666666666	NULL	NULL	2463	812	0.00010826904858573555
+UML element	state	1	1	15	6	0.166666666666	NULL	NULL	2687	1107	0.000024810817516437167
+UML extension	stereotype	1	1	1	1	0.500000000000	NULL	NULL	164	74	0.006097560975609756
+UML extension mechanism	tagged value	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+UML extension mechanism	stereotype	1	1	2	2	0.500000000000	NULL	NULL	164	74	0.003048780487804878
+UML feature	constraint	2	2	9	7	0.250000000000	NULL	NULL	247	134	0.0017993702204228519
+UML feature	requirement	2	2	9	7	0.250000000000	NULL	NULL	230	117	0.001932367149758454
+UML feature	composition	1	1	9	7	0.250000000000	NULL	NULL	1555	612	0.00007145409074669524
+UML feature	qualifier	1	1	9	7	0.250000000000	NULL	NULL	9	6	0.012345679012345678
+UML feature	association class	1	1	9	7	0.250000000000	NULL	NULL	2	2	0.05555555555555555
+UML feature	scenarios against user interface element	1	1	9	7	0.250000000000	NULL	NULL	1	1	0.1111111111111111
+UML feature	scenarios against User Interface diagram element	1	1	9	7	0.250000000000	NULL	NULL	1	1	0.1111111111111111
+UML groupi ng element	activity partition	1	1	1	1	NULL	NULL	NULL	1	1	1
+UML IDEs	Visual Paradigm	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+UML infrastructure basic concept	Package	2	2	2	1	0.500000000000	NULL	NULL	305	150	0.006557377049180328
+UML management task	process monitoring	1	1	2	2	1.000000000000	NULL	NULL	26	25	0.019230769230769232
+UML management task	password reset	1	1	2	2	1.000000000000	NULL	NULL	59	45	0.00847457627118644
+UML metamodeldefines class	Package	1	1	3	3	NULL	NULL	NULL	305	150	0.001092896174863388
+UML metamodeldefines class	Class	1	1	3	3	NULL	NULL	NULL	2573	947	0.00012955045990413266
+UML metamodeldefines class	Association	1	1	3	3	NULL	NULL	NULL	712	375	0.0004681647940074906
+UML metamodeldefines concept	Package	1	1	1	1	NULL	NULL	NULL	305	150	0.003278688524590164
+UML model	sequence diagram	2	2	8	7	0.750000000000	NULL	NULL	61	37	0.00819672131147541
+uml model	executable uml model	1	1	8	7	0.750000000000	NULL	NULL	2	2	0.0625
+UML model	class diagram	1	1	8	7	0.750000000000	NULL	NULL	62	37	0.0020161290322580645
+UML model	class model	1	1	8	7	0.750000000000	NULL	NULL	4	4	0.03125
+UML model	use case	1	1	8	7	0.750000000000	NULL	NULL	166	89	0.0007530120481927711
+uml model	developed uml model	1	1	8	7	0.750000000000	NULL	NULL	2	2	0.0625
+UML model	screen mock-ups	1	1	8	7	0.750000000000	NULL	NULL	1	1	0.125
+UML modeling element	use case	1	1	1	1	NULL	NULL	NULL	166	89	0.006024096385542169
+UML modeling tool	Enterprise Architect	2	2	12	10	0.500000000000	NULL	NULL	27	17	0.012345679012345678
+UML modeling tool	Poseidon	2	1	12	10	0.500000000000	NULL	NULL	90	39	0.0037037037037037034
+UML modeling tool	Oracle JDeveloper	1	1	12	10	0.500000000000	NULL	NULL	26	14	0.003205128205128205
+UML modeling tool	Rational Rose	1	1	12	10	0.500000000000	NULL	NULL	89	44	0.0009363295880149812
+uml modeling tool	open source uml modeling tool	1	1	12	10	0.500000000000	NULL	NULL	3	3	0.027777777777777776
+UML modeling tool	open source solution like Dia	1	1	12	10	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+UML modeling tool	Visio	1	1	12	10	0.500000000000	NULL	NULL	210	98	0.0003968253968253968
+UML modeling tool	Sybase PowerDesigner	1	1	12	10	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+uml modeling tool	modern uml modeling tool	1	1	12	10	0.500000000000	NULL	NULL	3	3	0.027777777777777776
+UML modeling tool	RSA	1	1	12	10	0.500000000000	NULL	NULL	501	257	0.00016633399866932801
+UML modelling package	Microsoft Visio	1	1	1	1	1.000000000000	NULL	NULL	68	37	0.014705882352941176
+UML modelling tool	Rational Rose	5	5	5	1	1.000000000000	NULL	NULL	89	44	0.056179775280898875
+UML non-aggregate association	modifiedby	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UML non-aggregate association	owner	1	1	3	3	NULL	NULL	NULL	384	162	0.0008680555555555555
+UML non-aggregate association	createdby	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UML notation	state diagram	2	2	3	2	0.666666666666	NULL	NULL	33	21	0.0404040404040404
+UML notation	use case	1	1	3	2	0.666666666666	NULL	NULL	166	89	0.002008032128514056
+UML operation	enteramount	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UML operation	checkaccountbalance	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UML operation	insertcard	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UML operation	disbursecash	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UML operation	enterpin	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UML operation	validatecard	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UML oriented solution	Cofluent Studio	1	1	1	1	NULL	NULL	NULL	1	1	1
+UML profile	Quality of Service Modelling language	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+UML profile	QoS	1	1	4	4	0.500000000000	NULL	NULL	263	120	0.0009505703422053232
+UML profile	UML Profile for CORBA for CCM	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+UML profile	UML Profile Scheduling	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+UML relationship	association	1	1	2	2	NULL	NULL	NULL	712	375	0.0007022471910112359
+UML relationship	aggregation	1	1	2	2	NULL	NULL	NULL	328	202	0.001524390243902439
+UML review independent work	poetry	1	1	3	3	NULL	NULL	NULL	1427	537	0.000233590282644242
+UML review independent work	film	1	1	3	3	NULL	NULL	NULL	3681	1439	0.00009055510278004166
+UML review independent work	music	1	1	3	3	NULL	NULL	NULL	14153	3857	0.00002355213264561106
+UML shape	class	1	0	1	1	NULL	NULL	NULL	2573	947	0.000388651379712398
+UML standard diagram	use case diagram	1	1	2	2	1.000000000000	NULL	NULL	41	21	0.012195121951219513
+UML standard diagram	class diagram	1	1	2	2	1.000000000000	NULL	NULL	62	37	0.008064516129032258
+UML technique	Use case	1	1	4	4	0.750000000000	NULL	NULL	166	89	0.0015060240963855422
+UML technique	Activity diagram	1	1	4	4	0.750000000000	NULL	NULL	49	29	0.00510204081632653
+UML technique	Use case diagram	1	1	4	4	0.750000000000	NULL	NULL	41	21	0.006097560975609756
+UML technique	Sequence diagram	1	1	4	4	0.750000000000	NULL	NULL	61	37	0.004098360655737705
+UML term	class	1	1	1	1	NULL	NULL	NULL	2573	947	0.000388651379712398
+UML tool	Enterprise Architect	3	3	15	13	0.333333333333	NULL	NULL	27	17	0.022222222222222227
+UML tool	use case diagram	2	2	15	13	0.333333333333	NULL	NULL	41	21	0.0065040650406504065
+uml tool	general-purpose uml tool	1	1	15	13	0.333333333333	NULL	NULL	2	2	0.03333333333333333
+UML tool	NetBeans UML feature	1	1	15	13	0.333333333333	NULL	NULL	1	1	0.06666666666666667
+UML tool	Rational Rose 98i	1	1	15	13	0.333333333333	NULL	NULL	1	1	0.06666666666666667
+UML tool	Rational	1	1	15	13	0.333333333333	NULL	NULL	73	48	0.0009132420091324201
+UML tool	Poseidon	1	1	15	13	0.333333333333	NULL	NULL	90	39	0.0007407407407407407
+UML tool	Rhapsody	1	1	15	13	0.333333333333	NULL	NULL	367	126	0.00018165304268846503
+uml tool	good uml tool	1	1	15	13	0.333333333333	NULL	NULL	2	2	0.03333333333333333
+UML tool	uses case	1	1	15	13	0.333333333333	NULL	NULL	1	1	0.06666666666666667
+UML tool	Rational Rose	1	1	15	13	0.333333333333	NULL	NULL	89	44	0.000749063670411985
+uml tool	otherwhiteboard-based uml tool	1	1	15	13	0.333333333333	NULL	NULL	2	2	0.03333333333333333
+UML view UML diagram	deployment	1	1	3	3	NULL	NULL	NULL	297	161	0.0011223344556677889
+UML view UML diagram	activity	1	1	3	3	NULL	NULL	NULL	1200	522	0.0002777777777777778
+UML view UML diagram	class	1	1	3	3	NULL	NULL	NULL	2573	947	0.00012955045990413266
+UML workbench	Objecteering	1	1	1	1	NULL	NULL	NULL	1	1	1
+uml's feature	collaboration	1	1	3	3	0.333333333333	NULL	NULL	982	418	0.00033944331296673454
+uml's feature	sequence	1	1	3	3	0.333333333333	NULL	NULL	402	222	0.0008291873963515754
+uml's feature	statechart diagram	1	1	3	3	0.333333333333	NULL	NULL	12	8	0.027777777777777776
+uml-based modeling tool	Poseidon	1	1	2	2	NULL	NULL	NULL	90	39	0.005555555555555556
+uml-based modeling tool	Rational Rose	1	1	2	2	NULL	NULL	NULL	89	44	0.0056179775280898875
+uml-based software design tool	Telelogic TAU	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uml-based software design tool	IBM Rose-RT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uml-based tool	Rational Rose	1	1	1	1	NULL	NULL	NULL	89	44	0.011235955056179775
+uml-modeling tool	ArgoUML	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+uml-modelling tool	ArgoUML	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+UML2 model	State Diagrams	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+UML2 model	Use Cases	1	1	3	3	1.000000000000	NULL	NULL	6	15	0.05555555555555555
+UML2 model	Activity Diagrams	1	1	3	3	1.000000000000	NULL	NULL	5	8	0.06666666666666667
+UML2 modeling technique	Activity Diagrams	1	1	2	2	NULL	NULL	NULL	5	8	0.1
+UML2 modeling technique	Use Case Scenarios	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+UMLIS application	applications for issuing building permit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UMLIS application	waste management	1	1	2	2	NULL	NULL	NULL	739	302	0.0006765899864682003
+umls feature	statechart diagram	1	1	3	3	0.333333333333	NULL	NULL	12	8	0.027777777777777776
+umls feature	collaboration	1	1	3	3	0.333333333333	NULL	NULL	982	418	0.00033944331296673454
+umls feature	sequence	1	1	3	3	0.333333333333	NULL	NULL	402	222	0.0008291873963515754
+umm most gecko	leos	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+umm most gecko	fat tail	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+umm usually small rodent	hamster	1	1	1	1	NULL	NULL	NULL	1548	215	0.0006459948320413437
+UMMARY linkage system	multi-fingered hand	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMMARY organizational movement	transfer	1	1	3	3	NULL	NULL	NULL	1346	530	0.00024764735017335313
+UMMARY organizational movement	job rotation	1	1	3	3	NULL	NULL	NULL	172	91	0.001937984496124031
+UMMARY organizational movement	promotion	1	1	3	3	NULL	NULL	NULL	2086	789	0.00015979546180888463
+ummayad building	Grand Mosque in Damascus	1	1	1	1	NULL	NULL	NULL	1	1	1
+ummayad ruler	Abd al-malik	6	6	8	3	NULL	NULL	NULL	6	1	0.75
+ummayad ruler	3 From Wikipedia	1	1	8	3	NULL	NULL	NULL	5	5	0.025
+ummayad ruler	Abd al-Malik ibn Marwan	1	1	8	3	NULL	NULL	NULL	1	1	0.125
+UMMC leader	John Spearman	1	1	1	1	NULL	NULL	NULL	1	1	1
+ummer activity	hiking	1	1	1	1	NULL	NULL	NULL	9096	1522	0.00010993843447669306
+UMMER annual	summer poppy	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ummer flowering bulb	calla	2	1	12	8	0.333333333333	NULL	NULL	41	22	0.008130081300813007
+ummer flowering bulb	lily	2	1	12	8	0.333333333333	NULL	NULL	1316	552	0.0002532928064842958
+ummer flowering bulb	dahlia	2	1	12	8	0.333333333333	NULL	NULL	587	202	0.0005678591709256105
+ummer flowering bulb	gladiolus	2	1	12	8	0.333333333333	NULL	NULL	294	95	0.0011337868480725624
+ummer flowering bulb	amaryllis	2	1	12	8	0.333333333333	NULL	NULL	174	77	0.0019157088122605363
+ummer flowering bulb	tuberose begonia	1	1	12	8	0.333333333333	NULL	NULL	2	2	0.041666666666666664
+ummer flowering bulb	tuberous begonia	1	1	12	8	0.333333333333	NULL	NULL	53	30	0.001572327044025157
+ummer program	Little League	1	1	1	1	NULL	NULL	NULL	168	87	0.005952380952380952
+ummer-fruiting plant	blueberry	1	1	4	4	NULL	NULL	NULL	4083	892	0.0000612294881214793
+ummer-fruiting plant	raspberry	1	1	4	4	NULL	NULL	NULL	2771	737	0.00009022013713460844
+ummer-fruiting plant	cherry	1	1	4	4	NULL	NULL	NULL	4701	1285	0.00005318017443097213
+ummer-fruiting plant	grape	1	1	4	4	NULL	NULL	NULL	4192	1036	0.00005963740458015267
+umncntioned state	Wisconsin	1	1	1	1	NULL	NULL	NULL	2038	234	0.0004906771344455348
+Umno bloggers	Big Dog	1	1	1	1	1.000000000000	NULL	NULL	26	16	0.038461538461538464
+umno crony	Bernas	2	2	6	3	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+umno crony	Tenaga Nasional	2	2	6	3	1.000000000000	NULL	NULL	5	4	0.13333333333333333
+umno crony	water concessionaire	2	2	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+umno leader	Hishamuddin	2	2	15	13	NULL	NULL	NULL	3	2	0.08888888888888889
+umno leader	Najib	2	2	15	13	NULL	NULL	NULL	6	4	0.044444444444444446
+umno leader	Ahmad Zahid Hamidi	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	Datuk Seri Mohd Ali Rustam	1	1	15	13	NULL	NULL	NULL	2	2	0.03333333333333333
+umno leader	deputy party president Muhyiddin Yassin	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	Wanita chief Shahrizat Abdul Jalil	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	Aziz Shamsuddin	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	vice-president Datuk Seri Hishammuddin Hussein	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	vice-president Hishammuddin Hussein	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	Mohd Shafie Apdal	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	Tamby Cik	1	1	15	13	NULL	NULL	NULL	1	1	0.06666666666666667
+umno leader	Najib Razak	1	1	15	13	NULL	NULL	NULL	2	2	0.03333333333333333
+umno leader	Shahrir Samad	1	1	15	13	NULL	NULL	NULL	2	2	0.03333333333333333
+umno political great	Ghazali Shafie	2	2	2	1	NULL	NULL	NULL	2	1	1
+umno selangor leader	Datuk Seri Dr Mohd Khir Toyo	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+umno selangor leader	Khir Toyo	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+umno's extremist supporter	Perkasa	2	2	2	1	1.000000000000	NULL	NULL	12	11	0.16666666666666666
+umno-linked stock	Media Prima Bhd	1	1	1	1	NULL	NULL	NULL	1	1	1
+umno-owned press	Utusan	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+umnos extremist supporter	Perkasa	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+umor related protein	BRCA1	1	1	1	1	NULL	NULL	NULL	132	68	0.007575757575757576
+umoral tissue change	edema	1	1	1	1	NULL	NULL	NULL	568	283	0.0017605633802816902
+ump	peristaltic pump	1	1	1	1	0.333333333333	NULL	NULL	82	51	0.012195121951219513
+UMP dirtcar modified driver	Canadian hot shoes Steve Arpin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UMP dirtcar modified driver	NASCAR Sprint Cup veterans Kenny Schrader	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UMP dirtcar modified driver	Jeff Leka	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UMP heavyweight	Prime Minister Francois Fillon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UMP heavyweight	lawmaker Jean-Francois Cope	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UMP national champion	Jimmy Owens	1	1	7	7	1.000000000000	NULL	NULL	11	9	0.012987012987012986
+UMP national champion	Jeff Leka	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+UMP national champion	Mike Marlar	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+UMP national champion	Denny Schwartz	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+UMP national champion	Steve Hillard	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+UMP national champion	Dean Hoffman	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+UMP national champion	Jeff Martin	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+UMP pyrimidine	uridin triphosphate	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMP state	Texas	1	1	1	1	NULL	NULL	NULL	6401	772	0.0001562255897516013
+UMPC	MSI WIND	1	1	1	1	1.000000000000	NULL	NULL	14	7	0.07142857142857142
+UMPC hardware	Eee PC	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+UMPCs	OQO	3	3	12	9	1.000000000000	NULL	NULL	13	10	0.057692307692307696
+UMPCs	Samsung Q1	2	2	12	9	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+UMPCs	Fujitsu UH900	1	1	12	9	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+UMPCs	VAIO UX1XN	1	1	12	9	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+UMPCs	VAIO UX390	1	1	12	9	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+UMPCs	Stone UMPC	1	1	12	9	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+UMPCs	Wilcom's D4	1	1	12	9	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+UMPCs	Sony Vaio P	1	1	12	9	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+umpcs	true, traditional umpcs	1	1	12	9	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+umpire	Joe West	3	2	16	13	0.750000000000	NULL	NULL	4	2	0.140625
+umpire	Jim Joyce	2	2	16	13	0.750000000000	NULL	NULL	2	1	0.125
+umpire	Kirk Gray	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	line umpire	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	Daryl Hair	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	Eric Cooper	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	Bob Davidson	1	1	16	13	0.750000000000	NULL	NULL	4	4	0.015625
+umpire	Jack Williams	1	1	16	13	0.750000000000	NULL	NULL	5	5	0.0125
+umpire	Simon Taufel	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	national league umpire	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	Dickie Bird	1	1	16	13	0.750000000000	NULL	NULL	2	2	0.03125
+umpire	David Nolen	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire	Greg Street	1	1	16	13	0.750000000000	NULL	NULL	1	1	0.0625
+umpire camp	Middle Tennessee State University	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+umpire item	cap	1	1	3	3	NULL	NULL	NULL	1772	770	0.00018811136192626034
+umpire item	umpire T-shirts	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umpire item	extra umpire patch	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umpire's requirement	written order	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+umpire's requirement	order of march	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+umpiring great	Joe Black	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+umpiring great	Willie Mays	1	1	8	8	0.500000000000	NULL	NULL	112	47	0.0011160714285714285
+umpiring great	Satchel Paige	1	1	8	8	0.500000000000	NULL	NULL	48	20	0.0026041666666666665
+umpiring great	Hilton Smith	1	1	8	8	0.500000000000	NULL	NULL	2	2	0.0625
+umpiring great	Hank Aaron	1	1	8	8	0.500000000000	NULL	NULL	105	50	0.0011904761904761906
+umpiring great	Buck O'Neil	1	1	8	8	0.500000000000	NULL	NULL	4	4	0.03125
+umpiring great	Goose Tatum	1	1	8	8	0.500000000000	NULL	NULL	6	3	0.020833333333333332
+umpiring great	Ernie Banks	1	1	8	8	0.500000000000	NULL	NULL	31	21	0.004032258064516129
+UMPP fundraising event	banquet	1	1	1	1	NULL	NULL	NULL	515	173	0.001941747572815534
+UMPP project	Mundra	1	1	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+umrah & hajj VIP package	Family Executive package	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umrah & hajj VIP package	Young Executive package	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+umrah & hajj VIP package	VIP Platinum package	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UMS associated company	Google	1	1	1	1	NULL	NULL	NULL	18060	3284	0.000055370985603543746
+UMS feature	enhanced voice mail	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+UMS feature	email	1	1	2	2	NULL	NULL	NULL	8680	2858	0.0000576036866359447
+UMS game	Evolves	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UMS operational issue	counter UAS	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UMS operational issue	concepts of operation	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+UMS operational issue	irregular warfare	1	1	4	4	NULL	NULL	NULL	3	2	0.08333333333333333
+UMS operational issue	use in the National Airspace System	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UMS trenchless technology	impact moling	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+UMS trenchless technology	horizontal directional drilling	1	1	2	2	1.000000000000	NULL	NULL	31	21	0.016129032258064516
+ums's trenchless technology	horizontal directional drilling	1	1	2	2	1.000000000000	NULL	NULL	31	21	0.016129032258064516
+ums's trenchless technology	impact moling	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+umteen ancient inhabitant culture	India	1	1	1	1	NULL	NULL	NULL	24660	2730	0.000040551500405515004
+umteen ancient oriental culture	Bharat	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+umteen color	cremello	1	1	6	6	0.666666666666	NULL	NULL	23	6	0.007246376811594202
+umteen color	palomino	1	1	6	6	0.666666666666	NULL	NULL	60	37	0.0027777777777777775
+umteen color	roan	1	1	6	6	0.666666666666	NULL	NULL	76	33	0.0021929824561403508
+umteen color	contraband	1	1	6	6	0.666666666666	NULL	NULL	22	14	0.007575757575757575
+umteen color	buckskin	1	1	6	6	0.666666666666	NULL	NULL	50	22	0.003333333333333333
+umteen color	dun	1	1	6	6	0.666666666666	NULL	NULL	54	28	0.0030864197530864196
+umteen developer	ComiXology	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+umteen developer	Tapulous	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+umteen developer	Glu Mobile	1	1	3	3	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+umteen various reason	encroaching further detail	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+umteen various reason	wrong address	1	1	2	2	1.000000000000	NULL	NULL	22	15	0.022727272727272728
+UMTS	Sierra Wireless USB306	1	1	1	1	NULL	NULL	NULL	1	1	1
+UMTS carrier	Cingular	1	1	1	1	NULL	NULL	NULL	198	83	0.005050505050505051
+UMTS control plane protocol	radio resource control	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UMTS core network qos issue	supporting differentiated service	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UMTS core network qos issue	external network QoS parameter mapping	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UMTS core network qos issue	QoS inter-working	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UMTS element	base station	1	1	1	1	NULL	NULL	NULL	129	78	0.007751937984496124
+UMTS mobility functionalities	cell reselection	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UMTS mobility functionalities	cell search	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+UMTS procedure	registration	1	1	1	1	NULL	NULL	NULL	1364	581	0.0007331378299120235
+UMTS REPORT top brand owner	Coca-Cola	1	1	1	1	NULL	NULL	NULL	2753	756	0.0003632401017072285
+UMTS service	low speed data service	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UMTS service	e-mail	1	1	4	4	NULL	NULL	NULL	4959	1772	0.000050413389796329905
+UMTS service	voice	1	1	4	4	NULL	NULL	NULL	2237	987	0.00011175681716584712
+UMTS service	mobile TV	1	1	4	4	NULL	NULL	NULL	164	80	0.001524390243902439
+UMTS system	TD-CDMA	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+UMUC library database	ProQuest Newspapers	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+UMUC library database	LexisNexis Academic	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+UMW resource	Response Magazine	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+umzugsfirma additional service	further insurance coverage	1	1	1	1	NULL	NULL	NULL	4	2	0.25

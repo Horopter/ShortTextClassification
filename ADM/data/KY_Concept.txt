@@ -1,0 +1,163 @@
+ky landmark	Mammoth Cave	1	1	3	3	1.000000000000	NULL	NULL	34	18	0.00980392156862745
+ky landmark	Harrodsburg	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+ky landmark	Hodgenville	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+KYA member	Kajal Katariwala	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+KYA member	Rajan Kapadia	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+KYA member	Vikesh Kapadia	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+KYA member	Raj Balsara	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+KYA member	Puja Katariwala	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+KYA member	Rishi Katariwala	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+KYC document	KYC Forms	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KYC document	RDD	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+kyc-related process	client onboarding	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Kydex gear	holster	1	1	1	1	NULL	NULL	NULL	412	269	0.0024271844660194173
+kydex manufacturer	Blade Tech	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kydex OWB holster	Blade Tech Revolution	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyissa's cubical solution	K4 Cubicle	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyiv-based, foreign-owned consulting firm	Boston Consulting Group	1	1	1	1	1.000000000000	NULL	NULL	67	27	0.014925373134328358
+kyivan baroque theologian	St Dmytry of Rostov	1	1	1	1	NULL	NULL	NULL	1	1	1
+kylie minogue's album	Light Years	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kylie minogue-style track	Play With Fire	1	1	1	1	NULL	NULL	NULL	1	1	1
+kymaerican site	guild home for the Benchmakers of Awaswra	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kymaerican site	Adalanta Desert site	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kymco line	ATVs	1	1	1	1	NULL	NULL	NULL	243	94	0.00411522633744856
+kymco scooter	People	2	1	5	4	0.200000000000	NULL	NULL	483	170	0.0016563146997929607
+kymco scooter	Grand Dink	1	1	5	4	0.200000000000	NULL	NULL	1	1	0.2
+kymco scooter	Dink	1	1	5	4	0.200000000000	NULL	NULL	8	8	0.025
+kymco scooter	Top Boy	1	1	5	4	0.200000000000	NULL	NULL	2	2	0.1
+KYMCO scooter part	electronics	1	1	5	5	NULL	NULL	NULL	4365	1223	0.000045819014891179845
+KYMCO scooter part	roller weight	1	1	5	5	NULL	NULL	NULL	5	4	0.04
+KYMCO scooter part	belt	1	1	5	5	NULL	NULL	NULL	3587	1043	0.00005575689991636465
+KYMCO scooter part	battery	1	1	5	5	NULL	NULL	NULL	5492	1552	0.000036416605972323384
+KYMCO scooter part	tire	1	1	5	5	NULL	NULL	NULL	2102	655	0.00009514747859181732
+kynurenine hydroxylase inhibitor	3	1	1	1	1	NULL	NULL	NULL	731	485	0.0013679890560875513
+kynurenines	kynurenine	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+kyoani force	Kanon Survivors	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyoani production title	Kanon	1	1	3	3	0.333333333333	NULL	NULL	15	12	0.02222222222222222
+kyoani production title	Air	1	1	3	3	0.333333333333	NULL	NULL	4803	1359	0.00006940106877645916
+kyoani production title	Clannad	1	1	3	3	0.333333333333	NULL	NULL	48	27	0.006944444444444444
+kyocera accessory	Kyocera KX5 OEM Holster	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kyocera accessory	Kyocera KX1	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kyocera accessory	SoHo OEM Leather Case for Vertical Displayed Phones	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kyocera accessory	Kyocera KX21 OEM Standard Battery	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kyocera cell phone accessory	charger	2	2	8	4	0.500000000000	NULL	NULL	924	460	0.0005411255411255411
+kyocera cell phone accessory	battery	2	2	8	4	0.500000000000	NULL	NULL	5492	1552	0.00009104151493080845
+kyocera cell phone accessory	hands-free headset	2	2	8	4	0.500000000000	NULL	NULL	17	9	0.029411764705882353
+kyocera cell phone accessory	leather case	2	2	8	4	0.500000000000	NULL	NULL	60	38	0.008333333333333333
+KYOCERA CYCLOPS K325 accessory	holster	1	1	3	3	NULL	NULL	NULL	412	269	0.0008090614886731391
+KYOCERA CYCLOPS K325 accessory	case	1	1	3	3	NULL	NULL	NULL	1324	675	0.00025176233635448137
+KYOCERA CYCLOPS K325 accessory	charger	1	1	3	3	NULL	NULL	NULL	924	460	0.00036075036075036075
+Kyocera driver plug-ins	Security Watermark	3	3	3	1	NULL	NULL	NULL	3	1	1
+kyocera K132 accessory	charger	1	1	3	3	NULL	NULL	NULL	924	460	0.00036075036075036075
+kyocera K132 accessory	case	1	1	3	3	NULL	NULL	NULL	1324	675	0.00025176233635448137
+kyocera K132 accessory	holster	1	1	3	3	NULL	NULL	NULL	412	269	0.0008090614886731391
+kyocera K323 accessory	holster	1	1	3	3	NULL	NULL	NULL	412	269	0.0008090614886731391
+kyocera K323 accessory	case	1	1	3	3	NULL	NULL	NULL	1324	675	0.00025176233635448137
+kyocera K323 accessory	charger	1	1	3	3	NULL	NULL	NULL	924	460	0.00036075036075036075
+KYOCERA KX12 accessory	charger	1	1	3	3	NULL	NULL	NULL	924	460	0.00036075036075036075
+KYOCERA KX12 accessory	case	1	1	3	3	NULL	NULL	NULL	1324	675	0.00025176233635448137
+KYOCERA KX12 accessory	holster	1	1	3	3	NULL	NULL	NULL	412	269	0.0008090614886731391
+KYOCERA KX160 accessory	holster	2	1	6	3	0.333333333333	NULL	NULL	412	269	0.0016181229773462782
+KYOCERA KX160 accessory	case	2	1	6	3	0.333333333333	NULL	NULL	1324	675	0.0005035246727089627
+KYOCERA KX160 accessory	charger	2	1	6	3	0.333333333333	NULL	NULL	924	460	0.0007215007215007215
+kyocera laylo quality accessory	car charger	1	1	5	5	0.600000000000	NULL	NULL	186	76	0.001075268817204301
+kyocera laylo quality accessory	carrying case	1	1	5	5	0.600000000000	NULL	NULL	164	57	0.0012195121951219512
+kyocera laylo quality accessory	belt clip	1	1	5	5	0.600000000000	NULL	NULL	59	27	0.0033898305084745766
+kyocera laylo quality accessory	leather pouch	1	1	5	5	0.600000000000	NULL	NULL	14	10	0.014285714285714287
+kyocera laylo quality accessory	travel charger	1	1	5	5	0.600000000000	NULL	NULL	79	60	0.002531645569620253
+kyocera's electronic component	capacitor	1	1	2	2	0.500000000000	NULL	NULL	2574	633	0.00019425019425019425
+kyocera's electronic component	crystal unit	1	1	2	2	0.500000000000	NULL	NULL	16	15	0.03125
+kyocera's recent technology advance	managed print service	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kyocera's SPE product	heater	1	1	5	5	NULL	NULL	NULL	1368	526	0.00014619883040935673
+kyocera's SPE product	insulator	1	1	5	5	NULL	NULL	NULL	192	92	0.0010416666666666667
+kyocera's SPE product	end effectors	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+kyocera's SPE product	electro-static chuck	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kyocera's SPE product	wafer polishing plate	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kyoei raw blade	Vega RAF-CM	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyokushin all-japan champion	Takashi	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+kyokushin all-japan champion	Yamazaki	1	1	3	3	1.000000000000	NULL	NULL	10	9	0.03333333333333333
+kyokushin all-japan champion	Royama	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Kyokushin katas	Tensho	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+Kyokushin katas	Sanchin	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+Kyopos	Phil Yu	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kyosai	Kenmin Kyosai	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kyosai	Nokyo Kyosai	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kyoto annex II country	China	4	3	8	2	NULL	NULL	NULL	30422	3640	0.0000657418973111564
+kyoto annex II country	India	4	3	8	2	NULL	NULL	NULL	24660	2730	0.00008110300081103001
+kyoto attraction	Nishi Hongan-ji Temple	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kyoto attraction	Nijo Castle	1	1	6	6	1.000000000000	NULL	NULL	17	10	0.00980392156862745
+kyoto attraction	Kyoto National Museum	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+kyoto attraction	Kyoto Nishikyogoku Stadium	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kyoto attraction	Kiyomizu Temple	1	1	6	6	1.000000000000	NULL	NULL	9	7	0.018518518518518517
+kyoto attraction	Arashiyama Monkey Park	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kyoto city	Kobe	1	1	2	2	NULL	NULL	NULL	125	64	0.004
+kyoto city	Kyoto	1	1	2	2	NULL	NULL	NULL	178	81	0.0028089887640449437
+kyoto country	Japan	3	3	6	3	NULL	NULL	NULL	17472	2459	0.00008585164835164836
+kyoto country	Germany	2	2	6	3	NULL	NULL	NULL	19646	2312	0.00003393396450507313
+kyoto country	Canada	1	1	6	3	NULL	NULL	NULL	14882	1900	0.000011199211575505084
+kyoto fabric	Nishijin style of weaving	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyoto flexible mechanism	so-called kyoto flexible mechanism	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kyoto flexible mechanism	CDM	1	1	2	2	NULL	NULL	NULL	111	69	0.0045045045045045045
+kyoto gas	N 2 O	1	1	2	2	NULL	NULL	NULL	99	49	0.005050505050505051
+kyoto gas	HFCs	1	1	2	2	NULL	NULL	NULL	43	31	0.011627906976744186
+kyoto mechanism	CDM	3	3	9	7	0.666666666666	NULL	NULL	111	69	0.009009009009009009
+kyoto mechanism	Clean Development Mechanism	2	2	9	7	0.666666666666	NULL	NULL	87	52	0.005108556832694763
+kyoto mechanism	project-based kyoto mechanism	1	1	9	7	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+kyoto mechanism	so-called kyoto mechanism	1	1	9	7	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+kyoto mechanism	Joint Implementation	1	1	9	7	0.666666666666	NULL	NULL	45	25	0.0024691358024691358
+kyoto mechanism	flexible kyoto mechanism	1	1	9	7	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+kyoto party	Canada	2	2	6	4	NULL	NULL	NULL	14882	1900	0.000044796846302020335
+kyoto party	Japan	2	2	6	4	NULL	NULL	NULL	17472	2459	0.000038156288156288156
+kyoto party	Switzerland	1	1	6	4	NULL	NULL	NULL	4202	633	0.00003966365222909725
+kyoto party	Russia	1	1	6	4	NULL	NULL	NULL	8825	1448	0.000018885741265344665
+kyoto protocol carbon credit	Certified Emission Reductions	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kyoto protocol country	France	1	1	1	1	NULL	NULL	NULL	18997	2318	0.00005263989050902774
+kyoto protocol mechanism	Joint Implementation	2	2	4	3	0.333333333333	NULL	NULL	45	25	0.022222222222222223
+kyoto protocol mechanism	CDM	1	1	4	3	0.333333333333	NULL	NULL	111	69	0.0022522522522522522
+kyoto protocol mechanism	Emissions Trading	1	1	4	3	0.333333333333	NULL	NULL	205	94	0.0012195121951219512
+kyoto protocol signatory	Canada	1	1	3	3	NULL	NULL	NULL	14882	1900	0.000022398423151010167
+kyoto protocol signatory	Japan	1	1	3	3	NULL	NULL	NULL	17472	2459	0.000019078144078144078
+kyoto protocol signatory	Australia	1	1	3	3	NULL	NULL	NULL	16600	2128	0.000020080321285140562
+kyoto protocol's flexible mechanism	Clean Development Mechanism	1	1	1	1	NULL	NULL	NULL	87	52	0.011494252873563218
+kyoto signatory	Japan	2	2	5	4	0.250000000000	NULL	NULL	17472	2459	0.00004578754578754579
+kyoto signatory	Italy	1	1	5	4	0.250000000000	NULL	NULL	10580	1406	0.00001890359168241966
+kyoto signatory	european kyoto signatory	1	1	5	4	0.250000000000	NULL	NULL	2	2	0.1
+kyoto signatory	Canada	1	1	5	4	0.250000000000	NULL	NULL	14882	1900	0.000013439053890606102
+kyoto venture	Horiba	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kyoto's building	Katsura palace	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyoto's fall foliage spot	Arashiyama	2	2	2	1	NULL	NULL	NULL	5	4	0.4
+kyoto's famous sight	Nijo Castle	1	1	2	2	1.000000000000	NULL	NULL	17	10	0.029411764705882353
+kyoto's famous sight	Kinkaku-ji Temple	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kyoto's traditional craft	Nishijin textile	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kyoto's traditional craft	bamboo craft	1	1	2	2	1.000000000000	NULL	NULL	30	29	0.016666666666666666
+kyoto-covered gas	HFCs	1	1	1	1	NULL	NULL	NULL	43	31	0.023255813953488372
+kyozou's own checkout enhancement	pick-up scheduling	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyrgyz deputy	Jyldyz Joldosheva from the ultranationalist Ata-Jurt party	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyrgyz enterprise	Dastan Corporation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kyrgyz enterprise	Kyrgyz Chemical-Metallurgical Plant	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kyrgyz enterprise	Bishkek Machine Building Plant	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kyrgyz industry	textile	1	1	1	1	NULL	NULL	NULL	3810	1081	0.00026246719160104987
+kyrgyz national instrument	komuz	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kyrgyz national traditional product	souvenir	1	1	1	1	NULL	NULL	NULL	301	153	0.0033222591362126247
+kyrgyz republic's autocratic neighbor	Uzbekistan	1	1	2	2	NULL	NULL	NULL	482	137	0.001037344398340249
+kyrgyz republic's autocratic neighbor	Kazakhstan	1	1	2	2	NULL	NULL	NULL	773	202	0.000646830530401035
+kyrgyz scholar	late Professor Kushbek Usonbayev	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kyrgyz scholar	late professor Kushbek Usonbaev	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kyrgyz tradition	horseback wrestling	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyrgyzstan s central asian neighbor	Uzbekistan	1	1	3	3	NULL	NULL	NULL	482	137	0.0006915629322268326
+kyrgyzstan s central asian neighbor	Tajikistan	1	1	3	3	NULL	NULL	NULL	321	81	0.0010384215991692627
+kyrgyzstan s central asian neighbor	Kazakhstan	1	1	3	3	NULL	NULL	NULL	773	202	0.0004312203536006899
+kyrgyzstan's action	unilateral introduction of the national currency	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyrgyzstan's central asian neighbor	Kazakhstan	2	2	6	3	NULL	NULL	NULL	773	202	0.0008624407072013798
+kyrgyzstan's central asian neighbor	Tajikistan	2	2	6	3	NULL	NULL	NULL	321	81	0.0020768431983385254
+kyrgyzstan's central asian neighbor	Uzbekistan	2	2	6	3	NULL	NULL	NULL	482	137	0.0013831258644536651
+kyrie squad	Sentinels of Jandar	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyudo organization	American Kyudo Renmei	1	1	1	1	NULL	NULL	NULL	1	1	1
+kyushu area	Beppu hot spring resort in Oita Prefecture	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kyushu region	Kagoshima	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+Kyushu region	Miyazaki	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+kyushu university's new project	Kyushu University Asian Research Organization	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kyushu university's new project	Research Center for Korean Studies	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kyushu university's new project	UMAP Leaders Program	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kyushu's traditional industry	furniture	1	1	2	2	NULL	NULL	NULL	8749	2264	0.000057149388501543034
+kyushu's traditional industry	ceramic	1	1	2	2	NULL	NULL	NULL	4473	1434	0.000111781801922647

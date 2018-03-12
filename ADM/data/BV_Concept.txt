@@ -1,0 +1,42 @@
+BV process	increasing the volume of vitrified waste per box	1	1	1	1	NULL	NULL	NULL	1	1	1
+BVA regional group	Florida Regional Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+bvarious extracurricular activity	choir	1	1	2	2	NULL	NULL	NULL	901	292	0.0005549389567147614
+bvarious extracurricular activity	band	1	1	2	2	NULL	NULL	NULL	1786	574	0.0002799552071668533
+BVC technology	videoconferencing	1	1	1	1	NULL	NULL	NULL	756	321	0.0013227513227513227
+bvg's licensed game	Kingdom Hearts from Disney	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+bvg-aktuell dutch pension fund	world's third-largest ABP	1	1	1	1	NULL	NULL	NULL	1	1	1
+BVI drink	Pain Killer	2	2	2	1	0.500000000000	NULL	NULL	250	88	0.008
+BVI fund administrator	Folio Group	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BVI fund administrator	ACE Fund Services	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BVI fund administrator	Beacon Fund Advisors	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BVI group	volunteers associated with the National Parks Trust	1	1	1	1	NULL	NULL	NULL	1	1	1
+BVI information	processing statistic	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+BVI information	BVI MAC address	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BVI island	Peter Island	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+BVI island	Jost Van Dyke	1	1	2	2	1.000000000000	NULL	NULL	11	5	0.045454545454545456
+bvi's beautiful dive site	Wreck of the Rhone	1	1	1	2	NULL	NULL	NULL	4	4	0.25
+Bvitamins	thiamin	1	1	3	3	NULL	NULL	NULL	186	47	0.0017921146953405018
+Bvitamins	thiamine	1	1	3	3	NULL	NULL	NULL	246	67	0.0013550135501355014
+Bvitamins	folate	1	1	3	3	NULL	NULL	NULL	434	116	0.0007680491551459293
+Bvlgari sunglasses	Bvlgari 8022b	1	1	1	1	NULL	NULL	NULL	1	1	1
+bvlgari watch	Breitling Watches	1	1	3	3	1.000000000000	NULL	NULL	33	33	0.0101010101010101
+bvlgari watch	Rolex Watches	1	1	3	3	1.000000000000	NULL	NULL	47	40	0.0070921985815602835
+bvlgari watch	Omega Watches	1	1	3	3	1.000000000000	NULL	NULL	43	35	0.007751937984496124
+BVOC	sesquiterpenes	1	1	1	1	1.000000000000	NULL	NULL	16	14	0.0625
+BVOC emission model	G95 model	1	1	1	1	NULL	NULL	NULL	1	1	1
+BVOC photooxidation product	ozone	1	1	1	1	NULL	NULL	NULL	1944	568	0.00051440329218107
+bvolving technology	automated facial recognition	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bvolving technology	expert system analysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BVP	sigils of Light	1	1	1	1	NULL	NULL	NULL	1	1	1
+BVR fire-and-forget weapon	AA-12	1	1	2	2	1.000000000000	NULL	NULL	8	5	0.0625
+BVR fire-and-forget weapon	AIM-120	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+bvr-less NATO fighter	Hawk	1	1	3	3	NULL	NULL	NULL	995	256	0.0003350083752093802
+bvr-less NATO fighter	Draken	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+bvr-less NATO fighter	F-16	1	1	3	3	NULL	NULL	NULL	155	78	0.002150537634408602
+bvsc's paid-for service	training	1	1	4	4	NULL	NULL	NULL	7685	2537	0.000032530904359141185
+bvsc's paid-for service	conference facility	1	1	4	4	NULL	NULL	NULL	72	42	0.003472222222222222
+bvsc's paid-for service	accountancy	1	1	4	4	NULL	NULL	NULL	506	169	0.0004940711462450593
+bvsc's paid-for service	payroll bureau	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+BVSD TAG focus school	Lafayette Elementary	1	1	1	1	NULL	NULL	NULL	1	1	1
+BVV provider datum	provider number	1	0	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+BVV provider datum	fund type	1	0	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142

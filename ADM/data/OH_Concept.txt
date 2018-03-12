@@ -1,0 +1,536 @@
+oh consideration	Site Inductions	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+oh consideration	Job Safety Analysis	2	1	6	3	1.000000000000	NULL	NULL	38	24	0.017543859649122806
+oh consideration	Work Method Statements	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+oh document	policy	1	1	1	1	NULL	NULL	NULL	1472	661	0.0006793478260869565
+oh issue	workplace violence	1	1	6	6	NULL	NULL	NULL	73	43	0.00228310502283105
+oh issue	stress	1	1	6	6	NULL	NULL	NULL	9419	1683	0.000017694730509254342
+oh issue	strain	1	1	6	6	NULL	NULL	NULL	795	293	0.00020964360587002095
+oh issue	risk assessment	1	1	6	6	NULL	NULL	NULL	603	249	0.0002763957987838585
+oh issue	fatigue	1	1	6	6	NULL	NULL	NULL	7827	1619	0.0000212938120182275
+oh issue	sprains resulting from manual handling of glass	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+oh leader	Karsten VanVelsor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oh leader	Sky Holmgren	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oh material	Web site	1	1	3	3	NULL	NULL	NULL	1093	552	0.0003049710277523635
+oh material	leaflet	1	1	3	3	NULL	NULL	NULL	842	330	0.000395882818685669
+oh material	poster	1	1	3	3	NULL	NULL	NULL	4712	1695	0.00007074136955291453
+oh MS model	standard	1	1	1	1	NULL	NULL	NULL	1207	561	0.0008285004142502071
+oh professional	occupational physician	2	2	9	8	0.750000000000	NULL	NULL	12	9	0.037037037037037035
+oh professional	nurse	1	1	9	8	0.750000000000	NULL	NULL	4227	1158	0.000026286044738848143
+oh professional	working environment analyst	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+oh professional	OHS supervisor	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+oh professional	OHS consultant	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+oh professional	industrial hygiene consultant	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+oh professional	safety engineer	1	1	9	8	0.750000000000	NULL	NULL	12	12	0.009259259259259259
+oh professional	occupational hygienist	1	1	9	8	0.750000000000	NULL	NULL	9	7	0.012345679012345678
+oh program	confined space entry	1	1	4	4	0.714285714285	NULL	NULL	35	26	0.007142857142857143
+oh program	manual handling	1	1	4	4	0.714285714285	NULL	NULL	124	52	0.0020161290322580645
+oh program	first aid	1	1	4	4	0.714285714285	NULL	NULL	1163	424	0.00021496130696474635
+oh program	traffic management plan	1	1	4	4	0.714285714285	NULL	NULL	6	6	0.041666666666666664
+oh reason	keeping hair -neat	1	1	1	1	NULL	NULL	NULL	1	1	1
+oh record	accident record	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+oh regulatory order	stop work order	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+oh related incident	injury	1	1	2	2	NULL	NULL	NULL	1924	601	0.0002598752598752599
+oh related incident	hazard	1	1	2	2	NULL	NULL	NULL	142	86	0.0035211267605633804
+oh student	Hopwood	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+OH&S consideration	tractors being equipped with adequate roll-over protection canopy	1	1	1	1	NULL	NULL	NULL	1	1	1
+OH&S initiative	No Life Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+OH&S issue	RSI	1	1	4	4	NULL	NULL	NULL	273	91	0.0009157509157509158
+OH&S issue	neck	1	1	4	4	NULL	NULL	NULL	1160	422	0.00021551724137931034
+OH&S issue	stress	1	1	4	4	NULL	NULL	NULL	9419	1683	0.000026542095763881516
+OH&S issue	back injury	1	1	4	4	NULL	NULL	NULL	155	78	0.0016129032258064516
+OH&S measure	wearing the correct protective outfit	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+OH&S priority	obtaining licences for operator	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+OH&S priority	first aid training	1	1	3	3	1.000000000000	NULL	NULL	43	33	0.007751937984496124
+OH&S priority	fire training	1	1	3	3	1.000000000000	NULL	NULL	15	12	0.02222222222222222
+OH&S product	provision of Montie OH&S DVDs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OH&S product	Plant Assessor Online Toolkit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OH&S product	Chemalert MSDS project	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OH&S related form	hazardous waste disposal	1	1	1	1	1.000000000000	NULL	NULL	27	18	0.037037037037037035
+OH&S requirement	toilet	1	1	2	2	NULL	NULL	NULL	2369	753	0.00021105951878429716
+OH&S requirement	space per child	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oh-bearing sulfate	jarosite	1	1	1	1	1.000000000000	NULL	NULL	30	18	0.03333333333333333
+oh-containing fatty acid	dihydoxystearic acid	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oh-containing fatty acid	lactic acid	1	1	3	3	NULL	NULL	NULL	785	266	0.00042462845010615707
+oh-containing fatty acid	malic acid	1	1	3	3	NULL	NULL	NULL	237	96	0.0014064697609001407
+oh-containing polymer	water-soluble OH-containing polyester	1	1	1	1	NULL	NULL	NULL	1	1	1
+oh-functional compound	ethoxylation	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+oh-functional compound	monomeric oh-functional compound	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OH-scavengers	mannitol	6	2	22	6	0.142857142857	NULL	NULL	1010	272	0.00162016201620162
+OH-scavengers	sucrose	5	1	22	6	0.142857142857	NULL	NULL	1726	398	0.0006583798588433581
+OH-scavengers	formate	5	1	22	6	0.142857142857	NULL	NULL	139	70	0.008175277959450621
+OH-scavengers	t-buoh	4	1	22	6	0.142857142857	NULL	NULL	6	3	0.12121212121212122
+OH-scavengers	dimethyl sulfoxide	1	1	22	6	0.142857142857	NULL	NULL	314	119	0.0001447596988998263
+OH-scavengers	t-Bu OH	1	1	22	6	0.142857142857	NULL	NULL	1	1	0.045454545454545456
+oh-so-many pro athlete	football player	1	1	2	2	NULL	NULL	NULL	133	38	0.0037593984962406013
+oh-so-many pro athlete	boxer	1	1	2	2	NULL	NULL	NULL	590	148	0.000847457627118644
+oh-so-popular holiday favorite	peppermint	1	1	1	1	NULL	NULL	NULL	2214	516	0.00045167118337850043
+OHA member	ebay	2	1	3	2	0.250000000000	NULL	NULL	4789	1206	0.00027841581401823624
+OHA member	Qualcomm	1	1	3	2	0.250000000000	NULL	NULL	442	178	0.0007541478129713423
+OHA partner	Japan's NTT DoCoMo	1	1	3	3	0.500000000000	NULL	NULL	9	7	0.037037037037037035
+OHA partner	Sprint Nextel	1	1	3	3	0.500000000000	NULL	NULL	103	52	0.0032362459546925564
+OHA partner	Europe's Telefonica	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+oha's program	Oregon Health Plan	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+ohaffy grass	timothy	1	1	3	3	0.333333333333	NULL	NULL	376	143	0.0008865248226950354
+ohaffy grass	orchard grass	1	1	3	3	0.333333333333	NULL	NULL	109	56	0.0030581039755351682
+ohaffy grass	blue grass	1	1	3	3	0.333333333333	NULL	NULL	27	25	0.012345679012345678
+ohausbranded product target market	educational market	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+OHC cam engine	quad cam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHC cam engine	DOHC Alloytec engine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHC study	Hansen et al	2	2	2	1	NULL	NULL	NULL	2	1	1
+ohcd-supported program	Pennsylvania Horticultural Society Vacant Land Management Program	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohcd-supported program	Philadelphia Green Program	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohcd-supported program	New Kensington Open Space Management Program	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohchr's thematic area	right to development	1	1	2	2	0.500000000000	NULL	NULL	23	13	0.021739130434782608
+ohchr's thematic area	violence against woman	1	1	2	2	0.500000000000	NULL	NULL	190	64	0.002631578947368421
+OHCS material	Consolidated Funding Cycle Application	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHCS material	HOME Program Compliance Manual	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohe large national organization	Lithuanian Alliance of America	1	1	1	1	NULL	NULL	NULL	1	1	1
+oher breast symptom	dimpling	1	1	1	1	1.000000000000	NULL	NULL	21	13	0.047619047619047616
+oher business	Goodwill	1	1	3	3	NULL	NULL	NULL	1207	274	0.00027616680475006904
+oher business	Pastoral Institute	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+oher business	church	1	1	3	3	NULL	NULL	NULL	6841	2094	0.000048725819811918335
+oher culture	extinct cultures like the Mayans	1	1	1	2	NULL	NULL	NULL	1	1	1
+oher document	clinic form	1	1	1	2	NULL	NULL	NULL	1	1	1
+oher function	delay	1	1	3	3	NULL	NULL	NULL	1442	646	0.0002311604253351826
+oher function	credit card	1	1	3	3	NULL	NULL	NULL	4647	1230	0.0000717308657915501
+oher function	content	1	1	3	3	NULL	NULL	NULL	857	338	0.00038895371450797355
+oher item	T-Shirts	1	1	1	1	NULL	NULL	NULL	785	301	0.0012738853503184713
+Oher migratory species	Tennessee Warbler	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+Oher migratory species	American redstart	1	1	2	2	1.000000000000	NULL	NULL	35	22	0.014285714285714285
+oher plant	ornamental grass	1	1	3	3	0.333333333333	NULL	NULL	119	62	0.0028011204481792717
+oher plant	perennial	1	1	3	3	0.333333333333	NULL	NULL	149	75	0.0022371364653243847
+oher plant	bulb	1	1	3	3	0.333333333333	NULL	NULL	454	233	0.0007342143906020558
+oher polymer	various rubber	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+oher polymer	polyethylene	1	1	4	4	NULL	NULL	NULL	3181	975	0.00007859163784973278
+oher polymer	polystyrene	1	1	4	4	NULL	NULL	NULL	1417	538	0.00017642907551164433
+oher polymer	polycarbonate	1	1	4	4	NULL	NULL	NULL	1335	404	0.00018726591760299626
+oher prepayment option	central pay system	1	1	1	1	NULL	NULL	NULL	1	1	1
+oher protein	albumin	1	1	2	2	NULL	NULL	NULL	878	345	0.0005694760820045558
+oher protein	gelatin	1	1	2	2	NULL	NULL	NULL	1152	396	0.00043402777777777775
+oher service	delivery confirmation	1	1	3	3	0.333333333333	NULL	NULL	106	39	0.003144654088050314
+oher service	insurance	1	1	3	3	0.333333333333	NULL	NULL	8820	2250	0.00003779289493575208
+oher service	signature confirmation	1	1	3	3	0.333333333333	NULL	NULL	32	11	0.010416666666666666
+oher suggestion	excess heating around the testes - from laptop	1	1	1	1	NULL	NULL	NULL	1	1	1
+oher system	Media player	1	1	1	1	NULL	NULL	NULL	552	242	0.0018115942028985507
+oher tourist area	Legian Street	2	2	8	4	1.000000000000	NULL	NULL	4	2	0.125
+oher tourist area	Kamasutra	2	2	8	4	1.000000000000	NULL	NULL	17	10	0.029411764705882353
+oher tourist area	Waterbom Bali	2	2	8	4	1.000000000000	NULL	NULL	7	4	0.07142857142857142
+oher tourist area	Popies Lane	2	2	8	4	1.000000000000	NULL	NULL	8	4	0.0625
+oherence mechanism	dielectric loss	1	1	1	1	1.000000000000	NULL	NULL	50	32	0.02
+Ohers	popular Singaporean blogger Lee Kin Mun	1	1	1	1	0.666666666666	NULL	NULL	1	1	1
+OHFA mortgage product	OHFA's Down Payment Assistance Grant	1	1	1	1	NULL	NULL	NULL	1	1	1
+OHI service	fluoride varnish application	2	1	8	4	0.500000000000	NULL	NULL	4	3	0.125
+OHI service	oral health education	2	1	8	4	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+OHI service	oral screening	2	1	8	4	0.500000000000	NULL	NULL	2	1	0.25
+OHI service	case management	2	1	8	4	0.500000000000	NULL	NULL	641	251	0.00078003120124805
+ohi writer	Pliny	1	1	1	1	NULL	NULL	NULL	141	62	0.0070921985815602835
+OHIM database	CTM Online	3	2	6	2	NULL	NULL	NULL	5	2	0.3
+OHIM database	RCD Online	3	2	6	2	NULL	NULL	NULL	4	2	0.375
+OHIMdatabases	CTMO nline	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio amusement park	Cedar Point in Sandusky	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ohio amusement park	Ohio	1	1	2	2	NULL	NULL	NULL	3073	397	0.00016270745200130165
+Ohio arboretum	Stanley M. Rowe Arboretum in Cincinnati	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ohio arboretum	James H. McBride Arboretum on the Firelands College Campus of Bowling Green State University	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio bank	Huntington	1	1	2	2	0.500000000000	NULL	NULL	114	66	0.0043859649122807015
+ohio bank	Fifth Third	1	1	2	2	0.500000000000	NULL	NULL	29	12	0.017241379310344827
+ohio beer	Great Lakes	1	1	1	1	NULL	NULL	NULL	170	87	0.0058823529411764705
+ohio building	Medical Building located on Far Hills Avenue	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio business	Auto Repair Body Shops	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ohio business	Ohio Auto Service Repair Shops	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ohio business	Automobile Parts	1	1	4	4	1.000000000000	NULL	NULL	5	36	0.05
+ohio business	Automotive Auto Parts Stores	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+ohio campus community	Oxford	1	1	2	2	NULL	NULL	NULL	937	364	0.0005336179295624333
+ohio campus community	Athens	1	1	2	2	NULL	NULL	NULL	512	176	0.0009765625
+ohio champion	Jack Nicklaus	1	1	2	2	0.500000000000	NULL	NULL	275	119	0.0018181818181818182
+ohio champion	Tom Weiskopf	1	1	2	2	0.500000000000	NULL	NULL	14	14	0.03571428571428571
+ohio choreographer	Rachel James	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio city	Cleveland	7	7	38	14	0.545454545454	NULL	NULL	1075	265	0.0011995104039167687
+ohio city	Columbus	6	5	38	14	0.545454545454	NULL	NULL	474	150	0.001998667554963358
+ohio city	Dayton	4	3	38	14	0.545454545454	NULL	NULL	210	72	0.0020050125313283208
+ohio city	Youngstown	4	4	38	14	0.545454545454	NULL	NULL	83	35	0.0050729232720355105
+ohio city	Toledo	4	4	38	14	0.545454545454	NULL	NULL	171	60	0.0024622960911049553
+ohio city	Cincinnati	3	3	38	14	0.545454545454	NULL	NULL	628	156	0.0003771371102916527
+ohio city	Akron	3	3	38	14	0.545454545454	NULL	NULL	122	53	0.0019413287316652286
+ohio city	suburban ohio city	1	1	38	14	0.545454545454	NULL	NULL	2	2	0.013157894736842105
+ohio city	Belpre	1	1	38	14	0.545454545454	NULL	NULL	2	2	0.013157894736842105
+ohio city	central ohio city	1	1	38	14	0.545454545454	NULL	NULL	2	2	0.013157894736842105
+ohio city	Dublin	1	1	38	14	0.545454545454	NULL	NULL	359	131	0.00007330303474563847
+ohio city	Canton	1	1	38	14	0.545454545454	NULL	NULL	140	68	0.00018796992481203006
+ohio city	Shelby	1	1	38	14	0.545454545454	NULL	NULL	43	28	0.0006119951040391676
+ohio city	southwest ohio city	1	1	38	14	0.545454545454	NULL	NULL	2	2	0.013157894736842105
+ohio collaboration	Genome Research Institute	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio collection	Cincinnati Art Museum	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ohio college	Oberlin	2	2	8	7	0.500000000000	NULL	NULL	43	24	0.011627906976744186
+ohio college	Capital University	1	1	8	7	0.500000000000	NULL	NULL	5	5	0.025
+ohio college	Baldwin Wallace	1	1	8	7	0.500000000000	NULL	NULL	1	1	0.125
+ohio college	Ohio State	1	1	8	7	0.500000000000	NULL	NULL	328	127	0.00038109756097560977
+ohio college	Case Western University	1	1	8	7	0.500000000000	NULL	NULL	1	1	0.125
+ohio college	Otterbein University	1	1	8	7	0.500000000000	NULL	NULL	1	1	0.125
+ohio college	Kent State	1	1	8	7	0.500000000000	NULL	NULL	38	18	0.003289473684210526
+ohio community	Madeira	2	2	10	8	0.666666666666	NULL	NULL	121	57	0.0033057851239669425
+ohio community	Fairfield	2	2	10	8	0.666666666666	NULL	NULL	133	65	0.0030075187969924814
+ohio community	eastern ohio community	1	1	10	8	0.666666666666	NULL	NULL	2	2	0.05
+ohio community	North Canton	1	1	10	8	0.666666666666	NULL	NULL	6	5	0.016666666666666666
+ohio community	Sidney	1	1	10	8	0.666666666666	NULL	NULL	40	25	0.0025
+ohio community	Lodi	1	1	10	8	0.666666666666	NULL	NULL	45	25	0.0022222222222222222
+ohio community	Wellston	1	1	10	8	0.666666666666	NULL	NULL	3	3	0.03333333333333333
+ohio community	Springfield	1	1	10	8	0.666666666666	NULL	NULL	295	104	0.00033898305084745765
+ohio company	central ohio company	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+ohio company	Goodyear	1	1	7	7	NULL	NULL	NULL	489	169	0.00029214139643587495
+ohio company	Firestone	1	1	7	7	NULL	NULL	NULL	262	111	0.0005452562704471101
+ohio company	Owens Corning	1	1	7	7	NULL	NULL	NULL	98	40	0.0014577259475218659
+ohio company	Nationwide	1	1	7	7	NULL	NULL	NULL	323	99	0.00044228217602830603
+ohio company	BF Goodrich	1	1	7	7	NULL	NULL	NULL	98	34	0.0014577259475218659
+ohio company	First Solar	1	1	7	7	NULL	NULL	NULL	159	57	0.0008984725965858041
+ohio counselor conference many factor	economic climate	1	1	1	1	1.000000000000	NULL	NULL	71	24	0.014084507042253521
+ohio county	Tiffin county	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Vanlue	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Bowling Green	1	1	20	20	0.333333333333	NULL	NULL	129	65	0.0003875968992248062
+ohio county	Arlington	1	1	20	20	0.333333333333	NULL	NULL	250	99	0.0002
+ohio county	Mt. Blanchard	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Montgomery	1	1	20	20	0.333333333333	NULL	NULL	230	97	0.0002173913043478261
+ohio county	Rawson	1	1	20	20	0.333333333333	NULL	NULL	3	3	0.016666666666666666
+ohio county	Benton Ridge	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Van Buren	1	1	20	20	0.333333333333	NULL	NULL	12	9	0.004166666666666667
+ohio county	Deweyville	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Mt. Cory	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Lorain	1	1	20	20	0.333333333333	NULL	NULL	18	11	0.002777777777777778
+ohio county	Delaware	1	1	20	20	0.333333333333	NULL	NULL	1259	171	0.00003971405877680699
+ohio county	Fairfield	1	1	20	20	0.333333333333	NULL	NULL	133	65	0.00037593984962406017
+ohio county	Perry	1	1	20	20	0.333333333333	NULL	NULL	121	58	0.0004132231404958678
+ohio county	North Baltimore Fostoria	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Franklin	1	1	20	20	0.333333333333	NULL	NULL	315	136	0.00015873015873015873
+ohio county	Jenera	1	1	20	20	0.333333333333	NULL	NULL	1	1	0.05
+ohio county	Cuyahoga	1	1	20	20	0.333333333333	NULL	NULL	23	7	0.002173913043478261
+ohio county	McComb	1	1	20	20	0.333333333333	NULL	NULL	3	3	0.016666666666666666
+Ohio cryptids	bigfoot	1	1	1	1	NULL	NULL	NULL	140	76	0.007142857142857143
+ohio district	Cleveland	1	1	3	3	NULL	NULL	NULL	1075	265	0.0003100775193798449
+ohio district	West Carrollton	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+ohio district	Dayton	1	1	3	3	NULL	NULL	NULL	210	72	0.0015873015873015873
+ohio district court	Twelfth District	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio DJ service & add-ons	Karaoke	3	3	18	8	0.333333333333	NULL	NULL	493	179	0.0010141987829614604
+ohio DJ service & add-ons	Monograms	3	3	18	8	0.333333333333	NULL	NULL	6	5	0.08333333333333333
+ohio DJ service & add-ons	Full Color Laser Lighting	3	3	18	8	0.333333333333	NULL	NULL	4	2	0.125
+ohio DJ service & add-ons	Ohio Event Lighting	3	3	18	8	0.333333333333	NULL	NULL	4	2	0.125
+ohio DJ service & add-ons	Ohio Wedding Lighting	3	3	18	8	0.333333333333	NULL	NULL	4	2	0.125
+ohio DJ service & add-ons	Equipment rental	1	1	18	8	0.333333333333	NULL	NULL	254	81	0.00021872265966754154
+ohio DJ service & add-ons	Accent Lighting	1	1	18	8	0.333333333333	NULL	NULL	26	24	0.0021367521367521365
+ohio DJ service & add-ons	Ohio Audio Visual Services	1	1	18	8	0.333333333333	NULL	NULL	1	1	0.05555555555555555
+Ohio DJ Services&add-ons	Full Color Laser Lighting	1	1	4	4	NULL	NULL	NULL	4	2	0.0625
+Ohio DJ Services&add-ons	Ohio Event Lighting	1	1	4	4	NULL	NULL	NULL	4	2	0.0625
+Ohio DJ Services&add-ons	Ohio Wedding Lighting	1	1	4	4	NULL	NULL	NULL	4	2	0.0625
+Ohio DJ Services&add-ons	Monograms	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+ohio dog owners organization	Ohio Valley Dog Owners	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio employer	Proctor & Gamble	1	1	2	2	NULL	NULL	NULL	331	132	0.0015105740181268882
+ohio employer	central ohio employer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ohio event	Riverfest	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+ohio expense	uncollectible accounts expense	2	1	2	1	NULL	NULL	NULL	2	1	1
+ohio fact	president	1	1	3	3	NULL	NULL	NULL	940	378	0.00035460992907801415
+ohio fact	symbol	1	1	3	3	NULL	NULL	NULL	1057	421	0.000315357931251971
+ohio fact	famous Ohioans	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio fair housing organization	fight housing discrimination	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ohio fair housing organization	MVFHC fight housing discrimination	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio fair housing organization	Miami Valley Fair Housing Center	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio fighter	Jorge Gurgel	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ohio food processor	Frito-Lay	1	1	3	3	0.500000000000	NULL	NULL	182	60	0.0018315018315018315
+ohio food processor	Cooper Foods	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ohio food processor	Campbell Soup Company	1	1	3	3	0.500000000000	NULL	NULL	14	10	0.023809523809523808
+ohio government plan	STRS	1	1	2	2	1.000000000000	NULL	NULL	15	15	0.03333333333333333
+ohio government plan	PERS	1	1	2	2	1.000000000000	NULL	NULL	17	12	0.029411764705882353
+ohio green fleet sponsor	Firm Green Energy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio green fleet sponsor	Ohio Power	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio health insurance company	Anthem Blue Cross	1	1	3	3	0.333333333333	NULL	NULL	79	39	0.004219409282700422
+ohio health insurance company	Aetna	1	1	3	3	0.333333333333	NULL	NULL	787	249	0.00042354934349851756
+ohio health insurance company	United HealthCare	1	1	3	3	0.333333333333	NULL	NULL	153	80	0.0021786492374727667
+ohio health insurer	Anthem Blue Cross	1	1	1	1	1.000000000000	NULL	NULL	79	39	0.012658227848101266
+ohio human service license	Licensed Professional Counselor	1	1	1	1	NULL	NULL	NULL	1	2	1
+Ohio Indians	Wyandot	1	1	2	2	0.500000000000	NULL	NULL	16	10	0.03125
+Ohio Indians	Miami	1	1	2	2	0.500000000000	NULL	NULL	1765	506	0.00028328611898016995
+Ohio information	State of Ohio Front Page	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio innovation	student speaker	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ohio institution	Cuyahoga College	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio institution	Baldwin-Wallace College	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ohio institution	Ohio State University	1	1	3	3	NULL	NULL	NULL	108	45	0.0030864197530864196
+ohio insurance company	United Healthcare Inc.	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio jurist	Kentucky-born James G. Birney	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio law school	Case Western Reserve	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+ohio manufacturer	paper maker NewPage Corp.	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio metro area	Akron	1	1	2	2	NULL	NULL	NULL	122	53	0.004098360655737705
+ohio metro area	Columbus	1	1	2	2	NULL	NULL	NULL	474	150	0.0010548523206751054
+ohio native	black-eyed Susan	1	1	1	1	NULL	NULL	NULL	146	72	0.00684931506849315
+Ohio native species	prairie chicken	1	1	2	2	0.500000000000	NULL	NULL	36	24	0.013888888888888888
+Ohio native species	bison	1	1	2	2	0.500000000000	NULL	NULL	778	263	0.0006426735218508997
+ohio newspaper	Cleveland Plain Dealer	1	1	2	2	1.000000000000	NULL	NULL	20	9	0.025
+ohio newspaper	Toledo Blade	1	1	2	2	1.000000000000	NULL	NULL	5	2	0.1
+ohio notable	writer Zane Grey	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio notable	poet Paul Laurence Dunbar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio official	attorney general	1	1	1	1	NULL	NULL	NULL	113	71	0.008849557522123894
+ohio pension system	PERS	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+ohio police department	Columbus Division	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio politician	George Voinovich	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+ohio politician	Ken Blackwell	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ohio port	Cleveland	1	1	2	2	NULL	NULL	NULL	1075	265	0.00046511627906976747
+ohio port	port view other ohio port	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ohio pottery	Weller	1	1	3	3	0.666666666666	NULL	NULL	18	15	0.018518518518518517
+ohio pottery	Rookwood	1	1	3	3	0.666666666666	NULL	NULL	12	11	0.027777777777777776
+ohio pottery	Roseville	1	1	3	3	0.666666666666	NULL	NULL	79	41	0.004219409282700422
+ohio product	flavorful gourmet sauce	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+ohio product	Hungarian noodle	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ohio product	chocolate	1	1	5	5	NULL	NULL	NULL	7342	1984	0.000027240533914464727
+ohio product	jam	1	1	5	5	NULL	NULL	NULL	1338	530	0.00014947683109118088
+ohio product	mustard	1	1	5	5	NULL	NULL	NULL	326	131	0.0006134969325153375
+ohio quilt researcher	Virginia Gunn	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio rental situation	month-to-month rental	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ohio resident	Tish O'Dell	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio retailer	Airsoft Arms	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio retailer	Airsoft Smith	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio river	Grand	1	1	2	2	0.333333333333	NULL	NULL	61	32	0.00819672131147541
+ohio river	Chagrin	1	1	2	2	0.333333333333	NULL	NULL	5	4	0.1
+ohio river community	Lawrenceburg	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+Ohio River species	white bass	1	1	1	1	NULL	NULL	NULL	78	37	0.01282051282051282
+ohio river terminal	Cincinnati	1	1	1	1	NULL	NULL	NULL	628	156	0.0015923566878980893
+ohio river town	Leavenworth	1	1	1	1	1.000000000000	NULL	NULL	16	11	0.0625
+ohio river tributary	Blue River	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ohio s best-known manufacturer	Avon Bearings	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ohio safety net	social welfare	1	1	1	1	NULL	NULL	NULL	282	130	0.0035460992907801418
+ohio school	Findlay	1	1	8	8	0.750000000000	NULL	NULL	6	5	0.020833333333333332
+ohio school	Ashland	1	1	8	8	0.750000000000	NULL	NULL	79	33	0.0015822784810126582
+ohio school	Hiram	1	1	8	8	0.750000000000	NULL	NULL	13	10	0.009615384615384616
+ohio school	Wright State	1	1	8	8	0.750000000000	NULL	NULL	10	8	0.0125
+ohio school	northeast ohio school	1	1	8	8	0.750000000000	NULL	NULL	2	2	0.0625
+ohio school	Ohio State	1	1	8	8	0.750000000000	NULL	NULL	328	127	0.00038109756097560977
+ohio school	Tiffin	1	1	8	8	0.750000000000	NULL	NULL	19	16	0.006578947368421052
+ohio school	Ohio University	1	1	8	8	0.750000000000	NULL	NULL	36	16	0.003472222222222222
+ohio skate park	Chenga World Skate Park	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ohio species	white oak	1	1	2	2	NULL	NULL	NULL	275	125	0.0018181818181818182
+ohio species	rare ohio species	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ohio specifi c marketing material	STEM data fact sheet	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio specific	3 year	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+ohio sport legend	Ohio State Buckeyes Jim Tressel	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio standout	Mikayla Waterman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio standout	Ohio State swingman David Lighty	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio standout	Nia Marshall	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio star	Chris Snook	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio star	Luke Kuechly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio state champion	Ross Sprague	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio state coach	Woody Hayes	1	1	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+ohio state item	collectable	1	1	3	3	0.333333333333	NULL	NULL	74	34	0.0045045045045045045
+ohio state item	blanket	1	1	3	3	0.333333333333	NULL	NULL	3502	1014	0.00009518370454978108
+ohio state item	trinket	1	1	3	3	0.333333333333	NULL	NULL	147	90	0.0022675736961451248
+ohio state mental variable	vibrations from vehicles array	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio state physician	Jennifer McCallister	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio state physician	MD	1	1	2	2	NULL	NULL	NULL	352	176	0.0014204545454545455
+ohio state player	Terelle Pryor	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ohio State student population	Walter E. Dennis Learning Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio state teammate	Willie Chico Nelson	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+ohio state teammate	Shawn Springs	2	2	8	4	1.000000000000	NULL	NULL	8	6	0.0625
+ohio state teammate	Kirk Herbstreit	2	2	8	4	1.000000000000	NULL	NULL	8	6	0.0625
+ohio state teammate	Raymont Harris	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+ohio state tradition	singing fight song	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio state tradition	jumping off the lake before a Michigan game	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio state university	University of Cincinnati	1	1	1	1	1.000000000000	NULL	NULL	30	15	0.03333333333333333
+ohio state's top performer	Kyle Reed	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ohio Staters	Tom Weiskopf	1	1	2	2	0.500000000000	NULL	NULL	14	14	0.03571428571428571
+Ohio Staters	Ed Sneed	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+ohio supreme court case	Hairston	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+ohio supreme court case	Rance	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+ohio team	Cavs	2	1	10	7	0.833333333333	NULL	NULL	13	6	0.03076923076923077
+ohio team	Browns	2	1	10	7	0.833333333333	NULL	NULL	50	20	0.008
+ohio team	Indians	2	1	10	7	0.833333333333	NULL	NULL	379	150	0.0010554089709762533
+ohio team	Cleveland Cavaliers	1	1	10	7	0.833333333333	NULL	NULL	34	12	0.0029411764705882353
+ohio team	Cleveland Indians	1	1	10	7	0.833333333333	NULL	NULL	62	21	0.0016129032258064516
+ohio team	Cleveland Browns	1	1	10	7	0.833333333333	NULL	NULL	38	19	0.002631578947368421
+ohio team	Ohio State Buckeyes	1	1	10	7	0.833333333333	NULL	NULL	4	4	0.025
+ohio top attraction	Stan Hywet Hall	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio town	Hamilton	2	2	11	10	0.125000000000	NULL	NULL	532	190	0.000683526999316473
+ohio town	Middletown	1	1	11	10	0.125000000000	NULL	NULL	72	26	0.0012626262626262627
+ohio town	Canton	1	1	11	10	0.125000000000	NULL	NULL	140	68	0.0006493506493506494
+ohio town	Wilmington	1	1	11	10	0.125000000000	NULL	NULL	167	63	0.0005443658138268917
+ohio town	Dayton	1	1	11	10	0.125000000000	NULL	NULL	210	72	0.0004329004329004329
+ohio town	small ohio town	1	1	11	10	0.125000000000	NULL	NULL	2	2	0.045454545454545456
+ohio town	Ross	1	1	11	10	0.125000000000	NULL	NULL	294	119	0.00030921459492888067
+ohio town	Fairfield	1	1	11	10	0.125000000000	NULL	NULL	133	65	0.000683526999316473
+ohio town	Kettering	1	1	11	10	0.125000000000	NULL	NULL	19	16	0.004784688995215311
+ohio town	Seven Mile	1	1	11	10	0.125000000000	NULL	NULL	6	4	0.015151515151515152
+ohio trial court judge	common pleas court judge	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio tributary	Grand River	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+ohio turtle	painted turtle	1	1	2	2	0.500000000000	NULL	NULL	75	28	0.006666666666666667
+ohio turtle	snapping turtle	1	1	2	2	0.500000000000	NULL	NULL	91	37	0.005494505494505495
+ohio university	Cleveland State Community College	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio university-run employment opportunity	Ping Recreation Center	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio university-run employment opportunity	Ohio University Dining Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio utility	co-ops	1	1	2	2	0.500000000000	NULL	NULL	82	60	0.006097560975609756
+ohio utility	municipal utility	1	1	2	2	0.500000000000	NULL	NULL	28	25	0.017857142857142856
+ohio valley physician	Daniel Drake	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ohio vegetable	cucumber	2	1	8	7	NULL	NULL	NULL	3938	1031	0.00012696800406297612
+ohio vegetable	sweet corn	1	1	8	7	NULL	NULL	NULL	404	158	0.0003094059405940594
+ohio vegetable	cabbage	1	1	8	7	NULL	NULL	NULL	6090	1120	0.00002052545155993432
+ohio vegetable	pepper	1	1	8	7	NULL	NULL	NULL	4612	1166	0.00002710320901994796
+ohio vegetable	tomato	1	1	8	7	NULL	NULL	NULL	10378	2224	0.000012044709963384081
+ohio vegetable	bean	1	1	8	7	NULL	NULL	NULL	8901	1912	0.000014043365913942254
+ohio vegetable	onion	1	1	8	7	NULL	NULL	NULL	7041	1523	0.000017753160062491125
+ohio vital record	divorce	2	1	6	3	NULL	NULL	NULL	5143	1237	0.00012962602890660444
+ohio vital record	birth	2	1	6	3	NULL	NULL	NULL	2157	686	0.00030907124092103227
+ohio vital record	marriage	2	1	6	3	NULL	NULL	NULL	4449	1264	0.0001498464074323818
+ohio wall map	County Outline Maps	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio wall map	Zip Code Maps	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio water resource inventory activity	401 certification	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ohio water resource inventory activity	construction site	1	1	2	2	NULL	NULL	NULL	322	163	0.0015527950310559005
+ohio wedding caterer	formal	1	1	2	2	NULL	NULL	NULL	141	74	0.0035460992907801418
+ohio wedding caterer	buffet	1	1	2	2	NULL	NULL	NULL	326	133	0.0015337423312883436
+ohio wes-leyan organization	Student Union on Black Affairs	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohio wesleyan feature	Business	1	1	3	3	NULL	NULL	NULL	5070	1629	0.00006574621959237344
+ohio wesleyan feature	Woltemade Center for Economics	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio wesleyan feature	Entrepreneurship	1	1	3	3	NULL	NULL	NULL	478	202	0.000697350069735007
+ohio wesleyan student	senior from Huntington	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio wesleyan student	senior Kaleigh Felisberto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohio wrestler	Erik Schuth	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio wrestler	Jacob Ison	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio wrestler	Clay Tucker	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio's best-known manufacturer	Avon Bearings	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+ohio's big city	state capital	1	1	2	2	1.000000000000	NULL	NULL	37	28	0.013513513513513514
+ohio's big city	Colombus	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+ohio's gas utility	Dominion	1	1	1	1	NULL	NULL	NULL	67	39	0.014925373134328358
+ohio's lake erie estuary	East Harbor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio's lake erie estuary	Sandusky Bay	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ohio's lake erie estuary	Old Woman Creek	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ohio's large city	Columbus	1	1	2	2	NULL	NULL	NULL	474	150	0.0010548523206751054
+ohio's large city	Cincinnati	1	1	2	2	NULL	NULL	NULL	628	156	0.0007961783439490446
+ohio's major insurance company	Nationwide	1	1	2	2	NULL	NULL	NULL	323	99	0.0015479876160990713
+ohio's major insurance company	Progressive	1	1	2	2	NULL	NULL	NULL	514	172	0.0009727626459143969
+ohio's major urban area	Columbus	1	1	3	3	NULL	NULL	NULL	474	150	0.0007032348804500703
+ohio's major urban area	Cleveland	1	1	3	3	NULL	NULL	NULL	1075	265	0.0003100775193798449
+ohio's major urban area	Cincinnati	1	1	3	3	NULL	NULL	NULL	628	156	0.0005307855626326964
+ohio's most famous cave	Perry's Cave	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ohio's park	Hocking Hills	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ohio's service industry	insurance	1	1	3	3	NULL	NULL	NULL	8820	2250	0.00003779289493575208
+ohio's service industry	hospital	1	1	3	3	NULL	NULL	NULL	12116	3276	0.000027511830086937383
+ohio's service industry	banking	1	1	3	3	NULL	NULL	NULL	4474	1123	0.00007450454477723141
+ohio's tiniest district	Vanlue Local in Hancock County	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio's tiniest district	College Corner Local in Preble County	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio's tiniest district	Bettsville Local in Seneca County	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohio's unusual mound	Alligator mound	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ohio's unusual mound	Serpent mound	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+ohio's waterway resource	Grand River	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+ohio's world-class knowledge institution	innovative hospital	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+ohio's world-class knowledge institution	university	1	1	4	4	0.333333333333	NULL	NULL	4258	1447	0.00005871301080319399
+ohio's world-class knowledge institution	community college	1	1	4	4	0.333333333333	NULL	NULL	339	181	0.0007374631268436578
+ohio's world-class knowledge institution	research center	1	1	4	4	0.333333333333	NULL	NULL	65	52	0.0038461538461538464
+ohio-based company	time period ohio-based company	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ohio-based company	Sherwin-Williams	1	1	2	2	NULL	NULL	NULL	70	45	0.007142857142857143
+ohio-produced processed food	pasta	1	1	1	1	NULL	NULL	NULL	7372	1634	0.00013564839934888768
+Ohio-specific information	Eligibility	1	1	4	5	0.333333333333	NULL	NULL	212	89	0.0011792452830188679
+Ohio-specific information	Cost Savings Calculator	1	1	4	5	0.333333333333	NULL	NULL	2	2	0.125
+Ohio-specific information	Recycling	1	1	4	5	0.333333333333	NULL	NULL	1650	634	0.00015151515151515152
+Ohio-specific information	Frequently Asked Questions	1	1	4	5	0.333333333333	NULL	NULL	46	25	0.005434782608695652
+Ohioans	Granville Woods	1	1	7	7	0.555555555555	NULL	NULL	1	1	0.14285714285714285
+Ohioans	Archie Griffin	1	1	7	7	0.555555555555	NULL	NULL	14	9	0.01020408163265306
+Ohioans	John Joseph Enneking	1	1	7	7	0.555555555555	NULL	NULL	1	1	0.14285714285714285
+Ohioans	Maurice Hague	1	1	7	7	0.555555555555	NULL	NULL	1	1	0.14285714285714285
+Ohioans	Frank Boggs	1	1	7	7	0.555555555555	NULL	NULL	1	1	0.14285714285714285
+Ohioans	Charles Kettering	1	1	7	7	0.555555555555	NULL	NULL	6	6	0.023809523809523808
+Ohioans	Pat Underwood	1	1	7	7	0.555555555555	NULL	NULL	1	1	0.14285714285714285
+ohiolink member	Ohio State University	1	1	1	1	NULL	NULL	NULL	108	45	0.009259259259259259
+ohiolink resource	Digital Media Center	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ohiolink resource	Electronic Journal Center	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ohiolink resource	Research Databases	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ohios big city	Colombus	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+ohios big city	state capital	1	1	2	2	1.000000000000	NULL	NULL	37	28	0.013513513513513514
+OHIP datum	visits per day	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OHIP datum	patients seen per day	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OHIP datum	patients seen per year	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+OHJ utility	authoring wizard	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohjective enemy personnel	scientist	1	1	1	1	NULL	NULL	NULL	568	259	0.0017605633802816902
+OHKO attack	Horn Drill	1	1	1	1	0.500000000000	NULL	NULL	10	7	0.1
+OHKO move	Fissure	2	2	5	4	NULL	NULL	NULL	141	88	0.005673758865248227
+OHKO move	Sheer Cold	1	1	5	4	NULL	NULL	NULL	5	5	0.04
+OHKO move	Perish Song	1	1	5	4	NULL	NULL	NULL	5	4	0.04
+OHKO move	Destiny Bond	1	1	5	4	NULL	NULL	NULL	3	3	0.06666666666666667
+ohkoing major threat	2HKOing Vaporeon	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ohkoing major threat	Salamence	1	1	2	2	1.000000000000	NULL	NULL	25	15	0.02
+OHL player	London's Nazem Kadri	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OHL player	Windsor's Kenny Ryan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OHL player	Owen Sound's Jesse Blacker in the Maple Leafs organization	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OHL team	Kitchener	1	1	2	2	0.500000000000	NULL	NULL	71	32	0.007042253521126761
+OHL team	London	1	1	2	2	0.500000000000	NULL	NULL	4434	1064	0.00011276499774470004
+ohlone artifact	obsidian arrow point spearhead	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ohlone artifact	bone drill	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+ohlone artifact	shell bead	1	1	3	3	1.000000000000	NULL	NULL	46	29	0.007246376811594202
+ohm	2 ohm	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohm cable	Belden 1865A	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ohm cable	RG-8	1	1	3	3	1.000000000000	NULL	NULL	19	10	0.017543859649122806
+ohm cable	RG58	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+ohm can	Sennheiser HD-650	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ohm coaxial cable	RG-58	4	3	8	3	1.000000000000	NULL	NULL	28	11	0.07142857142857142
+Ohm coaxial cable	RG-8	3	2	8	3	1.000000000000	NULL	NULL	19	10	0.05921052631578947
+Ohm coaxial cable	RG6	1	1	8	3	1.000000000000	NULL	NULL	10	8	0.0125
+OHM digital controller	CRED	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ohm feed line	RG-58	2	1	4	2	1.000000000000	NULL	NULL	28	11	0.03571428571428571
+ohm feed line	RG-8	2	1	4	2	1.000000000000	NULL	NULL	19	10	0.05263157894736842
+ohm headphone	AKG K240M	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohm load	8 ohm load	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohm phone	Sennheiser	1	1	1	1	NULL	NULL	NULL	128	54	0.0078125
+ohm radio cabling	LMR	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+Ohm resistive gauge sender	Axiom VARI-OHM supplied by APA Industries Pty.	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohm type	RG58	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ohmic conductor	wire	1	1	1	1	NULL	NULL	NULL	2571	1007	0.00038895371450797355
+ohmic contact	aluminum	1	1	1	1	0.500000000000	NULL	NULL	10290	2216	0.00009718172983479106
+ohmic contact layer	layer comprising graphite	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohmic contact material	cobalt Silicide	1	1	1	1	1.000000000000	NULL	NULL	29	13	0.034482758620689655
+ohmic heating parameter	applied voltage	1	1	2	2	NULL	NULL	NULL	102	45	0.004901960784313725
+ohmic heating parameter	frequency of the alternating current	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohmic metal	Ti	1	1	1	1	NULL	NULL	NULL	584	229	0.0017123287671232876
+ohmmeter	digital multimeter	1	1	1	1	1.000000000000	NULL	NULL	18	20	0.05555555555555555
+ohmmeter-voltmeter	Triplet Model M30	2	1	2	1	NULL	NULL	NULL	2	1	1
+OHMSA member	ADreach Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohotoessav book	Drumbeat	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+OHP law	Settlement Act	1	1	1	1	NULL	NULL	NULL	1	1	1
+OHRC publication	resource guide	1	1	3	3	0.500000000000	NULL	NULL	16	15	0.020833333333333332
+OHRC publication	resource bulletin	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+OHRC publication	fact sheet	1	1	3	3	0.500000000000	NULL	NULL	443	192	0.0007524454477050414
+ohrqol measure	Oral Health Impact Profile	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+OHSA measure	wearing the correct protective gear	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+OHSs	DHM	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+OHSU allied health program	dietetics	1	1	2	2	NULL	NULL	NULL	78	42	0.00641025641025641
+OHSU allied health program	paramedic training	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OHSU instructor	Joanne Noone	1	1	1	1	NULL	NULL	NULL	1	1	1
+OHSW fitting	dead-ends	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+OHSW fitting	mid-span joint	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ohter browser	Opera	1	1	1	1	NULL	NULL	NULL	2463	541	0.0004060089321965083
+ohter cosmetic procedure	facelift	1	1	2	2	0.500000000000	NULL	NULL	531	146	0.0009416195856873823
+ohter cosmetic procedure	chin augmentation	1	1	2	2	0.500000000000	NULL	NULL	30	10	0.016666666666666666
+ohter feature	TV	3	1	9	5	0.333333333333	NULL	NULL	3776	1346	0.00026483050847457627
+ohter feature	music	3	1	9	5	0.333333333333	NULL	NULL	14153	3857	0.00007065639793683318
+ohter feature	Standard Liner Scales	1	1	9	5	0.333333333333	NULL	NULL	1	1	0.1111111111111111
+ohter feature	Heidenhain	1	1	9	5	0.333333333333	NULL	NULL	7	6	0.015873015873015872
+ohter feature	Spindle Thermal Monitoring System	1	1	9	5	0.333333333333	NULL	NULL	5	2	0.02222222222222222
+ohter food	certain types of meat	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ohter instruments function	microscopes focus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ohter instruments function	magnification	1	1	2	2	NULL	NULL	NULL	165	95	0.0030303030303030303
+ohter parcel	red pine-dominated Wyman Forest in Readfield	1	1	1	1	NULL	NULL	NULL	1	1	1
+ohter protein food	meat	1	1	1	1	NULL	NULL	NULL	9410	1886	0.00010626992561105207
+ohter restaurant	Sankalp	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ohter retailer	Top Shop	1	1	1	1	NULL	NULL	NULL	88	57	0.011363636363636364
+ohter ride	maelstorm	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ohter shop	clothing	1	1	2	2	NULL	NULL	NULL	9665	2540	0.00005173305742369374
+ohter shop	weapon	1	1	2	2	NULL	NULL	NULL	1577	545	0.0003170577045022194
+ohter spice	cumin	1	1	2	2	NULL	NULL	NULL	1028	210	0.00048638132295719845
+ohter spice	garlic powder	1	1	2	2	NULL	NULL	NULL	247	66	0.0020242914979757085
+Ohters	explorer Eric Shipton	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Ohters	writer E.M.Forster	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+OHV activity	dune buggy play on a sand dune area	1	1	1	1	NULL	NULL	NULL	1	1	1
+OHV area	Heber Dunes SVRA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHV area	Ocotillo Wells SVRA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHV event	OHV Club Rides	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHV event	ATV Jamborees	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OHV group	American Motorcyclists Association	1	1	1	1	NULL	NULL	NULL	8	3	0.125
+OHV operator behavior	unauthorized trail creation	1	1	1	1	NULL	NULL	NULL	1	1	1
+OHV park	Tellico	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+OHV small engine	Kohler Commands	1	1	4	4	0.200000000000	NULL	NULL	1	1	0.25
+OHV small engine	Courage	1	1	4	4	0.200000000000	NULL	NULL	1477	426	0.00016926201760324982
+OHV small engine	Honda	1	1	4	4	0.200000000000	NULL	NULL	2841	812	0.00008799718409010911
+OHV small engine	Briggs	1	1	4	4	0.200000000000	NULL	NULL	52	24	0.004807692307692308
+OHV specific area	Little Sahara Sand Dunes	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OHV specific area	Coral Pink Sand Dunes	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+OHVs	snowmachines	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+OHW equipment	insulator	1	1	1	1	NULL	NULL	NULL	192	92	0.005208333333333333

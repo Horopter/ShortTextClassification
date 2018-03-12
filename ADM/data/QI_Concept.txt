@@ -1,0 +1,120 @@
+QI	First American Exchange	1	1	1	1	NULL	NULL	NULL	1	1	1
+qi gong breathing exercise	abdominal breathing exercise	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+qi gong exercise	Eight Treasures	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+qi gong exercise	Tai Qi Quan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qi gong master	Shi DeLon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qi gong master	Shi Guo Lin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qi gong master	Sifu Wong Kiew Kit	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qi gong master	Yuan Xiu Gang	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qi master	Rich Mooney	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+QI method	PDSA cycle	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+QI practitioner	nurse	1	1	3	3	0.333333333333	NULL	NULL	4227	1158	0.00007885813421654444
+QI practitioner	risk manager	1	1	3	3	0.333333333333	NULL	NULL	29	22	0.011494252873563218
+QI practitioner	doctor	1	1	3	3	0.333333333333	NULL	NULL	6593	1574	0.000050558673340411544
+QI project	Fistula First	4	1	9	4	NULL	NULL	NULL	5	2	0.3555555555555555
+QI project	analysis of facility-specific profile	2	1	9	4	NULL	NULL	NULL	2	1	0.2222222222222222
+QI project	QI workshop	2	1	9	4	NULL	NULL	NULL	2	1	0.2222222222222222
+QI project	emergency preparedness	1	1	9	4	NULL	NULL	NULL	104	64	0.0010683760683760683
+qi study	Feng Shui	1	1	1	1	NULL	NULL	NULL	94	64	0.010638297872340425
+qi tonic	astragalus	3	3	13	8	0.333333333333	NULL	NULL	333	95	0.002079002079002079
+qi tonic	White Atractylodes	2	2	13	8	0.333333333333	NULL	NULL	5	3	0.06153846153846154
+qi tonic	Licorice	2	2	13	8	0.333333333333	NULL	NULL	637	215	0.00048303345006641714
+qi tonic	Codonopsis	2	2	13	8	0.333333333333	NULL	NULL	13	7	0.02366863905325444
+qi tonic	Chinese ginseng during fever	1	1	13	8	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+qi tonic	Ginseng	1	1	13	8	0.333333333333	NULL	NULL	1623	447	0.00004739561116640599
+qi tonic	atractylodes	1	1	13	8	0.333333333333	NULL	NULL	14	9	0.005494505494505495
+qi tonic	panax ginseng	1	1	13	8	0.333333333333	NULL	NULL	106	47	0.000725689404934688
+QI tool	root cause analysis	1	1	7	7	0.500000000000	NULL	NULL	144	80	0.000992063492063492
+QI tool	flow chart	1	1	7	7	0.500000000000	NULL	NULL	269	125	0.0005310674455655868
+qi tool	essential qi tool	1	1	7	7	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+qi tool	sample qi tool	1	1	7	7	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+QI tool	run chart	1	1	7	7	0.500000000000	NULL	NULL	42	28	0.003401360544217687
+QI tool	process flow chart	1	1	7	7	0.500000000000	NULL	NULL	12	8	0.011904761904761904
+QI tool	Plan	1	1	7	7	0.500000000000	NULL	NULL	543	269	0.0002630886608787161
+qi-xu syndrome	shortness of breath after exertion	1	1	1	1	NULL	NULL	NULL	1	1	1
+qian kai fan window	Yuan out of the body of Nike Shop Canada a Kuai meat	1	1	1	1	NULL	NULL	NULL	1	1	1
+Qiangic chieftans	Tuoba Chaoguang	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Qiangic chieftans	Tuoba Qimei	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qiangic language	Tangut	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+qiangreviewed numerical analysis method	finite dierence	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+qiangyu's product	seamless pipe	1	1	2	2	1.000000000000	NULL	NULL	34	27	0.014705882352941176
+qiangyu's product	BW elbow	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+QIB QIB s subsidiary	Asian Finance Bank in Malaysia	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+QIB QIB s subsidiary	Arab Finance House in Lebanon	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+qib's subsidiary	Arab Finance House in Lebanon	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+qib's subsidiary	Asian Finance Bank in Malaysia	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+QIE signal	test pulse	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QIE signal	reset	1	1	2	2	NULL	NULL	NULL	118	61	0.00423728813559322
+QIEP initiative	Clinician Development Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QIEP initiative	Collaborative for Healthcare Improvement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qigong	chang's hard qigong	1	1	1	1	NULL	NULL	NULL	1	1	1
+qigong exercise	Dragon	1	1	3	3	NULL	NULL	NULL	934	475	0.00035688793718772306
+qigong exercise	Tiger Chi Gung	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+qigong exercise	Carry the Moon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+qigong form	5 Animal Qigong	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+qigong form	8 Strands of Brocade	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+qigong form	Eight Pieces of Brocade	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+qigong form	Waving Body	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+qigong form	Moon Creme	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+qigong form	5 Element Qigong	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+qigong meditative technique	mindfulness meditation	1	1	1	1	NULL	NULL	NULL	71	41	0.014084507042253521
+qigong movement	Medical Qigong	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+qigong routine	Yi Yin Jing	2	2	2	1	NULL	NULL	NULL	2	1	1
+qigong-healing practice group	Chi Lel	1	1	1	1	NULL	NULL	NULL	1	1	1
+qik adopter	speaking consultant Laura Fitton	1	1	1	1	NULL	NULL	NULL	1	1	1
+Qin color	jade placed in the red lacquer	1	1	1	1	NULL	NULL	NULL	1	1	1
+qin melody	Shitan Zhang	1	1	1	1	NULL	NULL	NULL	1	1	1
+qin politician	Gan Mao	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+qin politician	Shang Yang	1	1	6	6	1.000000000000	NULL	NULL	8	7	0.020833333333333332
+qin politician	Zhang Yi	1	1	6	6	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+qin politician	Rang Hou	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+qin politician	Lu Buwei	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+qin politician	Fan Sui	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+qinetiq's core venture business	QinetiQ Airport Technologies	1	1	1	1	NULL	NULL	NULL	1	1	1
+qing army	Zeng Guofan's Xiang Army	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qing army	Li Hongzhang's Huai Army	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qing astronomer	Wang Xishan	1	1	1	1	NULL	NULL	NULL	1	1	1
+qing dynasty artist	Gong Xian	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qing dynasty artist	Cha Shibiao	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qing dynasty poem	Wuyi Tea Song	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+qing dynasty poem	Tea Tale	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+qing dynasty scholar	Qian Daxin	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+qing dynasty scholar	Zhao Yi	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+qing dynasty scholar	Wang Ming-sheng	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+qing emperor	Kangxi	2	2	6	4	NULL	NULL	NULL	4	3	0.16666666666666666
+qing emperor	Qianlong	2	2	6	4	NULL	NULL	NULL	4	3	0.16666666666666666
+qing emperor	Tongzhi	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+qing emperor	Xianfeng	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+qing evidential scholar	Yan Ruoju	1	1	1	1	NULL	NULL	NULL	1	1	1
+qing male reformer	Kang Youwei	1	1	3	3	1.000000000000	NULL	NULL	12	6	0.027777777777777776
+qing male reformer	Liang Qichao	1	1	3	3	1.000000000000	NULL	NULL	23	16	0.014492753623188404
+qing male reformer	Tan Sitong	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+qing official	Zhang Zhidong	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+qing painter	Ju Lian	1	1	1	1	NULL	NULL	NULL	1	1	1
+qing reformer	Kang Youwei	4	3	6	3	1.000000000000	NULL	NULL	12	6	0.2222222222222222
+qing reformer	Liang Qichao	1	1	6	3	1.000000000000	NULL	NULL	23	16	0.007246376811594202
+qing reformer	Tan Sitong	1	1	6	3	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+Qing reformists	Yan Fu	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+qing ruler	Zhu Zun	1	1	1	1	NULL	NULL	NULL	1	1	1
+qing scholar	Yan Fu	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+qing societal organization	urban guild	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+qing statesman	Li Hongzhang	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+qing text	Ji Yun's Yuewei caotang biji	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qing text	Pu Songling's Liaozhai zhiyi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qing translator	Lin Shu	1	1	1	1	NULL	NULL	NULL	1	1	1
+qingdao's branded enterprise	Tsingdao Beer in the park	1	1	1	1	NULL	NULL	NULL	1	1	1
+qingfei food	carrot	1	1	5	5	NULL	NULL	NULL	10459	2027	0.000019122287025528254
+qingfei food	mushroom	1	1	5	5	NULL	NULL	NULL	2656	800	0.00007530120481927712
+qingfei food	honey	1	1	5	5	NULL	NULL	NULL	3603	1104	0.00005550929780738274
+qingfei food	pear	1	1	5	5	NULL	NULL	NULL	3815	883	0.00005242463958060289
+qingfei food	milk	1	1	5	5	NULL	NULL	NULL	11681	2213	0.00001712182176183546
+Qingpi rotten red meat fish	herring	1	1	3	3	NULL	NULL	NULL	2643	469	0.0001261193088661874
+Qingpi rotten red meat fish	tuna	1	1	3	3	NULL	NULL	NULL	5546	1115	0.00006010337780983291
+Qingpi rotten red meat fish	fish	1	1	3	3	NULL	NULL	NULL	12757	2977	0.000026129445271876875
+qinpossessedmany strategic geographical place	Shang Mountain	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qinpossessedmany strategic geographical place	Luo River	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+QIOs	Quality Insights	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+QIOs	Qualis Health	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+QIOs	Quality Partners of Rhode Island	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+QIP aspirant	Parsvnath Developers	2	2	2	1	1.000000000000	NULL	NULL	15	8	0.13333333333333333
+QIP patient-centered measure	patient satisfaction	1	1	1	1	NULL	NULL	NULL	145	70	0.006896551724137931

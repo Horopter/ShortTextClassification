@@ -1,0 +1,149 @@
+UD change	democratic consolidation	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+UD change	democratic transition	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+UD change	Stalinist takeover	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UD change	socialist reform	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UD manufacturer	Honeywell	1	1	1	1	NULL	NULL	NULL	830	278	0.0012048192771084338
+UD project	lighting at bus stop	1	1	1	1	NULL	NULL	NULL	1	1	1
+UD restricted material	electronic journal	1	1	2	2	1.000000000000	NULL	NULL	91	38	0.005494505494505495
+UD restricted material	electronic reserve	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+UDA icon	John Gregg	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UDA redoubt	Lower Shankill	2	2	2	1	NULL	NULL	NULL	2	1	1
+udability improvement feature	customizable GUI layout	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+udability improvement feature	property based file opening	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+udability improvement feature	batch mode support	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+udaipur attraction	Lake Palace	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+udaipur attraction	City Palace	1	1	3	3	1.000000000000	NULL	NULL	47	32	0.0070921985815602835
+udaipur attraction	Lake Pichola	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UDAs	custom UDAs	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+uday abused sport facility	lone Olympic swimming pool in the nation	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDB	WSUE	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UDB	WSE	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+UDB utility	backup	1	1	1	1	NULL	NULL	NULL	1021	515	0.0009794319294809011
+udb's classical debugging feature	breakpoints	1	1	1	1	NULL	NULL	NULL	100	61	0.01
+UDC commercial unit	NAL	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+UDC recording need	index term	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UDCFs	HP's Matrix	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDCs	London Docklands Development Corporation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UDD core figure	Mr Nattawut Saikua	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDD core figure	Mr Jatuporn Prompan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDD leader	Suporn Atthawong	1	1	1	1	NULL	NULL	NULL	1	1	1
+udder health program	total dry cow therapy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+udder health program	post-milking teat dipping	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+UDDI entity	binding template	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+UDDI entity	business entity	1	1	3	3	0.500000000000	NULL	NULL	28	14	0.011904761904761904
+UDDI entity	business service	1	1	3	3	0.500000000000	NULL	NULL	311	122	0.0010718113612004287
+UDDI registry's configuration information	inquiry URL	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDDI registry's configuration information	registry name	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDDI subscription application property	configuring the UDDI Content Subscription Manager with OracleAS Syndication Services	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDDI taxonomy	geographical taxonomy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDDI taxonomy	UDDI types taxonomy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDDI useswidespread standard	XML	1	1	2	2	NULL	NULL	NULL	1998	697	0.00025025025025025025
+UDDI useswidespread standard	HTTP	1	1	2	2	NULL	NULL	NULL	1172	410	0.0004266211604095563
+uddi-registered resource	binding template	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ude information	name	1	1	1	1	NULL	NULL	NULL	13911	2278	0.00007188555819135935
+ude item	cookie	1	1	4	4	0.200000000000	NULL	NULL	5329	1507	0.000046913116907487336
+ude item	cracker	1	1	4	4	0.200000000000	NULL	NULL	2568	767	0.00009735202492211838
+ude item	cereal bar	1	1	4	4	0.200000000000	NULL	NULL	185	89	0.0013513513513513514
+ude item	microwave popcorn	1	1	4	4	0.200000000000	NULL	NULL	59	33	0.00423728813559322
+uderlying condition	parasite	1	1	1	1	NULL	NULL	NULL	791	283	0.0012642225031605564
+udesdifferfrom seemingly similar fault	Latent Sector Errors	1	0	1	1	NULL	NULL	NULL	1	1	1
+UDF activity	work stayaways	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDF activity	boycott	1	1	2	2	NULL	NULL	NULL	177	94	0.002824858757062147
+UDF datum	final volume descriptor sequence	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+UDF datum	logical volume descriptor sequence	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+UDF format program	DLA	1	1	2	2	1.000000000000	NULL	NULL	41	23	0.012195121951219513
+UDF format program	Roxio s Direct CD	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+udf's most successful campaign	consumer boycotts of white-owned stores in the Eastern Cape	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDFAs	Deji Karim	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+udgetary fund	Social Security Fund	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+UDGTs	UGT2B17	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDI system	bar code	2	2	2	1	NULL	NULL	NULL	395	211	0.005063291139240506
+udi's product	bagel	1	1	3	3	0.333333333333	NULL	NULL	906	364	0.0003679175864606328
+udi's product	pizza crust	1	1	3	3	0.333333333333	NULL	NULL	53	32	0.006289308176100628
+udi's product	muffin	1	1	3	3	0.333333333333	NULL	NULL	1215	431	0.0002743484224965706
+UDIA event	lunch	1	1	2	2	NULL	NULL	NULL	930	399	0.0005376344086021505
+UDIA event	forum	1	1	2	2	NULL	NULL	NULL	2019	808	0.00024764735017335313
+UDIA member company	Hutchinson Builders	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UDIA member company	Wagners	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+udicial mechanism	ombudsman investigation	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+udicial mechanism	national human rights commission	1	1	2	2	1.000000000000	NULL	NULL	37	21	0.013513513513513514
+udicial operation	courtroom scheduling	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+udicial operation	facilities management	1	1	5	5	NULL	NULL	NULL	198	95	0.00101010101010101
+udicial operation	caseflow policy	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+udicial operation	statistical analysis	1	1	5	5	NULL	NULL	NULL	239	137	0.0008368200836820084
+udicial operation	ADA policy	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+udinese's top player	striker Alexis Sanchez	1	1	1	1	NULL	NULL	NULL	1	1	1
+udit objective	subject area	1	1	2	2	1.000000000000	NULL	NULL	36	25	0.013888888888888888
+udit objective	providing an overview of a process	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+udl file	Access	1	1	1	1	NULL	NULL	NULL	2308	763	0.0004332755632582322
+UDO property	media longevity	1	1	1	1	NULL	NULL	NULL	1	1	1
+udon	shrimp tempura udon	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDOP IA concept	tracking of data pedigree	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDP activity	pinging a web site	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDP anditsvariant transport service	Datagram Congestion Control Protocol	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+UDP anditsvariant transport service	Stream Control Transmission Protocol	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+udp application	sensitive udp application	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+UDP application	Simple Network Management Protocol	1	1	6	6	NULL	NULL	NULL	68	36	0.0024509803921568627
+UDP application	DHCP	1	1	6	6	NULL	NULL	NULL	377	161	0.0004420866489832007
+UDP application	high-bandwidth multimedia application	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+UDP application	voice	1	1	6	6	NULL	NULL	NULL	2237	987	0.00007450454477723141
+UDP application	RealAudio	1	1	6	6	NULL	NULL	NULL	66	41	0.002525252525252525
+UDP application class	real-time video	1	1	1	1	0.500000000000	NULL	NULL	34	19	0.029411764705882353
+UDP broadcast packet	DHCP request	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UDP forwarding issue	DHCP problem	1	0	1	1	NULL	NULL	NULL	1	1	1
+UDP isalsosuitable forrealtime service	video streaming	1	1	1	1	NULL	NULL	NULL	406	185	0.0024630541871921183
+UDP policy	TN2 Integration of transportation	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDP protocol	RTSP	3	1	10	8	0.714285714285	NULL	NULL	43	21	0.02093023255813953
+UDP protocol	TFTP	1	1	10	8	0.714285714285	NULL	NULL	54	27	0.001851851851851852
+UDP protocol	Syslog	1	1	10	8	0.714285714285	NULL	NULL	43	32	0.002325581395348837
+udp protocol	reliable udp protocol	1	1	10	8	0.714285714285	NULL	NULL	2	2	0.05
+UDP protocol	NetBIOS	1	1	10	8	0.714285714285	NULL	NULL	50	23	0.002
+UDP protocol	NFS	1	1	10	8	0.714285714285	NULL	NULL	372	195	0.00026881720430107527
+UDP protocol	Domain Name System	1	1	10	8	0.714285714285	NULL	NULL	57	34	0.0017543859649122807
+UDP protocol	DNS	1	1	10	8	0.714285714285	NULL	NULL	650	272	0.00015384615384615385
+udp protocol communication network	image regulatory document transmission	7	1	7	1	NULL	NULL	NULL	7	1	1
+udp service	system udp service	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UDP service	RTTP	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UDP service	NTP	1	1	3	3	NULL	NULL	NULL	79	48	0.004219409282700422
+UDP stateless service	DNS	1	1	1	1	NULL	NULL	NULL	650	272	0.0015384615384615385
+UDP stream	voice	1	1	2	2	NULL	NULL	NULL	2237	987	0.00022351363433169424
+UDP stream	video	1	1	2	2	NULL	NULL	NULL	10816	3555	0.00004622781065088757
+UDP sugar	UDP-glucose	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+UDP sugar	UDP-galactose	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+udp-based application	streaming audio	1	1	4	4	0.500000000000	NULL	NULL	130	69	0.0019230769230769232
+udp-based application	voice-over IP	1	1	4	4	0.500000000000	NULL	NULL	15	10	0.016666666666666666
+udp-based application	Network File Service	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+udp-based application	MPEG audio transmission being researched at FLA	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+udp-based protocol	DNS	2	2	9	6	0.400000000000	NULL	NULL	650	272	0.0006837606837606838
+udp-based protocol	SNMP	2	1	9	6	0.400000000000	NULL	NULL	328	162	0.0013550135501355014
+udp-based protocol	RTP	2	2	9	6	0.400000000000	NULL	NULL	98	45	0.0045351473922902496
+udp-based protocol	real udp-based protocol	1	1	9	6	0.400000000000	NULL	NULL	2	2	0.05555555555555555
+udp-based protocol	SIP	1	1	9	6	0.400000000000	NULL	NULL	365	159	0.00030441400304414
+udp-based protocol	HTCP	1	1	9	6	0.400000000000	NULL	NULL	1	1	0.1111111111111111
+udp-based real-time application	IP telephony	1	1	2	2	NULL	NULL	NULL	257	116	0.0019455252918287938
+udp-based real-time application	streaming medium	1	1	2	2	NULL	NULL	NULL	172	82	0.0029069767441860465
+UDP-based server	NFS	1	1	1	1	NULL	NULL	NULL	372	195	0.002688172043010753
+udp-based service	NTP	1	1	3	3	0.333333333333	NULL	NULL	79	48	0.004219409282700422
+udp-based service	Network Time Protocol	1	1	3	3	0.333333333333	NULL	NULL	29	21	0.011494252873563218
+udp-based service	RealAudio	1	1	3	3	0.333333333333	NULL	NULL	66	41	0.00505050505050505
+udp-based solution	RBUDP	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+udp-based solution	FOBS	1	1	4	4	0.500000000000	NULL	NULL	6	5	0.041666666666666664
+udp-based solution	UDT	1	1	4	4	0.500000000000	NULL	NULL	7	7	0.03571428571428571
+udp-based solution	SABUL	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+udp-based technology	video streaming	1	1	1	1	NULL	NULL	NULL	406	185	0.0024630541871921183
+UDP-based traffic	DNS	1	1	1	1	NULL	NULL	NULL	650	272	0.0015384615384615385
+udp-friendly voice	former President Kim Dae-jung	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDP-glucuronosyltransferase isoforms	UGT1A1	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+UDP-glucuronosyltransferase isoforms	1A5	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UDP-glucuronosyltransferase isoforms	1A2	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+udp-heavy protocol	BitTorrent peering	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDP-SOA AXFR client	BIND 9 AXFR client	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDPF commander	general James Kazini	1	1	1	1	NULL	NULL	NULL	1	1	1
+UDRP dispute resolution service provider	World Intellectual Property Organization	1	1	1	1	1.000000000000	NULL	NULL	46	13	0.021739130434782608
+uds feature	basin	1	1	1	1	NULL	NULL	NULL	335	199	0.0029850746268656717
+udsm-student organization	UDSM Education Students Association	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+udsm-student organization	Students Sports Council	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+udsm-student organization	International Students Association	1	1	3	3	1.000000000000	NULL	NULL	13	7	0.02564102564102564
+UDT proponent	Molnar	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+UDT protocol parameter	loss rate	1	1	2	2	1.000000000000	NULL	NULL	30	21	0.016666666666666666
+UDT protocol parameter	RTT	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464

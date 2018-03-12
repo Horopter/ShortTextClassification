@@ -1,0 +1,220 @@
+ll additional expense	trustee	1	1	3	3	NULL	NULL	NULL	225	110	0.0014814814814814814
+ll additional expense	fee	1	1	3	3	NULL	NULL	NULL	1083	409	0.0003077870113881194
+ll additional expense	notary	1	1	3	3	NULL	NULL	NULL	175	78	0.0019047619047619048
+LL area	Desert	1	1	1	1	NULL	NULL	NULL	980	421	0.0010204081632653062
+LL Bean parka jacket	stowaway parka jacket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LL Bean parka jacket	insulated parka jacket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LL Bean parka jacket	LL Bean waterproof parka jacket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LL Bean toggle coat	faux shearling toggle coat	1	1	1	1	NULL	NULL	NULL	1	1	1
+ll fossil fuel	coal	1	1	2	2	NULL	NULL	NULL	6839	1602	0.00007311010381634741
+ll fossil fuel	oil	1	1	2	2	NULL	NULL	NULL	15331	4205	0.00003261365860022177
+ll high value transaction	mobile phone	1	1	1	1	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+ll material	clay	1	1	2	2	NULL	NULL	NULL	4516	1432	0.00011071744906997343
+ll material	terrigenous silt	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ll microorganism	Giardia lamblia	1	1	3	3	NULL	NULL	NULL	144	53	0.0023148148148148147
+ll microorganism	Cryptosporidium	1	1	3	3	NULL	NULL	NULL	555	155	0.0006006006006006006
+ll microorganism	Legionella	1	1	3	3	NULL	NULL	NULL	137	63	0.0024330900243309003
+LL name	William	1	1	4	4	0.500000000000	NULL	NULL	119	51	0.0021008403361344537
+LL name	Elliott	1	1	4	4	0.500000000000	NULL	NULL	27	17	0.009259259259259259
+LL name	Gabriella	1	1	4	4	0.500000000000	NULL	NULL	12	11	0.020833333333333332
+LL name	Lola	1	1	4	4	0.500000000000	NULL	NULL	38	27	0.006578947368421052
+ll non-complex project	street	1	1	4	4	0.250000000000	NULL	NULL	1441	583	0.00017349063150589867
+ll non-complex project	feeder road	1	1	4	4	0.250000000000	NULL	NULL	22	19	0.011363636363636364
+ll non-complex project	link	1	1	4	4	0.250000000000	NULL	NULL	958	477	0.00026096033402922753
+ll non-complex project	Government building	1	1	4	4	0.250000000000	NULL	NULL	257	146	0.0009727626459143969
+ll reputable furniture retailer	Harvey Norman	1	1	1	1	NULL	NULL	NULL	167	73	0.005988023952095809
+ll surface	portable	1	1	2	2	0.500000000000	NULL	NULL	110	74	0.004545454545454545
+ll surface	dental chair	1	1	2	2	0.500000000000	NULL	NULL	32	26	0.015625
+ll sweet	lollies	1	1	1	1	NULL	NULL	NULL	149	67	0.006711409395973154
+ll vegetable	eggplant	1	1	5	5	0.250000000000	NULL	NULL	1854	557	0.00010787486515641856
+ll vegetable	pinto bean	1	1	5	5	0.250000000000	NULL	NULL	271	70	0.0007380073800738008
+ll vegetable	celery root	1	1	5	5	0.250000000000	NULL	NULL	48	16	0.004166666666666667
+ll vegetable	fresh string bean	1	1	5	5	0.250000000000	NULL	NULL	6	3	0.03333333333333333
+ll vegetable	artichoke	1	1	5	5	0.250000000000	NULL	NULL	700	251	0.00028571428571428574
+LL vendor	IH Only	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+LL-01 oil	Mobil 1 0W40 at Autozone	1	1	1	1	NULL	NULL	NULL	1	1	1
+LL-37 function	angiogenesis	3	2	6	2	1.000000000000	NULL	NULL	167	83	0.008982035928143712
+LL-37 function	direct chemotaxis	3	2	6	2	1.000000000000	NULL	NULL	3	1	0.5
+ll-37-mediated effect	mast cell chemotaxis	1	1	1	1	NULL	NULL	NULL	1	1	1
+ll-based strategy	transliteration	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+ll-based strategy	language switch	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+ll-defined shock	productivity	1	1	2	2	NULL	NULL	NULL	1123	481	0.0004452359750667854
+ll-defined shock	preference shock	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ll-documented issue	taxation	1	1	1	1	NULL	NULL	NULL	1201	413	0.0008326394671107411
+LL-ITMs	wall-hangings	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ll-know napproaches	BFT	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+ll-known actor	Alan Arkin	1	1	9	9	0.625000000000	NULL	NULL	17	8	0.0065359477124183
+ll-known actor	Henry Winkler	1	1	9	9	0.625000000000	NULL	NULL	26	16	0.004273504273504273
+ll-known actor	Hal Holbrook	1	1	9	9	0.625000000000	NULL	NULL	20	9	0.005555555555555555
+ll-known actor	Ben Affleck	1	1	9	9	0.625000000000	NULL	NULL	127	41	0.0008748906386701661
+ll-known actor	Ingrid Bergman	1	1	9	9	0.625000000000	NULL	NULL	42	22	0.0026455026455026454
+ll-known actor	Mickey Rourke	1	1	9	9	0.625000000000	NULL	NULL	52	17	0.0021367521367521365
+ll-known actor	Don Johnson	1	1	9	9	0.625000000000	NULL	NULL	25	14	0.0044444444444444444
+ll-known actor	Barbara Hershey	1	1	9	9	0.625000000000	NULL	NULL	8	5	0.013888888888888888
+ll-known actor	Ron Howard	1	1	9	9	0.625000000000	NULL	NULL	62	27	0.0017921146953405018
+ll-knownreso-natorsusedinMRI	solenoidal	1	1	1	1	0.666666666666	NULL	NULL	2	2	0.5
+ll-knownultrasonicallyinduced effect	acoustic cavitation	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ll-knownultrasonicallyinduced effect	acoustic streaming	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+llalso need scavenger	aquatic snail	1	1	2	2	0.500000000000	NULL	NULL	20	12	0.025
+llalso need scavenger	tadpole	1	1	2	2	0.500000000000	NULL	NULL	119	65	0.004201680672268907
+llalsoaskabout typical cardiac symptom	sweating arid nausea	1	1	1	1	NULL	NULL	NULL	1	1	1
+llalsobereadyfor new ip-based application	video over IP	1	1	1	1	1.000000000000	NULL	NULL	24	13	0.041666666666666664
+llalsocover practical subject	meeting ecectiveness	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+llalsocover practical subject	multicultural teamwork	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+llam's educational program	Legal Research Institute	1	1	1	1	NULL	NULL	NULL	1	1	1
+LLAMA activity	event	1	1	3	3	NULL	NULL	NULL	1629	766	0.0002046245140167792
+LLAMA activity	program	1	1	3	3	NULL	NULL	NULL	1312	601	0.0002540650406504065
+LLAMA activity	publication	1	1	3	3	NULL	NULL	NULL	1177	533	0.0002832058906825262
+llama characteristic	birthing from a standing position	1	1	1	1	NULL	NULL	NULL	1	1	1
+llandudno's main attraction	Home Front Experience	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llandudno's main attraction	Llandudno Pier	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llandudno's main attraction	Great Orme Tramway	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+llandudno's street	Upper Mostyn Street	1	1	1	1	NULL	NULL	NULL	1	1	1
+llanelli insect	house flea	1	1	1	1	1.000000000000	NULL	NULL	561	558	0.0017825311942959
+llano	Esteli	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llano	Ocotal	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+llano	Jinotega	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+LLC	TD LLC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LLC	family-centered care	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+LLC	say Edward Consulting LLC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LLC advantage	limited liability	1	1	2	2	1.000000000000	NULL	NULL	28	18	0.017857142857142856
+LLC advantage	perpetual succession	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+LLC hall	Aston	1	1	1	1	1.000000000000	NULL	NULL	23	17	0.043478260869565216
+LLC phase	inverted hexagonal	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+LLC phase	lamellar	1	1	2	2	1.000000000000	NULL	NULL	11	11	0.045454545454545456
+LLC purchase grain byproduct	wheat midds	1	1	2	2	1.000000000000	NULL	NULL	30	16	0.016666666666666666
+LLC purchase grain byproduct	soy hull	1	1	2	2	1.000000000000	NULL	NULL	30	23	0.016666666666666666
+LLC role	promoter	1	1	1	1	NULL	NULL	NULL	352	126	0.002840909090909091
+LLC service	promotion	1	1	2	2	NULL	NULL	NULL	2086	789	0.00023969319271332693
+LLC service	special website	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+LLC statute	Illinois Act	1	1	1	1	NULL	NULL	NULL	1	1	1
+llc's non-financial asset	leased equipment at cost	2	2	2	1	NULL	NULL	NULL	2	1	1
+llc-46-based PTH1R stable line	B28	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+llc-46-derived cell line	B28	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+llconsider language	Cand Pascal	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LLD game	low lvl duelz	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLD game	low lvl duel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLDCs	2008 World Economic Forum www.weforum.org Mongolia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LLDCs	26 The Global Enabling Trade Report	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LLDCs	Zambia	1	1	3	3	NULL	NULL	NULL	1332	162	0.00025025025025025025
+LLDP attribute	model number	1	1	1	1	NULL	NULL	NULL	210	79	0.004761904761904762
+LLDP global parameter	time interval for sending LLDP updates using the LLDP Properties page	1	1	1	1	NULL	NULL	NULL	1	1	1
+LLDPE film market	flexible packaging	1	1	4	4	0.333333333333	NULL	NULL	13	11	0.019230769230769232
+LLDPE film market	shopping bag	1	1	4	4	0.333333333333	NULL	NULL	292	172	0.0008561643835616438
+LLDPE film market	garbage bag	1	1	4	4	0.333333333333	NULL	NULL	207	126	0.0012077294685990338
+LLDPE film market	production bag	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+LLDPE physical property	crystallinity	1	1	2	2	NULL	NULL	NULL	118	50	0.00423728813559322
+LLDPE physical property	melting point	1	1	2	2	NULL	NULL	NULL	391	109	0.0012787723785166241
+lled role	change agent	1	1	9	9	0.250000000000	NULL	NULL	15	14	0.007407407407407407
+lled role	case fi nders	1	1	9	9	0.250000000000	NULL	NULL	1	1	0.1111111111111111
+lled role	educator	1	1	9	9	0.250000000000	NULL	NULL	331	160	0.0003356831151393085
+lled role	activist	1	1	9	9	0.250000000000	NULL	NULL	36	25	0.0030864197530864196
+lled role	researcher	1	1	9	9	0.250000000000	NULL	NULL	426	200	0.0002608242044861763
+lled role	leader	1	1	9	9	0.250000000000	NULL	NULL	197	109	0.0005640157924421883
+lled role	care manager	1	1	9	9	0.250000000000	NULL	NULL	20	13	0.005555555555555555
+lled role	advocate	1	1	9	9	0.250000000000	NULL	NULL	145	79	0.0007662835249042145
+lled role	clinician	1	1	9	9	0.250000000000	NULL	NULL	151	51	0.0007358351729212656
+llegal activity	family	1	1	3	3	NULL	NULL	NULL	5717	1803	0.0000583056381552096
+llegal activity	child abuse	1	1	3	3	NULL	NULL	NULL	765	300	0.00043572984749455336
+llegal activity	illegal sexual relationship	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llergic disease	asthma	2	2	3	2	NULL	NULL	NULL	8602	1433	0.00015500271254746957
+llergic disease	rhinitis	1	1	3	2	NULL	NULL	NULL	324	144	0.0010288065843621398
+llergic reaction	hive	1	1	3	3	NULL	NULL	NULL	857	221	0.00038895371450797355
+llergic reaction	hay fever	1	1	3	3	NULL	NULL	NULL	596	158	0.0005592841163310962
+llergic reaction	asthma	1	1	3	3	NULL	NULL	NULL	8602	1433	0.00003875067813686739
+Llergies	Elidel Zyrtec Flonase	1	1	1	1	NULL	NULL	NULL	1	1	1
+llergy-causings pet	cat	1	1	1	1	NULL	NULL	NULL	6578	1177	0.00015202189115232594
+llers	organic and inorganic fi llers	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LLEs	hedge	1	1	1	1	NULL	NULL	NULL	437	223	0.002288329519450801
+LLESA networking group	kayak	1	1	1	1	NULL	NULL	NULL	857	364	0.0011668611435239206
+llesanetwork-ing group	underwater hockey	1	0	2	2	0.500000000000	NULL	NULL	17	9	0.029411764705882353
+llesanetwork-ing group	kayak	1	0	2	2	0.500000000000	NULL	NULL	857	364	0.0005834305717619603
+llewellyn's magical encyclopedia	Cunningham's Encyclopedia of Crystal	2	2	2	1	NULL	NULL	NULL	2	1	1
+llfindresources	downloadable Quick Start Cards	2	2	2	1	NULL	NULL	NULL	2	1	1
+llfindthat information	government regulation	1	1	2	2	NULL	NULL	NULL	263	110	0.0019011406844106464
+llfindthat information	solicitations for grant proposal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+llfindtheworksof local and regional artist	Dev lin Wilson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llfindtheworksof local and regional artist	artists from J LM sYADAHouse project	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llfindtheworksof local and regional artist	Eugenia Foster	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+llfindtonsof activity	tennis	1	1	2	2	NULL	NULL	NULL	8416	1354	0.0000594106463878327
+llfindtonsof activity	go-karting	1	1	2	2	NULL	NULL	NULL	87	45	0.005747126436781609
+llhaveboardgames	Mancala	1	1	2	2	0.500000000000	NULL	NULL	42	22	0.011904761904761904
+llhaveboardgames	Monopoly	1	1	2	2	0.500000000000	NULL	NULL	858	238	0.0005827505827505828
+lliance member airline	Air Japan	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+LLIDs	Quad Relay LLID	1	1	1	1	NULL	NULL	NULL	1	1	1
+llife-skills	self-confi dence	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+llife-sustaining device	MRI coil	1	1	1	1	NULL	NULL	NULL	1	1	1
+llifestyle change	eating fast food	1	1	1	1	1.000000000000	NULL	NULL	18	11	0.05555555555555555
+llingstation related parameter	operating cost	1	1	2	2	NULL	NULL	NULL	178	85	0.0028089887640449437
+llingstation related parameter	investment	1	1	2	2	NULL	NULL	NULL	1600	601	0.0003125
+lliteimagers	Geostationary Operational Environmental Satellite	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LLL staff person	Jim Telle of the LLL staff	1	1	1	1	NULL	NULL	NULL	1	1	1
+LLLME condition	acidity	1	1	2	2	NULL	NULL	NULL	329	171	0.001519756838905775
+LLLME condition	organic extraction solvent	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLLT dose parameter	power density	1	1	1	1	NULL	NULL	NULL	71	41	0.014084507042253521
+LLLT system energy characteristic	average power	1	1	1	1	1.000000000000	NULL	NULL	19	14	0.05263157894736842
+LlltramaJic cumu-lats	dunites	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+LLM message filter feature	message property	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+LLM message filter feature	turbo flow	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLMA characteristic	unemployment	1	1	2	2	NULL	NULL	NULL	3368	1052	0.0001484560570071259
+LLMA characteristic	intensity of industrial activity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+llmakeuseof numerical library	LAPACK	1	1	1	1	1.000000000000	NULL	NULL	22	18	0.045454545454545456
+llmaterials	clay	1	1	2	2	NULL	NULL	NULL	4516	1432	0.00011071744906997343
+llmaterials	terrigenous silt	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+LLMD support alternative treatment	Rifing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLMD support alternative treatment	Oxygen Chambers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLN skill	oral communication	1	1	2	2	NULL	NULL	NULL	82	51	0.006097560975609756
+LLN skill	problem-solving	1	1	2	2	NULL	NULL	NULL	620	287	0.0008064516129032258
+llneedafewlow-tech material	scratch paper	1	1	1	1	1.000000000000	NULL	NULL	17	10	0.058823529411764705
+llness	cold	2	2	2	1	NULL	NULL	NULL	4004	980	0.0004995004995004995
+LLNL nuclear program	Joint Nevada Program Office	1	1	1	1	NULL	NULL	NULL	1	1	1
+LLNL organization	MUSD	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+llnl-developed biodetection technology	Autonomous Pathogen Detection System	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LLNLprograms	DNT	1	0	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+LLNLprograms	Yucca Mountain Project	1	0	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+llocal group	Ethiopian Human Rights Council	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+llopathic treatment	chiropractic	1	1	1	1	NULL	NULL	NULL	839	302	0.0011918951132300357
+llovely trim	embroidery trim	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+llovely trim	hat flower	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+llovely trim	shoes flower	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+llows external user	photographer	1	1	2	2	NULL	NULL	NULL	842	283	0.0005938242280285036
+llows external user	agent	1	1	2	2	NULL	NULL	NULL	519	251	0.0009633911368015414
+llows mobile web-enabled device	iphone	1	1	1	1	NULL	NULL	NULL	3646	862	0.00027427317608337906
+lloyd echo writer	Gemmel in the creation of the white eye	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lloyd echo writer	Moorcock	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+lloyd operation	mechanical shop housed in Carmel	1	1	1	1	NULL	NULL	NULL	1	1	1
+lloyd weber show	Aspects of Love	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+lloyd weber show	Sunset Boulevard	1	1	2	2	1.000000000000	NULL	NULL	48	26	0.010416666666666666
+Lloyd's Coverholder	Vectura Underwriting	1	1	1	1	NULL	NULL	NULL	1	1	1
+lloyd's firm	main panel auditor	1	1	1	1	NULL	NULL	NULL	1	1	1
+lloyd's insurer	Beazley	2	2	5	4	0.800000000000	NULL	NULL	13	8	0.06153846153846154
+lloyd's insurer	Amlin	1	1	5	4	0.800000000000	NULL	NULL	9	9	0.022222222222222223
+lloyd's insurer	Catlin	1	1	5	4	0.800000000000	NULL	NULL	7	6	0.028571428571428574
+lloyd's insurer	Hiscox	1	1	5	4	0.800000000000	NULL	NULL	18	11	0.011111111111111112
+lloyd's syndicate	Lutine	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lloyd-jones previous volume	Life in the Spirit in Marriage	1	1	1	1	NULL	NULL	NULL	1	1	1
+lloyds TSB department	Commercial Finance	1	1	3	3	1.000000000000	NULL	NULL	9	9	0.037037037037037035
+lloyds TSB department	Financial Markets	1	1	3	3	1.000000000000	NULL	NULL	18	13	0.018518518518518517
+lloyds TSB department	Corporate Transaction Services	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+LLP	Grundtvig	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+LLP corn event	StarLink	2	1	2	1	NULL	NULL	NULL	5	4	0.4
+LLP64 system	64-bit Windows	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LLR minor discrepancy	missing documentation	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+LLR processing unit	table	1	1	1	1	NULL	NULL	NULL	6328	2130	0.00015802781289506955
+LLSAP service	RSA's Discover Search	1	1	1	1	NULL	NULL	NULL	1	1	1
+LLSV variable	risk of government expropriation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LLSV variable	corruption	1	1	2	2	NULL	NULL	NULL	1175	410	0.000425531914893617
+LLU operator	Sky	1	1	1	1	NULL	NULL	NULL	584	332	0.0017123287671232876
+LLU provider	TalkTalk	2	2	3	2	0.500000000000	NULL	NULL	66	27	0.0202020202020202
+LLU provider	Sky	1	1	3	2	0.500000000000	NULL	NULL	584	332	0.0005707762557077625
+LLU supplier	Sky	1	1	1	1	NULL	NULL	NULL	584	332	0.0017123287671232876
+llull's mystical writing	Book of the Lover	1	1	1	1	NULL	NULL	NULL	1	1	1
+llustrations	diagram	1	1	6	6	0.166666666666	NULL	NULL	1291	433	0.00012909888974954814
+llustrations	drawing	1	1	6	6	0.166666666666	NULL	NULL	4030	1315	0.000041356492969396195
+llustrations	photograph	1	1	6	6	0.166666666666	NULL	NULL	4026	1203	0.00004139758238118894
+llustrations	line graph	1	1	6	6	0.166666666666	NULL	NULL	93	60	0.0017921146953405018
+llustrations	pie graph	1	1	6	6	0.166666666666	NULL	NULL	21	13	0.007936507936507936
+llustrations	bar graph	1	1	6	6	0.166666666666	NULL	NULL	197	106	0.0008460236886632825
+LLW noncompactible item	large equipment	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+LLW waste item	HEPA filter	1	1	1	1	NULL	NULL	NULL	138	81	0.007246376811594203
+lly liberal paradigm	multiculturalism	1	1	1	1	NULL	NULL	NULL	250	85	0.004

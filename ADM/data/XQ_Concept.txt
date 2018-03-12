@@ -1,0 +1,15 @@
+xqfwlrqvdefine individual function	cut	1	1	2	2	NULL	NULL	NULL	1864	670	0.0002682403433476395
+xqfwlrqvdefine individual function	copy	1	1	2	2	NULL	NULL	NULL	936	438	0.0005341880341880342
+XQREVHUYHG variable	brand equity	1	1	1	1	NULL	NULL	NULL	62	36	0.016129032258064516
+xquery construct	node comparison operator	1	1	1	1	NULL	NULL	NULL	1	1	1
+xquery form	FLWOR expression	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+XQuery functionality	function call	1	1	2	2	0.500000000000	NULL	NULL	23	21	0.021739130434782608
+XQuery functionality	function	1	1	2	2	0.500000000000	NULL	NULL	980	432	0.0005102040816326531
+xquery method	value on the contents of the node table	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xquery method	query	1	1	2	2	NULL	NULL	NULL	342	190	0.0014619883040935672
+XQuery navigation function	collection	1	1	1	1	NULL	NULL	NULL	903	427	0.0011074197120708748
+xquery operator	comparison operator	1	1	2	2	0.500000000000	NULL	NULL	8	6	0.0625
+xquery operator	arithmetic	1	1	2	2	0.500000000000	NULL	NULL	282	139	0.0017730496453900709
+XQuery processor	XQuery	1	1	2	2	NULL	NULL	NULL	95	44	0.005263157894736842
+XQuery processor	Saxon	1	1	2	2	NULL	NULL	NULL	68	37	0.007352941176470588
+XQueryexpressions	value comparison	1	1	1	1	NULL	NULL	NULL	2	2	0.5

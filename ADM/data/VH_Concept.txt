@@ -1,0 +1,82 @@
+VH1 classic	Rock of Love	1	1	2	2	1.000000000000	NULL	NULL	23	16	0.021739130434782608
+VH1 classic	I Love New York	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+VH1 game feature	send-to-a-friend capability	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+VH1 game feature	leader board	1	1	2	2	1.000000000000	NULL	NULL	25	21	0.02
+VH1 heavyweight	Eurythmics & the Georgia Satellites	1	1	1	1	NULL	NULL	NULL	1	1	1
+VH1 reality show	Flavor Of Love	1	1	2	2	1.000000000000	NULL	NULL	16	8	0.03125
+VH1 reality show	I Love New York	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+VH1 show	Scott Baio	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+VH1 show	Rock of love	1	1	2	2	1.000000000000	NULL	NULL	23	16	0.021739130434782608
+VH1 staple	Pop Up Video	1	1	1	1	NULL	NULL	NULL	1	1	1
+VH1-branded merchandise	Storytellers	1	1	1	1	NULL	NULL	NULL	3	4	0.3333333333333333
+VHA initiative	Decision Support System	1	1	2	2	NULL	NULL	NULL	92	61	0.005434782608695652
+VHA initiative	Department initiative	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VHA innovation	Computerized Patient Record System	1	0	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+VHA innovation	Decentralized Hospital Computer Program	1	0	2	2	NULL	NULL	NULL	2	2	0.25
+VHA system	VISTA	1	0	1	1	NULL	NULL	NULL	73	55	0.0136986301369863
+VHCC course	English composition	2	2	4	2	0.500000000000	NULL	NULL	137	50	0.0072992700729927005
+VHCC course	precalculus	2	2	4	2	0.500000000000	NULL	NULL	29	14	0.034482758620689655
+vhcsmadefrom conducting material	stainless steel	1	1	2	2	NULL	NULL	NULL	4816	1280	0.00010382059800664452
+vhcsmadefrom conducting material	aluminum	1	1	2	2	NULL	NULL	NULL	10290	2216	0.00004859086491739553
+VHD file	source	1	1	2	2	NULL	NULL	NULL	552	281	0.0009057971014492754
+VHD file	WIM file	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VHD property	file name	1	1	4	4	0.333333333333	NULL	NULL	316	125	0.0007911392405063291
+VHD property	file location	1	1	4	4	0.333333333333	NULL	NULL	38	26	0.006578947368421052
+VHD property	file size	1	1	4	4	0.333333333333	NULL	NULL	315	127	0.0007936507936507937
+VHD property	maximum VHD size	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+VHD service	packet assembly	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+VHDL construct	type	1	1	3	3	0.500000000000	NULL	NULL	1901	750	0.00017534630896019637
+VHDL construct	signal assignment	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+VHDL construct	variable assignment	1	1	3	3	0.500000000000	NULL	NULL	28	8	0.011904761904761904
+VHDL feature	overflow checking	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHDL many mathematical function	log10	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+VHDL signal	input	1	1	1	1	NULL	NULL	NULL	400	219	0.0025
+VHDL tool	simulator	2	1	2	1	NULL	NULL	NULL	150	97	0.013333333333333334
+VHDL type	standard logic vector	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHDL wait construct	wait-for statement	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHDLconstructs	selected signal assignment statement	1	1	1	1	NULL	NULL	NULL	1	1	1
+vhdltheinitial condition	location of the weight	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHE transient source	active galaxy	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+vhec exhibit	Open Hearts-Closed Doors	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vhecexhibits	Open Hearts-Closed Doors	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vhf channel	empty vhf channel	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VHF component	CRT-21 single-channel transmitter	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHF frequency	60 MHz	2	2	4	3	0.500000000000	NULL	NULL	2	1	0.5
+VHF frequency	240 MHz frequencies used in military communication	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+VHF frequency	WX	1	1	4	3	0.500000000000	NULL	NULL	6	6	0.041666666666666664
+VHF high antenna	Winegard YA-1713	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VHF radio	Standard Horizon CPV350	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vhf radio	tactical vhf radio	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VHF signal	TV	1	1	1	1	NULL	NULL	NULL	3776	1346	0.00026483050847457627
+VHF's	CCHF	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VHF-HI antenna	Winegard YA-1713 VHF-HI	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHFA staff	Maura Collins	2	1	2	1	NULL	NULL	NULL	2	1	1
+vhhscott forum's feature	frame	1	1	1	1	NULL	NULL	NULL	1466	688	0.0006821282401091405
+VHLLsinusetoday	Tcland Perl	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+VHMS prospect	Rookwood	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+VHP leader	Ashok Singhal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VHP leader	Praveen Togadia	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+VHP outreach product	map	1	1	2	2	NULL	NULL	NULL	4332	1570	0.00011542012927054478
+VHP outreach product	booklet	1	1	2	2	NULL	NULL	NULL	592	274	0.0008445945945945946
+VHR manufacture vintage automobile headlight	Lucas P100	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHS children's video	Sesame Street	1	1	1	1	NULL	NULL	NULL	234	120	0.004273504273504274
+VHS defensive back	Maurice Moyer	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VHS defensive back	Colin Lepley	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VHS defensive back	Parker Bolton	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VHS domain protein	Hrs	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+VHS packaging supply	album	1	1	3	3	NULL	NULL	NULL	589	238	0.0005659309564233163
+VHS packaging supply	sleeve	1	1	3	3	NULL	NULL	NULL	339	183	0.000983284169124877
+VHS packaging supply	mailer	1	1	3	3	NULL	NULL	NULL	136	81	0.0024509803921568627
+VHS player	VHS camcorder	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VHS player	VCR	1	1	2	2	NULL	NULL	NULL	573	216	0.0008726003490401396
+VHS subformats	S-VHS	1	1	1	1	1.000000000000	NULL	NULL	16	13	0.0625
+vhs tape	rare vhs tape	1	1	3	3	0.333333333333	NULL	NULL	2	2	0.16666666666666666
+VHS tape	Titantic	1	1	3	3	0.333333333333	NULL	NULL	7	6	0.047619047619047616
+VHS tape	movie	1	1	3	3	0.333333333333	NULL	NULL	4206	1513	0.00007925186241876683
+vhs-sponsored activity	field trip	2	2	8	4	NULL	NULL	NULL	1572	496	0.0003180661577608143
+vhs-sponsored activity	members-only website forum	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+vhs-sponsored activity	educational co-op group	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+vhs-sponsored activity	social event	2	2	8	4	NULL	NULL	NULL	283	149	0.0017667844522968198
+VHS-to-DVD unit	easy-to-use Panasonic DMR-ES35VS	1	1	1	1	NULL	NULL	NULL	1	1	1
+VHTR component	gas circulators	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VHTR component	high-temperature valve	1	1	2	2	NULL	NULL	NULL	1	1	0.5

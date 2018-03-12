@@ -1,0 +1,65 @@
+Mw	Ile a la Crosse	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MW advocate	David Deutsch	2	2	2	1	NULL	NULL	NULL	8	5	0.25
+MW electronic talking series	Spirit in the coffin	1	1	1	1	NULL	NULL	NULL	1	1	1
+MW peaking-load unit	natural gas	1	1	1	1	NULL	NULL	NULL	3647	920	0.00027419797093501506
+MW power plant	proposed for Indonesia	1	1	1	1	NULL	NULL	NULL	1	1	1
+MW private project payment factor	amount of the initial capital investment	1	1	1	1	NULL	NULL	NULL	1	1	1
+MW program option	sport	1	1	1	1	NULL	NULL	NULL	7765	2042	0.000128783000643915
+MW wind turbine	V80	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MW wind turbine machine	Vestas V66	1	1	1	1	NULL	NULL	NULL	1	1	1
+MW-standards	asphaltene	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+mw-susceptible material	graphite	2	2	2	1	NULL	NULL	NULL	1564	575	0.0012787723785166241
+mw2 hardcore game mode	hq	1	1	2	2	NULL	NULL	NULL	35	27	0.014285714285714285
+mw2 hardcore game mode	search	1	1	2	2	NULL	NULL	NULL	1516	675	0.00032981530343007914
+MW2 mechanic	noise level	1	1	1	1	0.500000000000	NULL	NULL	240	93	0.004166666666666667
+MW2 notable map	Terminal	1	1	3	3	0.500000000000	NULL	NULL	590	257	0.0005649717514124294
+MW2 notable map	Highrise	1	1	3	3	0.500000000000	NULL	NULL	21	18	0.015873015873015872
+MW2 notable map	Skidrow	1	1	3	3	0.500000000000	NULL	NULL	8	3	0.041666666666666664
+MW2 type gun	assault rifles at sites like www.gunbroker.com	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MW2 type gun	sniper	1	1	2	2	NULL	NULL	NULL	99	55	0.005050505050505051
+MWAprojects	Chestnut Court in Oakland	1	1	1	1	NULL	NULL	NULL	1	1	1
+mwattsfor simple application	digital camera for video conferencing	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWBE firm	Documentation Strategies of Rensselaer	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWC school	Brigham Young	1	1	2	2	NULL	NULL	NULL	55	32	0.00909090909090909
+MWC school	wy	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+MWC star	nation's leading scorer Ruben Douglas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MWC star	Uche Nsonwu-Amadi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MWC team	BYU	1	1	3	3	0.500000000000	NULL	NULL	71	28	0.004694835680751174
+MWC team	Utah	1	1	3	3	0.500000000000	NULL	NULL	1404	206	0.00023741690408357073
+mwc team	top mwc team	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+MWCNTs-dispersed-matrix	thermoset	1	1	1	1	0.666666666666	NULL	NULL	16	14	0.0625
+MWD member agency	Central Basin	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+MWD project component	S-355 structure	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWD system	MWD mud pulse telemetry system	2	2	2	1	NULL	NULL	NULL	2	1	1
+MWD team	Staff Sgt. Streichert	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWD tool	PowerPulse tool	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+MWD tool	Pulse Modules	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+mweb feature	Bulk SMS	1	1	3	3	1.000000000000	NULL	NULL	15	8	0.02222222222222222
+mweb feature	300 FREE WiFi minute	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+mweb feature	MTALK	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MWF information	meeting minute	1	1	1	1	NULL	NULL	NULL	246	101	0.0040650406504065045
+MWF type	straight	1	1	1	1	NULL	NULL	NULL	194	97	0.005154639175257732
+MWFs	Shell Sitala	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MWFs	Shell Adrana	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MWHS specification	system sensitivity	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+MWHS specification	receiver linearity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MWI outreach activity	Mobile Internet World mid November	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWR activity	aero club	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWR community recreation division activity	Miniature Golf	2	1	4	3	NULL	NULL	NULL	220	80	0.004545454545454545
+MWR community recreation division activity	OutdoorRecreation facility	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+MWR community recreation division activity	Outdoor Recreation facility	1	1	4	3	NULL	NULL	NULL	3	3	0.08333333333333333
+MWR employee	bartender	1	1	1	1	NULL	NULL	NULL	226	93	0.004424778761061947
+MWR facility	golf course	3	2	9	7	0.250000000000	NULL	NULL	1562	690	0.0006402048655569782
+MWR facility	television trailer	1	1	9	7	0.250000000000	NULL	NULL	1	1	0.1111111111111111
+MWR facility	club	1	1	9	7	0.250000000000	NULL	NULL	1493	622	0.00007442137381856069
+MWR facility	shaded picnic	1	1	9	7	0.250000000000	NULL	NULL	1	1	0.1111111111111111
+MWR facility	Destin Recreation Area	1	1	9	7	0.250000000000	NULL	NULL	1	1	0.1111111111111111
+MWR facility	gym	1	1	9	7	0.250000000000	NULL	NULL	2236	677	0.000049691910157026436
+MWR facility	hobby shop	1	1	9	7	0.250000000000	NULL	NULL	18	16	0.006172839506172839
+MWR program	recreation facility	1	1	2	3	NULL	NULL	NULL	106	68	0.0047169811320754715
+MWR program	childcare	1	1	2	3	NULL	NULL	NULL	1162	432	0.0004302925989672978
+MWRA facility	CSO facility	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWRI initiative	tile drain installation	1	1	1	1	NULL	NULL	NULL	1	1	1
+mwsc's development project	Collective Voices	1	1	1	1	NULL	NULL	NULL	1	1	1
+MWSS creditor	World Bank	1	1	1	1	NULL	NULL	NULL	5405	899	0.00018501387604070305
+MWVs	Microdot	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091

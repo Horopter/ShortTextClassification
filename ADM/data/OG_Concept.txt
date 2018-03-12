@@ -1,0 +1,164 @@
+OG color	black	1	1	1	1	NULL	NULL	NULL	7897	1968	0.00012663036596175764
+OG dancer	Tony Go-Go	1	1	1	1	NULL	NULL	NULL	1	1	1
+OG kush offshoot	Bubba Kush	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+OGA tool	Ranchos Los Amigos Medical Center form	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogaden clan lineage	Makahil	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ogaden sub-clans	Awlyahan	1	1	1	1	NULL	NULL	NULL	1	1	1
+oganisations	Chitsime Orphan Care	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oganisations	Ranchers-Cattlemen Action Legal Fund	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oganisations	Multi-cultural Resource Centre	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oganisations	St Charles Lwanga CEPARUM	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oganisations	Northern Ireland Council for Ethnic Minorities	1	1	5	5	NULL	NULL	NULL	5	3	0.04
+oganization	Startfor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oganization	JDW	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Oganizations	Rocky Mountain Inistitute	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Oganizations	California State Parks Foundation	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+Oganizations	CPAWS	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+ogboni textile	logbon	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogbu focused onmacrosystem process	societal discrimination	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+OGC compliant initiative	Marine Geospatial Data Infrastructure DFO geoportal	1	1	1	1	NULL	NULL	NULL	1	1	1
+OGC datum service	WCS	1	1	2	2	NULL	NULL	NULL	31	18	0.016129032258064516
+OGC datum service	WFS implementation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OGC document	transmittal memorandum	2	1	2	1	NULL	NULL	NULL	2	1	1
+OGC interoperability standard	WMS	2	2	4	3	1.000000000000	NULL	NULL	58	39	0.017241379310344827
+OGC interoperability standard	Web Feature Service	1	1	4	3	1.000000000000	NULL	NULL	8	5	0.03125
+OGC interoperability standard	Web Map Service	1	1	4	3	1.000000000000	NULL	NULL	5	4	0.05
+OGC opengis webservice definition	WMS for map	1	1	1	1	NULL	NULL	NULL	1	1	1
+OGC service	WMS	5	4	20	10	0.750000000000	NULL	NULL	58	39	0.021551724137931036
+OGC service	WCS	4	4	20	10	0.750000000000	NULL	NULL	31	18	0.025806451612903226
+OGC service	SOS	2	2	20	10	0.750000000000	NULL	NULL	97	48	0.002061855670103093
+OGC service	WMS providing the overview map	2	2	20	10	0.750000000000	NULL	NULL	2	1	0.1
+OGC service	WFS	2	2	20	10	0.750000000000	NULL	NULL	27	20	0.007407407407407408
+ogc service	standard ogc service	1	1	20	10	0.750000000000	NULL	NULL	1	1	0.05
+OGC service	OpenLS Directory Service for searching for facility	1	1	20	10	0.750000000000	NULL	NULL	1	1	0.05
+OGC service	OpenLS Geocoder for searching for location	1	1	20	10	0.750000000000	NULL	NULL	1	1	0.05
+OGC service	OpenLS Geo-coder for searching for location	1	1	20	10	0.750000000000	NULL	NULL	1	1	0.05
+OGC service	OpenLS Directory Service for searching for facilites	1	1	20	10	0.750000000000	NULL	NULL	1	1	0.05
+OGC standard	WFS	4	3	19	13	1.000000000000	NULL	NULL	27	20	0.031189083820662766
+OGC standard	WMS	3	2	19	13	1.000000000000	NULL	NULL	58	39	0.008166969147005444
+OGC standard	Web Map Service	2	2	19	13	1.000000000000	NULL	NULL	5	4	0.042105263157894736
+OGC standard	groundwaterml	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard	Geography Markup Language	1	1	19	13	1.000000000000	NULL	NULL	3	3	0.017543859649122806
+OGC standard	Observations & Measurements Schema	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard	CS-W	1	1	19	13	1.000000000000	NULL	NULL	2	2	0.02631578947368421
+OGC standard	GML	1	1	19	13	1.000000000000	NULL	NULL	32	23	0.001644736842105263
+OGC standard	Open Location Services	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard	OpenGIS Style Layer Descriptor Implementation Specification used in the OWS-4 demo	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard	Sensor Web Enablement standard	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard	Open GeoSMS	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard	prototype Feature Portrayal Service	1	1	19	13	1.000000000000	NULL	NULL	1	1	0.05263157894736842
+OGC standard format	GML	1	1	1	1	1.000000000000	NULL	NULL	32	23	0.03125
+OGC standard service	SOS	1	1	1	1	NULL	NULL	NULL	97	48	0.010309278350515464
+OGC web service	WMS	2	2	7	5	1.000000000000	NULL	NULL	58	39	0.009852216748768473
+OGC web service	WCS	2	2	7	5	1.000000000000	NULL	NULL	31	18	0.018433179723502304
+OGC web service	Web Feature Service	1	1	7	5	1.000000000000	NULL	NULL	8	5	0.017857142857142856
+OGC web service	Web Coverage Service	1	1	7	5	1.000000000000	NULL	NULL	4	4	0.03571428571428571
+OGC web service	WFS	1	1	7	5	1.000000000000	NULL	NULL	27	20	0.005291005291005291
+OGC working group	Mass Market DWG	1	1	1	1	NULL	NULL	NULL	1	1	1
+OGC's testbeds	Web Mapping Testbeds	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogc-compliant client product	MapInfo Professional v8.0	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogc-compliant server	GeoServer	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+OGCservices	Web Coverage Service	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+OGCservices	Web Features Service	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OGD requirement	Import Permits	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OGD requirement	CFIA	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+OGD requirement	SIMA	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+OGDCL asset	database on exploration	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OGDCL asset	capability for seismic survey	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogden business	Ogden Blue	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogden family member	Dr. Field	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ogden family member	Ann Ogden	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ogden family member	Roger Ogden with Ken Barnes	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ogden valley campground	Jefferson Hunt	1	1	1	1	NULL	NULL	NULL	1	1	1
+OGDs	Canadian Food Inspection Agency	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+OGE component	SPS Database Servers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OGE component	Sensor Processing System	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OGE technology	micro-hydro	1	1	1	1	1.000000000000	NULL	NULL	20	12	0.05
+ogeicearthworms	Aporrectodea species	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ogen's early work	pot	1	1	1	1	NULL	NULL	NULL	1310	522	0.0007633587786259542
+ogenes	src	1	1	2	2	NULL	NULL	NULL	124	51	0.004032258064516129
+ogenes	ras	1	1	2	2	NULL	NULL	NULL	265	90	0.0018867924528301887
+ogenic factor	water chemism	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogenic factor	temperature	1	1	2	2	NULL	NULL	NULL	21509	4199	0.0000232460830350086
+ogenous proteases	lysosomal catheps in	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogenous proteases	proteases of parasite	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+OGF standard	GLUE 2.0	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogg format	standard	1	1	1	1	NULL	NULL	NULL	1207	561	0.0008285004142502071
+ogg player	VLC media player	1	1	1	1	1.000000000000	NULL	NULL	85	33	0.011764705882352941
+OGG1 homologs	yeast OGG1	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogic variable	endocrine	1	1	2	2	NULL	NULL	NULL	92	46	0.005434782608695652
+ogic variable	immune response	1	1	2	2	NULL	NULL	NULL	127	66	0.003937007874015748
+ogical -metric	index of biological integrity	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+ogical control insect	seed head weevil	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+ogical factor	distribution	1	1	6	6	0.200000000000	NULL	NULL	1800	744	0.00009259259259259259
+ogical factor	size	1	1	6	6	0.200000000000	NULL	NULL	44267	2716	0.0000037650318898201065
+ogical factor	species abundance	1	1	6	6	0.200000000000	NULL	NULL	20	18	0.008333333333333333
+ogical factor	diversity	1	1	6	6	0.200000000000	NULL	NULL	1194	425	0.00013958682300390843
+ogical factor	temperature	1	1	6	6	0.200000000000	NULL	NULL	21509	4199	0.000007748694345002867
+ogical factor	human-use pattern	1	1	6	6	0.200000000000	NULL	NULL	1	1	0.16666666666666666
+ogical figure	Venus	1	1	2	2	NULL	NULL	NULL	219	121	0.00228310502283105
+ogical figure	Hercules	1	1	2	2	NULL	NULL	NULL	255	133	0.00196078431372549
+ogical network	signal transduction	1	1	2	2	NULL	NULL	NULL	154	67	0.003246753246753247
+ogical network	metabolism	1	1	2	2	NULL	NULL	NULL	664	234	0.0007530120481927711
+ogical process	adhesion	1	1	5	5	NULL	NULL	NULL	527	210	0.0003795066413662239
+ogical process	immune response	1	1	5	5	NULL	NULL	NULL	127	66	0.0015748031496062994
+ogical process	cell migration	1	1	5	5	NULL	NULL	NULL	89	49	0.0022471910112359553
+ogical process	cell growth	1	1	5	5	NULL	NULL	NULL	128	64	0.0015625
+ogical process	angiogenesis	1	1	5	5	NULL	NULL	NULL	167	83	0.0011976047904191617
+ogical stimulus	cytokines	1	1	2	2	NULL	NULL	NULL	1090	413	0.00045871559633027525
+ogical stimulus	inter fer -on	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ogilvy-stuart infertility risk factor	infection	1	1	1	1	NULL	NULL	NULL	5942	1309	0.0001682935038707506
+ogilvyaction client	Kodak	1	1	1	1	NULL	NULL	NULL	969	335	0.0010319917440660474
+ogilvyinteractive client	IBM	1	1	3	3	NULL	NULL	NULL	11151	2595	0.000029892685259916896
+ogilvyinteractive client	Kodak	1	1	3	3	NULL	NULL	NULL	969	335	0.0003439972480220158
+ogilvyinteractive client	Ford	1	1	3	3	NULL	NULL	NULL	4256	1161	0.00007832080200501253
+ogio golf bag	Atlas cart bag	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+OGIS operator	Difference	1	1	1	1	NULL	NULL	NULL	154	78	0.006493506493506494
+ogival design	sharp pointed design	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ogl game	``variant'' ogl game	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oglala writer	Delphine Red Shirt Severt Young Bear	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oglala writer	Mark Monroe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogletree's criminal pal	Danny Greene	1	1	1	1	NULL	NULL	NULL	1	1	1
+ognitive skill	tool use	1	1	2	2	1.000000000000	NULL	NULL	23	16	0.021739130434782608
+ognitive skill	syntactical language	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ognitive state	working memory	1	1	3	3	NULL	NULL	NULL	218	111	0.0015290519877675841
+ognitive state	arousal	1	1	3	3	NULL	NULL	NULL	116	63	0.0028735632183908046
+ognitive state	workload	1	1	3	3	NULL	NULL	NULL	380	138	0.0008771929824561403
+ognitivetraits	learning	1	1	1	1	NULL	NULL	NULL	1173	475	0.0008525149190110827
+ogo component	display screen	1	1	3	3	0.666666666666	NULL	NULL	83	47	0.004016064257028112
+ogo component	Bluetooth chip	1	1	3	3	0.666666666666	NULL	NULL	5	5	0.06666666666666667
+ogo component	sound chip	1	1	3	3	0.666666666666	NULL	NULL	5	4	0.06666666666666667
+ogographic writing system	Chinese	1	1	1	1	NULL	NULL	NULL	3640	991	0.0002747252747252747
+Ogon koi fish	Nezu	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Ogon koi fish	Orenji	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogon type	Kuro Ogon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogon type	metal dark koi fish	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogoni activist	Ken Serowiwa	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogr-supported database format	Oracle	2	2	2	1	NULL	NULL	NULL	4631	1430	0.0004318721658389117
+ogrampr	Family Reconnect	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogramsofother measured quantity	polarimetric variable	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogramsofother measured quantity	Doppler spectral width	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogranic matter	soybean flour	1	1	2	2	1.000000000000	NULL	NULL	22	14	0.022727272727272728
+ogranic matter	cotton seed meal	1	1	2	2	1.000000000000	NULL	NULL	30	25	0.016666666666666666
+ogranisations	swinger internet ogranisations	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ographic characteristic	race	1	1	1	1	NULL	NULL	NULL	8280	1787	0.00012077294685990338
+ographic comparison	usual age	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogre	Kumbhakarna	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+ogre	big, bad ogre	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ogre class	Vector	1	1	2	2	NULL	NULL	NULL	487	243	0.001026694045174538
+ogre class	Quaternion	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+ogre demo	Stonehenge Ogre 3d demo	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogre related medium	Ogre logo	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogre system	animation interpolators	1	1	1	1	NULL	NULL	NULL	1	1	1
+ogremax export setting	time scaling	1	1	1	1	0.500000000000	NULL	NULL	8	6	0.125
+OGS	BWS	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+OGS contract item	copier	1	1	3	3	NULL	NULL	NULL	1675	419	0.0001990049751243781
+OGS contract item	fax machine	1	1	3	3	NULL	NULL	NULL	1333	448	0.0002500625156289072
+OGS contract item	personal computer	1	1	3	3	NULL	NULL	NULL	2291	756	0.00014549687181725592
+OGSA compliant service browser	ICENI Netbeans Environment	1	1	1	1	NULL	NULL	NULL	1	1	1
+OGSRs	methyl centralite	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+ogunkoya used parameter	annualruno	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ogunkoya used parameter	runocoecient	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ogunkoya used parameter	flow variability index	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oguzhan product	steel construction formwork	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oguzhan product	telescopic prop	1	1	2	2	NULL	NULL	NULL	2	2	0.25

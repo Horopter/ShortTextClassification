@@ -1,0 +1,62 @@
+ks	cross-selling ban ks	1	1	11	11	0.666666666666	NULL	NULL	2	2	0.045454545454545456
+ks	diluted Ribena	1	1	11	11	0.666666666666	NULL	NULL	1	1	0.09090909090909091
+ks	Michelangelo's David	1	1	11	11	0.666666666666	NULL	NULL	19	12	0.004784688995215311
+ks	Picasso's Guernica	1	1	11	11	0.666666666666	NULL	NULL	14	6	0.006493506493506494
+ks	Leonardo's The Last Supper	1	1	11	11	0.666666666666	NULL	NULL	5	2	0.01818181818181818
+ks	Giotto's Arena Chapel	1	1	11	11	0.666666666666	NULL	NULL	7	2	0.012987012987012988
+ks	Van Eyck's Ghent Altarpiece	1	1	11	11	0.666666666666	NULL	NULL	7	3	0.012987012987012988
+ks	Van Gogh's The Starry Night	1	1	11	11	0.666666666666	NULL	NULL	5	2	0.01818181818181818
+ks	dog	1	1	11	11	0.666666666666	NULL	NULL	7516	1309	0.000012095408582901931
+ks	Vermeer's View of Delft	1	1	11	11	0.666666666666	NULL	NULL	3	2	0.030303030303030304
+ks	wireless multi-hop networ ks	1	1	11	11	0.666666666666	NULL	NULL	1	1	0.09090909090909091
+KS product	Vacuum Filler P9	1	1	1	1	NULL	NULL	NULL	1	1	1
+KS2 math resource	shape	1	1	2	2	NULL	NULL	NULL	3964	1303	0.00012613521695257316
+KS2 math resource	area	1	1	2	2	NULL	NULL	NULL	1176	540	0.00042517006802721087
+KS3 topic	warfare	1	1	2	3	0.333333333333	NULL	NULL	156	82	0.003205128205128205
+KS3 topic	knight	1	1	2	3	0.333333333333	NULL	NULL	207	110	0.0024154589371980675
+ksar building	Ksar Haddada	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ksar building	Ksar Hallouf	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ksar building	Ksar Ouled Soltane	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KSC controlled drawing	system schematic	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+KSC offering	Lunch with an Astronaut	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+KSC offering	Astronaut Training Experience	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+KSC outlying system	MCC-H	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+KSC outlying system	ETR	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+ksc-originated briefing	countdown status briefing	1	1	1	1	NULL	NULL	NULL	1	1	1
+KSDE resource	Just for Parents resource	1	1	1	1	NULL	NULL	NULL	1	1	1
+KSEA headquarters program	internship	1	1	4	4	NULL	NULL	NULL	875	375	0.00028571428571428574
+KSEA headquarters program	Young Generation forum	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KSEA headquarters program	annual US-Korea Conferences	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KSEA headquarters program	scholarship	1	1	4	4	NULL	NULL	NULL	868	353	0.0002880184331797235
+KSEB section	Palluruthy	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KSEB section	Palarivattom	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KSEB section	Vyttila	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KSEB section	Mattancherry	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KSERC consumer group	Merchant Associations	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KSERC consumer group	HT & EHT Consumers Association	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KSERC consumer group	Small Scale Industries Association	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KSFs	vertical integrating bottler	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kshatriya	Rajput	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+kshatriya regiment	Jat Regiments	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kshatriya regiment	Rajputana Rifles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kshetrams	Gaya	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+kshetrams	Badri	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+KSHV gene	viral interleukin-6 homolog	1	1	1	1	NULL	NULL	NULL	1	1	1
+kshv-associated malignancy	PEL	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+kshv-associated malignancy	KS	1	1	2	2	1.000000000000	NULL	NULL	40	28	0.0125
+KSI-C use resource	chart	1	1	2	2	0.333333333333	NULL	NULL	2668	849	0.0001874062968515742
+KSI-C use resource	diagram	1	1	2	2	0.333333333333	NULL	NULL	1291	433	0.0003872966692486445
+KSN supportive service	respite	1	1	1	1	NULL	NULL	NULL	146	64	0.00684931506849315
+KSP inhibitor	monastrol	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+kspecialty retailer	Gap	1	1	3	3	0.333333333333	NULL	NULL	1911	667	0.00017442874585731728
+kspecialty retailer	Toys-R-Us	1	1	3	3	0.333333333333	NULL	NULL	34	21	0.00980392156862745
+kspecialty retailer	Limited	1	1	3	3	0.333333333333	NULL	NULL	174	92	0.0019157088122605363
+KSS retail customer	Raley's	1	1	1	1	1.000000000000	NULL	NULL	22	13	0.045454545454545456
+kstcontainsmany powerful built-in feature	robust plotting of live streaming datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+ksu's new project	girls campus	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ksu's new project	college	1	1	4	4	NULL	NULL	NULL	1862	711	0.0001342642320085929
+ksu's new project	faculty housing	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+ksu's new project	KSU Endowments	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ksu's study-abroad offering	new social work program in Argentina	1	1	1	1	NULL	NULL	NULL	1	1	1
+KSWA megastars	La Lucha	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KSWA megastars	Justin Sane	1	1	2	2	NULL	NULL	NULL	2	2	0.25

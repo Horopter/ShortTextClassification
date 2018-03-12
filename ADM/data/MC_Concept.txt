@@ -1,0 +1,768 @@
+mc	P money	1	1	3	3	0.800000000000	NULL	NULL	7	6	0.047619047619047616
+mc	Skillz	1	1	3	3	0.800000000000	NULL	NULL	10	7	0.03333333333333333
+mc	memory card mc	1	1	3	3	0.800000000000	NULL	NULL	1	1	0.3333333333333333
+MC advantage product	Front Ends	1	1	1	3	NULL	NULL	NULL	2	2	0.5
+MC allergic response	chemokine production	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+MC allergic response	leukotriene	1	1	2	2	1.000000000000	NULL	NULL	4	6	0.125
+MC andautoimmune disorder	immune thrombocytopenia	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+MC andautoimmune disorder	autoimmune hemolyt ic anemia	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MC circuit	18MC used for ship's control	1	1	1	1	NULL	NULL	NULL	1	1	1
+mc clatchy co. newspaper	Sacramento Bee	1	1	2	2	1.000000000000	NULL	NULL	17	13	0.029411764705882353
+mc clatchy co. newspaper	Modesto Bee	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+MC competitor	Avalon Organics	2	2	2	1	0.500000000000	NULL	NULL	15	10	0.13333333333333333
+MC component	histamine	1	1	2	2	NULL	NULL	NULL	695	212	0.0007194244604316547
+MC component	heparin	1	1	2	2	NULL	NULL	NULL	1158	314	0.0004317789291882556
+MC different event	concert	1	1	4	4	0.250000000000	NULL	NULL	3379	894	0.0000739863865048831
+MC different event	pageant	1	1	4	4	0.250000000000	NULL	NULL	63	23	0.003968253968253968
+MC different event	wedding	1	1	4	4	0.250000000000	NULL	NULL	9942	1590	0.000025145845906256287
+MC different event	coronation	1	1	4	4	0.250000000000	NULL	NULL	124	46	0.0020161290322580645
+MC event	World Future Energy Summit in Abu Dhabi	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC ingredient	dregs of rape seed	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC invasive infection	bacteremia	1	1	1	1	NULL	NULL	NULL	175	81	0.005714285714285714
+MC many african leader	Jomo Kenyatta	1	1	2	2	1.000000000000	NULL	NULL	18	14	0.027777777777777776
+MC many african leader	Nasser	1	1	2	2	1.000000000000	NULL	NULL	18	14	0.027777777777777776
+MC mediator	IL-6	1	1	1	1	NULL	NULL	NULL	820	218	0.0012195121951219512
+MC numerous event	motorcycle event Ride for Dad	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC oil	BelRay	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC opponent	Avalon Organics	1	1	1	1	0.500000000000	NULL	NULL	15	10	0.06666666666666667
+MC quality	ear tuft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MC quality	big fat foot	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MC racer	Moto GP	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+MC related event	multipolar division	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC series master clock	MC4181 Rack Mount	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC statewide program	Biotechnology	1	1	1	1	NULL	NULL	NULL	1653	501	0.0006049606775559589
+mc statistic	mean	1	1	1	1	NULL	NULL	NULL	2802	701	0.00035688793718772306
+MC strategy	global motion compensation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MC strategy	sprite motion compensation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MC student	Niko Molinar	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC talent	Aesop Rock	2	2	2	1	0.500000000000	NULL	NULL	26	16	0.07692307692307693
+MC technique	MC estimates of definite integral	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MC technique	Markov chain model	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+MC variance reduction technique	particles splitting	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+MC variance reduction technique	Russian roulette	1	1	2	2	1.000000000000	NULL	NULL	21	17	0.023809523809523808
+mc'd event	Australian of the Year nomination	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+mc'd event	Diabetes Buzz Ball in Sydney	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+mc'd event	Oakes Day Ladies lunch in Melbourne	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+MC-6850 ACIA Most peripheral s	terminal s	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+MC-6850 ACIA Most peripheral s	printer	1	1	2	2	NULL	NULL	NULL	6991	1667	0.00007152052639107424
+MC-CDMA code	Walsh-Hadammard	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MC-CDMA code	Orthogonal Gold	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MC-CDMA code	Zadoff-Chu	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mc-cytoreductive therapy	interferon-alpha	1	1	1	1	NULL	NULL	NULL	50	21	0.02
+mc-dependent inflammatory process	histamine-mediated vasodilation	1	1	1	1	NULL	NULL	NULL	1	1	1
+mc-derived factor	IL-4	1	1	1	1	NULL	NULL	NULL	535	129	0.001869158878504673
+mc-derived mediator	tumor necrosis factor	1	1	6	7	0.500000000000	NULL	NULL	428	110	0.0003894080996884735
+mc-derived mediator	tryptase	1	1	6	7	0.500000000000	NULL	NULL	55	23	0.0030303030303030303
+mc-derived mediator	transforming growth factor	1	1	6	7	0.500000000000	NULL	NULL	67	25	0.0024875621890547263
+mc-derived mediator	histamine	1	1	6	7	0.500000000000	NULL	NULL	695	212	0.0002398081534772182
+mc-derived mediator	stem cell factor	1	1	6	7	0.500000000000	NULL	NULL	50	17	0.003333333333333333
+mc-derived mediator	chymase	1	1	6	7	0.500000000000	NULL	NULL	16	12	0.010416666666666666
+mc-derived product	heparin	1	1	2	2	NULL	NULL	NULL	1158	314	0.0004317789291882556
+mc-derived product	histamine	1	1	2	2	NULL	NULL	NULL	695	212	0.0007194244604316547
+mc-derived substance	histamine	1	1	1	1	NULL	NULL	NULL	695	212	0.0014388489208633094
+MC-ICP-MS technique	in-situ Hf	1	1	1	1	NULL	NULL	NULL	1	1	1
+MC02 FOM interaction	weapon fire	1	1	2	2	NULL	NULL	NULL	11	4	0.045454545454545456
+MC02 FOM interaction	collision	1	1	2	2	NULL	NULL	NULL	374	190	0.001336898395721925
+MC2 datum	alarm	1	1	2	2	0.500000000000	NULL	NULL	1762	665	0.00028376844494892167
+MC2 datum	real-time waveforms	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+MC4-R mediated disease	type II diabetes	2	2	5	3	NULL	NULL	NULL	262	115	0.0030534351145038168
+MC4-R mediated disease	obesity	2	2	5	3	NULL	NULL	NULL	7193	1475	0.00011121924092868067
+MC4-R mediated disease	eating disorder	1	1	5	3	NULL	NULL	NULL	906	296	0.0002207505518763797
+mc68xxx family member	MC68020	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MC9S12XHY256 target	DEMO9S12XHY256 demo board	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCA category C water	Solent	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+MCA conference	International Robots	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCA customer	Lockheed	1	1	3	3	NULL	NULL	NULL	189	76	0.001763668430335097
+MCA customer	Cisco Systems	1	1	3	3	NULL	NULL	NULL	939	317	0.0003549875754348598
+MCA customer	Boeing	1	1	3	3	NULL	NULL	NULL	2227	558	0.00014967819188744198
+MCA leader	Lee Kim Sai	2	2	9	8	1.000000000000	NULL	NULL	2	1	0.2222222222222222
+MCA leader	MP for Petaling Jaya Utara	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA leader	Chew Mei Fun	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA leader	Lee San Choon	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA leader	Neo Yee Pan	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA leader	Ng Choon Kiat	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA leader	Michael Chen	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA leader	MP for Ayer Hitam	1	1	9	8	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MCA notebook	Toughbook H1	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCA spectrum format	Canberra S100	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCA technique	Goal Programming	1	1	3	3	1.000000000000	NULL	NULL	23	15	0.014492753623188404
+MCA technique	Goal Achievement Matrix	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MCA technique	Analytic Hierarchy Process	1	1	3	3	1.000000000000	NULL	NULL	52	40	0.00641025641025641
+MCA top politician	Chua Soi Lek	1	1	1	1	NULL	NULL	NULL	1	1	1
+mca's achievement	Frida Kahlo's first U.S. exhibition	1	1	1	1	NULL	NULL	NULL	1	1	1
+mca's member association	Mendocino Winegrower's Alliance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mca's member association	various Chambers of Commerce	1	1	2	2	NULL	NULL	NULL	7	4	0.07142857142857142
+mca-sponsored project	Multi-Purpose Holdings Berhad	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mca-sponsored project	cooperative movement	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+MCAA representative	John Jacobs	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+MCAD application environment	sketch	1	1	2	2	NULL	NULL	NULL	435	230	0.0011494252873563218
+MCAD application environment	part	1	1	2	2	NULL	NULL	NULL	419	215	0.0011933174224343676
+MCAD vendor	SolidWorks	1	1	2	2	NULL	NULL	NULL	118	75	0.00423728813559322
+MCAD vendor	PTC	1	1	2	2	NULL	NULL	NULL	60	38	0.008333333333333333
+mcadoo ally	John Elliott	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+mcadoo ally	law partner William Nesbitt	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MCAE tool	finite element analysis	2	2	6	4	0.500000000000	NULL	NULL	247	146	0.002699055330634278
+MCAE tool	mechanical systems simulation software	2	1	6	4	0.500000000000	NULL	NULL	2	1	0.3333333333333333
+MCAE tool	3D modeling	2	2	6	4	0.500000000000	NULL	NULL	84	64	0.007936507936507936
+mcafee application	McAfee's Personal Firewall Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcafee component	VirusScan	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+mcafee consumer product	McAfee Antivirus	1	1	1	1	1.000000000000	NULL	NULL	25	13	0.04
+mcafee firewall enterprise add-on option	anti-virus	1	1	2	2	NULL	NULL	NULL	378	182	0.0013227513227513227
+mcafee firewall enterprise add-on option	intrusion prevention	1	1	2	2	NULL	NULL	NULL	117	61	0.004273504273504274
+mcafee product	McAfee Web Gateway	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+mcafee product	McAfee Email Gateway	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+mcafee product	core mcafee product	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+mcafee product	AntiSpyware 8.5	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+mcafee service	Mcafee Framework	1	0	1	1	NULL	NULL	NULL	1	1	1
+McAfee software	email	1	1	1	1	NULL	NULL	NULL	8680	2858	0.0001152073732718894
+mcafee solution	Vulnerability Manager	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcafee system	centralised ePolicy Orchestrator system	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcafee's anti-malware solution	McAfee VirusScan Plus	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MCAL team	league champion Redwood Giants	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcallen attraction	McAllen Municipal Auditorium	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+mcallen attraction	McAllen Convention Center	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+mcallen attraction	La Plaza Mall	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+mcallen attraction	Las Tiendas Shopping Center	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+mcallen attraction	El Centro Mall	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+mcallen attraction	downtown McAllen	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+mcallen business	convenience store	1	1	1	1	NULL	NULL	NULL	740	327	0.0013513513513513514
+mcallen texas record storage service	records storage	1	1	2	2	1.000000000000	NULL	NULL	163	161	0.003067484662576687
+mcallen texas record storage service	self-storage	1	1	2	2	1.000000000000	NULL	NULL	170	167	0.0029411764705882353
+mcallister site major influence	Dirk Ivens of Dive	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mcallister site major influence	Skinny Puppy	1	1	2	2	1.000000000000	NULL	NULL	33	16	0.015151515151515152
+MCAM inhibitor	antibody	1	1	1	1	NULL	NULL	NULL	1356	479	0.0007374631268436578
+MCAs	Al Amana	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+MCAs	LANLM 3 CA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCAS base	Miramar	1	1	2	2	1.000000000000	NULL	NULL	35	19	0.014285714285714285
+MCAS base	Futenma	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MCAT class	kaplan	1	1	1	1	NULL	NULL	NULL	277	156	0.0036101083032490976
+MCAT material	Audio Osmosis	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcat prep book	Kaplan	1	1	1	1	0.500000000000	NULL	NULL	277	156	0.0036101083032490976
+MCAT study guide	Kaplan MCAT Review	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcauley-sponsored event	dorm dinner	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCB & Distribution board	Tested Power Distribution Board	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+MCB academic advisor	Professors Tariq Modood	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCB distribution board	industrial mcb distribution board	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MCB distribution board	power distribution board	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+MCB distribution board	moulded plastic MCB Distribution Boards	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MCB distribution board	smc distribution board	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MCB setting	high voltage	1	1	1	1	1.000000000000	NULL	NULL	48	39	0.020833333333333332
+MCBCS access parameter	MCID s	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCBCS access parameter	MBS Zone ID s	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCC characteristic	particle size	3	3	6	4	0.250000000000	NULL	NULL	742	225	0.0020215633423180594
+MCC characteristic	porosity	1	1	6	4	0.250000000000	NULL	NULL	1317	476	0.00012655024044545685
+MCC characteristic	powder particle size	1	1	6	4	0.250000000000	NULL	NULL	17	15	0.00980392156862745
+MCC characteristic	size distribution	1	1	6	4	0.250000000000	NULL	NULL	94	52	0.0017730496453900709
+MCC class	ruthless self promotion	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCC committee	program review committee	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MCC committee	curriculum committee	1	1	3	3	1.000000000000	NULL	NULL	22	15	0.01515151515151515
+MCC committee	QEP committee	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MCC department	Curriculum & Program Development	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MCC department	Experiential & Adult Learning	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MCC department	Career Center	1	1	3	3	1.000000000000	NULL	NULL	65	43	0.005128205128205128
+MCC eagle sport	baseball	1	1	2	2	NULL	NULL	NULL	6093	1077	0.00008206138191367142
+MCC eagle sport	basketball	1	1	2	2	NULL	NULL	NULL	10932	1509	0.000045737285034760334
+MCC fund project	feasibility study	1	1	1	1	NULL	NULL	NULL	279	157	0.0035842293906810036
+MCC material	blanket	1	1	1	1	NULL	NULL	NULL	3502	1014	0.00028555111364934324
+MCC panel	power MCC panel	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCC project	restorative justice	1	1	1	1	NULL	NULL	NULL	91	47	0.01098901098901099
+MCC starter PM activity	inspection	1	1	2	2	NULL	NULL	NULL	1202	552	0.00041597337770382697
+MCC starter PM activity	cleaning	1	1	2	2	NULL	NULL	NULL	4484	1538	0.00011150758251561107
+MCC technology	Microclimate Cooling System	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCC world cricket committee member	Shaun Pollock	1	1	1	1	0.666666666666	NULL	NULL	9	6	0.1111111111111111
+mcc's goal	promoting equity	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mcc's goal	fostering economic growth	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+mccabe also interview plastic surgeon	Dr. Franklin Rose	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccafe drink	mocha	1	1	1	1	NULL	NULL	NULL	209	121	0.004784688995215311
+mccain backer	25-year-old David Haskins of Greenville	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain campaign staffer	Steve Schmidt	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mccain campaign's dirty'' tactic	celebrity ad	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain economic adviser	former eBay Chief Executive Meg Whitman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccain economic adviser	former Hewlett-Packard Chief Executive Carly Fiorina	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccain economic adviser	former Congressional Budget Office director Douglas Holtz-Eakin	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mccain family property	multimillion dollar condominium in Phoenix	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain minion	nefarious Karl Rove	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain product	McCain Wedges	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccain product	McCain Smiles	1	1	3	3	NULL	NULL	NULL	4	2	0.08333333333333333
+mccain product	McCain French Fries	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccain supporter	Lieberman	1	1	1	1	1.000000000000	NULL	NULL	19	15	0.05263157894736842
+mccain's adviser	Phil Gram	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain's fiercest critic	conservative radio host Hugh Hewitt	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain's many shortcoming	straight talk coming from a forked tongue	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccain's policy	immigration	1	1	1	1	NULL	NULL	NULL	1933	549	0.0005173305742369374
+McCain's sound and proven ideas''	going to war in Iraq	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+mccain's top-tier rival	former Massachusetts Gov. Mitt Romney	1	1	3	3	1.000000000000	NULL	NULL	24	15	0.013888888888888888
+mccain's top-tier rival	former New York Mayor Rudy Giuliani	1	1	3	3	1.000000000000	NULL	NULL	11	8	0.0303030303030303
+mccain's top-tier rival	former Tennessee Sen. Fred Thompson	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+McCainandgroups	Common Cause	1	1	1	1	NULL	NULL	NULL	129	58	0.007751937984496124
+mccall s early 16mm film	Long Film for Four Projectors	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+McCall Smith's popular series	No. 1 Ladies Detective Agency	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mccall's early 16mm film	Long Film for Four Projectors	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mccallion's cowardly backer	Pat Saito	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccallion's cowardly backer	Katie Mahoney	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mccallion's cowardly backer	Patricia Mullen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccann client	MasterCard	1	1	1	1	NULL	NULL	NULL	1619	309	0.0006176652254478073
+mccarthy issue	apathy	1	1	2	2	NULL	NULL	NULL	375	171	0.0013333333333333333
+mccarthy issue	brand loyalty	1	1	2	2	NULL	NULL	NULL	86	41	0.005813953488372093
+mccarthy's work	No Country for Old Men	1	1	2	2	0.500000000000	NULL	NULL	48	24	0.010416666666666666
+mccarthy's work	Road	1	1	2	2	0.500000000000	NULL	NULL	6806	2297	0.00007346459006758743
+mccarthy-blacklisted U.S. writer	Ian McLellan Hunter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccarthy-blacklisted U.S. writer	Waldo Salt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccarthy-blacklisted U.S. writer	Ring Lardner Jr.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccartney's solo album	Back in the World	3	3	3	1	NULL	NULL	NULL	3	1	1
+mccaughey sextuplet	Citizendium Scholarpedia Conservapedia	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccauley's supporter	Maritza Cruz	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCCB related offer	Microswitch	1	1	1	1	1.000000000000	NULL	NULL	44	30	0.022727272727272728
+MCCD recruitment scholarship	President's Scholarship	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcchanical processing skill	cast	1	1	1	1	NULL	NULL	NULL	74	46	0.013513513513513514
+mcchrystal's special-ops fighter	Army's Special Forces	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcci-controlled area	West Bengal	1	1	3	3	0.333333333333	NULL	NULL	288	47	0.0011574074074074073
+mcci-controlled area	Jharkhand	1	1	3	3	0.333333333333	NULL	NULL	145	26	0.0022988505747126436
+mcci-controlled area	Bihar	1	1	3	3	0.333333333333	NULL	NULL	471	84	0.0007077140835102618
+mcclanahan product	novelty book	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+mcclatchy property	Sierra Star	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcclatchy's spanish-language publication	El Nuevo Herald	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcclatchy-owned new outlet	Witchita Eagle	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mcclatchy-owned new outlet	Sacramento Bee	1	1	2	2	1.000000000000	NULL	NULL	17	13	0.029411764705882353
+mcclellan's belonging	car	1	1	1	1	NULL	NULL	NULL	7866	2381	0.0001271294177472667
+mccloskey feature	180	1	1	2	2	1.000000000000	NULL	NULL	21	11	0.023809523809523808
+mccloskey feature	Drum X-Change System	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mcclure support organization	Edmonton Food Banks	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+mcclure support organization	Unity Centre	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+mcclure support organization	Inner City Pastoral Ministries	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+mcclure support organization	Bissell Centre	1	1	6	6	1.000000000000	NULL	NULL	5	4	0.03333333333333333
+mcclure support organization	Youth Shelter	1	1	6	6	1.000000000000	NULL	NULL	12	10	0.013888888888888888
+mcclure support organization	Amity House	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+mccormick model	CX	1	1	2	2	1.000000000000	NULL	NULL	32	9	0.015625
+mccormick model	MTX series	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mccormick system	annual report database for faculty	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccormick tractor	grounds care	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccormick's spice	Onion Powder	1	1	1	1	NULL	NULL	NULL	120	33	0.008333333333333333
+McCormicks	John McCormick	2	1	2	1	1.000000000000	NULL	NULL	6	5	0.3333333333333333
+McCort's playmakers	Christian Leech	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+McCort's playmakers	Zach Varga	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+McCort's playmakers	Anthony Larue	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mccowan's exterior forecourt product	Utility Units	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mccowan's exterior forecourt product	Merchandisers	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+McCoy autographed memorabilia	signature photomint	1	1	1	1	1.000000000000	NULL	NULL	29	29	0.034482758620689655
+McCoy era	Remembrance of the Daleks	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mccoy's contemporary	Doctor M'Benga	1	1	1	1	NULL	NULL	NULL	1	1	1
+mccoy's key ally	Johnny Stringer	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCCs	SnS	1	1	1	1	0.600000000000	NULL	NULL	5	5	0.2
+MCCS agency	Field House	1	1	1	1	1.000000000000	NULL	NULL	16	15	0.0625
+MCCS business operation	club system	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCCS business operation	exchange	1	1	3	3	NULL	NULL	NULL	715	396	0.0004662004662004662
+MCCS business operation	theater	1	1	3	3	NULL	NULL	NULL	3253	1131	0.00010246951531919253
+MCCS department	theater	1	1	1	1	0.333333333333	NULL	NULL	3253	1131	0.0003074085459575776
+mcculley's literary creation	Crimson Clown	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcculloch's previous business venture	Malmaison	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+McCurdys	famous McCurdy's Doctor	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCCVB program	SeeMonterey.com website	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCD	periventricular nodular heterotopia	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCD product	Interior Solar Screens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCD product	Exterior Solar Screens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCD staff	chowkidar	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MCDA method	outranking method	2	1	7	7	1.000000000000	NULL	NULL	7	6	0.08163265306122448
+MCDA method	ELECTRE	1	1	7	7	1.000000000000	NULL	NULL	11	9	0.012987012987012986
+MCDA method	analytic hierarchy process	1	1	7	7	1.000000000000	NULL	NULL	52	40	0.002747252747252747
+MCDA method	multi-attribute value theory	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+MCDA method	multi-attribute utility theory	1	1	7	7	1.000000000000	NULL	NULL	9	8	0.015873015873015872
+MCDA method	paired comparison	1	1	7	7	1.000000000000	NULL	NULL	22	13	0.006493506493506493
+MCDA technique	AHP	2	2	3	2	1.000000000000	NULL	NULL	34	25	0.0392156862745098
+MCDA technique	weighted sum	1	1	3	2	1.000000000000	NULL	NULL	13	11	0.02564102564102564
+Mcdaniels	Artamasie in Bullock Al.	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdata partner	IBM	2	2	3	2	0.500000000000	NULL	NULL	11151	2595	0.00011957074103966759
+mcdata partner	Hitachi Data Systems Inc.	1	1	3	2	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+mcdata switch	Sphereon 4700	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdata's vendor-specific enhancement	Fast Write	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCDE2400AYW sport numerous feature	GentleBreeze drying system	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdermont's current attraction	rock climbing wall	1	1	1	1	NULL	NULL	NULL	76	42	0.013157894736842105
+mcdermott's personal item	backpack	1	1	2	2	NULL	NULL	NULL	1195	334	0.00041841004184100416
+mcdermott's personal item	fishing gear	1	1	2	2	NULL	NULL	NULL	315	278	0.0015873015873015873
+MCDM method	Fuzzy AHP method	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+MCDM method	AHP	1	1	4	4	1.000000000000	NULL	NULL	34	25	0.007352941176470588
+MCDM method	weighted sum model	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+MCDM method	weighted product model	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+MCDM technique	goal programming	1	1	8	8	1.000000000000	NULL	NULL	23	15	0.005434782608695652
+MCDM technique	multiplicative AHP	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+MCDM technique	CP technique	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+MCDM technique	weighted product model	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+MCDM technique	weighted sum model	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+MCDM technique	ELECTRE	1	1	8	8	1.000000000000	NULL	NULL	11	9	0.011363636363636364
+MCDM technique	aggregate voting strategy	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+MCDM technique	revised AHP	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+McDonald autographed memorabilia	trading card	1	1	3	3	0.666666666666	NULL	NULL	211	103	0.001579778830963665
+McDonald autographed memorabilia	inscribed ball	1	1	3	3	0.666666666666	NULL	NULL	33	33	0.0101010101010101
+McDonald autographed memorabilia	Olympic collectible	1	1	3	3	0.666666666666	NULL	NULL	29	29	0.011494252873563218
+mcdonald menu item	Filet-O-Fish	1	1	3	4	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+mcdonald menu item	Egg McMuffin	1	1	3	4	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+mcdonald menu item	Quarter Pounder	1	1	3	4	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+mcdonald roster agency	DDB Worldwide	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+mcdonald roster agency	Omnicom Group's TBWA Worldwide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcdonald set	Ronald Phone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcdonald set	Watch	1	1	2	2	NULL	NULL	NULL	3163	899	0.00015807777426493836
+mcdonald staple	Quarter Pounder	1	1	1	2	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+mcdonald's activity material	activity book	2	2	6	3	0.500000000000	NULL	NULL	58	35	0.011494252873563218
+mcdonald's activity material	coloring set	2	2	6	3	0.500000000000	NULL	NULL	2	1	0.3333333333333333
+mcdonald's activity material	toy	2	2	6	3	0.500000000000	NULL	NULL	5414	1538	0.00012313754463735992
+McDonald's All-Americans	Reggie Bullock	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+McDonald's All-Americans	CJ Leslie	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+McDonald's All-Americas	Julian Wright into the Jayhawks program	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+McDonald's All-Americas	Cole Aldrich	1	1	4	4	1.000000000000	NULL	NULL	8	5	0.03125
+McDonald's All-Americas	Tyrel Reed	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+McDonald's All-Americas	Mario Chalmers	1	1	4	4	1.000000000000	NULL	NULL	10	7	0.025
+mcdonald's basic menu item	chicken nugget	1	1	3	3	NULL	NULL	NULL	252	127	0.0013227513227513227
+mcdonald's basic menu item	cheeseburger	1	1	3	3	NULL	NULL	NULL	168	97	0.001984126984126984
+mcdonald's basic menu item	hamburger	1	1	3	3	NULL	NULL	NULL	1747	586	0.00019080328181644724
+mcdonald's character	Hamburglar	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+mcdonald's commercial	ones based on Ronald McDonald	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonald's competitor	Wendy's	4	4	13	7	0.333333333333	NULL	NULL	455	157	0.002704987320371936
+mcdonald's competitor	Burger King	3	3	13	7	0.333333333333	NULL	NULL	1255	391	0.0005516395954642966
+mcdonald's competitor	Subway	2	2	13	7	0.333333333333	NULL	NULL	1129	471	0.0002725352592491654
+mcdonald's competitor	Sonic	1	1	13	7	0.333333333333	NULL	NULL	285	138	0.0002699055330634278
+mcdonald's competitor	Krystals	1	1	13	7	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+mcdonald's competitor	Hardees	1	1	13	7	0.333333333333	NULL	NULL	22	16	0.0034965034965034965
+mcdonald's competitor	Hungry Jacks	1	1	13	7	0.333333333333	NULL	NULL	13	10	0.00591715976331361
+mcdonald's deli choice item	chicken tandoori multigrain	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonald's disney promotion	new Dinosaur-themed Happy Meal promotion	1	1	1	1	NULL	NULL	NULL	1	1	1
+McDonald's elsewhere	India serving beefless Maharaja Macs	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonald's film	Pontypool	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mcdonald's film	Hard Core Logo	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mcdonald's item	Big Macs	4	4	9	4	1.000000000000	NULL	NULL	22	11	0.0808080808080808
+mcdonald's item	Happy Meals	3	3	9	4	1.000000000000	NULL	NULL	5	3	0.2
+mcdonald's item	McDonald's fries	1	1	9	4	1.000000000000	NULL	NULL	3	3	0.037037037037037035
+mcdonald's item	Chicken McNuggets	1	1	9	4	1.000000000000	NULL	NULL	13	10	0.008547008547008546
+mcdonald's japanese fast-food rival	MOS Food Services	1	1	1	1	NULL	NULL	NULL	1	1	1
+McDonald's McCafe	Ballajura	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonald's menu favorite	fries	1	1	2	2	NULL	NULL	NULL	545	214	0.0009174311926605505
+mcdonald's menu favorite	quarter pounders	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mcdonald's menu item	McNuggets	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+mcdonald's new acquisition	Donatos Pizzeria	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonald's offer beverage	iced tea	1	1	2	2	NULL	NULL	NULL	290	108	0.0017241379310344827
+mcdonald's offer beverage	roast coffee	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mcdonald's potato product	hash brown	1	1	2	2	NULL	NULL	NULL	113	59	0.004424778761061947
+mcdonald's potato product	french fries	1	1	2	2	NULL	NULL	NULL	1412	402	0.0003541076487252125
+mcdonald's product	Big Mac	1	1	4	4	0.750000000000	NULL	NULL	28	37	0.008928571428571428
+mcdonald's product	Egg McMuffin	1	1	4	4	0.750000000000	NULL	NULL	9	6	0.027777777777777776
+mcdonald's product	Filet-O-Fish	1	1	4	4	0.750000000000	NULL	NULL	7	7	0.03571428571428571
+mcdonald's product	milkshake	1	1	4	4	0.750000000000	NULL	NULL	220	131	0.0011363636363636363
+mcdonald's signed successful athlete	tennis players Venus	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonald's use different support instrument	job profile	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+mcdonaldland character	Grimace	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+mcdonalds bright character	Hamburger Burglar	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdonalds corporation supply	dog shampoo	1	1	1	1	1.000000000000	NULL	NULL	23	13	0.043478260869565216
+mcdonalds lawsuit	Samuel Hirsch	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcdonalds playground toy	hamburgler	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+mcdonnell douglas employee	Dennis Moore	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcdonnell douglas project	F-18	1	1	2	2	NULL	NULL	NULL	54	40	0.009259259259259259
+mcdonnell douglas project	F-15	1	1	2	2	NULL	NULL	NULL	106	57	0.0047169811320754715
+mcdonnell s contemporary	Texas A&M track coach Pat Henry	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCDU warning	Unable Next Altitude	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcdunn's commercial piece	conference table	1	1	2	2	0.500000000000	NULL	NULL	44	34	0.011363636363636364
+mcdunn's commercial piece	desk	1	1	2	2	0.500000000000	NULL	NULL	1351	521	0.0003700962250185048
+MCE feature	EPG	1	1	1	1	1.000000000000	NULL	NULL	44	24	0.022727272727272728
+MCE function	play	1	1	2	2	NULL	NULL	NULL	1983	812	0.0002521432173474534
+MCE function	pause	1	1	2	2	NULL	NULL	NULL	459	234	0.0010893246187363835
+MCEER reconnaissance effort	2004 Niigata	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+MCEER reconnaissance effort	2004 south Florida hurricane	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+mcenery's later work	Modigliani-esque portrait of Katya Leventon	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCERTS related training course	Level 1	2	2	4	2	1.000000000000	NULL	NULL	23	20	0.043478260869565216
+MCERTS related training course	Level 2	2	2	4	2	1.000000000000	NULL	NULL	19	12	0.05263157894736842
+MCF	capric	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+mcfarlane character	Spawn	2	2	2	1	1.000000000000	NULL	NULL	40	26	0.05
+mcfarlane product	Guitar Hero	1	1	2	2	0.500000000000	NULL	NULL	338	105	0.0014792899408284023
+mcfarlane product	Movie Maniacs	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+mcfarlane release	NHL23 with Luke Schenn	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCFAs	Caprylic acid	1	1	1	1	0.333333333333	NULL	NULL	79	52	0.012658227848101266
+MCFs	Dexia Microcredit Fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCG material	university-wide Annual Report	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCG material	magazine	1	1	2	2	NULL	NULL	NULL	4269	1431	0.00011712344811431249
+MCG student leadership group	Arts Leadership	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCG student leadership group	Public Service Interns	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcg's capital project	new dental school	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcg's strategic collaboration	Discovery Institutes translational science cluster	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcg's strategic collaboration	MCG-UGA Medical Partnership	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+McGann's host international sport	Rugby	1	1	1	1	NULL	NULL	NULL	1841	356	0.0005431830526887561
+mcgehee-based family business	flower shop	1	1	3	3	0.500000000000	NULL	NULL	74	51	0.0045045045045045045
+mcgehee-based family business	town's funeral home	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+mcgehee-based family business	emergency medical service	1	1	3	3	0.500000000000	NULL	NULL	92	74	0.003623188405797101
+mcgill research larger jurisdiction	City of Seattle	1	1	1	1	1.000000000000	NULL	NULL	25	19	0.04
+mcginnis's novel	Bad Attitude	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+mcginnis's novel	Game Quest	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mcgladrey alliance firm	Dean Dorton Allen Ford	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCGM IT system	AQUA	1	1	2	2	NULL	NULL	NULL	232	120	0.0021551724137931034
+MCGM IT system	SAP-CRM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcgovern's act	Squish the Wonder Pug	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcgovern's act	Flying Diphtheria Family	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcgowan family record	marriage record	1	1	5	5	1.000000000000	NULL	NULL	78	34	0.002564102564102564
+mcgowan family record	estate record	1	1	5	5	1.000000000000	NULL	NULL	8	8	0.025
+mcgowan family record	allied family	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+mcgowan family record	early photo	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+mcgowan family record	census records on McGowens	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+mcgraw's antic	leaping in the air after a victory	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcgraw-hill companies main business	education	1	1	5	5	NULL	NULL	NULL	21642	5033	0.00000924129008409574
+mcgraw-hill companies main business	energy	1	1	5	5	NULL	NULL	NULL	5734	1759	0.000034879665155214514
+mcgraw-hill companies main business	commodity	1	1	5	5	NULL	NULL	NULL	770	250	0.00025974025974025974
+mcgraw-hill companies main business	market research	1	1	5	5	NULL	NULL	NULL	623	265	0.00032102728731942215
+mcgraw-hill companies main business	rating service	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+mcgraw-hill construction publication	Constructor magazine	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcgraw-hill publication	Architectural Record	1	1	1	1	1.000000000000	NULL	NULL	21	13	0.047619047619047616
+mcgraw-hill s medium asset	video	1	1	1	1	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+mcgraw-hill story	Luka's Quilt	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcgraw-hill text	Silberberg	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcgraw-hill's basal music text	Share the Music for K-8	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcgraw-hill's medium asset	video	4	2	5	2	NULL	NULL	NULL	10816	3555	0.0002958579881656805
+mcgraw-hill's medium asset	additional online quizzing	1	1	5	2	NULL	NULL	NULL	1	1	0.2
+mcgraw-hills medium asset	video	1	1	1	1	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+mcgrew item	postcard	1	1	1	1	NULL	NULL	NULL	1183	502	0.0008453085376162299
+mcgriff album	Stump Juice	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcguinty tax	debt reduction	1	1	5	5	0.500000000000	NULL	NULL	54	27	0.003703703703703704
+mcguinty tax	green tax	1	1	5	5	0.500000000000	NULL	NULL	23	16	0.008695652173913044
+mcguinty tax	delivery	1	1	5	5	0.500000000000	NULL	NULL	880	340	0.00022727272727272727
+mcguinty tax	HST	1	1	5	5	0.500000000000	NULL	NULL	39	28	0.005128205128205128
+mcguinty tax	meter tax	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+McGuire furnishings	console table in bamboo	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCH activity	immunisation	1	0	1	1	NULL	NULL	NULL	121	67	0.008264462809917356
+MCH indicator	unwed birth	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+MCH indicator	prenatal care	1	0	4	3	NULL	NULL	NULL	156	89	0.0016025641025641025
+MCH indicator	preterm birth	1	1	4	3	NULL	NULL	NULL	89	48	0.0028089887640449437
+MCH information	strategic planning document	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+MCH information	needs assessment	1	1	2	2	NULL	NULL	NULL	98	56	0.00510204081632653
+MCH measure	preterm birth	1	1	3	3	NULL	NULL	NULL	89	48	0.0037453183520599247
+MCH measure	infant mortality	1	1	3	3	NULL	NULL	NULL	431	158	0.0007733952049497292
+MCH measure	low birth weight	1	1	3	3	NULL	NULL	NULL	303	132	0.0011001100110011
+MCH nutrition issue	dietary prevention of chronic disease	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCH nutrition issue	obesity	1	1	3	3	NULL	NULL	NULL	7193	1475	0.00004634135038695027
+MCH nutrition issue	prenatal nutrition	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+MCH population	pregnant woman	1	1	1	1	NULL	NULL	NULL	652	149	0.0015337423312883436
+MCH program	Title X	1	0	5	5	0.750000000000	NULL	NULL	9	4	0.022222222222222223
+MCH program	maternal nutrition	1	1	5	5	0.750000000000	NULL	NULL	27	14	0.007407407407407408
+MCH program	antenatal	1	1	5	5	0.750000000000	NULL	NULL	22	15	0.009090909090909092
+MCH program	immunization	1	1	5	5	0.750000000000	NULL	NULL	1008	404	0.0001984126984126984
+MCH program	neonatal	1	1	5	5	0.750000000000	NULL	NULL	27	21	0.007407407407407408
+MCH service	immunization against childhood disease	2	1	15	11	0.375000000000	NULL	NULL	2	1	0.13333333333333333
+MCH service	prenatal care	2	1	15	11	0.375000000000	NULL	NULL	156	89	0.0017094017094017094
+MCH service	postnatal visit	2	1	15	11	0.375000000000	NULL	NULL	5	4	0.05333333333333333
+MCH service	delivery assistance	2	1	15	11	0.375000000000	NULL	NULL	3	2	0.08888888888888889
+MCH service	home visiting	1	0	15	11	0.375000000000	NULL	NULL	56	33	0.0011904761904761904
+MCH service	family planning	1	0	15	11	0.375000000000	NULL	NULL	431	191	0.00015467904098994585
+MCH service	infant immunization program	1	1	15	11	0.375000000000	NULL	NULL	1	1	0.06666666666666667
+MCH service	FP	1	1	15	11	0.375000000000	NULL	NULL	30	27	0.0022222222222222222
+MCH service	WIC	1	0	15	11	0.375000000000	NULL	NULL	351	121	0.0001899335232668566
+MCH service	early intervention	1	0	15	11	0.375000000000	NULL	NULL	165	82	0.00040404040404040404
+MCH service	health promotion	1	0	15	11	0.375000000000	NULL	NULL	212	98	0.00031446540880503143
+mch-funded service	WIC	1	1	1	1	NULL	NULL	NULL	351	121	0.002849002849002849
+mch-related program	diabetes	1	1	4	4	0.500000000000	NULL	NULL	23990	3013	0.000010421008753647352
+mch-related program	oral health	1	1	4	4	0.500000000000	NULL	NULL	49	33	0.00510204081632653
+mch-related program	childhood lead poisoning prevention	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+mch-related program	tobacco	1	1	4	4	0.500000000000	NULL	NULL	3589	1064	0.00006965728615213152
+mchines	Bex	1	1	1	1	0.500000000000	NULL	NULL	2	2	0.5
+MCI command	play	3	3	7	3	NULL	NULL	NULL	1983	812	0.0006483682731791657
+MCI command	set	2	2	7	3	NULL	NULL	NULL	381	203	0.0014998125234345705
+MCI command	open	2	2	7	3	NULL	NULL	NULL	544	300	0.0010504201680672268
+MCI program	language training	1	1	2	2	1.000000000000	NULL	NULL	54	33	0.009259259259259259
+MCI program	bridge training	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+MCI shareholder	famed Legg Mason Value Trust manager Bill Miller	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCI special feature	network configuration management	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCI special feature	automated software	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mci's competitor	Qwest	1	1	1	1	NULL	NULL	NULL	240	125	0.004166666666666667
+McIntosh preamplifier	used C-46 with Room EQ	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcintyre brown-nosing guy	Ricky Steamboat	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+mcintyre commission	Peirce-Nichols House	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+mcintyre commission	Hamilton Hall	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+MCIs	Fundamentals of Leadership	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCIs	World Trade Center attacks in 2001	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCITP designation	Enterprise Support Technician	2	2	9	8	NULL	NULL	NULL	2	1	0.2222222222222222
+MCITP designation	Database Developer	1	1	9	8	NULL	NULL	NULL	5	5	0.02222222222222222
+MCITP designation	MCITP Server Administrator	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+MCITP designation	MCITP Database Administrator	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+MCITP designation	MCITP Database Developer	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+MCITP designation	MCITP Enterprise Administrator	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+MCITP designation	Business Intelligence Developer	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+MCITP designation	Database Administrator	1	1	9	8	NULL	NULL	NULL	80	45	0.0013888888888888887
+mckenzie river pattern	Beetle Bug	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mckenzie river pattern	Light Caddis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mckenzie river pattern	Orange Caddis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+McKenzies	Gabriel McKenzie of Gabriel's Choice	1	1	1	1	NULL	NULL	NULL	1	1	1
+mckesson medical-surgical leader	Steve Tonnesen	1	1	1	1	NULL	NULL	NULL	1	1	1
+mckesson-specific development	new EHR product release	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mckesson-specific development	acquisition	1	1	2	2	NULL	NULL	NULL	985	460	0.0005076142131979696
+McKevitt	Death by Chocolate	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+mckibben's later book	Deep Economy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mckibben's later book	Eaarth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mckie's eccentric	Mary Macarthur	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mckinney road	Church Street	1	1	1	1	1.000000000000	NULL	NULL	21	11	0.047619047619047616
+mckinney's student	senior Ryan McLeland	1	1	1	1	NULL	NULL	NULL	1	1	1
+mckinney-vento permanent housing program	Shelter Plus Care	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+mckinney-vento program	Shelter Plus Care	2	1	3	2	1.000000000000	NULL	NULL	15	10	0.08888888888888888
+mckinney-vento program	Supportive Housing Program	1	1	3	2	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+mckinnon's character	gruff Grandma Rae	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mckinnon's flavorful, pre-marinated cut	lemon chicken breast	2	2	2	1	NULL	NULL	NULL	2	1	1
+mckinnons character	gruff Grandma Rae	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mckinsey analysis country	Sweden	1	1	1	1	NULL	NULL	NULL	7737	882	0.00012924906294429367
+McKinsey consul-tants	Firoz Dosani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+McKinsey consul-tants	Gino Picasso	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mckinstry member	late Ernie McDowell	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcknight's hit	Anytime	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+MCL command	assignment	1	1	1	1	NULL	NULL	NULL	471	202	0.0021231422505307855
+MCL function	crime scene assignment	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+mcl purpose	seed	1	1	2	2	NULL	NULL	NULL	2759	988	0.0001812250815512867
+mcl purpose	local transportation of personnel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcl's partner c ompanies	Datalogic	1	1	1	1	0.666666666666	NULL	NULL	1	1	1
+mclaren's previous work	New Kind of Christian	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+McLaren's roadcars	F1	2	2	4	2	1.000000000000	NULL	NULL	89	49	0.011235955056179775
+McLaren's roadcars	MP4-12C	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+mclean housing market datum	median sales price	1	1	2	2	0.500000000000	NULL	NULL	94	91	0.005319148936170213
+mclean housing market datum	inventory level	1	1	2	2	0.500000000000	NULL	NULL	187	150	0.00267379679144385
+mcleod's asset	equipment	1	1	2	2	NULL	NULL	NULL	4707	1559	0.00010622477161674102
+mcleod's asset	supply	1	1	2	2	NULL	NULL	NULL	2244	801	0.0002228163992869875
+MCLOS first generation ATGWs	SS-11	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MCLs	MCL for nitrate	1	1	1	1	NULL	NULL	NULL	1	1	1
+mclsm optical metrology system	Olympus LExT OLS4000	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcluhan modern communication technology	radio	1	1	1	1	NULL	NULL	NULL	7280	2387	0.00013736263736263736
+McLuhan text	Understanding Media	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+mcluhan's best-known book	provocative Understanding Media	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcluhan's book	Gutenberg Galaxy	1	1	1	1	NULL	NULL	NULL	9	3	0.1111111111111111
+mcluhan's text	Understanding Media	2	2	2	1	NULL	NULL	NULL	9	5	0.2222222222222222
+MCM process	CO2	1	1	1	1	NULL	NULL	NULL	674	270	0.001483679525222552
+MCM program	Shallow Water i.5sault Breaching System	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCM protein	MCM3	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MCM protein	Mcm1	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCM protein	MCM7	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mcmac datum product	time series at multiple cadence	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcmahon's campaign material	bumper sticker	1	1	1	1	NULL	NULL	NULL	202	112	0.0049504950495049506
+mcmartin parent	Jackie McGauley	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcmaster historian	John Weaver	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mcmaster historian	Viv Nelles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcmaster university library database	Business Source Complete	1	1	2	2	0.500000000000	NULL	NULL	11	8	0.045454545454545456
+mcmaster university library database	Web of Science	1	1	2	2	0.500000000000	NULL	NULL	102	50	0.004901960784313725
+MCMC -diagnostic	trace plot	3	3	3	1	1.000000000000	NULL	NULL	8	6	0.375
+MCMC algorithm	Metropolis-Hastings algorithm	2	2	6	5	1.000000000000	NULL	NULL	26	14	0.02564102564102564
+MCMC algorithm	Metropolis-Hastings	1	1	6	5	1.000000000000	NULL	NULL	10	9	0.016666666666666666
+mcmc algorithm	standard mcmc algorithm	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+MCMC algorithm	Gibbs sampling	1	1	6	5	1.000000000000	NULL	NULL	32	26	0.005208333333333333
+MCMC algorithm	ubiquitous Gibbs sampler	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+MCMC idea	Metropolis algorithm with a schedule for lowering the temperature	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCMC method	Gibbs sampler	6	2	21	6	1.000000000000	NULL	NULL	35	19	0.04897959183673469
+MCMC method	Metropolis-Hastings algorithm	6	2	21	6	1.000000000000	NULL	NULL	26	14	0.06593406593406594
+MCMC method	recent adaptive method	6	2	21	6	1.000000000000	NULL	NULL	6	1	0.2857142857142857
+MCMC method	metropolis algorithm	1	1	21	6	1.000000000000	NULL	NULL	16	15	0.002976190476190476
+MCMC method	Metropolis-Hastings	1	1	21	6	1.000000000000	NULL	NULL	10	9	0.0047619047619047615
+MCMC method	Gibbs sampling	1	1	21	6	1.000000000000	NULL	NULL	32	26	0.001488095238095238
+MCMC rendering method	MLT	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+MCMC sampling algorithm	Metropolis-Hastings	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+MCMC sampling algorithm	Gibbs sampling	1	1	2	2	1.000000000000	NULL	NULL	32	26	0.015625
+MCMC sampling method	Metropolis-Hastings algorithm	2	1	2	1	1.000000000000	NULL	NULL	26	14	0.07692307692307693
+MCMC technique	simulated annealing running in parameter exploration mode	2	1	2	1	NULL	NULL	NULL	2	1	1
+mcmconfiguration change	going from an 8-way toa 24-way system	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcmenamin facility	Kennedy School	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+mcmenamin facility	Edgefield	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+mcmenamin's hotel	McMinnville	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+mcmillan labeled facet	ability	1	1	1	1	NULL	NULL	NULL	500	195	0.002
+mcmillan's high-profile client	Stevie Wonder	1	1	1	1	NULL	NULL	NULL	819	228	0.001221001221001221
+mcmillian's preventable accident	parked-car collision	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcmoran's deep gas target	Flatrock	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mcmurtry's early novel	Horseman	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+mcnamara's innovation	Total Package Procurement	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcneil high school event	Culture Affair	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcnett dive product	8oz bottles of wet suit shampoo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcnett dive product	BC life	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+McNichols memorabilia	picture	1	1	1	1	NULL	NULL	NULL	4905	1393	0.00020387359836901122
+MCNP input feature	new continuation syntax	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCNP variance reduction technique	weight window	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+MCNP variance reduction technique	Russian roulette	1	1	3	3	1.000000000000	NULL	NULL	21	17	0.015873015873015872
+MCNP variance reduction technique	particles splitting	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+MCO model	staff model HMO	1	0	1	1	NULL	NULL	NULL	1	1	1
+MCOG commission	Ad Hock	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+MCOG commission	Philanthropic	1	1	2	2	0.500000000000	NULL	NULL	8	6	0.0625
+mcom-sponsored event	dinner	1	1	4	4	NULL	NULL	NULL	1029	383	0.00024295432458697764
+mcom-sponsored event	cruise	1	1	4	4	NULL	NULL	NULL	384	225	0.0006510416666666666
+mcom-sponsored event	tech session	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+mcom-sponsored event	party	1	1	4	4	NULL	NULL	NULL	2492	715	0.00010032102728731942
+mcommerce option	contact-less sticker	1	1	1	1	NULL	NULL	NULL	1	1	1
+mconsole general component	login box	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mconsole general component	plug-in management	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mconsole general component	setting	1	1	3	3	NULL	NULL	NULL	914	297	0.00036469730123997083
+MCOs	American Medical Security Group	1	0	4	4	0.333333333333	NULL	NULL	1	1	0.25
+MCOs	staff model MCOs	1	0	4	4	0.333333333333	NULL	NULL	1	1	0.25
+mcos	modern non-profit mcos	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+MCOs	Excellus Blue Cross	1	1	4	4	0.333333333333	NULL	NULL	3	3	0.08333333333333333
+MCP core service	authorization	1	1	2	2	0.500000000000	NULL	NULL	277	153	0.0018050541516245488
+MCP core service	password authentication	1	1	2	2	0.500000000000	NULL	NULL	19	13	0.02631578947368421
+MCP element	doctrine	1	1	3	3	NULL	NULL	NULL	71	33	0.004694835680751174
+MCP element	training	1	1	3	3	NULL	NULL	NULL	7685	2537	0.00004337453914552158
+MCP element	command arrangement	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCP environment interface	CANDE	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MCP event	Business Casual	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+MCP event	meal with a faculty mentor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MCP feature	dead spot	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+MCP feature	multifiber hexagonal boundary	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MCP file type	SEQDATA	1	1	1	1	0.333333333333	NULL	NULL	1	1	1
+MCP price influential factor	previous competitive load	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MCP price influential factor	day type	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+MCP suit	Space Activity Suit	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcp-1-like compound	compound of the CC chemokine family	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcp-produced material	solicitation brochure	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCPA derivative	MCPA dimethylamine salt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCPA derivative	MCPA sodium salt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCPA derivative	MCPA ester	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCPA measurement	MCPA feed-forward testing with automatic measurement	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCPC service	encoding	1	1	3	3	NULL	NULL	NULL	158	97	0.002109704641350211
+MCPC service	encryption	1	1	3	3	NULL	NULL	NULL	1548	602	0.0002153316106804479
+MCPC service	multiplexing	1	1	3	3	NULL	NULL	NULL	43	23	0.007751937984496124
+mcpeckcites context	scientific	1	1	1	1	NULL	NULL	NULL	264	142	0.003787878787878788
+mcpen's demo program	Hangman	2	2	2	1	1.000000000000	NULL	NULL	172	66	0.011627906976744186
+McPhee's work	Coming into the Country	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcpherson county school	Smoky Valley	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mcpherson county school	McPherson	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+mcpherson's own play	much-lauded The Weir	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCPs	aerotaxis transducer Aer of Escherichia coli	2	2	3	2	0.500000000000	NULL	NULL	2	1	0.6666666666666666
+MCPs	E. coli Aer	1	1	3	2	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+MCQs	MCQs based on short case	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcqshave different application	environmental awareness	1	1	1	1	NULL	NULL	NULL	101	54	0.009900990099009901
+mcquarters title	Dr.	1	1	4	4	0.500000000000	NULL	NULL	221	44	0.0011312217194570137
+mcquarters title	Gov.	1	1	4	4	0.500000000000	NULL	NULL	7	4	0.03571428571428571
+mcquarters title	Sen.	1	1	4	4	0.500000000000	NULL	NULL	7	4	0.03571428571428571
+mcquarters title	Rev	1	1	4	4	0.500000000000	NULL	NULL	33	20	0.007575757575757576
+mcqueen's design	aluminum	1	1	1	1	NULL	NULL	NULL	10290	2216	0.00009718172983479106
+mcqueen's signature item	kimono jacket	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+mcqueen's signature item	bumster trouser	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+mcr safety CRWVCL2SLXL occupational activity	roadway	1	1	3	3	NULL	NULL	NULL	412	217	0.0008090614886731391
+mcr safety CRWVCL2SLXL occupational activity	construction	1	1	3	3	NULL	NULL	NULL	6231	1679	0.00005349596105494035
+mcr safety CRWVCL2SLXL occupational activity	airport	1	1	3	3	NULL	NULL	NULL	3036	1201	0.00010979358805445761
+MCR steelhead habitat indicator	bank stability	1	1	1	1	1.000000000000	NULL	NULL	25	20	0.04
+mcralx coating	Nickel-Chromium-Aluminum-Yttrium coating	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCRP 6-11C task	requesting fire	2	2	5	3	NULL	NULL	NULL	4	2	0.2
+MCRP 6-11C task	integrating range card	2	2	5	3	NULL	NULL	NULL	4	2	0.2
+MCRP 6-11C task	establishing position	1	1	5	3	NULL	NULL	NULL	3	2	0.06666666666666667
+MCs	Nas	3	3	91	78	0.638888888888	NULL	NULL	474	114	0.00020865210738628463
+MCs	Queen Latifah	3	3	91	78	0.638888888888	NULL	NULL	197	80	0.0005020360350309589
+MCs	Stamina MC	2	2	91	78	0.638888888888	NULL	NULL	4	2	0.01098901098901099
+MCs	Queen Pen	2	2	91	78	0.638888888888	NULL	NULL	3	2	0.014652014652014654
+MCs	Low Louis	2	1	91	78	0.638888888888	NULL	NULL	2	1	0.02197802197802198
+MCs	Lupe Fiasco	2	2	91	78	0.638888888888	NULL	NULL	136	45	0.0003232062055591468
+MCs	Chief Rocker Busy Bee	2	2	91	78	0.638888888888	NULL	NULL	2	1	0.02197802197802198
+MCs	MC Lyte	2	2	91	78	0.638888888888	NULL	NULL	66	29	0.000666000666000666
+MCs	Dizzee Rascal	2	2	91	78	0.638888888888	NULL	NULL	79	26	0.000556405619696759
+MCs	Cormega	2	2	91	78	0.638888888888	NULL	NULL	14	6	0.0031397174254317113
+MCs	Monie Love	2	2	91	78	0.638888888888	NULL	NULL	4	3	0.01098901098901099
+mcs	contemporary hip hop mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Tupac	1	1	91	78	0.638888888888	NULL	NULL	216	59	0.00005087505087505088
+MCs	E-40	1	1	91	78	0.638888888888	NULL	NULL	85	28	0.0001292824822236587
+MCs	50 Cent	1	1	91	78	0.638888888888	NULL	NULL	329	94	0.00003340124920672033
+MCs	Gillie Da Kid	1	1	91	78	0.638888888888	NULL	NULL	7	6	0.0015698587127158557
+MCs	Ghetto	1	1	91	78	0.638888888888	NULL	NULL	26	20	0.000422654268808115
+MCs	Grafh	1	1	91	78	0.638888888888	NULL	NULL	4	3	0.0027472527472527475
+mcs	great hiphop mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Jace the Great	1	1	91	78	0.638888888888	NULL	NULL	3	2	0.0036630036630036634
+mcs	low output mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	MC Grand Master Caz	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	MC ChickABoo	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	MC Marshmello	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	MC Cleveland Watkiss	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	MC Jazzy J	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Martin Luther King III	1	1	91	78	0.638888888888	NULL	NULL	10	10	0.001098901098901099
+MCs	Notorious B.I.G	1	1	91	78	0.638888888888	NULL	NULL	61	21	0.00018014772113132772
+mcs	real white mc's	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+mcs	scribble jam battle mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+mcs	well-known female mcs	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+MCs	Wale	1	1	91	78	0.638888888888	NULL	NULL	79	19	0.00013910140492418975
+MCs	Yungun	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+mcs	breakthrough latin mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Banditos	1	1	91	78	0.638888888888	NULL	NULL	6	5	0.0018315018315018317
+MCs	Lil Wayne	1	1	91	78	0.638888888888	NULL	NULL	519	151	0.000021173431578055857
+MCs	KRS	1	1	91	78	0.638888888888	NULL	NULL	8	8	0.0013736263736263737
+MCs	D Double E	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+mcs	underground hip hop mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+mcs	talented cali mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Tippa Irie	1	1	91	78	0.638888888888	NULL	NULL	6	6	0.0018315018315018317
+MCs	MF Grimm	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+mcs	public safety mc's	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Mysonne on the circuit	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Young Jeezy	1	1	91	78	0.638888888888	NULL	NULL	149	42	0.0000737517516041006
+MCs	LRS	1	1	91	78	0.638888888888	NULL	NULL	8	7	0.0013736263736263737
+MCs	KRS-One	1	1	91	78	0.638888888888	NULL	NULL	117	42	0.00009392317084624778
+MCs	Klashnekoff	1	1	91	78	0.638888888888	NULL	NULL	5	4	0.002197802197802198
+MCs	Killah Priest	1	1	91	78	0.638888888888	NULL	NULL	11	9	0.000999000999000999
+MCs	Kevin Mann	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Immortal Technique	1	1	91	78	0.638888888888	NULL	NULL	56	19	0.00019623233908948196
+MCs	Guerilla Black	1	1	91	78	0.638888888888	NULL	NULL	3	3	0.0036630036630036634
+MCs	Big K.R.I.T.	1	1	91	78	0.638888888888	NULL	NULL	8	6	0.0013736263736263737
+mcs	big name mc's	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Trilla	1	1	91	78	0.638888888888	NULL	NULL	4	2	0.0027472527472527475
+mcs	stellar female mc's	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+MCs	Supanova Slom	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Stat Quo	1	1	91	78	0.638888888888	NULL	NULL	13	8	0.00084530853761623
+MCs	Eyedea	1	1	91	78	0.638888888888	NULL	NULL	7	6	0.0015698587127158557
+MCs	Crazy Titch	1	1	91	78	0.638888888888	NULL	NULL	3	3	0.0036630036630036634
+MCs	DBPSK	1	1	91	78	0.638888888888	NULL	NULL	3	3	0.0036630036630036634
+MCs	Mongols	1	1	91	78	0.638888888888	NULL	NULL	118	65	0.00009312721177127958
+MCs	S Double	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Pune	1	1	91	78	0.638888888888	NULL	NULL	281	76	0.00003910680067263698
+MCs	Q-Tip	1	1	91	78	0.638888888888	NULL	NULL	44	30	0.00024975024975024975
+MCs	Rakim	1	1	91	78	0.638888888888	NULL	NULL	126	50	0.00008721437292865865
+mcs	quality guest mcs	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+MCs	RINA	1	1	91	78	0.638888888888	NULL	NULL	7	6	0.0015698587127158557
+MCs	alienated by RZA's lack of support	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Doc Brown	1	1	91	78	0.638888888888	NULL	NULL	3	3	0.0036630036630036634
+mcs	great and talented mc's	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Jehst	1	1	91	78	0.638888888888	NULL	NULL	10	4	0.001098901098901099
+MCs	Jamie Foxx	1	1	91	78	0.638888888888	NULL	NULL	150	51	0.00007326007326007326
+mcs	long beach mcs	1	1	91	78	0.638888888888	NULL	NULL	1	1	0.01098901098901099
+MCs	Mike Ladd	1	1	91	78	0.638888888888	NULL	NULL	3	3	0.0036630036630036634
+MCs	Monsta Island Czars	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+MCs	P Money	1	1	91	78	0.638888888888	NULL	NULL	7	6	0.0015698587127158557
+MCs	Warrior Queen	1	1	91	78	0.638888888888	NULL	NULL	2	2	0.005494505494505495
+MCS component	hydrogen	1	1	1	1	NULL	NULL	NULL	2960	833	0.00033783783783783786
+MCS installer	New Energy Futures	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCS measure	onus of proof	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+MCS product	wind turbine	2	1	2	1	NULL	NULL	NULL	859	359	0.002328288707799767
+MCS property	expansions of the MCS	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcs removal method	coagulation	1	1	3	3	NULL	NULL	NULL	281	139	0.0011862396204033213
+mcs removal method	adsorption	1	1	3	3	NULL	NULL	NULL	470	202	0.0007092198581560283
+mcs removal method	flocculation	1	1	3	3	NULL	NULL	NULL	155	78	0.002150537634408602
+MCS symptom	loss of speech	1	1	3	3	0.333333333333	NULL	NULL	16	10	0.020833333333333332
+MCS symptom	seizure	1	1	3	3	0.333333333333	NULL	NULL	1803	638	0.0001848770567572564
+MCS symptom	respiratory distress	1	1	3	3	0.333333333333	NULL	NULL	131	81	0.0025445292620865138
+MCS tool	participatory management plan	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+MCS tool	data collection system	1	1	3	3	0.500000000000	NULL	NULL	6	6	0.05555555555555555
+MCS tool	budgeting	1	1	3	3	0.500000000000	NULL	NULL	1765	661	0.00018885741265344664
+MCSCF solution	RASSCF	2	1	2	1	NULL	NULL	NULL	2	1	1
+MCSE course	MCSE 2003 course	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCSE course	MCSE networking course	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCSE level task	Microsoft Exchange server management	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCSM faculty	Ms. Irma Garceau	1	1	1	1	NULL	NULL	NULL	1	1	1
+mcsport stock quality brand	Molten	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+MCSPs	Inacom Corp.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCSPs	Wang Global	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MCSPs	Unisys Corp.	1	1	3	3	NULL	NULL	NULL	8	5	0.041666666666666664
+mcsweeney standard	DVD quarterly Wholphin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mcsweeney standard	826	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mct file	Midnight Magic theme	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCT oil	fractionated coconut oil	4	3	7	3	0.500000000000	NULL	NULL	20	10	0.11428571428571428
+MCT oil	Coconut Oil	2	2	7	3	0.500000000000	NULL	NULL	1504	438	0.00037993920972644377
+MCT oil	fractionated palm kernel oil	1	1	7	3	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+mcteigue character	Kiriko	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MCU	Ht82k96e	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MCU	Em78m611	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MCU	Em78M680	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MCU	SN8p2203	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MCU	Sn8p2213	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MCU control Space Surround	Live Digital Echo for Karaoke Function Delay	1	1	1	1	NULL	NULL	NULL	1	1	1
+MCU device	PIC16F84	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MCU feature	encryption	1	1	3	3	NULL	NULL	NULL	1548	602	0.0002153316106804479
+mcu feature	holtek mcu feature	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mcu feature	usualholtek mcu feature	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MCU manufacturer	Atmel	1	1	3	3	0.333333333333	NULL	NULL	68	39	0.004901960784313725
+MCU manufacturer	Philips	1	1	3	3	0.333333333333	NULL	NULL	1532	517	0.0002175805047867711
+MCU manufacturer	Motorola	1	1	3	3	0.333333333333	NULL	NULL	4547	1131	0.00007330840847445201
+MCU Security SDKs	embedded ussl	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MCU vendor	Renesas	1	1	2	2	1.000000000000	NULL	NULL	18	12	0.027777777777777776
+MCU vendor	Luminary Micro	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mcu-controlled device	keyboard	1	1	3	3	NULL	NULL	NULL	4202	1048	0.0000793273044581945
+mcu-controlled device	similar input device	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mcu-controlled device	mouse	1	1	3	3	NULL	NULL	NULL	3242	739	0.00010281719103434094
+MCUL publication	Michigan Monitor	2	1	2	1	NULL	NULL	NULL	2	1	1
+MCUs	OOPic	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+MCW building	Basic Science building	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MCW building	Medical Education Building	1	1	2	2	NULL	NULL	NULL	1	1	0.5

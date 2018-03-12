@@ -1,0 +1,11 @@
+BQ A special character	rare ideograph	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+BQ brand	cheap decoration product	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+bq-reactive protein	Cys-rich Fe-S-cluster proteins CitB	1	1	1	1	NULL	NULL	NULL	1	1	1
+BQC program	Ambassadors for Community Economic Development	1	1	1	1	NULL	NULL	NULL	1	1	1
+bquery device	router	2	2	6	3	0.250000000000	NULL	NULL	2575	830	0.0002588996763754045
+bquery device	bridge	2	2	6	3	0.250000000000	NULL	NULL	5081	2007	0.00013120776749983598
+bquery device	switch	2	2	6	3	0.250000000000	NULL	NULL	3437	1190	0.00019396760740956258
+bquiltspecific parameter	transaction ID	1	1	2	2	1.000000000000	NULL	NULL	26	16	0.019230769230769232
+bquiltspecific parameter	destination URL	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+BQW product	high grade sand	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BQW product	flour	1	1	2	2	NULL	NULL	NULL	2825	760	0.00017699115044247788

@@ -1,0 +1,21 @@
+KGB agent	Anatoliy Golitsyn	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+KGB agent	Yuri Bezmenov et al	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KGB agent	Victor Suvorov	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KGB cretin	Lavrenty Beria	1	1	1	1	NULL	NULL	NULL	1	1	1
+KGB figure	Igor Giorgadze	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KGB figure	political eccentrics in Tbilisi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KGB figure	shadowy businessman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KGB front organization	International Union of Students	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KGB front organization	World Federation of Democratic Youth	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kgb officer	key senior kgb officer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+KGB officer	Alexander Litvinenko	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kgb's predecessor	notorious NKVD	1	1	1	1	NULL	NULL	NULL	1	1	1
+KGMB9 new legend	Jade Moon	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+KGMB9 new legend	Leslie Wilcox	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+KGMB9 new legend	Bob Sevey	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+KGMB9 new legend	Bob Jones	1	1	4	4	1.000000000000	NULL	NULL	27	22	0.009259259259259259
+KGO host	Dr. Bill	1	1	1	1	NULL	NULL	NULL	1	1	1
+KGS service	standard	1	1	1	1	NULL	NULL	NULL	1207	561	0.0008285004142502071
+KGS system	Blom KGS	1	1	1	1	NULL	NULL	NULL	1	1	1
+kgsr's signature community outreach project	Blues on the Green concert series	1	1	1	1	NULL	NULL	NULL	1	1	1
+KGW.com international staff	Thomas Lauderdale star Portland	1	1	1	1	1.000000000000	NULL	NULL	1	1	1

@@ -1,0 +1,28 @@
+CQ contest	CQ WW	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQ electronic resource	CQ Supreme Court Collection	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQ product	OptiLink 1	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQ situation	navigating through building	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQ variant	Dynamic CQ	2	2	2	1	NULL	NULL	NULL	2	1	1
+CQA	Loss in Drying	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQB environment	vehicle hostage rescue	1	1	1	1	NULL	NULL	NULL	1	1	1
+cqb map	gravedigger	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+CQB situation	hallway	1	1	1	1	NULL	NULL	NULL	686	216	0.0014577259475218659
+CQB skill	clearing stoppage	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+cqb technique	pieing off corner	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQB type drill	close quarters shooting	1	1	1	1	NULL	NULL	NULL	1	1	1
+CQB variant	KM4 CQB	1	1	1	1	NULL	NULL	NULL	1	1	1
+cqb weapon	shotgun	1	1	2	2	NULL	NULL	NULL	615	202	0.0008130081300813008
+cqb weapon	gas shotgun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CQC rifle	Scar	1	1	1	1	NULL	NULL	NULL	589	242	0.001697792869269949
+CQG study	Volume Profile	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CQI area	incident report	1	1	2	2	NULL	NULL	NULL	94	52	0.005319148936170213
+CQI area	consumer survey datum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CQI expert	Deming	1	1	1	1	NULL	NULL	NULL	72	34	0.013888888888888888
+CQI measure	indicator system	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+CQI measure	incident reporting	1	1	2	2	1.000000000000	NULL	NULL	41	34	0.012195121951219513
+CQI strategy	disseminating best practice	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+CQI strategy	conducting mid-cycle internal review	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CQI study	in-service education in wound care	1	1	1	1	NULL	NULL	NULL	1	1	1
+cqi's knowledge resource	new QW archive	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+cqi's knowledge resource	Body of Quality Knowledge	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+cquisition project	advanced technology demonstration	1	1	1	1	NULL	NULL	NULL	4	3	0.25

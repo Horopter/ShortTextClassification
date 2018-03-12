@@ -1,0 +1,67 @@
+EZ country	Italy	1	1	1	1	NULL	NULL	NULL	10580	1406	0.0000945179584120983
+EZ issue product	quick issue term insurance	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+EZ issue product	final expense	1	1	2	2	1.000000000000	NULL	NULL	15	12	0.03333333333333333
+ez operation	search	1	1	1	1	NULL	NULL	NULL	1516	675	0.0006596306068601583
+EZ point property	cursor speed	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+EZ point property	acceleration	1	1	2	2	NULL	NULL	NULL	881	426	0.0005675368898978433
+ez release glue solvent	ammonia	1	1	1	1	NULL	NULL	NULL	4006	1205	0.00024962556165751375
+ez-release glue solvent	ammonia	1	1	1	1	NULL	NULL	NULL	4006	1205	0.00024962556165751375
+EZ-RJ45 connector	Leviton 47613-EZC	1	1	1	1	NULL	NULL	NULL	1	1	1
+ezboard feature	edit function	1	1	1	1	NULL	NULL	NULL	1	1	1
+eze attraction	Port Vilva Maris	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eze attraction	Baie des Fourmis Beach	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eze many nigerian university	University of Lagos	1	1	4	4	NULL	NULL	NULL	7	3	0.03571428571428571
+eze many nigerian university	University of Nigeria Nsukka	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+eze many nigerian university	Obafemi Awolowo University Ile-ife	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+eze many nigerian university	Enugu State University of Science	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ezekiel-specific country	Iran	1	1	2	2	NULL	NULL	NULL	4782	970	0.00010455876202425763
+ezekiel-specific country	Turkey	1	1	2	2	NULL	NULL	NULL	7587	1715	0.00006590220113351786
+ezetimibe underlying disorder	hypertension	1	1	1	1	NULL	NULL	NULL	7750	1658	0.00012903225806451613
+ezgo golf cart accessory	tesco car insurance storage	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ezgo golf cart accessory	car accident lawyer windshield	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ezgo golf cart accessory	golf cart enclosure	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ezgo golf cart accessory	battery charger	1	1	4	4	0.500000000000	NULL	NULL	300	149	0.0008333333333333334
+eziba's home accent	Holiday Art	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ezine article directory	Article Directory	1	1	5	5	0.333333333333	NULL	NULL	26	16	0.007692307692307693
+ezine article directory	Article City	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+ezine article directory	Sooper Articles	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+ezine article directory	ezinearticles.com	1	1	5	5	0.333333333333	NULL	NULL	92	39	0.002173913043478261
+ezine article directory	Ezine Articles	1	1	5	5	0.333333333333	NULL	NULL	81	27	0.0024691358024691358
+ezine directory	Directory of Ezines at www.directoryofezines.com	1	1	1	1	NULL	NULL	NULL	1	1	1
+ezine site	ezinearticles.com	1	0	2	2	NULL	NULL	NULL	92	39	0.005434782608695652
+ezine site	top ezine site	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ezine submission service	Unique Article Wizard	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+ezinearticles guideline	prescribed keyword density	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ezinearticles guideline	unique copyscape passed	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eZines	Deaf Sparrow	2	2	19	17	0.833333333333	NULL	NULL	2	1	0.10526315789473684
+eZines	Chunga	2	2	19	17	0.833333333333	NULL	NULL	3	2	0.07017543859649122
+eZines	Oysters & Chocolate	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Thrillers	1	1	19	17	0.833333333333	NULL	NULL	2	4	0.02631578947368421
+eZines	Exhale	1	1	19	17	0.833333333333	NULL	NULL	6	6	0.008771929824561403
+eZines	FlashShot	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	SmokeLong Quarterly	1	1	19	17	0.833333333333	NULL	NULL	2	2	0.02631578947368421
+eZines	Daily Tourniquet	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Microhorror	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Powder Burn Flash	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Poetic Voices	1	1	19	17	0.833333333333	NULL	NULL	2	2	0.02631578947368421
+eZines	Killers n Chillers	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Twist of Noir	1	1	19	17	0.833333333333	NULL	NULL	4	2	0.013157894736842105
+eZines	Flash Fiction Online	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	New Flesh Magazine	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Ruthie's Club	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+eZines	Xpress	1	1	19	17	0.833333333333	NULL	NULL	13	13	0.004048582995951417
+ezio master new device	Leonardo da Vinci's parachute	1	1	1	1	NULL	NULL	NULL	9	3	0.1111111111111111
+ezio master new gadget	Leonardo da Vinci's parachute	7	6	7	1	NULL	NULL	NULL	9	3	0.7777777777777778
+ezio's new toy	hand grenade	1	1	1	1	1.000000000000	NULL	NULL	58	34	0.017241379310344827
+ezra chitando logical variable	religious	1	1	5	5	NULL	NULL	NULL	593	305	0.0003372681281618887
+ezra chitando logical variable	age	1	1	5	5	NULL	NULL	NULL	32703	4368	0.000006115646882549002
+ezra chitando logical variable	educational	1	1	5	5	NULL	NULL	NULL	623	309	0.00032102728731942215
+ezra chitando logical variable	denominational	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+ezra chitando logical variable	gender	1	1	5	5	NULL	NULL	NULL	16818	2908	0.000011892020454275181
+ezrin touch	children screaming	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ezrin-associated transmembrane protein	CD44	1	1	1	1	NULL	NULL	NULL	132	52	0.007575757575757576
+ezrin-binding protein	CD43	1	1	1	1	1.000000000000	NULL	NULL	36	21	0.027777777777777776
+eZurvey-created content	survey template	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ezwebcon application	Configuration	1	1	2	2	0.333333333333	NULL	NULL	627	286	0.0007974481658692185
+ezwebcon application	SNMP	1	1	2	2	0.333333333333	NULL	NULL	328	162	0.001524390243902439
+ezyclick online service	EzyClick Online Store	1	1	1	1	NULL	NULL	NULL	1	1	1

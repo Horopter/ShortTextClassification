@@ -1,0 +1,61 @@
+zhahir matter	living fee	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zhahir matter	time at night	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zhai little immediate concern	heart	1	1	1	1	NULL	NULL	NULL	4575	1258	0.0002185792349726776
+zhang donkey child rogue villain	corrupt official	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+Zhang Tao system	use of unit	1	1	1	1	NULL	NULL	NULL	1	1	1
+zhang weiying economic center	Beijing University	1	1	1	1	1.000000000000	NULL	NULL	23	14	0.043478260869565216
+zhang yimou movie	Raise the Red Lantern	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+zhang yimou's earlier film	Raise the Red Lantern	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+zhang zi yi famous movie	Rush Hour 2	1	1	2	2	1.000000000000	NULL	NULL	11	6	0.045454545454545456
+zhang zi yi famous movie	Crouching Tiger Hidden Dragon	1	1	2	2	1.000000000000	NULL	NULL	19	14	0.02631578947368421
+zhang's US friend	Pastor	1	1	1	1	NULL	NULL	NULL	228	119	0.0043859649122807015
+zhangjiajie travel product	street	1	1	1	1	NULL	NULL	NULL	1441	583	0.0006939625260235947
+zhao general	size of the Ling Qingzhou Army an army	1	1	1	1	NULL	NULL	NULL	1	1	1
+zhao supporter	current Chinese Premier	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zhejiang cuisine	beggar's chicken	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+zhejiang yongkang hardware product	original production of product	1	1	1	1	NULL	NULL	NULL	1	1	1
+zhejiang-based company	Alibaba	1	1	2	2	NULL	NULL	NULL	98	56	0.00510204081632653
+zhejiang-based company	CHINT Group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zhi char dish	sambal selar fish	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zhi char dish	claypot prawn	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zhi char dish	Kang Kong	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+zhiyong figure	Santo	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+zhodani humanitarian agency	Prietl Foundation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ZHONG TIAN brand product	T series matting agent	1	1	1	1	NULL	NULL	NULL	1	1	1
+zhongguancun-based enterprise	Lenovo	1	1	3	3	0.333333333333	NULL	NULL	838	312	0.00039777247414478914
+zhongguancun-based enterprise	Tsinghua Tongfang	1	1	3	3	0.333333333333	NULL	NULL	7	6	0.047619047619047616
+zhongguancun-based enterprise	Founder	1	1	3	3	0.333333333333	NULL	NULL	88	70	0.0037878787878787876
+zhongyuan region	Henan Province	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+zhou lirong domestic scholar	kidney yin medication hyperandrogenism	1	1	1	1	NULL	NULL	NULL	1	1	1
+zhou radical method	physical age of the rent	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zhou shot	electricity	1	1	1	1	NULL	NULL	NULL	7822	1808	0.00012784454103809768
+zhoukou area	electrical machinery plant in Henan Province by business division	1	1	1	1	NULL	NULL	NULL	1	1	1
+ZHS resellers	InStore Technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZHS resellers	Ruscitti Group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZHTML component	grid	1	1	1	1	NULL	NULL	NULL	539	313	0.0018552875695732839
+zhu fan tribe	select near chow	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zhu muddy surface	ash	1	1	1	1	NULL	NULL	NULL	1923	713	0.0005200208008320333
+Zhu Shimao kiss Wang Siyi	drunken	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+zhu xi's pioneer	Japan	1	1	1	1	NULL	NULL	NULL	17472	2459	0.000057234432234432234
+zhu zhu hamster accessory	house	1	1	1	1	NULL	NULL	NULL	6965	1227	0.00014357501794687725
+zhu zhu item	baby	1	1	1	1	NULL	NULL	NULL	386	188	0.0025906735751295338
+zhu zhu owner	Alicen Kovacic	1	1	1	1	NULL	NULL	NULL	1	1	1
+zhu zhu pet	Mr Squiggles	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zhu zhu pet hamster accessory	car	1	1	2	2	NULL	NULL	NULL	7866	2381	0.00006356470887363335
+zhu zhu pet hamster accessory	carrier	1	1	2	2	NULL	NULL	NULL	794	249	0.0006297229219143577
+zhuang medicine resource	Grosvenor momordica	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zhuang medicine resource	cinnamon	1	1	2	2	NULL	NULL	NULL	3347	776	0.00014938751120406333
+zhuangzi's contemporary	Liezi	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zhuhai attraction	Sun Yat Sen Park	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+zhuhai attraction	Macau Tower	1	1	2	2	NULL	NULL	NULL	9	5	0.05555555555555555
+zhuhai business	Print-Rite Unicorn Image	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zhuhai business	Actions Semiconductor Co Ltd	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zhuhai travel information	hotel	1	1	3	3	NULL	NULL	NULL	7730	2372	0.00004312203536006899
+Zhuhai travel information	dining	1	1	3	3	NULL	NULL	NULL	588	259	0.0005668934240362812
+Zhuhai travel information	shopping	1	1	3	3	NULL	NULL	NULL	3213	983	0.00010374520178441747
+zhuhai's signature attraction	Lover's Road	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zhuhai's signature attraction	Statue of the Fishergirl	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zhuhai's signature attraction	Shijing Shan Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zhuo word	Yum-Kung Road	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zhuo Zhi competition theory	use of industrial economics analysis of the history of China's insurance market	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zhusha	Gengyi Wan	1	1	1	1	NULL	NULL	NULL	1	1	1

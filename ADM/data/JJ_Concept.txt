@@ -1,0 +1,4 @@
+JJ interview important figure	Lord Mayor of Bradford	1	1	1	1	NULL	NULL	NULL	1	1	1
+JJC department	horticulture	1	1	3	4	NULL	NULL	NULL	486	228	0.0006858710562414266
+JJC department	agriculture	1	1	3	4	NULL	NULL	NULL	6485	1582	0.00005140066820868671
+JJC department	veterinary medical technology	1	1	3	4	NULL	NULL	NULL	1	1	0.3333333333333333

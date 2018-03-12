@@ -1,0 +1,65 @@
+BN component	Gerakan	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+BN component party	MIC	2	2	5	3	0.500000000000	NULL	NULL	26	15	0.03076923076923077
+BN component party	MCA	2	2	5	3	0.500000000000	NULL	NULL	116	64	0.006896551724137932
+bn component party	sarawak bn component party	1	1	5	3	0.500000000000	NULL	NULL	3	3	0.06666666666666667
+BN faves	Eau de Iles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BN faves	Ambre Precieux	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+BN free friday book	Nail Through the Heart by Timothy Hallinan	1	1	1	1	NULL	NULL	NULL	1	1	1
+BN leader	Prime Minister Datuk Seri Najib Razak	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+BN leader	Dr M	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+BN nanomaterials	cluster	1	1	1	1	NULL	NULL	NULL	332	213	0.0030120481927710845
+BN party	MCA	4	3	8	3	1.000000000000	NULL	NULL	116	64	0.017241379310344827
+BN party	Gerakan	3	2	8	3	1.000000000000	NULL	NULL	17	12	0.0661764705882353
+BN party	MIC	1	1	8	3	1.000000000000	NULL	NULL	26	15	0.004807692307692308
+BN stalwart	former Deputy Chief Minister Datuk Tham Nyip Shen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BN stalwart	Elopura Assemblyman Au Kam Wah	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BN YB name	Tike Lafe	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+BN YB name	Alex Linggi	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+BN YB name	Billy Abit	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+BN YB name	Aaron Dagang	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+BN YB name	Richard Riot	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bn's non-malay component party	MIC	1	1	3	3	0.666666666666	NULL	NULL	26	15	0.01282051282051282
+bn's non-malay component party	GERAKAN	1	1	3	3	0.666666666666	NULL	NULL	17	12	0.0196078431372549
+bn's non-malay component party	MCA	1	1	3	3	0.666666666666	NULL	NULL	116	64	0.0028735632183908046
+bn-like receptor	NMB	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+BNA atlantic colony	Nova Scotia	1	1	1	1	NULL	NULL	NULL	310	54	0.0032258064516129032
+BNA international material	International Trade Reporter	1	0	1	1	NULL	NULL	NULL	1	1	1
+BNA new update	Health Law Reporter	1	1	1	1	NULL	NULL	NULL	1	1	1
+BNC connector related offer	Audio Connector	1	1	1	1	1.000000000000	NULL	NULL	17	16	0.058823529411764705
+BNC network technological development	Broadband internet	1	1	1	1	NULL	NULL	NULL	105	57	0.009523809523809525
+BNC product	steroid hormone	1	1	2	2	0.500000000000	NULL	NULL	105	68	0.004761904761904762
+BNC product	pregnancy-associated glycoproteins	1	1	2	2	0.500000000000	NULL	NULL	4	2	0.125
+BNC resource	research specialist	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+BNC resource	cultural program	1	1	3	3	NULL	NULL	NULL	68	35	0.004901960784313725
+BNC resource	library	1	1	3	3	NULL	NULL	NULL	6833	2108	0.000048782867456949115
+BNC type device	terminator	1	1	1	1	NULL	NULL	NULL	209	77	0.004784688995215311
+BNC video capture card	Hauppauge's Impact Video Capture	1	1	1	1	NULL	NULL	NULL	1	1	1
+BNC-PAGs	bovine PAG-9	1	1	1	1	NULL	NULL	NULL	1	1	1
+bnei-braks unique site	synagogue	1	1	1	1	0.500000000000	NULL	NULL	232	120	0.004310344827586207
+bnetza's view network issue	network development	2	2	2	1	1.000000000000	NULL	NULL	12	9	0.16666666666666666
+BNFL team	Old Slow Goalie	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+BNFL team	Rushin Russians	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+BNI chapter	Business Power Network	1	1	1	1	NULL	NULL	NULL	1	1	1
+BNI system	Event Coordinator	1	1	4	4	1.000000000000	NULL	NULL	7	9	0.03571428571428571
+BNI system	Membership Committee	1	1	4	4	1.000000000000	NULL	NULL	11	7	0.022727272727272728
+BNI system	Visitor Hosts	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+BNI system	Educational Coordinator	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+BNL activity	conference	1	0	2	2	NULL	NULL	NULL	2864	1022	0.00017458100558659218
+BNL activity	meeting	1	0	2	2	NULL	NULL	NULL	1898	768	0.00026343519494204424
+BNLS server	phix.no-ip.org Bot Settings	1	1	1	1	NULL	NULL	NULL	1	1	1
+bnormal account balance	negative balance	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+BNP activist	Paul Green Arrow Morris	1	1	1	1	NULL	NULL	NULL	1	1	1
+BNP andothersurrogate measure	LV structure	1	1	1	1	NULL	NULL	NULL	1	1	1
+BNP asset	land	1	1	2	2	NULL	NULL	NULL	2765	917	0.00018083182640144665
+BNP asset	vehicle	1	1	2	2	NULL	NULL	NULL	2848	998	0.00017556179775280898
+BNP developmental project	dam	1	1	2	2	NULL	NULL	NULL	1367	619	0.000365764447695684
+BNP developmental project	road construction	1	1	2	2	NULL	NULL	NULL	495	245	0.00101010101010101
+BNP EDL catholic pressure group	Catholic Care	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+BNP EDL catholic pressure group	life league	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bnp's condition	creating congenial atmosphere in the House	1	1	1	1	NULL	NULL	NULL	1	1	1
+BNR improvement	increased blower capacity	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+BNR improvement	aeration tank improvement	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+BNR improvement	chemical addition system	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+BNR process	suspended growth	1	1	1	1	NULL	NULL	NULL	1	1	1
+bnt mercenary demagogue	Daniel O'Connell	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+BNY mellon asset servicing client	State Board of Administration of Florida	1	1	1	1	NULL	NULL	NULL	1	1	1

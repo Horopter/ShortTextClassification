@@ -1,0 +1,19 @@
+HQ	celestian	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HQ album	Passion	1	1	1	1	NULL	NULL	NULL	459	169	0.002178649237472767
+HQ design	layout	1	1	1	1	NULL	NULL	NULL	1028	373	0.0009727626459143969
+HQ event	Pensioners Garden Party	1	1	1	1	NULL	NULL	NULL	1	1	1
+HQ graphic	avatar	1	1	2	2	NULL	NULL	NULL	505	227	0.0009900990099009901
+HQ graphic	layout	1	1	2	2	NULL	NULL	NULL	1028	373	0.00048638132295719845
+HQ initiative	Mayo Clinic Tobacco Quitline	1	1	1	1	NULL	NULL	NULL	1	1	1
+HQ operational team	Local Policing	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+HQ organization	Center of Military History	1	1	1	1	NULL	NULL	NULL	1	1	1
+HQ team activity	mailing	1	1	1	1	NULL	NULL	NULL	501	238	0.001996007984031936
+HQ video	Decadence trailer	1	1	1	1	NULL	NULL	NULL	1	1	1
+HQ workplace	London	1	1	3	3	NULL	NULL	NULL	4434	1064	0.00007517666516313335
+HQ workplace	Shared Service center in Newport	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HQ workplace	Newbold Revel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HQI lamp manufacturer	General Electric	1	1	2	2	NULL	NULL	NULL	2514	682	0.0001988862370723946
+HQI lamp manufacturer	Philips	1	1	2	2	NULL	NULL	NULL	1532	517	0.00032637075718015666
+HQs	West Yorkshire Fire	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+hqv feature	exclusive hqv feature	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HQV feature	pixel-by-pixel noise reduction	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666

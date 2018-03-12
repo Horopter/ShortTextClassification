@@ -1,0 +1,17 @@
+YL product	NingXia Red	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+YLD calculation many condition	cerebrovascular disease	1	1	1	1	NULL	NULL	NULL	125	80	0.008
+YLD program	Lawyer in the Classroom	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+YLD program	Law Fair	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+YLD program	Mock Trial Camp	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+YLD program	volunteering at the Ronald McDonald House	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+YLD signature event	Summer in the City	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+YLD signature event	Comedy Night	1	1	2	2	1.000000000000	NULL	NULL	50	23	0.01
+YLG event	Lunching with Leaders	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YLG event	Peer-to-Peer Workshops	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ylide	3P CH2	1	1	1	1	NULL	NULL	NULL	1	1	1
+yllable word	pancake	1	1	1	1	NULL	NULL	NULL	481	243	0.002079002079002079
+yllana event	wedding	1	1	1	1	NULL	NULL	NULL	9942	1590	0.00010058338362502515
+YLM concept	Meri Seif Ples	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YLM concept	Famili Seif Ples	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ylp-related expense	transportation	1	1	2	2	NULL	NULL	NULL	8378	2254	0.000059680114585820004
+ylp-related expense	food	1	1	2	2	NULL	NULL	NULL	18353	4439	0.000027243502424671715

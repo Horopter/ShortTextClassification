@@ -1,0 +1,74 @@
+rw	Varanasi for Hindus	1	1	1	1	NULL	NULL	NULL	1	1	1
+RW branded project	book	1	1	1	1	NULL	NULL	NULL	13029	3482	0.00007675186123263489
+RWA related event	open house	1	1	2	2	NULL	NULL	NULL	628	235	0.0007961783439490446
+RWA related event	Mavericks Games	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Rwanda context	PAYE system	1	1	1	1	NULL	NULL	NULL	1	1	1
+rwanda disaster	famine	1	1	1	1	NULL	NULL	NULL	675	287	0.0014814814814814814
+rwanda tour company	Primate Safaris	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rwanda tour company	Volcanoes Safaris	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rwanda's excellent museum	National Museum of Butare	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rwanda's excellent museum	Rwesero Art Museum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rwanda's largest public sector business	utility Electrogaz	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+rwanda's largest public sector business	phone company Rwandatel	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+rwanda's main challenge	high demographic growth	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+rwanda's wetland	Nyabarongo Wetlands Important Bird Area at risk	1	1	1	1	NULL	NULL	NULL	1	1	1
+rwandan blue-chip company	MTN	1	1	1	1	NULL	NULL	NULL	182	112	0.005494505494505495
+rwandan blue-chip corporation	MTN	1	1	1	1	NULL	NULL	NULL	182	112	0.005494505494505495
+rwandan civil society group	N4A's partner	1	1	1	1	NULL	NULL	NULL	1	1	1
+rwandan death camp	Church of Sainte Famille in Kigali	1	1	1	1	NULL	NULL	NULL	1	1	1
+rwandan export	coffee	1	1	1	1	NULL	NULL	NULL	11509	2489	0.00008688852202624034
+rwandan horticultural product	French bean	1	1	1	1	NULL	NULL	NULL	121	54	0.008264462809917356
+rwandan instrument	leather drum	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rwandan president juvenale habyarimana's ally	France	1	1	1	1	NULL	NULL	NULL	18997	2318	0.00005263989050902774
+rwandan primary product	mate	1	1	4	4	NULL	NULL	NULL	54	29	0.004629629629629629
+rwandan primary product	spice export	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rwandan primary product	tea	1	1	4	4	NULL	NULL	NULL	7608	1710	0.000032860147213459515
+rwandan primary product	coffee	1	1	4	4	NULL	NULL	NULL	11509	2489	0.000021722130506560084
+rwandan strategic economic sector	agriculture	1	1	3	3	NULL	NULL	NULL	6485	1582	0.00005140066820868671
+rwandan strategic economic sector	overall Government's Vision 2020	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rwandan strategic economic sector	tourism	1	1	3	3	NULL	NULL	NULL	3057	830	0.00010903936321011885
+rwb's inspiration	fox	1	1	4	4	0.250000000000	NULL	NULL	3360	860	0.00007440476190476191
+rwb's inspiration	gecko	1	1	4	4	0.250000000000	NULL	NULL	43	14	0.005813953488372093
+rwb's inspiration	siren	1	1	4	4	0.250000000000	NULL	NULL	424	216	0.0005896226415094339
+rwb's inspiration	elephant	1	1	4	4	0.250000000000	NULL	NULL	2497	651	0.00010012014417300761
+RWBR producer	publicly owned treatment work	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RWC device	furnace	1	1	2	2	NULL	NULL	NULL	994	392	0.0005030181086519115
+RWC device	fireplace	1	1	2	2	NULL	NULL	NULL	1489	522	0.000335795836131632
+rwc-related initiative	free public transport on selected services for ticket holder	1	1	1	1	NULL	NULL	NULL	1	1	1
+rwd	5 series BMW	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RWD application	S-10	1	1	1	1	0.500000000000	NULL	NULL	10	10	0.1
+RWD car	Camaro	2	2	13	12	0.428571428571	NULL	NULL	107	46	0.002875629043853343
+RWD car	Monte Carlo	1	1	13	12	0.428571428571	NULL	NULL	245	136	0.0003139717425431711
+RWD car	RWD Regal	1	1	13	12	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+RWD car	Infiniti G35	1	1	13	12	0.428571428571	NULL	NULL	8	7	0.009615384615384616
+RWD car	undercover black-coloured RX2	1	1	13	12	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+RWD car	350Z	1	1	13	12	0.428571428571	NULL	NULL	14	8	0.005494505494505495
+RWD car	S10	1	1	13	12	0.428571428571	NULL	NULL	11	5	0.006993006993006993
+RWD car	Firebird	1	1	13	12	0.428571428571	NULL	NULL	68	48	0.0011312217194570137
+RWD car	350Z RX-8	1	1	13	12	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+RWD car	Cutlass	1	1	13	12	0.428571428571	NULL	NULL	73	39	0.0010537407797681772
+rwd car	front engine rwd car	1	1	13	12	0.428571428571	NULL	NULL	2	2	0.038461538461538464
+RWD car	hoard of 1JZ-engined BMWs	1	1	13	12	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+RWD coupe	Camaros	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+RWD coupe	older Supras	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+RWD gearbox	RB20T box	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RWD gearbox	RB25T box	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RWD Mazdas	R100	1	1	1	1	1.000000000000	NULL	NULL	14	7	0.07142857142857142
+rwd Opels	Kadett C	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rwd Opels	Ascona B	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RWD platform	new small coupe from Scion	1	1	1	1	NULL	NULL	NULL	1	1	1
+RWD tool	RWD uperform	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RWD vehicle	mustang	1	1	1	1	NULL	NULL	NULL	220	123	0.004545454545454545
+rwdbabstractbuffer instance	RWDBTBuffer instance	1	1	1	1	NULL	NULL	NULL	1	1	1
+RWE constraint	time	1	1	2	2	NULL	NULL	NULL	8851	2418	0.000056490792000903855
+RWE constraint	budget	1	1	2	2	NULL	NULL	NULL	2634	864	0.00018982536066818528
+RWE identifiers	social security number	1	1	2	2	NULL	NULL	NULL	3686	549	0.00013564839934888768
+RWE identifiers	licence number	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+RWIS datum	precipitation	1	1	1	1	NULL	NULL	NULL	1605	580	0.0006230529595015577
+Rwiththestandard help command	help	1	1	1	1	NULL	NULL	NULL	294	145	0.003401360544217687
+RWM abnormality	akinesia	1	1	1	1	1.000000000000	NULL	NULL	22	15	0.045454545454545456
+RWQCBs	Santa Ana Regional Water Board	1	1	1	1	NULL	NULL	NULL	1	1	1
+rws's marketing asset	marketing video	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rws's marketing asset	corporate deck	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rws's marketing asset	visual	1	1	4	4	NULL	NULL	NULL	599	343	0.00041736227045075126
+rws's marketing asset	official write-ups	1	1	4	4	NULL	NULL	NULL	1	1	0.25

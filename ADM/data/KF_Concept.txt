@@ -1,0 +1,20 @@
+KF titrator operating datum	reagent condition	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+KF titrator operating datum	drift rate	2	2	4	2	NULL	NULL	NULL	4	3	0.25
+KF8 feature	Kindle Panel Views	2	2	2	1	NULL	NULL	NULL	2	1	1
+KFC internal video	concept video	1	1	1	1	NULL	NULL	NULL	1	1	1
+KFC local offering	spicy chicken burger	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+KFC product	macaroni	1	1	2	2	NULL	NULL	NULL	405	236	0.0012345679012345679
+KFC product	cheese	1	1	2	2	NULL	NULL	NULL	9373	2034	0.0000533447135388883
+kfc's local offering	spicy chicken burger	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kfc's new product	Oriental Wings	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kfc's new product	Honey BBQ chicken	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KFI option	speed	1	1	1	1	NULL	NULL	NULL	4847	1571	0.00020631318341242006
+KFOR asset	helicopter	1	1	1	1	NULL	NULL	NULL	1018	386	0.0009823182711198428
+KFP2 item	bandana	1	1	2	2	NULL	NULL	NULL	227	74	0.0022026431718061676
+KFP2 item	sticker	1	1	2	2	NULL	NULL	NULL	1721	593	0.0002905287623474724
+KFRS document	memo	1	1	1	1	NULL	NULL	NULL	418	174	0.0023923444976076554
+KFV characteristic	unusual genomic arrangement	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+KFV characteristic	capsid protein arrangement	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+KFV characteristic	particle morphology	1	1	3	3	1.000000000000	NULL	NULL	14	9	0.023809523809523808
+KFWB traffic reporter	Jane Monreal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KFWB traffic reporter	Jennifer Burns	1	1	2	2	NULL	NULL	NULL	1	1	0.5

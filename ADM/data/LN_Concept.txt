@@ -1,0 +1,133 @@
+LN device	Mach-Zehnder optical intensity modulator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LN device	polarization scrambler	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ln film	Partisan Stones	1	1	1	1	NULL	NULL	NULL	1	1	1
+LN latest price product	detailed physical information	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LN latest price product	SGS report	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LN latest price product	BASF of Germany	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+LN object	subway	1	1	1	1	NULL	NULL	NULL	1129	471	0.0008857395925597874
+LN ruler	king	1	1	1	1	NULL	NULL	NULL	594	317	0.0016835016835016834
+LN stromal cell	fibroblastic reticular cell	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+LN stromal cell	follicular DCs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lna's aforementioned conventional design parameter	gain	1	1	1	1	0.500000000000	NULL	NULL	700	312	0.0014285714285714286
+LNA-containing oligonucleotides	Oligo-2 targeting ErbB3 gene	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+LNA-containing oligonucleotides	Oligo-1 targeting survivin gene	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+lna-rich oil	linseed oil	1	1	1	1	NULL	NULL	NULL	315	119	0.0031746031746031746
+LNAAs	tyrosine	1	1	1	1	NULL	NULL	NULL	342	97	0.0029239766081871343
+LNAPL zone parameter	porosity	2	1	3	2	NULL	NULL	NULL	1317	476	0.0010124019235636548
+LNAPL zone parameter	hydraulic conductivity	1	1	3	2	NULL	NULL	NULL	199	93	0.001675041876046901
+LNAPLs	petroleum hydrocarbon	1	0	2	2	NULL	NULL	NULL	80	44	0.00625
+LNAPLs	heating oil	1	1	2	2	NULL	NULL	NULL	183	87	0.00273224043715847
+LNAs	found in the NURAD 20QP1 Horn Antenna System	1	1	1	1	NULL	NULL	NULL	1	1	1
+lncorporate design feature	built frame	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lncorporate design feature	consistent with the development's architectural style	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lncRNAs	ultraconserved gene	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+lncRNAs	MEG3	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+lncRNAs	PRC2	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+lncRNAs	NRON	1	1	6	5	NULL	NULL	NULL	2	2	0.08333333333333333
+lncRNAs	HOTAIR	1	1	6	5	NULL	NULL	NULL	5	5	0.03333333333333333
+lndonesian ingredient	cut chilli	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lndonesian ingredient	lime leaf	1	1	2	2	1.000000000000	NULL	NULL	13	11	0.038461538461538464
+lndusrrles.	weaving mllls	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+LNED food	cookie	1	1	4	4	0.250000000000	NULL	NULL	5329	1507	0.000046913116907487336
+LNED food	breakfast pastry	1	1	4	4	0.250000000000	NULL	NULL	11	9	0.022727272727272728
+LNED food	brownie	1	1	4	4	0.250000000000	NULL	NULL	656	288	0.00038109756097560977
+LNED food	french fries	1	1	4	4	0.250000000000	NULL	NULL	1412	402	0.00017705382436260624
+lnfrastructural facility	school	1	1	1	1	NULL	NULL	NULL	16053	4303	0.00006229365227683299
+LNG application	process control for LNG reliquefaction	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LNG application	satellites for gaseous supply	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LNG application	production plant storage	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LNG application	ship refueling	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LNG aspect	thermodynamics of liquefaction	1	1	1	1	NULL	NULL	NULL	1	1	1
+LNG buyer	Japan	1	0	3	3	NULL	NULL	NULL	17472	2459	0.000019078144078144078
+LNG buyer	China	1	0	3	3	NULL	NULL	NULL	30422	3640	0.000010956982885192733
+LNG buyer	Korea	1	0	3	3	NULL	NULL	NULL	4199	730	0.00007938398031277288
+LNG carrier	Malaysian International Shipping	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LNG carrier	Al Wakrah	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+LNG carrier	owned by a group led by Japan's Mitsui OSK Lines Ltd.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LNG consumer	Tokyo Gas	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+LNG consumer	Tokyo Electric Power Company	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+lng consumer	traditional lng consumer	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+LNG customer	BP	2	1	4	2	NULL	NULL	NULL	1912	562	0.0005230125523012552
+LNG customer	Bechtel	2	1	4	2	NULL	NULL	NULL	224	98	0.004464285714285714
+lng exporter	traditional lng exporter	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+lng exporter	key lng exporter	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+lng exporter	potential lng exporter	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+LNG exporter	Indonesia	1	1	6	6	NULL	NULL	NULL	7073	1117	0.00002356378717187426
+LNG exporter	Malaysia	1	1	6	6	NULL	NULL	NULL	6168	917	0.000027021184608733246
+LNG exporter	Qatar	1	1	6	6	NULL	NULL	NULL	990	270	0.00016835016835016833
+LNG facility	LNG tank	1	1	2	2	1.000000000000	NULL	NULL	7	4	0.07142857142857142
+LNG facility	FSRU	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+LNG fuel stock	Clean Energy Fuels	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+lng import terminal	potential lng import terminal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LNG import terminal	Crown Landing	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+LNG importer	Singapore	3	3	6	4	NULL	NULL	NULL	7135	1325	0.0002102312543798178
+LNG importer	China	1	1	6	4	NULL	NULL	NULL	30422	3640	0.0000054784914425963665
+LNG importer	India	1	1	6	4	NULL	NULL	NULL	24660	2730	0.000006758583400919167
+lng importer	traditional lng importer	1	1	6	4	NULL	NULL	NULL	2	2	0.08333333333333333
+LNG industry standard	OCIMF	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+LNG infrastructure	liquefaction facility	1	1	1	1	NULL	NULL	NULL	1	1	1
+LNG manufacturer	Shell	1	1	1	1	NULL	NULL	NULL	4074	1301	0.0002454590083456063
+lng market	promising lng market	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LNG new item	ship delivery	1	1	4	4	1.000000000000	NULL	NULL	4	2	0.0625
+LNG new item	company new	1	1	4	4	1.000000000000	NULL	NULL	34	20	0.007352941176470588
+LNG new item	project new	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+LNG new item	product new	1	1	4	4	1.000000000000	NULL	NULL	8	6	0.03125
+LNG plant manufacturer	Bechtel Group Inc. of San Francisco	1	1	1	1	NULL	NULL	NULL	1	1	1
+LNG player	Chevron Corp.	1	1	2	2	NULL	NULL	NULL	105	38	0.004761904761904762
+LNG player	Indonesia	1	1	2	2	NULL	NULL	NULL	7073	1117	0.0000706913615156228
+LNG processing facility	power generator	1	1	5	5	NULL	NULL	NULL	115	97	0.0017391304347826088
+LNG processing facility	vaporisers	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+LNG processing facility	regasification plant	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+LNG processing facility	separator	1	1	5	5	NULL	NULL	NULL	174	74	0.0011494252873563218
+LNG processing facility	pump	1	1	5	5	NULL	NULL	NULL	3215	1354	0.00006220839813374805
+LNG producer	Qatar	3	3	11	7	0.166666666666	NULL	NULL	990	270	0.0008264462809917355
+LNG producer	Indonesia	2	2	11	7	0.166666666666	NULL	NULL	7073	1117	0.000051411899284089306
+LNG producer	Nigeria	2	2	11	7	0.166666666666	NULL	NULL	3333	572	0.00010910181927283638
+LNG producer	Russia	1	1	11	7	0.166666666666	NULL	NULL	8825	1448	0.000010301313417460726
+lng producer	atlantic basin lng producer	1	1	11	7	0.166666666666	NULL	NULL	2	2	0.045454545454545456
+LNG producer	Trinidad	1	1	11	7	0.166666666666	NULL	NULL	347	111	0.00026198585276395077
+LNG producer	RasGas	1	1	11	7	0.166666666666	NULL	NULL	9	7	0.010101010101010102
+LNG project	Persian LNG	3	3	14	12	0.600000000000	NULL	NULL	3	1	0.21428571428571427
+LNG project	Gorgon in northern Western Australia	1	1	14	12	0.600000000000	NULL	NULL	1	1	0.07142857142857142
+LNG project	Pars LNG & Persian LNG project	1	1	14	12	0.600000000000	NULL	NULL	1	1	0.07142857142857142
+LNG project	Pluto	1	1	14	12	0.600000000000	NULL	NULL	112	55	0.0006377551020408163
+LNG project	Wheatstone	1	1	14	12	0.600000000000	NULL	NULL	9	7	0.007936507936507936
+lng project	longer-term australian lng project	1	1	14	12	0.600000000000	NULL	NULL	2	2	0.03571428571428571
+LNG project	CMS Energy	1	1	14	12	0.600000000000	NULL	NULL	8	7	0.008928571428571428
+LNG project	Woodside's Browse project	1	1	14	12	0.600000000000	NULL	NULL	1	1	0.07142857142857142
+lng project	prime lng project	1	1	14	12	0.600000000000	NULL	NULL	2	2	0.03571428571428571
+LNG project	Inpex Ichthys project	1	1	14	12	0.600000000000	NULL	NULL	1	1	0.07142857142857142
+LNG project	Sleipner	1	1	14	12	0.600000000000	NULL	NULL	5	5	0.014285714285714285
+LNG project	Browse	1	1	14	12	0.600000000000	NULL	NULL	70	45	0.001020408163265306
+LNG project developer	Chevron	1	0	1	1	NULL	NULL	NULL	1094	336	0.0009140767824497258
+LNG project experience	Gorgon Project	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LNG route	transatlantic route	1	1	1	1	NULL	NULL	NULL	1	1	1
+LNG supply source	Qatar	1	1	1	1	NULL	NULL	NULL	990	270	0.00101010101010101
+LNG tank technology	IMO type B	1	1	1	1	NULL	NULL	NULL	1	1	1
+lng terminal	offshore lng terminal	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LNG volume	purc hases from Qatar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LNG volume	purchases from Qatar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lnhealthy lifestyle habit	smoking	1	1	2	2	NULL	NULL	NULL	12009	2006	0.00004163544008660171
+lnhealthy lifestyle habit	late night	1	1	2	2	NULL	NULL	NULL	43	28	0.011627906976744186
+LNI configuration rule	channel structure	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Lnjectables	Epipen	1	0	1	1	1.000000000000	NULL	NULL	9	11	0.1111111111111111
+lnk file	desktop shortcut	2	2	2	1	1.000000000000	NULL	NULL	9	8	0.2222222222222222
+LNMS scheme	signing scheme	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LNMS scheme	Crash Cushion Units Installation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LNMS scheme	Road Lining Improvements	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lnorganic solvent	acetone	1	1	3	3	NULL	NULL	NULL	2962	700	0.00011253657438667567
+lnorganic solvent	methanol	1	1	3	3	NULL	NULL	NULL	4016	908	0.00008300132802124833
+lnorganic solvent	isopropanol	1	1	3	3	NULL	NULL	NULL	658	166	0.0005065856129685916
+LNP capable carrier cost	training	1	1	3	3	NULL	NULL	NULL	7685	2537	0.00004337453914552158
+LNP capable carrier cost	documentation	1	1	3	3	NULL	NULL	NULL	890	443	0.00037453183520599247
+LNP capable carrier cost	procedure	1	1	3	3	NULL	NULL	NULL	1039	479	0.0003208213025344883
+LNP database	Number Portability Administration Center database	1	1	1	1	NULL	NULL	NULL	1	1	1
+LNS tool	LonMaker Integration Tool	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+LNS-based network tool	LonMaker for Windows Integration Tool	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+LNS-compatible installation tool	Echelon LonMaker TM	1	1	1	1	NULL	NULL	NULL	1	1	1
+LNT promotional product	LNT water bottle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LNT promotional product	s for potential sale through the 3FIA program at Ranger Stations	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lnteractive video service	videc telephony	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lnteractive video service	movies on demand	1	1	2	2	1.000000000000	NULL	NULL	22	11	0.022727272727272728
+lnterchanger objective	compact design	1	1	2	2	0.500000000000	NULL	NULL	47	23	0.010638297872340425
+lnterchanger objective	low cost	1	1	2	2	0.500000000000	NULL	NULL	437	113	0.0011441647597254005

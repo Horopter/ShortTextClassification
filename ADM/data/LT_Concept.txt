@@ -1,0 +1,230 @@
+lt	disaster risk	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LT &HT switch gear	11 KV SF6 CBs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LT &HT switch gear	11 KV CBs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LT antagonist	montelukast	1	1	2	2	0.500000000000	NULL	NULL	142	45	0.0035211267605633804
+LT antagonist	pranlukast	1	1	2	2	0.500000000000	NULL	NULL	13	11	0.038461538461538464
+lt many art museum	Rodin Museum	1	1	2	2	1.000000000000	NULL	NULL	17	12	0.029411764705882353
+lt many art museum	Pennsylvania Academy of the Fine Arts	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+LT radil tire	Michelin XPS	1	1	1	1	NULL	NULL	NULL	1	1	1
+LT session	2x10k	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LT session	3x5k	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LT session	3x4k	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LT T LT tool	thermometer	1	1	1	1	NULL	NULL	NULL	993	362	0.0010070493454179255
+LT's	BBK	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+lt-associated extracellular matrix protein	laminin	1	1	1	1	NULL	NULL	NULL	326	106	0.003067484662576687
+LT-STDB non-supply ischemic event	heart rate related event	1	1	1	1	NULL	NULL	NULL	1	1	1
+Lt. Dan's	Dan Choi	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+LT. investment	Treasury note	1	1	1	1	1.000000000000	NULL	NULL	25	22	0.04
+Lt.Le s	Federa Reserve	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Lt.Le s	Un i.t.eNations Security Council	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LT1 cysteinyl leukotriene-receptor antagonist	pranlukast	1	1	3	3	0.333333333333	NULL	NULL	13	11	0.02564102564102564
+LT1 cysteinyl leukotriene-receptor antagonist	zafirlukast	1	1	3	3	0.333333333333	NULL	NULL	74	30	0.0045045045045045045
+LT1 cysteinyl leukotriene-receptor antagonist	montelukast	1	1	3	3	0.333333333333	NULL	NULL	142	45	0.002347417840375587
+LTA charge	road tax	2	1	3	2	1.000000000000	NULL	NULL	53	34	0.025157232704402514
+LTA charge	prevailing quota premium	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+LTAC hospital	Kindred	1	1	1	1	0.500000000000	NULL	NULL	18	16	0.05555555555555555
+LTAs	Gambier	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+LTC carrier	John Hancock	1	1	1	1	NULL	NULL	NULL	146	86	0.00684931506849315
+LTC funding option	investing	1	1	2	2	NULL	NULL	NULL	188	101	0.0026595744680851063
+LTC funding option	Medicaid	1	1	2	2	NULL	NULL	NULL	2599	774	0.00019238168526356292
+LTC insurance market trend	collected premium	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTC pharmacy	Managed Health Care Associates	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+LTC pharmacy	Omnicare	1	1	4	4	0.500000000000	NULL	NULL	13	10	0.019230769230769232
+LTC pharmacy	Inc.	1	1	4	4	0.500000000000	NULL	NULL	1793	737	0.00013943112102621306
+LTC pharmacy	PharMerica	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+LTC provider	nursing home	1	1	1	1	NULL	NULL	NULL	1931	662	0.0005178663904712584
+LTC regulation	RAI Manual	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTC service	assisted living	1	1	1	1	NULL	NULL	NULL	195	105	0.005128205128205128
+LTC setting	nursing facility	1	1	1	1	1.000000000000	NULL	NULL	49	34	0.02040816326530612
+LTC4S gene product	LTC4S polypeptide	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTCC antagonist	dihydropyridines	2	2	2	1	1.000000000000	NULL	NULL	14	10	0.14285714285714285
+LTCC component	common mode filter	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+LTCC component	chip antennas	1	1	3	3	1.000000000000	NULL	NULL	16	8	0.020833333333333332
+LTCC component	LC filter	1	1	3	3	1.000000000000	NULL	NULL	28	16	0.011904761904761904
+LTCC core technology	technology of manufacturing raw material	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTCC feature	cavity formation capability	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTCC feature	3D integration	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTCC functionalities	thermal -via	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+LTCI leader	John Hancock	1	1	2	2	NULL	NULL	NULL	146	86	0.003424657534246575
+LTCI leader	MetLife	1	1	2	2	NULL	NULL	NULL	259	101	0.0019305019305019305
+ltdprints.com's many bright mural option	aircraft mural	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTE carrier	Metro PCS	1	1	1	1	NULL	NULL	NULL	42	23	0.023809523809523808
+LTE competitor	Alcatel-Lucent	1	1	1	1	NULL	NULL	NULL	269	135	0.0037174721189591076
+LTE device	universal serial bus modem	1	1	10	10	0.428571428571	NULL	NULL	2	2	0.05
+LTE device	tablet computer	1	1	10	10	0.428571428571	NULL	NULL	234	97	0.00042735042735042735
+LTE device	tablet	1	1	10	10	0.428571428571	NULL	NULL	2918	735	0.00003427004797806717
+LTE device	data card	1	1	10	10	0.428571428571	NULL	NULL	24	22	0.004166666666666667
+LTE device	HTC Thunderbolt	1	1	10	10	0.428571428571	NULL	NULL	24	16	0.004166666666666667
+LTE device	hotspot	1	1	10	10	0.428571428571	NULL	NULL	46	36	0.002173913043478261
+LTE device	smartphones	1	1	10	10	0.428571428571	NULL	NULL	1634	468	0.00006119951040391677
+LTE device	Samsung Charge	1	1	10	10	0.428571428571	NULL	NULL	3	3	0.03333333333333333
+LTE device	Motorola Xoom sold by Verizon Wireless	1	1	10	10	0.428571428571	NULL	NULL	1	1	0.1
+LTE device	phone	1	1	10	10	0.428571428571	NULL	NULL	3710	1244	0.000026954177897574127
+LTE ecosystem leading infrastructure vendor	Alcatel-Lucent	1	1	3	3	NULL	NULL	NULL	269	135	0.0012391573729863693
+LTE ecosystem leading infrastructure vendor	Nokia Siemens Networks	1	1	3	3	NULL	NULL	NULL	86	46	0.003875968992248062
+LTE ecosystem leading infrastructure vendor	Ericsson	1	1	3	3	NULL	NULL	NULL	954	366	0.00034940600978336826
+LTE equipment maker	Ericsson	1	1	1	1	NULL	NULL	NULL	954	366	0.0010482180293501049
+LTE feature	downlink beamforming	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LTE feature	antenna selection	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+LTE feature	frequency selective uplink scheduling	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+LTE feature	power control	1	1	4	4	NULL	NULL	NULL	117	86	0.002136752136752137
+LTE measurement	EVM	1	1	2	2	1.000000000000	NULL	NULL	30	23	0.016666666666666666
+LTE measurement	subcarrier	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+LTE physical signal	pilot subcarriers	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTE R8 parameter	cyclic shift	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LTE test solution	troubleshooting solution for LTE network	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTE test solution	complete end-to-end analysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lte's distinct long term advantage	high data rate	3	3	3	1	1.000000000000	NULL	NULL	11	6	0.2727272727272727
+LTE-capable smartphones	HTC ThunderBolt	1	1	1	1	1.000000000000	NULL	NULL	24	16	0.041666666666666664
+lte-related radio procedure	channel estimation	1	1	4	4	0.750000000000	NULL	NULL	22	20	0.011363636363636364
+lte-related radio procedure	resource allocation	1	1	4	4	0.750000000000	NULL	NULL	214	116	0.0011682242990654205
+lte-related radio procedure	cell search	1	1	4	4	0.750000000000	NULL	NULL	15	10	0.016666666666666666
+lte-related radio procedure	random access	1	1	4	4	0.750000000000	NULL	NULL	25	17	0.01
+lter type	notchlter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lter type	low pass lter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ltermethods	Iterative Cascade Extended Kalman Filters	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+ltermethods	Unscented Kalman Filters	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+lternative energy source	solar energy	1	1	2	2	NULL	NULL	NULL	875	287	0.0005714285714285715
+lternative energy source	wind power	1	1	2	2	NULL	NULL	NULL	1167	356	0.0004284490145672665
+lternative medication	Omega-3 fatty acid	1	1	1	1	NULL	NULL	NULL	385	108	0.0025974025974025974
+lternative office arrangement	telecommuting	1	1	1	1	NULL	NULL	NULL	454	193	0.0022026431718061676
+lternative resolution	work release	1	1	1	1	0.500000000000	NULL	NULL	51	28	0.0196078431372549
+lternative source	coke	1	1	1	1	NULL	NULL	NULL	1186	467	0.0008431703204047217
+lternative test	ultrasound	1	1	1	1	NULL	NULL	NULL	4264	1094	0.00023452157598499062
+LTERNATIVES everyday building material	stone	1	1	4	4	NULL	NULL	NULL	4509	1342	0.000055444666223109334
+LTERNATIVES everyday building material	glass	1	1	4	4	NULL	NULL	NULL	12254	3248	0.00002040150155051412
+LTERNATIVES everyday building material	brick	1	1	4	4	NULL	NULL	NULL	3736	1183	0.00006691648822269808
+LTERNATIVES everyday building material	metal	1	1	4	4	NULL	NULL	NULL	11430	2556	0.000021872265966754154
+lters	etalon	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+lters	twenty-fi ve different fi lters	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ltgen lejeune's descendant	Jacques LaCour	1	1	1	1	NULL	NULL	NULL	1	1	1
+lthough abstract value	good faith	3	3	3	1	1.000000000000	NULL	NULL	73	39	0.0410958904109589
+lthough glucocorticoid drug	methylprednisolone	1	1	2	2	NULL	NULL	NULL	180	52	0.002777777777777778
+lthough glucocorticoid drug	prednisone	1	1	2	2	NULL	NULL	NULL	2235	316	0.00022371364653243848
+lthough indicator	gross domestic product	1	1	1	1	NULL	NULL	NULL	347	159	0.002881844380403458
+lthough key arab state	Jordan	1	1	2	2	NULL	NULL	NULL	1993	444	0.0002508780732563974
+lthough key arab state	Egypt	1	1	2	2	NULL	NULL	NULL	5386	987	0.0000928332714444857
+lthough modern tool	ground-penetrating radar	1	1	1	1	NULL	NULL	NULL	82	49	0.012195121951219513
+lthough object	helmet	1	1	2	2	NULL	NULL	NULL	1237	402	0.0004042037186742118
+lthough object	cage	1	1	2	2	NULL	NULL	NULL	371	166	0.0013477088948787063
+lthough operating system	Linux	1	1	1	1	NULL	NULL	NULL	2525	679	0.00039603960396039607
+lthough potential vector	Amblyomma maculatum	1	1	1	1	NULL	NULL	NULL	1	1	1
+lthough pretreatment	concentration of vital fluid sample	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lthough pretreatment	extraction of QA from vital fluid sample	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lthough skill	knowledge of human psychology	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lthough skill	bluffing	1	1	2	2	1.000000000000	NULL	NULL	32	26	0.015625
+lthough tangible asset	labor	1	1	2	2	NULL	NULL	NULL	2579	832	0.00019387359441644047
+lthough tangible asset	land	1	1	2	2	NULL	NULL	NULL	2765	917	0.00018083182640144665
+lthough traditional influence	parent	1	1	1	1	NULL	NULL	NULL	2187	688	0.0004572473708276177
+lthoughliver test	serum bilirubin	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+lthoughnon-native grass	bahiagrassare suitable for livestock forage	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lthoughnon-native grass	bermudagrass	1	1	3	3	NULL	NULL	NULL	375	128	0.0008888888888888888
+lthoughnon-native grass	tall fescue	1	1	3	3	NULL	NULL	NULL	436	152	0.0007645259938837921
+lti mate	qualities of time	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LTL	Central Truck Line	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTL carrier	Yellow Freight	4	3	23	18	0.888888888888	NULL	NULL	19	11	0.036613272311212815
+LTL carrier	ABF	2	2	23	18	0.888888888888	NULL	NULL	13	9	0.013377926421404682
+LTL carrier	UPS Freight	2	2	23	18	0.888888888888	NULL	NULL	15	10	0.011594202898550725
+LTL carrier	Con-way Freight	1	1	23	18	0.888888888888	NULL	NULL	6	6	0.007246376811594203
+ltl carrier	burly ltl carrier	1	1	23	18	0.888888888888	NULL	NULL	2	2	0.021739130434782608
+LTL carrier	Roadway	1	1	23	18	0.888888888888	NULL	NULL	412	217	0.00010552975939214858
+ltl carrier	philanthropic ltl carrier	1	1	23	18	0.888888888888	NULL	NULL	1	1	0.043478260869565216
+ltl carrier	large global ltl carrier	1	1	23	18	0.888888888888	NULL	NULL	2	2	0.021739130434782608
+ltl carrier	goodly ltl carrier	1	1	23	18	0.888888888888	NULL	NULL	2	2	0.021739130434782608
+ltl carrier	ample ltl carrier	1	1	23	18	0.888888888888	NULL	NULL	2	2	0.021739130434782608
+LTL carrier	AAA Cooper	1	1	23	18	0.888888888888	NULL	NULL	3	3	0.014492753623188406
+LTL carrier	Highway Express	1	1	23	18	0.888888888888	NULL	NULL	2	2	0.021739130434782608
+LTL carrier	Roadway Express	1	1	23	18	0.888888888888	NULL	NULL	11	8	0.003952569169960474
+LTL carrier	YRC Worldwide	1	1	23	18	0.888888888888	NULL	NULL	9	8	0.004830917874396135
+LTL carrier	Averitt Express	1	1	23	18	0.888888888888	NULL	NULL	4	3	0.010869565217391304
+ltl carrier	national ltl carrier	1	1	23	18	0.888888888888	NULL	NULL	2	2	0.021739130434782608
+LTL carrier	Old Dominion	1	1	23	18	0.888888888888	NULL	NULL	25	15	0.0017391304347826085
+LTL carrier	YRC	1	1	23	18	0.888888888888	NULL	NULL	15	15	0.002898550724637681
+LTL company	UPS Freight	1	1	5	5	0.400000000000	NULL	NULL	15	10	0.013333333333333334
+LTL company	FedEx	1	1	5	5	0.400000000000	NULL	NULL	1521	517	0.00013149243918474687
+LTL company	Roadway	1	1	5	5	0.400000000000	NULL	NULL	412	217	0.00048543689320388353
+LTL company	Yellow	1	1	5	5	0.400000000000	NULL	NULL	5611	1380	0.000035644270183567996
+LTL company	Old Dominion	1	1	5	5	0.400000000000	NULL	NULL	25	15	0.008
+LTL firm	beleaguered YRC Worldwide	1	0	1	1	NULL	NULL	NULL	1	1	1
+LTL folks	YRC	1	0	1	1	0.750000000000	NULL	NULL	15	15	0.06666666666666667
+LTL freight carrier	ABF	1	1	2	2	0.500000000000	NULL	NULL	13	9	0.038461538461538464
+LTL freight carrier	Roadway	1	1	2	2	0.500000000000	NULL	NULL	412	217	0.0012135922330097086
+LTL freight company	Brown Transport	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LTL freight company	Thurston Motor Lines	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LTL freight company	Carolina Freight Carriers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LTL freight line	Roadway	1	1	1	1	NULL	NULL	NULL	412	217	0.0024271844660194173
+LTL heavy product	basement flooring	1	1	1	1	NULL	NULL	NULL	10	4	0.1
+LTL market	Florida	1	1	1	1	NULL	NULL	NULL	7654	980	0.0001306506401881369
+LTL option	spray	1	1	1	1	NULL	NULL	NULL	672	324	0.001488095238095238
+LTL player	Con-way Freight	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+LTL player	Old Dominion Freight Line	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+LTL trucking company	Viking	1	1	2	2	NULL	NULL	NULL	228	125	0.0021929824561403508
+LTL trucking company	Roadway	1	1	2	2	NULL	NULL	NULL	412	217	0.0012135922330097086
+ltlions club member	Dale Kleintop	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ltlions club member	Donald Kuntz	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ltlions club member	Kenneth Stott	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ltlions club member	Wayne Muffley	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ltlmodelchecking validation approach	testing	1	1	1	1	NULL	NULL	NULL	1639	662	0.0006101281269066504
+LTM object	pool	1	1	4	4	NULL	NULL	NULL	3504	1006	0.00007134703196347032
+LTM object	profile	1	1	4	4	NULL	NULL	NULL	504	294	0.000496031746031746
+LTM object	virtual server	1	1	4	4	NULL	NULL	NULL	65	43	0.0038461538461538464
+LTM object	node	1	1	4	4	NULL	NULL	NULL	148	102	0.0016891891891891893
+ltoultrium-branded medium	HP	1	1	1	1	NULL	NULL	NULL	5009	1443	0.00019964064683569574
+LTP common real-time constraint	delay	1	1	1	1	NULL	NULL	NULL	1442	646	0.0006934812760055479
+LTP control information	Report-Acknowledgment segment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTP control information	Report Segments	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTP store skill	work routine	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+LTP store skill	learning strategy	1	1	2	2	1.000000000000	NULL	NULL	43	28	0.011627906976744186
+ltp-related pathway	MAPK signaling	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LTPF indicator	graduate employment status	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTR retrotransposons	tobacco Tnt1	3	3	7	4	NULL	NULL	NULL	3	1	0.42857142857142855
+LTR retrotransposons	Gypsy	2	2	7	4	NULL	NULL	NULL	98	84	0.0058309037900874635
+LTR retrotransposons	gypsy from D. melanogaster	1	1	7	4	NULL	NULL	NULL	1	1	0.14285714285714285
+LTR retrotransposons	Terminal-repeat Retrotransposons In Miniature	1	1	7	4	NULL	NULL	NULL	1	1	0.14285714285714285
+ltr-derived promoter	MND	1	1	1	1	1.000000000000	NULL	NULL	19	11	0.05263157894736842
+LTR-retrotransposons	Saccharomyces cerevisiae Ty1	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+LTR-retrotransposons	endogenous retrovirus	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+LTRA	zafirlukast	1	1	2	2	0.500000000000	NULL	NULL	74	30	0.006756756756756757
+LTRA	pranlukast	1	1	2	2	0.500000000000	NULL	NULL	13	11	0.038461538461538464
+LTRAs	zafirlukast	2	1	4	2	0.500000000000	NULL	NULL	74	30	0.013513513513513514
+LTRAs	montelukast	2	1	4	2	0.500000000000	NULL	NULL	142	45	0.007042253521126761
+LTRS FY09-15 out-year plan activity	efforts associated with Requirement Statements	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTRS FY09-15 out-year plan activity	individual OYP project definition	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LTs	cysteinyl LTs	6	6	11	5	1.000000000000	NULL	NULL	6	1	0.5454545454545454
+LTs	LTB4	2	2	11	5	1.000000000000	NULL	NULL	15	11	0.024242424242424242
+LTs	Biddle	1	1	11	5	1.000000000000	NULL	NULL	10	9	0.00909090909090909
+LTs	Sickel	1	1	11	5	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+LTs	Slocum	1	1	11	5	1.000000000000	NULL	NULL	7	7	0.012987012987012988
+LTS activity	institutional control	2	1	2	1	1.000000000000	NULL	NULL	21	15	0.09523809523809523
+LTS control	prohibitions against drilling	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTS extendeddefects	second-phase precipitate	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTS food	dried bean	1	1	3	3	NULL	NULL	NULL	180	64	0.0018518518518518517
+LTS food	pasta	1	1	3	3	NULL	NULL	NULL	7372	1634	0.000045216133116295895
+LTS food	rice	1	1	3	3	NULL	NULL	NULL	11473	2640	0.000029053720328888112
+LTS group project	Windows 2000 rollout	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTSS option	CLASS program	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+LTT rump related organization	Indian	1	1	1	1	NULL	NULL	NULL	688	336	0.0014534883720930232
+LTTE camp	Paramananda	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+LTTE camp	Stanly	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+LTTE front	British Tamil Forum	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+LTTE front	Transnational Government of Tamil Ealam	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+LTTE front	Global Tamil Forum	1	1	4	3	NULL	NULL	NULL	3	3	0.08333333333333333
+LTTE hardliner	paramount leader Velupillai Prabhakaran	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTTE high profile	Selvaratnam	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LTTE high profile	Brian Senavirathna	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LTTE high profile	Shiva Kumaran Rudrakumar	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LTTE incident	assassinations of VIPs	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTTE leader	P. Nadesan	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+LTTE propaganda machine	Tamil Net	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+LTTE sympathisers	Vaiko	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+LTTE sympathisers	Nedumaran	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+LTTE sympathisers	Thirumavalavan	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+LTTE tactic	minimizing aircraft exposure time	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ltte's covert activity	collecting fund	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ltte's economic policy	self-reliance control of market	1	1	1	1	NULL	NULL	NULL	1	1	1
+ltte's former senior commander	Karuna	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+ltte's many criminal activity	smuggling	1	1	2	2	NULL	NULL	NULL	208	87	0.002403846153846154
+ltte's many criminal activity	human trafficking	1	1	2	2	NULL	NULL	NULL	274	119	0.0018248175182481751
+ltte's military asset	ordnance unit	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+LTV system control method	linear matrix inequality control	1	1	1	1	NULL	NULL	NULL	1	1	1
+LTW parameter	laser power	1	1	1	1	NULL	NULL	NULL	114	51	0.008771929824561403

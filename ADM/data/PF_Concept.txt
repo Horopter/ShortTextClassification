@@ -1,0 +1,161 @@
+pf	real impact pf	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+PF A. use representation	table	1	1	1	1	NULL	NULL	NULL	6328	2130	0.00015802781289506955
+PF also model image statistic	mean	1	1	1	1	NULL	NULL	NULL	2802	701	0.00035688793718772306
+pf C ONSUMER self-service operation	buffet	2	2	2	1	NULL	NULL	NULL	326	133	0.006134969325153374
+PF complication	subluxation	1	1	2	2	1.000000000000	NULL	NULL	13	13	0.038461538461538464
+PF complication	patellar maltracking	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+pf CONSUMER self-service operation	buffet	1	1	1	1	NULL	NULL	NULL	326	133	0.003067484662576687
+PF F use representation	table	1	1	1	1	NULL	NULL	NULL	6328	2130	0.00015802781289506955
+PF key	PF6	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+PF key	PF9 shown on the sample screen	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+PF key	PF5	1	1	3	3	1.000000000000	NULL	NULL	7	5	0.047619047619047616
+PF method	regularized particle lter	1	1	1	1	NULL	NULL	NULL	1	1	1
+PF MPs	Dr. Guy Scott	1	1	1	1	NULL	NULL	NULL	1	1	1
+PF operation	adding image	1	1	3	3	0.250000000000	NULL	NULL	21	18	0.015873015873015872
+PF operation	color	1	1	3	3	0.250000000000	NULL	NULL	11347	3399	0.00002937634029552598
+PF operation	size	1	1	3	3	0.250000000000	NULL	NULL	44267	2716	0.000007530063779640213
+PF trust	Seamens Provident Fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+PF ZAPU stalwart	former Home Affairs minister Dumiso Dabengwa	1	1	1	1	NULL	NULL	NULL	1	1	1
+PF-4540124 interactors	PDE5	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pf-based race	Gorn	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+pf-based race	Romulans	1	1	2	2	1.000000000000	NULL	NULL	11	5	0.045454545454545456
+PFA non stick coating resin	Dupont PFA	1	1	1	1	NULL	NULL	NULL	1	1	1
+pfa-based cement	Trojan range from ScotAsh	1	1	1	1	NULL	NULL	NULL	1	1	1
+pfaas	high profile pfaas	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+PFAAs	PFOA	1	1	2	2	1.000000000000	NULL	NULL	32	20	0.015625
+pfaltzgraff honor traditional agricultural technique	no-till	1	1	1	1	NULL	NULL	NULL	147	64	0.006802721088435374
+pfam family	LRR	2	1	3	2	NULL	NULL	NULL	6	5	0.2222222222222222
+pfam family	protein encoded by the fmdE gene from the methanogenic archaeon Methanobacterium thermoautotrophicum	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+PFAS	perfluorooctane sulfonate	1	1	1	1	1.000000000000	NULL	NULL	44	16	0.022727272727272728
+PFC approach	Continuous Conduction Mode PFC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PFC approach	Bridgeless PFC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PFC approach	Interleaved PFC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PFC function	rule learning	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+PFC function	strategy shifting	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+PFC gas	CF4	2	2	4	3	1.000000000000	NULL	NULL	40	28	0.025
+PFC gas	CHF3	1	1	4	3	1.000000000000	NULL	NULL	4	4	0.0625
+pfc gas	so-called pfc gas	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+PFC member	perfluorodecalin	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+PFC region	ventromedial PFC	1	1	3	3	0.500000000000	NULL	NULL	3	2	0.1111111111111111
+PFC region	ACC	1	1	3	3	0.500000000000	NULL	NULL	194	98	0.001718213058419244
+PFC region	OFC	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+pfc-dependent function	working memory	1	1	1	1	NULL	NULL	NULL	218	111	0.0045871559633027525
+PFC-treated food-contact packaging	microwave popcorn bag	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+PFCAs	perfluorooctanoic acid PFOA	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+pfchannel attribute	described in pfLOD Nodes in Chapter 3	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pfchannel attribute	LOD modification	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFCs	perfluorooctane sulfonate	5	5	22	12	0.900000000000	NULL	NULL	44	16	0.025826446280991733
+PFCs	PFOA	4	4	22	12	0.900000000000	NULL	NULL	32	20	0.022727272727272728
+PFCs	PFOS	3	3	22	12	0.900000000000	NULL	NULL	26	17	0.015734265734265732
+PFCs	C2F6	2	2	22	12	0.900000000000	NULL	NULL	7	6	0.025974025974025976
+pfcs	water body water-soluble pfcs	1	1	22	12	0.900000000000	NULL	NULL	1	1	0.045454545454545456
+pfcs	high volatility pfcs	1	1	22	12	0.900000000000	NULL	NULL	1	1	0.045454545454545456
+pfcs	solvent working group highlight pfcs	1	1	22	12	0.900000000000	NULL	NULL	1	1	0.045454545454545456
+PFCs	perfluorooctanoate	1	1	22	12	0.900000000000	NULL	NULL	8	6	0.005681818181818182
+PFCs	Phase Shifting Transformer	1	1	22	12	0.900000000000	NULL	NULL	8	7	0.005681818181818182
+pfcs	low volatility pfcs	1	1	22	12	0.900000000000	NULL	NULL	1	1	0.045454545454545456
+pfcs	perfluorinated chemical pfcs	1	1	22	12	0.900000000000	NULL	NULL	1	1	0.045454545454545456
+PFCs	PFNA	1	1	22	12	0.900000000000	NULL	NULL	1	1	0.045454545454545456
+PFD	used in PLL circuit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFD	ones with a zipper on the front	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFD auxiliary member	Gail Zahara	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFD auxiliary member	Debbie Smith	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFD related issue	interstitial cystitis	1	1	1	1	NULL	NULL	NULL	95	46	0.010526315789473684
+PFDs	Phase Angle Regulator	2	2	8	6	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+PFDs	Phase Shifting Transformer	2	2	8	6	1.000000000000	NULL	NULL	8	7	0.0625
+PFDs	Phase-Angle Reactor	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+PFDs	work vest	1	1	8	6	1.000000000000	NULL	NULL	7	7	0.017857142857142856
+PFDs	big orange ones on ocean ship	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+PFDs	work suit	1	1	8	6	1.000000000000	NULL	NULL	6	6	0.020833333333333332
+PFE extraction variable	solvent composition	1	1	1	1	1.000000000000	NULL	NULL	39	23	0.02564102564102564
+pfeiffer facility	dining hall	1	1	2	2	NULL	NULL	NULL	127	70	0.003937007874015748
+pfeiffer facility	library	1	1	2	2	NULL	NULL	NULL	6833	2108	0.00007317430118542368
+PFF literature	brochure	1	1	1	1	NULL	NULL	NULL	5215	1605	0.00019175455417066154
+PFF site	Minneapolis	1	1	3	3	NULL	NULL	NULL	659	155	0.0005058168942842691
+PFF site	Indianapolis	1	1	3	3	NULL	NULL	NULL	453	117	0.0007358351729212656
+PFF site	Denver	1	1	3	3	NULL	NULL	NULL	1169	229	0.000285143997718848
+PFGE type	PFGE types J	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFI accommodation project	hospital	2	2	4	2	NULL	NULL	NULL	12116	3276	0.00008253549026081215
+PFI accommodation project	prison	2	2	4	2	NULL	NULL	NULL	1172	484	0.0008532423208191126
+PFI asset	new toll road	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFI deal	Fazakerley prison contract	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+PFI derivative	Local Education Partnerships in English school	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFI derivative	LIFT in NHS primary care	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFI equity investor	financier equity investor	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFI firm	WS Atkins	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+PFI fund management group	Innisfree	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+PFI hospital	Luton	1	1	1	1	0.500000000000	NULL	NULL	112	44	0.008928571428571428
+PFI joint venture	Joint Services Command	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PFI program	street lighting project	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+PFI project	hospital	2	2	7	6	NULL	NULL	NULL	12116	3276	0.00004716313729189265
+PFI project	school	1	1	7	6	NULL	NULL	NULL	16053	4303	0.000008899093182404713
+PFI project	housing development	1	1	7	6	NULL	NULL	NULL	107	61	0.0013351134846461949
+PFI project	Bishops Park	1	1	7	6	NULL	NULL	NULL	2	2	0.07142857142857142
+pfi project	mega pfi project	1	1	7	6	NULL	NULL	NULL	2	2	0.07142857142857142
+PFI project	new school	1	1	7	6	NULL	NULL	NULL	75	52	0.0019047619047619048
+pfi-austria administrative matter	membership	1	1	1	1	NULL	NULL	NULL	466	200	0.002145922746781116
+PFIs	PNG Banking Corporation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+pfizer brand	Corex	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+pfizer brand	Combantrin	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+pfizer brand	Nicorette	1	1	3	3	1.000000000000	NULL	NULL	29	22	0.011494252873563218
+pfizer drug	leading antidepressant Zoloft	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+pfizer drug	blood pressure medication Norvasc	1	1	6	6	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+pfizer drug	Zyrtec	1	1	6	6	0.333333333333	NULL	NULL	319	104	0.000522466039707419
+pfizer drug	nonprescription pfizer drug	1	1	6	6	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+pfizer drug	Zoloft	1	1	6	6	0.333333333333	NULL	NULL	1173	180	0.00014208581983518045
+pfizer drug	Norvasc	1	1	6	6	0.333333333333	NULL	NULL	38	20	0.0043859649122807015
+pfizer program	Sharing the Care	1	1	1	1	NULL	NULL	NULL	1	1	1
+pfizer's best known product	seizure medicine Lyrica	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+pfizer's best known product	Viagra	1	1	3	3	NULL	NULL	NULL	1169	317	0.000285143997718848
+pfizer's best known product	Lipitor	1	1	3	3	NULL	NULL	NULL	590	128	0.0005649717514124294
+pfizer's corporate service	Fleet	1	1	2	2	NULL	NULL	NULL	76	58	0.006578947368421052
+pfizer's corporate service	Global Travel Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pfizer's largest customer	hospital	1	1	1	1	NULL	NULL	NULL	12116	3276	0.00008253549026081215
+pfizer's new product	Lyrica	1	1	1	1	NULL	NULL	NULL	216	61	0.004629629629629629
+PFK event	special kids camp	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+PFK event	home run derby	1	1	2	2	1.000000000000	NULL	NULL	26	15	0.019230769230769232
+pflow improvement	multithreading at least	1	1	1	1	NULL	NULL	NULL	1	1	1
+pflueger product	President spinning reel	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFM element	monitoring	1	1	5	5	NULL	NULL	NULL	1507	705	0.00013271400132714
+PFM element	revenues management	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+PFM element	overall strategic planning	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+PFM element	procurement	1	1	5	5	NULL	NULL	NULL	928	427	0.00021551724137931037
+PFM element	evaluation	1	1	5	5	NULL	NULL	NULL	864	397	0.0002314814814814815
+PFM system	revenue	1	1	1	1	NULL	NULL	NULL	35842	375	0.000027900228781876013
+PFM tool	sector investment program	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+PFM tool	Medium Term Expenditure Frameworks	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PFMS process fluid condition	temperature	1	1	2	2	NULL	NULL	NULL	21509	4199	0.0000232460830350086
+PFMS process fluid condition	pressure	1	1	2	2	NULL	NULL	NULL	4442	1435	0.00011256190904997749
+PFOA salt	ammonium salt of perfluorooctanoic acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFOS fluorotelomer-based polymer	phosphate ester	1	1	1	1	NULL	NULL	NULL	49	32	0.02040816326530612
+PFOS-derivatives	FOSA	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFOS-precursors	PFOSA	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFOX oxidation perfluorinated chemical	PFOS	1	1	1	1	1.000000000000	NULL	NULL	26	17	0.038461538461538464
+pfp country	Sweden	1	1	2	2	NULL	NULL	NULL	7737	882	0.00006462453147214683
+pfp country	Lithuania	1	1	2	2	NULL	NULL	NULL	824	175	0.0006067961165048543
+PFP legislator	Chiu Yi	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+PFP legislator	Lee Ching-hua	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+PFP legislator	Liu Wen-hsiung	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+PFP legislator	Shen Chih-hui	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+PFP member	Austria	1	1	1	1	NULL	NULL	NULL	3941	521	0.0002537427048972342
+pfp military exercise	PfP Planning an Review Process	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pfp military exercise	Baltic Challenge	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+pfp state	Baltic republic	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+pfp system	vari-ous  pfp system	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PFP-HCA ester	pentafluorphenyl esters with hydrocarbon acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+PFPWD benefit	durable medical equipment	1	1	1	1	NULL	NULL	NULL	107	42	0.009345794392523364
+pfro Nt C ost	utility	1	1	1	1	NULL	NULL	NULL	5186	1541	0.0001928268414963363
+PFRs	Dry Mixed Conifer	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+PFRs	Yellow Pine	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+pfsa membrane	commercially available pfsa membrane	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+PFSCL tristate logic gate	buffer	1	1	1	1	NULL	NULL	NULL	797	312	0.0012547051442910915
+pfsi's various department	Trading	1	1	2	3	NULL	NULL	NULL	385	212	0.0012987012987012987
+pfsi's various department	Accounting	1	1	2	3	NULL	NULL	NULL	5188	1624	0.00009637625289128758
+PFT class	crop	1	1	3	3	NULL	NULL	NULL	689	327	0.0004837929366231253
+PFT class	tree	1	1	3	3	NULL	NULL	NULL	6423	2236	0.000051896829103741756
+PFT class	grass	1	1	3	3	NULL	NULL	NULL	3076	1135	0.00010836584308625921
+PFTs	Carbon Monoxide Diffusing capacity	1	1	2	2	0.750000000000	NULL	NULL	1	1	0.5
+PFTs	diffusing capacity of the lung for carbon monoxide	1	1	2	2	0.750000000000	NULL	NULL	3	3	0.16666666666666666
+Pfu-Sso7d fusion polymerases	Phusion	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+Pfu-Sso7dfusion polymerases	Phusion	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+Pfundappliedse curityprintingtechno lo gies	laser engraving andmicroprinting	1	1	1	1	NULL	NULL	NULL	1	1	1

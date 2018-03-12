@@ -1,0 +1,124 @@
+SG component	action	1	1	3	3	NULL	NULL	NULL	704	305	0.00047348484848484844
+SG component	initiating event	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+SG component	setting	1	1	3	3	NULL	NULL	NULL	914	297	0.00036469730123997083
+SG design enhancement	tighter control of insertion depth	1	1	1	1	NULL	NULL	NULL	1	1	1
+SG special event	radio event	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SG special event	book	1	1	2	2	NULL	NULL	NULL	13029	3482	0.000038375930616317444
+SG various parameter	total protein	1	1	1	1	NULL	NULL	NULL	86	56	0.011627906976744186
+SG&A cost	marketing	1	1	3	3	NULL	NULL	NULL	6527	1892	0.00005106991471324243
+SG&A cost	customer service cost	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+SG&A cost	sales commission cost	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SG&A cost element	facilities cost	2	1	4	2	0.500000000000	NULL	NULL	25	11	0.04
+SG&A cost element	professional fee	2	1	4	2	0.500000000000	NULL	NULL	103	43	0.009708737864077669
+SG&A expense	salary	3	3	10	7	NULL	NULL	NULL	2367	772	0.00038022813688212925
+SG&A expense	product liability	2	2	10	7	NULL	NULL	NULL	155	65	0.0025806451612903226
+SG&A expense	personnel	1	1	10	7	NULL	NULL	NULL	1145	466	0.00008733624454148472
+SG&A expense	insurance	1	1	10	7	NULL	NULL	NULL	8820	2250	0.000011337868480725624
+SG&A expense	communication	1	1	10	7	NULL	NULL	NULL	8195	2329	0.000012202562538133008
+SG&A expense	occupancy	1	1	10	7	NULL	NULL	NULL	207	104	0.00048309178743961357
+SG&A expense	product liability cost	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+SG&A process	Financial Accounting	1	1	2	3	NULL	NULL	NULL	131	87	0.003816793893129771
+SG&A process	supply chain management	1	1	2	3	NULL	NULL	NULL	498	244	0.001004016064257028
+sg-associated protein	TIA-1	2	2	2	1	1.000000000000	NULL	NULL	10	7	0.2
+SG003 plywood stage's advantage	compactness	1	1	1	1	NULL	NULL	NULL	175	85	0.005714285714285714
+SGA agent	ziprasidone	1	1	1	1	NULL	NULL	NULL	110	37	0.00909090909090909
+SGA parameter	database buffer	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+SGA parameter	shared pool	1	1	2	2	1.000000000000	NULL	NULL	11	6	0.045454545454545456
+SGA student group	Committee of Legislative Action	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGAs	clozapine	4	4	10	5	NULL	NULL	NULL	475	96	0.003368421052631579
+SGAs	olanzapine	3	3	10	5	NULL	NULL	NULL	668	115	0.0013473053892215567
+SGAs	Paliperidone	1	1	10	5	NULL	NULL	NULL	3	3	0.03333333333333333
+SGAs	Asenapine	1	1	10	5	NULL	NULL	NULL	3	3	0.03333333333333333
+SGAs	risperidone	1	1	10	5	NULL	NULL	NULL	636	106	0.00015723270440251574
+SGBV service	psychosocial	2	2	2	1	1.000000000000	NULL	NULL	47	27	0.0425531914893617
+sgc activator	haem-independent sgc activator	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGC booklet	Home Buyer's Guide	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGC financial advisor	Mark Tidwell	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGC personnel	SG-1	2	2	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+sgc-independent effect	nitrosylation of protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGCs	Pine AFG1	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGE	member of the Science Advisory Board	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGE syndrome	Ohtahara syndrome	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGE water supplement mineral	calcium	1	1	1	1	NULL	NULL	NULL	7449	1348	0.00013424620754463686
+sgeiscover service	transport	1	1	2	2	NULL	NULL	NULL	4212	1268	0.00011870845204178538
+sgeiscover service	postal service	1	1	2	2	NULL	NULL	NULL	317	166	0.0015772870662460567
+SGEs	endosymbionts	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+SGEs	meiotic drive gene	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+sgeu's major meeting	Provincial Council	1	1	2	2	0.500000000000	NULL	NULL	11	9	0.045454545454545456
+sgeu's major meeting	Convention	1	1	2	2	0.500000000000	NULL	NULL	522	230	0.0009578544061302681
+SGGP many attractive place	Ha Long Bay	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+SGGP many attractive place	Vung Tau	1	1	3	3	1.000000000000	NULL	NULL	10	8	0.03333333333333333
+SGGP many attractive place	Phan Thiet	1	1	3	3	1.000000000000	NULL	NULL	9	7	0.037037037037037035
+SGHD funding allocation	Primary Medical Services	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGI activity	discussion	1	1	1	1	NULL	NULL	NULL	977	409	0.0010235414534288639
+SGI motor vehicle service	permit	1	1	3	3	NULL	NULL	NULL	527	239	0.0006325110689437065
+SGI motor vehicle service	registration	1	1	3	3	NULL	NULL	NULL	1364	581	0.00024437927663734115
+SGI motor vehicle service	licensing	1	1	3	3	NULL	NULL	NULL	891	422	0.0003741114852225963
+SGI peripheral	Dial & Button Box	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGI solution	high-performance computing	1	1	1	1	1.000000000000	NULL	NULL	34	23	0.029411764705882353
+sgi-affiliated institute	Boston Research Center for the 21st Century	1	1	1	1	NULL	NULL	NULL	1	1	1
+Sgian Dubh Tattoo Design too.Organisations	Arts Council in Britain	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+SGIP voting member	Governing Board member Bob Saint	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGIS individual sport	skiing	1	1	1	1	NULL	NULL	NULL	3886	798	0.0002573340195573855
+SGL group material	extruded	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+SGL group material	iso graphite	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+SGL title	Dakan	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+SGL title	Woubi Cheri	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+SGLT inhibitor	SGLT1 inhibitor	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+SGLT inhibitor	SGLT2 inhibitor	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+SGLT-2 inhibitor	dapagliflozin	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+SGLT2 inhibitor	dapagliflozin	2	2	3	2	NULL	NULL	NULL	5	4	0.26666666666666666
+SGLT2 inhibitor	remogliflozin	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+SGM product	River Rok	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+SGM product	Diamond Brite	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+SGM singer	George Younce	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SGMA president	Steve French	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+SGMA president	Maurice Templeton	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SGmaterials	TiO 2	1	1	3	3	NULL	NULL	NULL	479	246	0.0006958942240779401
+SGmaterials	SiO 2	1	1	3	3	NULL	NULL	NULL	421	183	0.000791765637371338
+SGmaterials	ZrO 2	1	1	3	3	NULL	NULL	NULL	129	69	0.0025839793281653744
+SGML based editor	HoTMetaL	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+SGML contructs	Markup Section Close	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SGML contructs	Processing Instruction Open	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SGML contructs	Markup Declaration Open	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SGML declaration	OMITTAG	1	1	2	2	0.333333333333	NULL	NULL	1	1	0.5
+SGML declaration	DATATAG	1	1	2	2	0.333333333333	NULL	NULL	5	5	0.1
+SGML markup language	HTML	1	1	1	1	NULL	NULL	NULL	1717	611	0.0005824111822947001
+SGML page	HTML page	1	1	1	1	NULL	NULL	NULL	74	43	0.013513513513513514
+SGML parser	public domain parser SGMLS	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGML program	SGML editor	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+SGML program	parsers for checking the conformity of an SGML document	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SGML software	parser	1	1	2	2	0.500000000000	NULL	NULL	15	16	0.03333333333333333
+SGML software	browser	1	1	2	2	0.500000000000	NULL	NULL	696	269	0.0007183908045977011
+SGML software application	SGML browser Panorama	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGML tool	jade	2	2	2	1	NULL	NULL	NULL	588	258	0.003401360544217687
+sgml-derived markup language	HTML	1	1	2	2	NULL	NULL	NULL	1717	611	0.00029120559114735004
+sgml-derived markup language	XML	1	1	2	2	NULL	NULL	NULL	1998	697	0.00025025025025025025
+SGN process design product	design input	2	2	4	2	NULL	NULL	NULL	5	4	0.2
+SGN process design product	drawing	2	2	4	2	NULL	NULL	NULL	4030	1315	0.00024813895781637717
+SGO trip	paintballing	1	1	2	2	1.000000000000	NULL	NULL	91	50	0.005494505494505495
+SGO trip	Great Adventure	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+sgobbo-14 theorist	Alter	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+sgovernment laboratory	Ballistic Research Laboratory	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sgovernment laboratory	Waterways Experimental Station	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SGPD sensor	IL-P3 used in the Spyder2 camera	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGR attribute	bold	1	1	1	1	NULL	NULL	NULL	949	386	0.001053740779768177
+SGs	Mr. Hammarskjold	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGS executive	Vice President	2	2	4	2	NULL	NULL	NULL	247	120	0.004048582995951417
+SGS executive	John Nadeau	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+SGS process	overflow parameterizations	1	1	1	1	NULL	NULL	NULL	1	1	1
+SGS solution	emission reduction	1	1	5	5	0.500000000000	NULL	NULL	13	10	0.015384615384615385
+SGS solution	environmental	1	1	5	5	0.500000000000	NULL	NULL	1315	519	0.0001520912547528517
+SGS solution	ISO 26000 corporate Social Responsibility certification	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+SGS solution	social risk evaluation for key projects related with energy conservation	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+SGS solution	verifications of sustainable growth report	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+SGS turbulence model	mixed model	2	2	3	2	1.000000000000	NULL	NULL	22	15	0.0606060606060606
+SGS turbulence model	two-parameter mixed model	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+SGSF initiative	communication	1	1	2	2	NULL	NULL	NULL	8195	2329	0.00006101281269066504
+SGSF initiative	forest resource assessment project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sgsn interface	complex sgsn interface	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+SGSN interface	Gr	1	1	2	2	NULL	NULL	NULL	39	27	0.01282051282051282
+Sgt	Ireland egory	2	1	2	1	NULL	NULL	NULL	2	1	1
+SGT mod	brake kit	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+SGT mod	Supercharges	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SGV organization	Foothill Vocational Opportunities	1	1	1	1	NULL	NULL	NULL	1	1	1

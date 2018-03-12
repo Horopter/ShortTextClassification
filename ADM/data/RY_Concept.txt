@@ -1,0 +1,176 @@
+ry	focused on the uses of speech in rhetoric	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ry	drama	1	1	7	7	NULL	NULL	NULL	3064	903	0.00004662439388287952
+ry	comedy	1	1	7	7	NULL	NULL	NULL	487	175	0.0002933411557641537
+ry	song	1	1	7	7	NULL	NULL	NULL	1441	662	0.00009913750371765638
+ry	poor count ry	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+ry	library	1	1	7	7	NULL	NULL	NULL	6833	2108	0.000020906943195835334
+ry	Aristotle's Poetics	1	1	7	7	NULL	NULL	NULL	5	3	0.02857142857142857
+ry designer	Van Cleef & Arpels	1	1	1	1	1.000000000000	NULL	NULL	35	27	0.02857142857142857
+RY many organization	Hong Kong Institute of Architects	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RY many organization	Real Estate Developers Association of Hong Kong	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ry medication	aspirin	1	1	1	1	NULL	NULL	NULL	10123	1496	0.00009878494517435543
+ry n-cube topologies	rectangular	1	1	1	1	NULL	NULL	NULL	587	204	0.0017035775127768314
+ry sour fo ods	lemon	1	1	2	2	NULL	NULL	NULL	4478	1053	0.00011165698972755694
+ry sour fo ods	sour h ar d candy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ry standard	Caux Roundtable Principles	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ry standard	UN Global Compact	1	1	3	3	NULL	NULL	NULL	87	41	0.0038314176245210726
+ry standard	Global Sullivan Principles	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+ry-specific variable	total capital stock	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+ry-specific variable	18 real public debt	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+ry-specific variable	real government spending	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+RYA on-the-water training	Helmsman	2	2	8	4	1.000000000000	NULL	NULL	11	5	0.045454545454545456
+RYA on-the-water training	Intermediate Powerboat	2	2	8	4	1.000000000000	NULL	NULL	7	2	0.07142857142857142
+RYA on-the-water training	Start Yachting	2	2	8	4	1.000000000000	NULL	NULL	6	2	0.08333333333333333
+RYA on-the-water training	Day Skipper course	2	2	8	4	1.000000000000	NULL	NULL	6	2	0.08333333333333333
+RYA practical course	Competent Crew for novice	1	1	1	1	NULL	NULL	NULL	1	1	1
+RYA shorebased course	first aid	1	1	2	2	NULL	NULL	NULL	1163	424	0.0004299226139294927
+RYA shorebased course	radio	1	1	2	2	NULL	NULL	NULL	7280	2387	0.00006868131868131868
+ryan air suggestion	Fat Tax	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+Ryan Leaf autographed memorabilia	inscription	1	1	1	1	NULL	NULL	NULL	98	82	0.01020408163265306
+ryan lussenden's hobby	swimming	1	1	3	3	NULL	NULL	NULL	15629	2556	0.00002132787339774351
+ryan lussenden's hobby	dancing	1	1	3	3	NULL	NULL	NULL	3281	887	0.0001015950421619425
+ryan lussenden's hobby	piano	1	1	3	3	NULL	NULL	NULL	2021	549	0.00016493485073396007
+ryan model	Abbey	2	2	2	1	0.333333333333	NULL	NULL	160	85	0.0125
+ryan murdock's program	Bodyweight Blueprint for Fat Loss	2	1	2	1	NULL	NULL	NULL	2	1	1
+ryan plan preventative care measure	mammogram	1	1	1	1	NULL	NULL	NULL	731	286	0.0013679890560875513
+ryan rowe shoe style	Leighton	2	2	4	2	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+ryan rowe shoe style	Crofton	2	2	4	2	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+ryan ryan attitude	Rabon	1	1	1	1	0.500000000000	NULL	NULL	6	6	0.16666666666666666
+ryan white service provider	AIDS Project Hartford	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ryan's dirty work	murdering Anna Culpepper	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryan's fan	former House Majority Leader Dick Armey	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Ryan's favs	Veggie Tales	1	1	1	1	0.750000000000	NULL	NULL	15	12	0.06666666666666667
+ryan's legitimate official act	commuting death sentence	2	2	2	1	NULL	NULL	NULL	2	1	1
+ryan's second-year brown	Bowens	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ryan's work directing event	Cellcom Green Bay Marathon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ryan's work directing event	Door County Triathlon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ryan's work directing event	Bellin Run	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ryanair airport	Charleroi	1	1	2	2	0.500000000000	NULL	NULL	14	10	0.03571428571428571
+ryanair airport	Carcassonne	1	1	2	2	0.500000000000	NULL	NULL	74	40	0.006756756756756757
+ryanair protest site	Ryanair Campaign	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryanair rival	Air France	1	1	2	2	0.333333333333	NULL	NULL	641	133	0.00078003120124805
+ryanair rival	easyjet	1	1	2	2	0.333333333333	NULL	NULL	512	138	0.0009765625
+ryanair route	Fuerteventura in the Canary Islands	2	2	3	2	1.000000000000	NULL	NULL	3	2	0.4444444444444444
+ryanair route	Ostend	1	1	3	2	1.000000000000	NULL	NULL	12	10	0.027777777777777776
+ryanair's rival	EasyJet	1	1	1	1	NULL	NULL	NULL	512	138	0.001953125
+ryancare's supporter	Cato Institute's Michael Cannon	2	2	2	1	NULL	NULL	NULL	4	2	0.5
+ryanoids	ryanodine	2	2	2	1	1.000000000000	NULL	NULL	8	7	0.25
+rybachy daily weather datum	ambient temperature	1	1	1	1	NULL	NULL	NULL	574	168	0.0017421602787456446
+rybehind multivariate method	PCA	1	1	1	1	NULL	NULL	NULL	410	233	0.0024390243902439024
+rybs's work	Lonely Man of Faith	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rybs's work	Emergence of Ethical Man	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rycote's benchmark product	Softie kit	1	1	1	1	NULL	NULL	NULL	1	1	1
+rydbergatom-rydbergatom collision	Penning ionization occurring from the pair dynamics under the influence of the attractive long-range	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryder condition	weight	1	1	1	1	NULL	NULL	NULL	8102	1947	0.00012342631449024932
+ryder cup golfing wag	Luke Donald's fiancee Diane Antonopoulos	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryder cup golfing wag	Tiger Woods's stunning wife Elin Nordegren	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryder cup moment	War by the Shore at Kiawah Island	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryder cup participant	Paul McGinley	1	1	5	5	1.000000000000	NULL	NULL	9	8	0.022222222222222223
+ryder cup participant	Phillip Price	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+ryder cup participant	Thomas Bjorn	1	1	5	5	1.000000000000	NULL	NULL	9	8	0.022222222222222223
+ryder cup participant	Miguel Angel Jimenez	1	1	5	5	1.000000000000	NULL	NULL	5	4	0.04
+ryder cup participant	Oliver Wilson	1	1	5	5	1.000000000000	NULL	NULL	5	4	0.04
+ryder cup player	Sergio Garcia	1	1	1	1	NULL	NULL	NULL	68	38	0.014705882352941176
+ryder cup star	Nick Faldo	1	1	2	2	0.500000000000	NULL	NULL	59	34	0.00847457627118644
+ryder cup star	Darren Clarke	1	1	2	2	0.500000000000	NULL	NULL	22	9	0.022727272727272728
+ryder cup veteran	notable ryder cup veteran	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ryder service	vehicle	1	1	4	4	NULL	NULL	NULL	2848	998	0.00008778089887640449
+ryder service	fleet management	1	1	4	4	NULL	NULL	NULL	123	74	0.0020325203252032522
+ryder service	dock operations management	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ryder service	driver	1	1	4	4	NULL	NULL	NULL	663	364	0.0003770739064856712
+ryder's subsequent project	ensemble-filled Night on Earth	1	1	1	1	NULL	NULL	NULL	1	1	1
+RYDIN A brand	Yankee Candle	1	1	1	1	1.000000000000	NULL	NULL	46	42	0.021739130434782608
+rye	Rittenhouse	1	1	4	4	0.666666666666	NULL	NULL	13	9	0.019230769230769232
+rye	good-quality american rye	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+rye	Sazerac Rye	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+rye	ryvita	1	1	4	4	0.666666666666	NULL	NULL	13	11	0.019230769230769232
+rye beer	Slavic kvass	1	1	1	1	NULL	NULL	NULL	1	1	1
+rye bread	Swedish rye	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+rye bread	pumpernickel	1	1	3	3	1.000000000000	NULL	NULL	76	44	0.0043859649122807015
+rye bread	Jewish rye	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+rye cracker	Wasa	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+rye cracker	whole-grain rye cracker	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rye grain yield agricultural practice	soil tillage	2	2	2	1	1.000000000000	NULL	NULL	21	15	0.09523809523809523
+rye merchant	Parker's	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+rye product	rye bran	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rye product	flake	1	1	4	4	NULL	NULL	NULL	204	107	0.0012254901960784314
+rye product	malt	1	1	4	4	NULL	NULL	NULL	126	66	0.001984126984126984
+rye product	grain rye product	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rye vodka	sobieski for drinking	1	1	1	1	NULL	NULL	NULL	1	1	1
+rye whiskey	Jim Beam Rye	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+rye whiskey	Whistle Pig	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+rye whiskey	Ri	1	1	3	3	0.500000000000	NULL	NULL	12	11	0.027777777777777776
+ryegrass	bladed perennial ryegrass	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryegrass cultivars	Nui	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ryegrass cultivars	Banks	1	1	2	2	NULL	NULL	NULL	33	149	0.015151515151515152
+ryegrass variety	Prine	4	3	4	1	NULL	NULL	NULL	5	2	0.8
+ryegrasses	Italian rye-grass	1	1	2	2	0.333333333333	NULL	NULL	2	2	0.25
+ryegrasses	annual forage ryegrasses	1	1	2	2	0.333333333333	NULL	NULL	1	1	0.5
+ryerson professor	Arne Kislenko	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryerson professor	Don Gibb	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryerson student	first-year Sociology student from Norway	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryerson student	Julie Ryland	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryerson's web-based resource	email	1	1	1	1	NULL	NULL	NULL	8680	2858	0.0001152073732718894
+ryinputframefor further vision task	scene recognition	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+rylant's celebrated character	Henry	1	1	1	1	NULL	NULL	NULL	143	85	0.006993006993006993
+RYO accessory	machine	1	1	1	1	NULL	NULL	NULL	643	328	0.0015552099533437014
+RYO industry item	rolling paper	1	1	1	1	1.000000000000	NULL	NULL	43	20	0.023255813953488372
+RYO product	filter	1	1	3	3	0.333333333333	NULL	NULL	3205	1326	0.00010400416016640666
+RYO product	tube	1	1	3	3	0.333333333333	NULL	NULL	1226	603	0.0002718868950516585
+RYO product	cigarette paper	1	1	3	3	0.333333333333	NULL	NULL	35	23	0.009523809523809523
+ryo-ohki familiar	Ryoko	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ryo-ohki familiar	Mihoshi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryobi outdoor external project	search for lawn	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryofsome structure	GTV	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+ryofvaluableminerals	beryl	1	1	3	3	0.666666666666	NULL	NULL	86	47	0.003875968992248062
+ryofvaluableminerals	spodumene	1	1	3	3	0.666666666666	NULL	NULL	20	16	0.016666666666666666
+ryofvaluableminerals	lepidolite	1	1	3	3	0.666666666666	NULL	NULL	14	12	0.023809523809523808
+ryogenic propellant	hydrogen	1	1	2	2	NULL	NULL	NULL	2960	833	0.00016891891891891893
+ryogenic propellant	liquid oxygen	1	1	2	2	NULL	NULL	NULL	109	52	0.0045871559633027525
+ryokan	Shimizu	1	1	3	3	1.000000000000	NULL	NULL	13	13	0.02564102564102564
+ryokan	Ryokan Sugimoto	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ryokan	Hoshide Ryokan	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ryouko member	Chris Mark	1	1	1	1	NULL	NULL	NULL	1	1	1
+ryouseirui singer	Piko	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ryptographic mechanism	parity checksums	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ryptographic mechanism	cyclic redundancy code	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+RYR antagonist	ruthenium red	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+ryr inhibitor	procaine	1	1	2	2	0.500000000000	NULL	NULL	110	38	0.004545454545454545
+ryr inhibitor	ryanodine	1	1	2	2	0.500000000000	NULL	NULL	8	7	0.0625
+ryrs-expressed cell	cardiac muscle	1	1	3	3	0.333333333333	NULL	NULL	51	28	0.0065359477124183
+ryrs-expressed cell	neuron	1	1	3	3	0.333333333333	NULL	NULL	488	124	0.0006830601092896175
+ryrs-expressed cell	skeletal muscle	1	1	3	3	0.333333333333	NULL	NULL	294	98	0.0011337868480725624
+rysoft interactive offer solution	banner design	1	1	2	2	1.000000000000	NULL	NULL	25	13	0.02
+rysoft interactive offer solution	search engine submission	1	1	2	2	1.000000000000	NULL	NULL	96	58	0.005208333333333333
+rystalline polymer	polyethylene	1	1	1	1	NULL	NULL	NULL	3181	975	0.00031436655139893113
+rystals	antracene	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+rystals	sodium iodide	1	1	3	3	0.333333333333	NULL	NULL	104	43	0.003205128205128205
+rystals	naphthalene	1	1	3	3	0.333333333333	NULL	NULL	394	184	0.0008460236886632825
+rythm-based method	standard-days method	1	1	1	1	NULL	NULL	NULL	1	1	1
+rythms	Cumbia	1	1	4	4	0.250000000000	NULL	NULL	120	55	0.0020833333333333333
+rythms	Dark Psychedelic	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+rythms	sophisticated and complex rythms	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+rythms	quadruplets with inner beats removed	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+rythym game	DDR	1	1	1	1	NULL	NULL	NULL	86	46	0.011627906976744186
+rythyms	reggeaton	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ryu	Tenshin Shoden Katori Shinto Ryu	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ryu	Tatsumi Ryu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryu's powerhouse move	Izuna Drop	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ryuha	Takenouchi-ryu	1	1	3	3	NULL	NULL	NULL	4	2	0.08333333333333333
+ryuha	Yagyu Shingan-ryu	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+ryuha	Sosuishi-ryu	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ryukin goldfish frozen food	daphnia	1	1	4	4	0.333333333333	NULL	NULL	271	114	0.0009225092250922509
+ryukin goldfish frozen food	cocktail shrimp	1	1	4	4	0.333333333333	NULL	NULL	9	8	0.027777777777777776
+ryukin goldfish frozen food	krill brine shrimp	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+ryukin goldfish frozen food	bloodworms	1	1	4	4	0.333333333333	NULL	NULL	248	67	0.0010080645161290322
+ryukyu toy	pinwheels made from the leaf of Adan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryukyu toy	puppets made from the nut of the Sago palm	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryukyuan king	Shunten	2	2	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+ryukyuan king	Eiso	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+ryukyuan language	Miyako	2	2	4	2	NULL	NULL	NULL	6	5	0.16666666666666666
+ryukyuan language	Yaeyama	2	2	4	2	NULL	NULL	NULL	7	2	0.14285714285714285
+ryuumaru's move	Finger Jab	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryuumaru's move	Thumb Flick	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ryzex service	Mobile Device Management	1	1	3	3	0.500000000000	NULL	NULL	9	7	0.037037037037037035
+ryzex service	integration support	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+ryzex service	staging	1	1	3	3	0.500000000000	NULL	NULL	226	116	0.0014749262536873156

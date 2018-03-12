@@ -1,0 +1,5 @@
+yfce insight	likely location of the nucleophilic water upon substrate binding	1	1	1	1	NULL	NULL	NULL	1	1	1
+yfl's union technical course	Collective Bargaining	1	1	2	2	NULL	NULL	NULL	106	63	0.0047169811320754715
+yfl's union technical course	Steward training	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+YFO customer	lessee	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+YFZ temple's feature	tablet-shaped window	1	1	1	1	NULL	NULL	NULL	1	1	1

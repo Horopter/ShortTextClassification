@@ -1,0 +1,297 @@
+ah-bian confidant	Lin Teh-hsung	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ah-bian confidant	Ma Yung-cheng	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ah-receptor agonistic compound	dioxin	1	1	2	2	NULL	NULL	NULL	1246	396	0.0004012841091492777
+ah-receptor agonistic compound	polychlorinated biphenyls	1	1	2	2	NULL	NULL	NULL	660	231	0.0007575757575757576
+Ah-receptor agonists	dioxin-like PCBs	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Ah-receptor agonists	dioxin	1	1	2	2	NULL	NULL	NULL	1246	396	0.0004012841091492777
+AH.commers	famous map maker Diamond	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHA	glycolic acid	1	1	3	3	0.250000000000	NULL	NULL	531	178	0.0006277463904582548
+AHA	Lactic Acid	1	1	3	3	0.250000000000	NULL	NULL	785	266	0.00042462845010615707
+AHA	mandelic acid	1	1	3	3	0.250000000000	NULL	NULL	29	20	0.011494252873563218
+aha acid	lactic	1	1	1	1	NULL	NULL	NULL	226	70	0.004424778761061947
+AHA branded item	cookbook	1	1	1	1	NULL	NULL	NULL	211	126	0.004739336492890996
+AHA class	CPR	1	1	2	2	NULL	NULL	NULL	598	260	0.0008361204013377926
+AHA class	ACLS	1	1	2	2	NULL	NULL	NULL	85	49	0.0058823529411764705
+AHA communication system	video subscription programs designed for small	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHA course	BLS HCP	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AHA course	Heartsaver CPR & AED	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AHA course	ACLS	1	1	3	3	NULL	NULL	NULL	85	49	0.00392156862745098
+AHA cream	Neostrata smoothing cream	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHA fatty fish	trout	1	1	2	2	NULL	NULL	NULL	2148	455	0.00023277467411545624
+AHA fatty fish	mackerel	1	1	2	2	NULL	NULL	NULL	4148	508	0.00012054001928640309
+AHA focused brand	SkinCeuticals	1	1	3	3	1.000000000000	NULL	NULL	14	10	0.023809523809523808
+AHA focused brand	MD Formulations	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+AHA focused brand	MD Skincare	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+AHA member	Deen	1	1	1	1	0.333333333333	NULL	NULL	10	10	0.1
+AHA moisturizer	Neutrogena Healthy Skin Face Lotion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHA moisturizer	lac-hydrin 5	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+AHA peel	lactic acid	2	2	4	3	NULL	NULL	NULL	785	266	0.0012738853503184713
+AHA peel	lactic	1	1	4	3	NULL	NULL	NULL	226	70	0.0011061946902654867
+AHA peel	citric acid peel	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+AHA peel alphahydroxy acid	lactic	1	1	1	1	NULL	NULL	NULL	226	70	0.004424778761061947
+AHA presidential address	Kenneth Scott Latourette's	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHA product	10% gel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHA product	glycolic acid	1	1	2	2	NULL	NULL	NULL	531	178	0.0009416195856873823
+AHA's	glycolic acid	2	2	3	2	NULL	NULL	NULL	531	178	0.002510985561833019
+AHA's	lactic acid from sour milk	1	1	3	2	NULL	NULL	NULL	3	3	0.1111111111111111
+aha-branded item	cookbook	2	2	5	4	0.250000000000	NULL	NULL	211	126	0.0037914691943127963
+aha-branded item	tshirts	1	1	5	4	0.250000000000	NULL	NULL	55	44	0.0036363636363636364
+aha-branded item	greeting card	1	1	5	4	0.250000000000	NULL	NULL	664	292	0.00030120481927710846
+aha-branded item	water bottle	1	1	5	4	0.250000000000	NULL	NULL	720	294	0.0002777777777777778
+ahaandother like-minded organization	United Coalition of Reason	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHAC's	Shkagamik-Kwe Health Centre	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ahair removal cream	Veet with great success	1	1	1	1	NULL	NULL	NULL	15	2	0.06666666666666667
+ahalogen	bromo	1	1	2	2	NULL	NULL	NULL	87	28	0.005747126436781609
+ahalogen	chloro	1	1	2	2	NULL	NULL	NULL	128	41	0.00390625
+ahamian cultural activit ies	quadrille dancing by the National Dance School	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Ahand full ofindependents	Hunt Oil	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+Ahand power tool	electric drill	1	1	1	1	NULL	NULL	NULL	157	77	0.006369426751592357
+ahandfulof exception	exemplary Center for Employment Training	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahandfulofstates	andRhode Island	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHanfordbased laboratory	Pacific Northwest Laboratories	1	1	1	1	NULL	NULL	NULL	1	1	1
+aharan african country	Malawi	1	1	2	2	NULL	NULL	NULL	1150	160	0.0004347826086956522
+aharan african country	Cameroon	1	1	2	2	NULL	NULL	NULL	689	123	0.000725689404934688
+aharan country	Lesotho	1	1	9	9	NULL	NULL	NULL	483	70	0.00023004370830457787
+aharan country	Kenya	1	1	9	9	NULL	NULL	NULL	3203	448	0.000034689700627883576
+aharan country	Congo	1	1	9	9	NULL	NULL	NULL	471	138	0.00023590469450342062
+aharan country	Liberia	1	1	9	9	NULL	NULL	NULL	792	142	0.0001402918069584736
+aharan country	Zambia	1	1	9	9	NULL	NULL	NULL	1332	162	0.00008341675008341674
+aharan country	Somalia	1	1	9	9	NULL	NULL	NULL	1167	230	0.00009521089212605922
+aharan country	Sudan	1	1	9	9	NULL	NULL	NULL	1708	346	0.00006505334374186833
+aharan country	Burundi	1	1	9	9	NULL	NULL	NULL	553	111	0.00020092425155716293
+aharan country	Zimbabwe	1	1	9	9	NULL	NULL	NULL	1553	230	0.00007154611146884167
+ahard surface	soft surface	2	2	4	3	1.000000000000	NULL	NULL	51	7	0.0196078431372549
+ahard surface	adjoining printer	1	1	4	3	1.000000000000	NULL	NULL	7	2	0.03571428571428571
+ahard surface	adjoining optional printer	1	1	4	3	1.000000000000	NULL	NULL	22	4	0.011363636363636364
+ahardwarede-scription language	VHDL	1	1	2	2	NULL	NULL	NULL	205	75	0.0024390243902439024
+ahardwarede-scription language	Verilog	1	1	2	2	NULL	NULL	NULL	170	59	0.0029411764705882353
+AHAs	glycolic acid	19	19	28	4	0.428571428571	NULL	NULL	531	178	0.024280333602367504
+AHAs	malic acid	6	6	28	4	0.428571428571	NULL	NULL	237	96	0.005424954792043399
+AHAs	Mandelic acid	2	2	28	4	0.428571428571	NULL	NULL	29	20	0.0049261083743842365
+ahas	short chain ahas	1	1	28	4	0.428571428571	NULL	NULL	1	1	0.03571428571428571
+AHAS inhibitor	sulfometuron-methyl in the presence of the amino acids valine	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahats	Achief cook	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahava's product	Dead Sea Mineral Mud	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+ahava's product	Grape & Avocado Body Wash	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+ahavas product	Grape & Avocado Body Wash	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ahavas product	Dead Sea Mineral Mud	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+AHB bridge functionality	data pre-fetching	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AHBA event	hunt at Elizabethtown	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahc's national chain competitor	Lowes	2	2	4	3	NULL	NULL	NULL	809	228	0.0012360939431396785
+ahc's national chain competitor	Home Depot	1	1	4	3	NULL	NULL	NULL	3215	772	0.00007776049766718506
+ahc's national chain competitor	Hechinger	1	1	4	3	NULL	NULL	NULL	5	5	0.05
+AHCI feature	NCQ	1	1	1	1	1.000000000000	NULL	NULL	19	9	0.05263157894736842
+AHD device	Arizona Vortex	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHD device	Larkin Frame	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahead commitment obligation	trade	1	1	1	1	NULL	NULL	NULL	1822	671	0.0005488474204171241
+ahead dessert	cheesecake	1	1	1	1	NULL	NULL	NULL	460	203	0.002173913043478261
+ahead food	crudites	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+ahead item	muffin	1	1	2	2	NULL	NULL	NULL	1215	431	0.00041152263374485596
+ahead item	scone	1	1	2	2	NULL	NULL	NULL	232	133	0.0021551724137931034
+ahead long storage life consumable	toilet paper	2	1	4	2	NULL	NULL	NULL	1133	366	0.00088261253309797
+ahead long storage life consumable	paper towel	2	1	4	2	NULL	NULL	NULL	1491	469	0.0006706908115358819
+ahead one-time star	Larry Linville	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ahead one-time star	McLean Stevenson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahead purchase	repair	1	1	1	1	NULL	NULL	NULL	2307	808	0.00043346337234503684
+ahead rule forum node label	Sor NP	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahead tool	Wills	1	1	1	1	NULL	NULL	NULL	139	58	0.007194244604316547
+ahead-of-his-time pop mastermind	Arthur Lee	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+ahead-of-its-time amenity	his-and-hers closet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahead-of-its-time amenity	main-floor powder room	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahead-of-their-times artist	Antonio Lopez	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ahead-throwing weapon	British-developed Hedgehog	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+ahead-throwing weapon	later Squid	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+ahead-thrown weapon	hedgehog	1	1	1	1	NULL	NULL	NULL	463	152	0.0021598272138228943
+ahealth-related quality-of-life measurement	Foot Function Index	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ahealth-related quality-of-life measurement	Bristol Foot Score	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ahealth-related quality-of-life measurement	short-form health survey	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Ahealthcare environment	hospital	1	1	2	2	NULL	NULL	NULL	12116	3276	0.000041267745130406077
+Ahealthcare environment	clinic	1	1	2	2	NULL	NULL	NULL	1405	563	0.00035587188612099647
+aheat source	wood	1	1	2	2	NULL	NULL	NULL	13775	3193	0.000036297640653357535
+aheat source	electric	1	1	2	2	NULL	NULL	NULL	1353	506	0.0003695491500369549
+Aheater	foil heater	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Aheater element	coil	1	1	1	1	NULL	NULL	NULL	670	312	0.0014925373134328358
+Aheating element	resistance coil	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+Aheating element	band shown in FIG	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+Aheating fluid	water	1	1	1	1	NULL	NULL	NULL	25348	6311	0.000039450844248066906
+Aheating medium	steam	2	1	2	1	NULL	NULL	NULL	1283	568	0.001558846453624318
+AHEC workshop	Eastern Region School Nurse Meetings	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AHEC workshop	School Mental Health Training	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AHEC workshop	School Nurse Documentation	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AHEC workshop	workshop on drug prevention	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AHEC workshop	Prevent Blindness Vision Training	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ahermatypic coral	sea whip s	2	2	7	6	1.000000000000	NULL	NULL	2	1	0.2857142857142857
+ahermatypic coral	sea pen s	1	1	7	6	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+ahermatypic coral	solitary hard coral	1	1	7	6	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+ahermatypic coral	soft coral	1	1	7	6	1.000000000000	NULL	NULL	51	38	0.0028011204481792717
+ahermatypic coral	sea pen	1	1	7	6	1.000000000000	NULL	NULL	8	7	0.017857142857142856
+ahermatypic coral	sea feather s	1	1	7	6	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+ahermatypic or zooxanthellate coral	Dendronephthya sp.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahermatypic or zooxanthellate coral	Scleronephthya spp.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahermatypic reef-inhabiting hard coral	mushroom coral	1	1	1	1	NULL	NULL	NULL	12	5	0.08333333333333333
+aheuristics	tabu search	1	1	2	2	NULL	NULL	NULL	275	133	0.0018181818181818182
+aheuristics	genetic algorithm	1	1	2	2	NULL	NULL	NULL	1268	510	0.0003943217665615142
+AHF scholarship	TRW Foundation Scholarship	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahg's csr activity	Plant-a-tree program	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahgas	sutra	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+ahgas	geya	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+AHHABI leader	Abdullah Bin Matruk Al-Haddal	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+AHHABI leader	preacher from the Saudi Ministry of Foreign Affairs	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ahi plate	ahi katsu	2	1	2	1	NULL	NULL	NULL	2	1	1
+ahi variety	Hawaiian Yellowfin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ahi variety	Pacific Ahi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ahi variety	Atlantic Ahi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ahigh quality food	Hills	1	1	3	3	NULL	NULL	NULL	131	75	0.0025445292620865138
+ahigh quality food	iams puppy	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ahigh quality food	eukanuba	1	1	3	3	NULL	NULL	NULL	196	93	0.0017006802721088435
+Ahigh quality protein	whey	1	1	1	1	NULL	NULL	NULL	433	182	0.0023094688221709007
+Ahigh yield instrument	equity CDO tranche	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ahigh-output lamp	xenon lamp	1	1	1	1	NULL	NULL	NULL	120	58	0.008333333333333333
+Ahigh-potassium fertilizer	seaweed	1	1	1	1	NULL	NULL	NULL	820	342	0.0012195121951219512
+ahigh-resolution datum	high-throughput SNP array datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahigh-specicentscity RNaseH-independent antisenseoligo	morpholino	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+ahigh-speed Inter net connection	provided through cable	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahigh-traffic location	train station	1	1	2	2	NULL	NULL	NULL	381	201	0.0013123359580052493
+Ahigh-traffic location	airport	1	1	2	2	NULL	NULL	NULL	3036	1201	0.00016469038208168644
+ahigh-transport-cost industry	cement	1	1	1	1	NULL	NULL	NULL	2796	868	0.000357653791130186
+ahighencapsula-tionefficiencyno additional procedure	gradient loading	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahigher-layer transport protocol	transmission control protocol in the Internet	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ahighlyfash-ionablebusiness	perfume	1	1	2	2	NULL	NULL	NULL	2491	732	0.0002007226013649137
+ahighlyfash-ionablebusiness	apparel	1	1	2	2	NULL	NULL	NULL	1147	489	0.00043591979075850045
+AHIMA certification	CCS	2	2	3	2	NULL	NULL	NULL	158	80	0.008438818565400843
+AHIMA certification	Registered Health Information Management Administrator	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+Ahistoric building	Constitution Hall at Lecompton	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahistoric structure	mill	1	1	1	1	NULL	NULL	NULL	424	235	0.0023584905660377358
+ahistorical condition	c 2	1	1	1	1	1.000000000000	NULL	NULL	13	13	0.07692307692307693
+ahistorical or material variable	technology	1	1	2	2	NULL	NULL	NULL	4468	1409	0.00011190689346463742
+ahistorical or material variable	capability	1	1	2	2	NULL	NULL	NULL	206	112	0.0024271844660194173
+ahistorical or objective variable	technology	1	1	2	2	NULL	NULL	NULL	4468	1409	0.00011190689346463742
+ahistorical or objective variable	polarity	1	1	2	2	NULL	NULL	NULL	225	115	0.0022222222222222222
+ahistorical science	palaeobiology	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ahistorical society	India	1	1	1	1	NULL	NULL	NULL	24660	2730	0.000040551500405515004
+AHJ	local Fire & Rescue Service	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHJ	Building Control Officer	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+AHJs	Fire Marshals	1	1	1	1	0.250000000000	NULL	NULL	4	4	0.25
+Ahk-tors	Forrest Whitaker	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+Ahk-tors	Jack Palance	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+AHL graduate	Mike Yeo of Minnesota	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHL proponent	Norfolk Mayor Paul D. Fraim	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHL signal molecule	3-oxo-C12 HSL	2	1	2	1	NULL	NULL	NULL	2	1	1
+AHL stalwart	Hershey Bears	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+AHL team	Hershey	2	2	3	2	0.333333333333	NULL	NULL	133	75	0.010025062656641603
+AHL team	Portland	1	1	3	2	0.333333333333	NULL	NULL	1449	289	0.00023004370830457787
+AHL vet superstar	Keith Aucoin	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+AHL vet superstar	Alexander Giroux	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHL veteran	Colton Sceviour	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+AHL veteran	Craig MacDonald	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+AHL veteran	Jason Krog	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+AHL veteran	Tim Stapleton	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+AHL veteran	Carl Corazzini	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+AHL veteran	Raymond Sawada	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+AHL veteran	Brandon Rogers	1	1	7	7	NULL	NULL	NULL	3	3	0.047619047619047616
+ahl-degrading bacterium	Bacillus spp	1	1	1	1	1.000000000000	NULL	NULL	27	17	0.037037037037037035
+ahl-e-hadith ideologue	Nazir Husain	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ahl-e-hadith ideologue	clerics Siddiq Hasan Khan	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ahl-i hadith pioneer	Maulana Sanaullah Amritsari	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahl-ihadith scholar	Maulvi Miyan Sayyed Muhammad Nazir Husain Muhaddith Dehlavi	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahl-regulated property	siderophore	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ahlbergs book	Peepo	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHLer	A. Gordon	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHLers	Thomas Hickey from Manchester	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHLers	Andrei Loktionov	1	1	8	8	NULL	NULL	NULL	2	2	0.0625
+AHLers	Brendan Brooks	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHLers	Cory Pecker	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHLers	Jean-Guy Trudel	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHLers	Blaine Down	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHLers	Dale McTavish	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHLers	Kurtis McLean	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+AHM cover entire classic album	Dark Side of the Moon	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+ahmad extract fact	Jesus short duration on the cross	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahmadi leader	Dr Bari Malik at Bradford	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahmadi leader	England	1	1	2	2	NULL	NULL	NULL	3906	628	0.00012800819252432156
+ahmadinejad fund islamic terrorist group	Hizballah	1	1	1	1	1.000000000000	NULL	NULL	51	30	0.0196078431372549
+ahmadinejad's close ally	government spokesman Gholamreza Elham	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahmadinejad's close ally	government spokesman Ghomreza Elham	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahmadinejad's conservative opponent	Tehran mayor Mohammad Bagher Ghalibaf	2	2	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+ahmadinejad's conservative opponent	Tehran mayor Mohammad Bagher Gh al ibaf	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+ahmadinejad's important, independent political initiative	taking over the Ministry of Oil	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ahmadinejad's inflammatory remark	wiping Israel off the map	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ahmadinejad's khomeinist detractor	former Iranian president Hashemi Rafsanjani	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahmadinejad's remark	questioning the Holocaust in the Second World War	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahmadinejad's remark	eradicating Israel from the Middle East map	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahmadinejads important, independent political initiative	taking over the Ministry of Oil	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ahmed factor	role of the USA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ahmed factor	Islam	1	1	3	3	NULL	NULL	NULL	1822	377	0.00018294914013904133
+ahmed factor	oil	1	1	3	3	NULL	NULL	NULL	15331	4205	0.000021742439066814515
+ahmedabad-based denim maker	Chiripal Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahnormal uterine condition	metritis	1	1	3	3	0.500000000000	NULL	NULL	49	26	0.006802721088435374
+ahnormal uterine condition	displacement	1	1	3	3	0.500000000000	NULL	NULL	530	241	0.0006289308176100629
+ahnormal uterine condition	lacerations of cervix	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ahnormalities	intralobar sequestration	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+aho-mogeneoussetof document	machine learning paper	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahollow shell muffler	Emerson Flow Controls APD-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahomoannular diene	conjugated cyclohexadiene	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahorted film project	Ridley Scott's THE TRAIN	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ahorted film project	Alejandro Jodorowsky version of DUNE	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Ahost application	word processor	1	1	1	1	NULL	NULL	NULL	1259	462	0.0007942811755361397
+ahostofhigh profile name	Paul Costelloe	1	1	1	1	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+Ahostofothers	William Sharpe	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+Ahot surface	heating mantle	1	1	2	2	0.500000000000	NULL	NULL	8	5	0.0625
+Ahot surface	hot plate	1	1	2	2	0.500000000000	NULL	NULL	287	127	0.0017421602787456446
+AHP leader	Rob Packham	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHP package	expert choice	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+AHP program	trade show program	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahpa's standard-setting effort	publication of Herbs of Commerce	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHPCS concentration	20 wt%	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHPCS concentration	30 wt%	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHPRA board	Psychology Board of Australia	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHQI leader	Stewart	1	1	1	1	NULL	NULL	NULL	95	55	0.010526315789473684
+AHQs	PQS	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+AhR agonist	TCDD	1	1	1	1	NULL	NULL	NULL	45	29	0.022222222222222223
+AhR agonists	dioxin	2	2	5	4	0.375000000000	NULL	NULL	1246	396	0.0006420545746388443
+AhR agonists	2,3,7,8-TCDD	1	1	5	4	0.375000000000	NULL	NULL	7	4	0.028571428571428574
+ahr agonists	novel ahr agonists	1	1	5	4	0.375000000000	NULL	NULL	2	2	0.1
+AhR agonists	TCDD	1	1	5	4	0.375000000000	NULL	NULL	45	29	0.0044444444444444444
+AhR ligand	TCDD	1	1	1	1	NULL	NULL	NULL	45	29	0.022222222222222223
+AhR ligands	TCDD	3	2	10	8	0.600000000000	NULL	NULL	45	29	0.019999999999999997
+AhR ligands	benzopyrene	1	1	10	8	0.600000000000	NULL	NULL	239	85	0.0004184100418410042
+ahr ligands	high-affinity ahr ligands	1	1	10	8	0.600000000000	NULL	NULL	2	2	0.05
+ahr ligands	xenobiotic ahr ligands	1	1	10	8	0.600000000000	NULL	NULL	2	2	0.05
+ahr ligands	weak ahr ligands	1	1	10	8	0.600000000000	NULL	NULL	2	2	0.05
+AhR ligands	2,3,7,8-tetrachlorodibenzo-p-dioxin	1	1	10	8	0.600000000000	NULL	NULL	22	16	0.004545454545454546
+AhR ligands	prototypic environmental AhR agonist	1	1	10	8	0.600000000000	NULL	NULL	1	1	0.1
+ahr ligands	strong ahr ligands	1	1	10	8	0.600000000000	NULL	NULL	2	2	0.05
+ahr-dependent gene	CYP1A1	1	1	1	1	1.000000000000	NULL	NULL	30	21	0.03333333333333333
+ahr-dependent marker	burdens associated with sensitive dioxin-dependent CYP1A1 expression	1	1	1	1	NULL	NULL	NULL	1	1	1
+AhR-ligands	dioxin	1	1	1	1	NULL	NULL	NULL	1246	396	0.0008025682182985554
+ahrc's publication	Chronicle	1	1	1	1	1.000000000000	NULL	NULL	25	20	0.04
+ahrc-funded project	Early Modern Manuscript Poetry	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahrc-funded project	Dialect in British Fiction 1800-1836	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ahrdcc's career training resource	Guiding Circles	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHRI member	Daikin AC	1	1	1	1	NULL	NULL	NULL	1	1	1
+AhRligands	dioxin	1	1	1	1	NULL	NULL	NULL	1246	396	0.0008025682182985554
+Ahroun werewolf	Ahroun blackclaw	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ahroun werewolf	Ahroun blackstalker	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHS method	autonomous vehicle approach	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHS publication	Azalea Book	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHSS grade	Dual Phase	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+AHSSs	dual-phase steel DP600	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AHSSs	dual-phase steel DP600 GI	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aht gallery	Boston Center for the Arts	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahtila's later artwork	installation Anne	1	1	1	1	NULL	NULL	NULL	1	1	1
+AHU internal component	heating coil	1	1	5	5	0.666666666666	NULL	NULL	35	27	0.005714285714285714
+AHU internal component	air filter	1	1	5	5	0.666666666666	NULL	NULL	446	226	0.0004484304932735426
+AHU internal component	cooling coil	1	1	5	5	0.666666666666	NULL	NULL	28	19	0.0071428571428571435
+AHU internal component	electric heater battery	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+AHU internal component	motorised fan	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+AHUD settlement statement	Exhibit R6	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ahuman acid-acting enzyme	human pepsin	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Ahuman acid-acting enzyme	pepsinogen	1	1	2	2	1.000000000000	NULL	NULL	11	11	0.045454545454545456
+ahwahnee amenity	restaurant	1	1	2	2	NULL	NULL	NULL	11422	2864	0.00004377517072316582
+ahwahnee amenity	use of the Great Room	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ahydrocarbon gas	methane	1	1	2	2	NULL	NULL	NULL	3391	784	0.0001474491300501327
+Ahydrocarbon gas	acetylene	1	1	2	2	NULL	NULL	NULL	385	144	0.0012987012987012987
+Ahydrocarboxylic acid	citric acid	4	1	4	1	NULL	NULL	NULL	1120	364	0.0035714285714285713
+Ahydrophilic hardening agent	itaconate mono-	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+Ahypervascular tumor	primar y hepatoma	1	1	1	1	NULL	NULL	NULL	1	1	1
+ahypothesis driven approach	conclusion validation approach	1	1	1	1	NULL	NULL	NULL	1	1	1

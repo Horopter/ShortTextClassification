@@ -1,0 +1,5 @@
+ZP domain protein	fish VEproteins synthesized by the liver	1	1	1	1	NULL	NULL	NULL	1	1	1
+ZP pigment	zinc-manganese phosphate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZP pigment	zinc-aluminum phosphate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZP pigment	zinc-molybdenum phosphate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZPAY service	ZPAY Support BBS	1	1	1	1	NULL	NULL	NULL	1	1	1

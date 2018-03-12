@@ -1,0 +1,66 @@
+WD enterprise drive	Raid Edition	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+WD Guide A document	handbook	1	1	2	2	NULL	NULL	NULL	282	141	0.0017730496453900709
+WD Guide A document	instruction manual	1	1	2	2	NULL	NULL	NULL	114	59	0.0043859649122807015
+WD hitch	Reese Dual Cam	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+WD initiative	Western Economic Partnership Agreements	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+WD japanese vehicle	Hilux	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+WD Network Storage drive	WD ShareSpace	1	1	1	1	NULL	NULL	NULL	1	1	1
+WD policy driver	climate change	1	1	2	2	NULL	NULL	NULL	5795	1331	0.00008628127696289905
+WD policy driver	problems of invasive species	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WD repeat protein	Tup1p of S. cerevisiae	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WD repeat protein	Groucho of Drosophila	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WD symptom	nightmare	1	1	5	5	0.333333333333	NULL	NULL	357	145	0.0005602240896358544
+WD symptom	goose flesh	1	1	5	5	0.333333333333	NULL	NULL	2	2	0.1
+WD symptom	profuse perspiring	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+WD symptom	panic attack	1	1	5	5	0.333333333333	NULL	NULL	600	183	0.0003333333333333334
+WD symptom	vomitting	1	1	5	5	0.333333333333	NULL	NULL	41	23	0.004878048780487805
+WD system	processing system	1	1	3	3	NULL	NULL	NULL	6	5	0.05555555555555555
+WD system	telemetry	1	1	3	3	NULL	NULL	NULL	120	76	0.0027777777777777775
+WD system	power	1	1	3	3	NULL	NULL	NULL	4617	1701	0.00007219695328857122
+wd's partner	Saskatchewan economic development organization	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+wd's partner	university	1	1	2	2	NULL	NULL	NULL	4258	1447	0.00011742602160638798
+wda's partner	NTUC	1	1	1	1	1.000000000000	NULL	NULL	12	12	0.08333333333333333
+wda's training partner	Esplanade	1	1	2	2	1.000000000000	NULL	NULL	53	34	0.009433962264150943
+wda's training partner	Digipen	1	1	2	2	1.000000000000	NULL	NULL	6	3	0.08333333333333333
+WDAFS leader	Eric Knudsen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WDAFS leader	Past-Presidents Bill Bradshaw	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WDAFS leader	Don MacDonald	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+WDBC service	planning	1	1	1	1	NULL	NULL	NULL	3605	1345	0.00027739251040221914
+WDBJ notable	Joe Dashiell	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WDBJ notable	Robin Reed	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WDBJ notable	Hollani Davis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+wdc's simplest task	mowing base ground	1	1	1	1	NULL	NULL	NULL	1	1	1
+WDFW wildlife area	Skookumchuck	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+WDIV personality	Devin Scillian	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WDIV personality	Carmen Harlan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WDIV production	Detroit Fireworks	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WDIV production	North American Auto Charity Preview	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WDIV production	Thanksgiving Parade	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+WDK 5-based client	Documentum Administrator	2	2	4	2	1.000000000000	NULL	NULL	5	4	0.2
+WDK 5-based client	Web Publisher	2	2	4	2	1.000000000000	NULL	NULL	8	5	0.125
+wdk-based client version	Webtop	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+WDM component	passive optical multiplexer	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+WDM component	tunable transceiver	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+WDM component	wavelength converter	1	1	3	3	1.000000000000	NULL	NULL	9	7	0.037037037037037035
+WDM filter characteristic	cross-talk	1	1	1	1	1.000000000000	NULL	NULL	25	19	0.04
+WDM measure	educating the community on efficient use of water	1	1	1	1	NULL	NULL	NULL	1	1	1
+WDM parameter	center wavelength	1	1	2	2	0.500000000000	NULL	NULL	13	9	0.038461538461538464
+WDM parameter	bandwidth	1	1	2	2	0.500000000000	NULL	NULL	1137	466	0.00043975373790677223
+WDM switch	wavelength selective switch	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+WDM switch	wavelength router	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+WDM technology	low-cost light source	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WDM technology	DWDM	1	1	2	2	NULL	NULL	NULL	38	20	0.013157894736842105
+WDM-specific link information	available wavelength	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+wdm-supported bus class	USB	1	1	1	1	NULL	NULL	NULL	993	441	0.0010070493454179255
+WDNR also sample bird	pheasant	1	1	2	2	0.500000000000	NULL	NULL	641	201	0.00078003120124805
+WDNR also sample bird	greater prairie chicken	1	1	2	2	0.500000000000	NULL	NULL	11	10	0.045454545454545456
+WDO fund additional recovery program	organics collection	2	2	2	1	NULL	NULL	NULL	2	1	1
+WDP	Uniform Resource Locator	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+WDS capable AP	Cisco Aironet AP	1	1	1	1	NULL	NULL	NULL	1	1	1
+WDS client	airClient in Bridge mode	2	1	2	1	NULL	NULL	NULL	2	1	1
+WDS service	fast secure roaming	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+WDSL provider	Sprint Broadband Direct	1	1	1	1	NULL	NULL	NULL	1	1	1
+WDSS-II format XML table	outputs of algorithm	1	1	1	1	NULL	NULL	NULL	1	1	1
+WDW resort hotel	Disney's Beach Club	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+WDW resort hotel	Disney's Yacht Club	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+wdw's most famous ride	Space Mountain	1	1	1	1	NULL	NULL	NULL	104	50	0.009615384615384616

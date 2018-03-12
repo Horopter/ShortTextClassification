@@ -1,0 +1,776 @@
+ib	type impurity ofgroup ib	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IB	Traders Choice Global	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IB	Trade Index	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+IB	Traders Choice FX	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IB application	TWS	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+IB attitude	integrity	1	1	3	3	NULL	NULL	NULL	2785	714	0.00011968880909634949
+IB attitude	tolerance	1	1	3	3	NULL	NULL	NULL	1186	376	0.0002810567734682406
+IB attitude	respect	1	1	3	3	NULL	NULL	NULL	2479	618	0.0001344628210299852
+IB business area	project financing	1	1	2	2	0.500000000000	NULL	NULL	48	35	0.010416666666666666
+IB business area	consulting	1	1	2	2	0.500000000000	NULL	NULL	1320	448	0.0003787878787878788
+IB class	foreign language	1	1	1	1	NULL	NULL	NULL	609	204	0.0016420361247947454
+IB component	external essay	1	1	1	1	NULL	NULL	NULL	1	1	1
+IB comrade	Sam Wild	1	1	1	1	NULL	NULL	NULL	1	1	1
+IB condition	IB irradiation time	1	1	1	1	NULL	NULL	NULL	1	1	1
+IB course	Chemistry	1	1	2	2	NULL	NULL	NULL	2911	760	0.00017176228100309173
+IB course	Biology	1	1	2	2	NULL	NULL	NULL	2846	783	0.00017568517217146873
+IB journal	JIBS	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+IB object	view	1	1	1	1	NULL	NULL	NULL	972	403	0.00102880658436214
+IB option	Biomedical Physics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IB option	Historical Physics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IB process	pitching	1	1	1	1	NULL	NULL	NULL	59	43	0.01694915254237288
+IB program college-level course	Advanced Placement	1	1	1	1	1.000000000000	NULL	NULL	114	50	0.008771929824561403
+IB requirement	community service	1	1	1	1	NULL	NULL	NULL	879	303	0.0011376564277588168
+IB school	Atlanta International School	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+IB school	King's College School	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IB school	league-toppers Sevenoaks	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IB subject	Biology	1	1	1	1	NULL	NULL	NULL	2846	783	0.00035137034434293746
+IB topic	vector	1	1	3	3	NULL	NULL	NULL	487	243	0.0006844626967830253
+IB topic	statistic	1	1	3	3	NULL	NULL	NULL	1378	492	0.00024189646831156264
+IB topic	function	1	1	3	3	NULL	NULL	NULL	980	432	0.0003401360544217687
+IB transition metal	Au	1	1	3	3	NULL	NULL	NULL	592	209	0.0005630630630630631
+IB transition metal	Cu	1	1	3	3	NULL	NULL	NULL	124	60	0.0026881720430107525
+IB transition metal	Ag	1	1	3	3	NULL	NULL	NULL	79	35	0.004219409282700422
+IB usesotherassessment strategy	portfolio	1	1	1	1	NULL	NULL	NULL	658	269	0.001519756838905775
+IB world school	Millard North Middle School	1	1	1	1	NULL	NULL	NULL	1	1	1
+IB-based school	Robinson	1	1	1	1	NULL	NULL	NULL	158	69	0.006329113924050633
+IBA event	Springfield Lobby Day	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBA event	IBA Annual Conference	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBA event	Washington Visit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBA project	IBA terrace	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IBA project	viewing mound	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+IBA project	harbor	1	1	4	4	NULL	NULL	NULL	268	178	0.0009328358208955224
+IBA project	prospect	1	1	4	4	NULL	NULL	NULL	67	48	0.0037313432835820895
+IBA provision	financial provision	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+ibaadah	Sadaqah	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+ibaadah	Zakaat	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+ibaadah	Saum	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+ibaadah	Salaah	1	1	4	4	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+ibaadat	Nafl	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ibaadats	tilaawat of the holy Koran	2	2	2	1	NULL	NULL	NULL	2	1	1
+IBAC member association	Brazilian Association of General Aviation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibackground older neighborhood	Old South	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+ibackground older neighborhood	Old North	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ibackup application	browser-based Web-Manager	2	1	4	3	1.000000000000	NULL	NULL	2	1	0.5
+ibackup application	IBackup Drive	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+ibackup application	Network drive	1	1	4	3	1.000000000000	NULL	NULL	21	19	0.011904761904761904
+IBAD coating	nitrides	1	1	1	1	NULL	NULL	NULL	192	90	0.005208333333333333
+ibadah	tadarus	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ibadah	sunat rawatib	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ibadah	solat	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+ibadah	hafazan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Ibadat	alms-giving	1	1	1	1	0.500000000000	NULL	NULL	10	10	0.1
+ibadats	doing zikr	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+ibadats	reciting durood	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+ibadats	reciting durud	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+Iban longhouses	Rumah Panjang Empayang	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Iban longhouses	Rumah Panjang Pange	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Iban longhouses	Rumah Panjang Sungai Pasir	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iban village	Kampung Sungai Pedada	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+iban village	Kampung Tanjung Balu	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+iban village	Kampung Sungai Daun	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+iban village	Kampung Sungai Molon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ibanez original design	Artist	1	1	1	1	NULL	NULL	NULL	1020	402	0.000980392156862745
+Ibanez Zero series trems	Zero Resistance	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibanic group	Desa	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ibank service	bookkeeping	1	1	1	1	NULL	NULL	NULL	674	281	0.001483679525222552
+IBanks	Chicagobased Lincoln International	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+IBanks	UK-based Investec	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+IBanks	Espirito Santo of Portugal	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+IBanks	Japan's Mizuho	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+IBAs	Dakatcha Woodland	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBAs	Lake Erie Western Basin IBA	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBAs	Shimba Hills	1	1	9	9	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+IBAs	Shimba Hills National Park	1	1	9	9	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+IBAs	Chisamba	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBAs	Lake Nakuru	1	1	9	9	1.000000000000	NULL	NULL	11	10	0.0101010101010101
+IBAs	Lutembe Bay	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBAs	Chesapeake Bay Islands	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBAs	Western Shore Marshes	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBB site	Kavala	1	1	7	7	0.181818181818	NULL	NULL	7	6	0.02040816326530612
+IBB site	Germany	1	1	7	7	0.181818181818	NULL	NULL	19646	2312	0.00000727156382251567
+IBB site	Thailand	1	1	7	7	0.181818181818	NULL	NULL	6705	938	0.000021306061574517948
+IBB site	Rhodes	1	1	7	7	0.181818181818	NULL	NULL	181	95	0.0007892659826361484
+IBB site	Philippines	1	1	7	7	0.181818181818	NULL	NULL	4748	652	0.000030087856541100012
+IBB site	Sri Lanka	1	1	7	7	0.181818181818	NULL	NULL	1883	310	0.00007586677793794098
+IBB site	Morocco	1	1	7	7	0.181818181818	NULL	NULL	1798	302	0.0000794533608771651
+ibbu function	battery recharging	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+IBC container	Octabin	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBC device	Blocked Impurity Band detector	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IBC employee	Bensayah Belkacem	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBC message	IBC message210	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBC oligarch technique	free trade	1	1	2	2	NULL	NULL	NULL	176	92	0.002840909090909091
+IBC oligarch technique	privatization	1	1	2	2	NULL	NULL	NULL	423	196	0.001182033096926714
+ibc-tote bin service	leak testing	1	1	3	3	0.500000000000	NULL	NULL	18	13	0.018518518518518517
+ibc-tote bin service	inspection for recertification	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ibc-tote bin service	cleaning	1	1	3	3	0.500000000000	NULL	NULL	4484	1538	0.0000743383883437407
+IBCT intelligence capability	multiple sensor team	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBCT intelligence capability	unmanned aerial vehicle	1	1	2	2	NULL	NULL	NULL	96	73	0.005208333333333333
+IBCT intervention technique	empathic joining	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBD	Crohn disease	1	1	1	1	0.200000000000	NULL	NULL	67	36	0.014925373134328358
+IBD column	Daily Stock Analysis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBD column	Stock Spotlight	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBD column	Research Table Review	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBD diet	Wolfgang Lutz's low carb diet	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+IBD diet	David Klein's	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+IBD drug	sulfasalazine	1	1	1	1	NULL	NULL	NULL	253	76	0.003952569169960474
+IBD hallmark	cytokine members of the IL-8 super-family	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBD marker	serological marker	2	2	6	3	1.000000000000	NULL	NULL	5	4	0.13333333333333333
+IBD marker	biochemical marker	2	2	6	3	1.000000000000	NULL	NULL	12	10	0.05555555555555555
+IBD marker	genetic marker	2	2	6	3	1.000000000000	NULL	NULL	29	22	0.022988505747126436
+IBD related parameter	disease activity	1	1	1	1	1.000000000000	NULL	NULL	29	19	0.034482758620689655
+IBD specific factor	active disease	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IBD symptom	nausea	1	1	6	6	NULL	NULL	NULL	10577	1695	0.000015757461157858243
+IBD symptom	weight loss	1	1	6	6	NULL	NULL	NULL	3020	798	0.00005518763796909492
+IBD symptom	diarrhea	1	1	6	6	NULL	NULL	NULL	5108	1053	0.000032628556512659875
+IBD symptom	stomach pain	1	1	6	6	NULL	NULL	NULL	435	132	0.00038314176245210724
+IBD symptom	vomiting	1	1	6	6	NULL	NULL	NULL	5583	1025	0.000029852528509164724
+IBD symptom	abdominal cramp	1	1	6	6	NULL	NULL	NULL	172	69	0.0009689922480620155
+IBD systemic complication	gallstone	1	1	3	3	NULL	NULL	NULL	213	82	0.0015649452269170577
+IBD systemic complication	serious liver disease	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBD systemic complication	kidney stones	1	1	3	3	NULL	NULL	NULL	311	100	0.0010718113612004287
+IBDs	ulcerative colitis	3	3	3	1	NULL	NULL	NULL	955	209	0.0031413612565445027
+IBDV strain	Grayson Laboratory strain	1	1	1	1	NULL	NULL	NULL	1	1	1
+iber quality trait	strength	1	1	2	2	NULL	NULL	NULL	2884	881	0.00017337031900138697
+iber quality trait	length	1	1	2	2	NULL	NULL	NULL	2515	997	0.00019880715705765408
+iberal blogs	Eschaton	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+iberal state	Britain	1	1	1	1	NULL	NULL	NULL	3941	769	0.0002537427048972342
+iberia worker	pilot	3	3	3	1	NULL	NULL	NULL	322	164	0.009316770186335404
+iberian country	Puerto Rico	1	1	4	4	NULL	NULL	NULL	719	186	0.0003477051460361613
+iberian country	Brazil	1	1	4	4	NULL	NULL	NULL	12719	1532	0.00001965563330450507
+iberian country	Cuba	1	1	4	4	NULL	NULL	NULL	1814	352	0.0001378169790518192
+iberian country	Mexico	1	1	4	4	NULL	NULL	NULL	7263	1033	0.000034421038138510255
+iberian father	Pacian of Barcelona	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+iberian father	Prudentius	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+iberian father	Potamius of Lisboa	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+iberian father	Gregory of Elvira	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+iberian grape	native iberian grape	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+iberian grape	Albarino	1	1	2	2	1.000000000000	NULL	NULL	28	21	0.017857142857142856
+iberian horse	Lusitano	4	4	9	3	1.000000000000	NULL	NULL	29	10	0.06130268199233716
+iberian horse	Andalusian	4	4	9	3	1.000000000000	NULL	NULL	47	13	0.037825059101654845
+iberian horse	nowadays iberian horse	1	1	9	3	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+iberian language	Portuguese	1	1	1	1	NULL	NULL	NULL	551	140	0.0018148820326678765
+iberian peninsula extensive area	Andalusia	1	1	1	1	NULL	NULL	NULL	61	22	0.01639344262295082
+iberian poet	Ercilla	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iberian poet	Camoens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iberian region	Southeast	1	1	1	1	NULL	NULL	NULL	111	39	0.009009009009009009
+iberian sculpture	sphink from Hades	1	1	1	1	NULL	NULL	NULL	1	1	1
+iberian specialty	tapas	1	1	1	1	NULL	NULL	NULL	101	61	0.009900990099009901
+iberian staple	morcilla	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+Iberian taxa	salamander	1	1	1	1	NULL	NULL	NULL	458	126	0.002183406113537118
+iberian varietal	albarino	1	1	1	1	1.000000000000	NULL	NULL	28	21	0.03571428571428571
+iberian-influenced cold classic	gazpacho	1	1	1	1	1.000000000000	NULL	NULL	84	37	0.011904761904761904
+iberian-inspired dish	whole suckling pig	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Iberians	Pinzon	1	1	5	5	0.714285714285	NULL	NULL	3	3	0.06666666666666667
+Iberians	Cabral	1	1	5	5	0.714285714285	NULL	NULL	5	5	0.04
+Iberians	Verrazano	1	1	5	5	0.714285714285	NULL	NULL	6	5	0.03333333333333333
+Iberians	Vasco de Gamma	1	1	5	5	0.714285714285	NULL	NULL	2	2	0.1
+Iberians	Balboa	1	1	5	5	0.714285714285	NULL	NULL	24	15	0.008333333333333333
+ibernating mammal	chipmunk	1	1	3	3	NULL	NULL	NULL	485	109	0.0006872852233676975
+ibernating mammal	bat	1	1	3	3	NULL	NULL	NULL	1946	517	0.00017129153819801302
+ibernating mammal	ground squirrel	1	1	3	3	NULL	NULL	NULL	326	82	0.0010224948875255623
+ibero-american table explicit dictatorial regime	Cuba	2	2	2	1	NULL	NULL	NULL	1814	352	0.0011025358324145535
+IBEs	Traffics	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBF's event	IBF Live	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBI detectsbiological impact	exotic species	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+ibibio plant	Edemedong	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+ibibio plant	Utimense	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+ibibio plant	Mbia-asakha	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+ibibio plant	Ntoon	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+ibibio plant	Eriam	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+ibibio plant	Mbritem	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+ibid community	Hadzabe	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+ibid community	Akie	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibid function	selecting pen color	3	2	3	1	NULL	NULL	NULL	3	1	1
+ibinfo datum	service operation name	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+ibinfo datum	message name	1	1	3	2	NULL	NULL	NULL	4	3	0.08333333333333333
+Ibis species	glossy	1	1	2	2	0.500000000000	NULL	NULL	79	49	0.006329113924050633
+Ibis species	wattled	1	1	2	2	0.500000000000	NULL	NULL	6	4	0.08333333333333333
+ibis-many early political leader	Benjamin Franklin	1	1	3	3	NULL	NULL	NULL	408	192	0.0008169934640522875
+ibis-many early political leader	Thomas Paine	1	1	3	3	NULL	NULL	NULL	150	83	0.0022222222222222222
+ibis-many early political leader	Thomas Jefferson	1	1	3	3	NULL	NULL	NULL	661	264	0.0005042864346949066
+ibitionofotherdna damage response pathway	ataxia telangiectasia mutated	1	1	1	1	NULL	NULL	NULL	8	3	0.125
+ibivb town	London	1	1	1	1	NULL	NULL	NULL	4434	1064	0.0002255299954894001
+ibiza archaeological site	16 th century fortifications Villa Alta	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibiza archaeological site	Phoenician ruin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibiza attraction	popular Benirras Beach	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ibiza attraction	Port of Ibiza	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+ibiza attraction	Ibiza Cathedral	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+ibiza club	Privilege	1	1	1	1	NULL	NULL	NULL	151	73	0.006622516556291391
+ibiza event	wedding	1	1	1	1	NULL	NULL	NULL	9942	1590	0.00010058338362502515
+ibiza headliner	Swedish House Mafia	1	1	1	1	1.000000000000	NULL	NULL	23	14	0.043478260869565216
+ibiza HOLIDAY rental	villa	1	1	1	1	NULL	NULL	NULL	330	154	0.0030303030303030303
+ibiza regular	George Evelyn	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ibiza regular	Colin Peters	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ibiza regular	Christopher Tubbs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ibiza wellbeing service	Therapies & Workshops for personal relaxation	1	1	1	2	NULL	NULL	NULL	1	1	1
+ibiza's most famous attraction	historic Ibiza old Town	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibiza's most famous attraction	Ibiza Casino	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibiza's most luxurious nightclub	El Divino	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+ibiza's most luxurious nightclub	Pacha	1	1	2	2	1.000000000000	NULL	NULL	64	27	0.0078125
+ibizan staple	Priviledge	1	1	1	1	NULL	NULL	NULL	1	1	1
+ible act	assault	1	1	3	3	NULL	NULL	NULL	2388	478	0.00013958682300390843
+ible act	murder	1	1	3	3	NULL	NULL	NULL	4751	769	0.00007016066792955869
+ible act	rape	1	1	3	3	NULL	NULL	NULL	4855	976	0.00006865774116031582
+ible, major research decision	operational definitions of variable	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibleinhibitors	furfural	1	1	1	1	NULL	NULL	NULL	99	57	0.010101010101010102
+iblethat contextual information	current domain in focus	1	1	1	1	NULL	NULL	NULL	1	1	1
+iblethatfactors	multiple blood donation	1	1	1	1	NULL	NULL	NULL	1	1	1
+iblethatother factor	circadian influence	1	1	1	1	NULL	NULL	NULL	1	1	1
+iblethatother mechanism	desirable responding	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibletomakea phase-sensitive measurement	quadrature measurement	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibletoseparate human or fixed-capital-intensive area	final assembly	1	1	3	3	0.333333333333	NULL	NULL	11	9	0.0303030303030303
+ibletoseparate human or fixed-capital-intensive area	administration	1	1	3	3	0.333333333333	NULL	NULL	1728	671	0.00019290123456790122
+ibletoseparate human or fixed-capital-intensive area	research	1	1	3	3	0.333333333333	NULL	NULL	3399	1283	0.00009806805923310777
+ibletouseother datum	protein expression level	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+ibletouseother datum	predicted phosphorylation site	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iblical passage	John 3	1	1	1	1	1.000000000000	NULL	NULL	61	18	0.01639344262295082
+iblical writing	Gospel of Barnabas	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+iblical writing	references of Jesus	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+iblis monster	worm	1	1	1	1	NULL	NULL	NULL	2308	714	0.0004332755632582322
+IBM aid	IBM 3745 Configurator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM aid	3745 Configurator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM appliance manufacturer	General Electric	1	1	3	3	NULL	NULL	NULL	2514	682	0.00013259082471492973
+IBM appliance manufacturer	Electrolux	1	1	3	3	NULL	NULL	NULL	297	128	0.0011223344556677889
+IBM appliance manufacturer	Whirlpool	1	1	3	3	NULL	NULL	NULL	818	261	0.00040749796251018743
+IBM application	brainstorming tool BrainShare	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+IBM application	IBM Director	1	1	9	9	0.666666666666	NULL	NULL	17	11	0.0065359477124183
+IBM application	WebSphere Process Server	1	1	9	9	0.666666666666	NULL	NULL	15	12	0.007407407407407407
+IBM application	WebSphere Enterprise Service Bus	1	1	9	9	0.666666666666	NULL	NULL	4	4	0.027777777777777776
+IBM application	Impact	1	0	9	9	0.666666666666	NULL	NULL	407	215	0.00027300027300027296
+IBM application	Management Central Job Monitors	1	1	9	9	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+IBM application	WebSphere MQ Workflow	1	1	9	9	0.666666666666	NULL	NULL	3	3	0.037037037037037035
+IBM application	Operations Navigator	1	1	9	9	0.666666666666	NULL	NULL	3	3	0.037037037037037035
+IBM application	IBM WebSphere Commerce Suite	1	1	9	9	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+IBM application development tool	Debug Tool	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM application development tool	Application Performance Analyzer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM automation technology	IBM WebSphere Portlet Factory	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IBM automation technology	IBM Dashboard Accelerator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM brand product	Tivoli	1	1	3	3	NULL	NULL	NULL	104	67	0.003205128205128205
+IBM brand product	Web Sphere	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+IBM brand product	Workplace	1	1	3	3	NULL	NULL	NULL	386	173	0.0008635578583765112
+IBM business integration product	MQSeries line	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM business partner	JustSystems	3	2	19	13	0.200000000000	NULL	NULL	4	2	0.11842105263157894
+IBM business partner	Kapow Technologies	3	2	19	13	0.200000000000	NULL	NULL	5	3	0.09473684210526315
+IBM business partner	Jibes	3	2	19	13	0.200000000000	NULL	NULL	3	1	0.15789473684210525
+IBM business partner	DataPower	1	1	19	13	0.200000000000	NULL	NULL	6	5	0.008771929824561403
+IBM business partner	Rocket Software	1	1	19	13	0.200000000000	NULL	NULL	1	1	0.05263157894736842
+IBM business partner	Sarvega	1	1	19	13	0.200000000000	NULL	NULL	5	3	0.010526315789473684
+IBM business partner	John DiMare	1	1	19	13	0.200000000000	NULL	NULL	1	1	0.05263157894736842
+IBM business partner	Layer 7 Technologies	1	1	19	13	0.200000000000	NULL	NULL	1	1	0.05263157894736842
+IBM business partner	Levi Ray & Shoup	1	1	19	13	0.200000000000	NULL	NULL	1	1	0.05263157894736842
+IBM business partner	Mainline Information Systems	1	1	19	13	0.200000000000	NULL	NULL	2	2	0.02631578947368421
+IBM business partner	APC	1	1	19	13	0.200000000000	NULL	NULL	213	95	0.00024709661477637757
+IBM business partner	Champion Solutions Group	1	1	19	13	0.200000000000	NULL	NULL	2	2	0.02631578947368421
+IBM business partner	Siemens	1	1	19	13	0.200000000000	NULL	NULL	2293	783	0.00002295315261551174
+ibm certification exam	latest ibm certification exam	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM certification exam	000-975 exam	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM certification exam	000-051 exam	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM certification exam	000-976 exam	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM certification exam	000-529 exam	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM certification exam	000-977 exam	1	1	7	7	NULL	NULL	NULL	4	3	0.03571428571428571
+IBM certification exam	000-978 exam	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM class	IBM Management Training I & II	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM classification module system datum	decision plan	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IBM classification module system datum	knowledge base	1	1	3	3	0.500000000000	NULL	NULL	100	58	0.003333333333333333
+IBM classification module system datum	status datum	1	1	3	3	0.500000000000	NULL	NULL	7	3	0.047619047619047616
+IBM client	Town of Fort Erie	2	2	10	7	0.500000000000	NULL	NULL	3	2	0.13333333333333333
+IBM client	Salvation Army	2	2	10	7	0.500000000000	NULL	NULL	1920	494	0.00020833333333333335
+IBM client	Deutsche Bahn	2	2	10	7	0.500000000000	NULL	NULL	27	17	0.014814814814814815
+IBM client	Lopez y Cortina	1	1	10	7	0.500000000000	NULL	NULL	1	1	0.1
+IBM client	faciliation	1	1	10	7	0.500000000000	NULL	NULL	1	1	0.1
+IBM client	Murak & Associates LLC	1	1	10	7	0.500000000000	NULL	NULL	1	1	0.1
+IBM client	AT&T in areas associated to training e.g. course design	1	1	10	7	0.500000000000	NULL	NULL	1	1	0.1
+IBM Client package	IBM Data Server Driver	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM clone	Kaypro	1	1	1	1	0.500000000000	NULL	NULL	3	3	0.3333333333333333
+IBM cluster product	Reliable Scalable Cluster Technology	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM COBOL compiler	Enterprise COBOL	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM cognos business intelligence studio	Analysis Studio	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM cognos business intelligence studio	Report Studio	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+IBM cognos component	Report Studio	2	2	6	5	NULL	NULL	NULL	6	5	0.1111111111111111
+IBM cognos component	IBM Cognos Viewer	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+IBM cognos component	IBMCognos Connection	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+IBM cognos component	IBM Cognos Connection	1	1	6	5	NULL	NULL	NULL	2	2	0.08333333333333333
+IBM cognos component	IBM CognosViewer	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+IBM cognos object	data source	1	1	5	5	0.200000000000	NULL	NULL	123	75	0.0016260162601626016
+IBM cognos object	contact	1	1	5	5	0.200000000000	NULL	NULL	1676	655	0.00011933174224343676
+IBM cognos object	distribution list	1	1	5	5	0.200000000000	NULL	NULL	35	36	0.005714285714285714
+IBM cognos object	group	1	1	5	5	0.200000000000	NULL	NULL	1049	514	0.00019065776930409916
+IBM cognos object	role	1	1	5	5	0.200000000000	NULL	NULL	537	257	0.00037243947858473
+IBM cognos product	Impromptu	1	1	1	1	1.000000000000	NULL	NULL	27	19	0.037037037037037035
+IBM compatible	models PC	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+IBM compatible portable	Compaq Portable	3	3	3	1	NULL	NULL	NULL	3	1	1
+IBM competitor	Hewlett-Packard	1	1	7	7	0.333333333333	NULL	NULL	2176	578	0.00006565126050420168
+IBM competitor	Dell	1	1	7	7	0.333333333333	NULL	NULL	6439	1426	0.000022186231224901826
+IBM competitor	Oracle	1	1	7	7	0.333333333333	NULL	NULL	4631	1430	0.000030848011845636546
+IBM competitor	Veritas Software Corp.	1	1	7	7	0.333333333333	NULL	NULL	5	3	0.02857142857142857
+IBM competitor	Dragon Systems	1	1	7	7	0.333333333333	NULL	NULL	8	4	0.017857142857142856
+IBM competitor	Compaq	1	1	7	7	0.333333333333	NULL	NULL	1070	362	0.0001335113484646195
+IBM competitor	EMC Corp.	1	1	7	7	0.333333333333	NULL	NULL	47	23	0.00303951367781155
+IBM complex business	consulting	1	1	1	1	NULL	NULL	NULL	1320	448	0.0007575757575757576
+IBM configuration management software product	Tivoli Provisioning Manager	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+IBM configuration management software product	Tivoli Configuration Manager	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IBM connectivity product	token ring cable assembly	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+IBM connectivity product	adapter	1	1	4	4	0.500000000000	NULL	NULL	400	174	0.000625
+IBM connectivity product	patch panel	1	1	4	4	0.500000000000	NULL	NULL	82	60	0.003048780487804878
+IBM connectivity product	baluns	1	1	4	4	0.500000000000	NULL	NULL	15	14	0.016666666666666666
+IBM customer	CEO of OpenDemand Systems Inc.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBM customer	Donald Doane	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBM customer	Turning Stone Casino Resort	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBM datum management system	VSAM	1	1	3	3	0.500000000000	NULL	NULL	19	14	0.017543859649122806
+IBM datum management system	DB2	1	1	3	3	0.500000000000	NULL	NULL	446	177	0.0007473841554559043
+IBM datum management system	IMS DB	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IBM DB2 software enhancement	deep compression	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+IBM design	Model F	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM director function	Event Action Plan Builder	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM director function	Scheduler	1	1	2	2	NULL	NULL	NULL	81	48	0.006172839506172839
+IBM division	IBM Global Network	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM eclipsed-based product	WebSphere Integration Developer	1	1	2	2	1.000000000000	NULL	NULL	5	3	0.1
+IBM eclipsed-based product	Rational Application Developer	1	1	2	2	1.000000000000	NULL	NULL	19	13	0.02631578947368421
+IBM ECM application	IBM FileNet P8	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IBM ECM product	IBM FileNet P8	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IBM ECM widgets	Content List widget	1	0	1	1	NULL	NULL	NULL	2	2	0.5
+IBM employee	Adam Gartenberg	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM employee	Project Manager	1	1	7	7	NULL	NULL	NULL	515	196	0.00027739251040221914
+IBM employee	Alan Lepofsky	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM employee	Mike Rhodin	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM employee	Benjamin Clark	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM employee	Ed Brill	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+IBM employee	Kevin Cavanaugh	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+IBM environment	CICS	1	1	1	1	NULL	NULL	NULL	100	66	0.01
+IBM executive	Donn Atkins	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IBM executive	general manager of IBM global business partner	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IBM executive	John Callies	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IBM executive	executive vice president of sales Greg Corgan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IBM expert	Grady Booch	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+IBM file	Struts configuration file	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM filenet document ingestion product	Capture	1	1	1	1	NULL	NULL	NULL	109	77	0.009174311926605505
+IBM filenet expansion product	IBM FileNet Records Management	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+IBM filenet expansion product	e-Discovery extension	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+IBM filenet P8 platform application	Workplace XT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM filenet P8 platform application	Process Engine	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IBM front-end processor	IBM 3745s	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM global services main rival	Accenture	1	1	1	1	NULL	NULL	NULL	975	372	0.0010256410256410256
+IBM hypervisor edition product	WebSphere Application Server Hypervisor Edition	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IBM hypervisor edition virtual image	WebSphere Application Server Hypervisor Edition	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IBM i-specific functionality	DBi database	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM i-specific functionality	XML Toolkit	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IBM ILOG Elixir component	pivot chart	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+IBM india also welcomesearly-stage entrepreneur	Sujit Kumar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM india also welcomesearly-stage entrepreneur	founder	1	1	2	2	NULL	NULL	NULL	88	70	0.005681818181818182
+IBM initiative	Hippocratic database technology	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM integrated development environment	IBM Rational Application Developer	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+IBM internal development initiative	Community Source	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM ITSO Redbooks	Web Services Wizardry with WebSphere Studio Application Developer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IBM japan wholly-owned subsidiary	Information Technology Solutions Co.	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM laptop	ThinkPad 755C	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM location	office building	1	1	1	1	NULL	NULL	NULL	1111	463	0.0009000900090009
+IBM lotus collaborative product	Domino	1	1	4	4	0.750000000000	NULL	NULL	67	50	0.0037313432835820895
+IBM lotus collaborative product	Quickr	1	1	4	4	0.750000000000	NULL	NULL	7	6	0.03571428571428571
+IBM lotus collaborative product	Sametime	1	1	4	4	0.750000000000	NULL	NULL	20	12	0.0125
+IBM lotus collaborative product	Connections	1	1	4	4	0.750000000000	NULL	NULL	22	22	0.011363636363636364
+IBM lotus product	QuickPlace	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+IBM lotus product	Sametime	1	1	3	3	1.000000000000	NULL	NULL	20	12	0.016666666666666666
+IBM lotus product	Quickr	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+IBM macro	WTO	1	1	1	1	NULL	NULL	NULL	553	190	0.0018083182640144665
+IBM mainframe	System z10 Business Class	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM mainframe system	AS400	1	1	1	1	1.000000000000	NULL	NULL	14	14	0.07142857142857142
+IBM management application	Tivoli Storage Manager	2	2	2	1	1.000000000000	NULL	NULL	15	12	0.13333333333333333
+IBM microcomputer component	chip	1	0	1	1	NULL	NULL	NULL	2396	808	0.00041736227045075126
+IBM middleware	IBM WebSphere	1	1	1	1	NULL	NULL	NULL	109	61	0.009174311926605505
+IBM middleware component	Tivoli product	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+IBM middleware product	JDBC driver	1	1	5	5	1.000000000000	NULL	NULL	7	6	0.028571428571428574
+IBM middleware product	WebSphere Portal	1	1	5	5	1.000000000000	NULL	NULL	14	9	0.014285714285714287
+IBM middleware product	WebSphere MQ	1	1	5	5	1.000000000000	NULL	NULL	22	18	0.009090909090909092
+ibm middleware product	strategic base ibm middleware product	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+IBM middleware product	DB2 Universal Database	1	1	5	5	1.000000000000	NULL	NULL	6	6	0.03333333333333333
+IBM modeling tool	Component Business Model	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM new product development	new IBM BNT RackSwitch	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM notebook computer	ThinkPad T43	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IBM offering	Data Replication Family	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+IBM offering	Automatic Status Tracking	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+IBM offering	Automatic Software Alert Processing	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+IBM onforever reliability feature	fan	1	1	2	2	0.500000000000	NULL	NULL	2666	1077	0.00018754688672168043
+IBM onforever reliability feature	hot-swap power supply	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+IBM partner	Cisco	2	2	4	3	NULL	NULL	NULL	3596	1015	0.00027808676307007786
+IBM partner	Prism	1	1	4	3	NULL	NULL	NULL	488	223	0.0005122950819672131
+IBM partner	Siebel	1	1	4	3	NULL	NULL	NULL	160	102	0.0015625
+IBM PC video standard	CGA	1	1	2	2	0.500000000000	NULL	NULL	24	16	0.020833333333333332
+IBM PC video standard	MDA	1	1	2	2	0.500000000000	NULL	NULL	115	73	0.004347826086956522
+IBM perk	free software	1	1	1	1	1.000000000000	NULL	NULL	44	33	0.022727272727272728
+IBM platform	Websphere	1	1	1	1	1.000000000000	NULL	NULL	33	21	0.030303030303030304
+IBM POS equipment	Registers	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+IBM POS equipment	receipt printer	1	1	2	2	1.000000000000	NULL	NULL	35	29	0.014285714285714285
+IBM product	WebSphere Application Server	5	3	47	33	0.625000000000	NULL	NULL	43	19	0.012370113805047007
+IBM product	DB2	4	3	47	33	0.625000000000	NULL	NULL	446	177	0.0007632859459975193
+IBM product	Tivoli	3	3	47	33	0.625000000000	NULL	NULL	104	67	0.0018412438625204583
+IBM product	WebSphere Message Broker	3	2	47	33	0.625000000000	NULL	NULL	10	5	0.019148936170212766
+IBM product	Internet Connection Server	2	1	47	33	0.625000000000	NULL	NULL	2	1	0.0425531914893617
+IBM product	WebSphere Information Integration	2	1	47	33	0.625000000000	NULL	NULL	2	1	0.0425531914893617
+IBM product	Lotus	2	2	47	33	0.625000000000	NULL	NULL	680	318	0.00012515644555694618
+IBM product	Lotus Domino Go	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	Lotus Connections	1	1	47	33	0.625000000000	NULL	NULL	3	2	0.0070921985815602835
+IBM product	Lotus Mashups	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	IBM DB2	1	1	47	33	0.625000000000	NULL	NULL	109	60	0.00019519812609798944
+IBM product	CICS	1	1	47	33	0.625000000000	NULL	NULL	100	66	0.0002127659574468085
+IBM product	DB2 Document Manager	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	DB2 Content Manager	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	DB2 Intelligent Miner	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+ibm product	successful ibm product	1	1	47	33	0.625000000000	NULL	NULL	2	2	0.010638297872340425
+IBM product	IBM Lotus Domino	1	1	47	33	0.625000000000	NULL	NULL	10	9	0.002127659574468085
+IBM product	IBM Lotus SameTime	1	1	47	33	0.625000000000	NULL	NULL	12	8	0.0017730496453900709
+IBM product	Connections	1	1	47	33	0.625000000000	NULL	NULL	22	22	0.0009671179883945841
+IBM product	Websphere Studio Application Developer	1	1	47	33	0.625000000000	NULL	NULL	5	4	0.00425531914893617
+IBM product	operating system	1	1	47	33	0.625000000000	NULL	NULL	1080	411	0.00001970055161544523
+IBM product	Tivoli for systems management	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	DataPower	1	1	47	33	0.625000000000	NULL	NULL	6	5	0.0035460992907801418
+IBM product	Lotus for collaboration	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	IBM WebSphere Business Monitor V6.2	1	0	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	WebSphere Portal	1	1	47	33	0.625000000000	NULL	NULL	14	9	0.001519756838905775
+IBM product	MQ Series	1	1	47	33	0.625000000000	NULL	NULL	12	12	0.0017730496453900709
+IBM product	Tivoli Provisioning Manager	1	1	47	33	0.625000000000	NULL	NULL	6	6	0.0035460992907801418
+IBM product	ThinkPad	1	1	47	33	0.625000000000	NULL	NULL	10	9	0.002127659574468085
+IBM product	Lotus ASP Solution Pack94	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product	IBM WebSphere	1	1	47	33	0.625000000000	NULL	NULL	109	61	0.00019519812609798944
+IBM product	ViaVoice	1	1	47	33	0.625000000000	NULL	NULL	12	11	0.0017730496453900709
+IBM product	Sametime Connect 7.5.1	1	1	47	33	0.625000000000	NULL	NULL	1	1	0.02127659574468085
+IBM product line	Tivoli systems management software	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM program	Corporate Service Corps	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IBM program	work in the Sichuan province of China	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IBM program	World Community Grid	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+IBM project	WebSphere Messaging	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+IBM project	WebSphere Real Time VM	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+IBM RACF security setting	system option	2	1	4	2	1.000000000000	NULL	NULL	5	3	0.2
+IBM RACF security setting	password control	2	1	4	2	1.000000000000	NULL	NULL	16	12	0.0625
+IBM RAS feature	Live Partition Mobility	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM rational clearquest web service	ClearQuest Web	1	0	1	1	NULL	NULL	NULL	1	1	1
+IBM rational integrated tool	Rational ClearCase	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+IBM rational integrated tool	ClearQuest	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+IBM redbook topic	Tivoli Directory Integrator	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+IBM redbook topic	Tivoli Identity Management	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IBM redbook topic	security architecture	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+IBM Redbooks	IBM WebSphere V5.0 Security	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBM Redbooks	SNA in a Parallel Sysplex Environment	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBM Redbooks	Web Services Wizardry with WebSphere Studio Application Developer	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+IBM redbooks publication	Virtual Tape Server	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+IBM resellers	CompuCom	1	1	2	2	NULL	NULL	NULL	8	5	0.0625
+IBM resellers	Inacom	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+IBM rival	Sun	1	1	2	2	0.250000000000	NULL	NULL	2604	964	0.00019201228878648233
+IBM rival	Hewlett-Packard	1	1	2	2	0.250000000000	NULL	NULL	2176	578	0.00022977941176470588
+IBM s RTV command	Retrieve Job Attributes	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM sametime capability	instant messaging	1	1	2	2	NULL	NULL	NULL	1827	684	0.0002736726874657909
+IBM sametime capability	presence	1	1	2	2	NULL	NULL	NULL	723	342	0.0006915629322268327
+IBM SATA disk system	IBM System Storage DS4200	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM scientist	Sebastian Loth	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM selectric-based machine	Communicating Magnetic Card Selectric Typewriter	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM semiconductor division customer	networking-hardware maker Sierra Monolithics	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM server	POWER6	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+IBM server	X series	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+ibm server	non ibm server	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+IBM service	cloud computing	1	1	1	1	NULL	NULL	NULL	1051	333	0.0009514747859181732
+IBM service function	Service Agent	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+IBM service organization	Software Group	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+IBM service organization	IBM Business Partners	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+IBM service organization	Sales & Distribution	1	1	5	5	1.000000000000	NULL	NULL	7	6	0.028571428571428574
+IBM service organization	Global Technology Services	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+IBM service organization	Global Business Services	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+IBM smartcloud application service	portal	2	1	6	3	NULL	NULL	NULL	473	268	0.001409443269908386
+IBM smartcloud application service	billing	2	1	6	3	NULL	NULL	NULL	1390	648	0.0004796163069544364
+IBM smartcloud application service	white labeling	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+IBM software enhancement	autonomic feature	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm software offering	utilizing ibm software offering	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IBM software product	Rational Method Composer for planning the strategy	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM software solution	Tivoli	1	1	1	1	NULL	NULL	NULL	104	67	0.009615384615384616
+IBM software tool	Business Partner Profitability tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM solution	Tivoli Storage Management software	2	2	15	14	NULL	NULL	NULL	2	1	0.13333333333333333
+IBM solution	IBM Tivoli	1	1	15	14	NULL	NULL	NULL	54	42	0.0012345679012345679
+IBM solution	Rational Automation Framework for WebSphere	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	WebSphere Virtual Enterprise	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	Telelogic System Architect for enterprise architecture	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	Lotus Forms	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	IBM Tivoli Security Operations Manager	1	1	15	14	NULL	NULL	NULL	2	2	0.03333333333333333
+IBM solution	IBM Information Security Policy	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	IBM Federated Identity Manager	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	IBM Cognos for business intelligence	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	IBM TotalStorage Productivity Center in place	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	IBM Mashup Hub	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	IBM Lotus software	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM solution	WebSphere CloudBurst Appliance	1	1	15	14	NULL	NULL	NULL	1	1	0.06666666666666667
+IBM special network project	Travelling user support	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM special network project	INGW	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM special program	Unlimited Education Card	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM specific ram	41Y2770 with ECC Chipkill	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM standard application	Telnet server	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+IBM standard application	DDM server	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IBM standard effort	Token Ring networking	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM statistician record match information	winner	1	1	1	1	1.000000000000	NULL	NULL	18	16	0.05555555555555555
+IBM storage server component	IBM Backup & Mass Storage	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM I-O & Storage Controllers	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM Hard Drives	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM SONAS	1	1	9	9	NULL	NULL	NULL	3	3	0.037037037037037035
+IBM storage server component	IBM Storage Media	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM Flash Devices	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM SAN Devices	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM Optical Drives	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM storage server component	IBM Removable Drives	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+IBM study	Global CIO study	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM supplemental resource	developerWorks article	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM support document	technical note	2	1	2	1	1.000000000000	NULL	NULL	18	10	0.1111111111111111
+IBM system database	IBM LINK	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM system management tool	IBM Director	2	2	2	1	1.000000000000	NULL	NULL	17	11	0.11764705882352941
+IBM system storage midrange array	DS3000 through DS5000 series scale with the needs of a medium sized data center	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM System x server	x3690 X5	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM tape drive	IBM 729	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+IBM tape drive	IBM 727	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+IBM tape product	IBM 3590 half-inch tape	1	0	1	1	NULL	NULL	NULL	1	1	1
+IBM tape system	TS3500 Tape Library	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM tech	System Storage Easy Tier software	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM technology	Websphere	1	1	4	4	1.000000000000	NULL	NULL	33	21	0.007575757575757576
+ibm technology	key ibm technology	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+IBM technology	IBM KeyWorksand Jonah	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+IBM technology	Virtualization Engine	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+IBM telelogic modeling product	IBM Rational Rhapsody	1	0	2	2	NULL	NULL	NULL	2	2	0.25
+IBM telelogic modeling product	IBM Rational System Architect	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+IBM Thinkpads	T60	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+IBM tivoli capability	software deployment	1	1	1	1	0.500000000000	NULL	NULL	12	8	0.08333333333333333
+IBM tivoli directory integrator component	Function Components	1	1	2	3	1.000000000000	NULL	NULL	1	1	0.5
+IBM tivoli directory integrator component	Parsers	1	1	2	3	1.000000000000	NULL	NULL	38	30	0.013157894736842105
+IBM tivoli monitoring product component	remote monitoring server	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM tivoli monitoring product component	hub	1	1	2	2	NULL	NULL	NULL	763	310	0.000655307994757536
+IBM tivoli monitoring server	Tivoli Enterprise Monitoring Server	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IBM tivoli monitoring server	Tivoli Enterprise Portal Server	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM tivoli product	Workload Scheduler	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+IBM tivoli product	IBM Tivoli Access Manager for e-business	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+IBM tivoli product	IBM Tivoli Configuration Manager	1	1	4	3	NULL	NULL	NULL	5	5	0.05
+IBM tool	Initiate MPI	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBM tool	Technology Assessment Tool	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBM tool	JES2	1	1	9	9	1.000000000000	NULL	NULL	6	6	0.018518518518518517
+IBM tool	Automation Assessment Tool	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBM tool	DB2 Test Database Generator	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBM tool	DB2 Audit Management Expert	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+IBM tool	Rational Application Developer	1	1	9	9	1.000000000000	NULL	NULL	19	13	0.005847953216374269
+IBM tool	TSO	1	1	9	9	1.000000000000	NULL	NULL	10	9	0.01111111111111111
+ibm tool	rational and ibm tool	1	1	9	9	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+IBM totalstorage disk system	ESS	1	1	1	1	1.000000000000	NULL	NULL	30	19	0.03333333333333333
+IBM transaction processing software product	CICS	1	1	1	1	NULL	NULL	NULL	100	66	0.01
+IBM universal manageability tool	LAN Client Control Manager	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IBM utility	SPUFI for file execution	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBM utility program	sort	1	1	2	2	NULL	NULL	NULL	77	39	0.006493506493506494
+IBM utility program	IEHMOVE	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IBM virtual workstation solution	Virtual Desktop Infrastructure	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667
+IBM websphere product	MQ series	1	1	1	1	1.000000000000	NULL	NULL	12	12	0.08333333333333333
+IBM wireless modem	IBM Wireless Modem for ARDIS	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm's business software product	database	1	1	3	3	NULL	NULL	NULL	2989	1163	0.00011152001784320284
+ibm's business software product	messaging	1	1	3	3	NULL	NULL	NULL	685	320	0.00048661800486618
+ibm's business software product	device management	1	1	3	3	NULL	NULL	NULL	40	28	0.008333333333333333
+ibm's client	Deutsche Bahn	1	1	3	3	0.500000000000	NULL	NULL	27	17	0.012345679012345678
+ibm's client	Town of Fort Erie	1	1	3	3	0.500000000000	NULL	NULL	3	2	0.1111111111111111
+ibm's client	Salvation Army	1	1	3	3	0.500000000000	NULL	NULL	1920	494	0.0001736111111111111
+ibm's competitor	Sun Microsystems	2	2	14	10	NULL	NULL	NULL	912	329	0.0003132832080200501
+ibm's competitor	Computer Associates	2	2	14	10	NULL	NULL	NULL	183	84	0.00156128024980484
+ibm's competitor	Hewlett Packard	2	2	14	10	NULL	NULL	NULL	1030	353	0.00027739251040221914
+ibm's competitor	Hewlett-Packard	2	2	14	10	NULL	NULL	NULL	2176	578	0.00013130252100840336
+ibm's competitor	Intel	1	1	14	10	NULL	NULL	NULL	4286	1143	0.00001666555562962469
+ibm's competitor	Dell	1	1	14	10	NULL	NULL	NULL	6439	1426	0.000011093115612450913
+ibm's competitor	Oracle	1	1	14	10	NULL	NULL	NULL	4631	1430	0.000015424005922818273
+ibm's competitor	Compaq	1	1	14	10	NULL	NULL	NULL	1070	362	0.00006675567423230975
+ibm's competitor	Microsoft	1	1	14	10	NULL	NULL	NULL	11308	2573	0.0000063166405578856935
+ibm's competitor	Veritas	1	1	14	10	NULL	NULL	NULL	92	58	0.0007763975155279503
+ibm's customer	bank	1	1	2	2	NULL	NULL	NULL	11524	2789	0.00004338771259979174
+ibm's customer	scientist	1	1	2	2	NULL	NULL	NULL	568	259	0.0008802816901408451
+ibm's ediscovery solution	eMail Search for CommonStore	2	2	2	1	NULL	NULL	NULL	2	1	1
+ibm's educational program	KidSmart Early Learning	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm's educational program	Reading Companion Grants	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm's flexible work option program	flexible workweek	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm's flexible work option program	individual work schedule	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm's high-end item	System Z mainframe	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ibm's industrial strength tool	RuleBase for verification of software	1	0	1	1	NULL	NULL	NULL	1	1	1
+ibm's key initiative	Business Analytics	5	5	10	2	1.000000000000	NULL	NULL	59	34	0.0423728813559322
+ibm's key initiative	Smarter Planet	5	5	10	2	1.000000000000	NULL	NULL	5	1	0.5
+ibm's middleware'' product	NetView Distribution Manager	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm's newer mainframe	System z9	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ibm's next-generation capability	social search	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+ibm's OEM hardware deal	disk drives for EMC	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm's own web-based software product	Websphere Portal	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+ibm's physical asset	supply	1	1	5	5	NULL	NULL	NULL	2244	801	0.00008912655971479502
+ibm's physical asset	facility	1	1	5	5	NULL	NULL	NULL	1051	405	0.00019029495718363463
+ibm's physical asset	corporate charge card	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+ibm's physical asset	system	1	1	5	5	NULL	NULL	NULL	698	317	0.0002865329512893983
+ibm's physical asset	equipment	1	1	5	5	NULL	NULL	NULL	4707	1559	0.00004248990864669641
+ibm's rational tool	WebSphere Development Studio Client	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm's rival	Apple	1	1	1	1	NULL	NULL	NULL	15894	3432	0.00006291682395872656
+ibm's server	X Series	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+ibm's server competitor	Sun Microsystems	1	1	1	1	NULL	NULL	NULL	912	329	0.0010964912280701754
+ibm's smarter nuclear'' solution	training	1	1	1	1	NULL	NULL	NULL	7685	2537	0.00013012361743656474
+ibm's storage product	tape system	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ibm's storage product	disk system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm's support initiative	knowledge centered support	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ibm's testing procedure	lifecycle testing	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ibm's testing procedure	audio analysis	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+ibm's tool	VisualAge for Java	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+ibm's unique new offering	Smart Analytics Optimizer	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm's universal manageability tool	Universal Management Agent	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+ibm's universal manageability tool	SMART Reaction	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+ibm's universal manageability tool	Alert on LAN	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+ibm's universal manageability tool	LANClient Control Manager	1	1	6	5	NULL	NULL	NULL	4	3	0.041666666666666664
+ibm's universal manageability tool	often-imitated IBM Wake on LAN	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+ibm's web service technology	UDDI	1	1	2	2	NULL	NULL	NULL	199	84	0.002512562814070352
+ibm's web service technology	WSDL	1	1	2	2	NULL	NULL	NULL	307	115	0.0016286644951140066
+ibm's well-known transaction processing system	CICS	1	1	1	1	NULL	NULL	NULL	100	66	0.01
+ibm-compatible maker	Tandy Corp. in Ft.	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibm-compatible manufacturer	Gateway	1	1	1	1	NULL	NULL	NULL	997	413	0.0010030090270812437
+ibm-proprietary feature	Object Data Manager	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm-proprietary feature	System Resource Controller	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibm-sanctioned system integrators	Novato	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+IBM-SP	HPCx	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ibm-sponsored activity	technical conference	1	1	2	2	1.000000000000	NULL	NULL	14	11	0.03571428571428571
+ibm-sponsored activity	roadshow	1	1	2	2	1.000000000000	NULL	NULL	31	22	0.016129032258064516
+ibm-supplied IMS e-business connector	IMS Connector for Java	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ibm-unique feature	keyboard	1	1	2	2	NULL	NULL	NULL	4202	1048	0.00011899095668729176
+ibm-unique feature	thinklight	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibmbusiness partner	Champion Solutions Group	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ibmcoax adapter	IBM 3270 Credit Card adapter	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBMers	Ajay Royyuru	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBMR system	layered-depth image	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ibn masud's friend	Ubay	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibn-sina's commentator	Fakhr al-Din Razi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibn-sina's commentator	Nasir al-Din Tusi	1	1	2	2	NULL	NULL	NULL	5	2	0.1
+IBNR method	mechanical smoothing	1	1	1	2	NULL	NULL	NULL	1	1	1
+ibnu's abstract work	Ruang Waktu	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibogaine metabolite	noribogaine	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibolt's user-friendly tool	table	2	1	6	3	NULL	NULL	NULL	6328	2130	0.00010535187526337968
+ibolt's user-friendly tool	wizard	2	1	6	3	NULL	NULL	NULL	249	145	0.002677376171352075
+ibolt's user-friendly tool	drag-and-drop option	2	1	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+ibome bird	cardinal	1	1	3	3	NULL	NULL	NULL	434	122	0.0007680491551459293
+ibome bird	quail	1	1	3	3	NULL	NULL	NULL	666	212	0.0005005005005005005
+ibome bird	various sparrow	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+iBook series	crystal G3	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+iBook series	Firewire	1	1	6	6	NULL	NULL	NULL	121	72	0.001377410468319559
+iBook series	snow white	1	1	6	6	NULL	NULL	NULL	503	212	0.0003313452617627568
+iBook series	14inch	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+iBook series	12inch	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+iBook series	blueberry	1	1	6	6	NULL	NULL	NULL	4083	892	0.000040819658747652865
+iBooks	Bluefire Reader	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ibooks exclusive	Life on Earth from the EO Wilson Biodiversity Foundation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibooks feature	page flipping	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+IBP window performance factor	thermal efficiency	1	1	2	2	1.000000000000	NULL	NULL	39	23	0.01282051282051282
+IBP window performance factor	air infiltration	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+IBPs	Listeria monocytogenes	1	1	1	1	0.250000000000	NULL	NULL	229	76	0.004366812227074236
+ibpsa's ongoing activity	website	1	1	3	3	NULL	NULL	NULL	2590	1138	0.0001287001287001287
+ibpsa's ongoing activity	conference	1	1	3	3	NULL	NULL	NULL	2864	1022	0.00011638733705772812
+ibpsa's ongoing activity	newsletter	1	1	3	3	NULL	NULL	NULL	3095	1282	0.00010770059235325793
+IBR system	light field	1	1	3	3	1.000000000000	NULL	NULL	19	14	0.017543859649122806
+IBR system	NIBRS	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+IBR system	multi-view video	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+IBR technique	Light Fields	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBRA financial system	Treasury	1	1	8	8	0.333333333333	NULL	NULL	412	203	0.00030339805825242716
+IBRA financial system	BL System	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+IBRA financial system	Asset Management Investments	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+IBRA financial system	Asset Management Credit	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+IBRA financial system	Procurement System	1	1	8	8	0.333333333333	NULL	NULL	10	9	0.0125
+IBRA financial system	Personnel	1	1	8	8	0.333333333333	NULL	NULL	1145	466	0.0001091703056768559
+IBRA financial system	NCA System	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+IBRA financial system	General Affairs	1	1	8	8	0.333333333333	NULL	NULL	3	3	0.041666666666666664
+ibrahamic person	Palestinians	1	1	1	1	1.000000000000	NULL	NULL	29	27	0.034482758620689655
+ibrators	PR Power Play	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibrinolytic agent	TPA	1	1	1	1	NULL	NULL	NULL	114	66	0.008771929824561403
+IBRM representation	light field	1	1	1	1	1.000000000000	NULL	NULL	19	14	0.05263157894736842
+ibroblast growth factor	basic FGF	1	1	1	1	NULL	NULL	NULL	15	4	0.06666666666666667
+ibrous screen	Texel	1	1	1	1	1.000000000000	NULL	NULL	14	8	0.07142857142857142
+ibrox star	Kenny Miller	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+IBS component	precast column	2	2	3	2	NULL	NULL	NULL	5	4	0.26666666666666666
+IBS component	beam	1	1	3	2	NULL	NULL	NULL	1061	477	0.00031416902293433867
+IBS drug	Lotronex	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+IBS likle symptom	lower abdominal pain	1	1	1	1	1.000000000000	NULL	NULL	34	14	0.029411764705882353
+IBS medication	antispasmodic	3	3	3	1	1.000000000000	NULL	NULL	64	29	0.046875
+IBS multiplexer option	AUPC	1	1	1	1	NULL	NULL	NULL	1	1	1
+IBS provider	MySpace	1	1	2	2	NULL	NULL	NULL	6226	1034	0.00008030838419531
+IBS provider	YouTube	1	1	2	2	NULL	NULL	NULL	6287	1492	0.0000795291872117067
+IBS so high fatty food	brownie	2	1	2	1	NULL	NULL	NULL	656	288	0.003048780487804878
+IBS stimulus	stress	3	3	3	1	NULL	NULL	NULL	9419	1683	0.0003185051491665782
+IBS symptom	bloating	10	10	52	25	0.100000000000	NULL	NULL	1711	392	0.0011239491075844086
+IBS symptom	abdominal pain	5	5	52	25	0.100000000000	NULL	NULL	1510	368	0.0003183902190524707
+IBS symptom	constipation	4	4	52	25	0.100000000000	NULL	NULL	3092	740	0.00009951238929246692
+IBS symptom	cramp	4	4	52	25	0.100000000000	NULL	NULL	553	194	0.000556405619696759
+IBS symptom	diarrhea	3	3	52	25	0.100000000000	NULL	NULL	5108	1053	0.00003388350099391603
+IBS symptom	stomach pain	2	2	52	25	0.100000000000	NULL	NULL	435	132	0.00017683465959328028
+IBS symptom	pain	2	2	52	25	0.100000000000	NULL	NULL	5315	1495	0.000014472827266806571
+IBS symptom	fibromyalgia	2	2	52	25	0.100000000000	NULL	NULL	1483	361	0.00005186991026505525
+IBS symptom	flatulence	2	2	52	25	0.100000000000	NULL	NULL	413	159	0.00018625442354255913
+IBS symptom	anxiety	2	2	52	25	0.100000000000	NULL	NULL	10807	2261	0.000007117893672904314
+IBS symptom	depression	2	2	52	25	0.100000000000	NULL	NULL	15330	3151	0.00000501781323699132
+ibs symptom	common ibs symptom	1	1	52	25	0.100000000000	NULL	NULL	2	2	0.009615384615384616
+IBS symptom	malaise	1	1	52	25	0.100000000000	NULL	NULL	789	210	0.000024373598518085213
+ibs symptom	population ibs symptom	1	1	52	25	0.100000000000	NULL	NULL	2	2	0.009615384615384616
+ibs symptom	severe ibs symptom	1	1	52	25	0.100000000000	NULL	NULL	2	2	0.009615384615384616
+IBS symptom	gas	1	1	52	25	0.100000000000	NULL	NULL	7329	2137	0.00000262392812536079
+IBS symptom	flatulance	1	1	52	25	0.100000000000	NULL	NULL	2	2	0.009615384615384616
+IBS symptom	fatigue	1	1	52	25	0.100000000000	NULL	NULL	7827	1619	0.000002456978309795481
+IBS symptom	discomfort	1	1	52	25	0.100000000000	NULL	NULL	324	148	0.00005935422602089269
+IBS symptom	abdominal cramping	1	1	52	25	0.100000000000	NULL	NULL	98	43	0.00019623233908948196
+IBS symptom	distension	1	1	52	25	0.100000000000	NULL	NULL	22	16	0.0008741258741258741
+ibs symptom	typical ibs symptom	1	1	52	25	0.100000000000	NULL	NULL	2	2	0.009615384615384616
+IBS symptom	nausea	1	1	52	25	0.100000000000	NULL	NULL	10577	1695	0.00000181816859513749
+IBS symptom	stomachache	1	1	52	25	0.100000000000	NULL	NULL	188	77	0.00010229132569558102
+IBS symptom	pain after meal	1	1	52	25	0.100000000000	NULL	NULL	1	1	0.019230769230769232
+IBS treatment	prescription	1	1	3	3	NULL	NULL	NULL	364	175	0.0009157509157509158
+IBS treatment	over-the-counter product	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+IBS treatment	yogurts with probiotics	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IBS trigger	GI tract inflammation with a series of soothing -herbal	1	1	1	1	NULL	NULL	NULL	1	1	1
+ibsc-iomcr operation	data synchronization	1	1	2	2	1.000000000000	NULL	NULL	31	20	0.016129032258064516
+ibsc-iomcr operation	dynamic operation	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+Ibsen carachters	Ellida Wangel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ibsen carachters	Nora Helmer in A Dollshouse	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ibsen drama	Doll's House	1	1	2	2	1.000000000000	NULL	NULL	22	18	0.022727272727272728
+ibsen drama	Hedda Gabler	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+ibsen's later play	Master Builder	2	2	2	1	1.000000000000	NULL	NULL	12	9	0.16666666666666666
+ibsen's later work	deal increasingly with the forces of the unconscious	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ibsen's later work	Master Builder	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+ibsen's work	Doll's House	1	1	1	1	1.000000000000	NULL	NULL	22	18	0.045454545454545456
+ibsulation material	mica	1	1	3	3	NULL	NULL	NULL	1026	368	0.0003248862897985705
+ibsulation material	glass	1	1	3	3	NULL	NULL	NULL	12254	3248	0.000027202002067352157
+ibsulation material	polythene	1	1	3	3	NULL	NULL	NULL	77	41	0.004329004329004329
+ibu made plant vegetable	cucumber	1	1	2	2	NULL	NULL	NULL	3938	1031	0.00012696800406297612
+ibu made plant vegetable	eggplant	1	1	2	2	NULL	NULL	NULL	1854	557	0.00026968716289104636
+ibupophren pill	Advil	1	1	1	1	NULL	NULL	NULL	1593	382	0.0006277463904582549
+ibuprofan drug	motrin	1	1	3	3	0.333333333333	NULL	NULL	1052	285	0.0003168567807351077
+ibuprofan drug	alleve	1	1	3	3	0.333333333333	NULL	NULL	30	22	0.01111111111111111
+ibuprofan drug	advil	1	1	3	3	0.333333333333	NULL	NULL	1593	382	0.00020924879681941827
+Ibuprofen	naproxen like Aleve	1	1	3	3	0.600000000000	NULL	NULL	1	1	0.3333333333333333
+Ibuprofen	alaxan	1	1	3	3	0.600000000000	NULL	NULL	3	3	0.1111111111111111
+Ibuprofen	tizanidine Zanaflex	1	1	3	3	0.600000000000	NULL	NULL	2	2	0.16666666666666666
+ibuprofen based medicine	calprofen	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ibuprofen based medicine	nurofen	1	1	2	2	NULL	NULL	NULL	83	48	0.006024096385542169
+ibuprofen common brand name	Nuprin	1	1	3	3	NULL	NULL	NULL	56	38	0.005952380952380952
+ibuprofen common brand name	Motrin IB	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+ibuprofen common brand name	Advil	1	1	3	3	NULL	NULL	NULL	1593	382	0.00020924879681941827
+ibuprofen drug	Advil	4	4	8	3	0.333333333333	NULL	NULL	1593	382	0.0012554927809165098
+ibuprofen drug	Children's Motrin	2	2	8	3	0.333333333333	NULL	NULL	8	6	0.0625
+ibuprofen drug	Motrin	2	2	8	3	0.333333333333	NULL	NULL	1052	285	0.0004752851711026616
+ibuprofen medication	Advil	4	3	5	2	NULL	NULL	NULL	1593	382	0.0020087884494664155
+ibuprofen medication	Motrin	1	1	5	2	NULL	NULL	NULL	1052	285	0.00019011406844106465
+ibuprofen pill	Motrin	1	1	2	2	NULL	NULL	NULL	1052	285	0.0004752851711026616
+ibuprofen pill	Advil	1	1	2	2	NULL	NULL	NULL	1593	382	0.00031387319522912746
+ibuprofen product	Advil	7	6	15	6	NULL	NULL	NULL	1593	382	0.002050638208830299
+ibuprofen product	Motrin	4	4	15	6	NULL	NULL	NULL	1052	285	0.0010139416983523447
+ibuprofen product	ditto ibuprofen product	1	1	15	6	NULL	NULL	NULL	2	2	0.03333333333333333
+ibuprofen product	over-the-counter ibuprofen product	1	1	15	6	NULL	NULL	NULL	2	2	0.03333333333333333
+ibuprofen product	popular over-the-counter ibuprofen product	1	1	15	6	NULL	NULL	NULL	3	3	0.022222222222222223
+ibuprofen product	non-prescription ibuprofen product	1	1	15	6	NULL	NULL	NULL	2	2	0.03333333333333333
+ibuprofen tablet	Advil	2	2	4	3	0.500000000000	NULL	NULL	1593	382	0.0006277463904582549
+ibuprofen tablet	couple ibuprofen tablet	1	1	4	3	0.500000000000	NULL	NULL	2	2	0.125
+ibuprofen tablet	Neurofen	1	1	4	3	0.500000000000	NULL	NULL	20	14	0.0125
+ibuprofen type medication	Advil	1	1	1	1	NULL	NULL	NULL	1593	382	0.0006277463904582549
+ibuprofen-based medication	Nurofen	1	1	1	1	NULL	NULL	NULL	83	48	0.012048192771084338
+ibuprofen-based meds	Advil	1	1	1	1	NULL	NULL	NULL	1593	382	0.0006277463904582549
+ibuprofen-based pain reliever	Motrin	1	1	1	1	NULL	NULL	NULL	1052	285	0.0009505703422053232
+ibuprofen-containing medication	Advil	1	1	2	2	NULL	NULL	NULL	1593	382	0.00031387319522912746
+ibuprofen-containing medication	Nuprin	1	1	2	2	NULL	NULL	NULL	56	38	0.008928571428571428
+ibuprofin pill	Motrin	1	1	2	2	NULL	NULL	NULL	1052	285	0.0004752851711026616
+ibuprofin pill	Advil	1	1	2	2	NULL	NULL	NULL	1593	382	0.00031387319522912746
+iburst's rival operator	Cell C	1	1	5	5	0.400000000000	NULL	NULL	19	13	0.010526315789473684
+iburst's rival operator	Neotel	1	1	5	5	0.400000000000	NULL	NULL	21	11	0.009523809523809525
+iburst's rival operator	Telkom	1	1	5	5	0.400000000000	NULL	NULL	99	58	0.00202020202020202
+iburst's rival operator	Vodacom	1	1	5	5	0.400000000000	NULL	NULL	106	57	0.0018867924528301887
+iburst's rival operator	MTN	1	1	5	5	0.400000000000	NULL	NULL	182	112	0.001098901098901099
+iButton	Thermocron ibutton	1	1	1	1	NULL	NULL	NULL	1	1	1

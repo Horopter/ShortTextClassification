@@ -1,0 +1,428 @@
+xe NMR parameter	relaxation time	1	1	1	1	1.000000000000	NULL	NULL	24	20	0.041666666666666664
+xebraawayfrom open flame	lighter	1	1	1	1	NULL	NULL	NULL	472	190	0.00211864406779661
+XECUTIVE S UMMARY x response	sports activity	1	1	1	1	NULL	NULL	NULL	116	72	0.008620689655172414
+xed characteristic	amenity	1	1	1	1	NULL	NULL	NULL	361	118	0.002770083102493075
+xed element	forest	1	1	3	3	NULL	NULL	NULL	2386	927	0.00013970382788488405
+xed element	highway	1	1	3	3	NULL	NULL	NULL	1225	554	0.00027210884353741496
+xed element	house	1	1	3	3	NULL	NULL	NULL	6965	1227	0.00004785833931562574
+xed infrastructure	base station	1	1	1	1	NULL	NULL	NULL	129	78	0.007751937984496124
+xed installation	pipework	1	1	1	1	1.000000000000	NULL	NULL	31	26	0.03225806451612903
+xed time	day	1	1	2	2	NULL	NULL	NULL	575	234	0.0008695652173913044
+xed time	week	1	1	2	2	NULL	NULL	NULL	302	127	0.0016556291390728477
+xedandpre-established infrastructure	base stations in wireless network	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+xedandstatic embedded system	mobile multimedia phone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xedandstatic embedded system	found in wristwatch	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xedsetof additional service	electronic program guide	1	1	1	1	1.000000000000	NULL	NULL	57	29	0.017543859649122806
+xedstorage location	portion of a shelf	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+XEMBED client	GtkPlug	1	1	1	1	NULL	NULL	NULL	1	1	1
+xen feature	FTP backup	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xen-based server	Citrix XenServer	1	1	1	1	1.000000000000	NULL	NULL	23	19	0.043478260869565216
+xen-based solution	Red Hat Linux Enterprise Server	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xen-based solution	xVM Server from Sun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenakis different suit	diamond	1	1	2	2	NULL	NULL	NULL	2545	954	0.00019646365422396856
+xenakis different suit	visit spade	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenallows different commodity operating system	Linuxand Windows XP	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+xenapp feature	Web Interface	1	1	3	3	1.000000000000	NULL	NULL	42	30	0.007936507936507936
+xenapp feature	Application Streaming	1	1	3	3	1.000000000000	NULL	NULL	9	7	0.037037037037037035
+xenapp feature	Provisioning service	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+xenapp infrastructure server	XML Broker	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenical diet pill	chlorpromazine	1	1	1	1	NULL	NULL	NULL	561	186	0.0017825311942959
+xenical side effect	diarrhea	1	1	2	2	0.500000000000	NULL	NULL	5108	1053	0.00009788566953797964
+xenical side effect	breathing difficulty	1	1	2	2	0.500000000000	NULL	NULL	206	85	0.0024271844660194173
+XENIX command program	shell	1	1	2	2	NULL	NULL	NULL	4074	1301	0.00012272950417280314
+XENIX command program	text editor	1	1	2	2	NULL	NULL	NULL	179	86	0.002793296089385475
+xeno biotic chemical	benzene	1	1	7	8	NULL	NULL	NULL	4065	919	0.00003514320857494289
+xeno biotic chemical	phytates	1	1	7	8	NULL	NULL	NULL	57	34	0.002506265664160401
+xeno biotic chemical	styrene	1	1	7	8	NULL	NULL	NULL	738	277	0.00019357336430507162
+xeno biotic chemical	toluene	1	1	7	8	NULL	NULL	NULL	3021	715	0.000047288031399252846
+xeno biotic chemical	pesticide	1	1	7	8	NULL	NULL	NULL	4878	1151	0.00002928600714578574
+xeno biotic chemical	trichloroethane	1	1	7	8	NULL	NULL	NULL	107	43	0.0013351134846461949
+xeno biotic chemical	xylene	1	1	7	8	NULL	NULL	NULL	1360	360	0.00010504201680672268
+xeno factor	resveratrol	1	1	1	1	NULL	NULL	NULL	532	199	0.0018796992481203006
+xeno unit	Rifter	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+xeno-estrogenic compound	pesticide	1	1	3	3	0.500000000000	NULL	NULL	4878	1151	0.00006833401667350006
+xeno-estrogenic compound	toxic chemicals found in commercial meat	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+xeno-estrogenic compound	synthetic hormone	1	1	3	3	0.500000000000	NULL	NULL	18	10	0.018518518518518517
+xenoantigen amino acid sequence	murine protein amino acid sequence	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenob iotics	pesticide	1	1	1	1	NULL	NULL	NULL	4878	1151	0.0002050020500205002
+xenobiotic agent	organophosphorous pesticide	1	1	4	4	0.333333333333	NULL	NULL	2	2	0.125
+xenobiotic agent	paracetamol	1	1	4	4	0.333333333333	NULL	NULL	1812	372	0.0001379690949227373
+xenobiotic agent	carbon tetrachloride	1	1	4	4	0.333333333333	NULL	NULL	672	236	0.0003720238095238095
+xenobiotic agent	nitrosamine	1	1	4	4	0.333333333333	NULL	NULL	8	9	0.03125
+xenobiotic AHR ligands	TCDD	1	1	1	1	NULL	NULL	NULL	45	29	0.022222222222222223
+xenobiotic and endogenous carboxylic acid	benzoic	1	1	1	1	1.000000000000	NULL	NULL	52	20	0.019230769230769232
+xenobiotic compound	aflatoxin	2	2	9	7	0.333333333333	NULL	NULL	168	37	0.0026455026455026454
+xenobiotic compound	pesticide	2	2	9	7	0.333333333333	NULL	NULL	4878	1151	0.00009111202223133342
+xenobiotic compound	toluene	1	1	9	7	0.333333333333	NULL	NULL	3021	715	0.00003677957997719666
+xenobiotic compound	polycyclic	1	1	9	7	0.333333333333	NULL	NULL	2	2	0.05555555555555555
+xenobiotic compound	xylidine	1	1	9	7	0.333333333333	NULL	NULL	9	7	0.012345679012345678
+xenobiotic compound	2	1	1	9	7	0.333333333333	NULL	NULL	1172	663	0.00009480470231323473
+xenobiotic compound	nerve agent	1	1	9	7	0.333333333333	NULL	NULL	29	18	0.0038314176245210726
+xenobiotic cytochrome P450 enzyme	CYP3A4	1	1	1	1	1.000000000000	NULL	NULL	26	14	0.038461538461538464
+xenobiotic enzyme	glutathione S-transferase	1	1	2	2	0.500000000000	NULL	NULL	46	21	0.010869565217391304
+xenobiotic enzyme	Cytochrome P450	1	1	2	2	0.500000000000	NULL	NULL	43	22	0.011627906976744186
+xenobiotic estrogenlike substance	certain polymer plasticizers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenobiotic estrogenlike substance	detergent-related chemical	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenobiotic metabolic enzyme	CYP3A4	1	1	4	4	1.000000000000	NULL	NULL	26	14	0.009615384615384616
+xenobiotic metabolic enzyme	CYP1A1	1	1	4	4	1.000000000000	NULL	NULL	30	21	0.008333333333333333
+xenobiotic metabolic enzyme	CYP2C9	1	1	4	4	1.000000000000	NULL	NULL	20	10	0.0125
+xenobiotic metabolic enzyme	NADPH P-450 reductase	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+xenobiotic metabolism gene	cytochromes	1	1	1	1	1.000000000000	NULL	NULL	54	26	0.018518518518518517
+xenobiotic metal	Cdand Pb	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+xenobiotic metal	arsenic	1	1	3	3	NULL	NULL	NULL	3806	732	0.00008758101243650376
+xenobiotic metal	cadmium	1	1	3	3	NULL	NULL	NULL	4180	633	0.00007974481658692185
+xenobiotic metal ion	cesium	1	1	2	2	NULL	NULL	NULL	265	131	0.0018867924528301887
+xenobiotic metal ion	mercury	1	1	2	2	NULL	NULL	NULL	6018	1029	0.00008308408109006314
+xenobiotic metla ion	mercury	1	1	2	2	NULL	NULL	NULL	6018	1029	0.00008308408109006314
+xenobiotic metla ion	cesium	1	1	2	2	NULL	NULL	NULL	265	131	0.0018867924528301887
+xenobiotic molecule	doxorubicin	1	1	1	1	NULL	NULL	NULL	673	195	0.0014858841010401188
+xenobiotic organic contaminant	naphthalene	1	1	1	1	NULL	NULL	NULL	394	184	0.0025380710659898475
+xenobiotic pollutant	toluene	1	1	1	1	NULL	NULL	NULL	3021	715	0.00033101621979476995
+xenobiotic protein	GFP	1	1	1	1	NULL	NULL	NULL	151	71	0.006622516556291391
+xenobiotic receptor	PXR	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+Xenobiotic species	pharmaceutical products transported through the blood system	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenobiotic substance	PCB mixture	7	7	10	4	0.333333333333	NULL	NULL	7	1	0.7
+xenobiotic substance	synthetic drug	1	1	10	4	0.333333333333	NULL	NULL	21	10	0.004761904761904762
+xenobiotic substance	drug	1	1	10	4	0.333333333333	NULL	NULL	5262	1715	0.000019004180919802356
+xenobiotic substance	pollutant	1	1	10	4	0.333333333333	NULL	NULL	267	112	0.0003745318352059925
+Xenobiotic thiols	dithiothreitol	1	1	1	1	NULL	NULL	NULL	136	45	0.007352941176470588
+xenobiotic-metabolizing enzyme	cytochrome-P450 enzyme	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+xenobiotic-metabolizing gene	CYP1A1	1	1	2	2	1.000000000000	NULL	NULL	30	21	0.016666666666666666
+xenobiotic-metabolizing gene	GSTM1	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+Xenobiotic-metals	mercury	1	1	1	1	NULL	NULL	NULL	6018	1029	0.00016616816218012627
+xenobiotics	natural poison	10	10	151	94	0.265822784810	NULL	NULL	11	2	0.060204695966285374
+xenobiotics	synthetic drug	10	10	151	94	0.265822784810	NULL	NULL	21	10	0.0315357931251971
+xenobiotics	pesticide	8	8	151	94	0.265822784810	NULL	NULL	4878	1151	0.00008688828610140405
+xenobiotics	dioxin	4	4	151	94	0.265822784810	NULL	NULL	1246	396	0.00008504034101176746
+xenobiotics	alcohol	3	3	151	94	0.265822784810	NULL	NULL	12820	3081	0.000004649192590220165
+xenobiotics	chemical	3	3	151	94	0.265822784810	NULL	NULL	5436	1619	0.000010964431384588396
+xenobiotics	polycyclic aromatic hydrocarbon	3	3	151	94	0.265822784810	NULL	NULL	333	160	0.00017898693395382135
+xenobiotics	DDT	3	3	151	94	0.265822784810	NULL	NULL	1836	404	0.000032463316452408776
+xenobiotics	solvent	3	3	151	94	0.265822784810	NULL	NULL	2858	751	0.000020854670751092554
+xenobiotics	insecticide	3	3	151	94	0.265822784810	NULL	NULL	1030	346	0.000057866649520992734
+xenobiotics	2,3,7,8-tetrachlorodibenzo-p-dioxin	3	3	151	94	0.265822784810	NULL	NULL	22	16	0.0027092113184828417
+xenobiotics	herbicide	2	2	151	94	0.265822784810	NULL	NULL	1377	433	0.000019237520860686683
+xenobiotics	BTX compound	2	2	151	94	0.265822784810	NULL	NULL	2	1	0.013245033112582781
+xenobiotics	primaquine	2	1	151	94	0.265822784810	NULL	NULL	43	20	0.0006160480517480363
+xenobiotics	acetaminophen	2	2	151	94	0.265822784810	NULL	NULL	3967	595	0.00000667760681249447
+xenobiotics	aromatic hydrocarbon	2	2	151	94	0.265822784810	NULL	NULL	176	83	0.00015051173991571343
+xenobiotics	atrazine	2	2	151	94	0.265822784810	NULL	NULL	376	108	0.00007045230379033395
+xenobiotics	nonnutrient substances of low molecular mass in food	2	2	151	94	0.265822784810	NULL	NULL	2	1	0.013245033112582781
+xenobiotics	PCBs	2	2	151	94	0.265822784810	NULL	NULL	1419	381	0.000018668122780243527
+xenobiotics	pollutant	2	2	151	94	0.265822784810	NULL	NULL	267	112	0.00009921373118039536
+xenobiotics	therapeutic drug	2	2	151	94	0.265822784810	NULL	NULL	16	14	0.0016556291390728477
+xenobiotics	toxin	2	2	151	94	0.265822784810	NULL	NULL	616	227	0.00004300335426163241
+xenobiotics	polycyclic hydrocarbon	2	2	151	94	0.265822784810	NULL	NULL	10	7	0.0026490066225165563
+xenobiotics	ethanol	2	2	151	94	0.265822784810	NULL	NULL	3455	934	0.000007667168227254866
+xenobiotics	nitrotoluene	2	2	151	94	0.265822784810	NULL	NULL	8	4	0.0033112582781456954
+xenobiotics	polychlorinated biphenyls	2	2	151	94	0.265822784810	NULL	NULL	660	231	0.00004013646397752358
+xenobiotics	adrenaline	1	1	151	94	0.265822784810	NULL	NULL	435	117	0.000015224175991474461
+xenobiotics	adrenergic blocker	1	1	151	94	0.265822784810	NULL	NULL	5	3	0.0013245033112582781
+xenobiotics	anti-inflammatory drug	1	1	151	94	0.265822784810	NULL	NULL	203	73	0.000032623234267445275
+xenobiotics	digoxin	1	1	151	94	0.265822784810	NULL	NULL	444	103	0.000014915577829485113
+xenobiotics	synthetic organochlofoforides used in pesticide	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	synthetic organochlofofori des used in pesticide	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	therapeutic agent	1	1	151	94	0.265822784810	NULL	NULL	42	24	0.0001576789656259855
+xenobiotics	trichlorophenols	1	1	151	94	0.265822784810	NULL	NULL	4	3	0.0016556291390728477
+xenobiotics	unleaded gasoline	1	1	151	94	0.265822784810	NULL	NULL	9	8	0.0007358351729212656
+xenobiotics	carbon tetrachloride	1	1	151	94	0.265822784810	NULL	NULL	672	236	0.000009854935351624093
+xenobiotics	food additive	1	1	151	94	0.265822784810	NULL	NULL	275	100	0.000024081878386514148
+xenobiotics	gold	1	1	151	94	0.265822784810	NULL	NULL	10877	2626	0.0000006088550663134496
+xenobiotics	lithium	1	1	151	94	0.265822784810	NULL	NULL	1924	438	0.0000034420564221888724
+xenobiotics	lidocaine	1	1	151	94	0.265822784810	NULL	NULL	801	215	0.000008267810931699614
+xenobiotics	methyl mercury	1	1	151	94	0.265822784810	NULL	NULL	49	34	0.00013515339910798757
+xenobiotics	verapamil	1	1	151	94	0.265822784810	NULL	NULL	585	163	0.000011320541121865625
+xenobiotics	steroid	1	1	151	94	0.265822784810	NULL	NULL	2183	522	0.0000030336768466749387
+xenobiotics	CCl 4	1	1	151	94	0.265822784810	NULL	NULL	39	33	0.00016980811682798438
+xenobiotics	aromatic hydrocarbons T. H. Rushmore et al.	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	arsenic	1	1	151	94	0.265822784810	NULL	NULL	3806	732	0.0000017400201146325252
+xenobiotics	heavy metal	1	1	151	94	0.265822784810	NULL	NULL	1911	524	0.0000034654717719996813
+xenobiotics	polynuclear aromatic hydrocarbon	1	1	151	94	0.265822784810	NULL	NULL	33	24	0.0002006823198876179
+xenobiotics	phenol	1	1	151	94	0.265822784810	NULL	NULL	1177	511	0.000005626607099652838
+xenobiotics	phenobarbital	1	1	151	94	0.265822784810	NULL	NULL	723	191	0.00000915977393677924
+xenobiotics	raloxifene	1	1	151	94	0.265822784810	NULL	NULL	305	89	0.000021713169037020953
+xenobiotics	barbiturate	1	1	151	94	0.265822784810	NULL	NULL	847	215	0.000007818791683933164
+xenobiotics	azo dye	1	1	151	94	0.265822784810	NULL	NULL	53	21	0.00012495314257153568
+xenobiotics	benzidine	1	1	151	94	0.265822784810	NULL	NULL	33	15	0.0002006823198876179
+xenobiotics	benzoic acid	1	1	151	94	0.265822784810	NULL	NULL	316	115	0.000020957330874339845
+xenobiotics	GHB	1	1	151	94	0.265822784810	NULL	NULL	382	61	0.000017336430775631913
+xenobiotics	formaldehyde	1	1	151	94	0.265822784810	NULL	NULL	1714	518	0.000003863778620940135
+xenobiotics	certain pesticide	1	1	151	94	0.265822784810	NULL	NULL	30	20	0.0002207505518763797
+xenobiotics	chlordecone	1	1	151	94	0.265822784810	NULL	NULL	11	9	0.0006020469596628537
+xenobiotics	carcinogen	1	1	151	94	0.265822784810	NULL	NULL	128	72	0.00005173841059602649
+xenobiotics	harmful food substances like AA	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	limonene	1	1	151	94	0.265822784810	NULL	NULL	144	64	0.0000459896983075791
+xenobiotics	exotoxins from infected microorganism	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	ethylene glycol	1	1	151	94	0.265822784810	NULL	NULL	873	297	0.000007585929617745007
+xenobiotics	environmental contaminant benzopyrene found in cigarette smoke	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	environmental hormone-like compound	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	dichlorodiphenyltrichloroethane	1	1	151	94	0.265822784810	NULL	NULL	50	29	0.00013245033112582781
+xenobiotics	dopamine	1	1	151	94	0.265822784810	NULL	NULL	1228	295	0.000005392928791768234
+xenobiotics	toxic lipophilic xenobiotics	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	triphenyltin	1	1	151	94	0.265822784810	NULL	NULL	8	5	0.0008278145695364238
+xenobiotics	tributyltin	1	1	151	94	0.265822784810	NULL	NULL	55	30	0.00012040939193257074
+xenobiotics	polynitrated aromatic compound	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	polybrominated diphenyl ether	1	1	151	94	0.265822784810	NULL	NULL	69	35	0.00009597850081581725
+xenobiotics	phytates	1	1	151	94	0.265822784810	NULL	NULL	57	34	0.00011618450098756825
+xenobiotics	plasticizers	1	1	151	94	0.265822784810	NULL	NULL	1339	184	0.000004945867480426729
+xenobiotics	PQ	1	1	151	94	0.265822784810	NULL	NULL	6	6	0.0011037527593818985
+xenobiotics	phenylalanine	1	1	151	94	0.265822784810	NULL	NULL	231	82	0.00002866890284108827
+xenobiotics	metal	1	1	151	94	0.265822784810	NULL	NULL	11430	2556	0.0000005793977739537525
+xenobiotics	salicylic acid	1	1	151	94	0.265822784810	NULL	NULL	930	326	0.000007120985544399345
+xenobiotics	butoxyethanol ester of 2,4-dichlorophenoxyacetic acid	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	BZP	1	1	151	94	0.265822784810	NULL	NULL	18	11	0.0003679175864606328
+xenobiotics	capsaicin andresinferatoxin	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	industrial waste	1	1	151	94	0.265822784810	NULL	NULL	93	54	0.00007120985544399345
+xenobiotics	hydrocarbons of different type	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	acetone	1	1	151	94	0.265822784810	NULL	NULL	2962	700	0.000002235825981192232
+xenobiotics	exotoxins	1	1	151	94	0.265822784810	NULL	NULL	14	8	0.0004730368968779565
+xenobiotics	environmental contaminant	1	1	151	94	0.265822784810	NULL	NULL	14	10	0.0004730368968779565
+xenobiotics	classic P450 inducer phenobarbital	1	1	151	94	0.265822784810	NULL	NULL	1	1	0.006622516556291391
+xenobiotics	methoxychlor	1	1	151	94	0.265822784810	NULL	NULL	33	21	0.0002006823198876179
+xenobiotics	mercuric chloride	1	1	151	94	0.265822784810	NULL	NULL	66	43	0.00010034115994380895
+xenobiotics	MDMA	1	1	151	94	0.265822784810	NULL	NULL	339	76	0.000019535447068706167
+xenobiotics	pharmaceutical	1	1	151	94	0.265822784810	NULL	NULL	3698	910	0.0000017908373597326638
+xenobiotics	oxytetracycline	1	1	151	94	0.265822784810	NULL	NULL	125	40	0.00005298013245033112
+xenobiotics	organophosphate compound	1	1	151	94	0.265822784810	NULL	NULL	3	3	0.002207505518763797
+xenobiotics detoxification enzyme	aniline hydroxylase	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenobiotics pollutant	toluene	1	1	2	2	NULL	NULL	NULL	3021	715	0.00016550810989738498
+xenobiotics pollutant	benzene	1	1	2	2	NULL	NULL	NULL	4065	919	0.0001230012300123001
+xenoestrogenic compound	organochlorine pesticide	2	2	2	1	1.000000000000	NULL	NULL	70	41	0.02857142857142857
+Xenoestrogens	DDT	2	2	13	10	0.437500000000	NULL	NULL	1836	404	0.00016758840288252054
+Xenoestrogens	diethylstilbestrol	2	2	13	10	0.437500000000	NULL	NULL	63	38	0.004884004884004884
+Xenoestrogens	BPA	2	2	13	10	0.437500000000	NULL	NULL	107	39	0.002875629043853343
+Xenoestrogens	linear alkylbenzene sulonates	1	1	13	10	0.437500000000	NULL	NULL	1	1	0.07692307692307693
+Xenoestrogens	HPTE	1	1	13	10	0.437500000000	NULL	NULL	1	1	0.07692307692307693
+Xenoestrogens	certain pesticide	1	1	13	10	0.437500000000	NULL	NULL	30	20	0.002564102564102564
+Xenoestrogens	dioxin	1	1	13	10	0.437500000000	NULL	NULL	1246	396	0.00006173601679219657
+Xenoestrogens	MXC	1	1	13	10	0.437500000000	NULL	NULL	1	1	0.07692307692307693
+Xenoestrogens	nonylphenol	1	1	13	10	0.437500000000	NULL	NULL	55	29	0.0013986013986013986
+Xenoestrogens	polychlorinated biphenyls	1	1	13	10	0.437500000000	NULL	NULL	660	231	0.00011655011655011655
+xenoffersother networking mode	network address translation	1	1	1	1	NULL	NULL	NULL	109	51	0.009174311926605505
+xenogeneic biomaterials	SIS	1	1	1	1	1.000000000000	NULL	NULL	58	37	0.017241379310344827
+xenogeneic chimeric antibody	human-human allogeneic chimeric antibody	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenogeneic chimeric antibody	mouse-human antibody	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Xenogeneic donor species	swine	1	1	2	2	0.500000000000	NULL	NULL	319	109	0.001567398119122257
+Xenogeneic donor species	nonhuman primate	1	1	2	2	0.500000000000	NULL	NULL	46	17	0.010869565217391304
+xenogeneic material	porcine	1	1	2	2	1.000000000000	NULL	NULL	21	15	0.023809523809523808
+xenogeneic material	porcine-derived tissue	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+xenogeneic substance	cell surface membrane molecule	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+xenogeneic substance	extracellular	2	2	4	2	NULL	NULL	NULL	7	5	0.14285714285714285
+xenogeneic tissue	porcine pericardial tissue	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenogeneic tumor	baby hamster kidney	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+xenogenic biomaterials	SIS	14	5	14	1	1.000000000000	NULL	NULL	58	37	0.2413793103448276
+Xenogenic bone	bovine bone	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+xenogenic system	OP9-DL1 monolayers	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenogenic tissue	porcine islet	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenogenic, collagen-rich biodegradable material	placenta	2	2	4	2	0.500000000000	NULL	NULL	145	61	0.006896551724137931
+xenogenic, collagen-rich biodegradable material	amnion	2	2	4	2	0.500000000000	NULL	NULL	16	13	0.0625
+xenogenous incident	accident	1	1	1	1	NULL	NULL	NULL	2025	742	0.0004938271604938272
+xenogenous substance	collagen	1	1	1	1	NULL	NULL	NULL	1723	584	0.0005803830528148578
+xenograft material	pig dermis	2	2	3	2	NULL	NULL	NULL	6	3	0.2222222222222222
+xenograft material	allograft orhomograft of skin	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+xenograft model	orthotopic implantation model	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xenograft source	transgenic pig	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+xenografts	bovine-derived collagen fillers like Zyderm	1	1	8	8	0.200000000000	NULL	NULL	1	1	0.125
+xenografts	Zyplast	1	1	8	8	0.200000000000	NULL	NULL	9	8	0.013888888888888888
+xenografts	small graft transplants of skin	1	1	8	8	0.200000000000	NULL	NULL	1	1	0.125
+xenografts	lymphoma	1	1	8	8	0.200000000000	NULL	NULL	989	317	0.0001263902932254803
+xenografts	porcine dermis	1	1	8	8	0.200000000000	NULL	NULL	1	1	0.125
+xenografts	Endobon Xenograft Granules	1	1	8	8	0.200000000000	NULL	NULL	1	1	0.125
+xenografts	lyophilized bovine pericardium	1	1	8	8	0.200000000000	NULL	NULL	1	1	0.125
+xenografts	myelomas	1	1	8	8	0.200000000000	NULL	NULL	5	9	0.025
+xenolith zone property	characteristic Ti-mineral paragenesis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenolith zone property	rock type defined on the basis of main rock-forming mineral	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenolith zone property	primary hydrous phase	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenomania song	Jessie Malakouti's Standing Up For The Lonely''	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenomania song	Alesha Dixon's The Light''	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenomania song	Sarah Harding's Too Bad''	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenon 129mrspectroscopy preimaging activity	setting frequency	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xenon ballast related offer	Bulb Ballast	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+xenon ballast related offer	Xenon Ballast	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+xenon flash light	hardware flashlight	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenon flash light	industrial flashlight	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xenon flashlamps	U-bend flashlamps	1	1	1	1	0.333333333333	NULL	NULL	1	1	1
+xenon kit related offer	HID Conversion Kit	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+xenon lamp	specialty xenon lamp	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenon lamp	specialty lamp	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+xenon lamp	electric xenon lamp	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xenon related offer	Xenon Lamp	1	1	1	1	NULL	NULL	NULL	120	58	0.008333333333333333
+xenon swing arm light	Pacific Coast Lighting swing arm light	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenon tester	Q-Sun Xenon Test Chamber from Q-Panel Lab Products	1	1	1	1	NULL	NULL	NULL	1	1	1
+Xenopeptides	salmon calcitonin	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+xenophobic and nationalistic concern	fear of foreign control	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenophobic anti-immigration organization	Minutemen	1	1	1	1	1.000000000000	NULL	NULL	46	21	0.021739130434782608
+xenophobic island nation	Japan	1	1	1	1	NULL	NULL	NULL	17472	2459	0.000057234432234432234
+xenophobic organization	White Aryan Resistance	1	1	1	1	1.000000000000	NULL	NULL	16	10	0.0625
+xenophobic society	Imperium of Man	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenophobic, place	England	1	1	1	1	NULL	NULL	NULL	3906	628	0.0002560163850486431
+xenophon practice area	Crisis Communications	1	1	1	1	NULL	NULL	NULL	1	1	1
+Xenopus sp.	X. laevis	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+xenos mercenary	Kroot	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+xenos type	Hrud	1	1	1	1	NULL	NULL	NULL	1	1	1
+xenotime-hosting silicate	feldspar	1	1	2	2	NULL	NULL	NULL	455	190	0.001098901098901099
+xenotime-hosting silicate	quartz	1	1	2	2	NULL	NULL	NULL	2011	716	0.0002486325211337643
+xenotoxin exposure	heavy metal	1	1	1	1	NULL	NULL	NULL	1911	524	0.0005232862375719519
+xenotransplantation animal	baboon	1	1	1	1	NULL	NULL	NULL	323	99	0.0030959752321981426
+XENTIS module	order management	1	1	1	1	NULL	NULL	NULL	137	90	0.0072992700729927005
+xeon server technology	error correcting memory	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+xercise	running	1	1	2	2	0.333333333333	NULL	NULL	5694	1097	0.00008781173164734808
+xercise	walking	1	1	2	2	0.333333333333	NULL	NULL	13109	2473	0.000038141734686093524
+xeric and semiarid habitat	sand dune	1	1	1	1	NULL	NULL	NULL	181	122	0.0055248618784530384
+xeric area	south	1	1	1	1	NULL	NULL	NULL	305	110	0.003278688524590164
+xeric bulb	tiny crocus	1	1	1	1	NULL	NULL	NULL	1	1	1
+xeric condition	Puna	1	1	1	1	1.000000000000	NULL	NULL	15	9	0.06666666666666667
+xeric grass	native xeric grass	1	1	1	2	NULL	NULL	NULL	2	2	0.5
+xeric habitat	Scrubby Flatwoods	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+xeric habitat	rocky mountain slope	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xeric habitat	desert	1	1	3	3	NULL	NULL	NULL	980	421	0.0003401360544217687
+xeric healthy natural system	riparian grassland	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xeric healthy natural system	riparian scrub	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+xeric limestone prairie	Westfall Ridge Prairie	1	1	1	1	NULL	NULL	NULL	1	1	1
+xeric mushroom	Coprinus	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+xeric mushroom	Fomes	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+xeric mushroom	Terfezia	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+xeric oak	chestnut oak	1	1	1	1	1.000000000000	NULL	NULL	36	16	0.027777777777777776
+xeric perennial	Eriogonum umbellatum Sulfur Buckwheat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xeric perennial	Antennaria rosea Pussytoes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xeric place	monadnock outcrop	1	1	1	1	NULL	NULL	NULL	1	1	1
+xeric plant	native shrub	3	3	22	14	0.444444444444	NULL	NULL	5	3	0.08181818181818182
+xeric plant	cactus	3	3	22	14	0.444444444444	NULL	NULL	738	264	0.0005543237250554324
+xeric plant	succulent	3	3	22	14	0.444444444444	NULL	NULL	158	73	0.002589182968929804
+xeric plant	mesquite	2	2	22	14	0.444444444444	NULL	NULL	390	165	0.0004662004662004662
+xeric plant	Penstemon	2	2	22	14	0.444444444444	NULL	NULL	81	43	0.002244668911335578
+xeric plant	agave	1	1	22	14	0.444444444444	NULL	NULL	302	125	0.00015051173991571343
+xeric plant	aloe	1	1	22	14	0.444444444444	NULL	NULL	761	288	0.000059730020308206904
+xeric plant	Globe thistle	1	1	22	14	0.444444444444	NULL	NULL	16	14	0.002840909090909091
+xeric plant	wooden pink	1	1	22	14	0.444444444444	NULL	NULL	1	1	0.045454545454545456
+xeric plant	red sand Atriplex	1	1	22	14	0.444444444444	NULL	NULL	1	1	0.045454545454545456
+xeric plant	Rocky Mountain penstemons	1	1	22	14	0.444444444444	NULL	NULL	1	1	0.045454545454545456
+xeric plant	wormwood	1	1	22	14	0.444444444444	NULL	NULL	205	79	0.00022172949002217295
+xeric plant	prairie flower	1	1	22	14	0.444444444444	NULL	NULL	1	1	0.045454545454545456
+xeric plant	blanket flower	1	1	22	14	0.444444444444	NULL	NULL	26	16	0.0017482517482517483
+xeric plant species	willow	1	1	1	1	NULL	NULL	NULL	1548	511	0.0006459948320413437
+Xeric prairie species	brittle cactus	1	1	4	4	0.666666666666	NULL	NULL	4	3	0.0625
+Xeric prairie species	pasque flower	1	1	4	4	0.666666666666	NULL	NULL	12	11	0.020833333333333332
+Xeric prairie species	harebell	1	1	4	4	0.666666666666	NULL	NULL	33	15	0.007575757575757576
+Xeric prairie species	little bluestem	1	1	4	4	0.666666666666	NULL	NULL	187	65	0.001336898395721925
+xeric region	Greater Yellowstone	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xeric scrub	rosemary scrub	1	1	1	1	NULL	NULL	NULL	1	1	1
+xeric site	steep slope	2	2	3	2	NULL	NULL	NULL	439	178	0.003037205770690964
+xeric site	forests of Spain	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+xeric species	Stipa taxa	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xeric species	grama gras s	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xeric species	catclaw	1	1	5	5	1.000000000000	NULL	NULL	13	7	0.015384615384615385
+xeric species	Brickellia taxa	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xeric species	Tetra- dymia glabrata	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xeric-adapted oak	sand post	1	1	1	1	NULL	NULL	NULL	1	1	1
+xeriscape plant	Artemisia	1	1	7	8	0.400000000000	NULL	NULL	93	58	0.0015360983102918587
+xeriscape plant	creeping Sedums	1	1	7	8	0.400000000000	NULL	NULL	1	1	0.14285714285714285
+xeriscape plant	Blue Fescue	1	1	7	8	0.400000000000	NULL	NULL	44	21	0.0032467532467532465
+xeriscape plant	Mountain mint	1	1	7	8	0.400000000000	NULL	NULL	6	6	0.023809523809523808
+xeriscape plant	Yucca	1	1	7	8	0.400000000000	NULL	NULL	294	148	0.00048590864917395527
+xeriscape plant	Bush's poppy mallow	1	1	7	8	0.400000000000	NULL	NULL	1	1	0.14285714285714285
+xeriscape plant	Lavender	1	1	7	8	0.400000000000	NULL	NULL	4569	1150	0.00003126661038676797
+xeriscaping principle	grouping of similar water-use plants in irrigation zone	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+xeriscaping principle	efficient irrigation system	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+xeriscaping topic	ground cover	1	1	2	2	0.500000000000	NULL	NULL	123	75	0.0040650406504065045
+xeriscaping topic	ornamental grass	1	1	2	2	0.500000000000	NULL	NULL	119	62	0.004201680672268907
+xerlc shrub	acacia	1	1	3	3	NULL	NULL	NULL	382	180	0.0008726003490401395
+xerlc shrub	mimosa	1	1	3	3	NULL	NULL	NULL	129	74	0.0025839793281653744
+xerlc shrub	mesquite	1	1	3	3	NULL	NULL	NULL	390	165	0.0008547008547008547
+xero import field	Transaction Type	1	1	1	1	1.000000000000	NULL	NULL	41	27	0.024390243902439025
+xerographic actuator	carriage adjustment actuator	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xerographic actuator	paper path actuator	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xerographic actuator	media path actuator	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xerographic and transient photoconductivity measurement	time-of-flight measurement	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xerographic application	high volume copier-duplicator application	1	1	1	1	NULL	NULL	NULL	1	1	1
+xerographic machine	printer	1	1	1	1	NULL	NULL	NULL	6991	1667	0.00014304105278214847
+xerographic printer	laser printer	1	1	2	2	NULL	NULL	NULL	515	250	0.000970873786407767
+xerographic printer	copier	1	1	2	2	NULL	NULL	NULL	1675	419	0.00029850746268656717
+xerographic printing device	printer	1	1	1	1	NULL	NULL	NULL	6991	1667	0.00014304105278214847
+xerographic process station	various charging station	1	1	1	1	NULL	NULL	NULL	1	1	1
+xerographic production printing system	Xerox iGen production printer	3	3	3	1	NULL	NULL	NULL	3	1	1
+xerographic property	low minimum fixing temperature	1	1	1	1	NULL	NULL	NULL	1	1	1
+xerographic system	copier	2	2	4	2	NULL	NULL	NULL	1675	419	0.0005970149253731343
+xerographic system	printer	2	2	4	2	NULL	NULL	NULL	6991	1667	0.00014304105278214847
+xeromorphic oak	black oak	1	1	3	3	0.333333333333	NULL	NULL	67	41	0.004975124378109453
+xeromorphic oak	scarlet oak	1	1	3	3	0.333333333333	NULL	NULL	22	13	0.01515151515151515
+xeromorphic oak	white oak	1	1	3	3	0.333333333333	NULL	NULL	275	125	0.0012121212121212121
+xeromorphic terrestrial species	Cryptanthus warasii	1	1	1	1	NULL	NULL	NULL	1	1	1
+xerophilic fungus	Penicillium spp	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+xerophilous and temperate weed	Lithospermum arvense	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+xerophilous and temperate weed	Galium tricorne	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xerophilous and thermophilous herb	maiden pink	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+xerophilous shrub	Adesmia	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+xerophilous shrub	Fabiana	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+xerophilous shrub	Baccharis	1	1	3	3	1.000000000000	NULL	NULL	14	10	0.023809523809523808
+Xerophilous taxa	Ephedra	1	1	1	1	NULL	NULL	NULL	310	103	0.0032258064516129032
+xerophylic species	creosote bush	1	1	1	1	NULL	NULL	NULL	69	33	0.014492753623188406
+xerophyte plant	cactus	1	1	1	1	NULL	NULL	NULL	738	264	0.0013550135501355014
+Xerophyte species	sage	1	1	2	2	NULL	NULL	NULL	2414	688	0.00020712510356255177
+Xerophyte species	prickly saxifrage	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Xerophytes	bromeliad s	2	1	15	13	0.428571428571	NULL	NULL	2	1	0.13333333333333333
+Xerophytes	bromeliads	2	2	15	13	0.428571428571	NULL	NULL	191	67	0.0013961605584642235
+Xerophytes	deep-rooted Erysimum pallasii	1	1	15	13	0.428571428571	NULL	NULL	1	1	0.06666666666666667
+Xerophytes	Cladina rangiferina	1	1	15	13	0.428571428571	NULL	NULL	3	3	0.022222222222222223
+Xerophytes	Schefflera delavayi	1	1	15	13	0.428571428571	NULL	NULL	2	2	0.03333333333333333
+Xerophytes	Salvadora	1	1	15	13	0.428571428571	NULL	NULL	10	5	0.006666666666666666
+Xerophytes	Capparis decidua	1	1	15	13	0.428571428571	NULL	NULL	3	3	0.022222222222222223
+Xerophytes	Pachypodium	1	1	15	13	0.428571428571	NULL	NULL	4	4	0.016666666666666666
+Xerophytes	Adenia	1	1	15	13	0.428571428571	NULL	NULL	1	1	0.06666666666666667
+Xerophytes	Juniper communis	1	1	15	13	0.428571428571	NULL	NULL	2	2	0.03333333333333333
+Xerophytes	Zonker cactus	1	1	15	13	0.428571428571	NULL	NULL	1	1	0.06666666666666667
+Xerophytes	Poa glauca	1	1	15	13	0.428571428571	NULL	NULL	1	1	0.06666666666666667
+Xerophytes	Saxifraga tricuspidata	1	1	15	13	0.428571428571	NULL	NULL	1	1	0.06666666666666667
+Xerophytic brush species	blackbrush	1	1	2	2	1.000000000000	NULL	NULL	17	9	0.029411764705882353
+Xerophytic brush species	guajillo	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+xerophytic grass	blue grama	1	1	1	2	NULL	NULL	NULL	88	44	0.011363636363636364
+xerophytic organism	cactus	1	1	1	1	NULL	NULL	NULL	738	264	0.0013550135501355014
+xerophytic plant	cactus	3	3	13	11	0.428571428571	NULL	NULL	738	264	0.0009380863039399625
+xerophytic plant	maguey	1	1	13	11	0.428571428571	NULL	NULL	8	8	0.009615384615384616
+xerophytic plant	locally known legereme	1	1	13	11	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+xerophytic plant	Alhagi camelorum	1	1	13	11	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+xerophytic plant	jojoba	1	1	13	11	0.428571428571	NULL	NULL	802	233	0.0000959140610013428
+xerophytic plant	sea grape	1	1	13	11	0.428571428571	NULL	NULL	32	21	0.002403846153846154
+xerophytic plant	agave	1	1	13	11	0.428571428571	NULL	NULL	302	125	0.00025471217524197657
+xerophytic plant	thermophilic and xerophytic plant	1	1	13	11	0.428571428571	NULL	NULL	2	2	0.038461538461538464
+xerophytic plant	strangler fig	1	1	13	11	0.428571428571	NULL	NULL	14	11	0.005494505494505495
+xerophytic plant	gray nicker	1	1	13	11	0.428571428571	NULL	NULL	1	1	0.07692307692307693
+xerophytic plant	yucca	1	1	13	11	0.428571428571	NULL	NULL	294	148	0.00026164311878597594
+xerophytic plant species	mountain wormwood Artemisia vallesiaca	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+xerophytic plant species	Koeleria vallesiana	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+xerophytic plant species	Festuca vallesiaca	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+xerophytic plant species	Stipa pennata	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+xerophytic plant species	shrubby savin juniper Juniperus sabina	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Xerophytic pteridophytes	rusty woodsia	3	1	3	1	NULL	NULL	NULL	6	4	0.5
+Xerophytic Quercus spp	Quercus stellata	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+Xerophytic Quercus spp	Quercus prinus	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+xerophytic shrub	Hedysarum scoparium	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+xerophytic shrub	Amaranthaceae	1	1	6	6	0.750000000000	NULL	NULL	8	5	0.020833333333333332
+xerophytic shrub	sagebrush	1	1	6	6	0.750000000000	NULL	NULL	123	60	0.0013550135501355014
+xerophytic shrub	maier introduction xerophytic shrub	1	1	6	6	0.750000000000	NULL	NULL	2	2	0.08333333333333333
+xerophytic shrub	Cactaceae	1	1	6	6	0.750000000000	NULL	NULL	14	10	0.011904761904761904
+xerophytic shrub	Caragana korshinslai	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+xerophytic space	mountain	1	1	1	1	NULL	NULL	NULL	1978	738	0.0005055611729019212
+xerophytic species	B. peltata in Chiapas	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+xerophytic species	prickly pear baveshownchanges in abundance	1	0	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+xerophytic species	Indian ricegrass	1	0	3	3	1.000000000000	NULL	NULL	37	23	0.009009009009009009
+xerophytic tree species	Careya arborea	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+xerophytic tree species	Cavanillesia arborea	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xerophytic woodland plant	plains prickly pear	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+xerotic condition	deep wrinkle	1	1	2	2	0.500000000000	NULL	NULL	13	10	0.038461538461538464
+xerotic condition	dry	1	1	2	2	0.500000000000	NULL	NULL	364	186	0.0013736263736263737
+xerox customer	Proctor & Gamble	1	1	2	2	NULL	NULL	NULL	331	132	0.0015105740181268882
+xerox customer	Target	1	1	2	2	NULL	NULL	NULL	5227	1096	0.00009565716472163765
+xerox offering	FreeFlow SMARTsend scanning software	2	2	2	1	NULL	NULL	NULL	2	1	1
+Xerox paper	photo paper	2	2	2	1	1.000000000000	NULL	NULL	70	41	0.02857142857142857
+xerox product	Xerox Phaser 7500dn	1	1	1	1	NULL	NULL	NULL	1	1	1
+xerox resource	Job Descriptor Libraries	1	1	1	1	NULL	NULL	NULL	1	1	1
+xerox s client	bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+xerox service	consulting	2	2	4	2	NULL	NULL	NULL	1320	448	0.0007575757575757576
+xerox service	training	2	2	4	2	NULL	NULL	NULL	7685	2537	0.00013012361743656474
+xerox specialty imaging font	GlossMark Text	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xerox's client	bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+xerox's global partner	Fuji Xerox	1	1	2	2	1.000000000000	NULL	NULL	31	19	0.016129032258064516
+xerox's global partner	Rank Xerox	1	1	2	2	1.000000000000	NULL	NULL	26	13	0.019230769230769232
+xeroxparc technology	mouse	1	1	2	2	0.500000000000	NULL	NULL	3242	739	0.00015422578655151142
+xeroxparc technology	WYSIWYG	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05

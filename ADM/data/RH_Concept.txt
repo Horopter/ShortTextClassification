@@ -1,0 +1,2180 @@
+RH	99%	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+RH bill advocate	Jim Paredes	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+RH control	supplemental dehumidification in summer	1	1	1	1	NULL	NULL	NULL	1	1	1
+RH curve	exit & on ramp	1	1	1	1	NULL	NULL	NULL	1	1	1
+RH event	appreciation event	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+RH event	Christmas party	1	1	3	3	0.500000000000	NULL	NULL	433	153	0.0007698229407236335
+RH event	promotional event	1	1	3	3	0.500000000000	NULL	NULL	44	37	0.007575757575757575
+RH indicator	maternal mortality	1	1	2	2	NULL	NULL	NULL	94	49	0.005319148936170213
+RH indicator	births attended by skilled health personnel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RH negative type	O negative	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+rh pheno typing antiserum	anti C	1	1	1	1	NULL	NULL	NULL	1	1	1
+RH product	iron	1	1	1	1	NULL	NULL	NULL	11941	2300	0.00008374507997655137
+RH service	emergency contraception	1	1	4	4	1.000000000000	NULL	NULL	37	23	0.006756756756756757
+rh service	basic rh service	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+RH service	IUD insertion	1	1	4	4	1.000000000000	NULL	NULL	13	11	0.019230769230769232
+RH service	post abortion care	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+RH signature dish	Crispy Hudson Valley Duck Confit	2	2	2	1	NULL	NULL	NULL	2	1	1
+RH specific service	counseling	1	1	2	2	NULL	NULL	NULL	2433	762	0.0002055076037813399
+RH specific service	VCT	1	1	2	2	NULL	NULL	NULL	72	38	0.006944444444444444
+RH topic	family planning	2	2	2	1	NULL	NULL	NULL	431	191	0.004640371229698376
+rh-catalysed asymmetric hydrogenation standard substrate	dimethyl itaconate	2	2	3	2	NULL	NULL	NULL	5	3	0.26666666666666666
+rh-catalysed asymmetric hydrogenation standard substrate	N- acetyldehydroamino acid derivative	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+RHA organizer	elementary education freshman Allison Gross	1	1	1	1	NULL	NULL	NULL	1	1	1
+rha's largest event	RHA's Roasted Rave	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rha's largest event	ALS Gaming Festival	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhabdoviridae virus	rabies virus	1	1	1	1	1.000000000000	NULL	NULL	36	16	0.027777777777777776
+rhabdovirus	rabies virus	2	2	2	1	1.000000000000	NULL	NULL	36	16	0.05555555555555555
+Rhabdoviruses	SCV	1	1	1	1	0.666666666666	NULL	NULL	10	10	0.1
+Rhadinoviruses	KSHV	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+rhamm-positive structure	thinner microtubules in the periphery of the cytoplasm	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhamnus	R. Frangula	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Rhamnus	native R. catharticus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhapsodic society	Homeridae	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhapsodic society	sons of Homer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhapsody MP3 player	Sansa e200R Rhapsody	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhapsody tool	code generator	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+rhapsody-specific feature	Rhapsody Channels feature	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhasanumberof built-in function	mean	1	1	3	3	NULL	NULL	NULL	2802	701	0.00011896264572924101
+rhasanumberof built-in function	median	1	1	3	3	NULL	NULL	NULL	1027	384	0.0003245699448231094
+rhasanumberof built-in function	sum	1	1	3	3	NULL	NULL	NULL	412	186	0.0008090614886731391
+RHaworth	Ofra Haza	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+RHB member	Deep Star	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhbmp associated risk factor	infl ammatory response	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhbmp associated risk factor	ectopic bone formation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+RHBs	Hank Bauer	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+RHD english car	Rolls Royces	1	1	1	2	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+RHD market	Japan	1	1	2	2	NULL	NULL	NULL	17472	2459	0.000028617216117216117
+RHD market	UK	1	1	2	2	NULL	NULL	NULL	9200	1275	0.000054347826086956524
+RhD polymorphisms	D el	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RhD polymorphisms	weak D phenotypes characterized by reduced D antigen level on the surface of RBCs resulting from var	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhd3-1 phenotypes	smaller vacuole	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhd3-1 phenotypes	smaller cell size	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhe school stock emergency supply	duct tape	1	1	3	3	NULL	NULL	NULL	326	125	0.0010224948875255623
+rhe school stock emergency supply	first aid kitS . flashljght ~	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhe school stock emergency supply	water	1	1	3	3	NULL	NULL	NULL	25348	6311	0.000013150281416022302
+rhe temporal conjuction	first	1	1	2	2	NULL	NULL	NULL	133	73	0.0037593984962406013
+rhe temporal conjuction	second	1	1	2	2	NULL	NULL	NULL	209	117	0.0023923444976076554
+Rheem air conditioner capacitor	run capacitor	1	1	2	2	1.000000000000	NULL	NULL	47	39	0.010638297872340425
+Rheem air conditioner capacitor	start capacitor	1	1	2	2	1.000000000000	NULL	NULL	55	48	0.00909090909090909
+Rheem Furnace capacitor	start capacitor	1	1	2	2	1.000000000000	NULL	NULL	55	48	0.00909090909090909
+Rheem Furnace capacitor	run capacitor	1	1	2	2	1.000000000000	NULL	NULL	47	39	0.010638297872340425
+rheem hot water option	Mains Pressure Gas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rheem hot water option	Mains Pressure Electric	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rheem product	Rheem	1	1	1	1	NULL	NULL	NULL	130	43	0.007692307692307693
+rhein-main alumnus	Adam Keller	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheinbahn's very interesting tram tour	brewery tour	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+rheingold arborvitae shrub	Lemon Thread Cypress	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhel clone	free rhel clone	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+RHEL clone	CentOS	1	1	2	2	NULL	NULL	NULL	83	48	0.006024096385542169
+RHEL-environment	Fedora	1	1	1	1	NULL	NULL	NULL	368	134	0.002717391304347826
+rhematic disease	Osteoarthritis	1	1	1	1	NULL	NULL	NULL	1139	317	0.000877963125548727
+rhenish mystic	Eckhart	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+rhenish vessel	Frechen-type Bartmann bottle	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhenium aircraft	Airbus A380	1	1	1	1	NULL	NULL	NULL	99	45	0.010101010101010102
+rhenium product	rhenium pellet	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhenium-containing solution	perrhenic acid solution	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheo blair supplement	Blair protein with cream	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rheo blair supplement	liver supplement	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rheo blair supplement	digestive enzyme	1	1	3	3	NULL	NULL	NULL	114	48	0.0029239766081871343
+rheo logical datum	shear stress	1	1	1	1	NULL	NULL	NULL	176	85	0.005681818181818182
+rheologic change	stiffness	1	1	1	2	NULL	NULL	NULL	753	279	0.0013280212483399733
+rheological additive	butvar B-72	2	1	9	7	0.333333333333	NULL	NULL	2	1	0.2222222222222222
+rheological additive	fumed silica	2	2	9	7	0.333333333333	NULL	NULL	236	95	0.0018832391713747645
+rheological additive	thixotropic agent	1	1	9	7	0.333333333333	NULL	NULL	57	16	0.001949317738791423
+rheological additive	Bentone52	1	1	9	7	0.333333333333	NULL	NULL	1	1	0.1111111111111111
+rheological additive	Thixatrol plus	1	1	9	7	0.333333333333	NULL	NULL	1	1	0.1111111111111111
+rheological additive	bentonite	1	1	9	7	0.333333333333	NULL	NULL	543	230	0.0002046245140167792
+rheological additive	optional rheological additive	1	1	9	7	0.333333333333	NULL	NULL	2	2	0.05555555555555555
+rheological agent	dispersing agent	2	2	7	4	0.250000000000	NULL	NULL	265	56	0.0021563342318059297
+rheological agent	thickener	2	2	7	4	0.250000000000	NULL	NULL	403	83	0.0014179369018078695
+rheological agent	thixotropic agent	2	2	7	4	0.250000000000	NULL	NULL	57	16	0.010025062656641603
+rheological agent	pentoxifylline	1	1	7	4	0.250000000000	NULL	NULL	105	42	0.0013605442176870747
+rheological and conformational property	flow birefringence	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rheological and conformational property	visco-elastic moduli	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rheological and conformational property	viscosity	1	1	3	3	NULL	NULL	NULL	1504	452	0.00022163120567375886
+rheological aspect	viscosity	1	1	1	1	NULL	NULL	NULL	1504	452	0.0006648936170212766
+rheological attribute	complex modulus	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+rheological attribute	hardness	1	1	2	2	0.500000000000	NULL	NULL	1719	456	0.00029086678301337986
+rheological behavior	damped oscillation of stresses with time	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+rheological behavior	shear-induced gelation	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+rheological behavior	shear rate	1	1	4	4	0.500000000000	NULL	NULL	50	29	0.005
+rheological behavior	food	1	1	4	4	0.500000000000	NULL	NULL	18353	4439	0.000013621751212335857
+rheological characteristic	viscosity	5	4	24	15	0.125000000000	NULL	NULL	1504	452	0.0006925975177304965
+rheological characteristic	elasticity	3	2	24	15	0.125000000000	NULL	NULL	363	159	0.0010330578512396695
+rheological characteristic	farinograph water absorption	2	2	24	15	0.125000000000	NULL	NULL	2	1	0.08333333333333333
+rheological characteristic	shear thinning	2	2	24	15	0.125000000000	NULL	NULL	8	5	0.020833333333333332
+rheological characteristic	extensibility	2	1	24	15	0.125000000000	NULL	NULL	112	61	0.001488095238095238
+rheological characteristic	stickiness of dough	1	1	24	15	0.125000000000	NULL	NULL	1	1	0.041666666666666664
+rheological characteristic	hardness	1	1	24	15	0.125000000000	NULL	NULL	1719	456	0.000024238898584448323
+rheological characteristic	shear rate	1	1	24	15	0.125000000000	NULL	NULL	50	29	0.0008333333333333333
+rheological characteristic	adhesion	1	1	24	15	0.125000000000	NULL	NULL	527	210	0.00007906388361796332
+rheological characteristic	excellent rheological characteristic	1	1	24	15	0.125000000000	NULL	NULL	2	2	0.020833333333333332
+rheological characteristic	variation of the dynamic moduli after stopping the flow	1	1	24	15	0.125000000000	NULL	NULL	1	1	0.041666666666666664
+rheological characteristic	flow rate	1	1	24	15	0.125000000000	NULL	NULL	977	329	0.00004264756055953599
+rheological characteristic	shear stress	1	1	24	15	0.125000000000	NULL	NULL	176	85	0.00023674242424242422
+rheological characteristic	pseudoplasticity	1	1	24	15	0.125000000000	NULL	NULL	5	3	0.008333333333333333
+rheological characteristic	Payne effect	1	1	24	15	0.125000000000	NULL	NULL	1	1	0.041666666666666664
+Rheological characterization	finding viscosity	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheological concept	viscosity	1	1	2	2	NULL	NULL	NULL	1504	452	0.0003324468085106383
+rheological concept	elasticity	1	1	2	2	NULL	NULL	NULL	363	159	0.0013774104683195593
+rheological condition	temperature	1	1	2	2	NULL	NULL	NULL	21509	4199	0.0000232460830350086
+rheological condition	frequency	1	1	2	2	NULL	NULL	NULL	2547	871	0.00019630938358853554
+rheological control agent	clay	1	1	1	1	NULL	NULL	NULL	4516	1432	0.00022143489813994686
+rheological datum	shear stress	2	2	11	10	0.200000000000	NULL	NULL	176	85	0.002066115702479339
+rheological datum	fusion time	1	1	11	10	0.200000000000	NULL	NULL	2	2	0.045454545454545456
+rheological datum	complex viscosity	1	1	11	10	0.200000000000	NULL	NULL	6	5	0.015151515151515152
+rheological datum	storage	1	1	11	10	0.200000000000	NULL	NULL	2511	1000	0.0000362043372796061
+rheological datum	die entrance	1	1	11	10	0.200000000000	NULL	NULL	1	1	0.09090909090909091
+rheological datum	exit effect	1	1	11	10	0.200000000000	NULL	NULL	2	2	0.045454545454545456
+rheological datum	viscosity	1	1	11	10	0.200000000000	NULL	NULL	1504	452	0.00006044487427466151
+rheological datum	shear rate	1	1	11	10	0.200000000000	NULL	NULL	50	29	0.0018181818181818182
+rheological datum	polymer physical and rheological datum	1	1	11	10	0.200000000000	NULL	NULL	2	2	0.045454545454545456
+rheological datum	torque	1	1	11	10	0.200000000000	NULL	NULL	448	208	0.00020292207792207794
+rheological device	low-amplitude dynamic oscillatory rheometer	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheological disorder	red blood cell hyperaggregation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rheological disorder	blood hyperviscosity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rheological drug	pentoxifylline	2	2	2	1	NULL	NULL	NULL	105	42	0.01904761904761905
+rheological experiment	compression	1	1	2	2	NULL	NULL	NULL	1079	472	0.0004633920296570899
+rheological experiment	step-changes of shear rate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rheological factor	intravascular aggregation of erythrocyte	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rheological factor	platelet	1	1	4	4	NULL	NULL	NULL	318	122	0.0007861635220125787
+rheological factor	adhesion	1	1	4	4	NULL	NULL	NULL	527	210	0.0004743833017077799
+rheological factor	reduction in the viscosity of the blood	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rheological feature	internal friction	1	1	3	3	1.000000000000	NULL	NULL	12	11	0.027777777777777776
+rheological feature	critical state	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+rheological feature	dilatancy	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+rheological indicator	viscosity	1	1	1	1	NULL	NULL	NULL	1504	452	0.0006648936170212766
+rheological material property	flow	1	1	3	3	0.333333333333	NULL	NULL	879	440	0.0003792188092529389
+rheological material property	viscosity	1	1	3	3	0.333333333333	NULL	NULL	1504	452	0.00022163120567375886
+rheological material property	shear viscosity	1	1	3	3	0.333333333333	NULL	NULL	27	25	0.012345679012345678
+rheological measurement	viscosity	1	1	3	3	0.333333333333	NULL	NULL	1504	452	0.00022163120567375886
+rheological measurement	strain sweep	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+rheological measurement	yield stress	1	1	3	3	0.333333333333	NULL	NULL	93	46	0.0035842293906810036
+rheological measurement traditional test	penetration	1	1	2	2	0.500000000000	NULL	NULL	108	73	0.004629629629629629
+rheological measurement traditional test	softening point	1	1	2	2	0.500000000000	NULL	NULL	27	18	0.018518518518518517
+rheological method recording mixer	Brabender Farinograph	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rheological model	Bingham	1	1	3	3	1.000000000000	NULL	NULL	21	18	0.015873015873015872
+rheological model	power law model	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+rheological model	common rheological model	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+rheological modifier	synthetic polymer	1	1	2	2	NULL	NULL	NULL	84	46	0.005952380952380952
+rheological modifier	cellulose ether	1	1	2	2	NULL	NULL	NULL	62	36	0.008064516129032258
+rheological parameter	viscosity	3	3	32	26	0.500000000000	NULL	NULL	1504	452	0.00018700132978723404
+rheological parameter	apparent viscosity	2	2	32	26	0.500000000000	NULL	NULL	11	8	0.011363636363636364
+rheological parameter	loss modulus	2	2	32	26	0.500000000000	NULL	NULL	16	10	0.0078125
+rheological parameter	storage modulus	2	2	32	26	0.500000000000	NULL	NULL	32	16	0.00390625
+rheological parameter	yield stress	2	2	32	26	0.500000000000	NULL	NULL	93	46	0.0013440860215053765
+rheological parameter	theeectof rheological parameter	1	1	32	26	0.500000000000	NULL	NULL	2	2	0.015625
+rheological parameter	Casson viscosity	1	1	32	26	0.500000000000	NULL	NULL	2	2	0.015625
+rheological parameter	shear stress	1	1	32	26	0.500000000000	NULL	NULL	176	85	0.0001775568181818182
+rheological parameter	power law coefficient	1	1	32	26	0.500000000000	NULL	NULL	2	2	0.015625
+rheological parameter	peak storage	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	non-Newtonian index	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	maximum stress	1	1	32	26	0.500000000000	NULL	NULL	25	20	0.00125
+rheological parameter	flow	1	1	32	26	0.500000000000	NULL	NULL	879	440	0.000035551763367463024
+rheological parameter	alveograph datum	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	elastic storage modulus	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	elastic modulus	1	1	32	26	0.500000000000	NULL	NULL	203	74	0.0001539408866995074
+rheological parameter	consistency coefficient	1	1	32	26	0.500000000000	NULL	NULL	2	2	0.015625
+rheological parameter	rupture distance	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	gelatinization temperature	1	1	32	26	0.500000000000	NULL	NULL	10	6	0.003125
+rheological parameter	coagulation time	1	1	32	26	0.500000000000	NULL	NULL	4	3	0.0078125
+rheological parameter	maximum strain	1	1	32	26	0.500000000000	NULL	NULL	9	8	0.003472222222222222
+rheological parameter	sedimentation	1	1	32	26	0.500000000000	NULL	NULL	490	247	0.00006377551020408164
+rheological parameter	shear modulus of elasticity	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	storage	1	1	32	26	0.500000000000	NULL	NULL	2511	1000	0.000012445240939864596
+rheological parameter	viscous loss modulus	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological parameter	rate of firming	1	1	32	26	0.500000000000	NULL	NULL	1	1	0.03125
+rheological pattern	stress ramp	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rheological pattern	constant stress	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+rheological phenomenon	shear flow	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+rheological property	viscosity	24	22	118	69	0.488888888888	NULL	NULL	1504	452	0.0032455824017309774
+rheological property	flow	4	4	118	69	0.488888888888	NULL	NULL	879	440	0.0001542584986791616
+rheological property	storage modulus	4	4	118	69	0.488888888888	NULL	NULL	32	16	0.00423728813559322
+rheological property	yield stress	3	3	118	69	0.488888888888	NULL	NULL	93	46	0.0008201202843083653
+rheological property	shear stress	3	3	118	69	0.488888888888	NULL	NULL	176	85	0.00043335901386748845
+rheological property	pseudoplasticity	3	3	118	69	0.488888888888	NULL	NULL	5	3	0.015254237288135594
+rheological property	thixotropy	3	3	118	69	0.488888888888	NULL	NULL	14	9	0.005447941888619855
+rheological property	elasticity	3	3	118	69	0.488888888888	NULL	NULL	363	159	0.00021011346126908532
+rheological property	viscoelasticity	3	3	118	69	0.488888888888	NULL	NULL	41	24	0.001860272840016536
+rheological property	phase angle	3	3	118	69	0.488888888888	NULL	NULL	38	25	0.002007136485280999
+rheological property	apparent viscosity	2	2	118	69	0.488888888888	NULL	NULL	11	8	0.0030816640986132513
+rheological property	capillary flow property	2	1	118	69	0.488888888888	NULL	NULL	2	1	0.01694915254237288
+rheological property	dynamic modulus	2	2	118	69	0.488888888888	NULL	NULL	14	12	0.002421307506053269
+rheological property	elongation	2	2	118	69	0.488888888888	NULL	NULL	315	109	0.00010761366693570084
+rheological property	loss modulus	2	2	118	69	0.488888888888	NULL	NULL	16	10	0.00211864406779661
+rheological property	low shear rate viscosity	2	2	118	69	0.488888888888	NULL	NULL	2	1	0.01694915254237288
+rheological property	Casson viscosity	1	1	118	69	0.488888888888	NULL	NULL	2	2	0.00423728813559322
+rheological property	breaking strength	1	1	118	69	0.488888888888	NULL	NULL	23	16	0.00036845983787767134
+rheological property	strain until the rupture	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	texture	1	1	118	69	0.488888888888	NULL	NULL	2287	815	0.0000037055427508467164
+rheological property	threshold stress	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	consistency	1	1	118	69	0.488888888888	NULL	NULL	585	252	0.000014486455164421266
+rheological property	elongational viscosity	1	1	118	69	0.488888888888	NULL	NULL	2	2	0.00423728813559322
+rheological property	dynamic viscoelastic property	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	dynamic viscoelasticities	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	density	1	1	118	69	0.488888888888	NULL	NULL	3212	1051	0.000002638411043333263
+rheological property	normal stress	1	1	118	69	0.488888888888	NULL	NULL	9	9	0.0009416195856873823
+rheological property	shear	1	1	118	69	0.488888888888	NULL	NULL	430	184	0.00001970831690973591
+rheological property	softening point	1	1	118	69	0.488888888888	NULL	NULL	27	18	0.00031387319522912746
+rheological property	yield strength	1	1	118	69	0.488888888888	NULL	NULL	185	46	0.00004580852038479157
+rheological property	dynamic viscosity	1	1	118	69	0.488888888888	NULL	NULL	17	11	0.0004985044865403788
+rheological property	ductility	1	1	118	69	0.488888888888	NULL	NULL	205	63	0.00004133939644481191
+rheological property	dynamic	1	1	118	69	0.488888888888	NULL	NULL	499	240	0.000016983118779932748
+rheological property	failure stress	1	1	118	69	0.488888888888	NULL	NULL	7	7	0.0012106537530266344
+rheological property	stress relaxation rate	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	steady shear viscosity for the liquid state	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	steady-state flow-curves of structured fluid	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	storage modulus G	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	consistency coefficient	1	1	118	69	0.488888888888	NULL	NULL	2	2	0.00423728813559322
+rheological property	breaking behavior	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	yield point	1	1	118	69	0.488888888888	NULL	NULL	31	14	0.0002733734281027884
+rheological property	plastic viscosity	1	1	118	69	0.488888888888	NULL	NULL	16	13	0.0005296610169491525
+rheological property	plasticity	1	1	118	69	0.488888888888	NULL	NULL	118	68	0.00007181844297615628
+rheological property	gel property	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	gelling behavior	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	stress	1	1	118	69	0.488888888888	NULL	NULL	9419	1683	0.0000008997320597925938
+rheological property	nonterminal behavior	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	plastic flow	1	1	118	69	0.488888888888	NULL	NULL	8	7	0.001059322033898305
+rheological property	porosity	1	1	118	69	0.488888888888	NULL	NULL	1317	476	0.000006434757988752043
+rheological property	oscillatory storage modulus	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	solubility	1	1	118	69	0.488888888888	NULL	NULL	662	196	0.000012801474729888883
+rheological property	viscoelastic moduli	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	development time	1	0	118	69	0.488888888888	NULL	NULL	34	27	0.0002492522432701894
+rheological property	equilibrium shear modulus for the solid state	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	extrusion	1	1	118	69	0.488888888888	NULL	NULL	587	230	0.000014437097565905351
+rheological property	firmness	1	1	118	69	0.488888888888	NULL	NULL	118	71	0.00007181844297615628
+rheological property	compression	1	1	118	69	0.488888888888	NULL	NULL	1079	472	0.000007854102197577794
+rheological property	strength	1	0	118	69	0.488888888888	NULL	NULL	2884	881	0.0000029384799830743553
+rheological property	stickiness	1	1	118	69	0.488888888888	NULL	NULL	33	21	0.00025680534155110427
+rheological property	storage	1	1	118	69	0.488888888888	NULL	NULL	2511	1000	0.0000033749805938615855
+rheological property	toughness	1	1	118	69	0.488888888888	NULL	NULL	364	141	0.000023281802942819892
+rheological property	tenacity	1	1	118	69	0.488888888888	NULL	NULL	159	89	0.00005329922183136126
+rheological property	basic rheological property	1	1	118	69	0.488888888888	NULL	NULL	2	2	0.00423728813559322
+rheological property	hardness	1	1	118	69	0.488888888888	NULL	NULL	1719	456	0.000004929945474803049
+rheological property	high viscosity	1	1	118	69	0.488888888888	NULL	NULL	31	19	0.0002733734281027884
+rheological property	viscous-flow shear resistance	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological property	shear rate	1	1	118	69	0.488888888888	NULL	NULL	50	29	0.00016949152542372882
+rheological property	shear viscosity	1	1	118	69	0.488888888888	NULL	NULL	27	25	0.00031387319522912746
+rheological property	shear flow behavior	1	1	118	69	0.488888888888	NULL	NULL	1	1	0.00847457627118644
+rheological quantity	zero shear-rate viscosity	2	2	3	2	1.000000000000	NULL	NULL	2	1	0.6666666666666666
+rheological quantity	intrinsic viscosity	1	1	3	2	1.000000000000	NULL	NULL	23	17	0.014492753623188404
+rheological society	Society of Rheology	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheological system	visco-elastic system	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheological test	Farinograph	2	2	4	3	1.000000000000	NULL	NULL	16	9	0.0625
+rheological test	empirical rheological test	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+rheological test	Extensograph	1	1	4	3	1.000000000000	NULL	NULL	4	4	0.0625
+rheological variable	blood viscosity	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+rheological variable	wall shear stress	1	1	2	2	1.000000000000	NULL	NULL	28	18	0.017857142857142856
+rheologically complex fluid	gel	1	1	3	3	0.333333333333	NULL	NULL	1767	689	0.00018864365214110544
+rheologically complex fluid	foam	1	1	3	3	0.333333333333	NULL	NULL	1379	580	0.000241721053903795
+rheologically complex fluid	polymer solution	1	1	3	3	0.333333333333	NULL	NULL	31	20	0.01075268817204301
+rheologically property	elasticity	1	1	1	1	NULL	NULL	NULL	363	159	0.0027548209366391185
+rheologically weak material	quartz rich sedimentary rock	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheologically weak unit	shale	2	2	2	1	NULL	NULL	NULL	633	302	0.00315955766192733
+rheology adjusting agent	silica	1	1	1	1	NULL	NULL	NULL	2326	833	0.0004299226139294927
+rheology control agent	solid rheology control agent	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rheology feature	curtain stability at low flow rate	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rheology information	flow curve	1	1	2	2	1.000000000000	NULL	NULL	8	5	0.0625
+Rheology information	floc stretching	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rheology model	Bingham	1	1	2	2	0.500000000000	NULL	NULL	21	18	0.023809523809523808
+rheology model	Gibson	1	1	2	2	0.500000000000	NULL	NULL	254	97	0.001968503937007874
+rheology modification	branching by reaction with multifunctional chain coupling agent	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rheology modification	bridging by reaction with peroxide	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rheology modifier	organically modified clay in combination with a silica	2	1	9	7	NULL	NULL	NULL	2	1	0.2222222222222222
+rheology modifier	thickener	2	2	9	7	NULL	NULL	NULL	403	83	0.0011028398125172319
+rheology modifier	natural gum	1	1	9	7	NULL	NULL	NULL	66	26	0.0016835016835016834
+rheology modifier	surfactants	1	1	9	7	NULL	NULL	NULL	1871	346	0.000059385949284399305
+rheology modifier	associative thickener ACRYSOL	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+rheology modifier	natural thickener	1	1	9	7	NULL	NULL	NULL	1	1	0.1111111111111111
+rheology modifier	modified cellulosics	1	1	9	7	NULL	NULL	NULL	4	2	0.027777777777777776
+rheology modifier urethane associative thickener	Rheolate 310	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+rheology parameter	fluid behavior index	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rheology parameter	yield stress	1	1	2	2	NULL	NULL	NULL	93	46	0.005376344086021506
+rheology test	compression	1	1	1	1	NULL	NULL	NULL	1079	472	0.0009267840593141798
+rheology value	gel strength	1	1	3	3	1.000000000000	NULL	NULL	21	13	0.015873015873015872
+rheology value	plastic viscosity	1	1	3	3	1.000000000000	NULL	NULL	16	13	0.020833333333333332
+rheology value	yield point	1	1	3	3	1.000000000000	NULL	NULL	31	14	0.01075268817204301
+rheology-control agent	associative thickener	2	2	4	2	NULL	NULL	NULL	4	3	0.25
+rheology-control agent	alkali-swellable thickener	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+rheology-modifying additive	indium	1	1	1	1	NULL	NULL	NULL	453	161	0.002207505518763797
+rheometer	Rheometrics ARES Controlled Strain Rheometer	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+rheometer	RSlOO in the controlled stress mode	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+rheometer geometry	parallel plate	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+Rheometers	plate viscometers	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheometric parameter	apparent viscosity	2	1	4	2	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+rheometric parameter	critical stress	2	1	4	2	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+rheopectic fluid	dense suspension of latex particals	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHEOPLUG product name factor	method of application	1	0	4	4	1.000000000000	NULL	NULL	36	13	0.006944444444444444
+RHEOPLUG product name factor	working environment	1	0	4	4	1.000000000000	NULL	NULL	98	45	0.002551020408163265
+RHEOPLUG product name factor	product concentration	1	0	4	4	1.000000000000	NULL	NULL	22	9	0.011363636363636364
+RHEOPLUG product name factor	quantity used	1	0	4	4	1.000000000000	NULL	NULL	18	5	0.013888888888888888
+rheotactic predator	carnivorous copepods	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHEs	Argyll Development Worker	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rheto-ricians	Aphareus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Rheto-ricians	Theodectes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhetoreticians	Winifred Horner	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetoric	lexicalized metonymies	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhetoric	token use of bilingual name	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhetoric	Heffer s	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhetoric	feminazi	1	1	4	4	1.000000000000	NULL	NULL	10	4	0.025
+rhetoric appeal	logo	1	1	1	1	NULL	NULL	NULL	2180	879	0.00045871559633027525
+rhetoric device	allusion	1	1	2	2	NULL	NULL	NULL	106	48	0.0047169811320754715
+rhetoric device	parallelism	1	1	2	2	NULL	NULL	NULL	206	106	0.0024271844660194173
+rhetoric element	style	1	1	3	4	NULL	NULL	NULL	1511	547	0.00022060445621001543
+rhetoric element	metaphor	1	1	3	4	NULL	NULL	NULL	884	285	0.00037707390648567115
+rhetoric element	diction	1	1	3	4	NULL	NULL	NULL	187	78	0.0017825311942959
+rhetoric event	extemporaneous speaking	1	1	3	3	0.333333333333	NULL	NULL	15	13	0.02222222222222222
+rhetoric event	congress	1	1	3	3	0.333333333333	NULL	NULL	315	154	0.001058201058201058
+rhetoric event	debate	1	1	3	3	0.333333333333	NULL	NULL	981	369	0.00033978933061501866
+rhetoric ofafewoutliers	Bolivian president Evo Morales	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+rhetoric ofafewoutliers	Nicaraguan president Daniel Ortega	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhetoric s	expression	1	1	3	3	NULL	NULL	NULL	369	199	0.0009033423667570009
+rhetoric s	poetic diction	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rhetoric s	personification	1	1	3	3	NULL	NULL	NULL	240	63	0.0013888888888888887
+rhetoric scholar	Sara J. Newman	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetoric's social function	assisting advocacy	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rhetoric's social function	building community	1	1	2	2	1.000000000000	NULL	NULL	15	14	0.03333333333333333
+rhetoric-related journal	Quarterly Journal of Speech	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical act	music video	1	1	1	1	NULL	NULL	NULL	279	191	0.0035842293906810036
+Rhetorical action	shaming underachiever	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical and cultural theorist	Aristotle	1	1	1	1	NULL	NULL	NULL	1074	276	0.000931098696461825
+rhetorical and literary device	metaphor	1	1	5	5	0.166666666666	NULL	NULL	884	285	0.00022624434389140272
+rhetorical and literary device	irony	1	1	5	5	0.166666666666	NULL	NULL	299	111	0.0006688963210702342
+rhetorical and literary device	imagery	1	1	5	5	0.166666666666	NULL	NULL	803	288	0.00024906600249066
+rhetorical and literary device	paradox	1	1	5	5	0.166666666666	NULL	NULL	134	79	0.0014925373134328358
+rhetorical and literary device	satire	1	1	5	5	0.166666666666	NULL	NULL	137	74	0.0014598540145985403
+rhetorical and structural device	pronoun reference	1	1	4	4	0.250000000000	NULL	NULL	8	6	0.03125
+rhetorical and structural device	transition	1	1	4	4	0.250000000000	NULL	NULL	460	223	0.0005434782608695652
+rhetorical and structural device	parallel	1	1	4	4	0.250000000000	NULL	NULL	187	120	0.001336898395721925
+rhetorical and structural device	punctuation	1	1	4	4	0.250000000000	NULL	NULL	551	232	0.00045372050816696913
+rhetorical appeal	ethos	3	3	8	3	0.666666666666	NULL	NULL	56	37	0.020089285714285716
+rhetorical appeal	pathos	3	3	8	3	0.666666666666	NULL	NULL	36	28	0.03125
+rhetorical appeal	logo	2	2	8	3	0.666666666666	NULL	NULL	2180	879	0.00022935779816513763
+rhetorical approach	irony	1	1	5	5	0.142857142857	NULL	NULL	299	111	0.0006688963210702342
+rhetorical approach	hyperbole	1	1	5	5	0.142857142857	NULL	NULL	124	44	0.0016129032258064516
+rhetorical approach	repetition	1	1	5	5	0.142857142857	NULL	NULL	614	286	0.0003257328990228013
+rhetorical approach	metaphor	1	1	5	5	0.142857142857	NULL	NULL	884	285	0.00022624434389140272
+rhetorical approach	parallelism	1	1	5	5	0.142857142857	NULL	NULL	206	106	0.0009708737864077671
+rhetorical artifact	newspaper	1	1	2	2	NULL	NULL	NULL	5708	1864	0.00008759635599159075
+rhetorical artifact	novel	1	1	2	2	NULL	NULL	NULL	868	347	0.000576036866359447
+rhetorical category	fantasy	1	1	2	2	NULL	NULL	NULL	371	127	0.0013477088948787063
+rhetorical category	memory	1	1	2	2	NULL	NULL	NULL	3739	1244	0.0001337255950788981
+rhetorical communication	political speech	2	1	4	2	1.000000000000	NULL	NULL	33	23	0.030303030303030304
+rhetorical communication	public service announcement	2	1	4	2	1.000000000000	NULL	NULL	116	77	0.008620689655172414
+rhetorical concept	ethos	2	2	16	15	0.416666666666	NULL	NULL	56	37	0.004464285714285714
+rhetorical concept	agency	1	1	16	15	0.416666666666	NULL	NULL	357	205	0.00017507002801120448
+rhetorical concept	ancient rhetorical concept	1	1	16	15	0.416666666666	NULL	NULL	2	2	0.03125
+rhetorical concept	audience awareness	1	1	16	15	0.416666666666	NULL	NULL	7	6	0.008928571428571428
+rhetorical concept	purpose	1	1	16	15	0.416666666666	NULL	NULL	440	181	0.00014204545454545454
+rhetorical concept	dispositio	1	1	16	15	0.416666666666	NULL	NULL	2	2	0.03125
+rhetorical concept	style	1	1	16	15	0.416666666666	NULL	NULL	1511	547	0.000041363335539377896
+rhetorical concept	audience	1	1	16	15	0.416666666666	NULL	NULL	211	80	0.0002962085308056872
+rhetorical concept	instrumentality	1	1	16	15	0.416666666666	NULL	NULL	8	7	0.0078125
+rhetorical concept	inventio	1	1	16	15	0.416666666666	NULL	NULL	3	3	0.020833333333333332
+rhetorical concept	constitutionality	1	1	16	15	0.416666666666	NULL	NULL	9	9	0.006944444444444444
+rhetorical concept	delivery	1	1	16	15	0.416666666666	NULL	NULL	880	340	0.00007102272727272727
+rhetorical concept	pathos	1	1	16	15	0.416666666666	NULL	NULL	36	28	0.001736111111111111
+rhetorical concept	lifelong learning	1	1	16	15	0.416666666666	NULL	NULL	118	73	0.0005296610169491525
+rhetorical concept	logo	1	1	16	15	0.416666666666	NULL	NULL	2180	879	0.000028669724770642203
+rhetorical concern	audience	2	2	4	2	NULL	NULL	NULL	211	80	0.004739336492890996
+rhetorical concern	purpose	2	2	4	2	NULL	NULL	NULL	440	181	0.0022727272727272726
+rhetorical consideration	expectations of the audience	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical critic	John M. Murphy	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+rhetorical critic	Janice Hocker Rushing	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+rhetorical critic	Tom Lessl	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+rhetorical device	metaphor	31	28	262	104	0.625000000000	NULL	NULL	884	285	0.004149252184725916
+rhetorical device	simile	16	15	262	104	0.625000000000	NULL	NULL	489	121	0.001998157948141557
+rhetorical device	repetition	16	15	262	104	0.625000000000	NULL	NULL	614	286	0.001591366834920556
+rhetorical device	irony	10	9	262	104	0.625000000000	NULL	NULL	299	111	0.0012765196966989202
+rhetorical device	rhetorical question	10	7	262	104	0.625000000000	NULL	NULL	54	25	0.007068136839129206
+rhetorical device	hyperbole	8	8	262	104	0.625000000000	NULL	NULL	124	44	0.0019699581383895593
+rhetorical device	alliteration	7	7	262	104	0.625000000000	NULL	NULL	505	125	0.0003703423777492253
+rhetorical device	diction	7	6	262	104	0.625000000000	NULL	NULL	187	78	0.0010001224639751807
+rhetorical device	personification	6	6	262	104	0.625000000000	NULL	NULL	240	63	0.0005725190839694657
+rhetorical device	parallelism	6	6	262	104	0.625000000000	NULL	NULL	206	106	0.0006670125250129698
+rhetorical device	allusion	5	4	262	104	0.625000000000	NULL	NULL	106	48	0.0009001872389457008
+rhetorical device	imagery	5	4	262	104	0.625000000000	NULL	NULL	803	288	0.00011882919966157445
+rhetorical device	syntax	4	4	262	104	0.625000000000	NULL	NULL	203	122	0.0003008310457639228
+rhetorical device	analogy	4	4	262	104	0.625000000000	NULL	NULL	156	98	0.00039146604032100216
+rhetorical device	satire	4	4	262	104	0.625000000000	NULL	NULL	137	74	0.00044575695102245497
+rhetorical device	tone	4	3	262	104	0.625000000000	NULL	NULL	829	377	0.00007366550336559268
+rhetorical device	question	4	4	262	104	0.625000000000	NULL	NULL	359	193	0.00017010780582193966
+rhetorical device	onomatopoeia	4	4	262	104	0.625000000000	NULL	NULL	176	41	0.00034698126301179735
+rhetorical device	allegory	4	4	262	104	0.625000000000	NULL	NULL	72	41	0.0008481764206955047
+rhetorical device	anaphora	3	3	262	104	0.625000000000	NULL	NULL	46	25	0.0007467640225688682
+rhetorical device	image	3	2	262	104	0.625000000000	NULL	NULL	4950	1682	0.000006939625260235948
+rhetorical device	symbol	3	3	262	104	0.625000000000	NULL	NULL	1057	421	0.00003249871810611915
+rhetorical device	parallel structure	3	3	262	104	0.625000000000	NULL	NULL	20	13	0.0017175572519083971
+rhetorical device	narration	3	2	262	104	0.625000000000	NULL	NULL	136	86	0.0002525819488100584
+rhetorical device	anecdote	2	2	262	104	0.625000000000	NULL	NULL	79	51	0.00019325538699391245
+rhetorical device	anadiplosis	2	2	262	104	0.625000000000	NULL	NULL	3	2	0.0050890585241730275
+rhetorical device	figurative language	2	2	262	104	0.625000000000	NULL	NULL	114	41	0.00013392259274139546
+rhetorical device	sound	2	1	262	104	0.625000000000	NULL	NULL	3042	1139	0.000005018795388730796
+rhetorical device	antithesis	2	2	262	104	0.625000000000	NULL	NULL	18	14	0.0008481764206955047
+rhetorical device	metonymy	2	2	262	104	0.625000000000	NULL	NULL	42	19	0.0003635041802980734
+rhetorical device	contrast	2	2	262	104	0.625000000000	NULL	NULL	1366	542	0.000011176556056016898
+rhetorical device	hyperbaton	2	2	262	104	0.625000000000	NULL	NULL	3	2	0.0050890585241730275
+rhetorical device	sensory detail	2	2	262	104	0.625000000000	NULL	NULL	9	7	0.0016963528413910093
+rhetorical device	pun	2	2	262	104	0.625000000000	NULL	NULL	47	33	0.00032483352281955497
+rhetorical device	definition	2	2	262	104	0.625000000000	NULL	NULL	1647	160	0.000009269687657874368
+rhetorical device	diacope	2	2	262	104	0.625000000000	NULL	NULL	2	1	0.007633587786259542
+rhetorical device	straw man	2	2	262	104	0.625000000000	NULL	NULL	18	7	0.0008481764206955047
+rhetorical device	symmetry	1	1	262	104	0.625000000000	NULL	NULL	419	218	0.000009109293301025706
+rhetorical device	triple phrase	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	condescension	1	1	262	104	0.625000000000	NULL	NULL	6	6	0.0006361323155216284
+rhetorical device	complex rhetorical device	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	described Beidou Dian vivid	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	affectionate diction	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	acronym	1	1	262	104	0.625000000000	NULL	NULL	116	71	0.00003290339563042906
+rhetorical device	euphemism	1	1	262	104	0.625000000000	NULL	NULL	9	8	0.00042408821034775233
+rhetorical device	fact	1	1	262	104	0.625000000000	NULL	NULL	137	73	0.000027859809438903435
+rhetorical device	list of three	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	apostrophe	1	1	262	104	0.625000000000	NULL	NULL	187	38	0.000020410662530105728
+rhetorical device	apophasis	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	assonance	1	1	262	104	0.625000000000	NULL	NULL	181	39	0.00002108725907806503
+rhetorical device	cadence	1	1	262	104	0.625000000000	NULL	NULL	173	93	0.000022062392445836827
+rhetorical device	calling perceived opponents name	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	modulation	1	1	262	104	0.625000000000	NULL	NULL	178	107	0.00002144266232095377
+rhetorical device	montage	1	1	262	104	0.625000000000	NULL	NULL	79	49	0.00004831384674847811
+rhetorical device	neologism	1	1	262	104	0.625000000000	NULL	NULL	8	8	0.00047709923664122136
+rhetorical device	repetition of the same initial word	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	repetition of word	1	1	262	104	0.625000000000	NULL	NULL	5	4	0.0007633587786259542
+rhetorical device	rebuke	1	1	262	104	0.625000000000	NULL	NULL	6	6	0.0006361323155216284
+rhetorical device	sustained imagery	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	tone of voice	1	1	262	104	0.625000000000	NULL	NULL	259	121	0.000014736655958030004
+rhetorical device	tmesis	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	variation	1	1	262	104	0.625000000000	NULL	NULL	127	70	0.00003005349522149426
+rhetorical device	etymology	1	1	262	104	0.625000000000	NULL	NULL	21	18	0.0001817520901490367
+rhetorical device	ethos by using celebrities like Jessica Simpson	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	exordium	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	exaggeration	1	1	262	104	0.625000000000	NULL	NULL	51	28	0.00007483909594372099
+rhetorical device	chiasm	1	1	262	104	0.625000000000	NULL	NULL	9	9	0.00042408821034775233
+rhetorical device	aphorism	1	1	262	104	0.625000000000	NULL	NULL	13	12	0.0002935995302407516
+rhetorical device	icon	1	1	262	104	0.625000000000	NULL	NULL	894	458	0.000004269344399474016
+rhetorical device	inclusio	1	1	262	104	0.625000000000	NULL	NULL	6	6	0.0006361323155216284
+rhetorical device	oxymoron	1	1	262	104	0.625000000000	NULL	NULL	13	9	0.0002935995302407516
+rhetorical device	word choice	1	1	262	104	0.625000000000	NULL	NULL	89	56	0.00004288532464190754
+rhetorical device	hebraic rhetorical device	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	good faith thaumatrope	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	variation of syntactical patterning	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	texture	1	1	262	104	0.625000000000	NULL	NULL	2287	815	0.0000016689085671752387
+rhetorical device	abstract language	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	effective repetition	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	vertical	1	1	262	104	0.625000000000	NULL	NULL	311	162	0.000012272649174050711
+rhetorical device	similies	1	1	262	104	0.625000000000	NULL	NULL	16	9	0.00023854961832061068
+rhetorical device	slant rhyme	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	parallelism throughout the book	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	repetition of phrase	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	repletion of phrase	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	red herring argument	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	chiasmus	1	1	262	104	0.625000000000	NULL	NULL	6	6	0.0006361323155216284
+rhetorical device	framing	1	1	262	104	0.625000000000	NULL	NULL	380	198	0.00001004419445560466
+rhetorical device	internal rhyme	1	1	262	104	0.625000000000	NULL	NULL	13	12	0.0002935995302407516
+rhetorical device	invented speech	1	1	262	104	0.625000000000	NULL	NULL	3	2	0.0012722646310432569
+rhetorical device	juxtaposition	1	1	262	104	0.625000000000	NULL	NULL	27	18	0.0001413627367825841
+rhetorical device	synechdoche	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	constant repetition	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	conceptual analysis	1	1	262	104	0.625000000000	NULL	NULL	10	8	0.0003816793893129771
+rhetorical device	color	1	1	262	104	0.625000000000	NULL	NULL	11347	3399	0.00000033637030872739674
+rhetorical device	use of symbolism	1	1	262	104	0.625000000000	NULL	NULL	2	2	0.0019083969465648854
+rhetorical device	emotive word	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	dialogue	1	1	262	104	0.625000000000	NULL	NULL	617	255	0.000006186051690647927
+rhetorical device	narrative	1	1	262	104	0.625000000000	NULL	NULL	386	198	0.000009888067080647075
+rhetorical device	paradox	1	1	262	104	0.625000000000	NULL	NULL	134	79	0.000028483536515893813
+rhetorical device	questions with answer	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	restating the point	1	1	262	104	0.625000000000	NULL	NULL	1	1	0.003816793893129771
+rhetorical device	rhyme	1	1	262	104	0.625000000000	NULL	NULL	321	136	0.000011890323654609877
+rhetorical device	visual clue	1	1	262	104	0.625000000000	NULL	NULL	4	4	0.0009541984732824427
+Rhetorical device s	simile	1	1	1	1	NULL	NULL	NULL	489	121	0.002044989775051125
+rhetorical difference	originality	1	1	1	1	NULL	NULL	NULL	177	74	0.005649717514124294
+rhetorical element	formality	1	1	4	4	0.400000000000	NULL	NULL	35	27	0.007142857142857143
+rhetorical element	diction	1	1	4	4	0.400000000000	NULL	NULL	187	78	0.001336898395721925
+rhetorical element	audience	1	1	4	4	0.400000000000	NULL	NULL	211	80	0.001184834123222749
+rhetorical element	pathos	1	1	4	4	0.400000000000	NULL	NULL	36	28	0.006944444444444444
+rhetorical factor	prosodic sali ence of the following word	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical fallacy	slippery slope	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+rhetorical fallacy	unsupported protestations of possible anti-teacher bias	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rhetorical feature	audience awareness in texts across culture	1	1	15	16	0.066666666666	NULL	NULL	1	1	0.06666666666666667
+rhetorical feature	qualifying phrase	1	1	15	16	0.066666666666	NULL	NULL	1	1	0.06666666666666667
+rhetorical feature	theme	1	1	15	16	0.066666666666	NULL	NULL	772	303	0.00008635578583765112
+rhetorical feature	humor	1	1	15	16	0.066666666666	NULL	NULL	592	240	0.00011261261261261261
+rhetorical feature	plot	1	1	15	16	0.066666666666	NULL	NULL	626	232	0.00010649627263045793
+rhetorical feature	wordplay	1	1	15	16	0.066666666666	NULL	NULL	13	13	0.005128205128205128
+rhetorical feature	sarcasm	1	1	15	16	0.066666666666	NULL	NULL	116	80	0.0005747126436781609
+rhetorical feature	diction	1	0	15	16	0.066666666666	NULL	NULL	187	78	0.00035650623885918
+rhetorical feature	character	1	1	15	16	0.066666666666	NULL	NULL	1526	541	0.0000436871996505024
+rhetorical feature	repetition	1	1	15	16	0.066666666666	NULL	NULL	614	286	0.00010857763300760044
+rhetorical feature	imagery	1	0	15	16	0.066666666666	NULL	NULL	803	288	0.00008302200083022001
+rhetorical feature	irony	1	1	15	16	0.066666666666	NULL	NULL	299	111	0.0002229654403567447
+rhetorical feature	syntax	1	0	15	16	0.066666666666	NULL	NULL	203	122	0.0003284072249589491
+rhetorical feature	narrative	1	1	15	16	0.066666666666	NULL	NULL	386	198	0.00017271157167530224
+rhetorical feature	setting	1	1	15	16	0.066666666666	NULL	NULL	914	297	0.00007293946024799416
+rhetorical figure	metaphor	6	5	21	10	0.500000000000	NULL	NULL	884	285	0.0019392372333548802
+rhetorical figure	metonymy	5	4	21	10	0.500000000000	NULL	NULL	42	19	0.02834467120181406
+rhetorical figure	paronomasia	3	1	21	10	0.500000000000	NULL	NULL	7	5	0.061224489795918366
+rhetorical figure	figures of addition	2	2	21	10	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+rhetorical figure	ellipse	1	1	21	10	0.500000000000	NULL	NULL	421	206	0.00011310937676733401
+rhetorical figure	rhyme	1	1	21	10	0.500000000000	NULL	NULL	321	136	0.0001483459427384661
+rhetorical figure	hendiadys	1	1	21	10	0.500000000000	NULL	NULL	2	2	0.023809523809523808
+rhetorical figure	oxymoron	1	1	21	10	0.500000000000	NULL	NULL	13	9	0.003663003663003663
+rhetorical figure	werewolf	1	1	21	10	0.500000000000	NULL	NULL	220	111	0.00021645021645021645
+rhetorical form	Duc's self-immolation	1	1	9	9	0.333333333333	NULL	NULL	1	1	0.1111111111111111
+rhetorical form	sarcasm	1	1	9	9	0.333333333333	NULL	NULL	116	80	0.0009578544061302681
+rhetorical form	religious	1	1	9	9	0.333333333333	NULL	NULL	593	305	0.00018737118231216038
+rhetorical form	asyndeton	1	1	9	9	0.333333333333	NULL	NULL	7	6	0.015873015873015872
+rhetorical form	enthymeme	1	1	9	9	0.333333333333	NULL	NULL	2	2	0.05555555555555555
+rhetorical form	parataxis	1	1	9	9	0.333333333333	NULL	NULL	11	9	0.0101010101010101
+rhetorical form	sentence structure	1	1	9	9	0.333333333333	NULL	NULL	154	97	0.0007215007215007215
+rhetorical form	explanation	1	1	9	9	0.333333333333	NULL	NULL	105	75	0.001058201058201058
+rhetorical form	irony	1	1	9	9	0.333333333333	NULL	NULL	299	111	0.00037160906726124113
+rhetorical format	encomium	3	3	5	2	1.000000000000	NULL	NULL	6	4	0.3
+rhetorical format	lalia	2	2	5	2	1.000000000000	NULL	NULL	2	1	0.4
+rhetorical framework	disease model	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhetorical function	persuasion	1	1	1	1	0.500000000000	NULL	NULL	202	103	0.0049504950495049506
+rhetorical ground	bricolage	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+rhetorical ground	theatrical performance	1	1	2	2	1.000000000000	NULL	NULL	52	34	0.009615384615384616
+rhetorical issue	audience	3	3	15	12	0.307692307692	NULL	NULL	211	80	0.0028436018957345975
+rhetorical issue	voice	2	2	15	12	0.307692307692	NULL	NULL	2237	987	0.00011920727164357025
+rhetorical issue	credibility	1	1	15	12	0.307692307692	NULL	NULL	306	126	0.00021786492374727668
+rhetorical issue	logo	1	1	15	12	0.307692307692	NULL	NULL	2180	879	0.000030581039755351684
+rhetorical issue	genre	1	1	15	12	0.307692307692	NULL	NULL	483	202	0.00013802622498274673
+rhetorical issue	grammar	1	1	15	12	0.307692307692	NULL	NULL	929	388	0.00007176175098672408
+rhetorical issue	logical reasoning	1	1	15	12	0.307692307692	NULL	NULL	51	34	0.00130718954248366
+rhetorical issue	situation	1	1	15	12	0.307692307692	NULL	NULL	103	65	0.0006472491909385113
+rhetorical issue	audience analysis	1	1	15	12	0.307692307692	NULL	NULL	22	14	0.0030303030303030303
+rhetorical issue	ethos	1	1	15	12	0.307692307692	NULL	NULL	56	37	0.0011904761904761904
+rhetorical issue	use of outside source	1	1	15	12	0.307692307692	NULL	NULL	1	1	0.06666666666666667
+rhetorical issue	purpose	1	1	15	12	0.307692307692	NULL	NULL	440	181	0.00015151515151515152
+rhetorical language	Castilian	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+rhetorical leader	John F. Kennedy	1	1	1	1	NULL	NULL	NULL	184	91	0.005434782608695652
+rhetorical mean	metaphor	2	2	10	9	0.222222222222	NULL	NULL	884	285	0.00045248868778280545
+rhetorical mean	irony	1	1	10	9	0.222222222222	NULL	NULL	299	111	0.0003344481605351171
+rhetorical mean	analogy	1	1	10	9	0.222222222222	NULL	NULL	156	98	0.000641025641025641
+rhetorical mean	emotional wording	1	1	10	9	0.222222222222	NULL	NULL	1	1	0.1
+rhetorical mean	metonymy	1	1	10	9	0.222222222222	NULL	NULL	42	19	0.002380952380952381
+rhetorical mean	punchlines	1	1	10	9	0.222222222222	NULL	NULL	1	1	0.1
+rhetorical mean	satire	1	1	10	9	0.222222222222	NULL	NULL	137	74	0.0007299270072992701
+rhetorical mean	simile	1	1	10	9	0.222222222222	NULL	NULL	489	121	0.00020449897750511248
+rhetorical mean	hyperbole	1	1	10	9	0.222222222222	NULL	NULL	124	44	0.0008064516129032258
+rhetorical mode	narration	3	2	7	3	0.166666666666	NULL	NULL	136	86	0.009453781512605041
+rhetorical mode	description	3	2	7	3	0.166666666666	NULL	NULL	1517	559	0.0008475374329032864
+rhetorical mode	narrative	1	1	7	3	0.166666666666	NULL	NULL	386	198	0.0003700962250185048
+rhetorical narrative	authority-disorder narrative	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical notion	decorum	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+rhetorical parameter	purpose	1	1	1	1	NULL	NULL	NULL	440	181	0.0022727272727272726
+rhetorical pattern	support	1	1	1	1	NULL	NULL	NULL	1379	560	0.0007251631617113851
+rhetorical perspective value process	revision	1	1	2	2	NULL	NULL	NULL	87	55	0.005747126436781609
+rhetorical perspective value process	feedback	1	1	2	2	NULL	NULL	NULL	477	262	0.0010482180293501049
+rhetorical predecessor	Aristotle andisocrates	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+rhetorical predecessor	Aristotle	1	1	2	2	NULL	NULL	NULL	1074	276	0.0004655493482309125
+rhetorical principle	logo	1	1	3	3	0.333333333333	NULL	NULL	2180	879	0.0001529051987767584
+rhetorical principle	pathos	1	1	3	3	0.333333333333	NULL	NULL	36	28	0.009259259259259259
+rhetorical principle	ethos	1	1	3	3	0.333333333333	NULL	NULL	56	37	0.005952380952380952
+rhetorical relation	Parallel	1	1	5	5	NULL	NULL	NULL	187	120	0.0010695187165775401
+rhetorical relation	purpose	1	1	5	5	NULL	NULL	NULL	440	181	0.00045454545454545455
+rhetorical relation	Contrast	1	1	5	5	NULL	NULL	NULL	1366	542	0.00014641288433382137
+rhetorical relation	Reason	1	1	5	5	NULL	NULL	NULL	332	166	0.0006024096385542169
+rhetorical relation	Explanation	1	1	5	5	NULL	NULL	NULL	105	75	0.0019047619047619048
+rhetorical scholar	Cynthia Selfe	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+rhetorical scholar	Elizabeth C. Britt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhetorical scholar	Robert Asen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhetorical situation	asynchronously-delivered online class	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical skill	narration	5	3	11	7	0.400000000000	NULL	NULL	136	86	0.01671122994652406
+rhetorical skill	negotiating	2	2	11	7	0.400000000000	NULL	NULL	148	78	0.002457002457002457
+rhetorical skill	advanced rhetorical skill	1	1	11	7	0.400000000000	NULL	NULL	2	2	0.045454545454545456
+rhetorical skill	description	1	1	11	7	0.400000000000	NULL	NULL	1517	559	0.00005992688919518188
+rhetorical skill	giving opinion	1	1	11	7	0.400000000000	NULL	NULL	3	3	0.030303030303030304
+rhetorical skill	organization	1	1	11	7	0.400000000000	NULL	NULL	1912	745	0.00004754659566375048
+rhetorical slogan	Telangana waalon jaago	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical strategy	logo	4	4	34	23	0.409090909090	NULL	NULL	2180	879	0.00021586616297895306
+rhetorical strategy	irony	2	2	34	23	0.409090909090	NULL	NULL	299	111	0.0003934684241589612
+rhetorical strategy	preview	2	2	34	23	0.409090909090	NULL	NULL	173	83	0.0006800408024481469
+rhetorical strategy	signpost	2	2	34	23	0.409090909090	NULL	NULL	38	29	0.003095975232198142
+rhetorical strategy	ethos	2	2	34	23	0.409090909090	NULL	NULL	56	37	0.0021008403361344537
+rhetorical strategy	metaphor	2	2	34	23	0.409090909090	NULL	NULL	884	285	0.00013308490817141337
+rhetorical strategy	personification	2	2	34	23	0.409090909090	NULL	NULL	240	63	0.0004901960784313725
+rhetorical strategy	rhetorical appeals ethos	2	2	34	23	0.409090909090	NULL	NULL	2	1	0.058823529411764705
+rhetorical strategy	reported speech	2	2	34	23	0.409090909090	NULL	NULL	6	5	0.0196078431372549
+rhetorical strategy	metaphors along with artful scheme	1	1	34	23	0.409090909090	NULL	NULL	1	1	0.029411764705882353
+rhetorical strategy	broad rhetorical strategy	1	1	34	23	0.409090909090	NULL	NULL	2	2	0.014705882352941176
+rhetorical strategy	anaphora	1	1	34	23	0.409090909090	NULL	NULL	46	25	0.000639386189258312
+rhetorical strategy	aphorism	1	1	34	23	0.409090909090	NULL	NULL	13	12	0.002262443438914027
+rhetorical strategy	narratives of collective memory	1	1	34	23	0.409090909090	NULL	NULL	1	1	0.029411764705882353
+rhetorical strategy	oxymoron	1	1	34	23	0.409090909090	NULL	NULL	13	9	0.002262443438914027
+rhetorical strategy	exemplification	1	1	34	23	0.409090909090	NULL	NULL	10	9	0.0029411764705882353
+rhetorical strategy	argument	1	1	34	23	0.409090909090	NULL	NULL	139	88	0.00021159542953872197
+rhetorical strategy	reminiscing	1	1	34	23	0.409090909090	NULL	NULL	12	7	0.0024509803921568627
+rhetorical strategy	antithesis	1	1	34	23	0.409090909090	NULL	NULL	18	14	0.0016339869281045752
+rhetorical strategy	diegesis	1	0	34	23	0.409090909090	NULL	NULL	2	2	0.014705882352941176
+rhetorical strategy	pro-life rhetorical strategy	1	1	34	23	0.409090909090	NULL	NULL	2	2	0.014705882352941176
+rhetorical strategy	vocabulary	1	1	34	23	0.409090909090	NULL	NULL	505	205	0.000058241118229470004
+rhetorical strategy	simile	1	1	34	23	0.409090909090	NULL	NULL	489	121	0.00006014675808973896
+rhetorical structure	paradox	1	1	5	5	0.200000000000	NULL	NULL	134	79	0.0014925373134328358
+rhetorical structure	catch phrase	1	1	5	5	0.200000000000	NULL	NULL	17	11	0.011764705882352941
+rhetorical structure	repetition	1	1	5	5	0.200000000000	NULL	NULL	614	286	0.0003257328990228013
+rhetorical structure	question	1	1	5	5	0.200000000000	NULL	NULL	359	193	0.0005571030640668524
+rhetorical structure	common rhetorical structure	1	1	5	5	0.200000000000	NULL	NULL	2	2	0.1
+rhetorical technique	alliteration	3	3	35	28	0.350000000000	NULL	NULL	505	125	0.0005091937765205092
+rhetorical technique	metaphor	3	3	35	28	0.350000000000	NULL	NULL	884	285	0.00029088558500323206
+rhetorical technique	anaphora	3	3	35	28	0.350000000000	NULL	NULL	46	25	0.005590062111801242
+rhetorical technique	allusion	2	2	35	28	0.350000000000	NULL	NULL	106	48	0.0010781671159029648
+rhetorical technique	epistrophe	1	1	35	28	0.350000000000	NULL	NULL	1	1	0.02857142857142857
+rhetorical technique	diction	1	1	35	28	0.350000000000	NULL	NULL	187	78	0.00015278838808250572
+rhetorical technique	circular effect	1	1	35	28	0.350000000000	NULL	NULL	1	1	0.02857142857142857
+rhetorical technique	avoiding fallacy	1	1	35	28	0.350000000000	NULL	NULL	3	2	0.009523809523809523
+rhetorical technique	biblical allusion	1	1	35	28	0.350000000000	NULL	NULL	4	3	0.007142857142857143
+rhetorical technique	Latinate vocabulary	1	1	35	28	0.350000000000	NULL	NULL	1	1	0.02857142857142857
+rhetorical technique	repetition	1	1	35	28	0.350000000000	NULL	NULL	614	286	0.00004653327128897161
+rhetorical technique	pathos	1	1	35	28	0.350000000000	NULL	NULL	36	28	0.0007936507936507937
+rhetorical technique	logo	1	1	35	28	0.350000000000	NULL	NULL	2180	879	0.00001310615989515072
+rhetorical technique	antithesis	1	1	35	28	0.350000000000	NULL	NULL	18	14	0.0015873015873015873
+rhetorical technique	analogy	1	1	35	28	0.350000000000	NULL	NULL	156	98	0.00018315018315018315
+rhetorical technique	use of allusion	1	1	35	28	0.350000000000	NULL	NULL	1	1	0.02857142857142857
+rhetorical technique	simile	1	1	35	28	0.350000000000	NULL	NULL	489	121	0.00005842827928717499
+rhetorical technique	theme	1	1	35	28	0.350000000000	NULL	NULL	772	303	0.00003700962250185048
+rhetorical technique	triplet	1	1	35	28	0.350000000000	NULL	NULL	36	18	0.0007936507936507937
+rhetorical technique	elevated diction	1	1	35	28	0.350000000000	NULL	NULL	1	1	0.02857142857142857
+rhetorical technique	rule of three	1	1	35	28	0.350000000000	NULL	NULL	6	6	0.0047619047619047615
+rhetorical technique	name-calling	1	1	35	28	0.350000000000	NULL	NULL	128	57	0.0002232142857142857
+rhetorical technique	ethos	1	1	35	28	0.350000000000	NULL	NULL	56	37	0.000510204081632653
+rhetorical technique	story	1	1	35	28	0.350000000000	NULL	NULL	849	421	0.00003365303718660609
+rhetorical technique	strategic ambiguity	1	1	35	28	0.350000000000	NULL	NULL	1	1	0.02857142857142857
+rhetorical technique	story interestingly use rhetorical technique	1	1	35	28	0.350000000000	NULL	NULL	2	2	0.014285714285714285
+rhetorical technique	aphorism	1	1	35	28	0.350000000000	NULL	NULL	13	12	0.002197802197802198
+rhetorical technique	word choice	1	1	35	28	0.350000000000	NULL	NULL	89	56	0.00032102728731942215
+rhetorical term	logo	1	1	3	3	NULL	NULL	NULL	2180	879	0.0001529051987767584
+rhetorical term	reason	1	1	3	3	NULL	NULL	NULL	332	166	0.001004016064257028
+rhetorical term	medium	1	1	3	3	NULL	NULL	NULL	3226	1070	0.000103327133705311
+rhetorical text	speech by a politician	2	1	6	4	0.500000000000	NULL	NULL	2	1	0.3333333333333333
+rhetorical text	Apology	2	2	6	4	0.500000000000	NULL	NULL	74	39	0.009009009009009009
+rhetorical text	Cicero	1	1	6	4	0.500000000000	NULL	NULL	316	140	0.0005274261603375527
+rhetorical text	orations of Demosthenes	1	1	6	4	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+rhetorical textbook	Rhetoric for Alexander	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical theorist	Henry Home	2	1	14	13	0.375000000000	NULL	NULL	4	3	0.07142857142857142
+rhetorical theorist	James Phelan	1	1	14	13	0.375000000000	NULL	NULL	2	2	0.03571428571428571
+rhetorical theorist	Chaim Perelman	1	1	14	13	0.375000000000	NULL	NULL	2	2	0.03571428571428571
+rhetorical theorist	Cicero	1	1	14	13	0.375000000000	NULL	NULL	316	140	0.0002260397830018083
+rhetorical theorist	Richard Rorty	1	1	14	13	0.375000000000	NULL	NULL	66	39	0.0010822510822510823
+rhetorical theorist	Aristotle	1	1	14	13	0.375000000000	NULL	NULL	1074	276	0.0000665070497472732
+rhetorical theorist	modern rhetorical theorist	1	1	14	13	0.375000000000	NULL	NULL	2	2	0.03571428571428571
+rhetorical theorist	Miller	1	1	14	13	0.375000000000	NULL	NULL	428	193	0.00016688918558077436
+rhetorical theorist	Kenneth Burke	1	1	14	13	0.375000000000	NULL	NULL	10	8	0.007142857142857143
+rhetorical theorist	Wayne Booth	1	1	14	13	0.375000000000	NULL	NULL	6	5	0.011904761904761904
+rhetorical theorist	Wayne C. Booth	1	1	14	13	0.375000000000	NULL	NULL	2	2	0.03571428571428571
+rhetorical theorist	Marshall McLuhan	1	1	14	13	0.375000000000	NULL	NULL	30	18	0.0023809523809523807
+rhetorical theorist	Plato	1	1	14	13	0.375000000000	NULL	NULL	1185	288	0.00006027727546714888
+rhetorical tool	metaphor	2	2	9	8	0.142857142857	NULL	NULL	884	285	0.0005027652086475615
+rhetorical tool	construction of ethos	1	1	9	8	0.142857142857	NULL	NULL	1	1	0.1111111111111111
+rhetorical tool	strength	1	1	9	8	0.142857142857	NULL	NULL	2884	881	0.000038526737555863765
+rhetorical tool	parody	1	1	9	8	0.142857142857	NULL	NULL	90	59	0.0012345679012345679
+rhetorical tool	believable authorial character	1	1	9	8	0.142857142857	NULL	NULL	1	1	0.1111111111111111
+rhetorical tool	analogy	1	1	9	8	0.142857142857	NULL	NULL	156	98	0.0007122507122507122
+rhetorical tool	flexibility	1	1	9	8	0.142857142857	NULL	NULL	2242	693	0.000049558925562493803
+rhetorical tool	metonymy	1	1	9	8	0.142857142857	NULL	NULL	42	19	0.0026455026455026454
+rhetorical topic	delivery	1	1	6	6	NULL	NULL	NULL	880	340	0.0001893939393939394
+rhetorical topic	effect	1	1	6	6	NULL	NULL	NULL	419	180	0.00039777247414478914
+rhetorical topic	modes of proof	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+rhetorical topic	organization	1	1	6	6	NULL	NULL	NULL	1912	745	0.00008716875871687587
+rhetorical topic	style	1	1	6	6	NULL	NULL	NULL	1511	547	0.00011030222810500772
+rhetorical topic	grammatical and rhetorical topic	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+rhetorical touch	neat use of quote	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical trick	straw man argument	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+rhetorical trick	alliteration	1	1	2	2	0.500000000000	NULL	NULL	505	125	0.0009900990099009901
+rhetorical trope	alliteration	2	2	6	4	0.500000000000	NULL	NULL	505	125	0.0013201320132013201
+rhetorical trope	metaphor	2	2	6	4	0.500000000000	NULL	NULL	884	285	0.0007541478129713423
+rhetorical trope	rhetorical question	1	1	6	4	0.500000000000	NULL	NULL	54	25	0.0030864197530864196
+rhetorical trope	hyperbole	1	1	6	4	0.500000000000	NULL	NULL	124	44	0.0013440860215053762
+rhetorical type	antiscience advocate	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhetorical word	harm family	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+rhetorical word	Immorality	1	1	6	6	NULL	NULL	NULL	54	32	0.0030864197530864196
+rhetorical word	harm marriage	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+rhetorical word	majority view	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+rhetorical word	counter productive	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+rhetorical word	lifestyle	1	1	6	6	NULL	NULL	NULL	1613	345	0.000103327133705311
+rhetorically gifted president	John Quincy Adams	1	1	1	1	NULL	NULL	NULL	48	32	0.020833333333333332
+rhetorically inclined poet	Harpur	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhetorician	Cicero	3	3	30	27	0.500000000000	NULL	NULL	316	140	0.0009493670886075951
+rhetorician	Aristotle	2	2	30	27	0.500000000000	NULL	NULL	1074	276	0.00012414649286157667
+rhetorician	Aspasia	1	1	30	27	0.500000000000	NULL	NULL	10	6	0.003333333333333333
+rhetorician	Charles Bazerman	1	1	30	27	0.500000000000	NULL	NULL	2	2	0.016666666666666666
+rhetorician	Byron Hawk	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	greek and roman rhetorician	1	1	30	27	0.500000000000	NULL	NULL	2	2	0.016666666666666666
+rhetorician	Lloyd Bitzer	1	1	30	27	0.500000000000	NULL	NULL	2	2	0.016666666666666666
+rhetorician	english formal rhetorician	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Michelle Ballif	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Richard Larson	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Zeno	1	1	30	27	0.500000000000	NULL	NULL	27	19	0.0012345679012345679
+rhetorician	Linda Brodkey	1	1	30	27	0.500000000000	NULL	NULL	3	3	0.011111111111111112
+rhetorician	M. J. Chambliss	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	John Ward	1	1	30	27	0.500000000000	NULL	NULL	13	10	0.002564102564102564
+rhetorician	Jennifer Bay	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Mira Chieko Shimabukuro	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Quintilian	1	1	30	27	0.500000000000	NULL	NULL	25	14	0.0013333333333333333
+rhetorician	Quintillian	1	1	30	27	0.500000000000	NULL	NULL	3	3	0.011111111111111112
+rhetorician	Frank D'Angelo	1	1	30	27	0.500000000000	NULL	NULL	2	2	0.016666666666666666
+rhetorician	James Berlin	1	1	30	27	0.500000000000	NULL	NULL	6	5	0.005555555555555556
+rhetorician	Thrasymachus	1	1	30	27	0.500000000000	NULL	NULL	9	6	0.003703703703703704
+rhetorician	Thomas Rickert	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Richard Weaver	1	1	30	27	0.500000000000	NULL	NULL	7	4	0.0047619047619047615
+rhetorician	Edward P. J. Corbett	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetorician	Nietzsche	1	1	30	27	0.500000000000	NULL	NULL	317	108	0.00010515247108307045
+rhetorician	Plato	1	1	30	27	0.500000000000	NULL	NULL	1185	288	0.000028129395218002813
+rhetorician	Scot Barnett	1	1	30	27	0.500000000000	NULL	NULL	1	1	0.03333333333333333
+rhetoricizing theory	dramatism	2	2	2	1	NULL	NULL	NULL	2	1	1
+Rhetors	Frances Harper	1	1	4	4	0.250000000000	NULL	NULL	2	2	0.125
+rhetors	social purity rhetors	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+Rhetors	Fannie Williams	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+Rhetors	Gorgias	1	1	4	4	0.250000000000	NULL	NULL	37	13	0.006756756756756757
+Rhett & Linkommercials	spots for Cullman Liquidation	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheu-matological condition	lupus	1	1	2	2	NULL	NULL	NULL	2155	326	0.0002320185614849188
+rheu-matological condition	scleroderma	1	1	2	2	NULL	NULL	NULL	497	129	0.001006036217303823
+rheum atic disease	carpal tunnel syndrome	1	1	2	2	NULL	NULL	NULL	859	267	0.0005820721769499418
+rheum atic disease	arthritis	1	1	2	2	NULL	NULL	NULL	6085	1050	0.00008216926869350862
+rheumatalogic condition	rheumatoid arthritis	1	1	1	1	NULL	NULL	NULL	4358	694	0.0002294630564479119
+rheumatic affection	rheumatism	2	1	5	4	0.166666666666	NULL	NULL	339	117	0.002359882005899705
+rheumatic affection	rheumatic arthritis	1	1	5	4	0.166666666666	NULL	NULL	17	13	0.011764705882352941
+rheumatic affection	pleurodynia	1	1	5	4	0.166666666666	NULL	NULL	5	4	0.04
+rheumatic affection	ophthalomologic inflammatory affection	1	1	5	4	0.166666666666	NULL	NULL	1	1	0.2
+rheumatic ailment	arthritis	1	1	1	1	NULL	NULL	NULL	6085	1050	0.00016433853738701725
+rheumatic autoimmune disease	rheumatoid arthritis	2	2	4	2	NULL	NULL	NULL	4358	694	0.0002294630564479119
+rheumatic autoimmune disease	systemic lupus erythematosus	2	2	4	2	NULL	NULL	NULL	767	187	0.001303780964797914
+rheumatic complaint	fibromyalgia	1	1	1	1	0.500000000000	NULL	NULL	1483	361	0.0006743088334457181
+rheumatic condition	rheumatoid arthritis	10	10	59	23	0.250000000000	NULL	NULL	4358	694	0.00038892043465747777
+rheumatic condition	arthritis	9	9	59	23	0.250000000000	NULL	NULL	6085	1050	0.00022561731403980336
+rheumatic condition	fibromyalgia	4	4	59	23	0.250000000000	NULL	NULL	1483	361	0.00018286341245985575
+rheumatic condition	scleroderma	4	4	59	23	0.250000000000	NULL	NULL	497	129	0.0005456467619274972
+rheumatic condition	osteoarthritis	3	3	59	23	0.250000000000	NULL	NULL	1139	317	0.00013392657847353462
+rheumatic condition	psoriatic arthritis	3	3	59	23	0.250000000000	NULL	NULL	146	66	0.0010448107731599722
+rheumatic condition	lupus	2	2	59	23	0.250000000000	NULL	NULL	2155	326	0.00003146014393015848
+rheumatic condition	primary fibromyalgia	2	2	59	23	0.250000000000	NULL	NULL	2	1	0.03389830508474576
+rheumatic condition	reactive arthritis	2	2	59	23	0.250000000000	NULL	NULL	61	43	0.0011114198388441233
+rheumatic condition	polymyositis	2	2	59	23	0.250000000000	NULL	NULL	97	40	0.0006989341254586755
+rheumatic condition	vasculitides	2	2	59	23	0.250000000000	NULL	NULL	13	10	0.005215123859191656
+rheumatic condition	septic arthritis	2	2	59	23	0.250000000000	NULL	NULL	116	58	0.0005844535359438924
+rheumatic condition	undifferentiated spondyloarthropathy	2	2	59	23	0.250000000000	NULL	NULL	2	1	0.03389830508474576
+rheumatic condition	systemic lupus erythematosus	2	2	59	23	0.250000000000	NULL	NULL	767	187	0.00008839192981680772
+rheumatic condition	ankylosing spondylitis	2	2	59	23	0.250000000000	NULL	NULL	255	95	0.0002658690594882021
+rheumatic condition	osteoporosis	1	1	59	23	0.250000000000	NULL	NULL	2054	492	0.000008251778258214646
+rheumatic condition	chronic	1	1	59	23	0.250000000000	NULL	NULL	82	44	0.00020669698222405952
+rheumatic condition	gout	1	1	59	23	0.250000000000	NULL	NULL	701	158	0.0000241785342972509
+rheumatic condition	introduction rheumatic condition	1	1	59	23	0.250000000000	NULL	NULL	2	2	0.00847457627118644
+rheumatic condition	sciatica	1	1	59	23	0.250000000000	NULL	NULL	450	127	0.00003766478342749529
+rheumatic condition	systemic lupus	1	1	59	23	0.250000000000	NULL	NULL	94	44	0.00018031013342949875
+rheumatic condition	polymyalgia rheumatica	1	1	59	23	0.250000000000	NULL	NULL	36	15	0.00047080979284369113
+rheumatic condition	polyarteritis nodosa	1	1	59	23	0.250000000000	NULL	NULL	61	35	0.0002778549597110308
+rheumatic disease	rheumatoid arthritis	47	44	199	61	0.425000000000	NULL	NULL	4358	694	0.002547155234640389
+rheumatic disease	lupus	19	17	199	61	0.425000000000	NULL	NULL	2155	326	0.000841795986895032
+rheumatic disease	systemic lupus erythematosus	15	15	199	61	0.425000000000	NULL	NULL	767	187	0.0014741242064298021
+rheumatic disease	arthritis	13	12	199	61	0.425000000000	NULL	NULL	6085	1050	0.00013956388350957747
+rheumatic disease	scleroderma	11	11	199	61	0.425000000000	NULL	NULL	497	129	0.0012234209275755034
+rheumatic disease	ankylosing spondylitis	11	10	199	61	0.425000000000	NULL	NULL	255	95	0.002384471376490295
+rheumatic disease	osteoarthritis	8	8	199	61	0.425000000000	NULL	NULL	1139	317	0.000282360000176475
+rheumatic disease	gout	6	6	199	61	0.425000000000	NULL	NULL	701	158	0.0002580663660671403
+rheumatic disease	systemic vasculitis	3	2	199	61	0.425000000000	NULL	NULL	15	8	0.0030150753768844224
+rheumatic disease	dermatomyositis	3	3	199	61	0.425000000000	NULL	NULL	96	38	0.000471105527638191
+rheumatic disease	psoriatic arthritis	3	3	199	61	0.425000000000	NULL	NULL	146	66	0.00030976801817305706
+rheumatic disease	rheumatoid	3	3	199	61	0.425000000000	NULL	NULL	42	22	0.0010768126346015793
+rheumatic disease	rheumatic arthritis	3	3	199	61	0.425000000000	NULL	NULL	17	13	0.0026603606266627257
+rheumatic disease	rheumatic fever	2	2	199	61	0.425000000000	NULL	NULL	202	70	0.00009950743818100404
+rheumatic disease	systemic sclerosis	2	2	199	61	0.425000000000	NULL	NULL	66	31	0.00030455306837216383
+rheumatic disease	polymyositis	2	2	199	61	0.425000000000	NULL	NULL	97	40	0.0002072216753872455
+rheumatic disease	polymyalgia rheumatica	2	2	199	61	0.425000000000	NULL	NULL	36	15	0.0005583472920156337
+rheumatic disease	congenital defect	2	2	199	61	0.425000000000	NULL	NULL	41	23	0.0004902561588429955
+rheumatic disease	fibromyalgia	2	2	199	61	0.425000000000	NULL	NULL	1483	361	0.000013553946400918958
+rheumatic disease	takayasu arteriis	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	SLE	1	1	199	61	0.425000000000	NULL	NULL	163	67	0.000030828991583685296
+rheumatic disease	chilblain	1	1	199	61	0.425000000000	NULL	NULL	28	19	0.00017946877243359656
+rheumatic disease	carpal tunnel syndrome	1	1	199	61	0.425000000000	NULL	NULL	859	267	0.000005849971627637606
+rheumatic disease	Behcet's disease	1	1	199	61	0.425000000000	NULL	NULL	27	16	0.00018611576400521124
+rheumatic disease	inflammatory bowel disease	1	1	199	61	0.425000000000	NULL	NULL	760	201	0.000006612007405448294
+rheumatic disease	lumbago	1	1	199	61	0.425000000000	NULL	NULL	45	27	0.00011166945840312674
+rheumatic disease	joint-associated rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	seronegative spondiloathritis	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	rheumatoid arthritis rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	mycosis	1	1	199	61	0.425000000000	NULL	NULL	8	7	0.000628140703517588
+rheumatic disease	muscular rheumatism	1	1	199	61	0.425000000000	NULL	NULL	4	3	0.001256281407035176
+rheumatic disease	common rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	chronic inflammatory rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	3	3	0.0016750418760469012
+rheumatic disease	classical rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	tendinitis	1	1	199	61	0.425000000000	NULL	NULL	206	98	0.00002439381372883837
+rheumatic disease	certain inflammatory bowel disease	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	bursitis	1	1	199	61	0.425000000000	NULL	NULL	268	86	0.000018750468761719042
+rheumatic disease	arthritic and rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	joint rheumatism	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	Sjogren syndrome	1	1	199	61	0.425000000000	NULL	NULL	18	13	0.00027917364600781687
+rheumatic disease	osteoporosis	1	1	199	61	0.425000000000	NULL	NULL	2054	492	0.0000024465071217822316
+rheumatic disease	paediatric rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	Psoriasis cause shoulder pain	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	systemic lupus erthrematosus	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	systemic autoimmune rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	3	3	0.0016750418760469012
+rheumatic disease	systemic inflammatory rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	3	3	0.0016750418760469012
+rheumatic disease	systemic lupus	1	1	199	61	0.425000000000	NULL	NULL	94	44	0.00005345878327809259
+rheumatic disease	ulcerative colitis	1	1	199	61	0.425000000000	NULL	NULL	955	209	0.000005261911652503354
+rheumatic disease	early rheumatoid arthritis	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	Crohn disease	1	1	199	61	0.425000000000	NULL	NULL	67	36	0.00007500187504687617
+rheumatic disease	degenerative rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	asthma	1	1	199	61	0.425000000000	NULL	NULL	8602	1433	0.000000584181077440212
+rheumatic disease	infl ammatory rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	2	2	0.002512562814070352
+rheumatic disease	hemorrhoid	1	1	199	61	0.425000000000	NULL	NULL	324	128	0.00001550964700043427
+rheumatic disease	maternal systemic lupus erythematosus	1	1	199	61	0.425000000000	NULL	NULL	1	1	0.005025125628140704
+rheumatic disease	neuralgia	1	1	199	61	0.425000000000	NULL	NULL	94	56	0.00005345878327809259
+rheumatic disease	Juvenile Rheumatoid Arthritis	1	1	199	61	0.425000000000	NULL	NULL	58	34	0.00008664009703690868
+rheumatic disease	infectious arthritis	1	1	199	61	0.425000000000	NULL	NULL	8	8	0.000628140703517588
+rheumatic disease	edema	1	1	199	61	0.425000000000	NULL	NULL	568	283	0.000008847052162219548
+rheumatic disease	common autoimmune rheumatic disease	1	1	199	61	0.425000000000	NULL	NULL	3	3	0.0016750418760469012
+rheumatic disease	rheumatism	1	1	199	61	0.425000000000	NULL	NULL	339	117	0.000014823379434043374
+rheumatic disease immunosuppressed state	organ transplantation	1	1	2	2	NULL	NULL	NULL	107	60	0.004672897196261682
+rheumatic disease immunosuppressed state	malignancy	1	1	2	2	NULL	NULL	NULL	365	167	0.0013698630136986301
+rheumatic disease test	antinuclear antibody	1	1	1	1	NULL	NULL	NULL	120	47	0.008333333333333333
+rheumatic disorder	rheumatoid arthritis	11	11	35	18	0.066666666666	NULL	NULL	4358	694	0.0007932865665770669
+rheumatic disorder	osteoarthritis	4	4	35	18	0.066666666666	NULL	NULL	1139	317	0.00040135457167941803
+rheumatic disorder	scleroderma	3	3	35	18	0.066666666666	NULL	NULL	497	129	0.0005173900546133946
+rheumatic disorder	arthritis	2	2	35	18	0.066666666666	NULL	NULL	6085	1050	0.000018781547129944827
+rheumatic disorder	lupus	2	2	35	18	0.066666666666	NULL	NULL	2155	326	0.000053032814053695726
+rheumatic disorder	lupus with joint pain	1	1	35	18	0.066666666666	NULL	NULL	1	1	0.02857142857142857
+rheumatic disorder	systemic lupus erythromatosus	1	1	35	18	0.066666666666	NULL	NULL	5	5	0.005714285714285714
+rheumatic disorder	systemic sclerosis	1	1	35	18	0.066666666666	NULL	NULL	66	31	0.0004329004329004329
+rheumatic disorder	connective tissue disease	1	1	35	18	0.066666666666	NULL	NULL	65	45	0.00043956043956043956
+rheumatic disorder	psoriatic arthritis	1	1	35	18	0.066666666666	NULL	NULL	146	66	0.00019569471624266145
+rheumatic disorder	polymyositis	1	1	35	18	0.066666666666	NULL	NULL	97	40	0.0002945508100147275
+rheumatic disorder	Reiter's syndrome	1	1	35	18	0.066666666666	NULL	NULL	43	25	0.0006644518272425248
+rheumatic disorder	vasculitis	1	1	35	18	0.066666666666	NULL	NULL	257	128	0.00011117287381878821
+rheumatic disorder	fibromyalgia	1	1	35	18	0.066666666666	NULL	NULL	1483	361	0.00001926596666987766
+rheumatic disorder	systemic lupus erythematosus	1	1	35	18	0.066666666666	NULL	NULL	767	187	0.000037250884708511824
+rheumatic disorder	``autoimmune-like'' neurological and rheumatic disorder	1	1	35	18	0.066666666666	NULL	NULL	2	2	0.014285714285714285
+rheumatic disorder	ankylosing spondylitis	1	1	35	18	0.066666666666	NULL	NULL	255	95	0.00011204481792717087
+rheumatic disorder	chronic inflammatory rheumatic disorder	1	1	35	18	0.066666666666	NULL	NULL	2	2	0.014285714285714285
+rheumatic illness	psoriasis	1	1	3	3	NULL	NULL	NULL	2886	491	0.0001155001155001155
+rheumatic illness	rheumatoid arthritis	1	1	3	3	NULL	NULL	NULL	4358	694	0.00007648768548263729
+rheumatic illness	ankylosing spondylitis	1	1	3	3	NULL	NULL	NULL	255	95	0.00130718954248366
+rheumatic issue	arthritis	1	1	1	1	NULL	NULL	NULL	6085	1050	0.00016433853738701725
+rheumatic manifestation	inflammation of the organs of the locomotor	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheumatic neuralgia	sciatica	1	1	1	1	NULL	NULL	NULL	450	127	0.0022222222222222222
+rheumatic or inflammatory disease	gout	1	1	1	1	NULL	NULL	NULL	701	158	0.0014265335235378032
+rheumatic problem	severe rheumatic problem	1	1	1	1	0.500000000000	NULL	NULL	2	2	0.5
+rheumatic syndrome	scleroderma	1	1	3	3	NULL	NULL	NULL	497	129	0.0006706908115358819
+rheumatic syndrome	Wegener's granulomatosis	1	1	3	3	NULL	NULL	NULL	116	59	0.0028735632183908046
+rheumatic syndrome	sarcoidosis	1	1	3	3	NULL	NULL	NULL	535	165	0.0006230529595015575
+rheumatic, autoimmune and related disorder	ankylosing spondylitis	2	2	11	6	0.166666666666	NULL	NULL	255	95	0.00142602495543672
+rheumatic, autoimmune and related disorder	fibromyalgia	2	2	11	6	0.166666666666	NULL	NULL	1483	361	0.00024520321216207934
+rheumatic, autoimmune and related disorder	scleroderma	2	2	11	6	0.166666666666	NULL	NULL	497	129	0.0007316627034936894
+rheumatic, autoimmune and related disorder	psoriatic arthritis	2	2	11	6	0.166666666666	NULL	NULL	146	66	0.0024906600249066002
+rheumatic, autoimmune and related disorder	polymyositis	2	2	11	6	0.166666666666	NULL	NULL	97	40	0.0037488284910965324
+rheumatic, autoimmune and related disorder	vasculitis	1	1	11	6	0.166666666666	NULL	NULL	257	128	0.00035373187124159886
+rheumatism	acute and local muscular rheumatism	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rheumatism vegetable	cabbage	1	1	5	5	NULL	NULL	NULL	6090	1120	0.00003284072249589491
+rheumatism vegetable	cauliflower	1	1	5	5	NULL	NULL	NULL	4013	718	0.000049838026414154
+rheumatism vegetable	turnip	1	1	5	5	NULL	NULL	NULL	1793	438	0.00011154489682097045
+rheumatism vegetable	spinach	1	1	5	5	NULL	NULL	NULL	8593	1370	0.00002327475852438031
+rheumatism vegetable	carrot	1	1	5	5	NULL	NULL	NULL	10459	2027	0.000019122287025528254
+rheumatoid arthritis drug	Humira	1	1	2	2	0.500000000000	NULL	NULL	94	45	0.005319148936170213
+rheumatoid arthritis drug	Simponi	1	1	2	2	0.500000000000	NULL	NULL	8	7	0.0625
+rheumatoid arthritis early symptom	stiffness	1	1	2	2	NULL	NULL	NULL	753	279	0.0006640106241699867
+rheumatoid arthritis early symptom	pain	1	1	2	2	NULL	NULL	NULL	5315	1495	0.00009407337723424271
+rheumatoid arthritis inflammatory condition	systemic lupuserythematosus	1	1	2	2	0.500000000000	NULL	NULL	20	17	0.025
+rheumatoid arthritis inflammatory condition	rheumatoid arthritis	1	1	2	2	0.500000000000	NULL	NULL	4358	694	0.00011473152822395595
+rheumatoid arthritis medication	Enbrel	2	1	7	4	NULL	NULL	NULL	131	66	0.0043620501635768805
+rheumatoid arthritis medication	nonsteroidal anti-inflammatory drug	2	2	7	4	NULL	NULL	NULL	385	128	0.001484230055658627
+rheumatoid arthritis medication	methotrexate	2	2	7	4	NULL	NULL	NULL	1334	340	0.00042835724994645533
+rheumatoid arthritis medication	Leflunomide	1	1	7	4	NULL	NULL	NULL	74	31	0.0019305019305019303
+rheumatoid arthritis rheumatic disease	rheumatoid arthritis	1	1	1	1	NULL	NULL	NULL	4358	694	0.0002294630564479119
+rheumatoid arthritis symptom	fever	3	3	22	13	0.200000000000	NULL	NULL	6376	1113	0.00006416105851488536
+rheumatoid arthritis symptom	fatigue	3	3	22	13	0.200000000000	NULL	NULL	7827	1619	0.00005226662949928568
+rheumatoid arthritis symptom	grip strength	2	1	22	13	0.200000000000	NULL	NULL	51	40	0.0035650623885918006
+rheumatoid arthritis symptom	loss of appetite	2	2	22	13	0.200000000000	NULL	NULL	1085	273	0.00016757436112274822
+rheumatoid arthritis symptom	joint tenderness	2	1	22	13	0.200000000000	NULL	NULL	10	2	0.01818181818181818
+rheumatoid arthritis symptom	joint pain	2	2	22	13	0.200000000000	NULL	NULL	712	226	0.0002553626149131767
+rheumatoid arthritis symptom	AM stiffness	2	1	22	13	0.200000000000	NULL	NULL	2	1	0.09090909090909091
+rheumatoid arthritis symptom	tenderness	1	1	22	13	0.200000000000	NULL	NULL	281	134	0.00016175994823681658
+rheumatoid arthritis symptom	joint swelling	1	1	22	13	0.200000000000	NULL	NULL	32	17	0.0014204545454545455
+rheumatoid arthritis symptom	chronic pain with swollen	1	1	22	13	0.200000000000	NULL	NULL	1	1	0.045454545454545456
+rheumatoid arthritis symptom	malaise	1	1	22	13	0.200000000000	NULL	NULL	789	210	0.00005761032377001959
+rheumatoid arthritis symptom	anemia	1	1	22	13	0.200000000000	NULL	NULL	2303	629	0.000019737101803971104
+rheumatoid arthritis symptom	weight loss	1	1	22	13	0.200000000000	NULL	NULL	3020	798	0.000015051173991571343
+rheumatoid arthritis therapy	biologic rheumatoid arthritis therapy	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rheumatoid arthritis treatment	Enbrel	1	1	3	3	NULL	NULL	NULL	131	66	0.0025445292620865138
+rheumatoid arthritis treatment	Humira	1	1	3	3	NULL	NULL	NULL	94	45	0.0035460992907801418
+rheumatoid arthritis treatment	acupuncture	1	1	3	3	NULL	NULL	NULL	5321	1225	0.00006264486625321054
+rheumatoid condition	arthritis	3	3	8	4	0.250000000000	NULL	NULL	6085	1050	0.0001848808545603944
+rheumatoid condition	lupus erythematosus	2	1	8	4	0.250000000000	NULL	NULL	167	59	0.0029940119760479044
+rheumatoid condition	juvenile arthritis	2	1	8	4	0.250000000000	NULL	NULL	28	16	0.017857142857142856
+rheumatoid condition	rheumatoid arthritis	1	1	8	4	0.250000000000	NULL	NULL	4358	694	0.000028682882055988986
+rheumatoid disease	rheumatoid arthritis	2	2	10	9	0.300000000000	NULL	NULL	4358	694	0.00009178522257916476
+rheumatoid disease	lupus	1	1	10	9	0.300000000000	NULL	NULL	2155	326	0.00004640371229698376
+rheumatoid disease	Chronic Arthritis	1	1	10	9	0.300000000000	NULL	NULL	25	16	0.004
+rheumatoid disease	Reiter's syndrome	1	1	10	9	0.300000000000	NULL	NULL	43	25	0.002325581395348837
+rheumatoid disease	sarcoidosis	1	1	10	9	0.300000000000	NULL	NULL	535	165	0.0001869158878504673
+rheumatoid disease	psoriasis	1	1	10	9	0.300000000000	NULL	NULL	2886	491	0.000034650034650034654
+rheumatoid disease	ankylosing spondylitis	1	1	10	9	0.300000000000	NULL	NULL	255	95	0.0003921568627450981
+rheumatoid disease	inflammatory bowel disease	1	1	10	9	0.300000000000	NULL	NULL	760	201	0.00013157894736842105
+rheumatoid disease	lupus erythematosus	1	1	10	9	0.300000000000	NULL	NULL	167	59	0.0005988023952095808
+rheumatoid disorder	rheumatoid arthritis	2	2	3	2	NULL	NULL	NULL	4358	694	0.00030595074193054915
+rheumatoid disorder	juvenile rheumatoid arthritis	1	1	3	2	NULL	NULL	NULL	58	34	0.005747126436781609
+rheumatoid factor	antiglobulin antibody	2	2	2	1	NULL	NULL	NULL	2	1	1
+rheumatoid form	osteoarthritis	1	1	1	1	NULL	NULL	NULL	1139	317	0.000877963125548727
+rheumatoid illness	arthritis	2	2	2	1	NULL	NULL	NULL	6085	1050	0.0003286770747740345
+rheumatoid screening study	antinuclear antibody	1	1	1	1	NULL	NULL	NULL	120	47	0.008333333333333333
+rheumatoid state	psoriatric arthritis	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+rheumatoid variant	psoriatic arthritis	2	1	2	1	NULL	NULL	NULL	146	66	0.0136986301369863
+Rheumatoid variants	Reiter's syndrome	1	1	2	2	0.500000000000	NULL	NULL	43	25	0.011627906976744186
+Rheumatoid variants	psoriatic arthritis	1	1	2	2	0.500000000000	NULL	NULL	146	66	0.003424657534246575
+rheumatologi-cal condition	rheumatoid arthritis	1	1	1	1	NULL	NULL	NULL	4358	694	0.0002294630564479119
+rheumatologic cause	rheumatoid arthritis	1	1	1	1	NULL	NULL	NULL	4358	694	0.0002294630564479119
+rheumatologic condition	systemic lupus erythematosus	4	4	15	7	NULL	NULL	NULL	767	187	0.0013906996957844416
+rheumatologic condition	rheumatoid arthritis	4	4	15	7	NULL	NULL	NULL	4358	694	0.00024476059354443935
+rheumatologic condition	lupus	2	2	15	7	NULL	NULL	NULL	2155	326	0.0001237432327919567
+rheumatologic condition	osteoarthritis	2	2	15	7	NULL	NULL	NULL	1139	317	0.0002341235001463272
+rheumatologic condition	autoimmune disease	1	1	15	7	NULL	NULL	NULL	386	155	0.00017271157167530224
+rheumatologic condition	juvenile rheumatoid arthritis	1	1	15	7	NULL	NULL	NULL	58	34	0.0011494252873563218
+rheumatologic condition	elevated blood uric acid	1	1	15	7	NULL	NULL	NULL	1	1	0.06666666666666667
+rheumatologic disease	systemic lupus erythematosus	6	6	30	15	0.200000000000	NULL	NULL	767	187	0.001564537157757497
+rheumatologic disease	lupus	5	5	30	15	0.200000000000	NULL	NULL	2155	326	0.0003866976024748646
+rheumatologic disease	rheumatoid arthritis	5	5	30	15	0.200000000000	NULL	NULL	4358	694	0.00019121921370659323
+rheumatologic disease	juvenile rheumatoid arthritis	2	2	30	15	0.200000000000	NULL	NULL	58	34	0.0022988505747126436
+rheumatologic disease	Sjogren's syndrome	2	2	30	15	0.200000000000	NULL	NULL	185	63	0.0007207207207207207
+rheumatologic disease	Kawasaki's disease	1	1	30	15	0.200000000000	NULL	NULL	12	9	0.002777777777777778
+rheumatologic disease	Sj gren syndrome	1	1	30	15	0.200000000000	NULL	NULL	2	2	0.016666666666666666
+rheumatologic disease	mixed connective tissue disorder	1	1	30	15	0.200000000000	NULL	NULL	2	2	0.016666666666666666
+rheumatologic disease	psoriasis	1	1	30	15	0.200000000000	NULL	NULL	2886	491	0.00001155001155001155
+rheumatologic disease	fibromyalgia	1	1	30	15	0.200000000000	NULL	NULL	1483	361	0.00002247696111485727
+rheumatologic disease	juvenile dermatomyositis	1	1	30	15	0.200000000000	NULL	NULL	5	5	0.006666666666666666
+rheumatologic disease	autoimmune or rheumatologic disease	1	1	30	15	0.200000000000	NULL	NULL	2	2	0.016666666666666666
+rheumatologic disease	Wegener's granulomatosis	1	1	30	15	0.200000000000	NULL	NULL	116	59	0.00028735632183908046
+rheumatologic disease	scleroderma	1	1	30	15	0.200000000000	NULL	NULL	497	129	0.0000670690811535882
+rheumatologic disease	Still's disease	1	1	30	15	0.200000000000	NULL	NULL	3	3	0.011111111111111112
+rheumatologic disorder	lupus	2	2	13	11	0.200000000000	NULL	NULL	2155	326	0.0001427806532214885
+rheumatologic disorder	Rheumatoid Arthritis	2	2	13	11	0.200000000000	NULL	NULL	4358	694	0.00007060401736858827
+rheumatologic disorder	giant cell arteritis	1	1	13	11	0.200000000000	NULL	NULL	38	19	0.0020242914979757085
+rheumatologic disorder	Systemic Lupus Erythematosis	1	1	13	11	0.200000000000	NULL	NULL	61	24	0.0012610340479192938
+rheumatologic disorder	Osteoarthritis	1	1	13	11	0.200000000000	NULL	NULL	1139	317	0.00006753562504220977
+rheumatologic disorder	polymyositis	1	1	13	11	0.200000000000	NULL	NULL	97	40	0.0007930214115781126
+rheumatologic disorder	polymyalgia rheumatica in the elderly	1	1	13	11	0.200000000000	NULL	NULL	1	1	0.07692307692307693
+rheumatologic disorder	SLE	1	1	13	11	0.200000000000	NULL	NULL	163	67	0.00047192071731949034
+rheumatologic disorder	systemic lupus erythematosus	1	1	13	11	0.200000000000	NULL	NULL	767	187	0.00010029084344599339
+rheumatologic disorder	dermatomyositis	1	1	13	11	0.200000000000	NULL	NULL	96	38	0.0008012820512820514
+rheumatologic disorder	myopathies	1	1	13	11	0.200000000000	NULL	NULL	19	9	0.004048582995951417
+rheumatologic or cutaneous manifestation	erythema nodosum	1	1	2	3	NULL	NULL	NULL	64	44	0.0078125
+rheumatologic or cutaneous manifestation	conjunctivitis	1	1	2	3	NULL	NULL	NULL	409	163	0.0012224938875305623
+rheumatologic symptom	muscle contraction headache	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+rheumatologic symptom	skin rash	1	1	3	3	NULL	NULL	NULL	792	264	0.00042087542087542086
+rheumatologic symptom	myalgia	1	1	3	3	NULL	NULL	NULL	305	119	0.001092896174863388
+rheumatological autoimmune disease	systemic lupus erythematosus	1	1	3	3	NULL	NULL	NULL	767	187	0.00043459365493263795
+rheumatological autoimmune disease	systemic sclerosis	1	1	3	3	NULL	NULL	NULL	66	31	0.00505050505050505
+rheumatological autoimmune disease	rheumatoid arthritis	1	1	3	3	NULL	NULL	NULL	4358	694	0.00007648768548263729
+rheumatological condition	rheumatoid arthritis	7	6	19	13	0.333333333333	NULL	NULL	4358	694	0.0005917731455761939
+rheumatological condition	tropical country serious rheumatological condition	1	1	19	13	0.333333333333	NULL	NULL	2	2	0.02631578947368421
+rheumatological condition	systemic lupus erythematosis	1	1	19	13	0.333333333333	NULL	NULL	61	24	0.0008628127696289904
+rheumatological condition	osteoarthritis	1	1	19	13	0.333333333333	NULL	NULL	1139	317	0.00004620858555519615
+rheumatological condition	pseudogout	1	1	19	13	0.333333333333	NULL	NULL	8	7	0.006578947368421052
+rheumatological condition	trauma	1	1	19	13	0.333333333333	NULL	NULL	2048	628	0.000025699013157894735
+rheumatological condition	calcium pyrophosphate deposition	1	1	19	13	0.333333333333	NULL	NULL	1	1	0.05263157894736842
+rheumatological condition	joint	1	1	19	13	0.333333333333	NULL	NULL	541	286	0.00009728572818367545
+rheumatological condition	drug interaction	1	1	19	13	0.333333333333	NULL	NULL	129	56	0.0004079967360261118
+rheumatological condition	Ankylosing Spondylitis	1	1	19	13	0.333333333333	NULL	NULL	255	95	0.0002063983488132095
+rheumatological condition	chondrocalcinosis	1	1	19	13	0.333333333333	NULL	NULL	7	7	0.007518796992481203
+rheumatological condition	spondylarthropathy	1	1	19	13	0.333333333333	NULL	NULL	1	1	0.05263157894736842
+rheumatological condition	course rheumatological condition	1	1	19	13	0.333333333333	NULL	NULL	2	2	0.02631578947368421
+rheumatological disease	Behcet's disease	2	1	17	14	0.400000000000	NULL	NULL	27	16	0.008714596949891067
+rheumatological disease	polymyalgia rheumatica	2	2	17	14	0.400000000000	NULL	NULL	36	15	0.006535947712418301
+rheumatological disease	rheumatoid arthritis	2	1	17	14	0.400000000000	NULL	NULL	4358	694	0.00005399130739950868
+rheumatological disease	degenerative arthritis	1	1	17	14	0.400000000000	NULL	NULL	42	30	0.0014005602240896359
+rheumatological disease	systemic rheumatological disease	1	1	17	14	0.400000000000	NULL	NULL	2	2	0.029411764705882353
+rheumatological disease	giant cell arteritis	1	1	17	14	0.400000000000	NULL	NULL	38	19	0.001547987616099071
+rheumatological disease	calcific rotator cuff tendinitis	1	1	17	14	0.400000000000	NULL	NULL	1	1	0.058823529411764705
+rheumatological disease	arthritis	1	1	17	14	0.400000000000	NULL	NULL	6085	1050	0.000009666972787471604
+rheumatological disease	Psoriatic Arthritis	1	1	17	14	0.400000000000	NULL	NULL	146	66	0.00040290088638195
+rheumatological disease	Reactive Arthritis	1	1	17	14	0.400000000000	NULL	NULL	61	43	0.0009643201542912247
+rheumatological disease	1-other   rheumatological disease	1	1	17	14	0.400000000000	NULL	NULL	2	2	0.029411764705882353
+rheumatological disease	calcific bursitis	1	1	17	14	0.400000000000	NULL	NULL	1	1	0.058823529411764705
+rheumatological disease	gout	1	1	17	14	0.400000000000	NULL	NULL	701	158	0.0000839137366786943
+rheumatological disease	Takayasu's arteritis	1	1	17	14	0.400000000000	NULL	NULL	13	8	0.004524886877828054
+rheumatological disorder	scleroderma	3	3	8	5	0.200000000000	NULL	NULL	497	129	0.0022635814889336017
+rheumatological disorder	SLE	2	2	8	5	0.200000000000	NULL	NULL	163	67	0.003067484662576687
+rheumatological disorder	systemic lupus erythematosus	1	1	8	5	0.200000000000	NULL	NULL	767	187	0.00016297262059973924
+rheumatological disorder	osteoarthritis	1	1	8	5	0.200000000000	NULL	NULL	1139	317	0.00010974539069359087
+rheumatological disorder	rheumatoid arthritis	1	1	8	5	0.200000000000	NULL	NULL	4358	694	0.000028682882055988986
+rheumatological symptom	achy joint	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+rheumatological testing	antinuclear antibody titer	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rheumatologists	Linda Russell	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RHEUMATOLOGY certain drug	hydroxychloroquine	1	1	3	3	NULL	NULL	NULL	157	54	0.0021231422505307855
+RHEUMATOLOGY certain drug	gold	1	1	3	3	NULL	NULL	NULL	10877	2626	0.00003064570500444363
+RHEUMATOLOGY certain drug	penicillamine	1	1	3	3	NULL	NULL	NULL	120	40	0.0027777777777777775
+rheumatology clinic	Osteoporosis Clinic	1	1	1	1	NULL	NULL	NULL	1	1	1
+rheumatology office support information	PQRS	1	1	7	7	0.200000000000	NULL	NULL	3	3	0.047619047619047616
+rheumatology office support information	health information technology	1	1	7	7	0.200000000000	NULL	NULL	32	22	0.004464285714285714
+rheumatology office support information	insurance	1	1	7	7	0.200000000000	NULL	NULL	8820	2250	0.000016196954972465176
+rheumatology office support information	patient documentation	1	1	7	7	0.200000000000	NULL	NULL	5	5	0.02857142857142857
+rheumatology office support information	legal	1	1	7	7	0.200000000000	NULL	NULL	2438	876	0.000058596038907769834
+rheumatology office support information	coding	1	1	7	7	0.200000000000	NULL	NULL	383	204	0.00037299515106303615
+rheumatology office support information	Medicare	1	1	7	7	0.200000000000	NULL	NULL	3007	857	0.00004750819516366573
+rheumatology text	Current Rheumatology Diagnosis	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHF building	California	1	1	2	2	NULL	NULL	NULL	14491	1396	0.00003450417500517563
+RHF building	Harbor Tower in San Pedro	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RHHIs	Palmetto GBA	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+RHI section	shown in Fig	1	1	1	1	NULL	NULL	NULL	280	212	0.0035714285714285713
+rhian's previous shows' rating	Captain Barbell	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+rhine biological application	Technology Co.	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhine stone jewelry item	collars bracelet	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhine varietal	Syrah	1	1	1	1	NULL	NULL	NULL	326	135	0.003067484662576687
+rhine's tributary	Nehe	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+rhineland bishopric	Mainz	1	1	1	1	0.500000000000	NULL	NULL	32	16	0.03125
+rhineland city	Aachen	1	1	3	3	0.500000000000	NULL	NULL	26	15	0.01282051282051282
+rhineland city	Crefeld	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+rhineland city	Cologne	1	1	3	3	0.500000000000	NULL	NULL	433	167	0.0007698229407236335
+rhineland mystic	Meister Eckhart	1	1	1	1	1.000000000000	NULL	NULL	38	19	0.02631578947368421
+rhineland-palatinate's city	Trier	1	1	3	3	1.000000000000	NULL	NULL	33	14	0.0101010101010101
+rhineland-palatinate's city	Kaiserslautern	1	1	3	3	1.000000000000	NULL	NULL	12	9	0.027777777777777776
+rhineland-palatinate's city	Mainz	1	1	3	3	1.000000000000	NULL	NULL	32	16	0.010416666666666666
+rhinestone	clear, high quality rhinestone	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+rhinestone buckle handbag item	camo mossy oak design on Bags for Bid live auction pages with real time shopping link	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhinestone character	star for extra sparkle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhinestone character	heart	1	1	2	2	NULL	NULL	NULL	4575	1258	0.0001092896174863388
+rhinestone decoration	rhinestone compact mirror	1	1	5	5	0.400000000000	NULL	NULL	1	1	0.2
+rhinestone decoration	perfume bottle	1	1	5	5	0.400000000000	NULL	NULL	69	47	0.002898550724637681
+rhinestone decoration	matini glass	1	1	5	5	0.400000000000	NULL	NULL	1	1	0.2
+rhinestone decoration	mobile phone case	1	1	5	5	0.400000000000	NULL	NULL	45	28	0.0044444444444444444
+rhinestone decoration	flash driver	1	1	5	5	0.400000000000	NULL	NULL	13	9	0.015384615384615385
+rhinestone design	Raiders	1	1	2	2	0.666666666666	NULL	NULL	60	25	0.008333333333333333
+rhinestone design	Cowboys	1	1	2	2	0.666666666666	NULL	NULL	80	39	0.00625
+rhinestone dog collar related offer	Pet Collar	1	1	2	2	1.000000000000	NULL	NULL	17	29	0.029411764705882353
+rhinestone dog collar related offer	Dog Collar	1	1	2	2	1.000000000000	NULL	NULL	73	43	0.00684931506849315
+rhinestone embellishment	splashy pin	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhinestone item	handbag	2	2	2	1	NULL	NULL	NULL	1919	540	0.0010422094841063053
+rhinestone jewelry & accessory	brooch	1	1	3	3	NULL	NULL	NULL	250	120	0.0013333333333333333
+rhinestone jewelry & accessory	earring	1	1	3	3	NULL	NULL	NULL	1525	531	0.0002185792349726776
+rhinestone jewelry & accessory	necklace	1	1	3	3	NULL	NULL	NULL	2291	723	0.00014549687181725592
+rhinestone product	napkin ring	1	1	1	1	NULL	NULL	NULL	86	52	0.011627906976744186
+rhinestone related item	buttons buckle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhinestone related item	heat transfer motif	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhinestone related offer	Quartz Stone	1	1	2	2	1.000000000000	NULL	NULL	15	14	0.03333333333333333
+rhinestone related offer	Rhinestone Jewelry	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+rhinestone sticker related offer	Diamond Sticker	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+rhinestone sticker related offer	Nail Sticker	1	1	2	2	1.000000000000	NULL	NULL	18	14	0.027777777777777776
+rhinestone trimming	shoe buckle	1	1	1	1	0.400000000000	NULL	NULL	17	16	0.058823529411764705
+rhinestone zipper related offer	Metal Zipper	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+rhinestone-studded browband	ones from Otto Schumaker	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhinestone-studded supply	stapler	1	1	3	3	NULL	NULL	NULL	357	155	0.0009337068160597572
+rhinestone-studded supply	pen	1	1	3	3	NULL	NULL	NULL	5345	1399	0.00006236357966947302
+rhinestone-studded supply	scissors	1	1	3	3	NULL	NULL	NULL	2221	553	0.00015008254539996998
+rhinitis symptom	post nasal drip	1	1	5	5	0.250000000000	NULL	NULL	20	13	0.01
+rhinitis symptom	typical rhinitis symptom	1	1	5	5	0.250000000000	NULL	NULL	2	2	0.1
+rhinitis symptom	nasal congestion	1	1	5	5	0.250000000000	NULL	NULL	333	102	0.0006006006006006007
+rhinitis symptom	sneezing	1	1	5	5	0.250000000000	NULL	NULL	886	242	0.00022573363431151243
+rhinitis symptom	runny nose	1	1	5	5	0.250000000000	NULL	NULL	880	202	0.00022727272727272727
+rhinitis treatment	montelukast	1	1	2	2	NULL	NULL	NULL	142	45	0.0035211267605633804
+rhinitis treatment	antihistamine	1	1	2	2	NULL	NULL	NULL	1737	318	0.0002878526194588371
+rhinitis upper respiratory disease	allergic rhinitis	1	1	2	2	NULL	NULL	NULL	314	114	0.0015923566878980893
+rhinitis upper respiratory disease	nona llergic rhinitis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhino	black rhino	1	1	2	2	0.666666666666	NULL	NULL	57	32	0.008771929824561403
+rhino	Javan rhino	1	1	2	2	0.666666666666	NULL	NULL	9	7	0.05555555555555555
+rhino 3D command	boolean operation	1	1	1	1	1.000000000000	NULL	NULL	32	16	0.03125
+rhino command	boolean operation	5	4	6	2	1.000000000000	NULL	NULL	32	16	0.13020833333333334
+rhino command	boolean operation s	1	1	6	2	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+rhino event	fund raiser	1	1	1	1	NULL	NULL	NULL	110	52	0.00909090909090909
+rhino group	International Rhino Foundation	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+rhino horn item	carving	1	1	1	1	0.500000000000	NULL	NULL	169	112	0.005917159763313609
+rhino plug-in utility	Vray	1	1	1	1	0.500000000000	NULL	NULL	8	7	0.125
+rhino protection organization	World Wildlife Fund	1	1	1	1	NULL	NULL	NULL	396	126	0.0025252525252525255
+rhino refillable lighter	Blue Rhino Beast	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhino species	White Rhino	2	1	4	3	1.000000000000	NULL	NULL	57	28	0.017543859649122806
+rhino species	Javan Rhino	1	1	4	3	1.000000000000	NULL	NULL	9	7	0.027777777777777776
+rhino species	White Rhino of Central Africa	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+rhino's ancestor	Baluchitherium	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhino's excellent NURB modelling tool	sweep	1	1	1	1	NULL	NULL	NULL	97	62	0.010309278350515464
+rhino-like browser	North American Brontops	2	2	2	1	NULL	NULL	NULL	2	1	1
+rhinocerotids	Menoceras	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhinofloor offer accessory	Cold Weld fluid	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Rhinologists	Dr. David Kennedy in Philadephia at UPenn	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhinoplasty specialist	Dr Simoni	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhinoplasty specialist	Dr. Imani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhinosurgery	resection of the inferior concha	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhipicephalus	Rhipicephalus pulchellus	2	2	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+Rhipicephalus	Rhipicephalus sanguineus	2	2	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+Rhipicephalus	Rhipicephalus appendiculatus	1	1	6	4	NULL	NULL	NULL	2	2	0.08333333333333333
+Rhipicephalus	Rhipicephalus appendicilatus	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+rhipidistians	Eusthenopteron	2	2	3	2	1.000000000000	NULL	NULL	10	8	0.13333333333333333
+rhipidistians	Osteolepis	1	1	3	2	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+rhipsalid cactus	Lepismium cruciforme	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhive enviroment	classpath	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+Rhizo-cephala	Sacculina	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhizo-terrorists	al-qaeda	1	1	1	1	NULL	NULL	NULL	302	125	0.0033112582781456954
+rhizobacteria	strains from B. subtilis	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+rhizobacterial characteristic	indole acetic acid production	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+rhizobacterial characteristic	phosphate solubilization	1	1	2	2	NULL	NULL	NULL	6	3	0.08333333333333333
+rhizobia	Sinorhizobium meliloti	2	2	9	6	1.000000000000	NULL	NULL	8	7	0.05555555555555555
+rhizobia	Rhizobium sp	2	2	9	6	1.000000000000	NULL	NULL	5	4	0.08888888888888888
+rhizobia	Mesorhizobium loti	2	2	9	6	1.000000000000	NULL	NULL	2	1	0.2222222222222222
+rhizobia	Bradyrhizobium japonicum	1	1	9	6	1.000000000000	NULL	NULL	5	5	0.02222222222222222
+rhizobia	Rhizobium tropici	1	1	9	6	1.000000000000	NULL	NULL	3	2	0.037037037037037035
+rhizobia	Rhizobium leguminosarum	1	1	9	6	1.000000000000	NULL	NULL	6	4	0.018518518518518517
+rhizobia release enzyme	hemicellulase	1	1	2	2	1.000000000000	NULL	NULL	15	6	0.03333333333333333
+rhizobia release enzyme	pectinase	1	1	2	2	1.000000000000	NULL	NULL	28	10	0.017857142857142856
+rhizobial enzyme	citrate synthase	1	1	4	4	1.000000000000	NULL	NULL	17	11	0.014705882352941176
+rhizobial enzyme	succinate dehydrogenase	1	1	4	4	1.000000000000	NULL	NULL	34	15	0.007352941176470588
+rhizobial enzyme	malate dehydrogenase	1	1	4	4	1.000000000000	NULL	NULL	16	12	0.015625
+rhizobial enzyme	isocitrate dehydrogenase	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+rhizobial species	Rhizobium hedysari , Sinorhizobium meliloti	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhizobial species	Sinorhizobium meliloti	1	1	4	4	1.000000000000	NULL	NULL	8	7	0.03125
+rhizobial species	Rhizobium leguminosarum	1	1	4	4	1.000000000000	NULL	NULL	6	4	0.041666666666666664
+rhizobial species	Rhizobium galegae	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+Rhizobiales	Bruc ella	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhizoctonia disease	limb rot	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rhizogenes	strain A4	2	2	2	1	NULL	NULL	NULL	2	1	1
+rhizomatic plant	Hedychium	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+rhizomatous and stoloniferous grass	Brachiaria decumbens	1	1	2	2	NULL	NULL	NULL	8	5	0.0625
+rhizomatous and stoloniferous grass	Brachiaria mutica	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+Rhizomatous and stoloniferous species	Cynodon dactylon	1	1	3	3	1.000000000000	NULL	NULL	39	22	0.008547008547008546
+Rhizomatous and stoloniferous species	Phragmites australis	1	1	3	3	1.000000000000	NULL	NULL	38	29	0.008771929824561403
+Rhizomatous and stoloniferous species	Paspalum distichum	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+rhizomatous exotic grass	Poa pratensis	1	1	1	1	1.000000000000	NULL	NULL	18	12	0.05555555555555555
+Rhizomatous forbs	goldenrod	1	1	3	3	NULL	NULL	NULL	251	111	0.0013280212483399733
+Rhizomatous forbs	aster	1	1	3	3	NULL	NULL	NULL	515	207	0.0006472491909385113
+rhizomatous forbs	annual bromes rhizomatous forbs	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rhizomatous grass	quackgrass	3	3	16	12	0.545454545454	NULL	NULL	161	58	0.0034937888198757765
+rhizomatous grass	bermudagrass	2	1	16	12	0.545454545454	NULL	NULL	375	128	0.0006666666666666666
+rhizomatous grass	intermediate wheatgrass	2	1	16	12	0.545454545454	NULL	NULL	16	11	0.015625
+rhizomatous grass	Kentucky bluegrass	1	1	16	12	0.545454545454	NULL	NULL	421	147	0.0001484560570071259
+rhizomatous grass	thickspike wheatgrass	1	1	16	12	0.545454545454	NULL	NULL	10	6	0.00625
+rhizomatous grass	smooth brome	1	1	16	12	0.545454545454	NULL	NULL	108	60	0.0005787037037037037
+rhizomatous grass	imperata cylindrica	1	1	16	12	0.545454545454	NULL	NULL	13	8	0.004807692307692308
+rhizomatous grass	creeping red fescue	1	1	16	12	0.545454545454	NULL	NULL	40	29	0.0015625
+rhizomatous grass	bromegrass	1	1	16	12	0.545454545454	NULL	NULL	67	36	0.0009328358208955224
+rhizomatous grass	unpalatable annual	1	1	16	12	0.545454545454	NULL	NULL	1	1	0.0625
+rhizomatous grass	western wheatgrass	1	1	16	12	0.545454545454	NULL	NULL	64	33	0.0009765625
+rhizomatous grass	pinegrass	1	1	16	12	0.545454545454	NULL	NULL	10	8	0.00625
+rhizomatous kind	bearded Iris's	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+rhizomatous macrophytes	Canna glauca L.	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhizomatous noxious weed	leafy spurge	2	2	3	2	0.500000000000	NULL	NULL	142	59	0.009389671361502348
+rhizomatous noxious weed	Russian knapweed	1	1	3	2	0.500000000000	NULL	NULL	26	13	0.01282051282051282
+rhizomatous or tuberous plant	begonia	1	1	3	5	0.333333333333	NULL	NULL	481	180	0.000693000693000693
+rhizomatous or tuberous plant	colocasia	1	1	3	5	0.333333333333	NULL	NULL	22	13	0.01515151515151515
+rhizomatous or tuberous plant	dahlia	1	1	3	5	0.333333333333	NULL	NULL	587	202	0.0005678591709256105
+rhizomatous perennial broadleaved weed	bunchberry	1	1	2	2	1.000000000000	NULL	NULL	15	14	0.03333333333333333
+rhizomatous perennial broadleaved weed	spreading dogbane	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+rhizomatous perennial weed	Canada thistle	1	1	1	1	NULL	NULL	NULL	296	92	0.0033783783783783786
+rhizomatous plant	grass	2	2	12	10	0.400000000000	NULL	NULL	3076	1135	0.00010836584308625921
+rhizomatous plant	sedge	2	2	12	10	0.400000000000	NULL	NULL	374	166	0.00089126559714795
+rhizomatous plant	Gloxinia	1	1	12	10	0.400000000000	NULL	NULL	23	14	0.003623188405797101
+rhizomatous plant	Kohleria	1	1	12	10	0.400000000000	NULL	NULL	3	3	0.027777777777777776
+rhizomatous plant	tuberous-rooted and rhizomatous plant	1	1	12	10	0.400000000000	NULL	NULL	2	2	0.041666666666666664
+rhizomatous plant	waterlily	1	1	12	10	0.400000000000	NULL	NULL	33	21	0.002525252525252525
+rhizomatous plant	Achimenes	1	1	12	10	0.400000000000	NULL	NULL	4	3	0.020833333333333332
+rhizomatous plant	aggressive, rhizomatous plant	1	1	12	10	0.400000000000	NULL	NULL	2	2	0.041666666666666664
+rhizomatous plant	smooth brome	1	1	12	10	0.400000000000	NULL	NULL	108	60	0.0007716049382716049
+rhizomatous plant	perennial, rhizomatous plant	1	1	12	10	0.400000000000	NULL	NULL	2	2	0.041666666666666664
+rhizomatous rooted plant	Canadian thistle	1	1	2	2	0.500000000000	NULL	NULL	21	13	0.023809523809523808
+rhizomatous rooted plant	leafy spurge	1	1	2	2	0.500000000000	NULL	NULL	142	59	0.0035211267605633804
+rhizomatous shrub	black huckleberry	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667
+rhizomatous species	Kentucky bluegrass	3	2	26	21	0.384615384615	NULL	NULL	421	147	0.0008222181618856202
+rhizomatous species	sedge	3	3	26	21	0.384615384615	NULL	NULL	374	166	0.000925545043192102
+rhizomatous species	Poa pratensis	2	1	26	21	0.384615384615	NULL	NULL	18	12	0.008547008547008548
+rhizomatous species	Indian grass	1	1	26	21	0.384615384615	NULL	NULL	86	30	0.0004472271914132379
+rhizomatous species	Typha species	1	1	26	21	0.384615384615	NULL	NULL	1	1	0.038461538461538464
+rhizomatous species	Agropyron dasystachyum	1	1	26	21	0.384615384615	NULL	NULL	3	3	0.012820512820512822
+rhizomatous species	Cypripedium spp.	1	1	26	21	0.384615384615	NULL	NULL	1	1	0.038461538461538464
+rhizomatous species	deep-rooted sedge	1	1	26	21	0.384615384615	NULL	NULL	1	1	0.038461538461538464
+rhizomatous species	Elymus lanceolatus	1	1	26	21	0.384615384615	NULL	NULL	1	1	0.038461538461538464
+rhizomatous species	Gleichenia	1	1	26	21	0.384615384615	NULL	NULL	2	2	0.019230769230769232
+rhizomatous species	big bluestem	1	1	26	21	0.384615384615	NULL	NULL	263	86	0.00014624159110851126
+rhizomatous species	switchgrass	1	1	26	21	0.384615384615	NULL	NULL	765	268	0.00005027652086475616
+rhizomatous species	Couch	1	1	26	21	0.384615384615	NULL	NULL	687	261	0.00005598477214197738
+rhizomatous species	elk sedge	1	1	26	21	0.384615384615	NULL	NULL	5	4	0.007692307692307693
+rhizomatous species	perennial rhizomatous species	1	1	26	21	0.384615384615	NULL	NULL	2	2	0.019230769230769232
+rhizomatous species	Kikuyu	1	1	26	21	0.384615384615	NULL	NULL	134	81	0.0002870264064293915
+rhizomatous species	deep rooted sedge	1	1	26	21	0.384615384615	NULL	NULL	1	1	0.038461538461538464
+rhizomatous species	Scirpus species	1	1	26	21	0.384615384615	NULL	NULL	2	2	0.019230769230769232
+rhizomatous species	western wheatgrass	1	1	26	21	0.384615384615	NULL	NULL	64	33	0.0006009615384615385
+rhizomatous species	pinegrass	1	1	26	21	0.384615384615	NULL	NULL	10	8	0.0038461538461538464
+rhizomatous species	deep-rooted Carex species	1	1	26	21	0.384615384615	NULL	NULL	1	1	0.038461538461538464
+rhizomatous type	Rex begonia	2	2	2	1	1.000000000000	NULL	NULL	14	7	0.14285714285714285
+rhizomatous weed	quackgrass	2	2	9	7	0.333333333333	NULL	NULL	161	58	0.0027605244996549345
+rhizomatous weed	morning glory	2	2	9	7	0.333333333333	NULL	NULL	346	143	0.0012845215157353885
+rhizomatous weed	field bindweed	1	1	9	7	0.333333333333	NULL	NULL	82	36	0.0013550135501355014
+rhizomatous weed	deep-rooted rhizomatous weed	1	1	9	7	0.333333333333	NULL	NULL	2	2	0.05555555555555555
+rhizomatous weed	dalmatian toadflax	1	1	9	7	0.333333333333	NULL	NULL	23	16	0.004830917874396135
+rhizomatous weed	Canada goldenrod	1	1	9	7	0.333333333333	NULL	NULL	10	9	0.01111111111111111
+rhizomatous weed	Canada thistle	1	1	9	7	0.333333333333	NULL	NULL	296	92	0.00037537537537537537
+rhizomatous weed species	field bindweed	3	2	6	3	0.500000000000	NULL	NULL	82	36	0.018292682926829267
+rhizomatous weed species	Canada thistle	2	1	6	3	0.500000000000	NULL	NULL	296	92	0.0022522522522522522
+rhizomatous weed species	Blue mustard Common mullein Canada thistle	1	1	6	3	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+rhizomatous, sod-forming perennial grass	intermediate wheatgrass	1	1	2	2	0.500000000000	NULL	NULL	16	11	0.03125
+rhizomatous, sod-forming perennial grass	smooth brome	1	1	2	2	0.500000000000	NULL	NULL	108	60	0.004629629629629629
+rhizomatous-rooted plant	Monarda	1	1	4	4	1.000000000000	NULL	NULL	37	18	0.006756756756756757
+rhizomatous-rooted plant	Bergenia	1	1	4	4	1.000000000000	NULL	NULL	32	27	0.0078125
+rhizomatous-rooted plant	Polygonatum	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+rhizomatous-rooted plant	Physalis	1	1	4	4	1.000000000000	NULL	NULL	10	10	0.025
+rhizomatus tree	Russian Olive	1	1	1	1	NULL	NULL	NULL	134	57	0.007462686567164179
+rhizome	irises	4	4	21	12	0.307692307692	NULL	NULL	242	103	0.003148366784730421
+rhizome	bearded iris	3	2	21	12	0.307692307692	NULL	NULL	27	12	0.015873015873015872
+rhizome	dried turmeric	3	3	21	12	0.307692307692	NULL	NULL	4	2	0.10714285714285714
+rhizome	ginger	3	3	21	12	0.307692307692	NULL	NULL	3867	984	0.00011082788429568879
+rhizome	turmeric	2	2	21	12	0.307692307692	NULL	NULL	1396	345	0.00013644426251876107
+rhizome	dahlia	1	1	21	12	0.307692307692	NULL	NULL	587	202	0.00008112273870365863
+rhizome	calla lily	1	1	21	12	0.307692307692	NULL	NULL	198	95	0.00024050024050024048
+rhizome	Cupid's Bower	1	1	21	12	0.307692307692	NULL	NULL	1	1	0.047619047619047616
+rhizome	found in the ginger plant	1	1	21	12	0.307692307692	NULL	NULL	1	1	0.047619047619047616
+rhizome	tulip	1	1	21	12	0.307692307692	NULL	NULL	1493	398	0.00003189487449366887
+rhizome	ornamental ginger	1	1	21	12	0.307692307692	NULL	NULL	2	2	0.023809523809523808
+rhizome plant	irises	1	1	1	1	NULL	NULL	NULL	242	103	0.004132231404958678
+rhizome-forming plant	Sweet Flag	1	1	2	2	0.500000000000	NULL	NULL	41	28	0.012195121951219513
+rhizome-forming plant	irises	1	1	2	2	0.500000000000	NULL	NULL	242	103	0.002066115702479339
+rhizome-producing plant	ginger	1	1	1	1	NULL	NULL	NULL	3867	984	0.0002585983966899405
+rhizome-type plant	cannas	1	1	1	1	NULL	NULL	NULL	276	95	0.0036231884057971015
+rhizominous grass	creeping red fescue	1	0	1	1	1.000000000000	NULL	NULL	40	29	0.025
+rhizomonous perennial weed	quackgrass	1	1	1	1	NULL	NULL	NULL	161	58	0.006211180124223602
+rhizomous grass	quack grass	2	2	2	1	1.000000000000	NULL	NULL	43	22	0.046511627906976744
+rhizomous perennial	iris	1	1	1	1	NULL	NULL	NULL	646	338	0.0015479876160990713
+rhizophytic alga	Caulerpa	1	1	1	1	1.000000000000	NULL	NULL	18	15	0.05555555555555555
+rhizopods	Difflugia	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhizopods	genera Arcella	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhizosphere bacterium	fluorescent Pseudomonas spp	2	2	4	3	1.000000000000	NULL	NULL	2	1	0.5
+rhizosphere bacterium	Pseudomonas spp	1	1	4	3	1.000000000000	NULL	NULL	67	45	0.0037313432835820895
+rhizosphere bacterium	Pseudomonas fluorescens	1	1	4	3	1.000000000000	NULL	NULL	31	21	0.008064516129032258
+rhizosphere effect	increased organic matter	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+rhizosphere micro-organisms	microbe	1	1	1	1	NULL	NULL	NULL	127	75	0.007874015748031496
+rhizosphere microorganism	Bacillus	1	1	5	5	0.250000000000	NULL	NULL	136	61	0.0014705882352941176
+rhizosphere microorganism	Micrococcus	1	1	5	5	0.250000000000	NULL	NULL	22	14	0.009090909090909092
+rhizosphere microorganism	Mycobacterium	1	1	5	5	0.250000000000	NULL	NULL	56	25	0.0035714285714285718
+rhizosphere microorganism	beneficial rhizosphere microorganism	1	1	5	5	0.250000000000	NULL	NULL	2	2	0.1
+rhizosphere microorganism	Pseudomonas	1	1	5	5	0.250000000000	NULL	NULL	308	118	0.0006493506493506494
+rhizosphere organism	Pseudomonas fluorescens	1	1	3	3	1.000000000000	NULL	NULL	31	21	0.01075268817204301
+rhizosphere organism	AMF	1	1	3	3	1.000000000000	NULL	NULL	24	18	0.013888888888888888
+rhizosphere organism	mycorrhizae	1	1	3	3	1.000000000000	NULL	NULL	29	22	0.011494252873563218
+rhizosphere soil property environmental condition	soil acidity	1	1	1	1	1.000000000000	NULL	NULL	35	18	0.02857142857142857
+rhizosphere-dependent micro-organisms	mycorrhizae	1	1	2	2	1.000000000000	NULL	NULL	29	22	0.017241379310344827
+rhizosphere-dependent micro-organisms	feeder root pathogen	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rhizospheric microbial population	arbuscular mycorrhizal fungus	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+rhizospheric microbial population	plant growth promoting rhizobacteria	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+RHM colleague	patronage nurse	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rho effectors	PKN	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+Rho effectors	protein kinase N	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Rho effectors	PtdInsP	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+rho family exchange factor	FGD1	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rho family exchange factor	Vav	1	1	2	2	1.000000000000	NULL	NULL	23	13	0.021739130434782608
+Rho family GTPases	Rac	5	4	11	3	0.666666666666	NULL	NULL	150	65	0.01515151515151515
+Rho family GTPases	Rho	5	4	11	3	0.666666666666	NULL	NULL	126	59	0.018037518037518036
+Rho family GTPases	TC10	1	1	11	3	0.666666666666	NULL	NULL	5	4	0.01818181818181818
+rho family member	Rac	2	2	6	4	NULL	NULL	NULL	150	65	0.0044444444444444444
+rho family member	Rho	2	2	6	4	NULL	NULL	NULL	126	59	0.005291005291005291
+rho family member	geranylgeranylated rho family member	1	1	6	4	NULL	NULL	NULL	3	3	0.05555555555555555
+rho family member	Rnd	1	1	6	4	NULL	NULL	NULL	2	2	0.08333333333333333
+rho family protein	Rac	1	1	1	1	NULL	NULL	NULL	150	65	0.006666666666666667
+Rho family small GTPases	Rho	6	6	10	2	1.000000000000	NULL	NULL	126	59	0.028571428571428567
+Rho family small GTPases	Rac	4	4	10	2	1.000000000000	NULL	NULL	150	65	0.010666666666666668
+Rho GEFs	Dbl	1	1	3	3	1.000000000000	NULL	NULL	15	8	0.02222222222222222
+Rho GEFs	VAV1	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Rho GEFs	TIAM1	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Rho gene covariates	Wdr17 with corresponding gene	1	1	1	1	NULL	NULL	NULL	1	1	1
+rho gtpase effector molecule	proteins of the PAK family	1	1	1	1	NULL	NULL	NULL	1	1	1
+rho gtpaseeffector molecule	proteins of the PAK family orp70 S6K	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rho GTPases	Rac	13	6	32	8	1.000000000000	NULL	NULL	150	65	0.035208333333333335
+Rho GTPases	Rho	10	6	32	8	1.000000000000	NULL	NULL	126	59	0.0248015873015873
+Rho GTPases	Rac3	2	2	32	8	1.000000000000	NULL	NULL	2	1	0.0625
+Rho GTPases	TC10	2	1	32	8	1.000000000000	NULL	NULL	5	4	0.025
+Rho GTPases	Rac2	2	2	32	8	1.000000000000	NULL	NULL	2	1	0.0625
+rho gtpases	classical rho gtpases	1	1	32	8	1.000000000000	NULL	NULL	2	2	0.015625
+Rho GTPases	RhoD	1	1	32	8	1.000000000000	NULL	NULL	1	1	0.03125
+Rho GTPases	RhoG	1	1	32	8	1.000000000000	NULL	NULL	1	1	0.03125
+rho guanosine triphosphatase protein	Rac	1	1	2	2	NULL	NULL	NULL	150	65	0.0033333333333333335
+rho guanosine triphosphatase protein	Rho	1	1	2	2	NULL	NULL	NULL	126	59	0.003968253968253968
+rho kinase inhibitor	H-7	4	3	6	2	1.000000000000	NULL	NULL	22	10	0.1212121212121212
+rho kinase inhibitor	fasudil	2	2	6	2	1.000000000000	NULL	NULL	6	5	0.1111111111111111
+rho product	Rhodes	1	1	1	1	NULL	NULL	NULL	181	95	0.0055248618784530384
+rho protein	RhoC	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+Rho small GTPases	Rho	1	1	3	3	NULL	NULL	NULL	126	59	0.0026455026455026454
+rho small gtpases	introduction rho small gtpases	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+Rho small GTPases	Rac	1	1	3	3	NULL	NULL	NULL	150	65	0.0022222222222222222
+rho subfamily member	rac	1	1	3	3	NULL	NULL	NULL	150	65	0.0022222222222222222
+rho subfamily member	Rac GTPases	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rho subfamily member	Rho	1	1	3	3	NULL	NULL	NULL	126	59	0.0026455026455026454
+rho-binding protein	protein kinase N	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Rho-family GTPases	Rac	3	2	6	2	0.500000000000	NULL	NULL	150	65	0.01
+Rho-family GTPases	Rho	3	2	6	2	0.500000000000	NULL	NULL	126	59	0.011904761904761904
+Rho-family small GTPases	Rho	1	1	2	2	NULL	NULL	NULL	126	59	0.003968253968253968
+Rho-family small GTPases	Rac	1	1	2	2	NULL	NULL	NULL	150	65	0.0033333333333333335
+Rho-GTPases	Rho	1	1	2	2	NULL	NULL	NULL	126	59	0.003968253968253968
+Rho-GTPases	Rac	1	1	2	2	NULL	NULL	NULL	150	65	0.0033333333333333335
+rho-kinase inhibitor	fasudil	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+Rho-like small GTPases	Rac	2	2	4	2	NULL	NULL	NULL	150	65	0.006666666666666667
+Rho-like small GTPases	Rho	2	2	4	2	NULL	NULL	NULL	126	59	0.007936507936507936
+RhoA effectors	mdia	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhoa inhibitor	Botulinum C3 exoenzyme	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhoa-inhibitory bacterial toxin	Staphylococcus aureus EDIN toxin	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhoa-mediated biological function	cell migration	1	1	1	1	NULL	NULL	NULL	89	49	0.011235955056179775
+rhodamine	rhodamine S	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+rhodamine dye system	rhodamine S	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rhodamine dye system	rhodamine G	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rhode island beach	East Beach in Charlestown	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhode island doctor	Christopher Born	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhode island doctor	Stephen Sullivan	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhode island doctor	Helena Taylor	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhode island doctor	Sachita Shah	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhode island gift idea	souvenir	1	1	2	2	NULL	NULL	NULL	301	153	0.0016611295681063123
+rhode island gift idea	mug	1	1	2	2	NULL	NULL	NULL	1629	640	0.0003069367710251688
+Rhode Island heroes	General James Mitchell Varnum	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Rhode Island heroes	Nathanael Greene	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+rhode island local product	Coffee Syrup	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhode island local product	Del's Lemonade	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+rhode island locality	South Kingstown	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+rhode island museum	Haffenreffer Museum of Anthropology in Bristol	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhode island noise rock band	Lightning Bolt	1	1	1	1	NULL	NULL	NULL	83	55	0.012048192771084338
+rhode island record	muster roll	1	1	2	2	1.000000000000	NULL	NULL	23	13	0.021739130434782608
+rhode island record	clothing list	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+rhode island vendor	Rhode Island Doctors	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhode island vendor	Rhode Island Physicians	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhode island vendor	Medical Suppliers	1	1	7	7	1.000000000000	NULL	NULL	6	6	0.023809523809523808
+rhode island vendor	Rhode Island Pediatricians	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhode island vendor	Rhode Island Medical Services	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhode island vendor	Rhode Island Anesthesiologists	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhode island vendor	Rhode Island Medical Equipment	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhode island wedding caterer	buffet	1	1	2	2	NULL	NULL	NULL	326	133	0.0015337423312883436
+rhode island wedding caterer	formal	1	1	2	2	NULL	NULL	NULL	141	74	0.0035460992907801418
+rhode island's neighboring state	New York	1	1	1	1	NULL	NULL	NULL	13310	1915	0.00007513148009015778
+rhode islander	General Nathanael Greene	3	3	4	2	NULL	NULL	NULL	4	2	0.5625
+rhode islander	famous rhode islander	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+rhodes attraction	Evangelismou Church	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhodes attraction	Santa Maria della Vittoria	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Rhodes city area	Kalithea	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+rhodes point resident	Maxine Landon	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+rhodes scholar	President Bill Clinton	1	1	3	3	0.750000000000	NULL	NULL	24	16	0.013888888888888888
+rhodes scholar	Randall Kennedy	1	1	3	3	0.750000000000	NULL	NULL	8	6	0.041666666666666664
+rhodes scholar	General Wesley Clark	1	1	3	3	0.750000000000	NULL	NULL	8	8	0.041666666666666664
+rhodes scholar engineer	Jack Ridley	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhodes Scholar type	center Tim Ruddy	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhodesian pacer	Kyle Jarvis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodesian pacer	Brian Vitori	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rhodesian pacer	Prosper Utseya	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rhodesian politician	Garfield Todd	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodesian politician	Roy Welensky	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodesian politician	Ed Whitehead	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodesian security force	Rhodesian Light Infantry	2	2	2	1	NULL	NULL	NULL	2	1	1
+rhodesian unit	Special Air Service	1	1	1	1	1.000000000000	NULL	NULL	20	7	0.05
+rhodies	Bluenose	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+Rhodiola species	R. rosea	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+rhodium carbonyl	tetrarhodium dodecacarbonyl	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhodium carbonyl compound	complex salts of rhodium	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodium carbonyl compound	tricarbonyl rhodium	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodium carbonyl compound	tetracarbonyl rhodium	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodium carbonyl species	Rh412	2	2	2	1	NULL	NULL	NULL	2	1	1
+rhodium catalyst	RhCl 3	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhodium catalyst precursor	unmodified rhodium catalyst precursor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodium catalyst precursor	alternatively rhodium catalyst precursor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodium catalyst precursor	rhodium carbonyl tertiary organophosphine acetylacetonates	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhodium complex	dicarbonylrhodium acetylacetonate	3	3	9	4	NULL	NULL	NULL	4	2	0.25
+rhodium complex	rhodium biscarbonylacetylacetonate	3	3	9	4	NULL	NULL	NULL	3	1	0.3333333333333333
+rhodium complex	acetylacetonatobisethylenerhodium	2	2	9	4	NULL	NULL	NULL	2	1	0.2222222222222222
+rhodium complex	suitableare rhodium complex	1	1	9	4	NULL	NULL	NULL	1	1	0.1111111111111111
+rhodium compound	rhodium nitrate	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhodium halides	rhodium bromide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Rhodium halides	rhodium chloride	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+rhodium oxide	dioxide	1	1	2	2	1.000000000000	NULL	NULL	9	5	0.05555555555555555
+rhodium oxide	sesquioxide	1	1	2	2	1.000000000000	NULL	NULL	6	2	0.08333333333333333
+rhodium salt	water-soluble rhodium salt	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhodium salt	rhodium chloride	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+rhodiumcatalyzed reaction	hydrogenation	1	1	1	1	NULL	NULL	NULL	124	60	0.008064516129032258
+rhododendron	small-leaf alpine rhododendron	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhododendron disease	gall	1	1	4	4	0.250000000000	NULL	NULL	10	7	0.025
+rhododendron disease	rust	1	1	4	4	0.250000000000	NULL	NULL	796	301	0.000314070351758794
+rhododendron disease	botrytis	1	1	4	4	0.250000000000	NULL	NULL	72	28	0.003472222222222222
+rhododendron disease	powdery mildew	1	1	4	4	0.250000000000	NULL	NULL	345	82	0.0007246376811594203
+rhododendron enthusiast	American Rhododendron Society	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhododendron fiber property	fiber length	1	1	1	1	1.000000000000	NULL	NULL	68	38	0.014705882352941176
+rhododendron hybrid	Pink Trumpet	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+rhododendron variety	Admiral Piet Hien	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhodophyta	Lemanea	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Rhodophyta	Gracilaria verrucosa	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Rhodophyta	Gelidium amansii	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+rhodophytes	Jania sp.	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhodopsin related molecule	channelrhodopsin	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+rhodopsins	thearchaebacterial proton pump bacteriorhodpsin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhodopsins	Xenopus melanopsin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhodopsins	Anopheles GPRop8	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhodopsins	Drosophila RH6	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhody product	cornmeal for jonnycakes	1	1	1	1	NULL	NULL	NULL	1	1	1
+RhoGEFs	Dbl	1	1	2	2	1.000000000000	NULL	NULL	15	8	0.03333333333333333
+RhoGEFs	Vav	1	1	2	2	1.000000000000	NULL	NULL	23	13	0.021739130434782608
+rhomaleosaurids	Rhomaleosaurus	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhombic form	cube	1	1	3	3	NULL	NULL	NULL	733	371	0.00045475216007276033
+rhombic form	different prism	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhombic form	rhombohedron	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rhombic scale device	device of FIG	1	1	1	1	1.000000000000	NULL	NULL	8	5	0.125
+rhonda's possession	sewing machine	1	1	2	2	NULL	NULL	NULL	291	163	0.001718213058419244
+rhonda's possession	jewelry	1	1	2	2	NULL	NULL	NULL	7848	1759	0.00006371049949031601
+rhone grape	southern rhone grape	1	1	8	8	0.500000000000	NULL	NULL	2	2	0.0625
+rhone grape	Ugni Blanc	1	1	8	8	0.500000000000	NULL	NULL	10	9	0.0125
+rhone grape	Roussanne grown on the cool slopes of the Luberon Mountains in the south of France	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+rhone grape	syrah	1	1	8	8	0.500000000000	NULL	NULL	326	135	0.0003834355828220859
+rhone grape	Bourboulenc	1	1	8	8	0.500000000000	NULL	NULL	3	3	0.041666666666666664
+rhone grape	Grenache	1	1	8	8	0.500000000000	NULL	NULL	134	66	0.0009328358208955224
+rhone grape	Grenache Blanc	1	1	8	8	0.500000000000	NULL	NULL	6	5	0.020833333333333332
+rhone grape	Mourvedre	1	1	8	8	0.500000000000	NULL	NULL	40	20	0.003125
+rhone style wine	Syrah	1	1	1	1	NULL	NULL	NULL	326	135	0.003067484662576687
+rhone valley variety	Roussanne	1	1	3	3	0.333333333333	NULL	NULL	18	15	0.018518518518518517
+rhone valley variety	Viognier	1	1	3	3	0.333333333333	NULL	NULL	154	74	0.0021645021645021645
+rhone valley variety	Grenache	1	1	3	3	0.333333333333	NULL	NULL	134	66	0.0024875621890547263
+rhone varietal	Syrah	12	12	28	8	1.000000000000	NULL	NULL	326	135	0.015775635407537247
+rhone varietal	Viognier	5	5	28	8	1.000000000000	NULL	NULL	154	74	0.0057977736549165125
+rhone varietal	Grenache	5	5	28	8	1.000000000000	NULL	NULL	134	66	0.006663113006396589
+rhone varietal	Cinsault	2	2	28	8	1.000000000000	NULL	NULL	22	14	0.006493506493506493
+rhone varietal	outstanding rhone varietal	1	1	28	8	1.000000000000	NULL	NULL	2	2	0.017857142857142856
+rhone varietal	Petite Sirah	1	1	28	8	1.000000000000	NULL	NULL	27	21	0.0013227513227513227
+rhone varietal	Carignan	1	1	28	8	1.000000000000	NULL	NULL	24	17	0.001488095238095238
+rhone varietal	Mouvedre	1	1	28	8	1.000000000000	NULL	NULL	3	3	0.011904761904761904
+rhone variety	Grenache	6	6	29	13	0.900000000000	NULL	NULL	134	66	0.009264024704065878
+rhone variety	Syrah	5	5	29	13	0.900000000000	NULL	NULL	326	135	0.002644383329807489
+rhone variety	Viognier	3	3	29	13	0.900000000000	NULL	NULL	154	74	0.0020152261531571876
+rhone variety	Mourvedre	3	3	29	13	0.900000000000	NULL	NULL	40	20	0.007758620689655172
+rhone variety	Carignane	2	2	29	13	0.900000000000	NULL	NULL	11	9	0.012539184952978056
+rhone variety	Marsanne	2	2	29	13	0.900000000000	NULL	NULL	26	17	0.005305039787798408
+rhone variety	Roussanne	2	2	29	13	0.900000000000	NULL	NULL	18	15	0.007662835249042145
+rhone variety	traditional rhone variety	1	1	29	13	0.900000000000	NULL	NULL	2	2	0.017241379310344827
+rhone variety	Rousanne	1	1	29	13	0.900000000000	NULL	NULL	7	6	0.0049261083743842365
+rhone variety	Riesling	1	1	29	13	0.900000000000	NULL	NULL	548	184	0.00006292474200855777
+rhone variety	Cinsault	1	1	29	13	0.900000000000	NULL	NULL	22	14	0.001567398119122257
+rhone variety	spicy Grenache	1	1	29	13	0.900000000000	NULL	NULL	1	1	0.034482758620689655
+rhone variety	red rhone variety	1	1	29	13	0.900000000000	NULL	NULL	2	2	0.017241379310344827
+Rhone varities	Syrah	1	1	2	2	0.400000000000	NULL	NULL	326	135	0.0015337423312883436
+Rhone varities	Viognier	1	1	2	2	0.400000000000	NULL	NULL	154	74	0.003246753246753247
+rhone wine	Grenache	1	1	4	4	NULL	NULL	NULL	134	66	0.0018656716417910447
+rhone wine	Roussane	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhone wine	Viognier	1	1	4	4	NULL	NULL	NULL	154	74	0.0016233766233766235
+rhone wine	famous rhone wine	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhone-style wine	marsanne	1	1	1	1	1.000000000000	NULL	NULL	26	17	0.038461538461538464
+rhotic accent	Scottish	1	0	4	4	NULL	NULL	NULL	64	39	0.00390625
+rhotic accent	Irish	1	0	4	4	NULL	NULL	NULL	397	169	0.0006297229219143577
+rhotic accent	mainstream American accent	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+rhotic accent	General American	1	1	4	4	NULL	NULL	NULL	10	5	0.025
+rhotic dialect	General American	4	3	5	2	1.000000000000	NULL	NULL	10	5	0.32
+rhotic dialect	Canadian English	1	1	5	2	1.000000000000	NULL	NULL	8	7	0.025
+rhotic speaker	English Westcountry	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHPI partner	Rural Health Resource Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHPS policy	homework	1	1	1	1	NULL	NULL	NULL	602	262	0.0016611295681063123
+RHRC task	promoting the RHPI project in the areas of small rural hospital performance improvement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+RHRC task	Web site	1	1	2	2	NULL	NULL	NULL	1093	552	0.0004574565416285453
+rhroughavariery ofmediaring mechanism	lead exposure insubsrandard housing	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHS	HOBr	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+RHS action	retract	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+RHS journal	Plantsman	1	1	1	1	NULL	NULL	NULL	1	1	1
+RHS show	Hampton Court	1	1	1	1	1.000000000000	NULL	NULL	45	37	0.022222222222222223
+rhubarb	Rheum palmatum	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+rhubarb event	rhubarb deserts at the church supper	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhubarb event	rhubarb tasting during the quilt show	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhubarb variety	heirloom Victoria	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhuematoid arthristis topical cream	Icy Hot	1	1	1	1	1.000000000000	NULL	NULL	52	31	0.019230769230769232
+rhumba artist	Alfredo Mos	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Rhumbas	Yambu	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Rhumbas	Guaguanco	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+rhus poisonous plant	poison ivy	1	1	2	2	0.500000000000	NULL	NULL	409	160	0.0012224938875305623
+rhus poisonous plant	poison sumac	1	1	2	2	0.500000000000	NULL	NULL	33	16	0.015151515151515152
+rhym oriented music	better rap	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhyme	Miss Mary Mack	2	2	29	27	0.500000000000	NULL	NULL	2	1	0.06896551724137931
+rhyme	Hail Marry	2	2	29	27	0.500000000000	NULL	NULL	2	1	0.06896551724137931
+rhyme	Little Miss Muffet	1	1	29	27	0.500000000000	NULL	NULL	15	11	0.0022988505747126436
+rhyme	cat	1	1	29	27	0.500000000000	NULL	NULL	6578	1177	0.000005242134177666412
+rhyme	common nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	trite	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	classic nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	Three Little Kittens	1	1	29	27	0.500000000000	NULL	NULL	3	3	0.011494252873563218
+rhyme	Three Blind Mice	1	1	29	27	0.500000000000	NULL	NULL	13	11	0.002652519893899204
+rhyme	american nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	aloud nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	5 little teddy bear	1	1	29	27	0.500000000000	NULL	NULL	1	1	0.034482758620689655
+rhyme	Namby Pamby Jack a Dandy	1	1	29	27	0.500000000000	NULL	NULL	1	1	0.034482758620689655
+rhyme	5 Currant Buns	1	1	29	27	0.500000000000	NULL	NULL	1	1	0.034482758620689655
+rhyme	indict	1	1	29	27	0.500000000000	NULL	NULL	15	4	0.0022988505747126436
+rhyme	Humpty Dumpty	1	1	29	27	0.500000000000	NULL	NULL	47	28	0.0007336757153338225
+rhyme	sing-song nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	showcasing well-loved nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	mother goose nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	Grand Old Duke of York	1	1	29	27	0.500000000000	NULL	NULL	1	1	0.034482758620689655
+rhyme	racist nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	63	44	0.0005473453749315818
+rhyme	dreamy nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme	teddy bear rhyme	1	1	29	27	0.500000000000	NULL	NULL	1	1	0.034482758620689655
+rhyme	incy wincy spider	1	1	29	27	0.500000000000	NULL	NULL	6	5	0.005747126436781609
+rhyme	Hickory Dickory Dock	1	1	29	27	0.500000000000	NULL	NULL	8	6	0.004310344827586207
+rhyme	popular nursery rhyme	1	1	29	27	0.500000000000	NULL	NULL	2	2	0.017241379310344827
+rhyme scheme	traditional rhyme scheme	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhyme scheme	simple rhyme scheme	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhyme scheme	abbe	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+rhyme scheme	second	1	1	4	4	NULL	NULL	NULL	209	117	0.0011961722488038277
+rhyme star	Mos Def	1	1	6	6	0.666666666666	NULL	NULL	211	78	0.0007898894154818325
+rhyme star	RZA	1	1	6	6	0.666666666666	NULL	NULL	45	26	0.0037037037037037034
+rhyme star	Raekwon	1	1	6	6	0.666666666666	NULL	NULL	40	16	0.004166666666666667
+rhyme star	Ludacris	1	1	6	6	0.666666666666	NULL	NULL	325	112	0.0005128205128205128
+rhyme star	ODB	1	1	6	6	0.666666666666	NULL	NULL	14	12	0.011904761904761904
+rhyme star	Q-Tip	1	1	6	6	0.666666666666	NULL	NULL	44	30	0.0037878787878787876
+rhymed poetry	sonnet	1	1	1	1	NULL	NULL	NULL	179	72	0.00558659217877095
+rhymed verse form	limerick	1	1	2	2	NULL	NULL	NULL	103	45	0.0048543689320388345
+rhymed verse form	clerihews	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhymesayers mainstay	Atmosphere	3	3	3	1	NULL	NULL	NULL	444	206	0.006756756756756757
+rhyming book	nursery rhyme	1	1	2	2	0.500000000000	NULL	NULL	63	44	0.007936507936507936
+rhyming book	Dr. Seuss book	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+rhyming dictionary	Scholastic Rhyming Dictionary	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhyming drug	Meridia	1	1	3	3	NULL	NULL	NULL	125	43	0.0026666666666666666
+rhyming drug	Xenical	1	1	3	3	NULL	NULL	NULL	125	53	0.0026666666666666666
+rhyming drug	Wellbutrin	1	1	3	3	NULL	NULL	NULL	271	70	0.0012300123001230013
+rhyming name	Jack Black	1	1	2	2	NULL	NULL	NULL	68	29	0.007352941176470588
+rhyming name	Sue Blue	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhyming name family newsletter name	Hurds Words	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhyming poet	Robert Frost	1	1	2	2	0.500000000000	NULL	NULL	90	42	0.005555555555555556
+rhyming poet	Carl Sandburg	1	1	2	2	0.500000000000	NULL	NULL	27	14	0.018518518518518517
+rhyming slang	cockney rhyming slang	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhyming story	great rhyming story	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhyming verse	Lonely Hearts	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+rhyming verse	Being Boring	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+rhyming word	happy-sounding rhyming word	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhyming, rhythmic book	Dr. Seuss	1	1	1	1	NULL	NULL	NULL	63	41	0.015873015873015872
+rhyniophytes	Horneophyton	2	2	7	5	1.000000000000	NULL	NULL	4	3	0.14285714285714285
+rhyniophytes	Aglaophyton	2	2	7	5	1.000000000000	NULL	NULL	6	5	0.09523809523809523
+rhyniophytes	Cooksonia	1	1	7	5	1.000000000000	NULL	NULL	8	8	0.017857142857142856
+rhyniophytes	Cooksonia caledonica	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+rhyniophytes	Rhynia	1	1	7	5	1.000000000000	NULL	NULL	12	5	0.011904761904761904
+rhyolite dome	White Mountain	1	1	2	2	0.500000000000	NULL	NULL	9	9	0.05555555555555555
+rhyolite dome	Faywood Rhyolite	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+rhyolite dome volcano	East Butte	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhyolite dome volcano	Big Southern Butte	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Rhyolites	obsidian	2	1	3	2	0.500000000000	NULL	NULL	241	123	0.0055325034578146606
+Rhyolites	pitchstone	1	1	3	2	0.500000000000	NULL	NULL	3	2	0.1111111111111111
+rhyolitic caldera complex	Yellowstone Caldera	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rhyolitic center	Long Valley	1	1	1	1	0.333333333333	NULL	NULL	9	9	0.1111111111111111
+rhyolitic composition	Butte porphyry favorfonnation of biotite over hornblende	1	0	1	1	NULL	NULL	NULL	1	1	1
+rhyolitic dome	Glass Mountain	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhyolitic intrusion	dike	1	1	1	1	NULL	NULL	NULL	372	194	0.002688172043010753
+rhythem part	guitar	1	1	2	2	NULL	NULL	NULL	2394	536	0.00020885547201336674
+rhythem part	sequenced synths	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhythm	cumbia	14	14	291	178	0.582524271844	NULL	NULL	120	55	0.00561282932416953
+rhythm	salsa	13	13	291	178	0.582524271844	NULL	NULL	1307	502	0.00044434278021859565
+rhythm	Merengue	11	11	291	178	0.582524271844	NULL	NULL	248	84	0.0016766433876510363
+rhythm	tango	6	5	291	178	0.582524271844	NULL	NULL	403	134	0.0003069760302883017
+rhythm	Rock	6	6	291	178	0.582524271844	NULL	NULL	5667	1843	0.000021830128852335553
+rhythm	hip hop	5	5	291	178	0.582524271844	NULL	NULL	588	178	0.00014610655258667042
+rhythm	samba	5	4	291	178	0.582524271844	NULL	NULL	340	169	0.0002526783909440065
+rhythm	atrial fibrillation	4	4	291	178	0.582524271844	NULL	NULL	552	206	0.00009960655411126052
+rhythm	triplet	4	4	291	178	0.582524271844	NULL	NULL	36	18	0.0015273004963726614
+rhythm	Mambo	4	4	291	178	0.582524271844	NULL	NULL	174	87	0.00031599320614606786
+rhythm	jazz	4	4	291	178	0.582524271844	NULL	NULL	1810	522	0.00003037724744166619
+rhythm	choro	3	2	291	178	0.582524271844	NULL	NULL	9	7	0.003436426116838488
+rhythm	Bolero	3	3	291	178	0.582524271844	NULL	NULL	64	41	0.0004832474226804124
+rhythm	son	3	3	291	178	0.582524271844	NULL	NULL	137	80	0.00022575062081420724
+rhythm	meringue	3	3	291	178	0.582524271844	NULL	NULL	64	41	0.0004832474226804124
+rhythm	polymorphic VT	3	3	291	178	0.582524271844	NULL	NULL	8	3	0.003865979381443299
+rhythm	Blues	3	2	291	178	0.582524271844	NULL	NULL	42	69	0.0007363770250368188
+rhythm	Maracatu	3	3	291	178	0.582524271844	NULL	NULL	11	9	0.0028116213683223993
+rhythm	Rumba	3	3	291	178	0.582524271844	NULL	NULL	163	73	0.00018974131933464043
+rhythm	circannual	3	1	291	178	0.582524271844	NULL	NULL	4	2	0.007731958762886598
+rhythm	circadian	3	1	291	178	0.582524271844	NULL	NULL	7	5	0.004418262150220913
+rhythm	danzon	3	3	291	178	0.582524271844	NULL	NULL	11	9	0.0028116213683223993
+rhythm	eighth note	3	2	291	178	0.582524271844	NULL	NULL	18	10	0.001718213058419244
+rhythm	diurnal	2	1	291	178	0.582524271844	NULL	NULL	12	8	0.001145475372279496
+rhythm	Flamenco	2	2	291	178	0.582524271844	NULL	NULL	130	72	0.00010573618821041502
+rhythm	Swing	2	2	291	178	0.582524271844	NULL	NULL	961	415	0.000014303542629920865
+rhythm	songo	2	2	291	178	0.582524271844	NULL	NULL	5	4	0.00274914089347079
+rhythm	atrial flutter	2	2	291	178	0.582524271844	NULL	NULL	81	43	0.00016970005515251792
+rhythm	bossa nova	2	1	291	178	0.582524271844	NULL	NULL	41	21	0.0003352610845696086
+rhythm	Joropo	2	2	291	178	0.582524271844	NULL	NULL	3	2	0.004581901489117984
+rhythm	vals	2	2	291	178	0.582524271844	NULL	NULL	14	8	0.0009818360333824251
+rhythm	Foxtrot	2	2	291	178	0.582524271844	NULL	NULL	144	62	0.00009545628102329134
+rhythm	ballad	2	2	291	178	0.582524271844	NULL	NULL	116	58	0.00011849745230477545
+rhythm	baroque	2	1	291	178	0.582524271844	NULL	NULL	120	56	0.0001145475372279496
+rhythm	music of The Beatles	2	2	291	178	0.582524271844	NULL	NULL	5	2	0.00274914089347079
+rhythm	pulseless electrical activity	2	2	291	178	0.582524271844	NULL	NULL	5	4	0.00274914089347079
+rhythm	Waltz	2	2	291	178	0.582524271844	NULL	NULL	455	158	0.000030210339488690005
+rhythm	ultradian	2	2	291	178	0.582524271844	NULL	NULL	3	2	0.004581901489117984
+rhythm	afro	2	2	291	178	0.582524271844	NULL	NULL	19	9	0.0007234581298607343
+rhythm	paradiddle	2	1	291	178	0.582524271844	NULL	NULL	4	3	0.003436426116838488
+rhythm	reggaeton	2	2	291	178	0.582524271844	NULL	NULL	68	37	0.00020214271275520516
+rhythm	ventricular fibrillation	2	2	291	178	0.582524271844	NULL	NULL	124	68	0.0001108524553818867
+rhythm	belly dance	2	2	291	178	0.582524271844	NULL	NULL	40	24	0.00034364261168384877
+rhythm	Cha-Cha	2	2	291	178	0.582524271844	NULL	NULL	53	28	0.00025935291447837645
+rhythm	plena	2	2	291	178	0.582524271844	NULL	NULL	15	12	0.0009163802978235968
+rhythm	Reggae	2	2	291	178	0.582524271844	NULL	NULL	268	81	0.00005128994204236549
+rhythm	sixteenth note	2	1	291	178	0.582524271844	NULL	NULL	9	7	0.0015273004963726614
+rhythm	chamame	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	gender-specific normal infradian rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Beledi	1	1	291	178	0.582524271844	NULL	NULL	4	2	0.000859106529209622
+rhythm	Balada	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	background music	1	1	291	178	0.582524271844	NULL	NULL	134	79	0.000025644971021182746
+rhythm	basic garifuna rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Ashiko	1	1	291	178	0.582524271844	NULL	NULL	3	4	0.001145475372279496
+rhythm	bomba	1	1	291	178	0.582524271844	NULL	NULL	18	17	0.00019091256204658267
+rhythm	Beguine	1	1	291	178	0.582524271844	NULL	NULL	4	4	0.000859106529209622
+rhythm	blended traditional afro-rican rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Jah Know	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Jive	1	1	291	178	0.582524271844	NULL	NULL	95	55	0.00003617290649303671
+rhythm	Largo	1	1	291	178	0.582524271844	NULL	NULL	36	20	0.00009545628102329134
+rhythm	Kizomba	1	1	291	178	0.582524271844	NULL	NULL	6	6	0.000572737686139748
+rhythm	lethal cardiac rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	macumba	1	1	291	178	0.582524271844	NULL	NULL	12	10	0.000286368843069874
+rhythm	herbarium placed on a raw cotton poplin	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	infradian rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Vallenato	1	1	291	178	0.582524271844	NULL	NULL	10	10	0.00034364261168384877
+rhythm	up-to-date dance rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	colombiana	1	0	291	178	0.582524271844	NULL	NULL	5	4	0.0006872852233676975
+rhythm	syncopation	1	1	291	178	0.582524271844	NULL	NULL	33	26	0.00010413412475268145
+rhythm	african and latin american rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	festejo	1	1	291	178	0.582524271844	NULL	NULL	8	7	0.000429553264604811
+rhythm	festive and lusty afro-peruvian rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	endogenous circadian rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	dancing	1	1	291	178	0.582524271844	NULL	NULL	3281	887	0.0000010473715686798194
+rhythm	daily body rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	dance rhythms mixing crotchet	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	scn-dependent biological rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	weekly Sabbath	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	recorded by the use of a rosary	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	quaver	1	1	291	178	0.582524271844	NULL	NULL	8	7	0.000429553264604811
+rhythm	quarter note	1	1	291	178	0.582524271844	NULL	NULL	19	11	0.00018086453246518358
+rhythm	polymorphic ventricular tachycardia	1	1	291	178	0.582524271844	NULL	NULL	7	6	0.0004909180166912126
+rhythm	Moderato	1	1	291	178	0.582524271844	NULL	NULL	8	6	0.000429553264604811
+rhythm	Muff-Muff	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Normal Sinus Rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	old-fashioned World War II Swing rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	afro-brazilian dance rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	afro-cuban folkloric percussion general rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	abnormally fast heart rhythm	1	1	291	178	0.582524271844	NULL	NULL	3	3	0.001145475372279496
+rhythm	Allegro	1	1	291	178	0.582524271844	NULL	NULL	41	31	0.00008381527114240215
+rhythm	essential jazz rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	dance rhythms mixing quarter note	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Tumbao	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	traditional asante rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	complicated melodic rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	theta	1	1	291	178	0.582524271844	NULL	NULL	40	28	0.00008591065292096219
+rhythm	SVT	1	1	291	178	0.582524271844	NULL	NULL	10	8	0.00034364261168384877
+rhythm	guaracha	1	1	291	178	0.582524271844	NULL	NULL	11	7	0.00031240237425804435
+rhythm	Banda	1	1	291	178	0.582524271844	NULL	NULL	5	5	0.0006872852233676975
+rhythm	ballroom dance rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	asystole	1	1	291	178	0.582524271844	NULL	NULL	14	13	0.0002454590083456063
+rhythm	regular sleeping rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	popular ballroom rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	popular latin rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	pathologic electrical rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	organic afro-cuban and brazillian rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	non-sustained ventricular tachycardia	1	1	291	178	0.582524271844	NULL	NULL	4	3	0.000859106529209622
+rhythm	Sao Bento Grande	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	ventricular escape rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Bambuco	1	1	291	178	0.582524271844	NULL	NULL	4	4	0.000859106529209622
+rhythm	breath	1	1	291	178	0.582524271844	NULL	NULL	117	73	0.000029371163391781947
+rhythm	bossa	1	1	291	178	0.582524271844	NULL	NULL	5	5	0.0006872852233676975
+rhythm	Boogie Woogie	1	1	291	178	0.582524271844	NULL	NULL	13	11	0.0002643404705260375
+rhythm	cardiac arrest rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Cha Cha Cha	1	1	291	178	0.582524271844	NULL	NULL	34	19	0.00010107135637760258
+rhythm	Junkanoo	1	1	291	178	0.582524271844	NULL	NULL	8	8	0.000429553264604811
+rhythm	lapo kabwit	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	left hand rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	legendary popular music rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	gross physiological rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	guajira	1	0	291	178	0.582524271844	NULL	NULL	7	5	0.0004909180166912126
+rhythm	Two Step	1	1	291	178	0.582524271844	NULL	NULL	10	7	0.00034364261168384877
+rhythm	classic salsa	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	tango brasileiro	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	ecg strip rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	diapause	1	1	291	178	0.582524271844	NULL	NULL	10	10	0.00034364261168384877
+rhythm	disorganized supraventricular rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	day-long circadian rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	Currulao	1	1	291	178	0.582524271844	NULL	NULL	3	3	0.001145475372279496
+rhythm	8 Beat	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	8 beat soft & hard rock	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	middle eastern rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	War Dem	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	sextuplet	1	1	291	178	0.582524271844	NULL	NULL	4	4	0.000859106529209622
+rhythm	ska	1	1	291	178	0.582524271844	NULL	NULL	62	28	0.00005542622769094335
+rhythm	Semba	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	rhythm of thought	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	robust biochemical rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	rhumba	1	1	291	178	0.582524271844	NULL	NULL	20	13	0.00017182130584192438
+rhythm	Puya	1	1	291	178	0.582524271844	NULL	NULL	8	8	0.000429553264604811
+rhythm	rapid atrial rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	rap	1	1	291	178	0.582524271844	NULL	NULL	316	120	0.00001087476619252686
+rhythm	persistent irregular heart rhythm	1	1	291	178	0.582524271844	NULL	NULL	3	3	0.001145475372279496
+rhythm	lando	1	1	291	178	0.582524271844	NULL	NULL	12	12	0.000286368843069874
+rhythm	hibernation	1	1	291	178	0.582524271844	NULL	NULL	64	43	0.000053694158075601374
+rhythm	heavy drumming	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	iambic pentameter	1	1	291	178	0.582524271844	NULL	NULL	3	3	0.001145475372279496
+rhythm	brazilian original music rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Brazilian Samba	1	1	291	178	0.582524271844	NULL	NULL	12	9	0.000286368843069874
+rhythm	body's core rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	atrial ectopic rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	atrial fl utter	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	atrial rhythms with aberrant conduction	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	atrial fi brillation	1	1	291	178	0.582524271844	NULL	NULL	3	3	0.001145475372279496
+rhythm	chaotic heart rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	traditional latin american rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	circadian rhythm circadian rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	composition popular rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	3-2 Rumba Clave	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Afro-Cuban	1	1	291	178	0.582524271844	NULL	NULL	15	10	0.0002290950744558992
+rhythm	fast heart rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	distinctive latin rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	dotted-eighth sixteenth	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	D. Guetta	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Cumbia Salsa ChaChaCh Funk	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Samba Reggae	1	1	291	178	0.582524271844	NULL	NULL	3	3	0.001145475372279496
+rhythm	Sarsparilla	1	1	291	178	0.582524271844	NULL	NULL	4	3	0.000859106529209622
+rhythm	round dance rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	Ranchera	1	1	291	178	0.582524271844	NULL	NULL	9	7	0.00038182512409316535
+rhythm	sixteenth dotted-eighth	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	sleep-wake cycle	1	1	291	178	0.582524271844	NULL	NULL	11	8	0.00031240237425804435
+rhythm	Norteno	1	1	291	178	0.582524271844	NULL	NULL	5	5	0.0006872852233676975
+rhythm	non-shockable high rate pediatric rhythm	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	modern sophisticated rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	modern brazilian rhythm	1	1	291	178	0.582524271844	NULL	NULL	2	2	0.001718213058419244
+rhythm	ones in Stereo Love	1	1	291	178	0.582524271844	NULL	NULL	1	1	0.003436426116838488
+rhythm	pasacalles	1	1	291	178	0.582524271844	NULL	NULL	6	5	0.000572737686139748
+rhythm	Porro	1	1	291	178	0.582524271844	NULL	NULL	5	5	0.0006872852233676975
+rhythm & blue haven	Howard in Washington	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+rhythm & blue haven	Apollo in New York	2	2	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+rhythm & blue haven	Regal in Chicago	2	2	6	3	NULL	NULL	NULL	5	2	0.13333333333333333
+rhythm & blue singer	Aretha Franklin	3	3	6	3	NULL	NULL	NULL	479	152	0.003131524008350731
+rhythm & blue singer	Patti LaBelle	2	2	6	3	NULL	NULL	NULL	161	65	0.004140786749482401
+rhythm & blue singer	Tina Turner	1	1	6	3	NULL	NULL	NULL	216	93	0.0007716049382716049
+rhythm abnormality	sinus bradycardia	3	3	21	13	0.500000000000	NULL	NULL	35	20	0.012244897959183673
+rhythm abnormality	atrial fibrillation	3	3	21	13	0.500000000000	NULL	NULL	552	206	0.0007763975155279503
+rhythm abnormality	various cardiac chamber	2	2	21	13	0.500000000000	NULL	NULL	3	2	0.06349206349206349
+rhythm abnormality	fibrillation	2	2	21	13	0.500000000000	NULL	NULL	32	16	0.005952380952380952
+rhythm abnormality	single premature atrial	2	2	21	13	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+rhythm abnormality	ventricular tachycardia	2	2	21	13	0.500000000000	NULL	NULL	174	87	0.0010946907498631637
+rhythm abnormality	ventricular extrasystoles	1	1	21	13	0.500000000000	NULL	NULL	2	2	0.023809523809523808
+rhythm abnormality	ventricular extra-systoles	1	1	21	13	0.500000000000	NULL	NULL	1	1	0.047619047619047616
+rhythm abnormality	complete AV block	1	1	21	13	0.500000000000	NULL	NULL	4	4	0.011904761904761904
+rhythm abnormality	tachycardia	1	1	21	13	0.500000000000	NULL	NULL	648	259	0.00007348618459729571
+rhythm abnormality	supraventricular arrhythmia	1	1	21	13	0.500000000000	NULL	NULL	10	5	0.0047619047619047615
+rhythm abnormality	supra-ventricular arrhythmia	1	1	21	13	0.500000000000	NULL	NULL	1	1	0.047619047619047616
+rhythm abnormality	sick sinus syndrome	1	1	21	13	0.500000000000	NULL	NULL	29	18	0.0016420361247947454
+rhythm action game	single-player rhythm action game	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+rhythm action game	Rock Band	1	1	2	2	NULL	NULL	NULL	231	84	0.0021645021645021645
+rhythm band	so-called ``rhythm band''	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhythm band	so-called rhythm band	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+rhythm band instrument	guiro	1	1	1	1	1.000000000000	NULL	NULL	24	15	0.041666666666666664
+rhythm change	atrial fibrillation	2	2	2	1	NULL	NULL	NULL	552	206	0.0036231884057971015
+rhythm characteristic	amplitude	1	1	1	1	NULL	NULL	NULL	523	243	0.0019120458891013384
+rhythm control medication	ibutilide	2	2	2	1	1.000000000000	NULL	NULL	17	11	0.11764705882352941
+rhythm dance	rumba	1	1	2	2	0.500000000000	NULL	NULL	163	73	0.003067484662576687
+rhythm dance	cha cha cha	1	1	2	2	0.500000000000	NULL	NULL	34	19	0.014705882352941176
+rhythm disorder	atrial fibrillation	3	3	7	5	0.500000000000	NULL	NULL	552	206	0.0023291925465838506
+rhythm disorder	inherited rhythm disorder	1	1	7	5	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+rhythm disorder	inherited cardiac rhythm disorder	1	1	7	5	0.500000000000	NULL	NULL	3	3	0.047619047619047616
+rhythm disorder	alternations between irregular	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+rhythm disorder	eartrateand rhythm disorder	1	1	7	5	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+rhythm disturbance	atrial fibrillation	7	7	37	25	0.705882352941	NULL	NULL	552	206	0.002399138268703486
+rhythm disturbance	paroxysmal atrial fibrillation	2	2	37	25	0.705882352941	NULL	NULL	5	4	0.021621621621621623
+rhythm disturbance	paroxysmal supraventricular tachycardia	2	2	37	25	0.705882352941	NULL	NULL	9	7	0.012012012012012012
+rhythm disturbance	sick sinus syndrome	2	2	37	25	0.705882352941	NULL	NULL	29	18	0.0037278657968313144
+rhythm disturbance	tachygastria	2	1	37	25	0.705882352941	NULL	NULL	8	4	0.013513513513513514
+rhythm disturbance	ventricular tachycardia	2	2	37	25	0.705882352941	NULL	NULL	174	87	0.0006213109661385524
+rhythm disturbance	sinus bradycardia	2	2	37	25	0.705882352941	NULL	NULL	35	20	0.003088803088803089
+rhythm disturbance	sinus arrhythmia	1	1	37	25	0.705882352941	NULL	NULL	11	9	0.002457002457002457
+rhythm disturbance	ventricular tachyarrhythmias	1	1	37	25	0.705882352941	NULL	NULL	6	4	0.0045045045045045045
+rhythm disturbance	premature ventricular contraction	1	1	37	25	0.705882352941	NULL	NULL	22	16	0.0012285012285012285
+rhythm disturbance	pathologically relevant rhythm disturbance	1	1	37	25	0.705882352941	NULL	NULL	2	2	0.013513513513513514
+rhythm disturbance	postoperative rhythm disturbance	1	1	37	25	0.705882352941	NULL	NULL	2	2	0.013513513513513514
+rhythm disturbance	prolonged tachyarrhythmia in the presence of ischaemic heart disease	1	1	37	25	0.705882352941	NULL	NULL	1	1	0.02702702702702703
+rhythm disturbance	sustained ventricular tachycardia	1	1	37	25	0.705882352941	NULL	NULL	13	8	0.002079002079002079
+rhythm disturbance	coronary artery disease	1	1	37	25	0.705882352941	NULL	NULL	631	215	0.00004283205551034395
+rhythm disturbance	AV block	1	1	37	25	0.705882352941	NULL	NULL	8	8	0.0033783783783783786
+rhythm disturbance	wandering pacemaker	1	1	37	25	0.705882352941	NULL	NULL	2	2	0.013513513513513514
+rhythm disturbance	atrial arrhythmia	1	1	37	25	0.705882352941	NULL	NULL	10	7	0.002702702702702703
+rhythm disturbance	atrial flutter	1	1	37	25	0.705882352941	NULL	NULL	81	43	0.000333667000333667
+rhythm disturbance	jet lag	1	1	37	25	0.705882352941	NULL	NULL	78	42	0.0003465003465003465
+rhythm disturbance	junctional ectopic tachycardia	1	1	37	25	0.705882352941	NULL	NULL	1	1	0.02702702702702703
+rhythm disturbance	extrasystolic arrhythmia	1	1	37	25	0.705882352941	NULL	NULL	1	1	0.02702702702702703
+rhythm disturbance	complex ventricular arrhythmia	1	1	37	25	0.705882352941	NULL	NULL	1	1	0.02702702702702703
+rhythm disturbance	symptomatic bradycardia	1	1	37	25	0.705882352941	NULL	NULL	4	4	0.006756756756756757
+rhythm disturbance	sinus arrest	1	1	37	25	0.705882352941	NULL	NULL	7	6	0.003861003861003861
+rhythm element	loop	1	1	1	1	NULL	NULL	NULL	677	421	0.0014771048744460858
+rhythm game	Rock Band	8	8	24	10	1.000000000000	NULL	NULL	231	84	0.011544011544011544
+rhythm game	Guitar Hero	7	7	24	10	1.000000000000	NULL	NULL	338	105	0.00604043392504931
+rhythm game	DDR	2	2	24	10	1.000000000000	NULL	NULL	86	46	0.001937984496124031
+rhythm game	PaRappa the Rapper	1	1	24	10	1.000000000000	NULL	NULL	10	7	0.004166666666666667
+rhythm game	Elite Beat Agents	1	1	24	10	1.000000000000	NULL	NULL	4	4	0.010416666666666666
+rhythm game	Leaf Trombone	1	1	24	10	1.000000000000	NULL	NULL	3	2	0.013888888888888888
+rhythm game	musical rhythm game	1	1	24	10	1.000000000000	NULL	NULL	1	1	0.041666666666666664
+rhythm game	popular rhythm game	1	1	24	10	1.000000000000	NULL	NULL	1	1	0.041666666666666664
+rhythm game	Donkey Konga	1	1	24	10	1.000000000000	NULL	NULL	8	6	0.005208333333333333
+rhythm game	Frets on Fire	1	1	24	10	1.000000000000	NULL	NULL	4	4	0.010416666666666666
+rhythm guitar effect	distortion	1	1	1	1	NULL	NULL	NULL	476	220	0.0021008403361344537
+rhythm historical authority	St Augustine	1	1	3	3	1.000000000000	NULL	NULL	26	19	0.01282051282051282
+rhythm historical authority	Guido	1	1	3	3	1.000000000000	NULL	NULL	9	9	0.037037037037037035
+rhythm historical authority	Remigius	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+rhythm improv suggestion	Dm7b5 substituting for Fm	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythm instrument	tambourine	12	11	123	51	0.526315789473	NULL	NULL	262	87	0.004468441630981196
+rhythm instrument	drum	11	10	123	51	0.526315789473	NULL	NULL	1733	552	0.0005676513776101408
+rhythm instrument	rhythm stick	10	10	123	51	0.526315789473	NULL	NULL	52	18	0.015634771732332707
+rhythm instrument	bell	7	7	123	51	0.526315789473	NULL	NULL	1388	594	0.00028701295658489724
+rhythm instrument	wrist bell	7	6	123	51	0.526315789473	NULL	NULL	10	4	0.03983739837398374
+rhythm instrument	maraca	7	6	123	51	0.526315789473	NULL	NULL	162	64	0.0024590986650607246
+rhythm instrument	guitar	4	4	123	51	0.526315789473	NULL	NULL	2394	536	0.00005433638296282713
+rhythm instrument	piano	4	4	123	51	0.526315789473	NULL	NULL	2021	549	0.00006436481979861858
+rhythm instrument	finger cymbal	4	3	123	51	0.526315789473	NULL	NULL	37	10	0.003515710832784004
+rhythm instrument	castanet	3	1	123	51	0.526315789473	NULL	NULL	52	30	0.001407129455909944
+rhythm instrument	bongo	3	3	123	51	0.526315789473	NULL	NULL	124	58	0.0005900865460267507
+rhythm instrument	stick	3	3	123	51	0.526315789473	NULL	NULL	1132	366	0.00006463845557183488
+rhythm instrument	xylophone	3	2	123	51	0.526315789473	NULL	NULL	246	85	0.000297441998810232
+rhythm instrument	shaker	3	3	123	51	0.526315789473	NULL	NULL	245	117	0.00029865604778496767
+rhythm instrument	shaker bell	2	2	123	51	0.526315789473	NULL	NULL	2	1	0.016260162601626018
+rhythm instrument	claves	2	2	123	51	0.526315789473	NULL	NULL	30	14	0.0010840108401084013
+rhythm instrument	agogo	2	2	123	51	0.526315789473	NULL	NULL	9	5	0.003613369467028004
+rhythm instrument	bass	2	2	123	51	0.526315789473	NULL	NULL	1384	447	0.000023497344800037597
+rhythm instrument	wood block	2	2	123	51	0.526315789473	NULL	NULL	53	34	0.0006135910415707932
+rhythm instrument	guiro	2	2	123	51	0.526315789473	NULL	NULL	24	15	0.0013550135501355016
+rhythm instrument	triangle	2	2	123	51	0.526315789473	NULL	NULL	1711	617	0.000019006619055085934
+rhythm instrument	conga	1	1	123	51	0.526315789473	NULL	NULL	120	44	0.00006775067750677508
+rhythm instrument	spoon	1	1	123	51	0.526315789473	NULL	NULL	1041	423	0.00000780987636965707
+rhythm instrument	cymbal	1	1	123	51	0.526315789473	NULL	NULL	249	76	0.00003265092891892775
+rhythm instrument	indian rhythm instrument	1	1	123	51	0.526315789473	NULL	NULL	2	2	0.0040650406504065045
+rhythm instrument	gong	1	1	123	51	0.526315789473	NULL	NULL	146	63	0.000055685488361732936
+rhythm instrument	gentle rhythm instrument	1	1	123	51	0.526315789473	NULL	NULL	2	2	0.0040650406504065045
+rhythm instrument	recorder	1	1	123	51	0.526315789473	NULL	NULL	411	190	0.00001978121971000732
+rhythm instrument	rain stick	1	1	123	51	0.526315789473	NULL	NULL	21	16	0.0003871467286101433
+rhythm instrument	pan	1	1	123	51	0.526315789473	NULL	NULL	1034	472	0.0000078627478731267
+rhythm instrument	jingle bell	1	1	123	51	0.526315789473	NULL	NULL	22	25	0.00036954915003695497
+rhythm instrument	dried gourd	1	1	123	51	0.526315789473	NULL	NULL	3	3	0.002710027100271003
+rhythm instrument	cowbell	1	1	123	51	0.526315789473	NULL	NULL	68	34	0.00011956001912960307
+rhythm instrument	traditional rhythm instrument	1	1	123	51	0.526315789473	NULL	NULL	2	2	0.0040650406504065045
+rhythm instrument	banjo	1	1	123	51	0.526315789473	NULL	NULL	383	104	0.0000212273663206606
+rhythm instrument	bodhran	1	1	123	51	0.526315789473	NULL	NULL	20	15	0.00040650406504065046
+rhythm instrument	davul	1	1	123	51	0.526315789473	NULL	NULL	6	4	0.0013550135501355016
+rhythm instrument	metallophones	1	1	123	51	0.526315789473	NULL	NULL	16	9	0.0005081300813008131
+rhythm instrument	wooden block	1	1	123	51	0.526315789473	NULL	NULL	112	63	0.00007259001161440187
+rhythm instrument	keyboard	1	1	123	51	0.526315789473	NULL	NULL	4202	1048	0.000001934812303858403
+rhythm instrument	keyboard pad	1	1	123	51	0.526315789473	NULL	NULL	3	3	0.002710027100271003
+rhythm instrument	hand drum	1	1	123	51	0.526315789473	NULL	NULL	35	23	0.00023228803716608597
+rhythm instrument	cajon	1	1	123	51	0.526315789473	NULL	NULL	23	11	0.0003534817956875221
+rhythm instrument	triangles B. Read	1	1	123	51	0.526315789473	NULL	NULL	1	1	0.008130081300813009
+rhythm instrument	tambourine made from a disposable pie pan	1	1	123	51	0.526315789473	NULL	NULL	1	1	0.008130081300813009
+rhythm instrument	timbales	1	1	123	51	0.526315789473	NULL	NULL	14	6	0.000580720092915215
+rhythm instrument	sand block	1	1	123	51	0.526315789473	NULL	NULL	4	4	0.0020325203252032522
+rhythm instrument	washboard	1	1	123	51	0.526315789473	NULL	NULL	38	18	0.00021394950791613182
+rhythm instrument	wooden drum	1	1	123	51	0.526315789473	NULL	NULL	7	6	0.00116144018583043
+rhythm machine member	Kenny Flash Ferrell	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythm management device	pacemaker	2	2	3	2	NULL	NULL	NULL	977	270	0.0013647219379051517
+rhythm management device	implantable rhythm management device	1	1	3	2	NULL	NULL	NULL	3	3	0.1111111111111111
+rhythm measure	npvi	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythm parameter	power	1	1	1	1	NULL	NULL	NULL	4617	1701	0.00021659085986571366
+rhythm pattern	syncopation of certain song	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythm play pattern	intro	1	1	1	1	1.000000000000	NULL	NULL	33	28	0.030303030303030304
+rhythm project	Dancehall Latin	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythm reading permit habit	tapping a foot	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+rhythm reading permit habit	rapping a pencil	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhythm reading permit habit	drumming finger	1	1	4	4	1.000000000000	NULL	NULL	4	3	0.0625
+rhythm reading permit habit	clicking a pen	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+rhythm section player	bass	3	3	11	5	0.200000000000	NULL	NULL	1384	447	0.0005911718339464004
+rhythm section player	piano	3	3	11	5	0.200000000000	NULL	NULL	2021	549	0.0004048400881651747
+rhythm section player	guitar	2	2	11	5	0.200000000000	NULL	NULL	2394	536	0.000151894888736994
+rhythm section player	vibe	2	2	11	5	0.200000000000	NULL	NULL	126	51	0.002886002886002886
+rhythm section player	drum	1	1	11	5	0.200000000000	NULL	NULL	1733	552	0.00005245764045533232
+rhythm section technique	comping	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+rhythm section technique	voicings	1	1	3	3	1.000000000000	NULL	NULL	3	4	0.1111111111111111
+rhythm section technique	bass line	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+rhythm share facility	loos	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+rhythm share facility	floodlight	1	1	2	2	0.500000000000	NULL	NULL	96	62	0.005208333333333333
+rhythm sound	percussive sound	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rhythm style	old roots reggae	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhythm style	funk	1	1	3	3	NULL	NULL	NULL	296	80	0.0011261261261261261
+rhythm style	samba	1	1	3	3	NULL	NULL	NULL	340	169	0.000980392156862745
+rhythm-action game	Guitar Hero	1	1	1	1	NULL	NULL	NULL	338	105	0.0029585798816568047
+rhythm-action video game	Rock Band	1	1	1	1	NULL	NULL	NULL	231	84	0.004329004329004329
+rhythm-and-blue artist	description rhythm-and-blue artist	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhythm-and-blues act	O'Jays	1	1	2	2	1.000000000000	NULL	NULL	24	14	0.020833333333333332
+rhythm-and-blues act	Curtis Mayfield	1	1	2	2	1.000000000000	NULL	NULL	46	20	0.010869565217391304
+rhythm-and-blues artist	Temptations	3	3	6	4	NULL	NULL	NULL	237	76	0.006329113924050633
+rhythm-and-blues artist	Deniece Williams	1	1	6	4	NULL	NULL	NULL	7	5	0.023809523809523808
+rhythm-and-blues artist	Phillip Bailey of the rock group Earth	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+rhythm-and-blues artist	Gladys Knight	1	1	6	4	NULL	NULL	NULL	122	52	0.001366120218579235
+rhythm-and-blues musician	T-Bone Walker	1	1	7	7	0.600000000000	NULL	NULL	43	25	0.0033222591362126242
+rhythm-and-blues musician	Irma Thomas	1	1	7	7	0.600000000000	NULL	NULL	17	14	0.008403361344537815
+rhythm-and-blues musician	Muddy Waters	1	1	7	7	0.600000000000	NULL	NULL	263	92	0.0005431830526887561
+rhythm-and-blues musician	Ernie K-Doe	1	1	7	7	0.600000000000	NULL	NULL	3	3	0.047619047619047616
+rhythm-and-blues musician	Ink Spots	1	1	7	7	0.600000000000	NULL	NULL	20	14	0.007142857142857143
+rhythm-and-blues musician	Earl King	1	1	7	7	0.600000000000	NULL	NULL	6	4	0.023809523809523808
+rhythm-and-blues musician	Sam Cooke	1	1	7	7	0.600000000000	NULL	NULL	141	50	0.0010131712259371832
+rhythm-based game	Guitar Hero	2	2	3	2	NULL	NULL	NULL	338	105	0.0039447731755424065
+rhythm-based game	simple rhythm-based game	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+rhythm-matching music game	O2Jam	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+rhythm-related style	Afro-Cuban	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+rhythm-related style	Brazilian music	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+rhythmic accompaniment instrument	drums like the Bodhran	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+rhythmic accompaniment instrument	guitar	2	2	6	3	NULL	NULL	NULL	2394	536	0.000278473962684489
+rhythmic accompaniment instrument	piano	2	2	6	3	NULL	NULL	NULL	2021	549	0.00032986970146792015
+Rhythmic active touch	whisking	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+rhythmic activity	swimming	3	3	36	22	0.111111111111	NULL	NULL	15629	2556	0.000015995905048307635
+rhythmic activity	walking	3	3	36	22	0.111111111111	NULL	NULL	13109	2473	0.000019070867343046762
+rhythmic activity	dancing	3	3	36	22	0.111111111111	NULL	NULL	3281	887	0.00007619628162145687
+rhythmic activity	knitting	3	3	36	22	0.111111111111	NULL	NULL	1037	321	0.00024108003857280618
+rhythmic activity	aerobics	3	3	36	22	0.111111111111	NULL	NULL	1618	449	0.00015451174289245981
+rhythmic activity	spelling	2	2	36	22	0.111111111111	NULL	NULL	941	358	0.00011807769512339118
+rhythmic activity	sleep spindle	2	2	36	22	0.111111111111	NULL	NULL	6	5	0.018518518518518517
+rhythmic activity	choral reading	2	2	36	22	0.111111111111	NULL	NULL	54	23	0.0020576131687242796
+rhythmic activity	running	2	2	36	22	0.111111111111	NULL	NULL	5694	1097	0.000019513718143855128
+rhythmic activity	cycling	1	1	36	22	0.111111111111	NULL	NULL	5412	1129	0.000005132627083846596
+rhythmic activity	crocheting	1	1	36	22	0.111111111111	NULL	NULL	244	69	0.00011384335154826958
+rhythmic activity	dance	1	1	36	22	0.111111111111	NULL	NULL	5030	1458	0.00000552242102937928
+rhythmic activity	brisk walking	1	1	36	22	0.111111111111	NULL	NULL	1357	306	0.00002046999099320396
+rhythmic activity	jumping rope	1	1	36	22	0.111111111111	NULL	NULL	374	153	0.0000742721330956625
+rhythmic activity	sewing	1	1	36	22	0.111111111111	NULL	NULL	1498	514	0.000018543242842308262
+rhythmic activity	wide variety of game	1	1	36	22	0.111111111111	NULL	NULL	1	1	0.027777777777777776
+rhythmic activity	rowing	1	1	36	22	0.111111111111	NULL	NULL	1029	309	0.000026994924954108625
+rhythmic activity	cross-country skiing	1	1	36	22	0.111111111111	NULL	NULL	599	195	0.000046373585605639025
+rhythmic activity	Toradol steet value	1	1	36	22	0.111111111111	NULL	NULL	1	1	0.027777777777777776
+rhythmic activity	high impact dancing	1	1	36	22	0.111111111111	NULL	NULL	1	1	0.027777777777777776
+rhythmic activity	high-impact dancing	1	1	36	22	0.111111111111	NULL	NULL	1	1	0.027777777777777776
+rhythmic activity	relay	1	1	36	22	0.111111111111	NULL	NULL	910	373	0.000030525030525030525
+rhythmic aerobic activity	jogging	1	1	2	2	NULL	NULL	NULL	5294	999	0.00009444654325651681
+rhythmic aerobic activity	dancing	1	1	2	2	NULL	NULL	NULL	3281	887	0.00015239256324291374
+rhythmic and continuous activity	jogging	1	1	4	4	NULL	NULL	NULL	5294	999	0.000047223271628258404
+rhythmic and continuous activity	cycling	1	1	4	4	NULL	NULL	NULL	5412	1129	0.000046193643754619364
+rhythmic and continuous activity	cross country skiing	1	1	4	4	NULL	NULL	NULL	293	101	0.0008532423208191126
+rhythmic and continuous activity	rowing	1	1	4	4	NULL	NULL	NULL	1029	309	0.00024295432458697764
+rhythmic and harmonic tool	metric modulation	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhythmic and relaxing movement	Tai Chi	1	1	1	1	NULL	NULL	NULL	2052	679	0.0004873294346978557
+rhythmic and repetitive activity	bicycling	1	1	4	4	NULL	NULL	NULL	1567	445	0.0001595405232929164
+rhythmic and repetitive activity	sewing	1	1	4	4	NULL	NULL	NULL	1498	514	0.00016688918558077436
+rhythmic and repetitive activity	walking	1	1	4	4	NULL	NULL	NULL	13109	2473	0.000019070867343046762
+rhythmic and repetitive activity	knitting	1	1	4	4	NULL	NULL	NULL	1037	321	0.00024108003857280618
+rhythmic artistic activity	singing	1	1	2	2	NULL	NULL	NULL	1760	574	0.0002840909090909091
+rhythmic artistic activity	recitation	1	1	2	2	NULL	NULL	NULL	61	36	0.00819672131147541
+rhythmic aspect	tempo	1	1	2	2	NULL	NULL	NULL	400	194	0.00125
+rhythmic aspect	beat	1	1	2	2	NULL	NULL	NULL	132	81	0.003787878787878788
+rhythmic bed form	step	1	1	3	3	0.333333333333	NULL	NULL	813	382	0.0004100041000410004
+rhythmic bed form	pool	1	1	3	3	0.333333333333	NULL	NULL	3504	1006	0.00009512937595129375
+rhythmic bed form	riffle	1	1	3	3	0.333333333333	NULL	NULL	55	42	0.006060606060606061
+rhythmic behavior	locomotion	9	7	32	16	0.363636363636	NULL	NULL	171	97	0.014802631578947368
+rhythmic behavior	breathing	5	5	32	16	0.363636363636	NULL	NULL	1403	570	0.0005568424803991447
+rhythmic behavior	walking	4	4	32	16	0.363636363636	NULL	NULL	13109	2473	0.000038141734686093524
+rhythmic behavior	respiration	2	2	32	16	0.363636363636	NULL	NULL	719	314	0.00017385257301808066
+rhythmic behavior	larval locomotion	1	1	32	16	0.363636363636	NULL	NULL	1	1	0.03125
+rhythmic behavior	body rocking	1	1	32	16	0.363636363636	NULL	NULL	33	17	0.000946969696969697
+rhythmic behavior	cyclical, rhythmic behavior	1	1	32	16	0.363636363636	NULL	NULL	2	2	0.015625
+rhythmic behavior	waving goodbye	1	1	32	16	0.363636363636	NULL	NULL	5	5	0.00625
+rhythmic behavior	vocalization	1	1	32	16	0.363636363636	NULL	NULL	70	38	0.0004464285714285714
+rhythmic behavior	sleep cycles for human	1	1	32	16	0.363636363636	NULL	NULL	1	1	0.03125
+rhythmic behavior	head rolling	1	1	32	16	0.363636363636	NULL	NULL	5	5	0.00625
+rhythmic behavior	hand clasping	1	1	32	16	0.363636363636	NULL	NULL	3	3	0.010416666666666666
+rhythmic behavior	vital cyclical, rhythmic behavior	1	1	32	16	0.363636363636	NULL	NULL	3	3	0.010416666666666666
+rhythmic behavior	feeding	1	1	32	16	0.363636363636	NULL	NULL	1225	504	0.000025510204081632654
+rhythmic behavior	running	1	1	32	16	0.363636363636	NULL	NULL	5694	1097	0.000005488233227959255
+rhythmic behavior	grooming	1	1	32	16	0.363636363636	NULL	NULL	801	295	0.000039013732833957553
+rhythmic behavioral activity	sucking	1	1	1	1	NULL	NULL	NULL	67	43	0.014925373134328358
+rhythmic body movement	hopping on the spot	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+rhythmic body movement	arm flapping	1	1	3	3	0.500000000000	NULL	NULL	13	12	0.02564102564102564
+rhythmic body movement	paper	1	1	3	3	0.500000000000	NULL	NULL	10357	2799	0.000032184351968073124
+rhythmic cell	Afro Cuban	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+rhythmic characteristic	period	1	1	1	1	NULL	NULL	NULL	605	194	0.001652892561983471
+rhythmic compositional device	telephone no	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhythmic concept	linear rhythm	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+rhythmic concept	phrasing	1	1	2	2	0.500000000000	NULL	NULL	100	45	0.005
+rhythmic condition	asterixis	1	1	2	2	1.000000000000	NULL	NULL	14	13	0.03571428571428571
+rhythmic condition	epilepsia partialis continuum	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+rhythmic content	beat information	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic daily activity	circle time	1	1	3	3	NULL	NULL	NULL	164	76	0.002032520325203252
+rhythmic daily activity	story	1	1	3	3	NULL	NULL	NULL	849	421	0.000392618767177071
+rhythmic daily activity	snack	1	1	3	3	NULL	NULL	NULL	1120	444	0.0002976190476190476
+rhythmic dance	salsa	2	2	8	7	0.200000000000	NULL	NULL	1307	502	0.00038255547054322876
+rhythmic dance	Hornpipe	1	1	8	7	0.200000000000	NULL	NULL	10	9	0.0125
+rhythmic dance	Set dance	1	1	8	7	0.200000000000	NULL	NULL	1	1	0.125
+rhythmic dance	foxtrot	1	1	8	7	0.200000000000	NULL	NULL	144	62	0.0008680555555555555
+rhythmic dance	Tipping Reel	1	1	8	7	0.200000000000	NULL	NULL	1	1	0.125
+rhythmic dance	waltz	1	1	8	7	0.200000000000	NULL	NULL	455	158	0.0002747252747252747
+rhythmic dance	Jig	1	1	8	7	0.200000000000	NULL	NULL	204	115	0.0006127450980392157
+rhythmic dance style	Flamenco	1	1	1	1	NULL	NULL	NULL	130	72	0.007692307692307693
+rhythmic danes	Samri	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic device	dotted rhythm	2	2	8	7	0.666666666666	NULL	NULL	5	4	0.1
+rhythmic device	additive rhythm	1	1	8	7	0.666666666666	NULL	NULL	2	2	0.0625
+rhythmic device	repeats of you don't work here anymore''	1	1	8	7	0.666666666666	NULL	NULL	1	1	0.125
+rhythmic device	hemiola	1	1	8	7	0.666666666666	NULL	NULL	5	5	0.025
+rhythmic device	tihai	1	1	8	7	0.666666666666	NULL	NULL	1	1	0.125
+rhythmic device	repetition	1	1	8	7	0.666666666666	NULL	NULL	614	286	0.00020358306188925082
+rhythmic device	polyrhythms	1	1	8	7	0.666666666666	NULL	NULL	7	6	0.017857142857142856
+rhythmic disorder	head-banging	2	2	2	1	1.000000000000	NULL	NULL	17	11	0.11764705882352941
+rhythmic effect	tremolo	1	1	2	2	0.333333333333	NULL	NULL	120	54	0.004166666666666667
+rhythmic effect	delay	1	1	2	2	0.333333333333	NULL	NULL	1442	646	0.00034674063800277393
+rhythmic element	hat	2	2	7	6	0.250000000000	NULL	NULL	4593	1302	0.00012441292650306366
+rhythmic element	spandrel line	1	1	7	6	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+rhythmic element	meter	1	1	7	6	0.250000000000	NULL	NULL	510	260	0.00028011204481792715
+rhythmic element	strong beat	1	1	7	6	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+rhythmic element	tempo	1	1	7	6	0.250000000000	NULL	NULL	400	194	0.00035714285714285714
+rhythmic element	window opening	1	1	7	6	0.250000000000	NULL	NULL	25	20	0.005714285714285714
+rhythmic embellishment	eighth-note triplet	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic endurance activity	swimming	2	2	2	1	NULL	NULL	NULL	15629	2556	0.00012796724038646108
+rhythmic etude	Arban	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+rhythmic exercise	walking	6	6	32	13	NULL	NULL	NULL	13109	2473	0.00008581890304371043
+rhythmic exercise	cycling	5	5	32	13	NULL	NULL	NULL	5412	1129	0.00014435513673318552
+rhythmic exercise	running	5	5	32	13	NULL	NULL	NULL	5694	1097	0.0001372058306989814
+rhythmic exercise	swimming	4	4	32	13	NULL	NULL	NULL	15629	2556	0.00003199181009661527
+rhythmic exercise	jogging	3	3	32	13	NULL	NULL	NULL	5294	999	0.000053126180581790704
+rhythmic exercise	biking	2	2	32	13	NULL	NULL	NULL	4205	830	0.00002972651605231867
+rhythmic exercise	systematic, rhythmic exercise	1	1	32	13	NULL	NULL	NULL	2	2	0.015625
+rhythmic exercise	mindful walking	1	1	32	13	NULL	NULL	NULL	4	3	0.0078125
+rhythmic exercise	jumping jack	1	1	32	13	NULL	NULL	NULL	359	149	0.00008704735376044568
+rhythmic exercise	bicycling	1	1	32	13	NULL	NULL	NULL	1567	445	0.00001994256541161455
+rhythmic exercise	squat	1	1	32	13	NULL	NULL	NULL	3214	733	0.000009723086496577473
+rhythmic exercise	push up	1	1	32	13	NULL	NULL	NULL	466	129	0.00006706008583690987
+rhythmic exercise	rowing	1	1	32	13	NULL	NULL	NULL	1029	309	0.000030369290573372204
+rhythmic feature	long sustained note	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic human activity	dancing	1	1	2	3	NULL	NULL	NULL	3281	887	0.00015239256324291374
+rhythmic human activity	walking	1	1	2	3	NULL	NULL	NULL	13109	2473	0.000038141734686093524
+rhythmic ictal movement	body rocking	1	1	2	2	1.000000000000	NULL	NULL	33	17	0.015151515151515152
+rhythmic ictal movement	head nodding	1	1	2	2	1.000000000000	NULL	NULL	31	27	0.016129032258064516
+rhythmic instrument	guitar chord strum	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+rhythmic instrument	drum	1	1	3	3	0.500000000000	NULL	NULL	1733	552	0.00019234468166955183
+rhythmic instrument	rhythm guitar	1	1	3	3	0.500000000000	NULL	NULL	8	6	0.041666666666666664
+rhythmic intricacy	quintuplet	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+rhythmic locomotor movement	walk	1	1	1	1	NULL	NULL	NULL	212	116	0.0047169811320754715
+rhythmic mode	sinulog	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+rhythmic moderately loaded activity	swimming	1	1	1	1	NULL	NULL	NULL	15629	2556	0.00006398362019323054
+rhythmic motion	sitting in a rocking chair	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic motor behavior	swimming	2	2	8	6	0.166666666666	NULL	NULL	15629	2556	0.00003199181009661527
+rhythmic motor behavior	walking	2	2	8	6	0.166666666666	NULL	NULL	13109	2473	0.000038141734686093524
+rhythmic motor behavior	feeding	1	1	8	6	0.166666666666	NULL	NULL	1225	504	0.00010204081632653062
+rhythmic motor behavior	mastication	1	1	8	6	0.166666666666	NULL	NULL	44	35	0.002840909090909091
+rhythmic motor behavior	respiration	1	1	8	6	0.166666666666	NULL	NULL	719	314	0.00017385257301808066
+rhythmic motor behavior	scratch	1	1	8	6	0.166666666666	NULL	NULL	1214	429	0.00010296540362438221
+rhythmic motor pattern	locomotion	3	2	12	7	0.250000000000	NULL	NULL	171	97	0.0043859649122807015
+rhythmic motor pattern	mastication	2	1	12	7	0.250000000000	NULL	NULL	44	35	0.007575757575757575
+rhythmic motor pattern	breathing	2	2	12	7	0.250000000000	NULL	NULL	1403	570	0.0002375861249703017
+rhythmic motor pattern	walking	2	2	12	7	0.250000000000	NULL	NULL	13109	2473	0.000025427823124062348
+rhythmic motor pattern	swimming	1	1	12	7	0.250000000000	NULL	NULL	15629	2556	0.0000053319683494358774
+rhythmic motor pattern	heartbeat	1	1	12	7	0.250000000000	NULL	NULL	277	155	0.0003008423586040914
+rhythmic motor pattern	respiration	1	1	12	7	0.250000000000	NULL	NULL	719	314	0.0001159017153453871
+rhythmic motor phenomenon	respiration	1	1	2	2	NULL	NULL	NULL	719	314	0.0006954102920723226
+rhythmic motor phenomenon	nystagmus	1	1	2	2	NULL	NULL	NULL	124	82	0.004032258064516129
+rhythmic movement	walking	10	10	65	35	0.352941176470	NULL	NULL	13109	2473	0.00011735918364951854
+rhythmic movement	locomotion	6	5	65	35	0.352941176470	NULL	NULL	171	97	0.003238866396761134
+rhythmic movement	swimming	4	4	65	35	0.352941176470	NULL	NULL	15629	2556	0.000015749814201410592
+rhythmic movement	dancing	3	3	65	35	0.352941176470	NULL	NULL	3281	887	0.00004220101751342227
+rhythmic movement	mastication	3	3	65	35	0.352941176470	NULL	NULL	44	35	0.003146853146853147
+rhythmic movement	respiration	3	3	65	35	0.352941176470	NULL	NULL	719	314	0.00019257515780464322
+rhythmic movement	aqua jogging	2	2	65	35	0.352941176470	NULL	NULL	13	10	0.004733727810650888
+rhythmic movement	movement of the wing of an insect in flight	2	1	65	35	0.352941176470	NULL	NULL	2	1	0.03076923076923077
+rhythmic movement	walking at various depth	2	2	65	35	0.352941176470	NULL	NULL	2	1	0.03076923076923077
+rhythmic movement	swinging the leg	2	1	65	35	0.352941176470	NULL	NULL	5	2	0.012307692307692308
+rhythmic movement	martial art	2	2	65	35	0.352941176470	NULL	NULL	818	286	0.00007523039307880384
+rhythmic movement	breathing	2	2	65	35	0.352941176470	NULL	NULL	1403	570	0.00004386205384067109
+rhythmic movement	roller skating	2	2	65	35	0.352941176470	NULL	NULL	178	76	0.0003457216940363008
+rhythmic movement	flying	1	1	65	35	0.352941176470	NULL	NULL	83	49	0.00018535681186283596
+rhythmic movement	gentle rhythmic movement	1	1	65	35	0.352941176470	NULL	NULL	2	2	0.007692307692307693
+rhythmic movement	sometimes other rhythmic movement	1	1	65	35	0.352941176470	NULL	NULL	2	2	0.007692307692307693
+rhythmic movement	tremor	1	1	65	35	0.352941176470	NULL	NULL	1062	358	0.000014486455164421266
+rhythmic movement	finger tapping	1	1	65	35	0.352941176470	NULL	NULL	13	10	0.001183431952662722
+rhythmic movement	slamdancing	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	swimming in leech	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	Gerobic dance	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	gentle high stepping	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	headbanging	1	1	65	35	0.352941176470	NULL	NULL	2	2	0.007692307692307693
+rhythmic movement	spinal flexing with special breathing techniques at the same time	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	Sarcos Sensuit	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	jogging cycling	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	biking	1	1	65	35	0.352941176470	NULL	NULL	4205	830	0.000003658648129516144
+rhythmic movement	twitch	1	1	65	35	0.352941176470	NULL	NULL	33	29	0.0004662004662004662
+rhythmic movement	summary rhythmic movement	1	1	65	35	0.352941176470	NULL	NULL	2	2	0.007692307692307693
+rhythmic movement	tracing a gure-8	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	ora drumming sequence on ab ongo performed by ahumansubject usinga joint-angle recording system	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	peristaltic contraction	1	1	65	35	0.352941176470	NULL	NULL	1	1	0.015384615384615385
+rhythmic movement	walking activity	1	1	65	35	0.352941176470	NULL	NULL	2	2	0.007692307692307693
+rhythmic movement	respiratory movement	1	1	65	35	0.352941176470	NULL	NULL	6	6	0.002564102564102564
+rhythmic movement	skating	1	1	65	35	0.352941176470	NULL	NULL	834	255	0.000018446781036709096
+rhythmic movement disorder	body rocking	2	2	5	4	1.000000000000	NULL	NULL	33	17	0.024242424242424242
+rhythmic movement disorder	headbanging	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+rhythmic movement disorder	head banging	1	1	5	4	1.000000000000	NULL	NULL	66	32	0.0030303030303030303
+rhythmic movement disorder	nocturnal head banging	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+rhythmic music	blue	1	1	3	3	NULL	NULL	NULL	7681	1817	0.000043397127110185304
+rhythmic music	trance	1	1	3	3	NULL	NULL	NULL	135	55	0.0024691358024691358
+rhythmic music	hip-hop	1	1	3	3	NULL	NULL	NULL	386	158	0.0008635578583765112
+rhythmic narrative dance	Carinosa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhythmic narrative dance	Tinikling	1	1	2	2	NULL	NULL	NULL	9	4	0.05555555555555555
+rhythmic noise	clock ticking	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+rhythmic noise	Soundof the TV in a no signal channel	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rhythmic noise artist	Iszoloscope	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic notation	time signature	1	1	1	1	NULL	NULL	NULL	62	32	0.016129032258064516
+rhythmic or musical cue	A-B-C song	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic or repetitive activity	walking	1	1	3	3	NULL	NULL	NULL	13109	2473	0.000025427823124062348
+rhythmic or repetitive activity	cooking	1	1	3	3	NULL	NULL	NULL	5018	1453	0.00006642752756742393
+rhythmic or repetitive activity	needlework	1	1	3	3	NULL	NULL	NULL	161	78	0.0020703933747412005
+rhythmic part	drum	1	1	2	2	NULL	NULL	NULL	1733	552	0.00028851702250432774
+rhythmic part	sound	1	1	2	2	NULL	NULL	NULL	3042	1139	0.0001643655489809336
+rhythmic pattern	traditional polish rhythmic pattern	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhythmic pattern	characteristic rhythmic pattern	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+rhythmic pattern	dance	1	1	4	4	NULL	NULL	NULL	5030	1458	0.00004970178926441352
+rhythmic pattern	life process	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+rhythmic performance	dancing	1	1	2	2	NULL	NULL	NULL	3281	887	0.00015239256324291374
+rhythmic performance	aerobics	1	1	2	2	NULL	NULL	NULL	1618	449	0.00030902348578491963
+rhythmic phenomenon	leaf	1	1	1	1	NULL	NULL	NULL	4185	1340	0.00023894862604540023
+rhythmic physical activity	walking	1	1	1	1	NULL	NULL	NULL	13109	2473	0.00007628346937218705
+rhythmic process	seasonal reproduction	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+rhythmic process	calcium flux at the fast end	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhythmic pulse type noise	ignition	1	1	1	1	NULL	NULL	NULL	151	91	0.006622516556291391
+rhythmic regulator	temperature	2	2	2	1	NULL	NULL	NULL	21509	4199	0.0000929843321400344
+rhythmic scanning movement	active touch	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhythmic sign	ictus	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+rhythmic song	London Bridge	1	1	3	3	NULL	NULL	NULL	83	56	0.004016064257028112
+rhythmic song	Road to Siam	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhythmic song	Mulberry Bush	1	1	3	3	NULL	NULL	NULL	6	5	0.05555555555555555
+rhythmic sound	soft, rhythmic sound	1	1	7	7	0.250000000000	NULL	NULL	2	2	0.07142857142857142
+rhythmic sound	music	1	1	7	7	0.250000000000	NULL	NULL	14153	3857	0.00001009377113383331
+rhythmic sound	heartbeat	1	1	7	7	0.250000000000	NULL	NULL	277	155	0.0005157297576070139
+rhythmic sound	lullaby	1	1	7	7	0.250000000000	NULL	NULL	40	29	0.0035714285714285713
+rhythmic sound	continuous, monotonous, rhythmic sound	1	1	7	7	0.250000000000	NULL	NULL	2	2	0.07142857142857142
+rhythmic sound	dishwasher	1	1	7	7	0.250000000000	NULL	NULL	2443	574	0.00005847611250804046
+rhythmic sound	caused by loose bearing	1	1	7	7	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+rhythmic stimulation	use of a metronome	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+rhythmic stimulation	music	1	1	2	2	NULL	NULL	NULL	14153	3857	0.00003532819896841659
+rhythmic stimulus	drumbeat	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+rhythmic stimulus	pulse in a musical composition	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+rhythmic story	Hand	2	2	5	3	0.500000000000	NULL	NULL	1306	501	0.0006125574272588055
+rhythmic story	Fingers	2	2	5	3	0.500000000000	NULL	NULL	6	8	0.13333333333333333
+rhythmic story	Jamberry by Bruce Degen	1	1	5	3	0.500000000000	NULL	NULL	1	1	0.2
+rhythmic style	Jazz	1	1	9	9	0.125000000000	NULL	NULL	1810	522	0.00006138735420503377
+rhythmic style	Rock	1	1	9	9	0.125000000000	NULL	NULL	5667	1843	0.000019606689802560634
+rhythmic style	Southern India	1	1	9	9	0.125000000000	NULL	NULL	19	8	0.005847953216374269
+rhythmic style	Swing	1	1	9	9	0.125000000000	NULL	NULL	961	415	0.00011562030292519366
+rhythmic style	funk	1	1	9	9	0.125000000000	NULL	NULL	296	80	0.00037537537537537537
+rhythmic style	Mediterranian country	1	1	9	9	0.125000000000	NULL	NULL	1	1	0.1111111111111111
+rhythmic style	samba	1	1	9	9	0.125000000000	NULL	NULL	340	169	0.000326797385620915
+rhythmic style	Bassa Nova	1	1	9	9	0.125000000000	NULL	NULL	2	2	0.05555555555555555
+rhythmic style	West Africa	1	1	9	9	0.125000000000	NULL	NULL	176	60	0.0006313131313131313
+rhythmic task	pumpingaswingor bouncing a ball	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhythmic task	bouncing a ball	1	1	4	4	1.000000000000	NULL	NULL	7	7	0.03571428571428571
+rhythmic task	daily rhythmic task	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+rhythmic task	macro production round	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+rhythmic technique	hypnotic dancing	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmic text	chant	1	1	3	3	NULL	NULL	NULL	61	43	0.00546448087431694
+rhythmic text	poetry	1	1	3	3	NULL	NULL	NULL	1427	537	0.000233590282644242
+rhythmic text	song	1	1	3	3	NULL	NULL	NULL	1441	662	0.0002313208420078649
+rhythmic tribute video	Tamagotchi anime	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhythmic tribute video	Animal Mechanicals	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+rhythmic tribute video	Bubble Guppies	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+rhythmic whole body exercise	swimming	1	1	2	2	NULL	NULL	NULL	15629	2556	0.00003199181009661527
+rhythmic whole body exercise	walking	1	1	2	2	NULL	NULL	NULL	13109	2473	0.000038141734686093524
+rhythmic, aerobic activity	biking	1	1	4	4	NULL	NULL	NULL	4205	830	0.00005945303210463734
+rhythmic, aerobic activity	swimming	1	1	4	4	NULL	NULL	NULL	15629	2556	0.000015995905048307635
+rhythmic, aerobic activity	walking	1	1	4	4	NULL	NULL	NULL	13109	2473	0.000019070867343046762
+rhythmic, aerobic activity	rowing	1	1	4	4	NULL	NULL	NULL	1029	309	0.00024295432458697764
+rhythmic, repetitive aerobic activity	cycling	2	2	7	5	NULL	NULL	NULL	5412	1129	0.00010558547143912998
+rhythmic, repetitive aerobic activity	walking	2	2	7	5	NULL	NULL	NULL	13109	2473	0.000043590553926964025
+rhythmic, repetitive aerobic activity	swimming & jogging	1	1	7	5	NULL	NULL	NULL	1	1	0.14285714285714285
+rhythmic, repetitive aerobic activity	swimming	1	1	7	5	NULL	NULL	NULL	15629	2556	0.000009140517170461504
+rhythmic, repetitive aerobic activity	jogging	1	1	7	5	NULL	NULL	NULL	5294	999	0.000026984726644719088
+rhythmic, repetitive, dynamic activity	swimming	1	1	3	3	NULL	NULL	NULL	15629	2556	0.00002132787339774351
+rhythmic, repetitive, dynamic activity	bicycling	1	1	3	3	NULL	NULL	NULL	1567	445	0.00021272069772388852
+rhythmic, repetitive, dynamic activity	running	1	1	3	3	NULL	NULL	NULL	5694	1097	0.00005854115443156539
+rhythmical activity	dancing	1	1	4	4	0.200000000000	NULL	NULL	3281	887	0.00007619628162145687
+rhythmical activity	dance	1	1	4	4	0.200000000000	NULL	NULL	5030	1458	0.00004970178926441352
+rhythmical activity	horse-riding	1	1	4	4	0.200000000000	NULL	NULL	212	72	0.0011792452830188679
+rhythmical activity	playing the piano	1	1	4	4	0.200000000000	NULL	NULL	134	50	0.0018656716417910447
+rhythmical dance	foxtrot	1	1	2	2	NULL	NULL	NULL	144	62	0.003472222222222222
+rhythmical dance	waltz	1	1	2	2	NULL	NULL	NULL	455	158	0.001098901098901099
+rhythmical instrument	drum	1	1	2	2	NULL	NULL	NULL	1733	552	0.00028851702250432774
+rhythmical instrument	maraca	1	1	2	2	NULL	NULL	NULL	162	64	0.0030864197530864196
+rhythmical motor pattern	breathing	1	1	1	1	NULL	NULL	NULL	1403	570	0.0007127583749109052
+rhythmical movement	locomotion	2	2	3	2	NULL	NULL	NULL	171	97	0.007797270955165692
+rhythmical movement	respiration	1	1	3	2	NULL	NULL	NULL	719	314	0.0004636068613815484
+rhythmical movement task	bilateral tapping	1	1	1	1	NULL	NULL	NULL	1	1	1
+Rhythmical or continuous noise	washing machine	1	1	1	1	NULL	NULL	NULL	2743	702	0.0003645643456069996
+rhythmical pattern	rhyme	1	1	1	1	NULL	NULL	NULL	321	136	0.003115264797507788
+rhythmically active muscle	diaphragm	1	1	1	1	NULL	NULL	NULL	616	261	0.0016233766233766235
+rhythmically important instrument	percussion	1	1	2	2	NULL	NULL	NULL	237	87	0.002109704641350211
+rhythmically important instrument	drum	1	1	2	2	NULL	NULL	NULL	1733	552	0.00028851702250432774
+rhythmically straight-forward piece	Personent hodie	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhythmn & blue vocal group	Larks	1	1	1	1	1.000000000000	NULL	NULL	5	7	0.2
+rhytids	perioral rhagades	1	1	1	1	NULL	NULL	NULL	1	1	1
+rhytmical activity	dance	2	1	2	1	NULL	NULL	NULL	5030	1458	0.00039761431411530816

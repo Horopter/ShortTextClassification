@@ -1,0 +1,22 @@
+ZCA concept	utility	1	1	2	2	NULL	NULL	NULL	5186	1541	0.00009641342074816814
+ZCA concept	interface	1	1	2	2	NULL	NULL	NULL	490	242	0.0010204081632653062
+zchafiusesother technique	random restart	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+zcommands	zless	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zcommands	zcat	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zcontains financial variable	stock price	1	1	1	1	NULL	NULL	NULL	221	121	0.004524886877828055
+zcurrent and future operation	EU Police Mission in Bosnia	1	1	1	1	NULL	NULL	NULL	1	1	1
+zcytor14 antagonist	soluble ZcytoR14	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zcytor14 antagonist	anti-ZcytoR14 antibody	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zcytor16 antagonist	anti-mouse Zcytor16 antibody	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zcytor16 antagonist	anti-Zcytor16 antibody	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zcytor17 antagonist	anti-Zcytor17 antibody	1	1	1	1	NULL	NULL	NULL	1	1	1
+zcytor17 ligand-binding polypeptide	extracellular domain	3	2	3	1	NULL	NULL	NULL	9	4	0.3333333333333333
+zcytor17lig antagonist	anti-zcytor17lig antibody	1	1	1	1	NULL	NULL	NULL	1	1	1
+zcytor17lig-binding protein	multimeric cytokine receptor of the present invention	4	3	4	1	NULL	NULL	NULL	4	1	1
+zcytor18 antagonist	anti-Zcytor18 antibody	1	1	1	1	NULL	NULL	NULL	1	1	1
+zcytor19 ligand-binding polypeptide	extracellular domain	4	2	4	1	NULL	NULL	NULL	9	4	0.4444444444444444
+Zcytor19 polypeptides	soluble zcytor19 receptor	4	2	4	1	NULL	NULL	NULL	4	1	1
+zcytor21 antagonist	anti-ZcytoR21 antibody	4	3	7	3	1.000000000000	NULL	NULL	4	1	0.5714285714285714
+zcytor21 antagonist	soluble receptor	2	2	7	3	1.000000000000	NULL	NULL	20	14	0.02857142857142857
+zcytor21 antagonist	soluble ZcytoR21	1	1	7	3	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+zcytro17lig antagonist	anti- zcytor17lig antibody	1	1	1	1	NULL	NULL	NULL	1	1	1

@@ -1,0 +1,22 @@
+SZ associated gene	GAD67	1	1	5	5	0.666666666666	NULL	NULL	3	3	0.06666666666666667
+SZ associated gene	RGS4	1	1	5	5	0.666666666666	NULL	NULL	8	6	0.025
+SZ associated gene	NRG1	1	1	5	5	0.666666666666	NULL	NULL	10	6	0.02
+SZ associated gene	BDNF	1	1	5	5	0.666666666666	NULL	NULL	166	40	0.0012048192771084338
+SZ associated gene	NTRK2	1	1	5	5	0.666666666666	NULL	NULL	4	2	0.05
+SZ imaging instrument	Sunyaev-Zel dovich Array	2	2	2	1	NULL	NULL	NULL	2	1	1
+sz symptom	delusion	1	1	1	1	NULL	NULL	NULL	561	168	0.0017825311942959
+SZE survey	SPT	1	1	1	1	1.000000000000	NULL	NULL	33	16	0.030303030303030304
+szechuan curry	Garlic Sauce	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+szechuan curry	Prawn in Hot	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+szechuan dish	Yu Hsiang scallops in spicy sauce	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+szechuan dish	mapo tofu	1	1	4	4	1.000000000000	NULL	NULL	12	10	0.020833333333333332
+szechuan dish	dan dan noodle	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+szechuan dish	hot sour soup	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+szechuan restaurant	Wu Liang Ye	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+szechuan seasoning	chili	1	1	1	1	NULL	NULL	NULL	1107	448	0.0009033423667570009
+szechwan delicacy	Pon Pon Chicken	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+szechwan delicacy	Mongolian Beef	1	1	4	4	1.000000000000	NULL	NULL	43	27	0.005813953488372093
+szechwan delicacy	Muu Shu Pork	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+szechwan delicacy	Onion Pancakes	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+szell's contemporary	Arturo Toscanini with the New York Philharmonic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+szell's contemporary	Fritz Reiner with the Chicago Symphony Orchestra	1	1	2	2	NULL	NULL	NULL	1	1	0.5

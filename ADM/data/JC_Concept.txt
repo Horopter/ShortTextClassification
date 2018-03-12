@@ -1,0 +1,103 @@
+JC transfer	Steve Octavien	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JC's	De Anza	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+JC's	Ohlone	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+JCA connection J2EE application component	servlets	1	1	1	1	NULL	NULL	NULL	146	78	0.00684931506849315
+JCAEOP activity	Hospitality Committee	1	1	5	5	1.000000000000	NULL	NULL	4	4	0.05
+JCAEOP activity	Membership Committee	1	1	5	5	1.000000000000	NULL	NULL	11	7	0.018181818181818184
+JCAEOP activity	Nominations Committee	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+JCAEOP activity	planning the JCAEOP Annual Bosses Night Banquet Chair of Cheer Committee	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+JCAEOP activity	Finance Committee	1	1	5	5	1.000000000000	NULL	NULL	51	25	0.00392156862745098
+JCAHO shouldeliminate punitive approach	threat of accreditation watch	1	1	1	1	NULL	NULL	NULL	1	1	1
+jcaho-accredited facility	home health care	1	1	1	1	NULL	NULL	NULL	177	84	0.005649717514124294
+jcapper factor	Xth Start After Lasix	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jcapper factor	Xth Start of Current Meet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jcapper factor	Xth Start Off Of Layoff	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jcapper factor	Xth Start For Rider	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+jcapper factor	Xth Start For Trainer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JCARES non emergency service	parade communication	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCB & digger cab part	mirror arm	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+JCB & digger cab part	left	1	1	2	2	NULL	NULL	NULL	286	129	0.0017482517482517483
+JCB backhoe part	digger bucket tooth	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCB brand extension	DIY tool	1	1	1	1	0.500000000000	NULL	NULL	10	6	0.1
+JCB publication	JCB Shopping & Dining Passport	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCB Toughphones	JCB Pro-Talk	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCB Toughphones	JCB Sitemaster	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCB Toughphones	JCB Tradesman	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+JCC city asset	road	1	1	1	1	NULL	NULL	NULL	6806	2297	0.00014692918013517486
+JCC policy	cell phone use	1	1	1	1	NULL	NULL	NULL	63	32	0.015873015873015872
+JCC program	Ulpan	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCCC resource	Institutional Research office	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCCC resource	office of Outcomes Assessment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jcdc's usual festival activity	lunch-hour concert	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+jcdc's usual festival activity	hot spot	1	1	3	3	0.500000000000	NULL	NULL	60	49	0.005555555555555555
+jcdc's usual festival activity	street dance	1	1	3	3	0.500000000000	NULL	NULL	74	45	0.0045045045045045045
+JCE function	Paste From Word	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCE provider	BouncyCastle	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+JCE resource	Biographical Snapshots of Famous Women	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCE resource	Minority Chemists	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCers	Handsome Clem	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCF class	ArrayList	1	1	1	1	NULL	NULL	NULL	69	42	0.014492753623188406
+jcf's traditional product	Perpetual Annual Campaign Endowment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jcf's traditional product	Lion of Judah Endowment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCI activity	participating in chapter event	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCI official course	JCI Achieve	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+JCI official course	JCI Presenter	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JCI official course	JCI Trainer	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JCI official course	JCI Admin	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+JCI program	Best Business Plan Competition	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCI program	Outstanding Young Persons of the World	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCI-accredited hospital	Apollo in Delhi	1	1	1	1	NULL	NULL	NULL	1	1	1
+jci-greenfield, certain precaution	wearing appropriate personal protective equipment	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jcii-developed instrument	electronic flash units endurance tester	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jcii-developed instrument	JCII standard type flash meter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+jcii-developed instrument	computer-controlled multi-purpose spectrophotometer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCL function	conditional job control	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCL function	symbolic parameter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCL parameter	DB2 library	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+JCL parameter	timeout value	1	1	3	3	1.000000000000	NULL	NULL	18	14	0.018518518518518517
+JCL parameter	Max data collected	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+JCL product	pressure lubricator	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+JCL product	gas control panel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCL product	pressure vessel	1	1	3	3	NULL	NULL	NULL	227	97	0.0014684287812041115
+JCL specific	UNIT name	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+JCL specific	JOB card requirement	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JCOMM area	Data management	1	1	1	2	NULL	NULL	NULL	316	172	0.0031645569620253164
+jcomponent feature	border	1	1	1	1	NULL	NULL	NULL	740	366	0.0013513513513513514
+JCP e-services	traceability of judicial cooperation activity	2	2	2	1	0.500000000000	NULL	NULL	2	1	1
+JCP specification	JSP Standard Tag Libraries	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCPS elementary school	Maupin	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+JCQ expansion	pilot versions of the JCQ global economy scale	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCR activity	events organization	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+JCR activity	promotion	1	1	2	2	0.500000000000	NULL	NULL	2086	789	0.00023969319271332693
+JCR officer	Womens Officer	1	1	1	1	NULL	NULL	NULL	1	1	1
+jcr repository	jsr-170 compliant jcr repository	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JCRE feature	applet instance creation	1	1	3	4	NULL	NULL	NULL	1	1	0.3333333333333333
+JCRE feature	package installation	1	1	3	4	NULL	NULL	NULL	4	3	0.08333333333333333
+JCRE feature	firewall	1	1	3	4	NULL	NULL	NULL	2973	1055	0.00011212019284673168
+JCrew wool coat	Greta coat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCrew wool coat	Tulip coat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCrew wool coat	JCrew wool Felicia coat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCrew wool skirt	JCrew wool Herringbone skirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JCrew wool skirt	wool tweed skirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JCrew wool skirt	wool pencil skirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JCrew wool skirt	wool pinstripe skirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JCrew wool suit	JCrew wool crepe suit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCrew wool suit	wool stretch suit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCrew wool suit	wool Gabardine suit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JCrew wool sweater	JCrew wool cardigan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCrew wool sweater	JCrew wool turtleneck	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCs	YJ	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+JCs	Raffles Junior College	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+JCS exercise	Eligible Receiver	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+JCS readiness assessment	Joint Monthly Readiness Review	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JCS readiness assessment	Joint exercise	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+JCSP event	presentation of student profile	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+JCSP initiative	verbal square poster	1	1	1	1	NULL	NULL	NULL	1	1	1
+JCU student service area	Library	1	1	1	1	NULL	NULL	NULL	6833	2108	0.00014634860237084735
+JCVD favorite	Lionheart	3	3	9	3	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+JCVD favorite	Hard Target	3	3	9	3	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+JCVD favorite	Kickboxer	3	3	9	3	1.000000000000	NULL	NULL	10	8	0.1
+JCW speaker	President Bill Clinton	1	1	1	1	1.000000000000	NULL	NULL	24	16	0.041666666666666664
+JCW wrestler	Too Tuff Tony	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCW wrestler	Corporal Robinson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JCX device	standard Lego sensor	1	1	1	1	NULL	NULL	NULL	1	1	1

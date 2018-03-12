@@ -1,0 +1,36 @@
+KT boundary impact crater	Boltysh	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+KT boundary impact crater	Chicxulub	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kt gold bird	owl	1	1	6	6	0.166666666666	NULL	NULL	1154	336	0.00014442518775274407
+kt gold bird	lovebird	1	1	6	6	0.166666666666	NULL	NULL	108	29	0.0015432098765432098
+kt gold bird	hummingbird	1	1	6	6	0.166666666666	NULL	NULL	358	120	0.0004655493482309125
+kt gold bird	pelican	1	1	6	6	0.166666666666	NULL	NULL	447	159	0.0003728560775540641
+kt gold bird	parrot	1	1	6	6	0.166666666666	NULL	NULL	834	227	0.00019984012789768185
+kt gold bird	eagle	1	1	6	6	0.166666666666	NULL	NULL	1202	418	0.0001386577925679423
+KT gold jewelry mammal	whale	1	1	5	5	NULL	NULL	NULL	1427	374	0.00014015416958654522
+KT gold jewelry mammal	dolphin	1	1	5	5	NULL	NULL	NULL	1678	445	0.00011918951132300358
+KT gold jewelry mammal	penguin	1	1	5	5	NULL	NULL	NULL	507	235	0.00039447731755424067
+KT gold jewelry mammal	seals turtle	1	1	5	5	NULL	NULL	NULL	4	3	0.05
+KT gold jewelry mammal	manatee	1	1	5	5	NULL	NULL	NULL	254	86	0.0007874015748031497
+KT production	Snow Ball	1	1	4	4	1.000000000000	NULL	NULL	11	9	0.022727272727272728
+KT production	Uninvited	1	1	4	4	1.000000000000	NULL	NULL	8	4	0.03125
+KT production	last year's Here on the Flight Path	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+KT production	Rumors	1	1	4	4	1.000000000000	NULL	NULL	8	9	0.03125
+KT related funding opportunity	Knowledge to Action	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KT related funding opportunity	Knowledge Synthesis	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+KT site	KTR	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+KT400A board	Gigabyte 7VAXP-A Ultra	1	1	1	1	NULL	NULL	NULL	1	1	1
+KTEC program	angel investor tax credit	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kth largest value	third largest value	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kth smallest value	third smallest value	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+KTM dealer	Bottone's Jo-Bet Cycle in PA.	1	1	1	1	NULL	NULL	NULL	1	1	1
+KTM powerwear dealer	Gear4 nr Peterborough	1	1	1	1	NULL	NULL	NULL	1	1	1
+KTM refinement	full WP suspension	2	1	4	2	1.000000000000	NULL	NULL	5	3	0.2
+KTM refinement	Brembo brake	2	1	4	2	1.000000000000	NULL	NULL	30	20	0.03333333333333333
+ktm's ultimate mass-reducing technology	carbon fiber chassis made	1	1	1	1	NULL	NULL	NULL	1	1	1
+ktodenotealess disaggregated flow	flows from different origin	1	1	1	1	NULL	NULL	NULL	1	1	1
+kton-eating fish	sardine	1	1	2	2	NULL	NULL	NULL	3242	488	0.00015422578655151142
+kton-eating fish	anchovy	1	1	2	2	NULL	NULL	NULL	917	284	0.0005452562704471102
+KTP isomorphs	KTA	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+ktunaxa name	Wasa	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+KTV joint	international hit Gei Au sung by Taiwanese music queen Jody Chiang	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+KTVjoints	international hit Gei Au sung by Taiwanese music queen Jody Chiang	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333

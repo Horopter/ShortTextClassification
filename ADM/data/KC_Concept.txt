@@ -1,0 +1,64 @@
+KC attraction	museum	1	1	2	2	0.500000000000	NULL	NULL	3834	1308	0.00013041210224308815
+KC attraction	Union Station	1	1	2	2	0.500000000000	NULL	NULL	50	31	0.01
+KC blow away city	Indianapolis	1	1	2	2	NULL	NULL	NULL	453	117	0.0011037527593818985
+KC blow away city	Columbus	1	1	2	2	NULL	NULL	NULL	474	150	0.0010548523206751054
+KC Fringe Festival information	performance schedule	1	1	3	3	NULL	NULL	NULL	5	2	0.06666666666666667
+KC Fringe Festival information	location	1	1	3	3	NULL	NULL	NULL	9104	1958	0.00003661394258933802
+KC Fringe Festival information	pricing	1	1	3	3	NULL	NULL	NULL	1404	497	0.00023741690408357073
+KC life employee	Michael de Castro	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KC life employee	Gerard Francisco	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KC material	employee business card	1	1	1	1	NULL	NULL	NULL	1	1	1
+KC product	KC CARES Plan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KC product	SPEK Plan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KC pump	Model KC6P	1	1	1	1	NULL	NULL	NULL	1	1	1
+KC schoolmate	Howard Gilroy	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KC schoolmate	Sheldon McDonald	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KC schoolmate	Barrymore Williams	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KC schoolmate	Liston Ogilvie	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KC schoolmate	Clinton Cole	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KC Scout's technology	in-pavement sensor	1	1	1	1	NULL	NULL	NULL	1	1	1
+KC underwear emporium	Municipal Bloomer Barn	2	1	2	1	NULL	NULL	NULL	2	1	1
+kc-compromising perioperative strategy	total parenteral nutrition	1	1	1	1	1.000000000000	NULL	NULL	35	24	0.02857142857142857
+KC-derived cytokines	IL-12	1	1	2	2	0.500000000000	NULL	NULL	216	74	0.0023148148148148147
+KC-derived cytokines	IL-15	1	1	2	2	0.500000000000	NULL	NULL	74	22	0.006756756756756757
+KCACC event	mobile adoption	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+KCB athlete	Terrell Owens	1	1	1	1	NULL	NULL	NULL	91	43	0.01098901098901099
+kcba's special event	Evenings at the Theatre	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kcba's special event	KCBA Fun Run	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kcba's special event	I Love Coffee	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KCC provider	youth service	1	0	2	2	NULL	NULL	NULL	121	53	0.004132231404958678
+KCC provider	education	1	0	2	2	NULL	NULL	NULL	21642	5033	0.00002310322521023935
+KCDA service	D.A. s Action Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+kceramic dielectric	porcelain	1	1	3	3	0.333333333333	NULL	NULL	1040	409	0.0003205128205128205
+kceramic dielectric	NPO	1	1	3	3	0.333333333333	NULL	NULL	13	12	0.02564102564102564
+kceramic dielectric	alumina	1	1	3	3	0.333333333333	NULL	NULL	1695	643	0.0001966568338249754
+kcet-produced program	SoCal Connected	1	1	1	1	NULL	NULL	NULL	1	1	1
+KCFAPI official	Chairman Hilario Davide	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KCFAPI official	Jr.	1	1	4	4	NULL	NULL	NULL	578	306	0.00043252595155709344
+KCFAPI official	Executive Vice President Ma	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KCFAPI official	President Alonso L. Tan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kcg's peripheral business	options market-making	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kchannel-and-subunits	KCNAB1	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kchannel-and-subunits	KCNA4	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kchannel-and-subunits	KCNK1	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KCHS student facility	classroom	1	1	1	1	NULL	NULL	NULL	1019	445	0.0009813542688910696
+KClconcentration	100 mm	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+KCLFF major component	Cooking Pot Cradle Assembly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KCLFF major component	Heater Tank Assembly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KCLS technological advance	improved Web site	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KCLS technological advance	greater use of the fiber optic network	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kcls's special service	Traveling Library Center	1	0	1	1	NULL	NULL	NULL	2	2	0.5
+KCNB activity	protection from apoptosis	1	1	1	1	NULL	NULL	NULL	1	1	1
+KCNQ subunits	KCNQ4	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+KCOs	cromakalim	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+KCP&L uncertainty	coal price	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+KCPL rate case	Case Nos.	1	1	1	1	NULL	NULL	NULL	1	1	1
+KCPQ personnel	Leslie Miller	1	1	1	1	NULL	NULL	NULL	1	1	1
+kcq.com game	World of Warcraft	1	1	3	3	0.500000000000	NULL	NULL	1317	345	0.0002531004808909137
+kcq.com game	Final Fantasy XI	1	1	3	3	0.500000000000	NULL	NULL	69	26	0.004830917874396135
+kcq.com game	Eve ISK	1	1	3	3	0.500000000000	NULL	NULL	4	3	0.08333333333333333
+kcr's anti developmetal activity	blocking Metro	1	1	1	1	NULL	NULL	NULL	1	1	1
+kcrimson signature	full-ensemble parallel riffs with perfectly-timed start	1	1	1	1	NULL	NULL	NULL	1	1	1
+KCRW on-air DJs	Jason Bentley	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KCRW on-air DJs	Raul Campos	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KCRWF document	application	1	1	1	1	NULL	NULL	NULL	1377	634	0.0007262164124909223

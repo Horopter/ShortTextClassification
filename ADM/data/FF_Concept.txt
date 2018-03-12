@@ -1,0 +1,216 @@
+FF&E item	carpet	1	1	7	7	NULL	NULL	NULL	3397	1059	0.0000420539131166155
+FF&E item	soft seating	1	1	7	7	NULL	NULL	NULL	4	4	0.03571428571428571
+FF&E item	chair	1	1	7	7	NULL	NULL	NULL	3601	1244	0.000039671519815924144
+FF&E item	lighting	1	1	7	7	NULL	NULL	NULL	5506	1914	0.00002594572155051632
+FF&E item	tile	1	1	7	7	NULL	NULL	NULL	2743	976	0.000052080620800999944
+FF&E item	drapery	1	1	7	7	NULL	NULL	NULL	372	172	0.00038402457757296467
+FF&E item	dining table	1	1	7	7	NULL	NULL	NULL	205	128	0.0006968641114982578
+FF-NEWS supplemental teaching aid	single concept handout	1	1	1	1	NULL	NULL	NULL	1	1	1
+ff6-related object	Seiryuu	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+FF7 theme	Mako Reactor	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+FF7 theme	Jenova	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+FF7 theme	Cry Of The Planet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FFA activity	presentation contest	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+FFA activity	career development event	1	1	5	5	0.500000000000	NULL	NULL	5	5	0.04
+FFA activity	land judging	1	1	5	5	0.500000000000	NULL	NULL	3	3	0.06666666666666667
+FFA activity	leadership conference	1	1	5	5	0.500000000000	NULL	NULL	26	16	0.007692307692307693
+FFA activity	crop	1	1	5	5	0.500000000000	NULL	NULL	689	327	0.0002902757619738752
+FFA award	American Farmers Degree	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFA award	State Dairy Proficiency	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFA event	award	1	1	6	6	NULL	NULL	NULL	677	311	0.00024618414574101424
+FFA event	annual exhibition	1	1	6	6	NULL	NULL	NULL	5	4	0.03333333333333333
+FFA event	conference	1	1	6	6	NULL	NULL	NULL	2864	1022	0.00005819366852886406
+FFA event	convention	1	1	6	6	NULL	NULL	NULL	522	230	0.0003192848020434227
+FFA event	meeting	1	1	6	6	NULL	NULL	NULL	1898	768	0.00008781173164734808
+FFA event	prepared public speaking	1	1	6	6	NULL	NULL	NULL	3	3	0.05555555555555555
+FFA member	Kiribati	2	2	6	5	0.250000000000	NULL	NULL	244	79	0.00273224043715847
+FFA member	Jordan Langford	1	1	6	5	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+FFA member	Maddie Langford	1	1	6	5	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+FFA member	Papua New Guinea	1	1	6	5	0.250000000000	NULL	NULL	455	120	0.0003663003663003663
+FFA member	Bailey Millican	1	1	6	5	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+FFA member country	Fiji	1	1	7	7	0.285714285714	NULL	NULL	721	199	0.00019813750743015652
+FFA member country	Solomon Islands	1	1	7	7	0.285714285714	NULL	NULL	218	66	0.000655307994757536
+FFA member country	Papua New Guinea	1	1	7	7	0.285714285714	NULL	NULL	455	120	0.0003139717425431711
+FFA member country	Kiribati	1	1	7	7	0.285714285714	NULL	NULL	244	79	0.000585480093676815
+FFA member country	Nauru	1	1	7	7	0.285714285714	NULL	NULL	86	38	0.0016611295681063121
+FFA member country	Federated States of Micronesia	1	1	7	7	0.285714285714	NULL	NULL	32	12	0.004464285714285714
+FFA member country	Palau	1	1	7	7	0.285714285714	NULL	NULL	95	38	0.0015037593984962405
+FFA network	Lead Club	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFA pavilion moderate activity	multimedia presentation	1	1	4	4	0.200000000000	NULL	NULL	115	53	0.002173913043478261
+FFA pavilion moderate activity	conference	1	1	4	4	0.200000000000	NULL	NULL	2864	1022	0.00008729050279329609
+FFA pavilion moderate activity	video	1	1	4	4	0.200000000000	NULL	NULL	10816	3555	0.000023113905325443786
+FFA pavilion moderate activity	seminar	1	1	4	4	0.200000000000	NULL	NULL	2782	981	0.00008986340762041697
+FFA program	Star in Agriscience	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFA program	Star in Placement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFA show	lamb show	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffa's proprietary teaching methodology	Screenwriting Workshop's Storystorming Sessions	2	2	2	1	NULL	NULL	NULL	2	1	1
+ffa-led initiative	Regional Register	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ffa-led initiative	observer program	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+ffa-led initiative	Vessel Monitoring System	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+ffa-related document	banner	1	1	3	3	NULL	NULL	NULL	1989	924	0.0001675884028825205
+ffa-related document	leaflet	1	1	3	3	NULL	NULL	NULL	842	330	0.000395882818685669
+ffa-related document	poster	1	1	3	3	NULL	NULL	NULL	4712	1695	0.00007074136955291453
+Ffactors	sunlight	1	1	2	2	NULL	NULL	NULL	1231	402	0.00040617384240454913
+Ffactors	heat	1	1	2	2	NULL	NULL	NULL	4223	1245	0.00011839924224484963
+ffairs document	CIA's annual World Factbook'' almanac	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ffamous radio name	David Hamilton	1	1	1	1	1.000000000000	NULL	NULL	24	8	0.041666666666666664
+ffamous swiss maker	Alpina	1	1	2	2	0.500000000000	NULL	NULL	26	13	0.019230769230769232
+ffamous swiss maker	Breitling	1	1	2	2	0.500000000000	NULL	NULL	213	99	0.002347417840375587
+FFC building material	nail	1	1	1	1	NULL	NULL	NULL	2129	646	0.0004697040864255519
+FFC speaker	Newt Gingrich	1	1	1	1	NULL	NULL	NULL	256	124	0.00390625
+ffcars.com promotional item	decal	1	1	3	3	NULL	NULL	NULL	325	134	0.0010256410256410256
+ffcars.com promotional item	cap	1	1	3	3	NULL	NULL	NULL	1772	770	0.00018811136192626034
+ffcars.com promotional item	shirt	1	1	3	3	NULL	NULL	NULL	1604	647	0.0002078137988362427
+FFCC player	Norris	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+FFCs	Forestry Committee	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffdshow setting	blur & nr	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffeatures	cuticula	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFECTED E NVIRONMENT facility	road	1	1	1	1	NULL	NULL	NULL	6806	2297	0.00014692918013517486
+ffective state	love	1	1	3	3	NULL	NULL	NULL	4970	1397	0.0000670690811535882
+ffective state	grief	1	1	3	3	NULL	NULL	NULL	1260	360	0.0002645502645502645
+ffective state	shame	1	1	3	3	NULL	NULL	NULL	945	301	0.00035273368606701937
+ffective technique	utilizing plasmas for isotope separation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffective therapeutic technique	intensive behavioral intervention	1	1	2	2	1.000000000000	NULL	NULL	5	2	0.1
+ffective therapeutic technique	token economy	1	1	2	2	1.000000000000	NULL	NULL	33	24	0.015151515151515152
+ffects	obesity	1	1	8	8	NULL	NULL	NULL	7193	1475	0.000017378006395106353
+ffects	dry eye	1	1	8	8	NULL	NULL	NULL	368	116	0.00033967391304347825
+ffects	reverb	1	1	8	8	NULL	NULL	NULL	736	213	0.00016983695652173913
+ffects	hypertension	1	1	8	8	NULL	NULL	NULL	7750	1658	0.000016129032258064517
+ffects	delay	1	1	8	8	NULL	NULL	NULL	1442	646	0.00008668515950069348
+ffects	age-inappropriate weight gain	1	1	8	8	NULL	NULL	NULL	4	3	0.03125
+ffects	band-gap renormalization	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+ffects	compression	1	1	8	8	NULL	NULL	NULL	1079	472	0.00011584800741427248
+FFEIS activity	agenda	1	1	2	2	NULL	NULL	NULL	373	163	0.0013404825737265416
+FFEIS activity	setting meeting format	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFEL program	federal Stafford loan program	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFEL student loan	Stafford loan	1	1	1	1	NULL	NULL	NULL	123	45	0.008130081300813009
+FFELP lender	Sallie Mae	1	1	2	2	NULL	NULL	NULL	141	67	0.0035460992907801418
+FFELP lender	Student Loan Corp STU.N	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFELP private lender	savings & loan association	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+FFELP private lender	bank	1	1	3	3	NULL	NULL	NULL	11524	2789	0.00002892514173319449
+FFELP private lender	credit union	1	1	3	3	NULL	NULL	NULL	1043	354	0.00031959092361776926
+ffences	disorderly conduct	1	1	1	1	0.666666666666	NULL	NULL	197	83	0.005076142131979695
+ffering brand	Golden	1	1	2	2	NULL	NULL	NULL	212	97	0.0023584905660377358
+ffering brand	Sennelier	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+FFF technique	thermal FFF	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FFF technique	electrical FFF	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FFF technique	sedimentation FFF	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FFG game	Arkham Horror	1	1	2	2	0.500000000000	NULL	NULL	16	8	0.03125
+FFG game	Descent	1	1	2	2	0.500000000000	NULL	NULL	69	44	0.007246376811594203
+FFH Directive-listed species	invertebrate Maculinea nausithous	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFH Directive-listed species	Bombina variegata	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+FFH Directive-listed species	mollusc Vertigo moulinsiana	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFH Directive-listed species	plants Liparis loeselii	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFH Directive-listed species	amphibians Hyla arborea	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFH program	Teenage Health Makeover	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFH program	Face of Health	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ffic header	address	1	1	1	1	NULL	NULL	NULL	8879	1453	0.00011262529564140106
+ffice contact	institutional encounter	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ffice contact	phone	1	1	2	2	NULL	NULL	NULL	3710	1244	0.00013477088948787063
+ffice function	bookkeeping	1	1	1	1	NULL	NULL	NULL	674	281	0.001483679525222552
+ffice procedure	eye lift	1	1	1	1	1.000000000000	NULL	NULL	22	16	0.045454545454545456
+ffice process	information technology	1	1	1	1	NULL	NULL	NULL	2132	704	0.00046904315196998124
+ffice supply	tape	1	1	4	4	NULL	NULL	NULL	2353	959	0.00010624734381640459
+ffice supply	ink	1	1	4	4	NULL	NULL	NULL	1492	512	0.0001675603217158177
+ffice supply	ribbon	1	1	4	4	NULL	NULL	NULL	2039	602	0.00012260912211868564
+ffice supply	paper	1	1	4	4	NULL	NULL	NULL	10357	2799	0.000024138263976054843
+ffice system	accounting	1	1	3	3	NULL	NULL	NULL	5188	1624	0.00006425083526085839
+ffice system	manufacturing	1	1	3	3	NULL	NULL	NULL	4573	1084	0.00007289161017566877
+ffice system	human resource	1	1	3	3	NULL	NULL	NULL	2209	757	0.0001508978421608571
+ffice tool	word processor	1	1	1	1	NULL	NULL	NULL	1259	462	0.0007942811755361397
+ffices service	acquisition	1	1	1	1	NULL	NULL	NULL	985	460	0.0010152284263959391
+fficiency coating technique	powder coating	1	1	2	2	0.500000000000	NULL	NULL	270	119	0.001851851851851852
+fficiency coating technique	electrocoating	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+fficiency fuel cell	solid oxide fuel cell	2	1	4	2	1.000000000000	NULL	NULL	74	34	0.013513513513513514
+fficiency fuel cell	molten carbonate fuel cell	2	1	4	2	1.000000000000	NULL	NULL	40	17	0.025
+fficiency power generation system	gas turbine	1	1	1	1	NULL	NULL	NULL	294	162	0.003401360544217687
+fficient application system	handling bar	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+fficient process	inpatient room cleaning	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+fficient process	handling lab	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+fficult case	cases demanding an operation	1	1	1	1	NULL	NULL	NULL	1	1	1
+fflshavesome unique feature	acceleration	1	1	1	1	NULL	NULL	NULL	881	426	0.0011350737797956867
+FFM inventory	NEO PI-R	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+FFM trait	emotional stability	1	0	2	2	NULL	NULL	NULL	86	33	0.005813953488372093
+FFM trait	extraversion	1	0	2	2	NULL	NULL	NULL	144	59	0.003472222222222222
+ffm's	Oceanic JMC M48	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ffm's wheat flour product	Blue Key	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ffm's wheat flour product	Pen	1	1	2	2	NULL	NULL	NULL	5345	1399	0.00009354536950420954
+FFMC licensed broker	Wayne Wood's Fresh Fish in Edmonton	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffmpeg library	libavformat	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffmpeg-based directshow decoder	ffdshow-tryouts	2	1	2	1	NULL	NULL	NULL	2	1	1
+FFMS regulation	Dealing Activities on the Securities Market	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFMS regulation	Rules for Brokering	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFO pond	West Branch	1	1	1	1	0.500000000000	NULL	NULL	11	7	0.09090909090909091
+ffor larger flat area	building up a low spot in a fuselage	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ffor larger flat area	wing panel	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+fforts	Conservation Reserve Program	1	1	2	2	0.333333333333	NULL	NULL	165	64	0.0030303030303030303
+fforts	poverty reduction	1	1	2	2	0.333333333333	NULL	NULL	180	99	0.002777777777777778
+FFP scope	SB Short Dot	1	1	1	1	NULL	NULL	NULL	1	1	1
+ffqsfocusedoncol-lectingdatafor select food	tea	1	1	1	1	NULL	NULL	NULL	7608	1710	0.00013144058885383806
+FFR activity	FFW	1	1	2	2	0.500000000000	NULL	NULL	15	14	0.03333333333333333
+FFR activity	FFT	1	1	2	2	0.500000000000	NULL	NULL	139	97	0.0035971223021582736
+FFRDC contractor	National Laboratories	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+FFRDCs	Institute for Defense Analysis	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FFRDCs	Kational Defense Research Institute	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FFRDCs	Aerospace Corp	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FFRDCs	NASA Jet Propulsion Laboratory	1	1	7	7	1.000000000000	NULL	NULL	3	3	0.047619047619047616
+FFRDCs	Rand	1	1	7	7	1.000000000000	NULL	NULL	41	24	0.003484320557491289
+FFRDCs	Lincoln Laboratories	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FFRDCs	Project Air Force	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FFRPSOLVKPHQWV DQG5HVXOWV	Fort McPherson's Qualification Training Range	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFs	cousin's June wedding	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FFs	MMFF	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+FFS cost-sharing requirement	high copays on long hospital stay	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+FFS cost-sharing requirement	substantial inpatient deductible	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+FFS dental service category	deductible	1	1	1	1	NULL	NULL	NULL	312	136	0.003205128205128205
+FFS machine	electrical FFS machine	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FFS machine	cosmetic FFS machine	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FFS machine	industrial FFS machine	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FFS machine	packaging FFS machine	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FFS machine	cutting FFS machine	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FFS machine	automatic FFS machine	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FFS principle	learning by doing	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+FFS principle	learning from mistake	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+FFS provider	Non-Physician Medical Practitioners	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FFS provider	Medicare physician	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FFT activity	literacy	1	1	2	2	0.500000000000	NULL	NULL	1202	465	0.00041597337770382697
+FFT activity	income generation	1	1	2	2	0.500000000000	NULL	NULL	54	40	0.009259259259259259
+FFT analyzer	Prism Sound DScope	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+FFT analyzer	Hewlett-Packard HP 35660A	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+FFT architecture	array architecture	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFT architecture	single-memory architecture	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFT architecture	cached-memory architecture	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFT architecture	dual-memory architecture	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FFT architecture	pipelined architecture	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+FFT diag plug-in, tool	side bands marker	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FFT function	coherence	1	1	2	2	0.500000000000	NULL	NULL	178	95	0.0028089887640449437
+FFT function	auto correlation	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+FFT library	FFTW	3	3	4	2	1.000000000000	NULL	NULL	9	6	0.25
+fft library	efficient simd fft library	1	1	4	2	1.000000000000	NULL	NULL	2	2	0.125
+FFT parameter	processing parallelism	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+FFT process	phase	1	1	2	2	0.500000000000	NULL	NULL	318	157	0.0015723270440251573
+FFT process	computing the inverse FFT	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+FFT scheme	van der Hoeven's TFT''	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFT software	Sound Technology's SpectraLab	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFT spectrum analyzer	SR760	2	1	3	2	NULL	NULL	NULL	4	3	0.3333333333333333
+FFT spectrum analyzer	Stanford Research Systems SR785	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+FFT window function	Hanning	1	1	1	1	1.000000000000	NULL	NULL	34	15	0.029411764705882353
+fft-based application	real time spectral analysis	1	1	1	1	NULL	NULL	NULL	1	1	1
+fft-based spectral measurement	power spectrum	1	1	3	3	1.000000000000	NULL	NULL	54	46	0.006172839506172839
+fft-based spectral measurement	averaged magnitude spectrum	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+fft-based spectral measurement	phase spectrum on a signal	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+fft-based spectrum analyzer	HP 35670A	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFTapplications	convolution with a fixed kernel	2	2	2	1	NULL	NULL	NULL	2	1	1
+ffth-century philosopher	Democritus	1	1	2	2	0.500000000000	NULL	NULL	52	31	0.009615384615384616
+ffth-century philosopher	Anaxagoras	1	1	2	2	0.500000000000	NULL	NULL	20	11	0.025
+FFTresults	selectionof maximum spectrum	1	1	1	1	NULL	NULL	NULL	1	1	1
+fftspectrum analyzer	SR760	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+FFV car selling price	Ford Focus used in Sweden	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFVI rom hack	Cloud of Darkness	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FFVI rom hack	Omega Weapon	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FFVII spinoff	FFVII Dirge of Cerberus	1	1	1	1	NULL	NULL	NULL	1	1	1
+FfW micro-projects	irrigation	1	1	1	1	NULL	NULL	NULL	1571	697	0.0006365372374283895
+ffw structure	gully control measure	1	1	1	1	NULL	NULL	NULL	1	1	1
+FFWC charity	Canine Companions	1	1	1	1	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+FFX shield	Mutator's Forcefield	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FFX shield	Energy Shield	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333

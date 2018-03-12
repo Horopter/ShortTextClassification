@@ -1,0 +1,7 @@
+QL area	construction of data-based scientific argument	1	1	1	1	NULL	NULL	NULL	1	1	1
+QL option	date	1	1	2	2	NULL	NULL	NULL	5860	1522	0.00008532423208191126
+QL option	time	1	1	2	2	NULL	NULL	NULL	8851	2418	0.000056490792000903855
+QLCS tornado attribute	average duration	2	1	2	1	NULL	NULL	NULL	5	4	0.4
+qld's higher profile venue	Conrad Jupiter's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qld's higher profile venue	Treasury Casinos & popular pub The Paddo Tavern	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QLR object	Layouts	1	1	1	2	1.000000000000	NULL	NULL	10	11	0.1

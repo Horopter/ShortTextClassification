@@ -1,0 +1,389 @@
+cf	year old cf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CF	ADHOC	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+CF activity	social work	1	1	1	1	NULL	NULL	NULL	964	283	0.001037344398340249
+CF aircraft	CP-140 Aurora	2	1	2	1	NULL	NULL	NULL	2	1	1
+CF AR detector	RX	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+cf case	Topaz Kitchens Ltd	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF cause	Cystic Fibrosis Foundation	1	1	1	1	1.000000000000	NULL	NULL	33	17	0.030303030303030304
+CF cell line	F508 CFTR	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF component	flash memory	1	1	1	1	NULL	NULL	NULL	594	246	0.0016835016835016834
+CF device	ethernet card	1	1	2	2	NULL	NULL	NULL	66	29	0.007575757575757576
+CF device	fl ash memory	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CF doctrine	Non-Combatant Evacuation Operations	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF event	fundraiser	1	1	1	1	NULL	NULL	NULL	497	162	0.002012072434607646
+CF feature	steel bumper	6	5	6	1	NULL	NULL	NULL	7	2	0.8571428571428571
+CF film deposition gas	C2H4 gas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CF film deposition gas	C4F8 gas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CF folks bad-mouthing movement	bench pressing	1	1	1	1	1.000000000000	NULL	NULL	24	12	0.041666666666666664
+CF format card	ethernet	1	1	1	1	NULL	NULL	NULL	1431	598	0.0006988120195667365
+Cf Good habit	smoking	1	1	1	1	NULL	NULL	NULL	12009	2006	0.00008327088017320343
+CF hood advantage	strength	1	1	2	2	0.500000000000	NULL	NULL	2884	881	0.00017337031900138697
+CF hood advantage	weight saving	1	1	2	2	0.500000000000	NULL	NULL	12	9	0.041666666666666664
+CF lighting promotion	discount coupons distributed with utility bill	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF occupation	Military Police	1	1	2	2	NULL	NULL	NULL	116	73	0.004310344827586207
+CF occupation	naval technician	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CF part	rear valance	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF pathogen	Pseudomonas aeruginosa	3	3	6	2	NULL	NULL	NULL	357	104	0.004201680672268907
+CF pathogen	Staphylococcus aureus	3	3	6	2	NULL	NULL	NULL	522	148	0.0028735632183908046
+Cf Physical hazard	cancer	1	1	1	1	NULL	NULL	NULL	12145	2003	0.00008233841086867023
+CF piece	intake runner	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF policy	investigation of harassment complaint	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF population	Ashkenazi Jewish population	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+CF recorder	Zoom	1	1	1	1	0.500000000000	NULL	NULL	851	406	0.0011750881316098707
+CF service	local-base mental health	1	1	1	1	NULL	NULL	NULL	1	1	1
+cf similar word	furniture	1	1	4	4	NULL	NULL	NULL	8749	2264	0.000028574694250771517
+cf similar word	information	1	1	4	4	NULL	NULL	NULL	1615	616	0.00015479876160990713
+cf similar word	new	1	1	4	4	NULL	NULL	NULL	1979	778	0.00012632642748863063
+cf similar word	luggage	1	1	4	4	NULL	NULL	NULL	525	183	0.0004761904761904762
+CF specialist occupation	Medical	1	1	2	2	NULL	NULL	NULL	3750	1210	0.00013333333333333334
+CF specialist occupation	Legal	1	1	2	2	NULL	NULL	NULL	2438	876	0.00020508613617719443
+CF stalwart	Natalia Lafourcade	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CF subsidized program	UTPNCM	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+CF subsidized program	ROTP	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+cf symptom	typical cf symptom	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CF type	text	2	1	8	4	NULL	NULL	NULL	3231	1203	0.00015475085112968121
+CF type	audio	2	1	8	4	NULL	NULL	NULL	2864	1159	0.00017458100558659218
+CF type	image	2	1	8	4	NULL	NULL	NULL	4950	1682	0.00010101010101010101
+CF type	video	2	1	8	4	NULL	NULL	NULL	10816	3555	0.00004622781065088757
+CF unit	Royal Natal Carbineers	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF use narrative technique	pacing	1	1	3	3	NULL	NULL	NULL	318	168	0.0010482180293501047
+CF use narrative technique	description	1	1	3	3	NULL	NULL	NULL	1517	559	0.0002197319270490002
+CF use narrative technique	dialogue	1	1	3	3	NULL	NULL	NULL	617	255	0.0005402485143165856
+CF-2008-34 meeting	town hall	1	1	1	1	NULL	NULL	NULL	402	195	0.0024875621890547263
+CF-2008-34Meetings	town hall	1	1	1	1	NULL	NULL	NULL	402	195	0.0024875621890547263
+cf-associated abnormality	malnutrition	1	1	2	2	NULL	NULL	NULL	1009	319	0.0004955401387512388
+cf-associated abnormality	bile duct stricture	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+cf-based gas	CH.sub.3 gas	4	1	10	7	NULL	NULL	NULL	4	1	0.4
+cf-based gas	C.sub.2F.sub.6 gas	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+cf-based gas	C.sub.3F.sub.8 gas	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+cf-based gas	C.sub.4F.sub.8 gas	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+cf-based gas	CF.sub.4 gas	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+cf-based gas	CHF.sub.3 gas	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+cf-based gas	C.sub.4F.sub.6 gas	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+cf-card-packing camera	Nikon D300	1	1	1	1	1.000000000000	NULL	NULL	28	16	0.03571428571428571
+cf-related organ manifestation	intestinal calcification	1	1	1	1	NULL	NULL	NULL	1	1	1
+cf. book	A. J. Schmidt	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF4 grade	Diesel Formula	1	1	1	1	NULL	NULL	NULL	1	1	1
+CF6 technology improvement	advancements in the high pressure turbine technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CF6 technology improvement	low emissions combustor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+CFA activity	convention	1	1	1	1	NULL	NULL	NULL	522	230	0.0019157088122605363
+CFA amenity	Marina	1	1	4	4	NULL	NULL	NULL	478	274	0.0005230125523012552
+CFA amenity	Recreation Areas	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+CFA amenity	Clubhouse	1	1	4	4	NULL	NULL	NULL	758	195	0.00032981530343007914
+CFA amenity	Campground	1	1	4	4	NULL	NULL	NULL	372	175	0.0006720430107526882
+CFA charterholders	brokers employed by the major Wall Street firm	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFA consumer advocate group	CFA	1	1	1	1	NULL	NULL	NULL	155	60	0.0064516129032258064
+CFA event	theater performance	1	1	1	1	1.000000000000	NULL	NULL	74	39	0.013513513513513514
+CFA index	comparative fit index	1	1	1	1	1.000000000000	NULL	NULL	16	10	0.0625
+CFA program	Community Fireguard Groups	2	2	5	4	NULL	NULL	NULL	3	2	0.26666666666666666
+CFA program	FireReady Victoria message	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+CFA program	Fire Ready Victoria meeting	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+CFA program	Community Fireguard	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+CFA study tool	audio tape	1	1	5	5	NULL	NULL	NULL	158	91	0.0012658227848101266
+CFA study tool	flash card	1	1	5	5	NULL	NULL	NULL	291	149	0.0006872852233676976
+CFA study tool	video tape seminar	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+CFA study tool	written study guide	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+CFA study tool	software	1	1	5	5	NULL	NULL	NULL	3405	1210	0.00005873715124816447
+CFA ty	Democratic Republic of Congo	1	1	1	1	NULL	NULL	NULL	396	88	0.0025252525252525255
+CFA witness	chief officer Russell Rees	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfa-sponsored event	Annual Conference	1	1	1	1	1.000000000000	NULL	NULL	80	59	0.0125
+CFAC case	Leapfrog Enterprises	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+CFAC case	Fisher Price	1	1	2	2	NULL	NULL	NULL	111	54	0.0045045045045045045
+CFACC ISR aircraft	Global Hawk	1	1	2	2	NULL	NULL	NULL	108	57	0.004629629629629629
+CFACC ISR aircraft	U2	1	1	2	2	NULL	NULL	NULL	903	214	0.0005537098560354374
+CfAO postdocs	Paul Calas	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CfAO postdocs	Frank Marchis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CfAO postdocs	Matthias Schoeck	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFAR resource	Academic Mentors	1	1	1	2	NULL	NULL	NULL	1	1	1
+CFAs	David Merkel	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfawcsponsored project	Yukon	1	1	1	1	NULL	NULL	NULL	87	48	0.011494252873563218
+CFB game	South Carolina for the pageantry	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFC appliance	refrigerator	2	1	6	4	NULL	NULL	NULL	5220	1209	0.00012771392081736908
+CFC appliance	freezer	2	1	6	4	NULL	NULL	NULL	1051	320	0.0006343165239454488
+CFC appliance	dehumidifier	1	1	6	4	NULL	NULL	NULL	174	80	0.0009578544061302681
+CFC appliance	air conditioner	1	1	6	4	NULL	NULL	NULL	1673	605	0.00009962143853357243
+CFC application	high-end electronics production	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+CFC application	automotive air conditioning	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+CFC charity	American Red Cross	2	2	2	1	NULL	NULL	NULL	889	264	0.0022497187851518562
+CFC containing product	metered-dose inhalers used in the treatment of Asthma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFC containing product	Chronic Obstructive Pulmonary Disease	1	1	2	2	NULL	NULL	NULL	813	229	0.0006150061500615006
+CFC crazy	Zac Poonen	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFC free refrigerant	HFC R-134a	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFC free refrigerant	environmentally friendly HCFC R-123	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFC molecule	CFCl 3	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFC part	nut	1	1	4	4	NULL	NULL	NULL	5171	1477	0.000048346548056468766
+CFC part	bolt	1	1	4	4	NULL	NULL	NULL	2289	614	0.00010921799912625601
+CFC part	threaded rod	1	1	4	4	NULL	NULL	NULL	60	26	0.004166666666666667
+CFC part	washer	1	1	4	4	NULL	NULL	NULL	2166	460	0.00011542012927054478
+CFC product	refrigerator	1	1	2	2	NULL	NULL	NULL	5220	1209	0.00009578544061302682
+CFC product	air-conditioner	1	1	2	2	NULL	NULL	NULL	65	40	0.007692307692307693
+CFC refrigerant	R-12	2	2	6	5	0.666666666666	NULL	NULL	52	22	0.01282051282051282
+CFC refrigerant	Freon	1	1	6	5	0.666666666666	NULL	NULL	267	123	0.0006242197253433209
+cfc refrigerant	virgin cfc refrigerant	1	1	6	5	0.666666666666	NULL	NULL	2	2	0.08333333333333333
+CFC refrigerant	R-114	1	1	6	5	0.666666666666	NULL	NULL	3	3	0.05555555555555555
+CFC refrigerant	R-11	1	1	6	5	0.666666666666	NULL	NULL	29	14	0.005747126436781609
+CFC replacement	HCFC-141b	1	1	2	2	0.500000000000	NULL	NULL	17	8	0.029411764705882353
+CFC replacement	HFCs	1	1	2	2	0.500000000000	NULL	NULL	43	31	0.011627906976744186
+CFC replacement product	R-134a	1	1	1	1	1.000000000000	NULL	NULL	51	26	0.0196078431372549
+CFC substitute	HCFC-123	1	1	3	3	0.333333333333	NULL	NULL	17	11	0.0196078431372549
+CFC substitute	HFC-134a	1	1	3	3	0.333333333333	NULL	NULL	53	30	0.006289308176100628
+CFC substitute	propane	1	1	3	3	0.333333333333	NULL	NULL	1936	597	0.00017217630853994488
+CFC volunteer	Damian Edwards	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFC volunteer	Vada Dale	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFC's	CFC-11	2	2	2	1	0.500000000000	NULL	NULL	23	12	0.08695652173913043
+cfc-based product	Maxair	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+cfc-free metered-dose inhaler	dry-powder inhaler	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+cfc-free product	HFA pmdis	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfc-substitute solvent	HCFC	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+CFCs	CFC-11	4	4	18	13	0.785714285714	NULL	NULL	23	12	0.03864734299516908
+CFCs	CFC-12	3	3	18	13	0.785714285714	NULL	NULL	18	10	0.027777777777777776
+CFCs	Freon 113	1	1	18	13	0.785714285714	NULL	NULL	3	3	0.018518518518518517
+CFCs	Gujranwala Tools	1	1	18	13	0.785714285714	NULL	NULL	1	1	0.05555555555555555
+CFCs	halons used in fire extinguisher	1	1	18	13	0.785714285714	NULL	NULL	2	2	0.027777777777777776
+CFCs	HCFC-22	1	1	18	13	0.785714285714	NULL	NULL	13	7	0.004273504273504273
+cfcs	aerosol propellant cfcs	1	1	18	13	0.785714285714	NULL	NULL	1	1	0.05555555555555555
+CFCs	CCl 3 F	1	1	18	13	0.785714285714	NULL	NULL	6	4	0.009259259259259259
+CFCs	trichlorofluoromethane	1	1	18	13	0.785714285714	NULL	NULL	12	10	0.004629629629629629
+cfcs	aerosol area cfcs	1	1	18	13	0.785714285714	NULL	NULL	1	1	0.05555555555555555
+CFCs	CCl3F	1	1	18	13	0.785714285714	NULL	NULL	6	4	0.009259259259259259
+CFCs	CFC-113	1	1	18	13	0.785714285714	NULL	NULL	16	8	0.003472222222222222
+CFCs	Moulds Center	1	1	18	13	0.785714285714	NULL	NULL	1	1	0.05555555555555555
+CFCSA member	Saskatchewan Construction Safety Association	2	1	2	1	NULL	NULL	NULL	2	1	1
+CFD applica-tionsareusedin various field	polymer processing	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+CFD applica-tionsareusedin various field	thermal hydraulics	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+CFD applica-tionsareusedin various field	ocean modeling	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+CFD application	non-Newtonian flow	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+CFD application	slow flow	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+CFD calculation quantity	boundary layer thickness	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+CFD code	Fluent	4	3	9	6	1.000000000000	NULL	NULL	51	32	0.03485838779956427
+cfd code	modern cfd code	1	1	9	6	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+CFD code	RANS 9 method	1	1	9	6	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+CFD code	Large Eddy Simulations	1	1	9	6	1.000000000000	NULL	NULL	7	6	0.015873015873015872
+cfd code	commercial cfd code	1	1	9	6	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+CFD code	STAR-CD	1	1	9	6	1.000000000000	NULL	NULL	3	3	0.037037037037037035
+CFD instrument	Indices	4	2	12	8	0.333333333333	NULL	NULL	13	8	0.10256410256410256
+CFD instrument	Commodities	4	2	12	8	0.333333333333	NULL	NULL	11	16	0.1212121212121212
+CFD instrument	treasury	2	1	12	8	0.333333333333	NULL	NULL	412	203	0.0008090614886731391
+CFD instrument	gold	1	1	12	8	0.333333333333	NULL	NULL	10877	2626	0.000007661426251110907
+CFD instrument	crude oil	1	1	12	8	0.333333333333	NULL	NULL	819	302	0.00010175010175010175
+CFD issue	grid resolution	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+CFD method	finite volume method	1	1	3	3	0.500000000000	NULL	NULL	24	14	0.013888888888888888
+CFD method	finite element method	1	1	3	3	0.500000000000	NULL	NULL	274	159	0.0012165450121654502
+CFD method	FDM in Arai et al.	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+CFD model	filtration system	1	1	2	2	1.000000000000	NULL	NULL	42	32	0.011904761904761904
+CFD model	air induction	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+CFD package	Fluent	1	1	3	3	1.000000000000	NULL	NULL	51	32	0.0065359477124183
+CFD package	CFX	1	1	3	3	1.000000000000	NULL	NULL	15	10	0.02222222222222222
+CFD package	Numeca for radial turbomachinery design	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+CFD program	Fluent	1	1	1	1	1.000000000000	NULL	NULL	51	32	0.0196078431372549
+CFD provider	MF Global	1	1	2	2	1.000000000000	NULL	NULL	20	13	0.025
+CFD provider	IG Markets	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+CFD provider model	market maker model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFD provider model	direct access model	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFD result	temperature	1	1	2	2	NULL	NULL	NULL	21509	4199	0.0000232460830350086
+CFD result	pressure	1	1	2	2	NULL	NULL	NULL	4442	1435	0.00011256190904997749
+CFD senior project	full software	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CFD setting	different turbulent model	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFD simulation result	surface temperature	1	1	1	1	NULL	NULL	NULL	114	65	0.008771929824561403
+CFD software	Fluent	2	2	3	2	1.000000000000	NULL	NULL	51	32	0.0261437908496732
+cfd software	open-source cfd software	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+CFD task	wind-tunnel comparison	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFDA member	Francisco Costa	1	1	2	2	0.500000000000	NULL	NULL	4	4	0.125
+CFDA member	Lazaro Hernandez	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+CFDC experiment parameter	initial saturation	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFDCs	Trenval Business Development Corporation	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFDs	SG's new Turbos	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFE verification procedure	on-site inspection	1	1	1	1	1.000000000000	NULL	NULL	21	19	0.047619047619047616
+cffunction attribute	name	1	1	1	1	NULL	NULL	NULL	13911	2278	0.00007188555819135935
+CFG event	advisory meeting	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFG event	annual	1	1	2	2	NULL	NULL	NULL	198	143	0.0025252525252525255
+CFG service	national scale rating	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfgs	weapon cfgs	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFH design	non-bypass combination sash CFH	2	1	2	1	NULL	NULL	NULL	2	1	1
+CFI competition	Leading Edge Fund	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFI competition	New Initiatives Fund	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFI initiative	International Joint Venture Fund	2	1	2	1	NULL	NULL	NULL	2	1	1
+CFI purchase quality handcraft item	furniture	1	1	4	4	NULL	NULL	NULL	8749	2264	0.000028574694250771517
+CFI purchase quality handcraft item	clothing	1	1	4	4	NULL	NULL	NULL	9665	2540	0.00002586652871184687
+CFI purchase quality handcraft item	jewelry	1	1	4	4	NULL	NULL	NULL	7848	1759	0.000031855249745158005
+CFI purchase quality handcraft item	bag	1	1	4	4	NULL	NULL	NULL	3272	1148	0.00007640586797066015
+CFIA act	Seeds Act	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+CFIA act	Feeds Act	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFIA act	Fertilizers Act	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFIs	SEWA Bank of Ahmedabad	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFL All-Stars	Saskatchewan receiver Chris Getzlaf	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFL bulb	85w CFL	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFL bulb	PAR30 CFL	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFL bulb	55W CFL	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFL card	1962 Post	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFL card	1958 Topps	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFL card	1968 O-Pee-Chee	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFL choiceJerusalem PostSome Green NGOs	World Wildlife Fund	1	1	1	1	NULL	NULL	NULL	396	126	0.0025252525252525255
+CFL city	Montreal	1	1	2	2	NULL	NULL	NULL	659	186	0.0007587253414264037
+CFL city	Winnipeg	1	1	2	2	NULL	NULL	NULL	248	69	0.0020161290322580645
+CFL feature	energy saving	1	1	3	3	NULL	NULL	NULL	261	123	0.0012771392081736908
+CFL feature	long life	1	1	3	3	NULL	NULL	NULL	141	47	0.002364066193853428
+CFL feature	low heat production	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+CFL fitting	electronic CFL fitting	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFL great	Henry Burris	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+CFL great	Doug Flutie	1	1	2	2	1.000000000000	NULL	NULL	23	14	0.021739130434782608
+CFL lamp	electrical CFL lamp	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+CFL lamp	hand mini torch	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+CFL lamp	CFL light lamp	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+CFL lamp	hand torch	1	1	6	6	NULL	NULL	NULL	5	5	0.03333333333333333
+CFL lamp	compact fluorescent lamp	1	1	6	6	NULL	NULL	NULL	118	79	0.0014124293785310734
+CFL lamp	power saving CFL lamp	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+CFL legend	Tom Clements	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+CFL legend	Warren Moon	1	1	4	4	1.000000000000	NULL	NULL	21	15	0.011904761904761904
+CFL legend	Etcheverry	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+CFL legend	Ron Lancaster	1	1	4	4	1.000000000000	NULL	NULL	7	5	0.03571428571428571
+CFL light	CFL bulb	1	1	4	4	0.500000000000	NULL	NULL	26	20	0.009615384615384616
+CFL light	fluorescent CFL bulb	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+CFL light	compact fluorescent lamp	1	1	4	4	0.500000000000	NULL	NULL	118	79	0.00211864406779661
+CFL light	fluorescent CFL tube	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+CFL lighting fixture	lamp	1	1	1	1	NULL	NULL	NULL	1859	806	0.0005379236148466917
+CFL luminary	spiral CFL	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+CFL luminary	energy saving CFL	1	1	5	5	NULL	NULL	NULL	4	3	0.05
+CFL luminary	fluorescent CFL	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+CFL luminary	3 tube CFL	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+CFL luminary	twin tube CFL	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+CFL manufacturers website	GE	1	1	2	2	NULL	NULL	NULL	306	150	0.0016339869281045752
+CFL manufacturers website	Globe	1	1	2	2	NULL	NULL	NULL	354	214	0.0014124293785310734
+CFL player	Cory Olynick	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+CFL player	Chris Bauman	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+CFL player	Henry Burris	1	1	8	8	1.000000000000	NULL	NULL	6	6	0.020833333333333332
+CFL player	Brendon LaBatte	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+CFL player	Jason Clermont	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+CFL player	Chris Getzlaf	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+CFL player	Jordan Sisco	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+CFL player	Neal Hughes	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+CFL quarterback	Warren Moon	1	1	1	1	1.000000000000	NULL	NULL	21	15	0.047619047619047616
+CFL retail outlet	Home Depot	1	1	1	1	NULL	NULL	NULL	3215	772	0.00031104199066874026
+CFL rule	wider field	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFL shape	tubed CFL	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFL specific light fixture	floor lamp	1	1	1	1	NULL	NULL	NULL	137	90	0.0072992700729927005
+CFL superstar	Ron Lancaster	1	1	5	5	1.000000000000	NULL	NULL	7	5	0.028571428571428574
+CFL superstar	Bernie Faloney	1	1	5	5	1.000000000000	NULL	NULL	3	2	0.06666666666666667
+CFL superstar	Frank Tripuka	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+CFL superstar	Sam Etcheverry	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+CFL superstar	Pete Liske	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+CFLASH device information	vendor	1	1	3	3	NULL	NULL	NULL	566	280	0.0005889281507656066
+CFLASH device information	amount of FLASH memory	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFLASH device information	format information	1	1	3	3	NULL	NULL	NULL	6	3	0.05555555555555555
+CFLC program	Reserve Unit Support Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFLME related parameter	flow rate	1	1	1	1	NULL	NULL	NULL	977	329	0.0010235414534288639
+cfls timer	mechanical timer	1	1	1	1	NULL	NULL	NULL	2	10	0.5
+cfm carburetor	Edelbrock	1	1	4	4	0.500000000000	NULL	NULL	62	33	0.004032258064516129
+cfm carburetor	Quadrajet	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+cfm carburetor	Holley	1	1	4	4	0.500000000000	NULL	NULL	28	20	0.008928571428571428
+cfm carburetor	Quick Fuel	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+CFM emission removal application	heavy equipment maintenance facility	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFM technology	insulation system	3	3	5	2	0.500000000000	NULL	NULL	8	4	0.22499999999999998
+CFM technology	liquid acquisition	2	2	5	2	0.500000000000	NULL	NULL	2	1	0.4
+CFMB member	Pu Nang Lian Thang	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFMB member	Dr. Lian H. Sakhong	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFMB member	Pu Lian Uk	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFML engine	OpenBD	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFML server	Railo	2	2	5	4	NULL	NULL	NULL	5	4	0.16
+CFML server	Open BlueDragon	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+CFML server	BlueDragon on J2EE	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+CFML server	SmithProject	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+CFNM Blogs	Amateur CFNM Blog	2	2	2	1	NULL	NULL	NULL	2	1	1
+CFO act agency	General Services Administration	1	1	3	3	0.666666666666	NULL	NULL	76	23	0.0043859649122807015
+CFO act agency	Department of Veterans Affairs	1	1	3	3	0.666666666666	NULL	NULL	87	46	0.0038314176245210726
+CFO act agency	Department of Transportation	1	1	3	3	0.666666666666	NULL	NULL	212	49	0.001572327044025157
+CFO consulting service	profitability analysis	1	1	1	1	1.000000000000	NULL	NULL	20	15	0.05
+CFO leader	Mr. Zeng Fanhua	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFO service	tax planning	1	1	2	2	0.500000000000	NULL	NULL	159	86	0.0031446540880503146
+CFO service	strategic financial analysis	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+cfo's play game	Squash	1	1	2	2	NULL	NULL	NULL	3158	896	0.00015832805573147562
+cfo's play game	Polo	1	1	2	2	NULL	NULL	NULL	485	208	0.0010309278350515464
+CFOAM thermophysical property	thermal expansion	1	1	2	2	NULL	NULL	NULL	149	66	0.003355704697986577
+CFOAM thermophysical property	thermal conductivity	1	1	2	2	NULL	NULL	NULL	549	189	0.0009107468123861566
+cfor higher level scientific calculation	data analysis	1	1	1	1	NULL	NULL	NULL	399	197	0.002506265664160401
+Cfor2hinaswinging bucket rotor	Beckman SW41 Ti	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFOs	Mark Teresi at Presbyterian Hospital	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+CFOs	Claude Changarnier of Microsoft International	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+CFOs	Louis C. Camilleri at Philip Morris	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+CFOs	Rick Davis of NMT Medical	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+cfow's permanent endowment fund	Jill Ackhurst Social Action Fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFP board-registered program	program at Georgetown University	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+CFP board-registered program	Kaplan Schweser's	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+CFP instrument	closures for specific fishery	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFP member	Richard Bourne	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFP non-profits	Latin American Montessori Bilingual PCS	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfpb-generated datum	market	1	1	3	3	NULL	NULL	NULL	1303	552	0.0002558199027884369
+cfpb-generated datum	reports of examination	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+cfpb-generated datum	complaint	1	1	3	3	NULL	NULL	NULL	327	167	0.001019367991845056
+CFPs	ESAT-6	1	1	2	2	NULL	NULL	NULL	11	5	0.045454545454545456
+CFPs	CFP-10	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+CFR member	Secretary of State Dean Acheson	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+CFR member	Assistant Secretary of State for Far Eastern Affairs Dean Rusk	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFR method	Peak Windowing CFR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFR method	Noise Shaping CFR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFRETS institution	Royal Military College	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+CFRETS institution	Canadian Forces College	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+CFRP component	interior frame	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+CFRP component	towing package	1	1	3	3	1.000000000000	NULL	NULL	24	8	0.013888888888888888
+CFRP component	exterior panel	1	1	3	3	1.000000000000	NULL	NULL	8	4	0.041666666666666664
+CFs	Tongla Phuensum CF at Mongar	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	nontoxic inflammable	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	Woku Damchi CF at Punakha	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	Zhasela CF at Lhuentse	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	Joensham Lamdokha CF at Trashigang	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	cide	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	Mersey Forest	1	1	10	10	NULL	NULL	NULL	4	4	0.025
+CFs	vore	1	1	10	10	NULL	NULL	NULL	5	5	0.02
+CFs	Septangzur CF at Bumthang	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFs	Yargay CF at Tsirang	1	1	10	10	NULL	NULL	NULL	1	1	0.1
+CFS application	book recommender system Amazon.com	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFS application	andWWW information recommendation system PHOAKS	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFS application	joke recommender systems Jester	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+CFS initiative	farmers market	1	1	1	1	NULL	NULL	NULL	359	208	0.002785515320334262
+CFS organization	Third Sector New England	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFS patient group	American Association for CFS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFS patient group	National CFIDS Foundation in the USA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFS program	community garden	1	1	1	1	NULL	NULL	NULL	277	152	0.0036101083032490976
+CFS project	market garden	1	1	2	2	0.500000000000	NULL	NULL	20	18	0.025
+CFS project	farmers market	1	1	2	2	0.500000000000	NULL	NULL	359	208	0.001392757660167131
+CFS protocol specific distribution	keepalive mechanism for detecting network topology change	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+CFS protocol-specific distribution	keepalive mechanism for detecting network topology change	4	1	4	1	NULL	NULL	NULL	5	2	0.8
+CFS strategy	developing farmers market	2	2	2	1	NULL	NULL	NULL	2	1	1
+CFS symptom	migraine headache	1	1	3	3	NULL	NULL	NULL	303	123	0.0011001100110011
+CFS symptom	tiredness	1	1	3	3	NULL	NULL	NULL	1125	295	0.0002962962962962963
+CFS symptom	pain	1	1	3	3	NULL	NULL	NULL	5315	1495	0.00006271558482282847
+cfs's primary function	foster care	1	1	1	1	NULL	NULL	NULL	228	100	0.0043859649122807015
+cfs-like symptom	fatigue	2	2	4	2	NULL	NULL	NULL	7827	1619	0.00012776287210936502
+cfs-like symptom	poor concentration	2	2	4	2	NULL	NULL	NULL	174	73	0.005747126436781609
+CFSA datum	attrition datum	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+CFSA datum	exit interview	1	1	3	3	1.000000000000	NULL	NULL	53	43	0.006289308176100628
+CFSA datum	worker caseload count	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+cfsan-initiated action	issuance of a regulation	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFSC recognition program	Cat Bucks program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFSC recognition program	Shared Values Award	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFSC trainer	Greg	1	1	1	1	1.000000000000	NULL	NULL	24	20	0.041666666666666664
+CFSP instrument	declaration	1	1	3	3	0.500000000000	NULL	NULL	101	57	0.0033003300330033
+CFSP instrument	joint action	1	1	3	3	0.500000000000	NULL	NULL	11	9	0.0303030303030303
+CFSP instrument	common position	1	1	3	3	0.500000000000	NULL	NULL	4	3	0.08333333333333333
+CFSs	Gibbssampling based on clustering	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+CFT service	legal defense grant	1	1	7	7	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+CFT service	research	1	1	7	7	0.250000000000	NULL	NULL	3399	1283	0.000042029168242760476
+CFT service	communications assistance	1	1	7	7	0.250000000000	NULL	NULL	1	1	0.14285714285714285
+CFT service	publication	1	1	7	7	0.250000000000	NULL	NULL	1177	533	0.00012137395314965407
+CFT service	governmental relation	1	1	7	7	0.250000000000	NULL	NULL	15	8	0.009523809523809523
+CFT service	training	1	1	7	7	0.250000000000	NULL	NULL	7685	2537	0.000018589088205223532
+CFT service	member database management	1	1	7	7	0.250000000000	NULL	NULL	2	2	0.07142857142857142
+CFTC chair	Brooksley Born	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+CFTR inhibitor	Napo's compound	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+cftr inhibitor	potent cftr inhibitor	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+cftr-defective cell line	transformed CF line	1	1	1	1	NULL	NULL	NULL	1	1	1
+cftr-expressing epithelium	nasal epithelium	1	1	1	1	NULL	NULL	NULL	1	1	1
+CFU 0206.2.6 use various model	number line	3	2	6	2	0.500000000000	NULL	NULL	127	49	0.011811023622047244
+CFU 0206.2.6 use various model	picture	3	2	6	2	0.500000000000	NULL	NULL	4905	1393	0.0003058103975535168
+cfu's carbon fund	Community Development Carbon Fund	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+CFUGs	Karmapunya of Kabhrepalanchowk district	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFUGs	Bhumesthan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+CFURLAccess	function CFURLCreateDataAndPropertiesFromResource	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfurther specialized study	duplex study	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+CFW residential customer	David Bull family	1	1	1	1	NULL	NULL	NULL	1	1	1
+cfw-valued asset	fixed asset	1	1	1	1	NULL	NULL	NULL	160	76	0.00625

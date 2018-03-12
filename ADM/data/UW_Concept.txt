@@ -1,0 +1,140 @@
+UW academic requirement	residency	1	1	1	1	NULL	NULL	NULL	139	67	0.007194244604316547
+UW bothell course	Global Environmental Issues	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+UW bothell course	Environmental Chemistry	1	1	2	2	1.000000000000	NULL	NULL	44	24	0.011363636363636364
+UW branding	logo	1	1	1	1	NULL	NULL	NULL	2180	879	0.00045871559633027525
+UW campus	UW-Whitewater	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW campus	UW Madison	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UW campus	UW-Stout	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW children's center	UW-Eau Claire	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+UW children's center	Milwaukee	1	1	3	3	0.500000000000	NULL	NULL	505	142	0.0006600660066006601
+UW children's center	Platteville	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+UW coach	Tia Jackson	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UW coach	Rick Neuheisel	1	1	5	5	NULL	NULL	NULL	5	3	0.04
+UW coach	Bret Bielema	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+UW coach	Bo Ryan	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+UW coach	Lorenzo Romar	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UW department	UW-Platteville	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UW email client	Outlook Express	1	1	3	3	NULL	NULL	NULL	609	188	0.0005473453749315818
+UW email client	Mozilla Thunderbird	1	1	3	3	NULL	NULL	NULL	164	68	0.002032520325203252
+UW email client	PC Pine	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UW employee	researcher	1	1	1	1	NULL	NULL	NULL	426	200	0.002347417840375587
+UW institution	Platteville	2	1	6	5	1.000000000000	NULL	NULL	6	5	0.1111111111111111
+UW institution	Stevens Point	1	1	6	5	1.000000000000	NULL	NULL	9	5	0.018518518518518517
+UW institution	UW-Green Bay	1	1	6	5	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+UW institution	UW-Superior	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+UW institution	River Falls	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+UW official	UW Police Department Chief Vicky Peltzer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW official	McCormick	1	1	2	2	NULL	NULL	NULL	52	29	0.009615384615384616
+UW player	Joe Krabbenhoft	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UW player	Marcus Landry	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UW player	Jason Bohannon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UW player	Kam Taylor	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UW policy	Eye Protection Policy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW policy	Building Specifications Binder in Plant Operations	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW president	Charles Odegaard	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW president	William Gerberding	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW professional school	law	1	1	1	1	NULL	NULL	NULL	5118	1346	0.00019538882375928098
+UW resource	Mary Gates research fellowship	1	1	1	1	NULL	NULL	NULL	1	1	1
+UW restricted resource	nursing journal	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+UW restricted resource	linked in the catalog	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW school	UW-Eau Claire	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UW senior	kicker John Anderson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW senior	linebacker Ben Mahdavi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW senior	defensive end Kai Ellis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW signatory	UW Oshkosh	1	0	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UW signatory	UW Stevens Point	1	0	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+UW signatory	UW River Falls	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW stadium concert	U2	1	1	2	2	NULL	NULL	NULL	903	214	0.0005537098560354374
+UW stadium concert	Pink Floyd	1	1	2	2	NULL	NULL	NULL	564	140	0.0008865248226950354
+UW trademark	Motion W	1	1	1	1	NULL	NULL	NULL	1	1	1
+uw unit	large uw unit	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+UW unit	School of Art	1	1	2	2	1.000000000000	NULL	NULL	10	5	0.05
+uw's building	Kronshage Hall	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uw's building	Bascom Hall	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UW-CSE event	holiday party	1	1	3	3	NULL	NULL	NULL	411	152	0.0008110300081103
+UW-CSE event	department orientation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UW-CSE event	student recruitment day	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uw-eau claire campus resource	Human Development Center	3	2	3	1	NULL	NULL	NULL	3	1	1
+uw-madison project	Microbial Sciences	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uw-madison project	Integrated Dairy Facilities	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uw-madison student	Lindsay Wilkinson	1	1	1	1	NULL	NULL	NULL	1	1	1
+uw-madison student organization	Student Progressive Dane	1	1	1	1	NULL	NULL	NULL	1	1	1
+uw-madison's affiliated organization	UW Foundation	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+uw-madison's affiliated organization	University Research Park	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+uw-madison's affiliated organization	Wisconsin Alumni Research Foundation	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+uw-milwaukee student	Ericka Frederick	1	1	1	1	NULL	NULL	NULL	1	1	1
+uw-whitewater chapter plan activity	Campus Connection	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uwa lens	canon 10-20mm	1	1	1	1	NULL	NULL	NULL	1	1	1
+UWA research group	International Centre for Radio Astronomy Research	1	1	1	1	NULL	NULL	NULL	1	1	1
+UWA star	Nick Lebeau	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWA star	DJ Tom Sharp	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWB antenna theory	Rumsey's principle	1	1	1	1	NULL	NULL	NULL	1	1	1
+uwb antennas	log-periodic antennas	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+uwb antennas	horn antenna	1	1	3	3	1.000000000000	NULL	NULL	6	7	0.05555555555555555
+uwb antennas	vivaldi antenna	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UWB application	ground probing radar	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+UWB channel characteristic	spatial focusing	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UWB channel characteristic	channel transfer function	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UWB channel characteristic	channel energy	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+UWB channel characteristic	channel reciprocity	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+UWB channel characteristic	channel impulse response	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+UWB communication technique	direct sequence	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+UWB communication technique	time modulated	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UWB company	Alereon	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+UWB facility	UWB transmitter module	1	1	1	1	NULL	NULL	NULL	1	1	1
+UWB firm	Pulse-Link	1	1	1	1	NULL	NULL	NULL	1	1	1
+UWB modulation scheme	Pulse Position Modulation	1	1	1	1	1.000000000000	NULL	NULL	14	6	0.07142857142857142
+UWB modulation type	time hopping pulse position modulation	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+UWB orthogonal waveforms	Gegenbauer	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UWB orthogonal waveforms	Hermite polynomial	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+UWB pulse	pulse shown in FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+UWB pulse characteristic	time position	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+UWB pulse characteristic	shape	1	1	4	4	NULL	NULL	NULL	3964	1303	0.00006306760847628658
+UWB pulse characteristic	phase	1	1	4	4	NULL	NULL	NULL	318	157	0.0007861635220125787
+UWB pulse characteristic	amplitude	1	1	4	4	NULL	NULL	NULL	523	243	0.0004780114722753346
+UWB radar application	space-time microwave imaging for breast cancer detection	1	1	1	1	NULL	NULL	NULL	1	1	1
+UWB SAR image quality measurement	Integrated Sidelobe Ratio	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+UWB SAR image quality measurement	spatial resolution	1	1	3	3	1.000000000000	NULL	NULL	77	60	0.004329004329004329
+UWB SAR image quality measurement	peak sidelobe ratio	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+UWB signal characteristic	pulse shaping	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+UWB signal parameter	location	1	1	2	2	NULL	NULL	NULL	9104	1958	0.000054920913884007027
+UWB signal parameter	duration	1	1	2	2	NULL	NULL	NULL	1369	553	0.0003652300949598247
+UWB unique property	fine ranging	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UWB usesmodulation technique	orthogonal frequency division multiplexing	1	1	1	1	NULL	NULL	NULL	71	44	0.014084507042253521
+UWB waveform optimization technique	Rayleigh function	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWB waveform optimization technique	optimal waveform designing based on Gaussian function	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWB-enabled object	robot	1	1	1	1	NULL	NULL	NULL	577	320	0.0017331022530329288
+UWC organization	Literacy society	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UWC organization	Association of Christian Students	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UWC organization	Law Student Society	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UWC source	Virgil	1	1	2	2	NULL	NULL	NULL	136	60	0.003676470588235294
+UWC source	knowledgeable consultant	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWEB classic	Stranger Than Supper	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWEB classic	Liver Music	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWESO staff highlight challenge	human	1	1	2	2	NULL	NULL	NULL	2675	720	0.00018691588785046728
+UWESO staff highlight challenge	limited resource	1	1	2	2	NULL	NULL	NULL	110	44	0.004545454545454545
+UWF webcasts	UWF Rollin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWF webcasts	UWF Sidesplitters	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWG general rule contemporary form	changquan	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+UWI marine research initiative	Barbados Sea Turtle Project	2	2	2	1	NULL	NULL	NULL	2	1	1
+UWI writer	Trevor Munroe	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UWI writer	Louis Lindsay	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UWI writer	Rupert Lewis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uwic-wide initiative	Outreach	1	1	2	3	NULL	NULL	NULL	352	174	0.0014204545454545455
+uwic-wide initiative	Widening Access	1	1	2	3	NULL	NULL	NULL	6	4	0.08333333333333333
+UWM course	GIS	1	1	2	2	0.500000000000	NULL	NULL	655	267	0.0007633587786259542
+UWM course	quantitative analysis	1	1	2	2	0.500000000000	NULL	NULL	33	27	0.015151515151515152
+UWP student organization	Habitat for Humanity	1	1	2	2	0.500000000000	NULL	NULL	978	296	0.0005112474437627812
+UWP student organization	Greek Life	1	1	2	2	0.500000000000	NULL	NULL	34	25	0.014705882352941176
+uwrapped bulk product	donut	1	1	6	6	NULL	NULL	NULL	534	225	0.00031210986267166043
+uwrapped bulk product	snack cake	1	1	6	6	NULL	NULL	NULL	45	32	0.0037037037037037034
+uwrapped bulk product	muffin	1	1	6	6	NULL	NULL	NULL	1215	431	0.0001371742112482853
+uwrapped bulk product	cinnamon roll	1	1	6	6	NULL	NULL	NULL	107	70	0.001557632398753894
+uwrapped bulk product	Danish	1	1	6	6	NULL	NULL	NULL	198	86	0.0008417508417508417
+uwrapped bulk product	brownie	1	1	6	6	NULL	NULL	NULL	656	288	0.0002540650406504065
+UWS wide system	tutorial registration system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWS wide system	SFT reporting system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UWSECT program	Day of Caring	1	1	3	3	1.000000000000	NULL	NULL	16	12	0.020833333333333332
+UWSECT program	Gemma Moran United Way Labor Food Center	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+UWSECT program	Project Warm-Up	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UWT program	Nursing	1	1	1	1	NULL	NULL	NULL	2945	803	0.00033955857385398983

@@ -1,0 +1,33 @@
+WG activity	review	1	1	1	1	NULL	NULL	NULL	970	402	0.0010309278350515464
+WG model	TB-10	1	1	1	1	NULL	NULL	NULL	1	1	1
+WG&F program	Habitat Trust Fund Projects	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WG&F program	Habitat Grants Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WGA method	T7-based linear amplification of DNA	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+WGA method	restriction	1	1	4	3	NULL	NULL	NULL	147	84	0.0017006802721088435
+WGA method	balanced-PCR amplification	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+WGA procedure	degenerate oligonucleotide primed PCR	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+WGA procedure	primer extension preamplification	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+WGA software product	Revenue Management System	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+WGA software product	Traffic Management System	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+WGA technique	degenerate oligonucleotide primed PCR	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+WGA technique	primer extension preamplification	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+WGA tournament	BMW Championship	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WGA tournament	Western Amateur	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+WGBH original footage content	interviews with historian	1	1	1	1	NULL	NULL	NULL	1	1	1
+wgbh's vision ancillary material	transcript	1	1	1	1	0.500000000000	NULL	NULL	565	179	0.0017699115044247787
+WGFD program	habitat grant program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WGFD program	Landowner Incentive Program	1	1	2	2	NULL	NULL	NULL	10	5	0.05
+wgistri	David of Aug~burg?~	1	1	1	1	NULL	NULL	NULL	1	1	1
+WGs	Policy Development Process	1	1	1	1	NULL	NULL	NULL	1	1	1
+WGS assembler	Arachne	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+WGS study course	Feminist Theory	1	1	2	2	1.000000000000	NULL	NULL	36	21	0.013888888888888888
+WGS study course	Politics of Sexuality	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+WGSI mitigation	fencing	1	1	1	1	NULL	NULL	NULL	1629	718	0.0006138735420503376
+WGSN favorite	City by City	1	1	1	1	NULL	NULL	NULL	1	1	1
+wgt's partner sponsor	Pinehurst Resort	2	2	2	1	0.500000000000	NULL	NULL	5	4	0.4
+wgtype structure	eesg	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wgtype structure	pay scale group	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wgtype structure	area	1	1	4	4	NULL	NULL	NULL	1176	540	0.00021258503401360543
+wgtype structure	pay scale type	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wgx page	Main form	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+wgx page	Logon page	1	1	2	2	NULL	NULL	NULL	2	2	0.25

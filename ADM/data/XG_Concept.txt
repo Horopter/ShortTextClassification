@@ -1,0 +1,11 @@
+xg network function	spectrum management	1	1	2	2	1.000000000000	NULL	NULL	16	11	0.03125
+xg network function	spectrum mobility	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+XGA projector	NEC NP64	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XGA projector	NEC VT-800	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XGauges	O2 Sensor Voltages	5	2	5	1	NULL	NULL	NULL	5	1	1
+XGD3 game	NBA 2K12	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+xglite sound effect	applause	1	1	2	2	NULL	NULL	NULL	56	33	0.008928571428571428
+xglite sound effect	footstep	1	1	2	2	NULL	NULL	NULL	131	56	0.003816793893129771
+XGM device	wavelength converter	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+xgreat nectar plant	Marjoram	1	1	2	4	0.333333333333	NULL	NULL	514	135	0.0009727626459143969
+xgreat nectar plant	Thyme	1	1	2	4	0.333333333333	NULL	NULL	2813	593	0.00017774617845716317

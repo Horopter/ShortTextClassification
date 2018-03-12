@@ -1,0 +1,47 @@
+XC60 petrol hybrid dynamic system	energy production	1	1	1	1	NULL	NULL	NULL	164	83	0.006097560975609756
+XC60 technology	audible lane-departure warning system	1	1	1	1	NULL	NULL	NULL	1	1	1
+xc60's technological innovation	laser	5	5	5	1	NULL	NULL	NULL	2863	1216	0.0017464198393293748
+xc90's rival	BMW X5	1	1	1	1	1.000000000000	NULL	NULL	63	30	0.015873015873015872
+xcat management function	node installation	1	1	1	1	NULL	NULL	NULL	1	1	1
+XCC project	Bhayander	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+XCC project	project management of skywalks at Borivali	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XCC project	Mira Road in Mumbai	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XCCDF validation	XCCDF	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xccent playground component	ladder	1	1	5	5	NULL	NULL	NULL	1107	460	0.0001806684733514002
+xccent playground component	platform	1	1	5	5	NULL	NULL	NULL	658	336	0.00030395136778115504
+xccent playground component	bridge	1	1	5	5	NULL	NULL	NULL	5081	2007	0.0000393623302499508
+xccent playground component	chain	1	1	5	5	NULL	NULL	NULL	1383	618	0.00014461315979754158
+xccent playground component	stair	1	1	5	5	NULL	NULL	NULL	933	431	0.00021436227224008576
+xcel domestic electric appliance	electric iron	1	1	1	1	1.000000000000	NULL	NULL	95	61	0.010526315789473684
+xcel energy department	Supply Chain	1	1	1	1	NULL	NULL	NULL	254	136	0.003937007874015748
+xcel's smaller and older plant	Valmont in Boulder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xcel's smaller and older plant	Pawnee Brush	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xcel's smaller and older plant	Cherokee in north Denver	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xcelisus component	Rectangle	1	1	4	4	0.250000000000	NULL	NULL	1456	458	0.00017170329670329672
+xcelisus component	Horizontal Line	1	1	4	4	0.250000000000	NULL	NULL	43	29	0.005813953488372093
+xcelisus component	Ellipse	1	1	4	4	0.250000000000	NULL	NULL	421	206	0.0005938242280285036
+xcelisus component	Vertical Line	1	1	4	4	0.250000000000	NULL	NULL	30	24	0.008333333333333333
+xcellent learning aid	pronunciation guide	1	1	3	3	1.000000000000	NULL	NULL	16	13	0.020833333333333332
+xcellent learning aid	footnoted word origin	1	1	3	3	1.000000000000	NULL	NULL	5	2	0.06666666666666667
+xcellent learning aid	chapter capsule	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+xcelligence model	RTCA dual plate unit	1	1	1	1	NULL	NULL	NULL	1	1	1
+xceptions	Daniel Greenberg	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xcess nutrient	phosphorus	1	1	2	2	NULL	NULL	NULL	3102	588	0.00016118633139909736
+xcess nutrient	nitrogen	1	1	2	2	NULL	NULL	NULL	6796	1291	0.00007357268981753973
+xcessive cooling food	barley	1	1	1	1	NULL	NULL	NULL	4066	900	0.00024594195769798326
+XCI chromatin-remodeling gene	DNA methylation enzyme	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XCI chromatin-remodeling gene	histone H3 methylation enzyme	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XCL tool	Extractor	1	1	3	3	0.500000000000	NULL	NULL	82	44	0.004065040650406504
+XCL tool	XCL Explorer	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+XCL tool	Comparator	1	1	3	3	0.500000000000	NULL	NULL	47	37	0.0070921985815602835
+xcludable good	fresh air	1	1	1	1	NULL	NULL	NULL	108	72	0.009259259259259259
+xclusive additional option	expensive audio system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xclusive additional option	leather upholstery	1	1	2	2	NULL	NULL	NULL	89	39	0.0056179775280898875
+XCMG wheel loader spare part	pump	3	3	3	1	NULL	NULL	NULL	3215	1354	0.0009331259720062209
+xcnfilecontains information	model name	1	1	4	4	0.333333333333	NULL	NULL	58	35	0.004310344827586207
+xcnfilecontains information	text	1	1	4	4	0.333333333333	NULL	NULL	3231	1203	0.00007737542556484061
+xcnfilecontains information	layer	1	1	4	4	0.333333333333	NULL	NULL	366	174	0.0006830601092896175
+xcnfilecontains information	connectivity element name	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+xcode resource file	XLB files for layout	1	1	1	1	NULL	NULL	NULL	1	1	1
+XCR product	Marmot's new-for-spring Liquid Steel	1	1	1	1	NULL	NULL	NULL	1	1	1
+XCS attackanon-web channel	SNMP	1	1	1	1	NULL	NULL	NULL	328	162	0.003048780487804878

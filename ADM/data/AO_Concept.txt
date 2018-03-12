@@ -1,0 +1,349 @@
+AO algorithm	ray tracing	1	1	1	1	NULL	NULL	NULL	115	61	0.008695652173913044
+AO blackwater system	Victaulic AO-DBW system	1	1	1	1	NULL	NULL	NULL	1	1	1
+AO block	AO block 385A of FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+AO development project	X-mas tree humeral nail	1	1	1	1	NULL	NULL	NULL	1	1	1
+AO disease	Diabetes	1	1	1	1	NULL	NULL	NULL	23990	3013	0.00004168403501458941
+AO framework	JBoss AOP	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+AO language	AspectJ	2	2	2	1	1.000000000000	NULL	NULL	73	40	0.0273972602739726
+ao object	printed page	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+AO publication	Annual Reports of the AO Foundation	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AO publication	Orthopedic Trauma Direction	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AO publication	AO Dialogue	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AO publication	AO Scientific Supplements to Injury	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AO publication	AO Foundation brochure	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+AO requirement	spatial resolution	1	1	1	1	1.000000000000	NULL	NULL	77	60	0.012987012987012988
+AO system	visual simulator	1	1	1	1	NULL	NULL	NULL	1	1	1
+AO target	weapon factory	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AO-fed integral field unit spectrographs	NIFS on Gemini North	1	1	1	1	NULL	NULL	NULL	1	1	1
+ao-moji magazine	free MIG	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ao-moji magazine	Zipper	2	2	4	2	NULL	NULL	NULL	567	208	0.001763668430335097
+AO1 limbic structure	septum	1	1	4	4	0.250000000000	NULL	NULL	44	19	0.005681818181818182
+AO1 limbic structure	amygdala	1	1	4	4	0.250000000000	NULL	NULL	259	77	0.0009652509652509653
+AO1 limbic structure	hippocampus	1	1	4	4	0.250000000000	NULL	NULL	382	100	0.0006544502617801048
+AO1 limbic structure	hypothalamus	1	1	4	4	0.250000000000	NULL	NULL	133	49	0.0018796992481203006
+AO3 ethical issue	protection from psychological harm	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOA tool	OPTI Administrative Handbook	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOA tool	revised OPTI Annual Report	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOB	Type B	4	3	4	1	1.000000000000	NULL	NULL	12	9	0.3333333333333333
+aobut crime pre vention program	rae1.gnborilood crime watch	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aobut crime pre vention program	rlel.qnbornood crime watch	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aobve, certain design consideration	mitered corners on a tabletop	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOC	Australian Youth Olympic Festival	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+AOC capability	banking operation	1	1	2	2	1.000000000000	NULL	NULL	6	7	0.08333333333333333
+AOC capability	aircraft fueling	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+AOC method	standard method	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+AOC site	Wainfleet Bog	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOC site	Humberstone Marsh	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aoc-driven change	statewide Court Case Management System	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOCs	Pomerol	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+AOCs	Saint Emilion	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+AOCs	St. Mary's River	1	1	3	3	1.000000000000	NULL	NULL	10	7	0.03333333333333333
+AOD abuse related risk factor	risk taking	1	1	4	4	NULL	NULL	NULL	115	71	0.002173913043478261
+AOD abuse related risk factor	attitude of entitlement	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+AOD abuse related risk factor	acceptance of disability	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+AOD abuse related risk factor	self esteem	1	1	4	4	NULL	NULL	NULL	279	112	0.0008960573476702509
+AOD correct ion	dynamic correction employed in the AERONETV2 protocol	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOD device	Flutter	1	1	1	1	NULL	NULL	NULL	50	37	0.02
+AOD model	outreach	1	1	1	1	NULL	NULL	NULL	352	174	0.002840909090909091
+aod-specialist health specialist professional	psychologist	1	1	4	4	NULL	NULL	NULL	1496	407	0.00016711229946524063
+aod-specialist health specialist professional	professionals psychiatrist	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aod-specialist health specialist professional	counsellor	1	1	4	4	NULL	NULL	NULL	140	86	0.0017857142857142857
+aod-specialist health specialist professional	public health physician	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+AoDisorders	DownAAEs syndrome	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+AoDisorders	sickle-cell disease	1	1	2	2	1.000000000000	NULL	NULL	27	19	0.018518518518518517
+aoditional activity	staff development	1	1	2	2	0.500000000000	NULL	NULL	152	101	0.003289473684210526
+aoditional activity	materials development	1	1	2	2	0.500000000000	NULL	NULL	10	7	0.05
+AODV implementation	Mad-hoc AODV	1	1	1	1	NULL	NULL	NULL	1	1	1
+AODV mechanism	route discovery	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+AoE	Hand of Winter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AoE	DK Death	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOE ability	Holy Nova	2	2	8	7	0.500000000000	NULL	NULL	2	1	0.25
+AOE ability	Living Bomb	1	1	8	7	0.500000000000	NULL	NULL	3	3	0.041666666666666664
+AOE ability	kennan	1	1	8	7	0.500000000000	NULL	NULL	9	7	0.013888888888888888
+AOE ability	Hurricane	1	1	8	7	0.500000000000	NULL	NULL	5730	1211	0.00002181500872600349
+aoe ability	channeled aoe ability	1	1	8	7	0.500000000000	NULL	NULL	2	2	0.0625
+AOE ability	Swipe	1	1	8	7	0.500000000000	NULL	NULL	44	24	0.002840909090909091
+AOE ability	grenade	1	1	8	7	0.500000000000	NULL	NULL	429	151	0.0002913752913752914
+aoe area	fire in the ground	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aoe area	puddle	1	1	2	2	NULL	NULL	NULL	64	43	0.0078125
+aoe attack	Blackstar	1	1	11	11	1.000000000000	NULL	NULL	14	10	0.006493506493506494
+aoe attack	shadow blitz	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+aoe attack	Whirlwind Attack	1	1	11	11	1.000000000000	NULL	NULL	5	4	0.01818181818181818
+aoe attack	Night Fall	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+aoe attack	psi storm	1	1	11	11	1.000000000000	NULL	NULL	5	5	0.01818181818181818
+aoe attack	targeted aoe attack	1	1	11	11	1.000000000000	NULL	NULL	2	2	0.045454545454545456
+aoe attack	Tenebrous Tentacles	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+aoe attack	Ballista's grenade	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+aoe attack	Psionic Storm by the High Templar	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+aoe attack	Dervish scythe attack	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+aoe attack	Torturer's Impalement	1	1	11	11	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+AOE attacker	sorceress	1	1	1	1	1.000000000000	NULL	NULL	12	12	0.08333333333333333
+AOE cc effect	Aoe -stun	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AOE cc effect	frostnova	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AOE cc effect	Fear	1	1	3	3	NULL	NULL	NULL	5762	1341	0.00005785028346638898
+aoe champion	fiddle	1	1	2	2	0.500000000000	NULL	NULL	194	66	0.002577319587628866
+aoe champion	Katarina	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+AOE class	lock	1	1	1	1	NULL	NULL	NULL	1080	474	0.000925925925925926
+AOE crowd control	Galio's Idol of Durand	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AOE damage attack	thunderclap	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+aoe damage situation	Omega Stance from Anraphel	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOE effect	Arty	1	1	2	2	1.000000000000	NULL	NULL	11	11	0.045454545454545456
+AOE effect	Prisms	1	1	2	2	1.000000000000	NULL	NULL	3	7	0.16666666666666666
+aoe encounter	Deathwhisper	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aoe encounter	Valrithia	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aoe encounter	Grand Vizier Ertan in Vortex Pinnacle	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aoe encounter	Kilnara in ZG	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+AOE friendly skill	Aegis	1	1	1	1	1.000000000000	NULL	NULL	55	33	0.01818181818181818
+AOE grinder	Protection Paladins	1	1	1	1	NULL	NULL	NULL	1	1	1
+AoE ground effect	guardians Symbol of Courage	1	1	1	1	NULL	NULL	NULL	1	1	1
+AoE healing	CoH	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+AoE healing spell	Prayer of Mending	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+AoE heals	CoH	1	1	3	3	1.000000000000	NULL	NULL	12	11	0.027777777777777776
+AoE heals	Chain Heal	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+AoE heals	Wild Growth	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+aoe heavy team	Anivias	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOE heroes	Earthshaker & Enigma	1	1	1	1	NULL	NULL	NULL	1	1	1
+AoE immobilization spell	Paralysis Explosion	1	1	1	1	NULL	NULL	NULL	1	1	1
+aoe item	Aegis of a legion	1	1	1	1	NULL	NULL	NULL	1	1	1
+aoe knockdown skill	Whirlwind	1	1	1	1	NULL	NULL	NULL	52	36	0.019230769230769232
+AOE master	Sand King	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+AOE monster	banditos	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+aoe option	blood arcanists	1	1	1	1	NULL	NULL	NULL	1	1	1
+aoe skill	Sound the Attack	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	Lord of Vermillion	1	1	14	14	0.750000000000	NULL	NULL	2	2	0.03571428571428571
+aoe skill	ice raining	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	Wizard's Wave of Force	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	Energy Surge	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	Giant Stomp	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	Burst Crack	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	Raging Blades	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	fist fighter's Big Bang	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	piercing shot	1	1	14	14	0.750000000000	NULL	NULL	1	1	0.07142857142857142
+aoe skill	pure aoe skill	1	1	14	14	0.750000000000	NULL	NULL	2	2	0.03571428571428571
+aoe skill	Storm Gust	1	1	14	14	0.750000000000	NULL	NULL	7	6	0.01020408163265306
+aoe skill	Meteor Storm	1	1	14	14	0.750000000000	NULL	NULL	10	7	0.007142857142857143
+aoe skill	Rend	1	1	14	14	0.750000000000	NULL	NULL	10	9	0.007142857142857143
+aoe spell	Hammer of the Righteous	1	1	16	16	0.800000000000	NULL	NULL	2	2	0.03125
+aoe spell	Fury of Land	1	1	16	16	0.800000000000	NULL	NULL	1	1	0.0625
+aoe spell	friendly aoe spell	1	1	16	16	0.800000000000	NULL	NULL	2	2	0.03125
+aoe spell	Freezing Field	1	1	16	16	0.800000000000	NULL	NULL	2	2	0.03125
+aoe spell	skillshots during the stance	1	1	16	16	0.800000000000	NULL	NULL	1	1	0.0625
+aoe spell	Reverse Polarity	1	1	16	16	0.800000000000	NULL	NULL	8	8	0.0078125
+aoe spell	Holy Shield	1	1	16	16	0.800000000000	NULL	NULL	4	3	0.015625
+aoe spell	dot aoe spell	1	1	16	16	0.800000000000	NULL	NULL	2	2	0.03125
+aoe spell	Thunderstorm on round-robin	1	1	16	16	0.800000000000	NULL	NULL	1	1	0.0625
+aoe spell	Consecration	1	1	16	16	0.800000000000	NULL	NULL	15	10	0.004166666666666667
+aoe spell	Rain of Fire	1	1	16	16	0.800000000000	NULL	NULL	10	10	0.00625
+aoe spell	Pulse Nova	1	1	16	16	0.800000000000	NULL	NULL	2	2	0.03125
+aoe spell	Storm Gust	1	1	16	16	0.800000000000	NULL	NULL	7	6	0.008928571428571428
+aoe spell	Anivia ult while in the stance	1	1	16	16	0.800000000000	NULL	NULL	1	1	0.0625
+aoe spell	Diabolic Edict	1	1	16	16	0.800000000000	NULL	NULL	2	2	0.03125
+aoe spell	Ocean of Fire	1	1	16	16	0.800000000000	NULL	NULL	1	1	0.0625
+AOE tanking	whelps on heroic Halfus	1	1	1	1	NULL	NULL	NULL	1	1	1
+aoe taunt	Shen's Shadow Dash	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aoe taunt	Galio's Idol Of Durand	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+aoe trap	Mass Trap	1	1	1	1	NULL	NULL	NULL	1	1	1
+aoe-centric fight	heroic Maloriak during the dark	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOEII download	Tuants AOEII Patch	1	1	1	1	NULL	NULL	NULL	1	1	1
+AoEs	Fan of Flames	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+aoetylenes	methylacetylene	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+AOF rule	daily midnight AOF TOD rule	1	1	1	1	NULL	NULL	NULL	1	1	1
+aog church	Paradise in Adelaide	2	2	2	1	NULL	NULL	NULL	2	1	1
+AOGs	Section A for Operations in the GS-132 AOG	1	1	1	1	NULL	NULL	NULL	1	1	1
+AoHers	GM Logos	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOI gate	4-3 AOI	1	1	1	1	NULL	NULL	NULL	1	1	1
+aoid reflective surface	concrete	1	1	4	4	NULL	NULL	NULL	5791	1660	0.00004317043688482128
+aoid reflective surface	snow	1	1	4	4	NULL	NULL	NULL	2306	735	0.00010841283607979184
+aoid reflective surface	water	1	1	4	4	NULL	NULL	NULL	25348	6311	0.000009862711062016726
+aoid reflective surface	sand	1	1	4	4	NULL	NULL	NULL	6541	2043	0.00003822045558783061
+aois	drake curriculum aois	1	1	1	1	NULL	NULL	NULL	1	1	1
+aok's most prolific moderator	Steve Denning	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aok's most prolific moderator	Dave Snowden	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aokang shoe	Sichuan Road	1	1	1	1	NULL	NULL	NULL	1	1	1
+aokang shoe brand	portable terminals throughout the country	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOL account option	canceling AOL by postal mail	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOL business	Local Search	1	1	1	1	NULL	NULL	NULL	80	59	0.0125
+AOL competitor	Microsoft	1	1	1	1	NULL	NULL	NULL	11308	2573	0.00008843296781039972
+AOL feature	local information	2	1	7	6	0.200000000000	NULL	NULL	24	17	0.023809523809523808
+AOL feature	stock quote	1	1	7	6	0.200000000000	NULL	NULL	161	77	0.0008873114463176574
+AOL feature	AOL Web site	1	1	7	6	0.200000000000	NULL	NULL	1	1	0.14285714285714285
+AOL feature	new	1	1	7	6	0.200000000000	NULL	NULL	1979	778	0.0000721865299935032
+AOL feature	E-mail	1	1	7	6	0.200000000000	NULL	NULL	4959	1772	0.000028807651312188516
+AOL feature	weather	1	1	7	6	0.200000000000	NULL	NULL	6139	1357	0.000023270425616084517
+AOL federated partners	Microsoft Live Communications Server	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+AOL file	PFC	1	1	2	2	1.000000000000	NULL	NULL	33	25	0.015151515151515152
+AOL file	Organize	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+AOL function	email	1	1	1	1	NULL	NULL	NULL	8680	2858	0.0001152073732718894
+AOL india offer service	email account	1	1	2	2	NULL	NULL	NULL	76	42	0.006578947368421052
+AOL india offer service	instant messaging	1	1	2	2	NULL	NULL	NULL	1827	684	0.0002736726874657909
+AOL object	descriptive flex field	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOL object	parameter	1	1	2	2	NULL	NULL	NULL	150	81	0.0033333333333333335
+AOL original program	AOL Sessions	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AOL partner	Mercury News	2	2	2	1	NULL	NULL	NULL	5	3	0.4
+AOL product	Reference Center	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+AOL product	AOL Classifieds	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+AOL product	AOL Client	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+AOL product	AOL Yellow Pages	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+AOL service	MapQuest	2	2	3	2	NULL	NULL	NULL	155	91	0.008602150537634409
+AOL service	AOL Mail for the Web	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+AOL time warner-owned film	Lord of the Rings out at Christmas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOL time warner-owned film	Harry Potter	1	1	2	2	NULL	NULL	NULL	835	316	0.0005988023952095808
+AOL TW top executive	current chairman Steve Case	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AOL TW top executive	CEO Richard Parsons	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AOL TW top executive	vice-chairman Ted Turner	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+AOL web portal	games.com	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AOL website	video search engine Truveo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOL website	gadget blog Engadget	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aol's business specific product	SHOUTcast radio	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+aol's communication tool	e-mail	2	2	4	3	NULL	NULL	NULL	4959	1772	0.00020165355918531962
+aol's communication tool	voice	1	1	4	3	NULL	NULL	NULL	2237	987	0.00011175681716584712
+aol's communication tool	instant messaging	1	1	4	3	NULL	NULL	NULL	1827	684	0.00013683634373289546
+aol's competitor	MSN	1	1	2	2	NULL	NULL	NULL	1949	598	0.0002565418163160595
+aol's competitor	Yahoo	1	1	2	2	NULL	NULL	NULL	8994	2110	0.0000555926173004225
+AOL's content	new	1	1	1	1	NULL	NULL	NULL	1979	778	0.0005053057099545225
+aol's most vocal critic	Microsoft	1	1	1	1	NULL	NULL	NULL	11308	2573	0.00008843296781039972
+aol's own new website	Politics Daily	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+aol's own new website	Daily Finance	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+aol's partner	CUC International	1	1	1	1	NULL	NULL	NULL	1	1	1
+aol's vertical site	TMZ.com	2	2	2	1	1.000000000000	NULL	NULL	22	12	0.09090909090909091
+aol.com channel	AOL Money & Finance	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOLAT honorary member	Professor Ruedi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOLAT honorary member	Professor Jupiter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aome common over-the-counter medication	antacid	1	1	1	1	NULL	NULL	NULL	661	173	0.0015128593040847202
+aome radioresistant tumor	T241 sarcoma implanted on the feet of C57BL6 mice	3	1	3	1	NULL	NULL	NULL	4	2	0.75
+aome subject	federalism	1	1	1	1	NULL	NULL	NULL	165	90	0.006060606060606061
+aon acquisition	Pecos River	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+aon state	Florida	1	1	1	1	NULL	NULL	NULL	7654	980	0.0001306506401881369
+aon-protein encoding sequencer	ribosoaal RNAa	1	1	1	1	NULL	NULL	NULL	1	1	1
+AONBs	Chichester Harbour	2	2	7	5	1.000000000000	NULL	NULL	2	1	0.2857142857142857
+AONBs	South Downs	2	2	7	5	1.000000000000	NULL	NULL	15	7	0.03809523809523809
+AONBs	Kent Downs	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+AONBs	Causeway Coast AONB	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+AONBs	Sussex Downs	1	1	7	5	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+AONE tool	competencies for the nurse executive	1	1	1	1	NULL	NULL	NULL	1	1	1
+aone-dimensional structure	narrow fiber	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Aone-time event	8th Grade Dance	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+aonly premium quality material	true gold leaf	1	1	1	1	NULL	NULL	NULL	1	1	1
+AONT	OAEP	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+aonymity protocol	voting protocol	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+AOP approach	AspectJ	1	1	2	2	NULL	NULL	NULL	73	40	0.00684931506849315
+AOP approach	Composition Filters	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+AOP framework	AspectJ	2	1	5	4	1.000000000000	NULL	NULL	73	40	0.010958904109589041
+aop framework	emerging aop framework	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+aop framework	java aop framework	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+AOP framework	Spring AOP	1	1	5	4	1.000000000000	NULL	NULL	5	5	0.04
+AOP implementation	JBoss	1	1	1	1	NULL	NULL	NULL	114	60	0.008771929824561403
+AOP language	AspectJ	7	6	9	3	1.000000000000	NULL	NULL	73	40	0.0745814307458143
+aop language	prevailing aop language	1	1	9	3	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+aop language	mainstream aop language	1	1	9	3	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+AOP system	AspectWerkz	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+AOP system	D language	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+AOP system	JBoss AOP	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+AOP technique	static crosscutting	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOP technology	AspectJ	1	1	1	1	NULL	NULL	NULL	73	40	0.0136986301369863
+AOP tool	JBoss AOP	2	2	2	1	1.000000000000	NULL	NULL	8	6	0.25
+aop-related library	Spring	1	1	2	2	NULL	NULL	NULL	2397	949	0.00020859407592824363
+aop-related library	AspectJ	1	1	2	2	NULL	NULL	NULL	73	40	0.00684931506849315
+aoplicalons	cooling electflcal conlrols	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOR band	Journey	2	2	2	1	NULL	NULL	NULL	180	75	0.011111111111111112
+AOR group	Foreigner	1	1	1	1	NULL	NULL	NULL	72	31	0.013888888888888888
+AOR legend	Steve Perry	1	1	1	1	0.666666666666	NULL	NULL	15	8	0.06666666666666667
+AOR product	Network Synergy	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOR star	Mary Black	1	1	1	1	1.000000000000	NULL	NULL	24	17	0.041666666666666664
+AOR unit	Swan Knights	1	1	1	2	NULL	NULL	NULL	3	3	0.3333333333333333
+AORs	cyberwarfare	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+aortic abnormality	aortic dissections with the appropriate anatomy	2	2	10	8	NULL	NULL	NULL	2	1	0.2
+aortic abnormality	thoracic aortic aneurysm	2	2	10	8	NULL	NULL	NULL	5	4	0.08
+aortic abnormality	elongation	1	1	10	8	NULL	NULL	NULL	315	109	0.00031746031746031746
+aortic abnormality	connective tissue disease	1	1	10	8	NULL	NULL	NULL	65	45	0.0015384615384615385
+aortic abnormality	plaque	1	1	10	8	NULL	NULL	NULL	499	260	0.0002004008016032064
+aortic abnormality	aneurysm	1	1	10	8	NULL	NULL	NULL	266	142	0.00037593984962406017
+aortic abnormality	calcification	1	1	10	8	NULL	NULL	NULL	129	77	0.0007751937984496124
+aortic abnormality	congenital heart disease	1	1	10	8	NULL	NULL	NULL	149	75	0.0006711409395973155
+aortic adjacent organ	esophagus	1	1	2	2	NULL	NULL	NULL	200	102	0.0025
+aortic adjacent organ	trachea	1	1	2	2	NULL	NULL	NULL	96	50	0.005208333333333333
+aortic aneurysm	dissociative aortic aneurysm	2	2	2	1	NULL	NULL	NULL	2	1	1
+aortic arch anomaly	coarctation	1	1	2	2	0.333333333333	NULL	NULL	15	13	0.03333333333333333
+aortic arch anomaly	patent ductus arteriosus	1	1	2	2	0.333333333333	NULL	NULL	50	29	0.01
+aortic arch pathology	dissection	1	1	2	2	NULL	NULL	NULL	125	64	0.004
+aortic arch pathology	aneurysm	1	1	2	2	NULL	NULL	NULL	266	142	0.0018796992481203006
+aortic complication	aneurysm	1	1	4	4	0.333333333333	NULL	NULL	266	142	0.0009398496240601503
+aortic complication	aortic root dilatation	1	1	4	4	0.333333333333	NULL	NULL	2	2	0.125
+aortic complication	aortic aneurysm	1	1	4	4	0.333333333333	NULL	NULL	34	27	0.007352941176470588
+aortic complication	dissection	1	1	4	4	0.333333333333	NULL	NULL	125	64	0.002
+aortic disease	abdominal aortic aneurysm	1	1	4	4	0.666666666666	NULL	NULL	38	24	0.006578947368421052
+aortic disease	combined aortic disease	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+aortic disease	indications for surgical repair	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+aortic disease	aneurysm	1	1	4	4	0.666666666666	NULL	NULL	266	142	0.0009398496240601503
+aortic disorder	giant cell arteritis	1	1	3	3	NULL	NULL	NULL	38	19	0.008771929824561403
+aortic disorder	dissection	1	1	3	3	NULL	NULL	NULL	125	64	0.0026666666666666666
+aortic disorder	acute dissection	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+aortic dissection's symptom	limb paralysis	2	2	6	3	1.000000000000	NULL	NULL	5	4	0.13333333333333333
+aortic dissection's symptom	altered consciousness	2	2	6	3	1.000000000000	NULL	NULL	15	10	0.04444444444444444
+aortic dissection's symptom	sharp drops in blood pressure	2	2	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+aortic emergency condition	suspected aortic dissection	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+aortic lesion	wall irregularity	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+aortic model feature	proximal anatomic character	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aortic model feature	wall compliance	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+aortic pathology	aneurysm	2	2	5	4	NULL	NULL	NULL	266	142	0.0030075187969924814
+aortic pathology	introduction aortic pathology	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+aortic pathology	arterial penetrating ulcer	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+aortic pathology	thoracic aortic pathology	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+aortic root anomaly	valvular aortic stenosis	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+aortic root anomaly	coarctation	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+aortic root elasticity index	aortic stiffness index	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aortic root elasticity index	aortic root distensibility	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aortic side branch	accessory renal artery	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+aortic side branch	renal artery	1	1	2	2	0.500000000000	NULL	NULL	18	11	0.027777777777777776
+aortic stiffness index	local aortic deformability	1	1	1	1	NULL	NULL	NULL	1	1	1
+aortic surgery	abdominal aneurysm repair	1	1	1	1	NULL	NULL	NULL	1	1	1
+aortic valve disease	dystrophic calcification	1	1	2	2	1.000000000000	NULL	NULL	5	3	0.1
+aortic valve disease	rheumatic disease	1	1	2	2	1.000000000000	NULL	NULL	34	20	0.014705882352941176
+aortitis condition	syphilis	1	1	2	2	NULL	NULL	NULL	1750	310	0.00028571428571428574
+aortitis condition	ankylosing spondylitis	1	1	2	2	NULL	NULL	NULL	255	95	0.00196078431372549
+AOS	superoxide radical	1	1	2	2	0.200000000000	NULL	NULL	130	36	0.0038461538461538464
+AOS	O 2	1	1	2	2	0.200000000000	NULL	NULL	264	128	0.001893939393939394
+AOS feature	attenuation of multilink suspension	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOS feature	mapping of the accelerator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aos game	Heroes of Newerth	1	1	2	2	1.000000000000	NULL	NULL	16	7	0.03125
+aos game	Defense of the Ancients	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+AOS material	portable AOS membership brochure display	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOS model	HP-20S	2	1	2	1	NULL	NULL	NULL	2	1	1
+AOS species	O 2	1	1	1	1	NULL	NULL	NULL	264	128	0.003787878787878788
+aos variable	elastic modulus	1	1	1	1	NULL	NULL	NULL	203	74	0.0049261083743842365
+aos-related symptom	skin conditions like psoriasis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aos-related symptom	insomnia	1	1	2	2	NULL	NULL	NULL	3582	774	0.00013958682300390843
+aos-scavenging enzyme	APX	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+AOSD approach	AspectJ	1	1	1	1	NULL	NULL	NULL	73	40	0.0136986301369863
+AOSD-approaches	AspectJ	1	1	1	1	NULL	NULL	NULL	73	40	0.0136986301369863
+AOSN technique	Autonomous Sensor Platforms	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOSN technique	MOOS-IvP Autonomy Architecture	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOSP roms	Cyanogen	2	2	3	2	1.000000000000	NULL	NULL	23	18	0.05797101449275362
+AOSP roms	CM7	1	1	3	2	1.000000000000	NULL	NULL	19	10	0.017543859649122806
+AOSP-based ROMS	CyanogenMod	1	1	1	1	1.000000000000	NULL	NULL	14	6	0.07142857142857142
+aospine educational event	course	2	2	4	2	NULL	NULL	NULL	313	182	0.003194888178913738
+aospine educational event	symposium	2	2	4	2	NULL	NULL	NULL	245	122	0.004081632653061225
+AOSs	O 2	1	1	1	1	NULL	NULL	NULL	264	128	0.003787878787878788
+AOT element	table	1	1	2	2	NULL	NULL	NULL	6328	2130	0.00007901390644753477
+AOT element	class	1	1	2	2	NULL	NULL	NULL	2573	947	0.000194325689856199
+AOT law	Kendra's Law	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+AOT law	Kendra's Law in New York	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AOT technique	Breakdowns	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+AOT technique	forced rep	1	1	2	2	1.000000000000	NULL	NULL	36	23	0.013888888888888888
+AOTA resource	FAQ on Autism	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOTC plot hole	Kenobi	1	1	1	1	NULL	NULL	NULL	1	1	1
+aotearoa-new zealand certain ethnic group	Maori	1	1	1	1	NULL	NULL	NULL	109	44	0.009174311926605505
+aoteroas most memorable place	Great Barrier Island	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+aother reading inventory	Abecedarian Reading Assessment	1	1	1	1	NULL	NULL	NULL	1	1	1
+Aotivities	site olearing	1	1	1	1	NULL	NULL	NULL	1	1	1
+aour premium plan	lead-to-gold plan	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOV forum	industry meeting	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+aovel product	electric blanket	1	1	2	2	NULL	NULL	NULL	147	83	0.003401360544217687
+aovel product	electric pig	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+AOW shotgun	Serbu Super Shorty's based off Mossberg	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOWs	forward pistol grips on handgun	1	1	1	1	NULL	NULL	NULL	1	1	1
+AOX	flavinoids	1	1	1	1	0.333333333333	NULL	NULL	13	12	0.07692307692307693
+aoyuksin product	Aoyuksin series of adhesive	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aoyuksin product	Aoyuksin restoration technology	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aoyuksin product	Aoyuksin cold state remelting plant	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+aoyuksin product	Aoyuksin electro chemical machining technology	1	1	4	4	NULL	NULL	NULL	1	1	0.25

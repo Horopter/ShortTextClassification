@@ -1,0 +1,244 @@
+OK-FIRE tabular product	Fire Prescription Planner	1	1	1	1	NULL	NULL	NULL	1	1	1
+okahoma industry official	Oklahoma Independent Petroleum Association President Mike Terry	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+okanagan amenity	golf	1	1	1	1	NULL	NULL	NULL	6842	1226	0.00014615609470914936
+okanagan community	Summerland	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+okanagan community	Peachland	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+okanagan municipality	Kelowna	1	1	1	1	1.000000000000	NULL	NULL	63	31	0.015873015873015872
+Okanagan wine	Merlot	1	1	1	1	NULL	NULL	NULL	760	279	0.0013157894736842105
+okanagan winery	Summerhill Pryamid Winery in Kelowna	1	1	1	1	NULL	NULL	NULL	1	1	1
+okay.N-dimethyltryptamine	near-death	1	1	1	1	1.000000000000	NULL	NULL	12	6	0.08333333333333333
+Okazaki area	Heian-jingu Shrine	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+okazu side dish	tofu	1	1	2	2	NULL	NULL	NULL	2457	541	0.0002035002035002035
+okazu side dish	fish	1	1	2	2	NULL	NULL	NULL	12757	2977	0.000039194167907815315
+OKC bed exercise	clam shell	1	1	2	2	1.000000000000	NULL	NULL	38	28	0.013157894736842105
+OKC bed exercise	sidelying hip abd	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+OKC downtown theater	Gem	1	1	1	1	NULL	NULL	NULL	379	165	0.002638522427440633
+OKC exercise	straight leg raise	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+OKC exercise	knee extension	1	1	2	2	1.000000000000	NULL	NULL	24	10	0.020833333333333332
+OKC movie theater	AMC Quail Springs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OKC movie theater	Warren Theatre	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OKC movie theater	Harkins Cine Capri Bricktown	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+okeechobee bass-fishing powerhouse	Steve Daniel	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+okeechobee bass-fishing powerhouse	Mike Surman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+okeechobee bass-fishing powerhouse	Scott Martin	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+okemo's groomed cruiser	Jolly Green Giant	1	1	1	1	0.666666666666	NULL	NULL	9	9	0.1111111111111111
+okfuskee's leader	Fanni Mico	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+okfuskee's leader	Handsome Fellow	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OKI s total service	recording	1	1	3	3	NULL	NULL	NULL	574	268	0.0005807200929152149
+OKI s total service	arranging narrator	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+OKI s total service	analyzing voice datum	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+oki's total service	recording	1	1	3	3	NULL	NULL	NULL	574	268	0.0005807200929152149
+oki's total service	arranging narrator	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+oki's total service	analyzing voice datum	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+okidata fax supply	toner	1	1	3	3	NULL	NULL	NULL	504	202	0.0006613756613756613
+okidata fax supply	ink	1	1	3	3	NULL	NULL	NULL	1492	512	0.00022341376228775692
+okidata fax supply	drum	1	1	3	3	NULL	NULL	NULL	1733	552	0.00019234468166955183
+okidata printer supply	toner	1	1	2	2	NULL	NULL	NULL	504	202	0.000992063492063492
+okidata printer supply	drum	1	1	2	2	NULL	NULL	NULL	1733	552	0.00028851702250432774
+Okies	Pastor Jeremy Stowe	1	1	1	1	NULL	NULL	NULL	1	1	1
+okinawa art	Koryu Uchinadi	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+okinawa art	Kempo	1	1	3	3	1.000000000000	NULL	NULL	21	11	0.015873015873015872
+okinawa art	Quanfa	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+okinawa cultural artifact	Awamori	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+okinawa cultural artifact	Tsuboya pottery	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+okinawa drink	vitamin C-rich hibiscus	1	1	1	1	NULL	NULL	NULL	1	1	1
+okinawa pop star	Amuro Namie	1	1	1	1	0.500000000000	NULL	NULL	7	7	0.14285714285714285
+okinawan dish	Nasubi Champuru	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+okinawan dish	Okinawa Soba	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+okinawan favorite	Okinawan soba	1	1	1	1	NULL	NULL	NULL	1	1	1
+okinawan indie group	HY	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+okinawan island	Kume	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+okinawan island	Iriomote	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+okinawan island	Ishigaki	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+okinawan island	Taketomi	1	1	4	4	NULL	NULL	NULL	4	2	0.0625
+okinawan jazz artist	Ishigaki	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+okinawan karate teacher	Chojun Miyagi	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+okinawan karate teacher	Kenwa Mabuni	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+okinawan master	Mabuni Kenwa	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+okinawan master	Miyagi Chojun	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+okinawan master	Yuichi Kuda	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+okinawan master	Motobu Choki	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+okinawan weapon	tonfa	12	12	24	3	1.000000000000	NULL	NULL	36	11	0.16666666666666666
+okinawan weapon	sai	11	11	24	3	1.000000000000	NULL	NULL	58	18	0.08692528735632182
+okinawan weapon	Nunchaku	1	1	24	3	1.000000000000	NULL	NULL	56	18	0.000744047619047619
+okinawan writer	Kushi Fusako	1	1	1	1	NULL	NULL	NULL	1	1	1
+Okinawans	Kenji Yamato	1	1	1	1	NULL	NULL	NULL	1	1	1
+okines	adiponectin	1	1	1	1	NULL	NULL	NULL	188	64	0.005319148936170213
+oklahoma airway keeper	W. A. Rambo	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma artist	Acee Blue Eagle	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+oklahoma artist	Carrie Underwood	1	1	5	5	NULL	NULL	NULL	329	103	0.0006079027355623101
+oklahoma artist	Woody Crumbo	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+oklahoma artist	Garth Brooks	1	1	5	5	NULL	NULL	NULL	171	72	0.0011695906432748538
+oklahoma artist	Vince Gill	1	1	5	5	NULL	NULL	NULL	124	53	0.0016129032258064516
+oklahoma astronaut	Owen Garriott	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma attraction	101 Ranch Memorial	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oklahoma attraction	Centennial Plaza	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+oklahoma attraction	Marland Estate	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+oklahoma attraction	Conoco History Museum	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oklahoma bartending school	Oklahoma City School of Bartending	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oklahoma bartending school	Tulsa Bartending School	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oklahoma business	agriculture	3	3	9	3	0.333333333333	NULL	NULL	6485	1582	0.00015420200462606013
+oklahoma business	construction	3	3	9	3	0.333333333333	NULL	NULL	6231	1679	0.00016048788316482104
+oklahoma business	oil industry	3	3	9	3	0.333333333333	NULL	NULL	104	48	0.009615384615384616
+oklahoma casino	Stonewolf Casino	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma city	Enid	1	1	6	7	0.833333333333	NULL	NULL	7	5	0.023809523809523808
+oklahoma city	Broken Arrow	1	1	6	7	0.833333333333	NULL	NULL	34	20	0.004901960784313725
+oklahoma city	Owasso	1	1	6	7	0.833333333333	NULL	NULL	19	12	0.008771929824561403
+oklahoma city	Boise City	1	1	6	7	0.833333333333	NULL	NULL	3	3	0.05555555555555555
+oklahoma city	Lawton	1	1	6	7	0.833333333333	NULL	NULL	40	12	0.004166666666666667
+oklahoma city	Norman	1	1	6	7	0.833333333333	NULL	NULL	58	30	0.0028735632183908046
+oklahoma city attraction	SBC Bricktown Ballpark	3	1	12	8	NULL	NULL	NULL	6	3	0.125
+oklahoma city attraction	Cox Convention Center	2	1	12	8	NULL	NULL	NULL	5	3	0.06666666666666667
+oklahoma city attraction	Oklahoma State Fairgrounds	2	1	12	8	NULL	NULL	NULL	2	1	0.16666666666666666
+oklahoma city attraction	Cox Business Services Convention Center	1	1	12	8	NULL	NULL	NULL	2	2	0.041666666666666664
+oklahoma city attraction	Taft Stadium	1	1	12	8	NULL	NULL	NULL	2	2	0.041666666666666664
+oklahoma city attraction	botanical garden	1	1	12	8	NULL	NULL	NULL	195	102	0.00042735042735042735
+oklahoma city attraction	zoo	1	1	12	8	NULL	NULL	NULL	873	369	0.00009545628102329132
+oklahoma city attraction	Oklahoma State Fair park	1	1	12	8	NULL	NULL	NULL	2	2	0.041666666666666664
+oklahoma city business	Buffalo Wild Wings in Moore	3	2	8	3	NULL	NULL	NULL	3	1	0.375
+oklahoma city business	Hooters in Bricktown	3	2	8	3	NULL	NULL	NULL	3	1	0.375
+oklahoma city business	Mooneys in Norman	2	1	8	3	NULL	NULL	NULL	2	1	0.25
+oklahoma city flyer printing company	Color Print Graphics	1	1	1	1	1.000000000000	NULL	NULL	35	35	0.02857142857142857
+oklahoma city highest crime rate	gun violence	1	1	1	1	1.000000000000	NULL	NULL	22	15	0.045454545454545456
+oklahoma city industry	information technology	1	1	2	2	NULL	NULL	NULL	2132	704	0.00023452157598499062
+oklahoma city industry	biotechnology	1	1	2	2	NULL	NULL	NULL	1653	501	0.00030248033877797946
+oklahoma city marriage counseling center	Christian Clinic for Counseling	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oklahoma city marriage counseling center	Oklahoma City Marriage Counseling	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oklahoma city most builder	CCDC Homes	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma city's grandest treasure	No Regrets	1	1	1	1	1.000000000000	NULL	NULL	4	3	0.25
+oklahoma city's highest crime rate	gun violence	1	1	1	1	1.000000000000	NULL	NULL	22	15	0.045454545454545456
+oklahoma community	Durant	1	1	5	5	0.750000000000	NULL	NULL	26	13	0.007692307692307693
+oklahoma community	large oklahoma community	1	1	5	5	0.750000000000	NULL	NULL	2	2	0.1
+oklahoma community	Ardmore	1	1	5	5	0.750000000000	NULL	NULL	16	10	0.0125
+oklahoma community	Calera	1	1	5	5	0.750000000000	NULL	NULL	10	10	0.02
+oklahoma community	Oklahoma City	1	1	5	5	0.750000000000	NULL	NULL	180	59	0.0011111111111111111
+oklahoma company	Chesapeake Energy	1	1	5	5	NULL	NULL	NULL	89	26	0.0022471910112359553
+oklahoma company	Integris Health	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+oklahoma company	Devon Energy	1	1	5	5	NULL	NULL	NULL	60	34	0.0033333333333333335
+oklahoma company	Dollar Thrifty Automotive Group	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+oklahoma company	Weyerhaeuser	1	1	5	5	NULL	NULL	NULL	126	65	0.0015873015873015873
+oklahoma county property assessor website	Rogers County Assessor	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma domestic	Oklahoma Farm Bureau	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+oklahoma domestic	Oklahoma Farmers Union	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oklahoma driver	Dereck Ramirez	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma driver	Jay Sale	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma driver	Randy Timms	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma educator	Dr. Leroy Walser	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oklahoma educator	Dr. Joe Hornbeak	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oklahoma employment law	minimum wage regulation	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+oklahoma family	Brame	2	2	2	1	NULL	NULL	NULL	2	1	1
+oklahoma franchise	Oklahoma Giants	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma GEAR UP partnership	College Board	1	1	2	2	0.500000000000	NULL	NULL	64	39	0.0078125
+oklahoma GEAR UP partnership	Ruby Payne's Framework for Understanding Poverty	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+oklahoma grant program	Heartland Scholarship fund	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma industry official	Oklahoma Independent Petroleum Association President Mike Terry	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oklahoma legislative leader	Senators Glenn Coffee	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma light oil field	Golden Trend	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oklahoma light oil field	Cement	1	1	2	2	NULL	NULL	NULL	2796	868	0.000178826895565093
+oklahoma local	garage punk band The Boom Bang	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma local	hardcore rockers Promusia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma local	metal group Munkie Gunn	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma lottery game	huge multi-state Powerball game	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+oklahoma lotto game	Oklahoma Powerball	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma museum network activity	special event	1	1	1	2	NULL	NULL	NULL	620	289	0.0016129032258064516
+oklahoma performer	Gene Autry	1	1	3	3	0.666666666666	NULL	NULL	94	53	0.0035460992907801418
+oklahoma performer	Patty Page	1	1	3	3	0.666666666666	NULL	NULL	1	1	0.3333333333333333
+oklahoma performer	Wanda Jackson	1	1	3	3	0.666666666666	NULL	NULL	28	17	0.011904761904761904
+oklahoma politician	Senator Elmer Thomas	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma producer	Chesapeake Exploration	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma product	later coal	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+oklahoma product	wheat	1	1	9	9	NULL	NULL	NULL	8874	1887	0.000012520972629153833
+oklahoma product	pork	1	1	9	9	NULL	NULL	NULL	2559	680	0.000043419738613173545
+oklahoma product	cheese from South West Dairy Farmers	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+oklahoma product	corn	1	1	9	9	NULL	NULL	NULL	11029	2454	0.00001007445018688105
+oklahoma product	cotton	1	1	9	9	NULL	NULL	NULL	8381	1830	0.000013257500430868763
+oklahoma product	beef	1	1	9	9	NULL	NULL	NULL	3913	1020	0.000028395377232586533
+oklahoma product	salsa	1	1	9	9	NULL	NULL	NULL	1307	502	0.00008501232678738417
+oklahoma product	jelly	1	1	9	9	NULL	NULL	NULL	717	306	0.0001549666821633349
+oklahoma record	county assessor	1	1	6	6	0.666666666666	NULL	NULL	10	7	0.016666666666666666
+oklahoma record	professional license	1	1	6	6	0.666666666666	NULL	NULL	25	21	0.006666666666666666
+oklahoma record	unclaimed property	1	1	6	6	0.666666666666	NULL	NULL	5	5	0.03333333333333333
+oklahoma record	property record	1	1	6	6	0.666666666666	NULL	NULL	36	21	0.004629629629629629
+oklahoma record	sex offender	1	1	6	6	0.666666666666	NULL	NULL	80	50	0.0020833333333333333
+oklahoma record	court record	1	1	6	6	0.666666666666	NULL	NULL	115	54	0.0014492753623188406
+oklahoma refundable credit	low income property tax credit	6	4	17	3	NULL	NULL	NULL	6	1	0.35294117647058826
+oklahoma refundable credit	sales tax relief credit	6	4	17	3	NULL	NULL	NULL	6	1	0.35294117647058826
+oklahoma refundable credit	tornado tax credit	5	4	17	3	NULL	NULL	NULL	5	1	0.29411764705882354
+oklahoma reservoir	Eufaula	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+oklahoma resident	Merle Owens	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma roofer	Robbins Roofing	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma school	Moore Norman Technology Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma state agency	Department of Human Services	1	1	1	1	1.000000000000	NULL	NULL	60	28	0.016666666666666666
+oklahoma statistic	major employer	1	1	3	3	0.600000000000	NULL	NULL	17	15	0.0196078431372549
+oklahoma statistic	population	1	1	3	3	0.600000000000	NULL	NULL	1588	562	0.00020990764063811922
+oklahoma statistic	unemployment rate	1	1	3	3	0.600000000000	NULL	NULL	614	247	0.0005428881650380021
+oklahoma thunder event	Youth Football Camps	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+oklahoma thunder event	Charity fundraising Events	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+oklahoma town	Edmond	1	1	2	2	1.000000000000	NULL	NULL	5	16	0.1
+oklahoma town	small oklahoma town	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+oklahoma tribe	Chickasaw	1	1	4	4	0.250000000000	NULL	NULL	49	20	0.00510204081632653
+oklahoma tribe	Choctaw	1	1	4	4	0.250000000000	NULL	NULL	84	33	0.002976190476190476
+oklahoma tribe	Cherokee	1	1	4	4	0.250000000000	NULL	NULL	332	113	0.0007530120481927711
+oklahoma tribe	Creek	1	1	4	4	0.250000000000	NULL	NULL	533	222	0.00046904315196998124
+oklahoma university	Southeastern Oklahoma State University	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+oklahoma university	University of Oklahoma	1	1	2	2	1.000000000000	NULL	NULL	47	23	0.010638297872340425
+oklahoma violent crime charge	Battery	1	1	6	6	NULL	NULL	NULL	5492	1552	0.000030347171643602813
+oklahoma violent crime charge	Burglary	1	1	6	6	NULL	NULL	NULL	1660	315	0.0001004016064257028
+oklahoma violent crime charge	Murder	1	1	6	6	NULL	NULL	NULL	4751	769	0.00003508033396477934
+oklahoma violent crime charge	Rape	1	1	6	6	NULL	NULL	NULL	4855	976	0.00003432887058015791
+oklahoma violent crime charge	Assault	1	1	6	6	NULL	NULL	NULL	2388	478	0.00006979341150195422
+oklahoma violent crime charge	Manslaughter	1	1	6	6	NULL	NULL	NULL	261	71	0.0006385696040868454
+oklahoma wide, sandy river	Red	1	1	1	1	NULL	NULL	NULL	9245	2185	0.00010816657652785289
+oklahoma's largest corporation	Phillips	1	1	1	1	NULL	NULL	NULL	336	144	0.002976190476190476
+oklahoma's major city	Oklahoma City	1	1	3	3	0.333333333333	NULL	NULL	180	59	0.0018518518518518517
+oklahoma's major city	Muskogee	1	1	3	3	0.333333333333	NULL	NULL	13	9	0.02564102564102564
+oklahoma's major city	Tulsa	1	1	3	3	0.333333333333	NULL	NULL	152	49	0.0021929824561403508
+oklahoma's most appealing site	Choctaw Nation Headquarters	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oklahoma's most appealing site	Southeastern Oklahoma State University	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+oklahoma's most appealing site	Red River Historical Museum	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oklahoma's most appealing site	Choctaw Event Center	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oklahoma's most popular club	Rodeo Romeo's	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma's most prestigious course	Cedar Ridge Country Club	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+oklahoma's most prestigious course	Oak Tree National in Edmond	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oklahoma's most prestigious course	Southern Hills Country Club	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+oklahoma's public educator	Dr. Kirby Lehman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oklahoma's public educator	Dr. Cathy Burden	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Oklahoma's state flower	Indian Blanket	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+oklahoma's state incentive	Quality Jobs	1	1	1	1	NULL	NULL	NULL	1	1	1
+oklahoma's troublesome pest	tick	1	1	2	2	NULL	NULL	NULL	985	224	0.0005076142131979696
+oklahoma's troublesome pest	disease-causing fungus	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oklahoma-based insurer	Oklahoma Farm Bureau	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+oklahoma-based insurer	Oklahoma Farmers Union	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oklahoman favorite childhood memory	visiting grandma	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Oklahomans	famed rodeo announcer Clem McSpadden	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Oklahomans	late state Sen. John Dahl	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Oklahomans	Betty Johnson	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Oklahomans	Marvin	1	1	4	4	NULL	NULL	NULL	70	38	0.0035714285714285713
+okmulgee OK immediate sanction	incarceration	2	2	2	1	NULL	NULL	NULL	163	87	0.012269938650306749
+Okoboji Boat Show information	Okoboji boat show Hours	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Okoboji Boat Show information	Okoboji boat show Location	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Okoboji Boat Show information	Okoboji boat show ticket	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+okra plant material	leaf	1	1	1	1	NULL	NULL	NULL	4185	1340	0.00023894862604540023
+okrayinni Sea Arctic Ocean	Barents	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+OKS product	cleaning	1	1	2	2	NULL	NULL	NULL	4484	1538	0.00011150758251561107
+OKS product	oil	1	1	2	2	NULL	NULL	NULL	15331	4205	0.00003261365860022177
+OKT3-induced cytokines	TNF-alpha	1	1	1	1	NULL	NULL	NULL	218	54	0.0045871559633027525
+oktoberfest beer	Hopf Ice Wheat Beer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest beer	Flying Fish's Oktoberfish	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest beer	Paulaner Oktoberfest Bier	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest brew	Brooklyn Brewery	1	1	1	1	0.500000000000	NULL	NULL	13	10	0.07692307692307693
+oktoberfest contest	Stein Holding	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest contest	Chugging	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+oktoberfest contest	Brat Eating	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest fashion	deep-cleavage corset	1	1	1	1	NULL	NULL	NULL	1	1	1
+oktoberfest favorite	brat	1	1	5	5	0.666666666666	NULL	NULL	41	36	0.004878048780487805
+oktoberfest favorite	mini pasty	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+oktoberfest favorite	cabbage roll	1	1	5	5	0.666666666666	NULL	NULL	36	26	0.005555555555555556
+oktoberfest favorite	porketta	1	1	5	5	0.666666666666	NULL	NULL	2	2	0.1
+oktoberfest favorite	sauerkraut	1	1	5	5	0.666666666666	NULL	NULL	556	185	0.00035971223021582735
+Oktoberfest food	Mussels steamed in Oktoberfest lager	1	1	1	1	NULL	NULL	NULL	1	1	1
+oktoberfest regular	Hermann Maier	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+oktoberfest special	German potato salad with frankfurter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest special	Grilled Nuremberg	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oktoberfest special	weisswurst & smoked cervelat sausage	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OKULEN item	dough mixer	1	1	1	1	1.000000000000	NULL	NULL	20	17	0.05

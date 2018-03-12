@@ -1,0 +1,233 @@
+Ws	Rampage	1	1	1	1	1.000000000000	NULL	NULL	30	24	0.03333333333333333
+WS factor	display size	1	1	1	1	NULL	NULL	NULL	65	33	0.015384615384615385
+WS orchestration language	Business Process Execution Language for Web Services	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+WS person	hyperacusis	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+WS record	at-bats	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+WS record	hit	1	1	2	2	NULL	NULL	NULL	131	72	0.003816793893129771
+WS specific trait	epinastic leaf growth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WS specific trait	strong apical dominance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WS specification	WS-Security	1	1	2	2	0.500000000000	NULL	NULL	98	51	0.00510204081632653
+WS specification	WS-Policy	1	1	2	2	0.500000000000	NULL	NULL	25	17	0.02
+WS unit	rack	1	1	1	1	NULL	NULL	NULL	602	278	0.0016611295681063123
+ws's product	ground foam	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ws-addressing related requirement	setting message IDs	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+WS-BPEL artifact	process definition	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+ws-bpels distinctive feature	compensation handler	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+ws-bpels distinctive feature	message correlation	1	1	5	5	NULL	NULL	NULL	5	4	0.04
+ws-bpels distinctive feature	partner link	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+ws-bpels distinctive feature	long-running business transaction	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ws-bpels distinctive feature	process termination	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+ws-federation identity provider	AD FS	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ws-federation parameter	wtrealm	1	1	1	1	NULL	NULL	NULL	1	1	1
+ws-man variation	Java implementation called Wiseman	1	1	1	1	NULL	NULL	NULL	1	1	1
+ws-object advantage	flexibility	1	1	1	1	NULL	NULL	NULL	2242	693	0.00044603033006244426
+ws-security interoperability betweendifierent vendor implementation	Microsoft Web Services Enhancements	1	1	1	1	NULL	NULL	NULL	1	1	1
+ws-security specification	WS-Federation	1	1	2	2	1.000000000000	NULL	NULL	21	12	0.023809523809523808
+ws-security specification	WS-Trust	1	1	2	2	1.000000000000	NULL	NULL	37	23	0.013513513513513514
+WSAN application	monitoring stresses within building	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSAs	Robledos Mountains	1	1	1	1	NULL	NULL	NULL	1	1	1
+wsb's actual cost	administrative cost	1	1	2	2	0.500000000000	NULL	NULL	150	70	0.0033333333333333335
+wsb's actual cost	asset development	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+WSBK regular	Aaron Slight	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+WSBK regular	Yasutomo Nagai	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+WSBK regular	Carl Fogarty	1	1	7	7	1.000000000000	NULL	NULL	10	8	0.014285714285714285
+WSBK regular	Anthony Gobert	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+WSBK regular	Colin Edwards	1	1	7	7	1.000000000000	NULL	NULL	9	5	0.015873015873015872
+WSBK regular	Troy Corser	1	1	7	7	1.000000000000	NULL	NULL	6	5	0.023809523809523808
+WSBK regular	Simon Crafar	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+WSC alumnus	Karl Sax	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSC institutional establishment cost	pension requirement	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WSC institutional establishment cost	restructuring	1	1	2	2	NULL	NULL	NULL	280	155	0.0017857142857142857
+WSC school	Moorpark	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+WSCF inter-regional publication	Student World	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSCF inter-regional publication	WSCF Book Series	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSDL compliant WMS	Taverna Workbench	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+WSDL component	input	1	1	1	1	NULL	NULL	NULL	400	219	0.0025
+WSDL concept	SOAP binding	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+WSDL consumer	soapui	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+WSDL element	message	1	1	1	1	NULL	NULL	NULL	639	295	0.001564945226917058
+WSDL entity	port type	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+WSDL file	XML document	1	1	1	1	1.000000000000	NULL	NULL	33	22	0.030303030303030304
+WSDL generator	Axis2 java2wsdl	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSDL tool	schema validators	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSDL tool	consistency checker	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+wsdl-less service	Provider	1	1	1	1	NULL	NULL	NULL	143	86	0.006993006993006993
+WSDOT employee manually index information	date	1	1	2	2	NULL	NULL	NULL	5860	1522	0.00008532423208191126
+WSDOT employee manually index information	name	1	1	2	2	NULL	NULL	NULL	13911	2278	0.000035942779095679676
+WSDOT project	bridge replacement	1	1	2	2	1.000000000000	NULL	NULL	29	22	0.017241379310344827
+WSDOT project	simple paving project	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+WSET-endorsed wine course	day's course with Early Harvest	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSF awardees	gymnasts Courtney Kupets	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WSF awardees	figure skater Sarah Hughes	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+WSF awardees	swimmer Janet Evans	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WSF organization	Focus on the Global South based in Thailand	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSF theme	debt relief	1	1	2	2	0.500000000000	NULL	NULL	75	48	0.006666666666666667
+WSF theme	socially responsible investment	1	1	2	2	0.500000000000	NULL	NULL	18	11	0.027777777777777776
+WSFC cluster resource	storage	1	1	2	2	NULL	NULL	NULL	2511	1000	0.00019912385503783353
+WSFC cluster resource	network	1	1	2	2	NULL	NULL	NULL	1218	591	0.00041050903119868636
+wsgandsomejd edwards enterpriseone batch interface	batch extraction program	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+wsgandsomepeoplesoftenterpriseone batch interface	batch extraction program	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+WSH documentation wsh-related document	safety policy	1	0	2	2	1.000000000000	NULL	NULL	20	16	0.025
+WSH documentation wsh-related document	WSH RAs	1	0	2	2	1.000000000000	NULL	NULL	1	1	0.5
+WSH professional	WSH Coordinators	1	1	1	2	1.000000000000	NULL	NULL	1	1	1
+WSH script engine	VBScript	1	1	1	1	NULL	NULL	NULL	213	61	0.004694835680751174
+WSI family	Katarina	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+WSI Genesis widgets	recent post	1	1	2	3	0.500000000000	NULL	NULL	26	12	0.019230769230769232
+WSI Genesis widgets	tag cloud	1	1	2	3	0.500000000000	NULL	NULL	62	36	0.008064516129032258
+wsi's datum	student profile	1	1	1	1	1.000000000000	NULL	NULL	17	14	0.058823529411764705
+WSIP project	Advanced Disinfection Project	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSIS topic	open source	1	1	1	1	0.500000000000	NULL	NULL	109	62	0.009174311926605505
+WSIT technology	Reliable Messaging	1	1	1	1	1.000000000000	NULL	NULL	25	23	0.04
+WSIWYG software	dreamweaver	1	1	1	1	NULL	NULL	NULL	1242	429	0.0008051529790660225
+WSJ correspondannts	Marci Rossel	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSJT mode	WSPR	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+WSJT mode	JT65	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+WSL club	Arsenal	2	2	2	1	NULL	NULL	NULL	359	125	0.005571030640668524
+WSL higher allergen food	peanut butter	1	1	3	3	NULL	NULL	NULL	2014	659	0.00016550810989738495
+WSL higher allergen food	strawberry	1	1	3	3	NULL	NULL	NULL	6216	1333	0.00005362505362505362
+WSL higher allergen food	egg	1	1	3	3	NULL	NULL	NULL	9254	1960	0.00003602045962106476
+WSL lineage folks	Gary Lam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSL lineage folks	Nino Benardo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSML syntax basic	use of namespaces	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WSML syntax basic	identifiers	1	1	2	2	NULL	NULL	NULL	64	40	0.0078125
+WSMO constituent	Mediators	1	1	1	1	1.000000000000	NULL	NULL	6	7	0.16666666666666666
+WSN application	wireless body sensor network	4	3	32	26	0.583333333333	NULL	NULL	4	1	0.125
+WSN application	environmental monitoring	3	2	32	26	0.583333333333	NULL	NULL	207	103	0.001358695652173913
+WSN application	object tracking	2	1	32	26	0.583333333333	NULL	NULL	68	42	0.001838235294117647
+WSN application	vehicle control	2	2	32	26	0.583333333333	NULL	NULL	25	22	0.005
+WSN application	chemical	1	1	32	26	0.583333333333	NULL	NULL	5436	1619	0.000005748712288447388
+WSN application	sensor node tracking	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	perimeter intrusion detection	1	1	32	26	0.583333333333	NULL	NULL	3	3	0.010416666666666666
+WSN application	plant automatio n	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	passive RFID	1	1	32	26	0.583333333333	NULL	NULL	7	6	0.004464285714285714
+WSN application	environmental	1	1	32	26	0.583333333333	NULL	NULL	1315	519	0.00002376425855513308
+WSN application	combat field surveillance	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	large scale	1	1	32	26	0.583333333333	NULL	NULL	122	81	0.00025614754098360657
+WSN application	lighting in office building	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	security monitoring	1	1	32	26	0.583333333333	NULL	NULL	51	32	0.0006127450980392157
+WSN application	remote surveillance system	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	environmental data collection	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	sniper localization	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+WSN application	asset tracking	1	1	32	26	0.583333333333	NULL	NULL	89	49	0.00035112359550561797
+WSN application	humidity	1	1	32	26	0.583333333333	NULL	NULL	4029	858	0.000007756267063787541
+WSN application	wildfire detection	1	1	32	26	0.583333333333	NULL	NULL	1	1	0.03125
+wsn application	critical wsn application	1	1	32	26	0.583333333333	NULL	NULL	2	2	0.015625
+WSN application	disaster management	1	1	32	26	0.583333333333	NULL	NULL	87	49	0.00035919540229885057
+WSN application	su rveillance	1	1	32	26	0.583333333333	NULL	NULL	2	2	0.015625
+WSN application	monitoring temperature	1	1	32	26	0.583333333333	NULL	NULL	8	8	0.00390625
+WSN application	plant automation	1	1	32	26	0.583333333333	NULL	NULL	4	4	0.0078125
+WSN communication feature	sleeping	1	1	2	2	NULL	NULL	NULL	320	163	0.0015625
+WSN communication feature	network synchronization	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WSN device	Motes	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+WSN device	Flecks	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSN dynamic	leader re-elections	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSN feature	interviews from betting industry insider	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSN feature	exclusive pre-season analysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSN function	in-network processing	2	2	4	2	NULL	NULL	NULL	5	4	0.2
+WSN function	information relay	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+WSN issue	localization	1	1	3	3	NULL	NULL	NULL	166	96	0.002008032128514056
+WSN issue	node deployment	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WSN issue	energy-aware clustering	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WSN protocol performance	access delay	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+WSN protocol performance	routing efficiency	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WSN startups	Spark Parking	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSN startups	Streetline Networks	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+WSN startups	Sensys Systems	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSN startups	ACME Innovations	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSN synchronisation technique	Reference Broadcast Synchronization algorithm	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSN technology	ZigBee	3	3	9	7	0.500000000000	NULL	NULL	172	100	0.005813953488372093
+WSN technology	Wi-Fi	1	1	9	7	0.500000000000	NULL	NULL	1192	414	0.00009321401938851603
+WSN technology	Bluetooth	1	1	9	7	0.500000000000	NULL	NULL	2836	910	0.000039178812098417176
+wsn technology	wireless sensor network wsn technology	1	1	9	7	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+WSN technology	UWB	1	1	9	7	0.500000000000	NULL	NULL	54	36	0.0020576131687242796
+WSN technology	Z-Wave	1	1	9	7	0.500000000000	NULL	NULL	31	21	0.0035842293906810036
+WSN technology	NFC	1	1	9	7	0.500000000000	NULL	NULL	90	37	0.0012345679012345679
+WSNapplications	animal tracking	1	1	2	2	0.500000000000	NULL	NULL	39	23	0.01282051282051282
+WSNapplications	environmental monitoring	1	1	2	2	0.500000000000	NULL	NULL	207	103	0.0024154589371980675
+wsns application	target tracking	1	1	1	1	1.000000000000	NULL	NULL	62	31	0.016129032258064516
+wsns application area	medical	1	1	1	1	NULL	NULL	NULL	3750	1210	0.0002666666666666667
+wsns characteristic	limited energy	2	2	6	3	0.500000000000	NULL	NULL	9	5	0.07407407407407407
+wsns characteristic	scalability	2	2	6	3	0.500000000000	NULL	NULL	778	271	0.0008568980291345329
+wsns characteristic	unattended nature	2	2	6	3	0.500000000000	NULL	NULL	2	1	0.3333333333333333
+WSO staff member	Alberte C.	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSO2 product	Enterprise Service Bus	1	1	2	2	0.500000000000	NULL	NULL	35	29	0.014285714285714285
+WSO2 product	Application Server	1	1	2	2	0.500000000000	NULL	NULL	200	135	0.0025
+wsoftware	Adbomber	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+wsoftware	Craygo	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+WSOP main event champion	Doyle Brunson	1	1	3	3	0.666666666666	NULL	NULL	65	37	0.005128205128205128
+WSOP main event champion	Jerry Yang	1	1	3	3	0.666666666666	NULL	NULL	8	7	0.041666666666666664
+WSOP main event champion	Greg Raymer	1	1	3	3	0.666666666666	NULL	NULL	15	9	0.02222222222222222
+WSOP winner	Chris Moneymaker	1	1	4	4	1.000000000000	NULL	NULL	22	15	0.011363636363636364
+WSOP winner	Jerry Yang	1	1	4	4	1.000000000000	NULL	NULL	8	7	0.03125
+WSOP winner	Joe Hachem	1	1	4	4	1.000000000000	NULL	NULL	15	12	0.016666666666666666
+WSOP winner	Greg Raymer	1	1	4	4	1.000000000000	NULL	NULL	15	9	0.016666666666666666
+wsou's community program	Asia in Focus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+wsou's community program	Arab Caravan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+wsou's community program	Caribbean Tempo	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+wsoy's top author	Kari Hotakainen	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wsoy's top author	Leena Lander	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wsoy's top author	Hannu Raittila	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+wsoy's top author	Pirkko Saisio	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSP activity	critical control point	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+WSP course	First Aid	1	1	2	2	0.500000000000	NULL	NULL	1163	424	0.0004299226139294927
+WSP course	SAQ	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+WSPMS specific datum	friction	1	1	2	2	NULL	NULL	NULL	877	342	0.0005701254275940707
+WSPMS specific datum	ride	1	1	2	2	NULL	NULL	NULL	196	103	0.002551020408163265
+WSPRC unit	Columbia Hills	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSPRC unit	Palouse Falls	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSPRC unit	Steamboat Rock	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+WSPRC unit	Sun Lakes-Dry Falls	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+WSPs	Immix Wireless	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+WSPs	Apache Axis2	1	1	3	3	0.333333333333	NULL	NULL	9	9	0.037037037037037035
+WSPs	Indigo Wireless	1	1	3	3	0.333333333333	NULL	NULL	1	1	0.3333333333333333
+WSR-88D product	Spectrum Width	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+WSR-88D system change	replacing the legacy RDA with the ORDA	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSRF-based resource management compon ents	WS-GRAMin GT4	1	1	1	1	NULL	NULL	NULL	1	1	1
+wsrf-based resource management component	WS-GRAM in GT4	2	2	2	1	NULL	NULL	NULL	2	1	1
+wsrp-enable non-portal project	WebLogic Server project	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSS component	Web Parts	1	1	4	4	1.000000000000	NULL	NULL	16	15	0.015625
+WSS component	Web Part Zones	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+WSS component	custom application page	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+WSS component	Feature Receivers	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+WSS gallery	Web Part Galleries	2	1	2	2	NULL	NULL	NULL	2	1	1
+WSS service provider	water vendor	1	1	3	3	NULL	NULL	NULL	6	5	0.05555555555555555
+WSS service provider	private cooperative	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WSS service provider	private water company	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+WSSCC staff	Jon Lane	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+WSSCC staff	Barry Jackson	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+wsscc's important document	Governance Document	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+wsscc-managed event	regional workshop	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+WSSV putative early gene	ribonucleotide reductases	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+WST organized event	open house	1	1	1	1	NULL	NULL	NULL	628	235	0.0015923566878980893
+WSU alumnus	vintner	1	1	1	1	0.500000000000	NULL	NULL	8	6	0.125
+WSU candidate study research	Marzano	1	1	1	1	1.000000000000	NULL	NULL	7	5	0.14285714285714285
+WSU catcher	Brandon Hall	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+WSU club team	men's soccer	2	1	6	3	0.333333333333	NULL	NULL	14	6	0.047619047619047616
+WSU club team	baseball	2	1	6	3	0.333333333333	NULL	NULL	6093	1077	0.00010941517588489523
+WSU club team	hockey	2	1	6	3	0.333333333333	NULL	NULL	2679	470	0.0002488490730372029
+WSU equipment	fax machine	2	1	6	3	NULL	NULL	NULL	1333	448	0.0005001250312578144
+WSU equipment	computer	2	1	6	3	NULL	NULL	NULL	13729	3711	0.00004855901133852914
+WSU equipment	copier	2	1	6	3	NULL	NULL	NULL	1675	419	0.0003980099502487562
+WSU extension program	volunteer Beachwatchers	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSU extension's core program	Beach Watchers	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+WSU extension's core program	Master Gardeners	1	1	3	3	0.500000000000	NULL	NULL	40	26	0.008333333333333333
+WSU extension's core program	4H	1	1	3	3	0.500000000000	NULL	NULL	87	44	0.0038314176245210726
+WSU non-tenured faculty	affiliate faculty	3	3	3	1	0.666666666666	NULL	NULL	3	1	1
+WSU program	architecture	1	1	1	1	NULL	NULL	NULL	2229	669	0.00044863167339614175
+WSU resource	tutoring	2	1	4	2	NULL	NULL	NULL	1081	364	0.0009250693802035153
+WSU resource	study skills seminar	2	1	4	2	NULL	NULL	NULL	5	4	0.2
+WSU student	19-year-old pre-medical undergraduate Andre Halabu	1	1	1	1	NULL	NULL	NULL	1	1	1
+WSU varsity team	football	1	1	2	2	NULL	NULL	NULL	10605	1568	0.00004714757190004715
+WSU varsity team	basketball	1	1	2	2	NULL	NULL	NULL	10932	1509	0.000045737285034760334
+WSUD element	swales	1	1	4	4	NULL	NULL	NULL	318	183	0.0007861635220125787
+WSUD element	rainwater tank	1	1	4	4	NULL	NULL	NULL	62	49	0.004032258064516129
+WSUD element	trench	1	1	4	4	NULL	NULL	NULL	195	142	0.001282051282051282
+WSUD element	wetland	1	1	4	4	NULL	NULL	NULL	2401	852	0.00010412328196584757
+WSUD feature	drainage pond	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+WSUD feature	swales	1	1	2	2	NULL	NULL	NULL	318	183	0.0015723270440251573
+WSUD measure	swales	1	1	3	3	NULL	NULL	NULL	318	183	0.0010482180293501047
+wsud measure	allotment scale wsud measure	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+wsud measure	treatment wsud measure	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+WSUD treatment	rain garden	1	1	1	1	NULL	NULL	NULL	388	230	0.002577319587628866
+wsuw's self-promoting event	ticket giveaway	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+WSYIWYG software	Dreamweaver	1	1	1	1	NULL	NULL	NULL	1242	429	0.0008051529790660225

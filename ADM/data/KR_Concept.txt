@@ -1,0 +1,360 @@
+kr blocker	dofetilide	1	1	1	1	1.000000000000	NULL	NULL	37	18	0.02702702702702703
+KR formalism	conceptual graph	1	1	1	1	1.000000000000	NULL	NULL	14	8	0.07142857142857142
+KR technique	tagging	2	2	6	3	NULL	NULL	NULL	313	155	0.0021299254526091584
+KR technique	frame	2	2	6	3	NULL	NULL	NULL	1466	688	0.00045475216007276033
+KR technique	rule	2	2	6	3	NULL	NULL	NULL	735	386	0.0009070294784580498
+krabi's major tourist hub	Railay	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+krabi's major tourist hub	Koh Phi Phi	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+kraechar arm design	Challenger light tank	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kraechar arm design	ScorpTail APC	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kraft brand	original Oreo Chocolate Sandwich Cookies	2	2	18	14	0.833333333333	NULL	NULL	3	2	0.07407407407407407
+kraft brand	Kraft Easy Mac	2	2	18	14	0.833333333333	NULL	NULL	7	3	0.031746031746031744
+kraft brand	DiGiorno Thin Crispy Crust Pizza	2	2	18	14	0.833333333333	NULL	NULL	6	2	0.037037037037037035
+kraft brand	Wheat Thins Crackers	2	2	18	14	0.833333333333	NULL	NULL	3	2	0.07407407407407407
+kraft brand	key kraft brand	1	1	18	14	0.833333333333	NULL	NULL	2	2	0.027777777777777776
+kraft brand	Kraft Macaroni & Cheese	1	1	18	14	0.833333333333	NULL	NULL	2	2	0.027777777777777776
+kraft brand	CornNuts	1	1	18	14	0.833333333333	NULL	NULL	1	1	0.05555555555555555
+kraft brand	Dairy Milk	1	1	18	14	0.833333333333	NULL	NULL	35	24	0.0015873015873015873
+kraft brand	Dairylea	1	1	18	14	0.833333333333	NULL	NULL	6	6	0.009259259259259259
+kraft brand	Stride gum	1	1	18	14	0.833333333333	NULL	NULL	4	4	0.013888888888888888
+kraft brand	Ritz cracker	1	1	18	14	0.833333333333	NULL	NULL	12	9	0.004629629629629629
+kraft brand	Toblerone	1	1	18	14	0.833333333333	NULL	NULL	14	12	0.003968253968253968
+kraft brand	Oscar Mayer Lunchables	1	1	18	14	0.833333333333	NULL	NULL	3	3	0.018518518518518517
+kraft brand	Philadelphia	1	1	18	14	0.833333333333	NULL	NULL	1871	389	0.000029692974642199653
+kraft cheese	family's favorite kraft cheese	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kraft cheese item	shredded cheese	1	1	1	1	NULL	NULL	NULL	127	58	0.007874015748031496
+KRAFT DELI DELUXE cheese slice	Jalapeno American	1	1	1	1	NULL	NULL	NULL	1	1	1
+kraft dressing	ranch	1	1	2	2	NULL	NULL	NULL	220	128	0.0022727272727272726
+kraft dressing	honey mustard	1	1	2	2	NULL	NULL	NULL	80	25	0.00625
+kraft educational theorist	Kolb	1	1	2	2	0.500000000000	NULL	NULL	26	16	0.019230769230769232
+kraft educational theorist	Dewey	1	1	2	2	0.500000000000	NULL	NULL	183	84	0.00273224043715847
+kraft elementary parent	Brenda Hearn of Hampton	1	1	1	1	NULL	NULL	NULL	1	1	1
+kraft flavor	Ranch	1	1	1	1	NULL	NULL	NULL	220	128	0.004545454545454545
+kraft food	cookie	2	1	8	6	0.166666666666	NULL	NULL	5329	1507	0.00009382623381497467
+kraft food	cheese	2	1	8	6	0.166666666666	NULL	NULL	9373	2034	0.0000533447135388883
+kraft food	Jell-O	1	1	8	6	0.166666666666	NULL	NULL	124	59	0.0010080645161290322
+kraft food	Cool Whip	1	1	8	6	0.166666666666	NULL	NULL	19	17	0.006578947368421052
+kraft food	peanut	1	1	8	6	0.166666666666	NULL	NULL	3307	885	0.00003779860901118839
+kraft food	mayonnaise	1	1	8	6	0.166666666666	NULL	NULL	1013	356	0.00012339585389930897
+kraft food brand	Kraft Easy Mac	1	1	5	5	1.000000000000	NULL	NULL	7	3	0.028571428571428574
+kraft food brand	Milka	1	1	5	5	1.000000000000	NULL	NULL	12	6	0.016666666666666666
+kraft food brand	Wheat Thins Crackers	1	1	5	5	1.000000000000	NULL	NULL	3	2	0.06666666666666667
+kraft food brand	original Oreo Chocolate Sandwich Cookies	1	1	5	5	1.000000000000	NULL	NULL	3	2	0.06666666666666667
+kraft food brand	Philadelphia cream cheese	1	1	5	5	1.000000000000	NULL	NULL	8	6	0.025
+kraft foods brand	Kool-Aid	1	1	2	2	0.750000000000	NULL	NULL	95	51	0.005263157894736842
+kraft foods brand	Oreo	1	1	2	2	0.750000000000	NULL	NULL	52	35	0.009615384615384616
+kraft foods power brand	Oscar Mayer Lunchables	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kraft light salad dressing	ranch	1	1	1	1	NULL	NULL	NULL	220	128	0.004545454545454545
+kraft lignin product	Diwatex XP	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kraft lignin product	Reax 85	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kraft paper	bleached kraft paper	4	1	27	14	NULL	NULL	NULL	4	1	0.14814814814814814
+kraft paper	sbs paper	4	1	27	14	NULL	NULL	NULL	4	1	0.14814814814814814
+kraft paper	wood free paper	4	1	27	14	NULL	NULL	NULL	9	3	0.06584362139917695
+kraft paper	virgin kraft paper	3	1	27	14	NULL	NULL	NULL	3	1	0.1111111111111111
+kraft paper	kraft board paper	3	1	27	14	NULL	NULL	NULL	4	2	0.08333333333333333
+kraft paper	art cords paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper	brown paper sack	1	1	27	14	NULL	NULL	NULL	2	2	0.018518518518518517
+kraft paper	presspahn paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper	regular abrasive kraft paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper	wrapping paper	1	1	27	14	NULL	NULL	NULL	226	110	0.00016388069485414618
+kraft paper	electrical grade insulating crepe paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper	electrical grade insulating kraft paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper	white top kraft liner paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper	white top test liner paper	1	1	27	14	NULL	NULL	NULL	1	1	0.037037037037037035
+kraft paper bag	brown kraft bag	1	1	1	1	NULL	NULL	NULL	7	2	0.14285714285714285
+kraft product	Oreos	2	2	5	4	0.500000000000	NULL	NULL	67	37	0.011940298507462687
+kraft product	cheese	1	1	5	4	0.500000000000	NULL	NULL	9373	2034	0.00002133788541555532
+kraft product	jello	1	1	5	4	0.500000000000	NULL	NULL	197	72	0.0010152284263959391
+kraft product	Philadelphia Spreads	1	1	5	4	0.500000000000	NULL	NULL	1	1	0.2
+kraft pulp property	sheet density	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kraft pulp property	Scott Bond	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+Kraft senior executive	Bracciale	3	3	3	1	NULL	NULL	NULL	3	1	1
+kraft's older brand	Maxwell House	1	1	1	1	1.000000000000	NULL	NULL	63	41	0.015873015873015872
+kraft's peer	Unilever	1	1	1	1	NULL	NULL	NULL	1354	416	0.0007385524372230429
+kraft's product	Boca Burgers	1	1	5	5	1.000000000000	NULL	NULL	16	12	0.0125
+kraft's product	Tombstone Pizza	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+kraft's product	Post Cereal	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+kraft's product	Snackwell's cracker	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kraft's product	Lunchables	1	1	5	5	1.000000000000	NULL	NULL	23	16	0.008695652173913044
+kraftmaid cabinetry's standard construction feature	three-quarter inch solid wood dovetail drawers with under-mount suspension runner	1	1	1	1	NULL	NULL	NULL	1	1	1
+kraftwerk album	Man Machine	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+kraftwerk album	Trans-Europe Express	2	2	5	3	NULL	NULL	NULL	3	2	0.26666666666666666
+kraftwerk album	1970s kraftwerk album	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+kraftwerk devotee	Andreas Gurksy	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+KRAJINA CHRONICLE method	sawing off the head of the victim	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+krakow attraction	Julius Slowacki Theatre	2	1	7	5	1.000000000000	NULL	NULL	2	1	0.2857142857142857
+krakow attraction	Sain Cross Church	2	1	7	5	1.000000000000	NULL	NULL	2	1	0.2857142857142857
+krakow attraction	Wawel Royal Castle	1	1	7	5	1.000000000000	NULL	NULL	3	3	0.047619047619047616
+krakow attraction	Cracow's City Walls	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+krakow attraction	Saint Florian's Gate	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+krakow christmas tradition	Christmas Market	1	1	2	2	1.000000000000	NULL	NULL	28	19	0.017857142857142856
+krakow christmas tradition	Pasterka	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+krakow malopolska attraction	Wawel Royal Castle	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+krakow malopolska attraction	Saint Francis of Assisi's Church	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+krakow's attraction	Aviation Museum	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+krakow's attraction	Museum of Nowa Huta	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+krakow's famous museum	Franciscan Church with stunning stained glass windows by Wyspianski	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+krakow's famous museum	Gallery of Polish Paintings	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+krakow's famous museum	Czartoryski Collection	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+krals	Lobengula's kral at Bulawayo	1	1	1	1	NULL	NULL	NULL	1	1	1
+kramer device	audio pre-amplifier	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kramer device	VA-4	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kramer power amplifier	900xl on the low impedance setting	1	1	1	1	NULL	NULL	NULL	1	1	1
+kramerforum.com advertising partner	Google	1	1	1	1	NULL	NULL	NULL	18060	3284	0.000055370985603543746
+kranks product	poster	1	1	2	2	NULL	NULL	NULL	4712	1695	0.00010611205432937182
+kranks product	DVDs	1	1	2	2	NULL	NULL	NULL	1949	787	0.0002565418163160595
+Krantz's later work	Princess Daisy	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+KRAs	Proactiveness	1	1	1	1	0.500000000000	NULL	NULL	7	6	0.14285714285714285
+Krasotuli	Alice Dior	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Krasotuli	Sarah Vandell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kratman's writing	State of Disobedience	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kratman's writing	Caliphate	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kratom drug	Heroin	1	1	1	1	NULL	NULL	NULL	3005	390	0.00033277870216306157
+Kratom information	withdrawal	1	1	2	2	NULL	NULL	NULL	379	201	0.0013192612137203166
+Kratom information	research into use of Kratom in treatment of Opiate addiction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kratom long term effect	skin problem	1	1	1	1	NULL	NULL	NULL	213	84	0.004694835680751174
+kraton	Kasepuhan	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kraton G elastomers	Kraton G-1657	1	1	1	1	NULL	NULL	NULL	1	1	1
+kraus-anderson U course offering	LEED AP	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kraus-anderson U course offering	LEED Green Associate training	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kraut rock band	little known UK proggers like High Tide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kraut rock band	Amon Duul II	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+krautrock band	Amon Dull II	1	1	1	1	NULL	NULL	NULL	1	1	1
+krautrock studio innovator	Dieter Dirks	1	1	1	1	NULL	NULL	NULL	1	1	1
+kravis's critic	Jerome Kohlberg	1	1	1	1	NULL	NULL	NULL	1	1	1
+kreasi work	Wayan e's Lebur Seketi	3	1	6	2	NULL	NULL	NULL	3	1	0.5
+kreasi work	Dewa Alit's Pengastung Kara	3	1	6	2	NULL	NULL	NULL	3	1	0.5
+krebs cycle compound	acetyl-coa	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+krebs cycle compound	succinyl-coa	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+krebs cycle enzyme	succinate dehydrogenase	4	3	8	5	1.000000000000	NULL	NULL	34	15	0.058823529411764705
+krebs cycle enzyme	complex II enzyme succinate dehydrogenase	1	1	8	5	1.000000000000	NULL	NULL	1	1	0.125
+krebs cycle enzyme	malate dehydrogenase	1	1	8	5	1.000000000000	NULL	NULL	16	12	0.0078125
+krebs cycle enzyme	NAD-isocitrate dehydrogenase	1	1	8	5	1.000000000000	NULL	NULL	1	1	0.125
+krebs cycle enzyme	aconitase	1	1	8	5	1.000000000000	NULL	NULL	15	8	0.008333333333333333
+krebs cycle intermediate	citrate	9	8	19	5	0.600000000000	NULL	NULL	431	190	0.009891317621199169
+krebs cycle intermediate	succinate	7	5	19	5	0.600000000000	NULL	NULL	139	73	0.018553578190079516
+krebs cycle intermediate	fumarate	1	1	19	5	0.600000000000	NULL	NULL	70	40	0.0007518796992481202
+krebs cycle intermediate	oxaloacetate	1	1	19	5	0.600000000000	NULL	NULL	13	10	0.004048582995951417
+krebs cycle intermediate	malate	1	1	19	5	0.600000000000	NULL	NULL	133	61	0.0003957261574990107
+krebs intermediate	citrate	1	1	1	1	NULL	NULL	NULL	431	190	0.002320185614849188
+krebserregende pollutant	Carbon monoxide	1	1	2	2	NULL	NULL	NULL	2340	669	0.00021367521367521368
+krebserregende pollutant	Teer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kreisler piece	Praeludium	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+kremlin adviser	Arkady Dvorkovich	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kremlin advisor	Arkady Dvorkovich	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kremlin agent	Eisler	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+kremlin critic	Sergei Kovalev	3	3	3	1	NULL	NULL	NULL	4	2	0.75
+kremlin proxy	Chechnya's Ramzan Kadyrov	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+kremlin town	Pskov	2	2	2	1	1.000000000000	NULL	NULL	14	11	0.14285714285714285
+kremlin watcher	Moscow-based paper Novaya Gazeta	1	1	1	1	NULL	NULL	NULL	1	1	1
+kremlin-function secure encryption algorithm	DES	1	1	1	1	NULL	NULL	NULL	370	203	0.002702702702702703
+kremlings	Bazuka	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kremlings	General Klump	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kremmling's major event	Kremmling Days	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kremmling's major event	Roadkill Half Marathon & Dinner	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kremmling's major event	annual Wolford Ice Fishing Contest	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kremmling's major event	annual Chamber Banquet	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kresal-related evergreen	Erased	1	1	1	1	NULL	NULL	NULL	1	1	1
+kresge project	Botanica	1	0	2	2	NULL	NULL	NULL	5	5	0.1
+kresge project	Michael Shaugnessy project	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+krewe authorized memorabilia	Limited Edition Football's from the World Famous krewe of Bacchus	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+krewe authorized memorabilia	special Mardi GRAS BEADS	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+krewe member	Henderson Kennedy Jr.	1	1	1	1	NULL	NULL	NULL	1	1	1
+krewe's social event	last fall's queen's social	1	1	1	1	NULL	NULL	NULL	1	1	1
+krewes	Bacchus	4	4	22	13	0.666666666666	NULL	NULL	24	12	0.030303030303030304
+krewes	Orpheus	4	4	22	13	0.666666666666	NULL	NULL	36	24	0.020202020202020204
+krewes	Endymion	3	3	22	13	0.666666666666	NULL	NULL	14	9	0.02922077922077922
+krewes	Momus	2	2	22	13	0.666666666666	NULL	NULL	2	1	0.09090909090909091
+krewes	Barkus	1	1	22	13	0.666666666666	NULL	NULL	2	2	0.022727272727272728
+krewes	Krewe of Chronos	1	1	22	13	0.666666666666	NULL	NULL	1	1	0.045454545454545456
+krewes	Endymion of New Orleans	1	1	22	13	0.666666666666	NULL	NULL	1	1	0.045454545454545456
+krewes	Mid-City	1	1	22	13	0.666666666666	NULL	NULL	4	4	0.011363636363636364
+krewes	Bachus	1	1	22	13	0.666666666666	NULL	NULL	2	2	0.022727272727272728
+krewes	Mardi Gras Indians	1	1	22	13	0.666666666666	NULL	NULL	4	4	0.011363636363636364
+krewes	Krewe of Endymion	1	1	22	13	0.666666666666	NULL	NULL	1	1	0.045454545454545456
+krewes	Comus	1	1	22	13	0.666666666666	NULL	NULL	7	5	0.006493506493506494
+krewes	Rex	1	1	22	13	0.666666666666	NULL	NULL	63	40	0.0007215007215007215
+kriesberg's conflict component	goal	1	1	2	2	NULL	NULL	NULL	609	292	0.0008210180623973727
+kriesberg's conflict component	identity	1	1	2	2	NULL	NULL	NULL	1126	373	0.0004440497335701599
+kriging simpler method	IDW	1	1	1	1	1.000000000000	NULL	NULL	18	13	0.05555555555555555
+krill	Euphausia superba	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+krill eater	baleen whale	1	1	2	2	0.500000000000	NULL	NULL	31	24	0.016129032258064516
+krill eater	humpback whale	1	1	2	2	0.500000000000	NULL	NULL	138	54	0.0036231884057971015
+krill fishing nation	Russia	1	1	3	3	NULL	NULL	NULL	8825	1448	0.00003777148253068933
+krill fishing nation	Ukraine	1	1	3	3	NULL	NULL	NULL	1691	356	0.00019712201852946972
+krill fishing nation	Norway	1	1	3	3	NULL	NULL	NULL	4592	676	0.00007259001161440186
+krill oil benefit inflammatory issue	arthritis	1	1	2	2	NULL	NULL	NULL	6085	1050	0.00008216926869350862
+krill oil benefit inflammatory issue	joint pain	1	1	2	2	NULL	NULL	NULL	712	226	0.0007022471910112359
+krill oil component	phospholipids	1	1	2	2	NULL	NULL	NULL	300	142	0.0016666666666666668
+krill oil component	choline	1	1	2	2	NULL	NULL	NULL	218	95	0.0022935779816513763
+krill product	frozen krill ball	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill product	krill cutlet	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill product	krill pickle	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill product	krill burger	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill product	krill chutney powder	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill product	krill sausage	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill product	krill kebab	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+krill's natural predator	penguin	1	1	2	2	NULL	NULL	NULL	507	235	0.0009861932938856016
+krill's natural predator	seal	1	1	2	2	NULL	NULL	NULL	1274	416	0.0003924646781789639
+kripkeand putnamshowthat natural kind term	tiger	1	1	1	1	NULL	NULL	NULL	2093	576	0.00047778308647873863
+kris	yea right kris	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+kris abel's source	ones for children during the March break	1	1	1	1	NULL	NULL	NULL	1	1	1
+kris aquino's previous movie	Sukob	1	1	1	1	NULL	NULL	NULL	1	1	1
+kris collaborator	Tebey	2	2	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+kris collaborator	Toby Gad	2	2	6	3	1.000000000000	NULL	NULL	17	6	0.0392156862745098
+kris collaborator	Lindy Robbins	2	2	6	3	1.000000000000	NULL	NULL	4	2	0.16666666666666666
+kris recipe	Southwestern Tequila Lime Chicken	1	1	1	1	NULL	NULL	NULL	1	1	1
+krish's lunch special	Croque Madame	1	1	2	2	1.000000000000	NULL	NULL	8	5	0.0625
+krish's lunch special	Pan Seared Salmon	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Krishi Vigyan Kendra's extensionprograms	Kisan Gosthi	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Krishi Vigyan Kendra's extensionprograms	Field days byregistering	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Krishi Vigyan Kendra's extensionprograms	Exposure visit	1	1	3	3	1.000000000000	NULL	NULL	14	11	0.023809523809523808
+krishna conscious practice	hearing	1	1	3	3	NULL	NULL	NULL	954	391	0.00034940600978336826
+krishna conscious practice	chanting	1	1	3	3	NULL	NULL	NULL	138	70	0.0024154589371980675
+krishna conscious practice	remembering about Krishna	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+krishna devotee	Satsvarupa dasa Gosvami	1	1	1	1	NULL	NULL	NULL	1	1	1
+krishna lunch recipe	halava	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+krishna lunch recipe	salad dressing	1	1	2	2	NULL	NULL	NULL	758	228	0.0006596306068601583
+krishna statue	god Krishna Statues	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+krishna statue	marble krishna statue	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+krishna statue	decorative krishna statue	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+krishna statue	stone krishna statue	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+krishna statue	parad Krishna Statues	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+krishna's childhood activity	killing of Putana	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+krishna's energy	water	1	1	2	2	NULL	NULL	NULL	25348	6311	0.000019725422124033453
+krishna's energy	electricity	1	1	2	2	NULL	NULL	NULL	7822	1808	0.00006392227051904884
+krishna's impersonal feature	brilliant light of Brahman	1	1	1	1	NULL	NULL	NULL	1	1	1
+krishna's various incarnation	Matsya	1	1	1	1	1.000000000000	NULL	NULL	11	4	0.09090909090909091
+krishnamurti school	Rishi Valley School in Andhra Pradesh	1	1	1	1	NULL	NULL	NULL	1	1	1
+krispy kreme's large off-premises customer	grocery store	1	1	1	1	NULL	NULL	NULL	1547	557	0.0006464124111182935
+kristal hutchins website	braindumps.com offer test taker with sample question	1	1	1	1	NULL	NULL	NULL	1	1	1
+kristan higgins book	Fools Rush In	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+kristen cold surface	ice	1	1	3	3	NULL	NULL	NULL	2005	709	0.00016625103906899418
+kristen cold surface	snow	1	1	3	3	NULL	NULL	NULL	2306	735	0.00014455044810638912
+kristen cold surface	rain	1	1	3	3	NULL	NULL	NULL	2930	823	0.00011376564277588168
+kristen's outside endeavor	gallery curation	1	1	1	1	NULL	NULL	NULL	1	1	1
+kristeva's later book	Black Sun	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+kristevan scholar	Kelly Oliver	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+kristian like board game	Aggravation	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+Kristian Tangen information	effectiveness of anti-bribery	1	1	1	1	NULL	NULL	NULL	1	1	1
+kristina's multimedia production	nationally-recognized Wong Flew Over the Cuckoo's Nest	1	1	1	1	NULL	NULL	NULL	1	1	1
+kristyburton exception	rape	1	1	1	1	NULL	NULL	NULL	4855	976	0.00020597322348094748
+kriti-s	mayamma in Ahiri	3	3	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+kriti-s	meena lochana brova in Dhanyasi	3	3	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+kriti-s	saroja dala netri in Shankarabharanam	3	3	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+kritis	svarnakAlabhairavam of Swarna Venkatesa Dikshitar	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+kritis	sharavaNa bhava in revagupti	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+kritis	Melakartha Kriti by Kooteswara Iyer	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+kritis	Veena Pustaka Darini	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+kriyakalpa procedure	aschyotana	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kriyakalpa procedure	tarpana	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kriyakalpa procedure	bidalaka	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kriyas	Neti	2	2	6	4	0.333333333333	NULL	NULL	8	6	0.08333333333333333
+kriyas	jala neti	2	2	6	4	0.333333333333	NULL	NULL	7	6	0.09523809523809523
+kriyas	kapala bhati	1	1	6	4	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+kriyas	cleansing of the mucous membranes of the sinus	1	1	6	4	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+krkrkrk project	Flinch	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+krmc-cogito title	Bad Girls	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+krmc-cogito title	Charles Manson Now	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+krobo-odumase's mainline church	Holy Trinity Roman Catholic Church	1	1	1	1	NULL	NULL	NULL	1	1	1
+kroger affiliate	Dillion	1	1	6	6	0.714285714285	NULL	NULL	2	2	0.08333333333333333
+kroger affiliate	Quality Food Centers	1	1	6	6	0.714285714285	NULL	NULL	1	1	0.16666666666666666
+kroger affiliate	Loaf Jug Mini Mart	1	1	6	6	0.714285714285	NULL	NULL	1	1	0.16666666666666666
+kroger affiliate	Jay C	1	1	6	6	0.714285714285	NULL	NULL	1	1	0.16666666666666666
+kroger affiliate	Kwik Shop	1	1	6	6	0.714285714285	NULL	NULL	3	3	0.05555555555555555
+kroger affiliate	Quik Stop	1	1	6	6	0.714285714285	NULL	NULL	4	4	0.041666666666666664
+kroger's high class'' store	ones in Oakley	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kroger's high class'' store	Birmingham	1	1	2	2	NULL	NULL	NULL	1138	277	0.0004393673110720562
+kroger's private-label brand	Private Selection	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kroger's vendor partner	Kellogg's	1	1	1	1	NULL	NULL	NULL	293	117	0.0034129692832764505
+kroger-affiliated store	Fry's	1	1	4	4	0.600000000000	NULL	NULL	81	43	0.0030864197530864196
+kroger-affiliated store	Fred Meyer	1	1	4	4	0.600000000000	NULL	NULL	103	56	0.0024271844660194173
+kroger-affiliated store	QFC	1	1	4	4	0.600000000000	NULL	NULL	14	11	0.017857142857142856
+kroger-affiliated store	Dillons	1	1	4	4	0.600000000000	NULL	NULL	13	11	0.019230769230769232
+kron stock brand	Chie Mihara	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+Krondaharans	Lady Vilma Virayana	1	1	1	1	NULL	NULL	NULL	1	1	1
+kronecker substitution	Good-Thomas FFT	1	1	1	1	NULL	NULL	NULL	1	1	1
+kronic legal high	Skunk Blend	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+kronic legal high	Tropical Explosion	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+kronic legal high	Wicked Smoke	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+kronos chemical	titanium dioxide	1	1	1	1	NULL	NULL	NULL	1274	421	0.0007849293563579278
+kronos customer	IKEA	1	1	3	3	0.333333333333	NULL	NULL	556	201	0.0005995203836930455
+kronos customer	STA Travel	1	1	3	3	0.333333333333	NULL	NULL	41	24	0.008130081300813007
+kronos customer	Qantas	1	1	3	3	0.333333333333	NULL	NULL	345	118	0.000966183574879227
+kronos timekeeping application	Timekeeper Central	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kroon	human embryonic stem cell derived pancreas cortex transplanted into rats after the effective product	1	1	1	1	NULL	NULL	NULL	1	1	1
+kroon hall's material	light-colored masonry	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kroon hall's material	south courtyard's green roof	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+KROQ artist	Gorillaz	1	1	1	1	1.000000000000	NULL	NULL	58	25	0.017241379310344827
+krpan's attribute	mobility	1	1	2	2	0.333333333333	NULL	NULL	1163	459	0.0004299226139294927
+krpan's attribute	resourcefulness	1	1	2	2	0.333333333333	NULL	NULL	141	51	0.0035460992907801418
+KRR formalism modeling non-tree structure	chemical molecules with ring	1	1	1	1	NULL	NULL	NULL	1	1	1
+KRS website trustee information	education	1	1	1	1	NULL	NULL	NULL	21642	5033	0.0000462064504204787
+krsna's childhood activity	killing of Putana	4	4	4	1	NULL	NULL	NULL	6	3	0.6666666666666666
+krsna's son	Pradyumna	1	1	1	1	NULL	NULL	NULL	1	1	1
+krsna's transcendental quality	opulence	2	2	2	1	1.000000000000	NULL	NULL	11	9	0.18181818181818182
+krsna's various incarnation	Matsya	3	3	3	1	1.000000000000	NULL	NULL	11	4	0.2727272727272727
+kru event	Oren Ball	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kru event	Eulogy	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+KRU program	Muay Thai	1	1	1	1	NULL	NULL	NULL	194	78	0.005154639175257732
+KRU studios young composer	Reza Ramsey	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kruger antelope	roan	1	1	2	2	0.500000000000	NULL	NULL	76	33	0.006578947368421052
+Kruger antelope	tsessebe	1	1	2	2	0.500000000000	NULL	NULL	22	13	0.022727272727272728
+Kruger Big Tuskers	Magnificent Seven Elephants	1	1	1	1	NULL	NULL	NULL	1	1	1
+krugersdorp baby furniture item	breastfeeding chair	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+krugersdorp baby furniture item	rocking glider	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+krugman advocate policy	health care	1	1	1	1	NULL	NULL	NULL	5486	1449	0.0001822821728034998
+krugman's critic	Tino Sanandaji	1	1	1	1	NULL	NULL	NULL	1	1	1
+krugman's datum source	CBO	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+krugman's datum source	St. Louis Fed	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+krugman's previous book	Fuzzy Math	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+krugman's previous book	Return of Depression Economics	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Krumpers	Willie the Kid	1	1	1	1	NULL	NULL	NULL	1	1	1
+krunner function	calculator	1	1	1	1	NULL	NULL	NULL	2405	756	0.0004158004158004158
+krupp's manager	Sophus Goose	1	1	1	1	NULL	NULL	NULL	1	1	1
+kruppel-like factor	erythroid KLF	2	2	2	1	NULL	NULL	NULL	2	1	1
+kruppel-like factor family member	KLF6	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+krups coffee maker	Krups KM7000	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+kruse elementary community activity	fall dance	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+kruse elementary community activity	spring carnival	1	1	3	3	0.500000000000	NULL	NULL	18	11	0.018518518518518517
+kruse elementary community activity	music program	1	1	3	3	0.500000000000	NULL	NULL	66	39	0.00505050505050505
+krusell case	i-mate JasJam's	1	1	1	1	NULL	NULL	NULL	1	1	1
+KRWA service	testing	1	1	1	1	NULL	NULL	NULL	1639	662	0.0006101281269066504
+krylov iterative method	conjugate gradient	2	2	3	2	0.500000000000	NULL	NULL	133	78	0.010025062656641603
+krylov iterative method	GMRES	1	1	3	2	0.500000000000	NULL	NULL	41	22	0.008130081300813007
+krylov iterative solver	generalized minimum residual algorithm	2	2	2	1	NULL	NULL	NULL	5	3	0.4
+krylov method	conjugate gradient	2	2	5	3	0.500000000000	NULL	NULL	133	78	0.006015037593984963
+krylov method	GMRES	2	2	5	3	0.500000000000	NULL	NULL	41	22	0.01951219512195122
+krylov method	2.1 Problem Description the Arnoldi	1	1	5	3	0.500000000000	NULL	NULL	1	1	0.2
+krylov space accelerator	BiCGSTA Bor QMR	1	1	1	1	NULL	NULL	NULL	1	1	1
+krylov space algorithm	preconditioned conjugate gradient algorithm	1	1	1	1	NULL	NULL	NULL	1	1	1
+krylov subspace method	standard krylov subspace method	1	1	8	8	0.333333333333	NULL	NULL	3	3	0.041666666666666664
+krylov subspace method	conjugate gradient	1	1	8	8	0.333333333333	NULL	NULL	133	78	0.0009398496240601503
+krylov subspace method	GMRES	1	1	8	8	0.333333333333	NULL	NULL	41	22	0.003048780487804878
+krylov subspace method	EKS	1	1	8	8	0.333333333333	NULL	NULL	6	5	0.020833333333333332
+krylov subspace method	conjugate gradient method	1	1	8	8	0.333333333333	NULL	NULL	66	45	0.001893939393939394
+krylov subspace method	extended krylov subspace method	1	1	8	8	0.333333333333	NULL	NULL	3	3	0.041666666666666664
+krylov subspace method	generalized minimal residual method	1	1	8	8	0.333333333333	NULL	NULL	4	3	0.03125
+krylov subspace method	multi-grid and krylov subspace method	1	1	8	8	0.333333333333	NULL	NULL	3	3	0.041666666666666664
+krylov-subspace method	conjugate gradient method	1	1	2	2	NULL	NULL	NULL	66	45	0.007575757575757576
+krylov-subspace method	conjugate residual method in interior-point methods for semi-definite program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+krylov-subspace-based method	Amoldi algorithm	2	2	2	1	NULL	NULL	NULL	2	1	1
+kryloviterative solver	generalized minimum residual algorithm	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+krylovsubspace method	Galerkin Asymptotic Waveform Evaluation	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+krylovsubspace method	GMRES	1	1	5	5	0.500000000000	NULL	NULL	41	22	0.004878048780487805
+krylovsubspace method	basic krylovsubspace method	1	1	5	5	0.500000000000	NULL	NULL	2	2	0.1
+krylovsubspace method	LSQR andGMRESfornon-Hermitian problem	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+krylovsubspace method	conjugate gradient	1	1	5	5	0.500000000000	NULL	NULL	133	78	0.0015037593984962407
+Krylovsubspace type method	parallel GMRES	1	1	1	1	NULL	NULL	NULL	1	1	1
+kryptonian ability	x-ray vision	1	1	2	2	1.000000000000	NULL	NULL	22	14	0.022727272727272728
+kryptonian ability	freeze breath	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+kryptonian clone	Zod	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+kryptonian clone	Jor-El	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kryptonian deity	Flamebird	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+kryptonian-like ability	flight	1	1	2	2	0.500000000000	NULL	NULL	505	256	0.0009900990099009901
+kryptonian-like ability	super strength	1	1	2	2	0.500000000000	NULL	NULL	42	26	0.011904761904761904
+Kryptonians	Superboy	2	2	3	2	0.750000000000	NULL	NULL	11	8	0.1212121212121212
+Kryptonians	Earth-One Superman	1	1	3	2	0.750000000000	NULL	NULL	1	1	0.3333333333333333
+kryptonitic nemesis	Dick Lex Luthor Cheney	1	1	1	1	NULL	NULL	NULL	1	1	1
+krzyzewski assistant	Bob Bender	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+krzyzewski assistant	Quin Snyder	1	1	2	2	NULL	NULL	NULL	4	2	0.125

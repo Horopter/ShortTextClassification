@@ -1,0 +1,7 @@
+YN flash	thr 465	1	1	1	1	NULL	NULL	NULL	1	1	1
+ynamic culture system	spinner flask	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ynthetic approach	situated robotics	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ynthetic implant	Gore-Tex lip implant	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ynthetic polymer	PLGA	1	1	1	1	NULL	NULL	NULL	62	31	0.016129032258064516
+ynthetic progestins	medroxyprogesterone	1	1	2	2	0.500000000000	NULL	NULL	23	16	0.021739130434782608
+ynthetic progestins	Provera	1	1	2	2	0.500000000000	NULL	NULL	71	23	0.007042253521126761

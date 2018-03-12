@@ -1,0 +1,441 @@
+AZ inhibitor	aprotinin	1	1	1	1	NULL	NULL	NULL	121	45	0.008264462809917356
+AZ legend	Sam Esmoer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AZ legend	Brian Brannon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AZ player	Taj	1	1	2	2	NULL	NULL	NULL	64	47	0.0078125
+AZ player	Axe	1	1	2	2	NULL	NULL	NULL	283	120	0.0017667844522968198
+AZ rebuilt part	brake caliper	1	1	1	1	1.000000000000	NULL	NULL	46	32	0.021739130434782608
+AZA institution	Bronx Zoo	1	1	2	2	1.000000000000	NULL	NULL	28	21	0.017857142857142856
+AZA institution	Philadelphia Zoo	1	1	2	2	1.000000000000	NULL	NULL	14	11	0.03571428571428571
+AZA program	Chimpanzee Species Survival Plan	1	1	1	1	NULL	NULL	NULL	1	1	1
+AZA zoo	Disney's Animal Kingdom	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+aza-heterocycles	pyrrole	2	2	6	3	0.666666666666	NULL	NULL	59	35	0.011299435028248588
+aza-heterocycles	isoquinoline	2	2	6	3	0.666666666666	NULL	NULL	9	12	0.07407407407407407
+aza-heterocycles	pyridine	2	2	6	3	0.666666666666	NULL	NULL	780	239	0.0008547008547008547
+azad's work	Melting Truth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azad's work	Despair Truth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azaguys premium brand	Transnet Corporate	1	1	1	1	NULL	NULL	NULL	1	1	1
+Azaheterocycles	pyrrolidines	1	1	1	1	1.000000000000	NULL	NULL	17	6	0.058823529411764705
+azaindole intermediate	otheruseful azaindole intermediate	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azaindole intermediate	cyano derivative	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+azalea	single-flowered Southern Indicas	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea	Rhododendron arborescens	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea	Pink Gumpos	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea	Autumn Angel	1	1	9	9	NULL	NULL	NULL	3	3	0.037037037037037035
+azalea	hardy deciduous azalea	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea	twiggy deciduous azalea	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea	royal azalea	1	1	9	9	NULL	NULL	NULL	2	2	0.05555555555555555
+azalea	white mucronatum	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea	popular new york azalea	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+azalea variety	Knap Hill	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+azali leader	Haji Mirza Hadi Dawlatabadi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azali leader	Mirza Aqa Khan Kirmani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azalide antibiotic	azithromycin	1	1	2	2	NULL	NULL	NULL	336	77	0.001488095238095238
+azalide antibiotic	erythrolide antibiotic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azalides	azithromycin	2	2	3	2	NULL	NULL	NULL	336	77	0.003968253968253968
+azalides	N9a-desmethyl azithromycin	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+azamazing destination	Bermuda	1	1	2	2	NULL	NULL	NULL	743	254	0.0006729475100942127
+azamazing destination	Caribbean	1	1	2	2	NULL	NULL	NULL	729	249	0.0006858710562414266
+azanucleoside drug	5-azacytidine	1	1	1	1	NULL	NULL	NULL	87	30	0.011494252873563218
+Azanucleosides	5-azacytidine	1	1	1	1	0.666666666666	NULL	NULL	87	30	0.011494252873563218
+Azapirone anxiolytics	buspirone	1	1	1	1	NULL	NULL	NULL	178	75	0.0056179775280898875
+Azapirone s	buspirone	1	1	1	1	NULL	NULL	NULL	178	75	0.0056179775280898875
+azapirones	buspirone	16	14	22	4	1.000000000000	NULL	NULL	178	75	0.06537282941777324
+azapirones	ipsapirone	4	3	22	4	1.000000000000	NULL	NULL	14	9	0.05194805194805195
+azapirones	tandospirone	1	1	22	4	1.000000000000	NULL	NULL	5	3	0.00909090909090909
+azapirones	5-ht1a receptor azapirones	1	1	22	4	1.000000000000	NULL	NULL	1	1	0.045454545454545456
+azard commodity	rubber tire	2	2	4	2	0.500000000000	NULL	NULL	51	28	0.0196078431372549
+azard commodity	plastic	2	2	4	2	0.500000000000	NULL	NULL	10906	2659	0.00009169264624977077
+azardous construction waste	food waste	1	1	1	1	NULL	NULL	NULL	258	93	0.003875968992248062
+azardous food	relish	1	1	1	1	1.000000000000	NULL	NULL	84	38	0.011904761904761904
+azardous material	paint	2	2	6	4	NULL	NULL	NULL	7733	1968	0.000086210612526402
+azardous material	oil	2	2	6	4	NULL	NULL	NULL	15331	4205	0.00004348487813362903
+azardous material	solvent	1	1	6	4	NULL	NULL	NULL	2858	751	0.0000583158385817588
+azardous material	paint thinner	1	1	6	4	NULL	NULL	NULL	680	191	0.00024509803921568627
+azardous object	suction tube	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+azards	sharp	1	1	1	1	NULL	NULL	NULL	1004	392	0.00099601593625498
+azby large document	safety planning Lacto Bacillus species	1	1	1	1	NULL	NULL	NULL	1	1	1
+AZC umbrella member organization	Hadassah	1	1	2	2	1.000000000000	NULL	NULL	35	20	0.014285714285714285
+AZC umbrella member organization	Zionist Organization of America	1	1	2	2	1.000000000000	NULL	NULL	21	10	0.023809523809523808
+azca's social medium outlet	Facebook	1	1	1	1	NULL	NULL	NULL	29637	3798	0.00003374160677531464
+AZEK building product	trim	1	1	1	1	NULL	NULL	NULL	643	284	0.0015552099533437014
+azendi service	gift wrapping	1	1	1	1	NULL	NULL	NULL	101	41	0.009900990099009901
+azeotropic agent	ethyl benzene	1	1	4	4	0.250000000000	NULL	NULL	25	20	0.01
+azeotropic agent	benzene	1	1	4	4	0.250000000000	NULL	NULL	4065	919	0.00006150061500615006
+azeotropic agent	xylene	1	1	4	4	0.250000000000	NULL	NULL	1360	360	0.0001838235294117647
+azeotropic agent	toluene	1	1	4	4	0.250000000000	NULL	NULL	3021	715	0.00008275405494869249
+azeotropic entrainers	toluene	1	1	2	2	0.333333333333	NULL	NULL	3021	715	0.00016550810989738498
+azeotropic entrainers	cyclohexane	1	1	2	2	0.333333333333	NULL	NULL	315	120	0.0015873015873015873
+azeotropic solvent	toluene	2	2	4	3	NULL	NULL	NULL	3021	715	0.00033101621979476995
+azeotropic solvent	water	1	1	4	3	NULL	NULL	NULL	25348	6311	0.000009862711062016726
+azeotropic solvent	water soluble azeotropic solvent	1	1	4	3	NULL	NULL	NULL	2	2	0.125
+azeotroping agent	toluene	4	4	8	4	NULL	NULL	NULL	3021	715	0.0006620324395895399
+azeotroping agent	chlorobenzene	2	2	8	4	NULL	NULL	NULL	152	67	0.003289473684210526
+azeotroping agent	xylene	1	1	8	4	NULL	NULL	NULL	1360	360	0.00009191176470588235
+azeotroping agent	benzene	1	1	8	4	NULL	NULL	NULL	4065	919	0.00003075030750307503
+azepine derivative	diazepam	1	1	1	1	NULL	NULL	NULL	1164	255	0.000859106529209622
+azerbaijan great son	Javanshir	1	1	1	1	NULL	NULL	NULL	1	1	1
+azerbaijan musical instrument	mughnu invented by Safiaddin Urmavi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijan musical instrument	nuzha	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijan playwright	Huseyn Javid	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azerbaijan playwright	Abrurrahim bey Haqverdiyev Jalil Mammadguluzadeh	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azerbaijan playwright	Nejef bey Vezirov	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azerbaijan's state ministry	Emergency Situations	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Azerbaijani bloggers	Arzu Geybullayeva	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Azerbaijani bloggers	Nigar Fatali	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani carpet	Karabakh	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+azerbaijani classical writer	Nizami	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+azerbaijani classical writer	Fuzuli	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+azerbaijani mineral water	badamly	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azerbaijani mineral water	istisu	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+azerbaijani mineral water	sirab	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Azerbaijani NGOs	International Diaspora Center	2	2	2	1	NULL	NULL	NULL	2	1	1
+azerbaijani oil magnate	Zeynalabdin Tagiyev	1	1	1	1	NULL	NULL	NULL	1	1	1
+azerbaijani opposition leader	Isa Gambar	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+azerbaijani opposition leader	Ali Kerimli	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+azerbaijani political analyst	lawyer Ilqar Altay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani political analyst	director of the Baku-based Independent Investigation Center	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani port	Kurdamir	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani port	Gizil Sharbat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani rhythmic gymnast	Anna Gurbanova	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani rhythmic gymnast	Aliya Garayeva	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azerbaijani singer	Shovkat Mammadova	1	1	1	1	NULL	NULL	NULL	1	1	1
+azerbaijanis treat bread-different bread	khamrali	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+azerbaijanis treat bread-different bread	fatir	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+azerbaijanis treat bread-different bread	lavash	1	1	6	6	1.000000000000	NULL	NULL	16	9	0.010416666666666666
+azerbaijanis treat bread-different bread	yukha	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+azerbaijanis treat bread-different bread	khangal	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+azerbaijanis treat bread-different bread	tendir chorak	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+azeri and turkish organization	Azerbaijani-American Council	4	3	12	3	NULL	NULL	NULL	4	1	0.3333333333333333
+azeri and turkish organization	Azerbaijan Society of America	4	3	12	3	NULL	NULL	NULL	4	1	0.3333333333333333
+azeri and turkish organization	Pax Turcica Institute	4	3	12	3	NULL	NULL	NULL	4	1	0.3333333333333333
+azeri elite	Abulfaz Elchibey	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+azeri language feature	Azeri pronunciation rule	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azeri language feature	Azeri alphabet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azeri language feature	Azeri grammar	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+azeri official	Elmar Mammadyarov	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+azeri official	Foreign Minister	1	1	3	3	1.000000000000	NULL	NULL	25	21	0.013333333333333332
+azeri official	presidential adviser	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+azeri poet	Mir Movsum Navvab	1	1	1	1	NULL	NULL	NULL	1	1	1
+azeri woman	journalist Khadija Alibeyova	1	1	1	1	NULL	NULL	NULL	1	1	1
+Azeris	Turkomans	1	1	3	3	0.750000000000	NULL	NULL	16	11	0.020833333333333332
+Azeris	Ahmed Kasrovi	1	1	3	3	0.750000000000	NULL	NULL	1	1	0.3333333333333333
+Azeris	Baluchs	1	1	3	3	0.750000000000	NULL	NULL	10	6	0.03333333333333333
+azetidine class product	3-hydroxy azetidine hydrochloride	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azetidine class product	1- azetidine-3-carboxylic acid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Azhari Salafis	Qaradawi	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+Azhari Salafis	Mohammed Abduh	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+Azhari Salafis	Mohammad Ghazali	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+Azhari Salafis	Rashid Rida	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+azhdarchid pterosaur	Quetzalcoatlus northropi	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Azhdarchids	Quetzalcoatlus	2	1	2	1	NULL	NULL	NULL	7	5	0.2857142857142857
+AZI inhibitor	sirna	3	3	3	1	1.000000000000	NULL	NULL	102	59	0.029411764705882353
+azi officer	Heinz Felfe	3	3	3	1	NULL	NULL	NULL	6	2	0.5
+azidated oxetanic polymer	poly	1	1	1	1	NULL	NULL	NULL	1279	538	0.0007818608287724785
+azidating agent	sodium azide	1	1	2	2	NULL	NULL	NULL	99	52	0.005050505050505051
+azidating agent	trialkyl silylazide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azide	sodium azide	1	1	1	1	NULL	NULL	NULL	99	52	0.010101010101010102
+azide compound	metal azides inorganic azide compound	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+azide material	sodium azide	1	1	2	2	NULL	NULL	NULL	99	52	0.005050505050505051
+azide material	mixed with an oxidizer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azide source	sodium azide	1	1	1	1	NULL	NULL	NULL	99	52	0.010101010101010102
+azide-conjugated biomolecules	protein	1	1	1	1	NULL	NULL	NULL	5809	1696	0.00017214666896195557
+azides	Cu2	1	1	3	4	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+azides	AgN3	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+azides	Pb2	1	1	3	4	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+azidesource	sodium azide	1	1	1	1	NULL	NULL	NULL	99	52	0.010101010101010102
+azimuth device	gyroscopic device	6	6	12	2	1.000000000000	NULL	NULL	7	2	0.42857142857142855
+azimuth device	magnetometer	6	6	12	2	1.000000000000	NULL	NULL	151	77	0.019867549668874173
+azimuth ground wheel	bicycle wheel	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+azimuth sensor	gyro compass	1	1	2	2	NULL	NULL	NULL	7	4	0.07142857142857142
+azimuth sensor	compact azimuth sensor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+azimuthal or longitudinal axis-adjusting mean	thumbwheel	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+azimuthally bistable device	described in European patent EP0744041	1	1	1	1	NULL	NULL	NULL	1	1	1
+azimuthally symmetric device	resistivity log	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+Aziridine cross-linkers	CX-100	3	3	5	2	NULL	NULL	NULL	3	1	0.6
+Aziridine cross-linkers	Crosslinker CX-100	2	2	5	2	NULL	NULL	NULL	3	2	0.26666666666666666
+azithromycin bacterium	respiratory disezses	1	1	1	1	NULL	NULL	NULL	1	1	1
+azithromycin cause dry mouth infection	infections of the chest	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+azithromycin cause dry mouth infection	mouth	1	1	2	2	NULL	NULL	NULL	609	223	0.0008210180623973727
+azithromycin medication	coumadin	2	1	2	1	NULL	NULL	NULL	466	65	0.004291845493562232
+azithromycin tablet	pharmaceutical Azithromycin Tablets	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+azithromycin tablet	azithromycin dispersible tablet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+azithromycin tablet	azithromycin 1gm tablet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+azithromycin tablet	azithromycin 250mg tablet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+azithromycin tablet	azithromycin 500mg tablet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+aziz osman's later film	XX Ray	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+aziz osman's later film	Puteri Impian II	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Azkals	Paolo Pascual	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Azkals	Stephan Schroeck	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Azkals	Rudy del Rosario	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Azkals	Christopher Camcam	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Azkals	Neil Etheridge	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+azlan's bad habit	discourteous	1	1	1	1	NULL	NULL	NULL	1	1	1
+azlesa professional	psychologist	1	1	3	3	NULL	NULL	NULL	1496	407	0.0002228163992869875
+azlesa professional	physician	1	1	3	3	NULL	NULL	NULL	2305	642	0.00014461315979754158
+azlesa professional	accountant	1	1	3	3	NULL	NULL	NULL	3451	845	0.00009659036028204384
+azmera crop	maize	1	1	3	3	0.333333333333	NULL	NULL	3361	842	0.00009917683229197659
+azmera crop	sorghum	1	1	3	3	0.333333333333	NULL	NULL	1657	434	0.00020116676725005027
+azmera crop	finger millet	1	1	3	3	0.333333333333	NULL	NULL	55	24	0.006060606060606061
+azo catalyst	azobis	1	1	1	1	1.000000000000	NULL	NULL	21	11	0.047619047619047616
+azo compound	azobisisobutyronitrile	18	8	49	19	0.615384615384	NULL	NULL	63	27	0.10495626822157435
+azo compound	azobis	5	3	49	19	0.615384615384	NULL	NULL	21	11	0.024295432458697766
+azo compound	azodicarbonamide	4	3	49	19	0.615384615384	NULL	NULL	35	16	0.009329446064139942
+azo compound	2	4	3	49	19	0.615384615384	NULL	NULL	1172	663	0.00027860973741032245
+azo compound	dimethyl azoisobutyrate	2	1	49	19	0.615384615384	NULL	NULL	2	1	0.04081632653061224
+azo compound	methyl red	2	2	49	19	0.615384615384	NULL	NULL	23	14	0.0035492457852706297
+azo compound	4	2	1	49	19	0.615384615384	NULL	NULL	357	236	0.0002286628937289201
+azo compound	para red	1	1	49	19	0.615384615384	NULL	NULL	7	6	0.0029154518950437317
+azo compound	azobisisobutylonitrile	1	1	49	19	0.615384615384	NULL	NULL	3	3	0.006802721088435374
+azo compound	azo dicarbonamide	1	1	49	19	0.615384615384	NULL	NULL	1	1	0.02040816326530612
+azo compound	azo bisamidinopropane-hydrochloride	1	1	49	19	0.615384615384	NULL	NULL	1	1	0.02040816326530612
+azo compound	azobis isobutyronitrile	1	1	49	19	0.615384615384	NULL	NULL	2	2	0.01020408163265306
+azo compound	radical-liberating azo compound	1	1	49	19	0.615384615384	NULL	NULL	2	2	0.01020408163265306
+azo compound	ABAP	1	1	49	19	0.615384615384	NULL	NULL	12	12	0.0017006802721088435
+azo compound	AIBN	1	1	49	19	0.615384615384	NULL	NULL	17	13	0.0012004801920768306
+azo compound	foam	1	1	49	19	0.615384615384	NULL	NULL	1379	580	0.00001479924819819153
+azo compound	AAPH	1	1	49	19	0.615384615384	NULL	NULL	2	2	0.01020408163265306
+azo compound	1	1	1	49	19	0.615384615384	NULL	NULL	1006	553	0.000020286444597719804
+azo compound	water-soluble azo compound	1	1	49	19	0.615384615384	NULL	NULL	1	1	0.02040816326530612
+azo dye	Congo Red	4	3	27	20	0.700000000000	NULL	NULL	64	39	0.009259259259259259
+azo dye	Methyl Red	3	3	27	20	0.700000000000	NULL	NULL	23	14	0.014492753623188404
+azo dye	Orange II	2	2	27	20	0.700000000000	NULL	NULL	5	4	0.029629629629629627
+azo dye	Amaranth	2	2	27	20	0.700000000000	NULL	NULL	665	242	0.00022277917014759118
+azo dye	Fast red	1	1	27	20	0.700000000000	NULL	NULL	10	8	0.0037037037037037034
+azo dye	butter yellow in margarine	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	New Methylene Blue N	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	primuline red	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	Ponceau S	1	1	27	20	0.700000000000	NULL	NULL	10	6	0.0037037037037037034
+azo dye	CBY	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	metanil yellow	1	1	27	20	0.700000000000	NULL	NULL	7	6	0.005291005291005291
+azo dye	Orange G	1	1	27	20	0.700000000000	NULL	NULL	6	5	0.006172839506172839
+azo dye	para red	1	1	27	20	0.700000000000	NULL	NULL	7	6	0.005291005291005291
+azo dye	ponceau 4R	1	1	27	20	0.700000000000	NULL	NULL	5	5	0.007407407407407407
+azo dye	RB5	1	1	27	20	0.700000000000	NULL	NULL	2	2	0.018518518518518517
+azo dye	xanthene dye	1	1	27	20	0.700000000000	NULL	NULL	14	6	0.0026455026455026454
+azo dye	Fast Red E	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	tartrazine found in drink	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	azorubine	1	1	27	20	0.700000000000	NULL	NULL	1	1	0.037037037037037035
+azo dye	naphthalene sulfonic azo dye	1	1	27	20	0.700000000000	NULL	NULL	2	2	0.018518518518518517
+azo food dye	tartrazine	2	1	2	1	1.000000000000	NULL	NULL	45	24	0.044444444444444446
+azo initiator	azobisisobutyronitrile	7	4	12	6	1.000000000000	NULL	NULL	63	27	0.06481481481481483
+azo initiator	azobis dihydrochloride	1	1	12	6	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+azo initiator	azocyanovaleric acid	1	1	12	6	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+azo initiator	Luazo RTM AP	1	1	12	6	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+azo initiator	available from ATO Chemical	1	1	12	6	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+azo initiator	water soluble azo initiator	1	1	12	6	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+azo pigment	monoazo yellow	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azo pigment	orange	1	1	2	2	NULL	NULL	NULL	12312	2565	0.00004061078622482131
+azo radical polymerization initiator	2	1	1	1	1	NULL	NULL	NULL	1172	663	0.0008532423208191126
+azo series	disazo series	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+azo series	mono-	2	2	4	2	NULL	NULL	NULL	256	130	0.00390625
+azo type	triazo body	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azo type	diazo body	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+azo-based initiator	azobisisobutyronitrile	1	1	1	1	1.000000000000	NULL	NULL	63	27	0.015873015873015872
+azo-compounds	1-1 azobisformamide	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+azo-containing compound	azodicarbonamide	2	2	2	1	1.000000000000	NULL	NULL	35	16	0.05714285714285714
+azo-nitrile initiator	AVN	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+azo-sulphonate dye	Evans Blue	1	1	2	2	1.000000000000	NULL	NULL	20	13	0.025
+azo-sulphonate dye	Direct Yellow	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+azo-type initiator	azobisisobutyronitrile	1	1	1	1	1.000000000000	NULL	NULL	63	27	0.015873015873015872
+Azoaromatics	azobenzene	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+azobenzene dicarboxylic acid reactive ester	4-nitrophenyl ester	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+azobis compound	2	2	2	2	1	NULL	NULL	NULL	1172	663	0.0017064846416382253
+azobis type initiator	azobis dihydrochloride	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+azobis type initiator	azobisisobutyronitrile	1	1	2	2	1.000000000000	NULL	NULL	63	27	0.007936507936507936
+Azocompounds	azobis	1	1	1	1	1.000000000000	NULL	NULL	21	11	0.047619047619047616
+azoic initiator	azobisisobutyronitrile	1	1	1	1	1.000000000000	NULL	NULL	63	27	0.015873015873015872
+Azol antifungals	ketoconazole	1	1	2	2	NULL	NULL	NULL	681	200	0.0007342143906020558
+Azol antifungals	itraconazole	1	1	2	2	NULL	NULL	NULL	450	136	0.0011111111111111111
+azole agent	Fluconazole	1	1	4	4	NULL	NULL	NULL	469	159	0.0005330490405117271
+azole agent	oral azole agent	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+azole agent	antifungal azole agent	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+azole agent	Ketoconazole	1	1	4	4	NULL	NULL	NULL	681	200	0.0003671071953010279
+azole anti-fungal drug	miconazole	1	1	1	1	NULL	NULL	NULL	273	102	0.003663003663003663
+azole antifungal agent	fluconazole	11	9	33	8	0.375000000000	NULL	NULL	469	159	0.007818052594171997
+azole antifungal agent	itraconazole	9	7	33	8	0.375000000000	NULL	NULL	450	136	0.005454545454545453
+azole antifungal agent	ketoconazole	6	6	33	8	0.375000000000	NULL	NULL	681	200	0.0016019223067681215
+azole antifungal agent	miconazole	3	3	33	8	0.375000000000	NULL	NULL	273	102	0.000999000999000999
+azole antifungal agent	posaconazole	1	1	33	8	0.375000000000	NULL	NULL	50	22	0.0006060606060606061
+azole antifungal agent	voriconazole	1	1	33	8	0.375000000000	NULL	NULL	128	48	0.00023674242424242425
+azole antifungal agent	ketaconazole	1	1	33	8	0.375000000000	NULL	NULL	15	13	0.00202020202020202
+azole antifungal agent	clotrimazole	1	1	33	8	0.375000000000	NULL	NULL	400	139	0.00007575757575757576
+azole antifungal compound	fluconazole	1	1	1	1	NULL	NULL	NULL	469	159	0.0021321961620469083
+azole antifungal drug	itraconazole	1	1	2	2	NULL	NULL	NULL	450	136	0.0011111111111111111
+azole antifungal drug	fluconazole	1	1	2	2	NULL	NULL	NULL	469	159	0.0010660980810234541
+azole antifungal or antibacterial agent	itraconazole	2	2	2	1	NULL	NULL	NULL	450	136	0.0044444444444444444
+azole antifungals	itraconazole	8	8	26	5	0.333333333333	NULL	NULL	450	136	0.00547008547008547
+azole antifungals	ketoconazole	8	8	26	5	0.333333333333	NULL	NULL	681	200	0.003614593922963967
+azole antifungals	fluconazole	7	7	26	5	0.333333333333	NULL	NULL	469	159	0.004018369690011481
+azole antifungals	voriconazole	2	2	26	5	0.333333333333	NULL	NULL	128	48	0.001201923076923077
+azole antifungals	Vfend	1	1	26	5	0.333333333333	NULL	NULL	2	2	0.019230769230769232
+azole compound	ketoconazole	4	4	21	14	0.333333333333	NULL	NULL	681	200	0.0011188028809174183
+azole compound	clotrimazole	4	4	21	14	0.333333333333	NULL	NULL	400	139	0.0019047619047619048
+azole compound	triazoles	2	2	21	14	0.333333333333	NULL	NULL	34	21	0.0056022408963585435
+azole compound	fluconazole	2	2	21	14	0.333333333333	NULL	NULL	469	159	0.0004061326022946492
+azole compound	furan compound	1	1	21	14	0.333333333333	NULL	NULL	1	1	0.047619047619047616
+azole compound	itraconazole	1	1	21	14	0.333333333333	NULL	NULL	450	136	0.00010582010582010581
+azole compound	imidazoles	1	1	21	14	0.333333333333	NULL	NULL	48	32	0.000992063492063492
+azole compound	polyenes	1	1	21	14	0.333333333333	NULL	NULL	13	7	0.003663003663003663
+azole compound	imidazole compound	1	1	21	14	0.333333333333	NULL	NULL	5	4	0.009523809523809523
+azole compound	tetrazoles	1	1	21	14	0.333333333333	NULL	NULL	4	3	0.011904761904761904
+azole compound	miconazole	1	1	21	14	0.333333333333	NULL	NULL	273	102	0.00017442874585731728
+azole compound	dioxole compound	1	1	21	14	0.333333333333	NULL	NULL	1	1	0.047619047619047616
+azole compound	oxazoles	1	1	21	14	0.333333333333	NULL	NULL	15	7	0.0031746031746031746
+azole cream	Micatin	2	2	2	1	1.000000000000	NULL	NULL	16	13	0.125
+Azole derivates	fluconazole	1	1	2	2	NULL	NULL	NULL	469	159	0.0010660980810234541
+Azole derivates	itraconazole	1	1	2	2	NULL	NULL	NULL	450	136	0.0011111111111111111
+azole derivative	fluconazole	2	2	9	5	0.333333333333	NULL	NULL	469	159	0.0009476427386875148
+azole derivative	benzotriazole	2	2	9	5	0.333333333333	NULL	NULL	58	40	0.007662835249042145
+azole derivative	itraconazole	2	2	9	5	0.333333333333	NULL	NULL	450	136	0.0009876543209876543
+azole derivative	ketoconazole	2	2	9	5	0.333333333333	NULL	NULL	681	200	0.000652635013868494
+azole derivative	bifonazole	1	1	9	5	0.333333333333	NULL	NULL	10	5	0.01111111111111111
+azole derivative antibiotic	clotrimazole	2	1	11	6	NULL	NULL	NULL	400	139	0.0009090909090909091
+azole derivative antibiotic	itraconazole	2	1	11	6	NULL	NULL	NULL	450	136	0.0008080808080808081
+azole derivative antibiotic	fluconazole	2	1	11	6	NULL	NULL	NULL	469	159	0.0007753440589261485
+azole derivative antibiotic	ketoconazole	2	1	11	6	NULL	NULL	NULL	681	200	0.0005339741022560405
+azole derivative antibiotic	miconazole	2	1	11	6	NULL	NULL	NULL	273	102	0.001332001332001332
+azole derivative antibiotic	synthetic azole derivative antibiotic	1	1	11	6	NULL	NULL	NULL	2	2	0.045454545454545456
+azole drug	clotrimazole	10	10	33	16	0.333333333333	NULL	NULL	400	139	0.007575757575757576
+azole drug	fluconazole	5	5	33	16	0.333333333333	NULL	NULL	469	159	0.0016153001227628093
+azole drug	itraconazole	4	4	33	16	0.333333333333	NULL	NULL	450	136	0.0010774410774410774
+azole drug	miconazole	2	2	33	16	0.333333333333	NULL	NULL	273	102	0.000444000444000444
+azole drug	ketoconazole	1	1	33	16	0.333333333333	NULL	NULL	681	200	0.00004449784185467005
+azole drug	terbinafine	1	1	33	16	0.333333333333	NULL	NULL	151	72	0.0002006823198876179
+azole drug	clonidine	1	1	33	16	0.333333333333	NULL	NULL	477	163	0.00006352836541515787
+azole drug	econazole	1	1	33	16	0.333333333333	NULL	NULL	69	31	0.0004391743522178305
+azole drug	Listerine discountenance an antiseptic	1	1	33	16	0.333333333333	NULL	NULL	1	1	0.030303030303030304
+azole drug	Losec	1	1	33	16	0.333333333333	NULL	NULL	24	14	0.0012626262626262627
+azole drug	bath mat	1	1	33	16	0.333333333333	NULL	NULL	84	60	0.00036075036075036075
+azole drug	fenticonazole	1	1	33	16	0.333333333333	NULL	NULL	7	3	0.004329004329004329
+azole drug	voriconazole	1	1	33	16	0.333333333333	NULL	NULL	128	48	0.00023674242424242425
+azole drug	soddy	1	1	33	16	0.333333333333	NULL	NULL	3	2	0.010101010101010102
+azole drug	shilling	1	1	33	16	0.333333333333	NULL	NULL	12	11	0.0025252525252525255
+azole drug	naftifine	1	1	33	16	0.333333333333	NULL	NULL	14	9	0.0021645021645021645
+azole family drug	fluconazole	1	1	1	1	NULL	NULL	NULL	469	159	0.0021321961620469083
+azole fungicide	triazoles	1	1	2	2	0.666666666666	NULL	NULL	34	21	0.014705882352941176
+azole fungicide	tebuconazole	1	1	2	2	0.666666666666	NULL	NULL	32	19	0.015625
+azole group compound	mercaptobenzothiazole	1	1	1	2	NULL	NULL	NULL	1	1	1
+azole inhibitor	ketoconazole	2	2	4	3	NULL	NULL	NULL	681	200	0.0014684287812041115
+azole inhibitor	fluconazole	1	1	4	3	NULL	NULL	NULL	469	159	0.0005330490405117271
+azole inhibitor	typical azole inhibitor	1	1	4	3	NULL	NULL	NULL	2	2	0.125
+azole medication	fluconazole	3	3	5	2	NULL	NULL	NULL	469	159	0.0038379530916844346
+azole medication	ketoconazole	2	2	5	2	NULL	NULL	NULL	681	200	0.0011747430249632893
+azole ring	oxazole	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+azole ring	thiazole ring	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+azole-based antifungal agent	ketoconazole	2	2	15	13	0.454545454545	NULL	NULL	681	200	0.0003915810083210964
+azole-based antifungal agent	voriconazole	2	2	15	13	0.454545454545	NULL	NULL	128	48	0.0020833333333333333
+azole-based antifungal agent	terconazole	1	1	15	13	0.454545454545	NULL	NULL	10	8	0.006666666666666666
+azole-based antifungal agent	sulconazole	1	1	15	13	0.454545454545	NULL	NULL	4	4	0.016666666666666666
+azole-based antifungal agent	itraconazole	1	1	15	13	0.454545454545	NULL	NULL	450	136	0.00014814814814814815
+azole-based antifungal agent	fluconazole	1	1	15	13	0.454545454545	NULL	NULL	469	159	0.00014214641080312722
+azole-based antifungal agent	oxiconazole	1	1	15	13	0.454545454545	NULL	NULL	6	5	0.011111111111111112
+azole-based antifungal agent	tioconazole	1	1	15	13	0.454545454545	NULL	NULL	17	13	0.00392156862745098
+azole-based antifungal agent	clotrimazole	1	1	15	13	0.454545454545	NULL	NULL	400	139	0.00016666666666666666
+azole-based antifungal agent	miconazole	1	1	15	13	0.454545454545	NULL	NULL	273	102	0.0002442002442002442
+azole-based antifungal agent	econazole	1	1	15	13	0.454545454545	NULL	NULL	69	31	0.000966183574879227
+azole-based antifungal agent	posaconazole	1	1	15	13	0.454545454545	NULL	NULL	50	22	0.0013333333333333333
+azole-based antifungal agent	ravuconazole	1	1	15	13	0.454545454545	NULL	NULL	12	6	0.005555555555555556
+azole-based compound	fluconazole	1	1	2	2	NULL	NULL	NULL	469	159	0.0010660980810234541
+azole-based compound	ketoconazole	1	1	2	2	NULL	NULL	NULL	681	200	0.0007342143906020558
+azole-based drug	miconazole	1	1	1	1	NULL	NULL	NULL	273	102	0.003663003663003663
+azole-type antifungal and antibacterial agent	imidazole antifungal	2	2	3	2	1.000000000000	NULL	NULL	2	1	0.6666666666666666
+azole-type antifungal and antibacterial agent	antibacterial agent	1	1	3	2	1.000000000000	NULL	NULL	63	25	0.005291005291005291
+azoles	fluconazole	31	23	160	31	0.809523809523	NULL	NULL	469	159	0.012806503198294244
+azoles	itraconazole	25	21	160	31	0.809523809523	NULL	NULL	450	136	0.008680555555555556
+azoles	ketoconazole	16	16	160	31	0.809523809523	NULL	NULL	681	200	0.0023494860499265785
+azoles	voriconazole	15	9	160	31	0.809523809523	NULL	NULL	128	48	0.010986328125
+azoles	miconazole	13	13	160	31	0.809523809523	NULL	NULL	273	102	0.0038690476190476196
+azoles	clotrimazole	9	9	160	31	0.809523809523	NULL	NULL	400	139	0.001265625
+azoles	posaconazole	7	6	160	31	0.809523809523	NULL	NULL	50	22	0.006124999999999999
+azoles	bifonazole	4	4	160	31	0.809523809523	NULL	NULL	10	5	0.01
+azoles	Benzotriazole	4	4	160	31	0.809523809523	NULL	NULL	58	40	0.001724137931034483
+azoles	climbazole	3	3	160	31	0.809523809523	NULL	NULL	14	7	0.0040178571428571425
+azoles	econazole	3	3	160	31	0.809523809523	NULL	NULL	69	31	0.0008152173913043478
+azoles	ravuconazole	2	2	160	31	0.809523809523	NULL	NULL	12	6	0.0020833333333333333
+azoles	chlorobenzimidazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	mercaptothiazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	nitroindazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	terconazole	2	2	160	31	0.809523809523	NULL	NULL	10	8	0.0025
+azoles	mercaptothiadiazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	mercaptobenzothiazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	nitrobenzotriazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	aminotriazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	bromobenzimidazoles	2	1	160	31	0.809523809523	NULL	NULL	2	1	0.0125
+azoles	tioconazole	1	1	160	31	0.809523809523	NULL	NULL	17	13	0.0003676470588235294
+azoles	topical antifungal azoles	1	1	160	31	0.809523809523	NULL	NULL	2	2	0.003125
+azoles	sulconazole	1	1	160	31	0.809523809523	NULL	NULL	4	4	0.0015625
+azoles	used in the treatment of superficial	1	1	160	31	0.809523809523	NULL	NULL	1	1	0.00625
+azoles	deep-seated candidiasis	1	1	160	31	0.809523809523	NULL	NULL	1	1	0.00625
+azoles	benzoxazole	1	1	160	31	0.809523809523	NULL	NULL	7	7	0.0008928571428571429
+azoles	benzothiazole	1	1	160	31	0.809523809523	NULL	NULL	9	8	0.0006944444444444445
+azoles	BZT	1	1	160	31	0.809523809523	NULL	NULL	12	10	0.0005208333333333333
+azoles	buspirone	1	1	160	31	0.809523809523	NULL	NULL	178	75	0.0000351123595505618
+azoles	FLC	1	1	160	31	0.809523809523	NULL	NULL	12	10	0.0005208333333333333
+azoles antifungal agent	fluconazole	1	1	1	1	NULL	NULL	NULL	469	159	0.0021321961620469083
+Azolla	fixing of nitrogen	1	1	1	1	NULL	NULL	NULL	1	1	1
+azolobenzodiazepines	alprazolam	1	1	1	1	NULL	NULL	NULL	424	98	0.0023584905660377358
+azonal habitat	coastal mire	2	2	7	4	NULL	NULL	NULL	2	1	0.2857142857142857
+azonal habitat	sites affected by cold air drainage	2	2	7	4	NULL	NULL	NULL	2	1	0.2857142857142857
+azonal habitat	wide valley	2	2	7	4	NULL	NULL	NULL	3	2	0.19047619047619047
+azonal habitat	marshy	1	1	7	4	NULL	NULL	NULL	3	3	0.047619047619047616
+azonal habitat type	wet meadow	1	1	2	2	NULL	NULL	NULL	78	52	0.00641025641025641
+azonal habitat type	riparian zone	1	1	2	2	NULL	NULL	NULL	90	55	0.005555555555555556
+azonal soil	lithosols	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+Azonal vegetation	riparian vegetation	1	1	1	1	1.000000000000	NULL	NULL	34	28	0.029411764705882353
+azonitrile-type initiator	2	2	2	2	1	NULL	NULL	NULL	1172	663	0.0017064846416382253
+azooxanthellate cnidarian	T. coccinea Lesson	1	1	1	1	NULL	NULL	NULL	1	1	1
+azorean specialty	citrus fruit	1	1	2	2	NULL	NULL	NULL	978	252	0.0005112474437627812
+azorean specialty	banana	1	1	2	2	NULL	NULL	NULL	8340	1751	0.00005995203836930456
+azorean wine	Vinho de Cheiro	1	1	1	1	NULL	NULL	NULL	1	1	1
+azotaemic sign	loss of appetite	1	1	2	2	NULL	NULL	NULL	1085	273	0.0004608294930875576
+azotaemic sign	vomiting	1	1	2	2	NULL	NULL	NULL	5583	1025	0.00008955758552749418
+azotemic index	blood urea nitrogen	1	1	1	1	NULL	NULL	NULL	74	52	0.013513513513513514
+AZT related toxicity	lipoatrophy	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+azt-containing medication	Combivir	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+aztec and american tribe	Apache	1	1	1	1	NULL	NULL	NULL	994	428	0.001006036217303823
+aztec and indian design	thunderbolt	1	1	1	1	0.500000000000	NULL	NULL	70	56	0.014285714285714285
+aztec and mayan deity	Tlaloc	1	1	3	3	1.000000000000	NULL	NULL	14	8	0.023809523809523808
+aztec and mayan deity	Quetzalcoatl	1	1	3	3	1.000000000000	NULL	NULL	12	7	0.027777777777777776
+aztec and mayan deity	Coatlicue	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+aztec appliance	washer	1	1	1	1	NULL	NULL	NULL	2166	460	0.0004616805170821791
+aztec art object	fish	1	1	3	3	NULL	NULL	NULL	12757	2977	0.000026129445271876875
+aztec art object	shell	1	1	3	3	NULL	NULL	NULL	4074	1301	0.00008181966944853542
+aztec art object	frog	1	1	3	3	NULL	NULL	NULL	1993	544	0.00016725204883759825
+aztec clay color	henna	2	1	4	2	NULL	NULL	NULL	188	91	0.005319148936170213
+aztec clay color	copper	2	1	4	2	NULL	NULL	NULL	15607	2840	0.00006407381303261357
+aztec codex	Codex Borbonicus	5	5	10	2	NULL	NULL	NULL	7	2	0.35714285714285715
+aztec codex	Codex Mendoza	5	5	10	2	NULL	NULL	NULL	8	4	0.3125
+aztec deity	Xochiquetzal	2	1	4	2	NULL	NULL	NULL	4	3	0.25
+aztec deity	Xochipilli	2	1	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+aztec document	Cronica Mexicayotl	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aztec document	Codex Azcatitlan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aztec god	Quetzalcoatl	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+aztec institution	well-known aztec institution	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+aztec institution	military order	1	1	2	2	1.000000000000	NULL	NULL	15	12	0.03333333333333333
+aztec realm	Mictlan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aztec realm	Tlalocan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aztec ritual	Fire Dance	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+aztec ritual	spiritual cleansing	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+aztec safety	Brian Russell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aztec safety	Robert Griffith	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+aztec social category	priest	1	1	2	2	NULL	NULL	NULL	423	208	0.001182033096926714
+aztec social category	merchant	1	1	2	2	NULL	NULL	NULL	204	127	0.0024509803921568627
+aztec speciality	gusanos de maguey	1	1	1	1	NULL	NULL	NULL	1	1	1
+aztec-themed game	Zuma	1	1	1	1	1.000000000000	NULL	NULL	44	35	0.022727272727272728
+aztecs	modern day aztecs	1	1	1	1	NULL	NULL	NULL	1	1	1
+aztlan stronghold	Nampa	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667
+azuki sweet	Uirou	1	1	1	1	NULL	NULL	NULL	1	1	1
+azul's main plate	Miso Marinated Salmon with sticky rice	1	1	1	1	NULL	NULL	NULL	1	1	1
+azure colored inlet	Kiholo Bay	1	1	1	1	NULL	NULL	NULL	1	1	1
+azure eye	color	1	1	1	1	NULL	NULL	NULL	11347	3399	0.00008812902088657794
+azure service	Exchange Online	2	2	3	2	1.000000000000	NULL	NULL	11	9	0.1212121212121212
+azure service	CRM Online	1	1	3	2	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+azure shoe	look in the wedding section	1	1	1	1	NULL	NULL	NULL	1	1	1
+azure-specific issue	instrumentation	1	1	3	3	NULL	NULL	NULL	296	139	0.0011261261261261261
+azure-specific issue	data storage	1	1	3	3	NULL	NULL	NULL	222	132	0.0015015015015015015
+azure-specific issue	instrument at ion	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+azurophil granule protein	myeloperoxidase	1	1	1	1	NULL	NULL	NULL	58	29	0.017241379310344827
+AZYEP student	Sophia Clark of Basalt	1	1	1	1	NULL	NULL	NULL	1	1	1
+azzurri senator	Alberto Gilardino	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+azzurri senator	Daniele De Rossi	1	1	3	3	1.000000000000	NULL	NULL	5	3	0.06666666666666667
+azzurri senator	Giorgio Chiellini	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333

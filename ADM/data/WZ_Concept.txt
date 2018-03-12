@@ -1,0 +1,2 @@
+WZCW staff	Leon Kensworth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+WZCW staff	Johnny Klamor	1	1	2	2	NULL	NULL	NULL	1	1	0.5

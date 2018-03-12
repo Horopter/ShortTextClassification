@@ -1,0 +1,34 @@
+OJ item	knick knack	1	1	5	5	0.200000000000	NULL	NULL	29	18	0.006896551724137932
+OJ item	household item	1	1	5	5	0.200000000000	NULL	NULL	320	132	0.000625
+OJ item	china	1	1	5	5	0.200000000000	NULL	NULL	30422	3640	0.00000657418973111564
+OJ item	souvenir	1	1	5	5	0.200000000000	NULL	NULL	301	153	0.000664451827242525
+OJ item	jewelry	1	1	5	5	0.200000000000	NULL	NULL	7848	1759	0.000025484199796126402
+oj3ecause highly price-sensitive passenger	tourist	1	1	1	1	NULL	NULL	NULL	176	96	0.005681818181818182
+ojai specialty	honey	1	1	2	2	NULL	NULL	NULL	3603	1104	0.00013877324451845685
+ojai specialty	citrus	1	1	2	2	NULL	NULL	NULL	1417	526	0.00035285815102328866
+ojai valley neighborhood	Rancho Matilija	1	1	1	1	NULL	NULL	NULL	1	1	1
+ojai's spring event	annual Storytelling Festival	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ojai's spring event	new WordFest in late March	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ojas disorder	dosha chyavana	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ojects	bed	1	1	5	5	0.166666666666	NULL	NULL	2021	704	0.00009896091044037606
+Ojects	ball	1	1	5	5	0.166666666666	NULL	NULL	1998	808	0.0001001001001001001
+Ojects	redstone	1	1	5	5	0.166666666666	NULL	NULL	27	15	0.007407407407407408
+ojects	acetate layer ojects	1	1	5	5	0.166666666666	NULL	NULL	1	1	0.2
+Ojects	snowman	1	1	5	5	0.166666666666	NULL	NULL	223	148	0.0008968609865470852
+OJENMI chinese supermarket	New World Centre	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+OJENMI chinese supermarket	Needs	1	1	2	2	NULL	NULL	NULL	5	8	0.1
+ojibwa-language activity	singing nursery rhyme	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Ojibway peoples	present day Nawash	1	1	1	1	NULL	NULL	NULL	1	1	1
+OJJDP program	Title V Community Prevention Grants Program	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OJJDP program	Formula Grants Program	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OJJDPprograms	Formula Grants Program	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OJJDPprograms	Title V Community Prevention Grants Program	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OJP formula program	Byrne grant	1	1	1	1	NULL	NULL	NULL	1	1	1
+OJT program	modern management theory	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+OJT program	manufacturing system simulation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OJT program	manufacturing cost analysis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OJT program	IE skills in manufacturing	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+OJT technique	job rotation	1	1	4	4	NULL	NULL	NULL	172	91	0.0014534883720930232
+OJT technique	coaching	1	1	4	4	NULL	NULL	NULL	942	434	0.0002653927813163482
+OJT technique	mentoring	1	1	4	4	NULL	NULL	NULL	1216	504	0.00020559210526315788
+OJT technique	job instruction training	1	1	4	4	NULL	NULL	NULL	1	1	0.25

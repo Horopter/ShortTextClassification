@@ -1,0 +1,227 @@
+KH buffer	Kent Buffer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KH buffer	SeaChem Malawi	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+KH buffer	Marine Buffer	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KHA willcollect pertinent available datum	airport renovation criterion	1	1	1	1	NULL	NULL	NULL	1	1	1
+khaadi item	kurta	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+Khadafy support	Sirte	1	1	1	1	1.000000000000	NULL	NULL	12	6	0.08333333333333333
+khadi product	face wash	1	1	4	4	0.333333333333	NULL	NULL	61	41	0.004098360655737705
+khadi product	shampoo	1	1	4	4	0.333333333333	NULL	NULL	3875	1061	0.00006451612903225807
+khadi product	neem pack	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+khadi product	oil	1	1	4	4	0.333333333333	NULL	NULL	15331	4205	0.000016306829300110885
+Khair xerophytes species	Zizyphus xylopyra	1	1	1	1	NULL	NULL	NULL	1	1	1
+khajuraho hotel	Hotel Clarks	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Hotel Chandela	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Lalit Temple View	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Grand Temple View	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Radisson Hotel	1	1	10	10	1.000000000000	NULL	NULL	12	9	0.008333333333333333
+khajuraho hotel	Ramada Hotel	1	1	10	10	1.000000000000	NULL	NULL	4	3	0.025
+khajuraho hotel	Hotel Usha Bundela	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Hotel Greenwood	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Ken River Lodge	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khajuraho hotel	Kairali Ayurvedic Resort	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+khaki	General Tommy Franks	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+khaki and luxurious shoe collection	aqua shoe	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+khaki hint	Swoosh	1	1	1	1	0.500000000000	NULL	NULL	21	16	0.047619047619047616
+khaleej time DUBAI environmental issue	climate change	1	1	2	2	NULL	NULL	NULL	5795	1331	0.00008628127696289905
+khaleej time DUBAI environmental issue	unsustainable consumption	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+khaleej time GENEVA natural disaster	huge earthquake	1	1	1	1	NULL	NULL	NULL	16	4	0.0625
+khaleej time social-networking site	Facebook	1	1	1	1	NULL	NULL	NULL	29637	3798	0.00003374160677531464
+khaliddivides political movement	IRP	1	1	1	1	1.000000000000	NULL	NULL	12	12	0.08333333333333333
+khalifeh's female character	Fitna	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+khalistan souvenir	coaster	1	1	1	1	NULL	NULL	NULL	449	231	0.0022271714922048997
+khalistan terror commander	Wadhawa Singh Babbar	1	1	1	1	NULL	NULL	NULL	1	1	1
+khals	Manda khal	1	1	1	1	NULL	NULL	NULL	1	1	1
+kham monastery	Litang	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+khan	khan El Miniah	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	Khan Khayr Bek	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	Khan Court Bek	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	Khan al-sabun	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	aggressive bulgar khan	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	Kailash Khand	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	Kedar Khand	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan	Bhadri Khand	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+khan academy cover subject	phycis	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+khan academy cover subject	economics	1	1	5	5	NULL	NULL	NULL	3114	788	0.00006422607578676943
+khan academy cover subject	astronomy	1	1	5	5	NULL	NULL	NULL	946	265	0.00021141649048625794
+khan academy cover subject	chemistry	1	1	5	5	NULL	NULL	NULL	2911	760	0.00006870491240123669
+khan academy cover subject	history	1	1	5	5	NULL	NULL	NULL	5002	1197	0.000039984006397441024
+khan external shock	deterioration in the terms of trade	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+khan's duty	providing for the poor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+khan's film	Om Shanti Om	1	1	4	4	1.000000000000	NULL	NULL	11	6	0.022727272727272728
+khan's film	Kuch Kuch Hota Hai	1	1	4	4	1.000000000000	NULL	NULL	19	11	0.013157894736842105
+khan's film	Dilwale Dulhaniya Le Jayenge	1	1	4	4	1.000000000000	NULL	NULL	9	6	0.027777777777777776
+khan's film	Chak De India	1	1	4	4	1.000000000000	NULL	NULL	10	6	0.025
+khan's recent opponent	Maidana	1	1	3	3	1.000000000000	NULL	NULL	6	4	0.05555555555555555
+khan's recent opponent	Marco Antonio Barrera	1	1	3	3	1.000000000000	NULL	NULL	23	12	0.014492753623188404
+khan's recent opponent	Dmitriy Salita	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+Khanandas	Alim Qasimov	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Khanandas	Arif Babayev	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Khanates	Shirvan	2	2	4	2	NULL	NULL	NULL	5	4	0.2
+Khanates	Nakhcehvan	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+khandakhadyaka deal mostly maticians	BHASKARA II	1	1	1	1	NULL	NULL	NULL	1	1	1
+khandekar's novel	Yayati	2	2	2	1	1.000000000000	NULL	NULL	7	6	0.2857142857142857
+khanduri's legislation	Lokayukta	2	2	4	2	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+khanduri's legislation	Citizens Charter	2	2	4	2	1.000000000000	NULL	NULL	8	6	0.125
+Khaneghahs	Khaneghah of Sheikh Dada in Bandarabad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Khaneghahs	Bogh-e-Sheikh Ali Soleiman in Bidad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kharif crop	maize	2	2	20	16	NULL	NULL	NULL	3361	842	0.00005950609937518596
+kharif crop	millet	2	2	20	16	NULL	NULL	NULL	1957	510	0.0001021972406745018
+kharif crop	cotton	2	2	20	16	NULL	NULL	NULL	8381	1830	0.000023863500775563776
+kharif crop	rice	2	2	20	16	NULL	NULL	NULL	11473	2640	0.00001743223219733287
+kharif crop	sugarcane	1	1	20	16	NULL	NULL	NULL	733	247	0.00006821282401091406
+kharif crop	soybean	1	1	20	16	NULL	NULL	NULL	4228	1073	0.000011825922421948912
+kharif crop	sorghum	1	1	20	16	NULL	NULL	NULL	1657	434	0.000030175015087507546
+kharif crop	cashew	1	1	20	16	NULL	NULL	NULL	915	199	0.0000546448087431694
+kharif crop	groundnut	1	1	20	16	NULL	NULL	NULL	544	168	0.00009191176470588235
+kharif crop	pomegranate	1	1	20	16	NULL	NULL	NULL	1001	366	0.00004995004995004995
+kharif crop	grape	1	1	20	16	NULL	NULL	NULL	4192	1036	0.000011927480916030534
+kharif crop	guar	1	1	20	16	NULL	NULL	NULL	166	72	0.00030120481927710846
+kharif crop	mango	1	1	20	16	NULL	NULL	NULL	4062	1036	0.000012309207287050714
+kharif crop	pulse	1	1	20	16	NULL	NULL	NULL	1341	516	0.00003728560775540641
+kharif crop	corn	1	1	20	16	NULL	NULL	NULL	11029	2454	0.000004533502584096474
+kharif crop	paddy	1	1	20	16	NULL	NULL	NULL	134	48	0.00037313432835820896
+kharif fodder	guinea grass	1	1	4	4	0.250000000000	NULL	NULL	31	23	0.008064516129032258
+kharif fodder	sorghum	1	1	4	4	0.250000000000	NULL	NULL	1657	434	0.00015087507543753772
+kharif fodder	maize	1	1	4	4	0.250000000000	NULL	NULL	3361	842	0.00007438262421898245
+kharif fodder	bajra	1	1	4	4	0.250000000000	NULL	NULL	83	30	0.0030120481927710845
+kharif pulse	urad	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+kharif pulse	arhar	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+kharif sorghum type	CSH 1	1	1	1	1	NULL	NULL	NULL	1	1	1
+Khas	Chavle Kodaial	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Khas	Aloo Song	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Khas	Bhoori Soup	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Khas	Mooga Ghashi	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Khas	Dali Toi	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Khas	Kolambo	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Khas	Madrasi Soup	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+khas-nepali poet	Lekhnath Paudyal	1	1	1	1	NULL	NULL	NULL	1	1	1
+khastiel's former custom	Gauntlet Run	1	1	1	1	NULL	NULL	NULL	1	1	1
+khat-induced psychotic disease	mania	1	1	1	1	NULL	NULL	NULL	226	108	0.004424778761061947
+khatami's key advisor	Saeed Hajjarian	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+khatami's most anti-american supporter	Islamic Revolution Mojahedin Organization	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+khazana wild animal	birds flying around the beach dancing	1	1	1	1	NULL	NULL	NULL	1	1	1
+KHCC survivorship event	LiveStrong Day	1	1	1	1	NULL	NULL	NULL	1	1	1
+kheldian-energy power	Gravity Well	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kheldian-energy power	Ebon Eye	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kheldian-energy power	Dark Matter Detonation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+khilafat leader	Maulana Azad	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+khilafat leader	Dr. Ansari	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+Khisor Thrust sheet	Paniala	1	1	1	1	NULL	NULL	NULL	1	1	1
+khitruk's film	Story of a Crime	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+khitruk's film	Man in the Frame	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+khitruk's film	Film	1	1	3	3	NULL	NULL	NULL	3681	1439	0.00009055510278004166
+KHL official	Fetisov	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+KHL veteran	Ray Giroux	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+KHL veteran	Matt Ellison	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Khlongs	Saen Saeb	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Khlongs	Thonburi	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Khlongs	Phadung Krung Kasem	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+khmer art	temple	1	1	2	2	NULL	NULL	NULL	826	414	0.0006053268765133172
+khmer art	sculpture	1	1	2	2	NULL	NULL	NULL	1810	688	0.00027624309392265195
+khmer communist	Keo Moni	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+khmer communist	Tou Samouth	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+khmer communist	Sieu Heng	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+khmer communist	Son Ngoc Minh	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+khmer cultural organization	Rajana Society	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer cultural organization	KhmerConnection website	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer cultural product	clothing	1	1	3	3	NULL	NULL	NULL	9665	2540	0.00003448870494912916
+khmer cultural product	magazine	1	1	3	3	NULL	NULL	NULL	4269	1431	0.00007808229874287499
+khmer cultural product	book	1	1	3	3	NULL	NULL	NULL	13029	3482	0.00002558395374421163
+khmer farmer	Prom Chea	6	1	6	1	NULL	NULL	NULL	6	1	1
+Khmer food	Amok	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+Khmer food	prohok	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer holiday	Khmer New Year	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+khmer holiday	Pchum Benh	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer newspaper	Rasmey Kampuchea	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer newspaper	Koh Santepheap	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer novel	Tum Teav	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+khmer politician	Sonn San	1	1	1	1	NULL	NULL	NULL	1	1	1
+khmer radio	Voice of America	1	1	2	2	0.500000000000	NULL	NULL	149	87	0.003355704697986577
+khmer radio	RFI	1	1	2	2	0.500000000000	NULL	NULL	28	27	0.017857142857142856
+khmer rouge commander	Ieng Saray	1	1	1	1	NULL	NULL	NULL	1	1	1
+khmer rouge era site	Toul Sleng	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+khmer rouge follower	Nuon Chea	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+khmer rouge follower	Khieu Samphan	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+khmer rouge follower	Ieng Sary	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+khmer rouge leader	Pol Pot	2	2	11	7	1.000000000000	NULL	NULL	68	47	0.005347593582887701
+khmer rouge leader	Kaing Guek Eav	2	1	11	7	1.000000000000	NULL	NULL	3	2	0.12121212121212122
+khmer rouge leader	Ieng Sary	2	2	11	7	1.000000000000	NULL	NULL	4	3	0.09090909090909091
+khmer rouge leader	Khieu Samphan	2	2	11	7	1.000000000000	NULL	NULL	8	7	0.045454545454545456
+khmer rouge leader	Khieu Sampan	1	1	11	7	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+khmer rouge leader	Noun Chea	1	1	11	7	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+khmer rouge leader	senior khmer rouge leader	1	1	11	7	1.000000000000	NULL	NULL	2	2	0.045454545454545456
+khmer rouge term	partial evacuation of the city	1	1	1	1	NULL	NULL	NULL	1	1	1
+khmer rough leader	Kaing Guek Eav	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+khmer salad	green mango salad	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+khmer salad	lotus rootlet salad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khmer scholar	Pich Tum Kravil	1	1	1	1	NULL	NULL	NULL	1	1	1
+khmer site	Sukhothai	1	1	2	2	1.000000000000	NULL	NULL	44	16	0.011363636363636364
+khmer site	Sri Satchanalai	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+khmer snack	duck foetus	1	1	1	1	NULL	NULL	NULL	1	1	1
+khmer temple	Banteay Srei	1	1	4	4	0.750000000000	NULL	NULL	14	10	0.017857142857142856
+khmer temple	Preah Vihear	1	1	4	4	0.750000000000	NULL	NULL	15	10	0.016666666666666666
+khmer temple	Kbal Spean	1	1	4	4	0.750000000000	NULL	NULL	6	6	0.041666666666666664
+khmer temple	Angkor Wat	1	1	4	4	0.750000000000	NULL	NULL	69	43	0.0036231884057971015
+Khmer traditional music	Pinpeat	1	1	1	1	NULL	NULL	NULL	1	1	1
+khmer traditional song	Rom Kbach	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+khmer traditional song	Rom Vong	1	1	3	3	NULL	NULL	NULL	4	2	0.08333333333333333
+khmer traditional song	Lam Loa	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+khmer-krom people's natural resource	gas	1	1	5	5	NULL	NULL	NULL	7329	2137	0.00002728885250375222
+khmer-krom people's natural resource	farmland	1	1	5	5	NULL	NULL	NULL	170	106	0.0011764705882352942
+khmer-krom people's natural resource	oil	1	1	5	5	NULL	NULL	NULL	15331	4205	0.00001304546344008871
+khmer-krom people's natural resource	forest	1	1	5	5	NULL	NULL	NULL	2386	927	0.00008382229673093043
+khmer-krom people's natural resource	waterway	1	1	5	5	NULL	NULL	NULL	256	136	0.00078125
+khmer-style sculpture	sandstone door colonettes carved in various design	1	1	1	1	NULL	NULL	NULL	1	1	1
+Khnopff painting	Caresses	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+khodjaefendi's book	Kirik Mizrap	1	1	1	1	NULL	NULL	NULL	1	1	1
+khodorkovsky's former partner	Leonid Nevzlin	3	3	3	1	NULL	NULL	NULL	3	1	1
+khoikhoi site	kraal	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+khoisan activist	chief Harleen Sassman	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+khoisan activist	Ron Martin	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+khoisan activist	chief Joseph Little	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+khoisan activist	chief Jean Burgess	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+khoisan activist	Hendrik van Wyk	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+khoisan community	Namaqua	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+khoisan community	Outeniqua	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+khoisan community	Griqua	1	1	3	3	NULL	NULL	NULL	1	2	0.3333333333333333
+khoisan-speaking group	San	1	1	1	1	1.000000000000	NULL	NULL	48	27	0.020833333333333332
+kholui painter	Alexander Smirnov	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kholui painter	Viktor Yolkin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kholui painter	Piotr Mityashin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kholui painter	Vladimir Sedov	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Khomani	Silikat Van Wyk	1	1	1	1	NULL	NULL	NULL	1	1	1
+khomeini group	Nasr	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+khomeini's disciple	Karrubi	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+khomeini's disciple	Ata Mohajerani	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+khomeini's disciple	Behzad Nabavi	1	1	7	7	1.000000000000	NULL	NULL	3	3	0.047619047619047616
+khomeini's disciple	Hassan Khomeini	1	1	7	7	1.000000000000	NULL	NULL	3	2	0.047619047619047616
+khomeini's disciple	Mir Hossain Moussavi	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+khomeini's disciple	Khatami	1	1	7	7	1.000000000000	NULL	NULL	14	14	0.01020408163265306
+khomeini's disciple	Mohsen Kadivar	1	1	7	7	1.000000000000	NULL	NULL	11	10	0.012987012987012986
+khong's song	I Cry	1	1	1	1	NULL	NULL	NULL	1	1	1
+KHOO interplanted tree	citrus	1	1	1	1	NULL	NULL	NULL	1417	526	0.0007057163020465773
+Khoresht	ghormeh sabzi	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+khorezm dish	pilav	1	1	1	1	NULL	NULL	NULL	1	1	1
+khorne unit	Hounds	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+khorne unit	Heralds	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+khorne unit	Bloodthirsters	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+khorne-aligned renegade	Blood Pact	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+khovd hotel	Myangan Ugalzat hotel	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+khovd hotel	Grand hotel	1	1	3	3	1.000000000000	NULL	NULL	33	19	0.0101010101010101
+khovd hotel	Tengis hotel	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+khozyaistvenniks	Moscow Mayor Yuri Luzhkov	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+khq's psychometric property	reliability	1	1	1	1	NULL	NULL	NULL	3181	964	0.00031436655139893113
+khr-3's physical specification	weight	1	1	2	2	NULL	NULL	NULL	8102	1947	0.00006171315724512466
+khr-3's physical specification	height	1	1	2	2	NULL	NULL	NULL	4847	1409	0.00010315659170621003
+KHS instructional space	classroom	1	1	1	1	NULL	NULL	NULL	1019	445	0.0009813542688910696
+khtml-based browser	Konqueror	1	1	1	1	NULL	NULL	NULL	79	35	0.012658227848101266
+khurja item	Pen holder	1	1	3	3	NULL	NULL	NULL	105	55	0.0031746031746031746
+khurja item	Bowl set	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+khurja item	Coffee mug	1	1	3	3	NULL	NULL	NULL	529	242	0.000630119722747322
+khz detector	xlpro	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khz detector	xlt	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+khz source	compact disk	2	2	2	1	NULL	NULL	NULL	154	83	0.012987012987012988
+khz transponder	EM 4100	1	1	1	1	NULL	NULL	NULL	1	1	1
+khzinconsid-erationof portable device	mobile phone	1	1	3	3	NULL	NULL	NULL	6991	1839	0.00004768035092738282
+khzinconsid-erationof portable device	PDAs	1	1	3	3	NULL	NULL	NULL	3267	824	0.00010203040506070809
+khzinconsid-erationof portable device	mp3 player	1	1	3	3	NULL	NULL	NULL	3198	925	0.00010423181154888472

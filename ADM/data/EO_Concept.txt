@@ -1,0 +1,268 @@
+EO compound	thymol	1	1	2	2	NULL	NULL	NULL	140	68	0.0035714285714285713
+EO compound	carvacrol	1	1	2	2	NULL	NULL	NULL	70	33	0.007142857142857143
+EO contributor	private company	1	1	2	2	0.750000000000	NULL	NULL	139	79	0.0035971223021582736
+EO contributor	educational establishment	1	1	2	2	0.750000000000	NULL	NULL	29	25	0.017241379310344827
+EO crystal	CdTe crystal in an EO modulator	1	1	1	1	NULL	NULL	NULL	1	1	1
+EO datum source	SMOS	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+EO datum source	GPM	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+EO father	Pope Leo of Rome	1	1	1	1	NULL	NULL	NULL	1	1	1
+EO material	photorefractive	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+eo material	paraelectric eo material	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+EO material	liquid crystal	1	1	4	4	0.500000000000	NULL	NULL	189	121	0.0013227513227513227
+EO material	piezoelectric material	1	1	4	4	0.500000000000	NULL	NULL	29	14	0.008620689655172414
+EO modulator parameter	half-wave voltage	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+EO parameter	half-wave voltage	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+EO property	number of related entity	1	1	1	1	NULL	NULL	NULL	1	1	1
+EO sensor	thermal imaging camera	2	2	2	1	1.000000000000	NULL	NULL	35	26	0.05714285714285714
+EO system	aircraft	1	1	1	1	NULL	NULL	NULL	1633	643	0.000612369871402327
+EO verb	annoy	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+EO-related area	training	1	1	1	1	NULL	NULL	NULL	7685	2537	0.00013012361743656474
+eo-sinophilproducts	eosinophil cationic protein	1	1	1	1	1.000000000000	NULL	NULL	31	22	0.03225806451612903
+eo.web navigation control	Menu	1	1	1	1	NULL	NULL	NULL	1327	581	0.0007535795026375283
+EOA title	Skyfox I & II	1	1	1	1	NULL	NULL	NULL	1	1	1
+EOB datum	patient name	1	1	1	1	NULL	NULL	NULL	139	60	0.007194244604316547
+EOC assessment	world history	1	1	1	1	NULL	NULL	NULL	77	37	0.012987012987012988
+EOC course	geometry	1	1	1	1	0.500000000000	NULL	NULL	898	335	0.0011135857461024498
+EOC resource need	computer	1	1	3	3	NULL	NULL	NULL	13729	3711	0.00002427950566926457
+EOC resource need	phone	1	1	3	3	NULL	NULL	NULL	3710	1244	0.00008984725965858041
+EOC resource need	plan copy	1	1	3	3	NULL	NULL	NULL	32	4	0.010416666666666666
+eoc solution	HomePNA	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+EOC test	American Diploma Project Algebra Test	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EOC test	NJ Ask	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+eoc-controlled resource	emergency service personnel	2	0	2	1	NULL	NULL	NULL	5	4	0.4
+eocene age reef mound prospect	Chianti	1	1	1	1	NULL	NULL	NULL	136	67	0.007352941176470588
+Eocene Pel-ecaniformes	Prophaethon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Eocene Pel-ecaniformes	Limnofregata	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Eocene whales	Artiocetus clavis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Eocene whales	Rodhocetus balochistanensis	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Eocene whales	Protosiren eothene	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eoconservatives	Bush National Security Council official Elliott Abrams	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eoconservatives	Weekly Standard Editor Bill Kristol	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eoconservatives	Daniel Moynihan	1	1	3	3	1.000000000000	NULL	NULL	8	5	0.041666666666666664
+EOD group	TAG groups for RAN clearance diver	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eodents	Hares	1	1	2	2	NULL	NULL	NULL	3	9	0.16666666666666666
+Eodents	Eabbits	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EOE initiative	First-Year Interest Groups	3	3	6	2	NULL	NULL	NULL	4	2	0.375
+EOE initiative	Fall Kick-Off	3	3	6	2	NULL	NULL	NULL	6	2	0.25
+EOEA agency	Departments of Environmental Management	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+EOEA agency	Fisheries	1	1	2	2	1.000000000000	NULL	NULL	40	37	0.0125
+eof's stakeholder	relevant provincial government department	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eof's stakeholder	municipality	1	1	2	2	NULL	NULL	NULL	834	326	0.0005995203836930455
+EOG resource	vocabulary	1	1	2	2	NULL	NULL	NULL	505	205	0.0009900990099009901
+EOG resource	strategy	1	1	2	2	NULL	NULL	NULL	1029	403	0.00048590864917395527
+eogasatropods	Fissurella spp.	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eogastropods	limpet	1	1	1	1	NULL	NULL	NULL	130	58	0.007692307692307693
+eogenetic karst aquifer	Floridan Aquifer	1	1	1	1	NULL	NULL	NULL	1	1	1
+eographic tool	GPS	1	1	3	3	NULL	NULL	NULL	2674	1060	0.00012465719272001995
+eographic tool	GIS	1	1	3	3	NULL	NULL	NULL	655	267	0.0005089058524173028
+eographic tool	satellite imagery	1	1	3	3	NULL	NULL	NULL	225	109	0.0014814814814814814
+eoip technology	IP-based VTC	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eoip technology	Voice over IP	1	1	2	2	NULL	NULL	NULL	558	206	0.0008960573476702509
+eoisthinkers	liberal John Stuart Mill	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eolian deposit	dune sand	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+eolian feature	shinnery motts	1	1	1	1	NULL	NULL	NULL	1	1	1
+eologic principle	superposition	1	1	2	2	NULL	NULL	NULL	60	41	0.008333333333333333
+eologic principle	original horizontality	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+eoman municipal institution	curia	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+eoman municipal institution	duumviri	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+eomertic and traditional Hindus desgins	lotus flower	1	1	2	2	NULL	NULL	NULL	68	49	0.007352941176470588
+eomertic and traditional Hindus desgins	wheel	1	1	2	2	NULL	NULL	NULL	1479	630	0.0003380662609871535
+eometric information	large objects placed at various intersection	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eomish ceremony	use of candles in Candlemas	1	1	1	1	NULL	NULL	NULL	1	1	1
+eon lamp bulb	used for night lamp	1	1	1	1	NULL	NULL	NULL	1	1	1
+EON plug-in module	EON Showroom	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EON plug-in module	EON Peripherals	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eoncap major shareholder	Tan Sri Tiong Hiew King	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eoncap major shareholder	Singaporean Rin Kin Mei @ Rin Kei Mei	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EONN project	monitoring of meteorological datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eoot-crops	potato	1	1	1	1	NULL	NULL	NULL	9600	2035	0.00010416666666666667
+EOP agency	Office of the Vice President	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+EOP office	National Security Council	1	1	1	1	1.000000000000	NULL	NULL	37	26	0.02702702702702703
+EOP strategy	incineration	1	1	2	2	0.500000000000	NULL	NULL	349	166	0.0014326647564469914
+EOP strategy	installation of scrubber	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+EOP&S financial incentive	book voucher	1	1	2	2	0.500000000000	NULL	NULL	9	8	0.05555555555555555
+EOP&S financial incentive	grant	1	1	2	2	0.500000000000	NULL	NULL	1315	525	0.00038022813688212925
+EOPHYSICAL datum	gravity	1	1	2	3	NULL	NULL	NULL	1396	490	0.00035816618911174784
+EOPHYSICAL datum	seismic	1	1	2	3	NULL	NULL	NULL	175	103	0.002857142857142857
+eoplex process complex shape	three-dimensional grid	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+EOR	steamflooding	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+EOR chemical process	surfactant flooding	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+EOR method	polymer flooding	3	2	17	12	0.600000000000	NULL	NULL	11	8	0.0481283422459893
+EOR method	chemical flood	2	2	17	12	0.600000000000	NULL	NULL	2	1	0.11764705882352941
+EOR method	microbial technique	2	2	17	12	0.600000000000	NULL	NULL	2	1	0.11764705882352941
+EOR method	chemical	2	2	17	12	0.600000000000	NULL	NULL	5436	1619	0.00004328442193654504
+EOR method	gel	1	1	17	12	0.600000000000	NULL	NULL	1767	689	0.00003329005626019508
+EOR method	ASP flooding	1	1	17	12	0.600000000000	NULL	NULL	1	1	0.058823529411764705
+EOR method	thermal flooding	1	1	17	12	0.600000000000	NULL	NULL	1	1	0.058823529411764705
+EOR method	steamflooding	1	1	17	12	0.600000000000	NULL	NULL	7	7	0.008403361344537815
+EOR method	microbial flooding	1	1	17	12	0.600000000000	NULL	NULL	1	1	0.058823529411764705
+EOR method	water flooding	1	1	17	12	0.600000000000	NULL	NULL	39	24	0.0015082956259426848
+EOR method	miscible flooding	1	1	17	12	0.600000000000	NULL	NULL	1	1	0.058823529411764705
+EOR method	alkaline surfactant polymer flooding	1	1	17	12	0.600000000000	NULL	NULL	1	1	0.058823529411764705
+EOR option	polymer flooding	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+EOR process	polymer flooding	2	2	6	4	0.750000000000	NULL	NULL	11	8	0.0606060606060606
+EOR process	SAGD	2	2	6	4	0.750000000000	NULL	NULL	19	13	0.03508771929824561
+EOR process	gas injection	1	1	6	4	0.750000000000	NULL	NULL	32	24	0.005208333333333333
+EOR process	polymer	1	1	6	4	0.750000000000	NULL	NULL	1622	629	0.00010275380189066995
+EOR project	ASP project	1	1	1	1	NULL	NULL	NULL	1	1	1
+eor subgroup	ventricular tachycardia in the absence of underlying cardiac disease	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EOR technique	chemical	2	2	14	13	0.333333333333	NULL	NULL	5436	1619	0.00005255965520866183
+EOR technique	gas	1	1	14	13	0.333333333333	NULL	NULL	7329	2137	0.000009746018751340076
+EOR technique	miscible process	1	1	14	13	0.333333333333	NULL	NULL	2	2	0.03571428571428571
+EOR technique	water	1	1	14	13	0.333333333333	NULL	NULL	25348	6311	0.0000028179174462904935
+EOR technique	injecting steam	1	1	14	13	0.333333333333	NULL	NULL	2	2	0.03571428571428571
+EOR technique	gas lift	1	1	14	13	0.333333333333	NULL	NULL	33	30	0.0021645021645021645
+EOR technique	CO2	1	1	14	13	0.333333333333	NULL	NULL	674	270	0.000105977108944468
+EOR technique	CO 2	1	1	14	13	0.333333333333	NULL	NULL	916	386	0.00007797878976918278
+EOR technique	acid gas water	1	1	14	13	0.333333333333	NULL	NULL	1	1	0.07142857142857142
+EOR technique	waterflooding	1	1	14	13	0.333333333333	NULL	NULL	19	13	0.0037593984962406013
+EOR technique	water flooding	1	1	14	13	0.333333333333	NULL	NULL	39	24	0.0018315018315018315
+EOR technique	steam injection	1	1	14	13	0.333333333333	NULL	NULL	49	31	0.0014577259475218659
+EOR technique	water reinjection	1	1	14	13	0.333333333333	NULL	NULL	1	1	0.07142857142857142
+EOR technology	electric	1	1	3	3	NULL	NULL	NULL	1353	506	0.0002463661000246366
+EOR technology	microbial EOR	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+EOR technology	4D seismic with a second	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eorists	Montesquieu	1	1	2	2	NULL	NULL	NULL	145	64	0.0034482758620689655
+eorists	Locke	1	1	2	2	NULL	NULL	NULL	494	134	0.0010121457489878543
+eorts	Open DataCommons	1	1	1	1	NULL	NULL	NULL	1	1	1
+EOs	Terry Chandler	1	1	9	9	0.210526315789	NULL	NULL	1	1	0.1111111111111111
+EOs	Barry Jolliffe	1	1	9	9	0.210526315789	NULL	NULL	1	1	0.1111111111111111
+EOs	non-repudiation	1	1	9	9	0.210526315789	NULL	NULL	74	42	0.0015015015015015015
+EOs	EO 164	1	1	9	9	0.210526315789	NULL	NULL	1	1	0.1111111111111111
+EOs	cinn amon	1	1	9	9	0.210526315789	NULL	NULL	1	1	0.1111111111111111
+EOs	SRK	1	1	9	9	0.210526315789	NULL	NULL	12	10	0.009259259259259259
+EOs	NEDA Board-approved Guidelines	1	1	9	9	0.210526315789	NULL	NULL	1	1	0.1111111111111111
+EOs	lavender for acne	1	1	9	9	0.210526315789	NULL	NULL	1	1	0.1111111111111111
+EOs	Martin Ford	1	1	9	9	0.210526315789	NULL	NULL	6	3	0.018518518518518517
+EOS ancillary datum product	Digital Elevation Model datum	1	1	1	1	NULL	NULL	NULL	1	1	1
+EOS camera	10s	1	1	4	4	1.000000000000	NULL	NULL	11	9	0.022727272727272728
+EOS camera	Canon EOS-1N RS	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+EOS camera	EOS 400D	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+EOS camera	D30	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+EOS canon	20D	1	1	4	4	1.000000000000	NULL	NULL	14	12	0.017857142857142856
+EOS canon	50D	1	1	4	4	1.000000000000	NULL	NULL	15	13	0.016666666666666666
+EOS canon	amazing 5D Mark2	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+EOS canon	40D	1	1	4	4	1.000000000000	NULL	NULL	12	9	0.020833333333333332
+EOS datum	electron pressure	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+EOS datum	ion pressure	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+EOS digital product information	technology	1	1	3	3	0.500000000000	NULL	NULL	4468	1409	0.0000746045956430916
+EOS digital product information	sample image	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+EOS digital product information	firmware update	1	1	3	3	0.500000000000	NULL	NULL	52	20	0.00641025641025641
+EOS DSLR camera	10D	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+EOS DSLR camera	D60	1	1	2	2	1.000000000000	NULL	NULL	32	20	0.015625
+EOS imagers	MODIS	1	1	1	1	NULL	NULL	NULL	103	67	0.009708737864077669
+EOS instrument	Multi-Angle Imaging SpectroRadiometer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EOS lens feature	image stabilisation	1	1	2	2	1.000000000000	NULL	NULL	33	15	0.015151515151515152
+EOS lens feature	auto-focus	1	1	2	2	1.000000000000	NULL	NULL	55	29	0.00909090909090909
+EOS parameter	binary coefficient	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EOS parameter	acentric factor	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+EOS satellite platform	Terra	1	1	1	1	0.500000000000	NULL	NULL	39	23	0.02564102564102564
+EOS sensor	AMSU	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+EOS sensor	TRMM Microwave Imager	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EOS sensor	Visible Infrared Scanner	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EOS sensor	Precipitation Radar	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+eos standard	Generic Framing Procedure	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+EOS-dedicated information	metering	1	1	1	1	NULL	NULL	NULL	192	112	0.005208333333333333
+eosin dye	Eosin G	1	1	1	1	NULL	NULL	NULL	1	1	1
+eosinophil associated disorder	Hypereosinophilic Syndrome	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+eosinophil attractant chemokines	MCP-2	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+eosinophil basic protein	major basic protein	1	1	2	2	1.000000000000	NULL	NULL	33	24	0.015151515151515152
+eosinophil basic protein	eosinophil cationic protein	1	1	2	2	1.000000000000	NULL	NULL	31	22	0.016129032258064516
+eosinophil cationic protein	MBP	1	1	1	1	1.000000000000	NULL	NULL	34	23	0.029411764705882353
+eosinophil chemoattractants	C5a	1	1	2	2	0.666666666666	NULL	NULL	44	25	0.011363636363636364
+eosinophil chemoattractants	PAF	1	1	2	2	0.666666666666	NULL	NULL	44	28	0.011363636363636364
+eosinophil chemokines	eotaxin-1	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Eosinophil chemotactic cytokines	eotaxin	1	1	1	1	1.000000000000	NULL	NULL	34	11	0.029411764705882353
+eosinophil degranulation product	eosinophil peroxidase	1	1	3	3	1.000000000000	NULL	NULL	15	11	0.02222222222222222
+eosinophil degranulation product	cysteinyl leukotrienes	1	1	3	3	1.000000000000	NULL	NULL	17	9	0.0196078431372549
+eosinophil degranulation product	eosinophil cationic protein	1	1	3	3	1.000000000000	NULL	NULL	31	22	0.01075268817204301
+eosinophil effector function	degranulation	1	1	2	2	1.000000000000	NULL	NULL	16	12	0.03125
+eosinophil effector function	superoxide production	1	1	2	2	1.000000000000	NULL	NULL	7	3	0.07142857142857142
+eosinophil function	adhesion	1	1	2	2	NULL	NULL	NULL	527	210	0.0009487666034155598
+eosinophil function	chemotaxis towards eotaxin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eosinophil granule component	major basic protein	3	1	5	2	1.000000000000	NULL	NULL	33	24	0.05454545454545454
+eosinophil granule component	eosinophil cationic protein	2	1	5	2	1.000000000000	NULL	NULL	31	22	0.025806451612903226
+eosinophil granule protein	major basic protein	4	4	17	8	0.750000000000	NULL	NULL	33	24	0.0285204991087344
+eosinophil granule protein	eosinophil cationic protein	4	4	17	8	0.750000000000	NULL	NULL	31	22	0.030360531309297913
+eosinophil granule protein	eosinophil peroxidase	4	4	17	8	0.750000000000	NULL	NULL	15	11	0.06274509803921569
+eosinophil granule protein	EPO	1	1	17	8	0.750000000000	NULL	NULL	90	54	0.00065359477124183
+eosinophil granule protein	eosinophilic cationic protein	1	1	17	8	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+eosinophil granule protein	eosinophil-derived neurotoxin	1	1	17	8	0.750000000000	NULL	NULL	4	4	0.014705882352941176
+eosinophil granule protein	cationic protein	1	1	17	8	0.750000000000	NULL	NULL	5	5	0.011764705882352941
+eosinophil granule protein	toxic eosinophil granule protein	1	1	17	8	0.750000000000	NULL	NULL	3	3	0.0196078431372549
+eosinophil granule-derived basic protein	eosinophil cationic protein	1	1	2	2	1.000000000000	NULL	NULL	31	22	0.016129032258064516
+eosinophil granule-derived basic protein	major basic protein	1	1	2	2	1.000000000000	NULL	NULL	33	24	0.015151515151515152
+eosinophil granule-derived mediator	major basic protein	1	1	1	1	1.000000000000	NULL	NULL	33	24	0.030303030303030304
+eosinophil mediator	major basic protein	2	2	8	6	0.750000000000	NULL	NULL	33	24	0.015151515151515152
+eosinophil mediator	eosinophil cationic protein	2	2	8	6	0.750000000000	NULL	NULL	31	22	0.016129032258064516
+eosinophil mediator	cytokines	1	1	8	6	0.750000000000	NULL	NULL	1090	413	0.00011467889908256881
+eosinophil mediator	granule cationic protein	1	1	8	6	0.750000000000	NULL	NULL	1	1	0.125
+eosinophil mediator	eosinophil peroxydase	1	1	8	6	0.750000000000	NULL	NULL	1	1	0.125
+eosinophil mediator	cysteinyl leukotrienes	1	1	8	6	0.750000000000	NULL	NULL	17	9	0.007352941176470588
+eosinophil product	superoxide anion	5	4	22	11	0.700000000000	NULL	NULL	405	70	0.0028058361391694723
+eosinophil product	hydroxyl radical	5	4	22	11	0.700000000000	NULL	NULL	479	87	0.0023723666729929776
+eosinophil product	major basic protein	2	2	22	11	0.700000000000	NULL	NULL	33	24	0.005509641873278237
+eosinophil product	eosinophil cationic protein	2	2	22	11	0.700000000000	NULL	NULL	31	22	0.005865102639296188
+eosinophil product	oxygen metabolite	2	2	22	11	0.700000000000	NULL	NULL	4	3	0.045454545454545456
+eosinophil product	cationic protein	1	1	22	11	0.700000000000	NULL	NULL	5	5	0.00909090909090909
+eosinophil product	IL-16	1	1	22	11	0.700000000000	NULL	NULL	5	4	0.00909090909090909
+eosinophil product	MBP	1	1	22	11	0.700000000000	NULL	NULL	34	23	0.0013368983957219253
+eosinophil product	leukotrienes	1	1	22	11	0.700000000000	NULL	NULL	170	66	0.00026737967914438503
+eosinophil product	eosinophil cation protein	1	1	22	11	0.700000000000	NULL	NULL	2	2	0.022727272727272728
+eosinophil product	proteases	1	1	22	11	0.700000000000	NULL	NULL	438	115	0.00010377750103777501
+Eosinophil survival-promoting cytokines	interleukin 5	1	1	1	1	NULL	NULL	NULL	1	1	1
+eosinophil toxic product	cationic protein	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+eosinophil toxic product	oxygen metabolite	1	1	3	3	0.500000000000	NULL	NULL	4	3	0.08333333333333333
+eosinophil toxic product	proteases	1	1	3	3	0.500000000000	NULL	NULL	438	115	0.00076103500761035
+eosinophil-activating agent	PMA	1	1	1	1	0.500000000000	NULL	NULL	96	41	0.010416666666666666
+eosinophil-associated condition	eosinophilic bronchitis	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+eosinophil-associated condition	asthma	1	1	2	2	NULL	NULL	NULL	8602	1433	0.00005812601720530109
+eosinophil-derived agent	PAF	2	2	4	2	1.000000000000	NULL	NULL	44	28	0.022727272727272728
+eosinophil-derived agent	LTC4	2	2	4	2	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+eosinophil-derived mediator	major basic protein	3	3	5	3	0.666666666666	NULL	NULL	33	24	0.05454545454545454
+eosinophil-derived mediator	cationic protein	1	1	5	3	0.666666666666	NULL	NULL	5	5	0.04
+eosinophil-derived mediator	eosinophil cationic protein	1	1	5	3	0.666666666666	NULL	NULL	31	22	0.0064516129032258064
+eosinophil-mediated disease	eosinophilic fasciitis	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eosinophil-mediated disease	certain hypersensitivity pulmonary disorder	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eosinophil-mediated disease	allergic asthma	1	1	3	3	NULL	NULL	NULL	87	41	0.0038314176245210726
+Eosinophil-specific chemoattractants	chemokines	1	1	3	3	0.666666666666	NULL	NULL	195	99	0.0017094017094017094
+Eosinophil-specific chemoattractants	leukotriene B4	1	1	3	3	0.666666666666	NULL	NULL	30	20	0.01111111111111111
+Eosinophil-specific chemoattractants	platelet-activating factor	1	1	3	3	0.666666666666	NULL	NULL	60	31	0.005555555555555555
+eosinophilia symptom	weight loss	1	1	1	1	NULL	NULL	NULL	3020	798	0.00033112582781456954
+eosinophilic airway disorder	eosinophilic bronchitis without asthma	3	2	5	3	NULL	NULL	NULL	3	1	0.6
+eosinophilic airway disorder	cough variant asthma	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+eosinophilic airway disorder	bronchial asthma	1	1	5	3	NULL	NULL	NULL	129	68	0.0015503875968992248
+eosinophilic condition	eosinophilic folliculitis	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+eosinophilic condition	asthma	1	1	2	2	NULL	NULL	NULL	8602	1433	0.00005812601720530109
+eosinophilic disease	allergic asthma	1	1	2	2	NULL	NULL	NULL	87	41	0.005747126436781609
+eosinophilic disease	eosinophlilic sinusitis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eosinophilic disorder	allergy	2	2	4	2	0.500000000000	NULL	NULL	3153	803	0.0003171582619727244
+eosinophilic disorder	parasitic disease	2	2	4	2	0.500000000000	NULL	NULL	21	14	0.047619047619047616
+eosinophilic extra-cellular material	fibrin	1	1	1	1	0.500000000000	NULL	NULL	129	66	0.007751937984496124
+eosinophilic granular protein	ECP	1	1	3	3	1.000000000000	NULL	NULL	18	15	0.018518518518518517
+eosinophilic granular protein	major basic protein	1	1	3	3	1.000000000000	NULL	NULL	33	24	0.0101010101010101
+eosinophilic granular protein	eosinophil-derived neurotoxin	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+eosinophilic illness	bronchial asthma	1	1	1	1	NULL	NULL	NULL	129	68	0.007751937984496124
+Eosinophilic inflammation	observed in allergic rhinitis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Eosinophilic inflammation	asthma	1	1	2	2	NULL	NULL	NULL	8602	1433	0.00005812601720530109
+eosinophilic inflammation-derived polycations	major basic protein	1	1	1	1	1.000000000000	NULL	NULL	33	24	0.030303030303030304
+eosinophilic inflammation-derivedpolycations	major basic protein	1	1	1	1	1.000000000000	NULL	NULL	33	24	0.030303030303030304
+eosinophilic mediator	LTC4	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+eosinophilic protein	Major Basic Protein	1	1	2	2	1.000000000000	NULL	NULL	33	24	0.015151515151515152
+eosinophilic protein	Eosinophil Cationic Protein	1	1	2	2	1.000000000000	NULL	NULL	31	22	0.016129032258064516
+eosinophilic syndrome	Churg-Strauss syndrome	1	1	2	2	1.000000000000	NULL	NULL	22	16	0.022727272727272728
+eosinophilic syndrome	allergic bronchopulmonary aspergillosis	1	1	2	2	1.000000000000	NULL	NULL	16	13	0.03125
+Eosinophilopoietic cytokines	granulocyte-macrophage colony-stimulating factor	1	1	2	2	1.000000000000	NULL	NULL	56	21	0.008928571428571428
+Eosinophilopoietic cytokines	interleukin-5	1	1	2	2	1.000000000000	NULL	NULL	12	6	0.041666666666666664
+EOSINT system	p390	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EOSINT system	p100	1	1	3	3	1.000000000000	NULL	NULL	10	10	0.03333333333333333
+EOSINT system	p800	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+eoslift product	lift table	1	1	2	2	1.000000000000	NULL	NULL	24	15	0.020833333333333332
+eoslift product	manual stackers	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+EOSs	MSO	1	1	1	1	1.000000000000	NULL	NULL	13	13	0.07692307692307693
+eot crane	industrial eot crane	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+EOT monitor system	Pulse Electronics TrainLink II system	1	1	1	1	NULL	NULL	NULL	1	1	1
+eotn pve skill	Ebon Battle Standard of Honor	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+eotn pve skill	Asuran Scan	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+EOU DRAFT PLAN system	retention program	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+eousvariables	characteristics of the group member	1	1	1	1	NULL	NULL	NULL	2	2	0.5

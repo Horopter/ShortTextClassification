@@ -1,0 +1,10 @@
+qn-road single-vehicle crash	collisions with pedestrian	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+QN5 work	Tonedeff	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+qnaternary deposit	terrace	1	1	1	1	NULL	NULL	NULL	554	271	0.0018050541516245488
+qnb's top-tier product	award winning QNB Qatar Airways Co-Branded Platinum MasterCard	1	1	1	1	NULL	NULL	NULL	1	1	1
+QNQC item	spare	1	1	3	3	NULL	NULL	NULL	60	37	0.005555555555555555
+QNQC item	repair	1	1	3	3	NULL	NULL	NULL	2307	808	0.00014448779078167894
+QNQC item	maintenance	1	1	3	3	NULL	NULL	NULL	4873	1506	0.00006840413160954922
+QNX adopted standard	POSIX	1	1	1	1	1.000000000000	NULL	NULL	23	15	0.043478260869565216
+QNX concept	modularity	1	1	1	1	NULL	NULL	NULL	206	118	0.0048543689320388345
+QNX product	QNX Aviage media suite	1	1	1	1	NULL	NULL	NULL	1	1	1

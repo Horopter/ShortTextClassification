@@ -1,0 +1,243 @@
+ZA part	crankshaft	1	1	2	2	NULL	NULL	NULL	331	133	0.0015105740181268882
+ZA part	head	1	1	2	2	NULL	NULL	NULL	1061	534	0.000471253534401508
+zabihah animal	goat	1	1	8	8	0.125000000000	NULL	NULL	2872	602	0.00004352367688022284
+zabihah animal	duck	1	1	8	8	0.125000000000	NULL	NULL	2517	714	0.00004966229638458482
+zabihah animal	sheep	1	1	8	8	0.125000000000	NULL	NULL	3396	698	0.00003680800942285041
+zabihah animal	chicken	1	1	8	8	0.125000000000	NULL	NULL	8933	2087	0.000013993059442516511
+zabihah animal	moose	1	1	8	8	0.125000000000	NULL	NULL	1131	297	0.00011052166224580017
+zabihah animal	cow	1	1	8	8	0.125000000000	NULL	NULL	2651	523	0.00004715201810637495
+zabihah animal	game bird	1	1	8	8	0.125000000000	NULL	NULL	39	20	0.003205128205128205
+zabihah animal	deer	1	1	8	8	0.125000000000	NULL	NULL	4037	801	0.000030963586821897446
+zac brown band's famous single	Chicken Fried	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zachary's illness	common cold	1	1	2	2	NULL	NULL	NULL	1119	242	0.00044682752457551384
+zachary's illness	ear infection	1	1	2	2	NULL	NULL	NULL	597	177	0.0008375209380234506
+Zadkine's mature work	complex sculpture Birth of Forms	1	1	1	1	NULL	NULL	NULL	1	1	1
+zagg's product	invisibleSHIELD coatings for iPhone screen	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaghawa leader	Mini Minnawi	1	1	1	1	NULL	NULL	NULL	1	1	1
+zagreb energy official	Davor Stern	1	1	1	1	NULL	NULL	NULL	1	1	1
+zagros mountain pick	Shah Neshin in west	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaha hadid s futuristic building	flamboyant new Guangzhou Opera House	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zaha hadid's futuristic building	flamboyant new Guangzhou Opera House	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zahiri scholar	Abu Dawud az-zahiri	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaia application	rituximab treatment of type cryoglobulinemia	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaibatsu	Mitsui	3	3	8	6	0.500000000000	NULL	NULL	97	70	0.011597938144329897
+zaibatsu	Mitsui Mitsubishi	1	1	8	6	0.500000000000	NULL	NULL	1	1	0.125
+zaibatsu	Nichitsu	1	1	8	6	0.500000000000	NULL	NULL	1	1	0.125
+zaibatsu	so-called taisho zaibatsu	1	1	8	6	0.500000000000	NULL	NULL	1	1	0.125
+zaibatsu	Mitsubishi shrji	1	1	8	6	0.500000000000	NULL	NULL	1	1	0.125
+zaibatsu	Mori	1	1	8	6	0.500000000000	NULL	NULL	14	13	0.008928571428571428
+zaibatsu family	Mitsubishi	1	1	4	4	0.333333333333	NULL	NULL	1115	455	0.0002242152466367713
+zaibatsu family	Mitsui	1	1	4	4	0.333333333333	NULL	NULL	97	70	0.002577319587628866
+zaibatsu family	Yasuda	1	1	4	4	0.333333333333	NULL	NULL	7	6	0.03571428571428571
+zaibatsu family	japanese zaibatsu family	1	1	4	4	0.333333333333	NULL	NULL	2	2	0.125
+zaibatsu firm	Kobe	1	1	2	2	NULL	NULL	NULL	125	64	0.004
+zaibatsu firm	Kawasaki	1	1	2	2	NULL	NULL	NULL	278	128	0.0017985611510791368
+zaibatsu group	Sumitomo	1	1	2	2	NULL	NULL	NULL	123	90	0.0040650406504065045
+zaibatsu group	Mitsui	1	1	2	2	NULL	NULL	NULL	97	70	0.005154639175257732
+zaidi group	Hamzah sharifs	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaidi jurist	al Hadi	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zaiger rootstocks	Viking	1	1	1	1	NULL	NULL	NULL	228	125	0.0043859649122807015
+zainichi	high-tech entrepreneur Masayoshi Son	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaishen combat area	Zaishen Challenge	1	1	1	1	NULL	NULL	NULL	1	1	1
+zak interview various person	elderly Ray Gaughenbaugh	1	1	1	1	NULL	NULL	NULL	1	1	1
+zakharan god	Lotha	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zakharan god	Selan the Beautiful Moon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zakopane attraction	Krupowki Street	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zakopane attraction	Zakopane Art Gallery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zakopane souvenir	oscypek	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+zakopane souvenir	ciupaga	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Zalambdalestids	Zalambdalestes	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zales	Lunate Zale	2	1	2	1	NULL	NULL	NULL	2	1	1
+zalman cooler	Zalman NC2000	1	1	1	1	NULL	NULL	NULL	1	1	1
+zalman power supply	Zalman ZM750-HP	1	1	1	1	NULL	NULL	NULL	1	1	1
+zalman product	Reserator 1	1	1	1	1	NULL	NULL	NULL	1	1	1
+zam-buk product	multi-purpose Body Oil	1	1	1	1	NULL	NULL	NULL	1	1	1
+zam-implicit, often unconscious cognitive structure	studied by structural	1	1	1	1	NULL	NULL	NULL	1	1	1
+zamac product	keychain	1	1	1	1	1.000000000000	NULL	NULL	53	59	0.018867924528301886
+zamak related offer	Zamak Casting	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zamak related offer	Lever Handle Lock	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zambia development agency official	chief executive officer Andrew Chipwende	1	1	1	1	NULL	NULL	NULL	1	1	1
+zambia independent newspaper	Weekly Post	1	1	1	1	NULL	NULL	NULL	1	1	1
+zambia s better-known neighbor	South Africa	1	1	2	2	NULL	NULL	NULL	6612	966	0.00007562008469449486
+zambia s better-known neighbor	Botswana	1	1	2	2	NULL	NULL	NULL	1495	229	0.00033444816053511704
+zambia's general health indicator	maternal mortality	1	1	2	2	NULL	NULL	NULL	94	49	0.005319148936170213
+zambia's general health indicator	life expectancy	1	1	2	2	NULL	NULL	NULL	710	238	0.0007042253521126761
+zambia's largest trade partner	South Africa	1	1	1	1	NULL	NULL	NULL	6612	966	0.00015124016938898973
+zambia's major export	raw material	1	1	2	2	NULL	NULL	NULL	588	245	0.0008503401360544217
+zambia's major export	copper	1	1	2	2	NULL	NULL	NULL	15607	2840	0.000032036906516306786
+zambia's major tourist site	national park	1	1	1	1	NULL	NULL	NULL	621	255	0.001610305958132045
+zambia's national development policy	decentralization	1	1	2	2	0.500000000000	NULL	NULL	248	138	0.0020161290322580645
+zambia's national development policy	market liberalization	1	1	2	2	0.500000000000	NULL	NULL	26	18	0.019230769230769232
+zambia's neighbor	Mozambique	2	2	6	3	NULL	NULL	NULL	1369	216	0.0004869734599464329
+zambia's neighbor	Angola	2	2	6	3	NULL	NULL	NULL	1247	262	0.0005346164127238706
+zambia's neighbor	Namibia	2	2	6	3	NULL	NULL	NULL	850	154	0.000784313725490196
+zambia's strong economic fundamental	single digit inflation	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zambia's virtue	equality	1	1	5	5	NULL	NULL	NULL	1205	414	0.00016597510373443983
+zambia's virtue	unity	1	1	5	5	NULL	NULL	NULL	371	165	0.0005390835579514825
+zambia's virtue	justice	1	1	5	5	NULL	NULL	NULL	2127	641	0.00009402914903620123
+zambia's virtue	freedom	1	1	5	5	NULL	NULL	NULL	1484	472	0.00013477088948787063
+zambia's virtue	peace	1	1	5	5	NULL	NULL	NULL	1081	393	0.00018501387604070307
+zambia's wetland	Chikuni in Kafue national park	3	1	10	4	1.000000000000	NULL	NULL	3	1	0.3
+zambia's wetland	Ramsar Sites of Bangweulu Flats	3	1	10	4	1.000000000000	NULL	NULL	3	1	0.3
+zambia's wetland	Blue Lagoon	2	1	10	4	1.000000000000	NULL	NULL	27	22	0.014814814814814815
+zambia's wetland	Lochinvar	2	1	10	4	1.000000000000	NULL	NULL	3	2	0.13333333333333333
+zambian characteristic	dualistic economy	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+zambian characteristic	widespread poverty	1	1	3	3	1.000000000000	NULL	NULL	41	19	0.008130081300813007
+zambian characteristic	dependence on copper	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+zambian foodstuff	fish	1	1	3	3	NULL	NULL	NULL	12757	2977	0.000026129445271876875
+zambian foodstuff	vegetable	1	1	3	3	NULL	NULL	NULL	11661	2612	0.00002858531286624932
+zambian foodstuff	fruit	1	1	3	3	NULL	NULL	NULL	15318	3376	0.000021760891326108717
+zambian government document	Poverty Reduction Strategy Paper	1	1	1	1	1.000000000000	NULL	NULL	12	12	0.08333333333333333
+zambian man	Chilufya's father	1	1	1	1	NULL	NULL	NULL	1	1	1
+zambian national policy	PRSP	1	1	1	1	1.000000000000	NULL	NULL	25	19	0.04
+zambian player	Jones Chilengi	1	1	1	1	NULL	NULL	NULL	1	1	1
+zambian shipper	Zambia Consolidated Copper Mines	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zambian water fall	Victoria Falls	1	1	1	1	NULL	NULL	NULL	56	35	0.017857142857142856
+zambias social indicator	life expectancy	1	1	2	2	NULL	NULL	NULL	710	238	0.0007042253521126761
+zambias social indicator	school enrollment	1	1	2	2	NULL	NULL	NULL	54	31	0.009259259259259259
+zamboanga speciality	meaty curacha	1	1	1	1	NULL	NULL	NULL	1	1	1
+zamboanga's landmark	Plaza Pershing	1	1	1	1	NULL	NULL	NULL	1	1	1
+zamia collection piece	pate knife	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+zamia collection piece	napkin ring	1	1	2	2	0.500000000000	NULL	NULL	86	52	0.005813953488372093
+zamindaries	Midnapore in West Bengal	1	1	1	1	NULL	NULL	NULL	1	1	1
+zammit's writing	Prolusione al Corso di Filosofija	1	1	1	1	NULL	NULL	NULL	1	1	1
+zamorak item	zammy d'hide top	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zamorak item	unholy symbol	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zamorak item	zamorak cape	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+zamorak item	zammy d'hide bottom	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Zamorakians	Dagon hai in Varrock	1	1	1	1	NULL	NULL	NULL	1	1	1
+zamperla ride	confirmed Giant Discovery	1	1	1	1	NULL	NULL	NULL	1	1	1
+zanabazar's sculpture	Manal	1	1	1	1	NULL	NULL	NULL	1	1	1
+zanardi team official driver	Luigi Giacomello	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zanardi team official driver	Nick De Vries	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zandvoort attraction	Circuit Park Zandvoort	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zandvoort attraction	Circus Zandvoort	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zane grey's novel	Riders of the Purple Sage	3	3	3	1	NULL	NULL	NULL	7	4	0.42857142857142855
+zane novel	Sister of the APF	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zaner-Bloser Literacy series	Plane Geometry	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+zanesville time recorder illness	pertussis	1	1	2	2	0.500000000000	NULL	NULL	222	66	0.0022522522522522522
+zanesville time recorder illness	severe cold	1	1	2	2	0.500000000000	NULL	NULL	27	19	0.018518518518518517
+zang organ	Spleen	1	1	2	3	NULL	NULL	NULL	689	165	0.000725689404934688
+zang organ	Heart	1	1	2	3	NULL	NULL	NULL	4575	1258	0.0001092896174863388
+zangoose defeat priority user	Blaziken	1	1	2	2	1.000000000000	NULL	NULL	18	8	0.027777777777777776
+zangoose defeat priority user	Absol	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+Zangos	Zinder	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+zaniest bit	Bjork singing about the housing market	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zanja resampling technique	jackknife	1	1	2	2	NULL	NULL	NULL	75	37	0.006666666666666667
+zanja resampling technique	bootstrap	1	1	2	2	NULL	NULL	NULL	132	64	0.003787878787878788
+zante hotel chain	Louis	1	1	2	2	1.000000000000	NULL	NULL	24	21	0.020833333333333332
+zante hotel chain	Iberostar hotel	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Zantedeschia species	Arum lily	1	1	1	1	1.000000000000	NULL	NULL	24	21	0.041666666666666664
+zanu big wig	Sydney Sekeramayi	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+zanu big wig	Ambrose Mutinhiri	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+zanu PF official	Patrick Chinamasa	1	1	1	1	NULL	NULL	NULL	1	1	1
+ZANU-PF supporter	Didymus Mutasa	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zany activity	wet t-shirt contest	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+zany between-innings promotion	Mascot Race with the loveable Ruppert	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+zany between-innings promotion	Effa	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+zany celebration	Return of the Mud Daubers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zany celebration	first Texas women only chili cook-off	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zany celebration	Luckenbach World's Fair	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+zany character	Trudy Truelove	2	2	12	10	1.000000000000	NULL	NULL	2	1	0.16666666666666666
+zany character	Evil Baron of Rhinebeck	2	2	12	10	1.000000000000	NULL	NULL	2	1	0.16666666666666666
+zany character	Captain Hero	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zany character	Big Professor	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zany character	Orthodox Jewish Rapper	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zany character	Dr. Gesundheit	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zany character	Miriam	1	1	12	10	1.000000000000	NULL	NULL	44	17	0.0018939393939393938
+zany character	Foxxy Love	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zany character	colorful and zany character	1	1	12	10	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+zany character	Princess Clara	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+zany classic character	Roger	1	1	1	1	1.000000000000	NULL	NULL	18	23	0.05555555555555555
+zany editor	Major Mike	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zany editor	Dan Elektro	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zany entertainment	male bikini contest judged by celebrity	2	1	2	1	NULL	NULL	NULL	2	1	1
+zany flavor	Strawberry Hot	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zany flavor	Honey mustard	1	1	3	3	NULL	NULL	NULL	80	25	0.004166666666666667
+zany flavor	Raspberry Chipotle	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zany idea	abolishing money	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zany idea	ritzy rosette earring	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zany item	plastic surgery kit	1	1	1	1	NULL	NULL	NULL	1	1	1
+zany letter	wum	1	1	1	1	NULL	NULL	NULL	1	1	1
+zany memorabilia	Yankees-Mets checkers game	1	1	1	1	NULL	NULL	NULL	1	1	1
+zany on-reel feature	Repeating Click-Mes	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+zany on-reel feature	Free Spins	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+zany red wine	Zinfandel	1	1	1	1	NULL	NULL	NULL	198	82	0.005050505050505051
+zany snack	spaghetti taco	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zany snack	smoothie	1	1	2	2	NULL	NULL	NULL	424	193	0.0011792452830188679
+zany style	bunches of grape	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+zany venue	zoo	1	1	1	1	NULL	NULL	NULL	873	369	0.001145475372279496
+zany weapon	wheel glue	1	1	1	1	NULL	NULL	NULL	1	1	1
+zany winter sport	glacier walking	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+zany-colored animal print	hot pink leopard print	1	1	1	1	NULL	NULL	NULL	1	1	1
+zanzibar director	Daniel Pommereulle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zanzibar director	Jackie Raynal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zanzibar's famous household name	Freddie Mercury	1	1	1	1	1.000000000000	NULL	NULL	50	31	0.02
+zao	partial ganran zao	1	1	1	1	NULL	NULL	NULL	1	1	1
+zap PRAM PRAM store setting	time	1	1	3	3	NULL	NULL	NULL	8851	2418	0.000037660528000602565
+zap PRAM PRAM store setting	startup device	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zap PRAM PRAM store setting	date	1	1	3	3	NULL	NULL	NULL	5860	1522	0.00005688282138794084
+zap shape	Rocketfish	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+zap-70-mediated pathway	association of linker for activation of T cells with PLCgamma	1	1	1	1	NULL	NULL	NULL	1	1	1
+zap1 target gene	ADH4	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+zapatero's socialist government's reform	homosexual marriage	1	1	1	1	1.000000000000	NULL	NULL	29	22	0.034482758620689655
+zapf dingbat character	diamond	1	1	1	1	NULL	NULL	NULL	2545	954	0.0003929273084479371
+zapf product	doll Baby Born	1	1	1	1	NULL	NULL	NULL	1	1	1
+zapf publication	Orbis Typographicus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zapf publication	Typographic Variations	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zapf publication	Poetry Through Typography	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zapf's most popular typeface	Zapf Chancery	1	1	4	4	0.333333333333	NULL	NULL	4	4	0.0625
+zapf's most popular typeface	Zapf Dingbats	1	1	4	4	0.333333333333	NULL	NULL	12	8	0.020833333333333332
+zapf's most popular typeface	Optima	1	1	4	4	0.333333333333	NULL	NULL	79	42	0.0031645569620253164
+zapf's most popular typeface	Palatino	1	1	4	4	0.333333333333	NULL	NULL	99	49	0.0025252525252525255
+ZAPI service	Windows Live Hotmail	1	1	1	1	1.000000000000	NULL	NULL	44	35	0.022727272727272728
+zapinmanywaysenablingittocheckpointandrestart complex application	database	1	1	2	2	NULL	NULL	NULL	2989	1163	0.00016728002676480428
+zapinmanywaysenablingittocheckpointandrestart complex application	MPI application	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zapotecs	Maximino Ramirez	1	1	1	1	NULL	NULL	NULL	1	1	1
+zapovedniki	Crimean	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+Zapovedniks	Kavkazsky	1	1	1	1	NULL	NULL	NULL	1	1	1
+zapp user	student	1	1	2	2	NULL	NULL	NULL	1517	635	0.0003295978905735003
+zapp user	local coordinator	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zappa album	Chunga's Revenge	2	2	3	2	NULL	NULL	NULL	4	3	0.3333333333333333
+zappa album	Chunga s Revenge	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+zappa musician	Ike Willis	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+zappa musician	Mike Keneally	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+zappa recording	Steve Mann & Mac Rebennack	1	1	1	1	NULL	NULL	NULL	1	1	1
+zappa's later project	Jazz from Hell	1	1	1	1	NULL	NULL	NULL	1	1	1
+Zappa's non-vocal work	Chunga's Revenge	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+zapper	high-powered ``germ'' zapper	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+zapper	original Clark	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+zappos benefit	100 percent medical coverage for employee	1	1	1	1	NULL	NULL	NULL	1	1	1
+zappos perk	free food	1	1	2	2	1.000000000000	NULL	NULL	54	29	0.009259259259259259
+zappos perk	big employee discount	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ZAPU leader	Herbert Chitepo	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZAPU leader	Reverend Ndabaningi Sithole	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZAPU leader	Nkomo	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+zara spook type stick bait	Hydro Pencils	1	1	1	1	NULL	NULL	NULL	1	1	1
+zara's closest competitor	Swedish label H&M	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zara's closest competitor	UK's Top Shop	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zara's closest competitor	US's Gap	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+zarah side effect	pulmonary embolism	1	1	1	1	NULL	NULL	NULL	418	151	0.0023923444976076554
+zardari's civilian political enemy	opposition leader Imran Kahn	4	4	4	1	NULL	NULL	NULL	4	1	1
+zardari's various comment	no-first-use of n-weapons	1	1	1	1	NULL	NULL	NULL	1	1	1
+zari handicraft	zari bag	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zari handicraft	zari purse	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zari handicraft christmas decoration item	Christmas ball	1	1	2	2	0.666666666666	NULL	NULL	33	26	0.015151515151515152
+zari handicraft christmas decoration item	decoration	1	1	2	2	0.666666666666	NULL	NULL	706	321	0.000708215297450425
+zarick with tool	e-mail	1	1	1	1	NULL	NULL	NULL	4959	1772	0.00020165355918531962
+zarim	Balaam	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+zarim	Naaman	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+zarzuelas	Maria la O	1	1	1	1	NULL	NULL	NULL	1	1	1
+zations	successful direct zations	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+zations	international organi zations	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+zations	casewise business modeling software zations	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+zations	mass organi zations	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+zations	intergovernmental organi zations	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+zations	national tour association	1	1	8	8	NULL	NULL	NULL	4	3	0.03125
+zations	national organi zations	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+zations	NACE International	1	1	8	8	NULL	NULL	NULL	4	4	0.03125
+Zawiyas	Adhamiya	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Zawiyas	Mawlawiya	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Zaxis startup code	Zhom	1	1	1	1	NULL	NULL	NULL	1	1	1
+zaza-mushi, canned insect	baby bee	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+zazzle product	invitation card	1	1	1	1	1.000000000000	NULL	NULL	36	32	0.027777777777777776

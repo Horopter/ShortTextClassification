@@ -1,0 +1,701 @@
+NY accent	Italian NY accent	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY accent	Jewish NY accent	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY accent	upstate NY accent	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY area location	Newark	1	1	1	1	NULL	NULL	NULL	366	121	0.00273224043715847
+NY band	Internal Bleeding	1	1	1	1	0.500000000000	NULL	NULL	101	50	0.009900990099009901
+NY bank	JP Morgan	2	2	3	2	NULL	NULL	NULL	477	192	0.002795248078266946
+NY bank	JPMorgan	1	1	3	2	NULL	NULL	NULL	229	96	0.0014556040756914118
+NY borough	Bronx	1	1	3	3	NULL	NULL	NULL	75	43	0.0044444444444444444
+NY borough	Bedstuy	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY borough	Queens	1	1	3	3	NULL	NULL	NULL	80	47	0.004166666666666667
+NY brand	Hofmann's	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+NY brand	Sahlen's	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+NY brand	Stahl-Meyer	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+NY brand	Karl Ehmer	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+NY brand	Hartmann's	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+NY brand	Weber	1	1	8	8	0.500000000000	NULL	NULL	226	105	0.0005530973451327434
+NY brand	Golden D	1	1	8	8	0.500000000000	NULL	NULL	1	1	0.125
+NY brand	Schaller	1	1	8	8	0.500000000000	NULL	NULL	15	13	0.008333333333333333
+NY business	Hilde Gerst Galleries	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY business	Hammer Galleries	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY business	Dyansen Galleries	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY business	Museum of Modern Art	1	1	4	4	NULL	NULL	NULL	145	68	0.0017241379310344827
+ny challenge s	mainta ining a n experience d inte rviewe r workf o rce	1	1	1	1	NULL	NULL	NULL	1	1	1
+NY channel	WNET	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+ny charge	import duty	1	1	2	2	NULL	NULL	NULL	101	37	0.0049504950495049506
+ny charge	customs cost	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ny chart	weekly	1	1	2	2	NULL	NULL	NULL	314	203	0.0015923566878980893
+ny chart	monthly	1	1	2	2	NULL	NULL	NULL	321	210	0.001557632398753894
+NY cheese shop	Bedford Cheese Shop	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+NY cheese shop	Formaggio Essex	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NY City Council budget crafters	Speaker Christine Quinn	1	1	1	1	NULL	NULL	NULL	1	1	1
+NY city ensemble	Speculum Musicae	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+NY city ensemble	Orpheus Chamber Orchestra	1	1	5	5	NULL	NULL	NULL	7	4	0.028571428571428574
+NY city ensemble	Gotham Symphony Orchestra	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NY city ensemble	American Symphony Orchestra	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+NY city ensemble	Metropolitan Opera Orchestra	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+NY collectible	luxury writing pen	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NY collectible	civil war photograph	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+NY collectible	jewelry	1	1	5	5	NULL	NULL	NULL	7848	1759	0.000025484199796126402
+NY collectible	comic book	1	1	5	5	NULL	NULL	NULL	264	162	0.0007575757575757576
+NY collectible	vintage Barbie doll	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NY college	Columbia University	1	1	1	1	NULL	NULL	NULL	156	64	0.00641025641025641
+NY company	Plug Power	1	1	1	1	1.000000000000	NULL	NULL	24	9	0.041666666666666664
+ny construction element	garage	1	1	3	3	NULL	NULL	NULL	2179	772	0.00015297537096527458
+ny construction element	deck	1	1	3	3	NULL	NULL	NULL	1517	548	0.0002197319270490002
+ny construction element	bulkhead	1	1	3	3	NULL	NULL	NULL	169	111	0.0019723865877712033
+NY cosmetic dental service	veneer	1	1	2	2	NULL	NULL	NULL	686	256	0.0007288629737609329
+NY cosmetic dental service	teeth whitening	1	1	2	2	NULL	NULL	NULL	960	180	0.0005208333333333333
+NY deli	Katz's	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NY democrat	Horatio Seymour	1	1	1	1	NULL	NULL	NULL	1	1	1
+NY DJs	Clue	1	1	1	1	NULL	NULL	NULL	110	41	0.00909090909090909
+NY employer	contractor	1	1	2	2	0.200000000000	NULL	NULL	802	358	0.0006234413965087282
+NY employer	restaurant	1	1	2	2	0.200000000000	NULL	NULL	11422	2864	0.00004377517072316582
+NY fee	museum admission	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ny food item s	stew s. W ill b e w elcom ed	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ny food item s	w hole m eals	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ny food item s	soup	1	1	3	3	NULL	NULL	NULL	3408	1059	0.00009780907668231611
+NY historian	Steve M.	1	1	1	1	NULL	NULL	NULL	1	1	1
+ny home improvement	fence	1	1	2	2	NULL	NULL	NULL	2735	975	0.00018281535648994517
+ny home improvement	swimming pool	1	1	2	2	NULL	NULL	NULL	5047	1164	0.00009906875371507826
+NY hotspot	Peppermint Lounge	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NY hotspot	Wagon Wheels	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+ny illegal controlled substance	marijuana	1	1	2	2	NULL	NULL	NULL	2439	343	0.0002050020500205002
+ny illegal controlled substance	cocaine	1	1	2	2	NULL	NULL	NULL	4833	580	0.00010345541071798055
+NY Judith A.	Lavinia Dock	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NY knicks legendary player	Walt Frazier	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+NY knicks legendary player	Allan Houston	1	1	2	2	1.000000000000	NULL	NULL	11	7	0.045454545454545456
+NY legend	Lord Tariq	1	1	6	6	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+NY legend	Rob-O	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+NY legend	Roc Marciano	1	1	6	6	0.500000000000	NULL	NULL	3	3	0.05555555555555555
+NY legend	Freestyle Professors	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+NY legend	El Da Sensei	1	1	6	6	0.500000000000	NULL	NULL	6	4	0.027777777777777776
+NY legend	Diamond D	1	1	6	6	0.500000000000	NULL	NULL	8	7	0.020833333333333332
+NY limo	Escalade Limousine	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NY local	Brownstone Buddies	1	1	1	1	NULL	NULL	NULL	1	1	1
+ny naked flame source s	lighted candle	1	1	1	1	1.000000000000	NULL	NULL	157	16	0.006369426751592357
+NY natural heritage biologist	zoologist Jesse Jaycox	1	1	1	1	NULL	NULL	NULL	1	1	1
+ny professional group	psychologist	1	1	3	3	NULL	NULL	NULL	1496	407	0.0002228163992869875
+ny professional group	doctor	1	1	3	3	NULL	NULL	NULL	6593	1574	0.000050558673340411544
+ny professional group	solicitor	1	1	3	3	NULL	NULL	NULL	601	178	0.0005546311702717692
+NY railroad	MA&N	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY railroad	Buffalo Southern	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY railroad	LA&L	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY railroad	Adirondack Scenic	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY recording studio service	tracking	1	1	2	2	NULL	NULL	NULL	756	361	0.0006613756613756613
+NY recording studio service	producing	1	1	2	2	NULL	NULL	NULL	50	34	0.01
+ny resort	actual additional establishments of New York	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ny standard load balancer	Cisco Local Director	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+NY store	War Store	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NY store	century 21	1	1	4	4	NULL	NULL	NULL	111	63	0.0022522522522522522
+NY store	Adorama	1	1	4	4	NULL	NULL	NULL	40	31	0.00625
+NY store	department store	1	1	4	4	NULL	NULL	NULL	802	319	0.0003117206982543641
+NY studio	Van Beuren	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY studio	Carpenter-Goldman in Queens	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY studio	Jeff Studios	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NY supermarket	Stop & Shop	1	1	3	3	NULL	NULL	NULL	73	36	0.0045662100456621
+NY supermarket	Giant	1	1	3	3	NULL	NULL	NULL	334	185	0.000998003992015968
+NY supermarket	Wild Oats	1	1	3	3	NULL	NULL	NULL	101	52	0.0033003300330033
+NY time best-selling author	Dr. Dean Ornish	1	1	4	4	1.000000000000	NULL	NULL	29	18	0.008620689655172414
+NY time best-selling author	Dr. Christiane Northrup	1	1	4	4	1.000000000000	NULL	NULL	7	5	0.03571428571428571
+NY time best-selling author	Dr. Mark Liponis	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+NY time best-selling author	Mary Shomon	1	1	4	4	1.000000000000	NULL	NULL	4	2	0.0625
+NY time writer	Paul Krugman	1	1	1	1	NULL	NULL	NULL	259	107	0.003861003861003861
+NY venue	Lions Den	2	2	6	4	1.000000000000	NULL	NULL	5	4	0.13333333333333333
+NY venue	Knitting Factory	2	2	6	4	1.000000000000	NULL	NULL	83	29	0.008032128514056224
+NY venue	Arlene's Grocery	1	1	6	4	1.000000000000	NULL	NULL	9	9	0.018518518518518517
+NY venue	Crazy Donkey	1	1	6	4	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+NY's finest DJ	DJ Parallel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NY's finest DJ	Chris Falcone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ny-based fighter	Renzo Gracie	4	4	8	2	1.000000000000	NULL	NULL	12	7	0.16666666666666666
+ny-based fighter	Chris Weidman	4	4	8	2	1.000000000000	NULL	NULL	5	2	0.4
+NY-LA05-RD.1.6 use text feature	title	1	1	3	3	NULL	NULL	NULL	3119	1050	0.00010687186063909372
+NY-LA05-RD.1.6 use text feature	caption	1	1	3	3	NULL	NULL	NULL	278	126	0.001199040767386091
+NY-LA05-RD.1.6 use text feature	heading	1	1	3	3	NULL	NULL	NULL	319	175	0.001044932079414838
+NYAA operating authority	National University of Singapore	1	1	1	1	1.000000000000	NULL	NULL	46	26	0.021739130434782608
+Nyans	Nyan Cat	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+NYC agency	NYC Department of Transportation	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC artist	Melissa Reed	2	1	2	1	NULL	NULL	NULL	2	1	1
+NYC attraction	Grand Central Station	1	1	7	7	0.285714285714	NULL	NULL	37	27	0.0038610038610038607
+NYC attraction	Central Park	1	1	7	7	0.285714285714	NULL	NULL	261	134	0.0005473453749315818
+NYC attraction	Times Square	1	1	7	7	0.285714285714	NULL	NULL	294	138	0.00048590864917395527
+NYC attraction	Empire State Building	1	1	7	7	0.285714285714	NULL	NULL	404	186	0.00035360678925035356
+NYC attraction	Rockefeller Center	1	1	7	7	0.285714285714	NULL	NULL	121	71	0.0011806375442739079
+NYC attraction	Ground Zero	1	1	7	7	0.285714285714	NULL	NULL	35	18	0.004081632653061224
+NYC attraction	Statue of Liberty	1	1	7	7	0.285714285714	NULL	NULL	392	185	0.00036443148688046647
+NYC ballet production	Coppelia	1	1	4	4	0.666666666666	NULL	NULL	24	14	0.010416666666666666
+NYC ballet production	Circus Polka with Mikhail Baryshnikov	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+NYC ballet production	Midsummer Nights Dream	1	1	4	4	0.666666666666	NULL	NULL	9	8	0.027777777777777776
+NYC ballet production	Nutcracker	1	1	4	4	0.666666666666	NULL	NULL	172	86	0.0014534883720930232
+NYC band	Francis Flash	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYC band	Strokes	1	1	2	2	NULL	NULL	NULL	155	54	0.0032258064516129032
+NYC boutique friend	Les Nanas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYC boutique friend	Anna	1	1	2	2	NULL	NULL	NULL	80	52	0.00625
+NYC breakthrough player	John Alicea	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC breakthrough player	Mhet Vergara	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC breakthrough player	Oscar Bonilla	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC building	Citi building in midtown	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC choreographer	Stephan Koplowitz	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+NYC choreographer	Larry Keigwin	2	2	10	5	NULL	NULL	NULL	5	4	0.08
+NYC choreographer	Tina Croll	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+NYC choreographer	Daniel Gwirtzman	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+NYC choreographer	Shadow Box Theater	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+NYC club	Jazz Standard	2	2	23	19	0.750000000000	NULL	NULL	21	12	0.008281573498964804
+NYC club	Dizzy's & The Allen Room at Jazz at Lincoln Center	2	2	23	19	0.750000000000	NULL	NULL	2	1	0.08695652173913043
+NYC club	Smoke	2	2	23	19	0.750000000000	NULL	NULL	2086	724	0.00008337154529159198
+NYC club	Lenox Lounge	2	2	23	19	0.750000000000	NULL	NULL	3	2	0.057971014492753624
+NYC club	Gotham	1	1	23	19	0.750000000000	NULL	NULL	11	10	0.003952569169960474
+NYC club	Comix	1	1	23	19	0.750000000000	NULL	NULL	4	4	0.010869565217391304
+NYC club	Elbow Room	1	1	23	19	0.750000000000	NULL	NULL	4	4	0.010869565217391304
+NYC club	Carolines	1	1	23	19	0.750000000000	NULL	NULL	6	6	0.007246376811594203
+NYC club	Bitter End	1	1	23	19	0.750000000000	NULL	NULL	44	27	0.0009881422924901185
+NYC club	Living Room	1	1	23	19	0.750000000000	NULL	NULL	992	324	0.0000438288920056101
+NYC club	legendary CBGB's	1	1	23	19	0.750000000000	NULL	NULL	1	1	0.043478260869565216
+NYC club	Joe's Pub	1	1	23	19	0.750000000000	NULL	NULL	21	9	0.002070393374741201
+NYC club	Bottom Line	1	1	23	19	0.750000000000	NULL	NULL	26	21	0.0016722408026755853
+NYC club	Canal Room	1	1	23	19	0.750000000000	NULL	NULL	2	2	0.021739130434782608
+NYC club	CBGB's	1	1	23	19	0.750000000000	NULL	NULL	35	16	0.0012422360248447205
+NYC club	Cutting Room	1	1	23	19	0.750000000000	NULL	NULL	15	9	0.002898550724637681
+NYC club	Webster Hall	1	1	23	19	0.750000000000	NULL	NULL	24	10	0.0018115942028985507
+NYC club	Birdland	1	1	23	19	0.750000000000	NULL	NULL	58	29	0.0007496251874062968
+nyc club	legendary nyc club	1	1	23	19	0.750000000000	NULL	NULL	2	2	0.021739130434782608
+NYC cocktail juggernaut	Julie Reiner	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC deejay	Grandmaster Flash	2	1	2	1	1.000000000000	NULL	NULL	127	48	0.015748031496062992
+NYC designer	David Grill	4	4	9	3	NULL	NULL	NULL	4	1	0.4444444444444444
+NYC designer	Dennis Parichy	4	4	9	3	NULL	NULL	NULL	4	1	0.4444444444444444
+NYC designer	Andrea Boccanfuso	1	1	9	3	NULL	NULL	NULL	1	1	0.1111111111111111
+NYC engraver	Randa Kirshbaum	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC event	Macy's Thanksgiving Day Parade	1	1	2	2	1.000000000000	NULL	NULL	20	14	0.025
+NYC event	famous New Year's Eve ball drop in Times Square	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NYC fireman	Lou Cacchioli	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC government agency	ACS	1	1	1	1	NULL	NULL	NULL	165	87	0.006060606060606061
+NYC great	Moy Yat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC great	Peter Urban	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+NYC great	Ronald Van Clief	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC hair loss treatment	weave	1	1	1	1	0.500000000000	NULL	NULL	70	57	0.014285714285714285
+NYC hipster hangout	Bushwick Country Club	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+NYC hipster hangout	Breslin	2	2	4	2	NULL	NULL	NULL	4	3	0.25
+NYC hospital	Mt. Sinai	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05
+NYC hospital	NYP	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+NYC hot spot	La Pomme	2	2	15	11	1.000000000000	NULL	NULL	2	1	0.13333333333333333
+NYC hot spot	Hudson Terrace	2	2	15	11	1.000000000000	NULL	NULL	5	4	0.05333333333333333
+NYC hot spot	Webster Hall	2	2	15	11	1.000000000000	NULL	NULL	24	10	0.011111111111111112
+NYC hot spot	Santos Party House	2	2	15	11	1.000000000000	NULL	NULL	6	3	0.044444444444444446
+NYC hot spot	Empire Hotel Rooftop	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NYC hot spot	Chelsea Room	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NYC hot spot	Bar Basque at Eventi Hotel	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NYC hot spot	49 Grove	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NYC hot spot	Star Lounge at the Chelsea Hotel	1	1	15	11	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NYC hot spot	Bitter End	1	1	15	11	1.000000000000	NULL	NULL	44	27	0.0015151515151515152
+NYC hot spot	Kenny's Castaways	1	1	15	11	1.000000000000	NULL	NULL	10	5	0.006666666666666666
+NYC independent rap label	Tuff City	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NYC industry showcase	Blaze The Stage	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NYC industry showcase	Wild Out Wednesday	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NYC industry showcase	Faces In The Crowd	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+NYC jazz club	Tomi Jazz	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+NYC jazz club	Smalls	1	1	2	2	1.000000000000	NULL	NULL	15	7	0.03333333333333333
+NYC label	UQ	1	0	2	2	0.500000000000	NULL	NULL	14	12	0.03571428571428571
+NYC label	Deconstruct	1	0	2	2	0.500000000000	NULL	NULL	1	1	0.5
+NYC landmark	Brooklyn Bridge	2	2	13	11	0.333333333333	NULL	NULL	116	71	0.0026525198938992045
+NYC landmark	Grand Central	2	2	13	11	0.333333333333	NULL	NULL	24	20	0.012820512820512822
+NYC landmark	Central Park Zoo	1	1	13	11	0.333333333333	NULL	NULL	2	2	0.038461538461538464
+NYC landmark	Woolworth Building & The Ed Sullivan Theater	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+NYC landmark	New York Public Library	1	1	13	11	0.333333333333	NULL	NULL	63	33	0.001221001221001221
+NYC landmark	Beacon Theater	1	1	13	11	0.333333333333	NULL	NULL	8	4	0.009615384615384616
+NYC landmark	Empire State Bldg	1	1	13	11	0.333333333333	NULL	NULL	2	2	0.038461538461538464
+NYC landmark	Empire State Building	1	1	13	11	0.333333333333	NULL	NULL	404	186	0.0001904036557501904
+NYC landmark	Hampshire House	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+NYC landmark	Carnegie Hall	1	1	13	11	0.333333333333	NULL	NULL	221	80	0.0003480682213713888
+NYC landmark	Flatiron Building	1	1	13	11	0.333333333333	NULL	NULL	10	9	0.007692307692307693
+NYC law firm website	Sull Cro	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC location	Madison Square Park	1	1	2	2	1.000000000000	NULL	NULL	4	2	0.125
+NYC location	Bryant Park	1	1	2	2	1.000000000000	NULL	NULL	25	18	0.02
+NYC metropolitan newspaper	Newsday	1	1	1	1	1.000000000000	NULL	NULL	51	21	0.0196078431372549
+NYC music improviser	Perry Robinson	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NYC music improviser	Rashied Ali	1	1	2	2	NULL	NULL	NULL	8	5	0.0625
+NYC neighborhood	Midtown	1	1	3	3	1.000000000000	NULL	NULL	63	40	0.005291005291005291
+NYC neighborhood	Alphabet City apartment	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+NYC neighborhood	Inwood apartment	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+NYC neighborhood topic	helpful information about Upper West Side apartment	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC neighborhood topic	helpful commentary regarding NoHo apartment	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC neighborhood topic	helpful information regarding Upper West Side apartment	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYC nightclub	Tenjune	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+NYC photographer	Gregory Allen Deese	3	3	3	1	NULL	NULL	NULL	4	2	0.75
+NYC post-hardcore peer	Stillsuit	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC probably jewish bank	Bank Leumi	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NYC public official	borough president	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+NYC public official	comptroller	1	1	2	2	1.000000000000	NULL	NULL	24	18	0.020833333333333332
+NYC publication	Time Out	1	1	3	3	1.000000000000	NULL	NULL	35	29	0.009523809523809523
+NYC publication	Village Voice	1	1	3	3	1.000000000000	NULL	NULL	79	29	0.004219409282700422
+NYC publication	Paper Magazine	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+NYC real estate subject	Midtown West apartment	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NYC real estate subject	helpful information about Carnegie Hill apartment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYC real estate topic	Little Italy apartment	1	1	7	7	NULL	NULL	NULL	3	3	0.047619047619047616
+NYC real estate topic	Hell's Kitchen apartment	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+NYC real estate topic	Prospect Heights real estate	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC real estate topic	useful information regarding Washington Heights apartment	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC real estate topic	useful information about Lincoln Center apartment	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC real estate topic	helpful information regarding Alphabet City apartment	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC real estate topic	helpful information about Sutton Place apartment	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC restaurant	Jean-Georges	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NYC restaurant	La Esquina	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NYC restaurant	Osteria del Circo	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NYC restaurant	ABC Kitchen	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NYC restaurant	Blue Hill	1	1	8	8	1.000000000000	NULL	NULL	6	6	0.020833333333333332
+NYC restaurant	Grammercy Tavern	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NYC restaurant	Cellar in the Sky	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NYC restaurant	Rainbow Room	1	1	8	8	1.000000000000	NULL	NULL	10	5	0.0125
+NYC retailer	Dean & Deluca	1	1	2	2	0.500000000000	NULL	NULL	16	14	0.03125
+NYC retailer	Whole Foods	1	1	2	2	0.500000000000	NULL	NULL	1067	325	0.00046860356138706655
+NYC school record	diploma	1	1	3	3	NULL	NULL	NULL	419	182	0.0007955449482895783
+NYC school record	transcript	1	1	3	3	NULL	NULL	NULL	565	179	0.0005899705014749262
+NYC school record	report card	1	1	3	3	NULL	NULL	NULL	147	91	0.0022675736961451248
+NYC shirt	I Love NY	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+NYC shopping site	New York Magazine Sales & Bargains list event	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYC staple food	hot dog	1	1	1	1	NULL	NULL	NULL	2319	651	0.00043122035360068997
+NYC studio	Sagmeister Inc	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+NYC studio	Pentagram Design	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+NYC style service	therapeutic massage in the heart of suburbia	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+NYC style service	professional waxing	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+NYC subway souvenir	map	1	1	7	7	NULL	NULL	NULL	4332	1570	0.00003297717979158422
+NYC subway souvenir	bags & purse	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC subway souvenir	subway magnet	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC subway souvenir	Subway t-shirts	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC subway souvenir	poster	1	1	7	7	NULL	NULL	NULL	4712	1695	0.000030317729808391947
+NYC subway souvenir	NYC Subway Christmas ornament	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+NYC subway souvenir	jewelry	1	1	7	7	NULL	NULL	NULL	7848	1759	0.000018202999854376
+NYC summer league	Kingdome	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NYC turntablists	Frei	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NYC venue	Delancey	5	4	37	22	0.750000000000	NULL	NULL	6	2	0.11261261261261261
+NYC venue	Puppet's Jazz Bar	4	3	37	22	0.750000000000	NULL	NULL	4	1	0.10810810810810811
+NYC venue	National Underground	4	3	37	22	0.750000000000	NULL	NULL	7	4	0.06177606177606178
+NYC venue	Carlebach Shul	2	2	37	22	0.750000000000	NULL	NULL	2	1	0.05405405405405406
+NYC venue	legendary Blue Note	2	2	37	22	0.750000000000	NULL	NULL	2	1	0.05405405405405406
+NYC venue	Sidewalk Cafe	2	2	37	22	0.750000000000	NULL	NULL	33	26	0.003276003276003276
+NYC venue	Knitting Factory	2	2	37	22	0.750000000000	NULL	NULL	83	29	0.0013025073266037122
+NYC venue	Mercury Lounge	2	2	37	22	0.750000000000	NULL	NULL	24	13	0.0045045045045045045
+NYC venue	Spike Hill over the past year	1	1	37	22	0.750000000000	NULL	NULL	1	1	0.02702702702702703
+NYC venue	Pianos	1	1	37	22	0.750000000000	NULL	NULL	10	12	0.002702702702702703
+nyc venue	notable nyc venue	1	1	37	22	0.750000000000	NULL	NULL	2	2	0.013513513513513514
+NYC venue	Rockwood Music Hall	1	1	37	22	0.750000000000	NULL	NULL	16	11	0.0016891891891891893
+nyc venue	well-known nyc venue	1	1	37	22	0.750000000000	NULL	NULL	2	2	0.013513513513513514
+nyc venue	famous nyc venue	1	1	37	22	0.750000000000	NULL	NULL	2	2	0.013513513513513514
+nyc venue	fabulous nyc venue	1	1	37	22	0.750000000000	NULL	NULL	2	2	0.013513513513513514
+NYC venue	Club Cheetah	1	1	37	22	0.750000000000	NULL	NULL	1	1	0.02702702702702703
+NYC venue	Studio @ Webster Hall	1	1	37	22	0.750000000000	NULL	NULL	1	1	0.02702702702702703
+NYC venue	Living Room	1	1	37	22	0.750000000000	NULL	NULL	992	324	0.00002724498692240628
+NYC venue	legendary Shelter	1	1	37	22	0.750000000000	NULL	NULL	1	1	0.02702702702702703
+nyc venue	playing legendary nyc venue	1	1	37	22	0.750000000000	NULL	NULL	2	2	0.013513513513513514
+NYC venue	Pacha	1	1	37	22	0.750000000000	NULL	NULL	64	27	0.0004222972972972973
+NYC venue	Rockwood Music Hall & Galapagos	1	1	37	22	0.750000000000	NULL	NULL	1	1	0.02702702702702703
+nyc's conventional venue	Symphony Space	1	1	4	5	1.000000000000	NULL	NULL	17	7	0.014705882352941176
+nyc's conventional venue	Carnegie's Weill Hall	1	1	4	5	1.000000000000	NULL	NULL	4	3	0.0625
+nyc's conventional venue	Lincoln Center's Avery Fisher Hall	1	1	4	5	1.000000000000	NULL	NULL	2	2	0.125
+nyc's conventional venue	Merkin Hall	1	1	4	5	1.000000000000	NULL	NULL	20	8	0.0125
+nyc's favorite live band venue	CB's Gallery	1	1	5	5	1.000000000000	NULL	NULL	4	4	0.05
+nyc's favorite live band venue	Baggot Inn	1	1	5	5	1.000000000000	NULL	NULL	6	5	0.03333333333333333
+nyc's favorite live band venue	Bitter End	1	1	5	5	1.000000000000	NULL	NULL	44	27	0.004545454545454546
+nyc's favorite live band venue	Arlene's Grocery	1	1	5	5	1.000000000000	NULL	NULL	9	9	0.022222222222222223
+nyc's favorite live band venue	Kenny's Castaways	1	1	5	5	1.000000000000	NULL	NULL	10	5	0.02
+nyc's favorite spot	Club Love	3	3	6	2	1.000000000000	NULL	NULL	10	3	0.15
+nyc's favorite spot	Sullivan Room	3	3	6	2	1.000000000000	NULL	NULL	11	8	0.13636363636363635
+nyc's legendary club	Tunnel	1	1	2	2	NULL	NULL	NULL	832	414	0.0006009615384615385
+nyc's legendary club	Limelight	1	1	2	2	NULL	NULL	NULL	49	31	0.01020408163265306
+nyc's major tourist attraction	Macy's	1	1	4	4	0.500000000000	NULL	NULL	1817	404	0.0001375894331315355
+nyc's major tourist attraction	theater district	1	1	4	4	0.500000000000	NULL	NULL	26	17	0.009615384615384616
+nyc's major tourist attraction	Diamond District	1	1	4	4	0.500000000000	NULL	NULL	9	6	0.027777777777777776
+nyc's major tourist attraction	Times Square	1	1	4	4	0.500000000000	NULL	NULL	294	138	0.0008503401360544217
+nyc's neighboring city	Jersey City	1	1	2	2	0.500000000000	NULL	NULL	79	37	0.006329113924050633
+nyc's neighboring city	Hoboken	1	1	2	2	0.500000000000	NULL	NULL	36	21	0.013888888888888888
+nyc's premier house music venue	Sullivan Room	1	1	7	7	0.800000000000	NULL	NULL	11	8	0.012987012987012986
+nyc's premier house music venue	Pacha	1	1	7	7	0.800000000000	NULL	NULL	64	27	0.002232142857142857
+nyc's premier house music venue	Rebel	1	1	7	7	0.800000000000	NULL	NULL	50	38	0.002857142857142857
+nyc's premier house music venue	Le Souk	1	1	7	7	0.800000000000	NULL	NULL	4	3	0.03571428571428571
+nyc's premier house music venue	Cielo	1	1	7	7	0.800000000000	NULL	NULL	16	13	0.008928571428571428
+nyc's premier house music venue	Love	1	1	7	7	0.800000000000	NULL	NULL	4970	1397	0.000028743891922966368
+nyc's premier house music venue	Santos Party House	1	1	7	7	0.800000000000	NULL	NULL	6	3	0.023809523809523808
+nyc's top celebrity	Ivan Trump	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyc's top celebrity	late Pop-Art master	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYC's top DJ's	Spinone	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+NYC's top DJ's	DJ Precise	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+NYC's top DJ's	DJ Camilo	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NYC's top DJ's	Carl Blaze	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+NYC's top DJ's	Alex Sensation	1	1	5	5	NULL	NULL	NULL	4	2	0.05
+nyc's top jazz club	55 Bar	6	6	24	8	0.571428571428	NULL	NULL	13	8	0.11538461538461539
+nyc's top jazz club	Garage	5	5	24	8	0.571428571428	NULL	NULL	2179	772	0.0004780480342664831
+nyc's top jazz club	Kitano	5	5	24	8	0.571428571428	NULL	NULL	9	4	0.11574074074074076
+nyc's top jazz club	Zinc Bar	3	3	24	8	0.571428571428	NULL	NULL	8	6	0.046875
+nyc's top jazz club	Blue Note	2	2	24	8	0.571428571428	NULL	NULL	87	35	0.0019157088122605363
+nyc's top jazz club	Joe's Pub	1	1	24	8	0.571428571428	NULL	NULL	21	9	0.001984126984126984
+nyc's top jazz club	Dizzy's Club Coca-Cola	1	1	24	8	0.571428571428	NULL	NULL	5	4	0.008333333333333333
+nyc's top jazz club	Birdland	1	1	24	8	0.571428571428	NULL	NULL	58	29	0.0007183908045977011
+nyc-area university	Hunter College	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+nyc-based luminary	Peter Epstein	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nyc-based luminary	Ralph Alessi	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+NYC-DC train	Acela Express	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NYCDOE scholarship recipient	Teachers of Tomorrow	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+NYCDOE scholarship recipient	NYC Teaching Fellows	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+NYCDOH control measure	source reduction measure	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NYCHA player	lacrosse twins Troy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYCHA player	Troy-Von Young	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYCON educational event	Money for Mission Conference	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NYCON educational event	Build A Better Nonprofit Training Series	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NYCTINASTIC plant	Mimosa pudica	1	1	2	2	1.000000000000	NULL	NULL	11	7	0.045454545454545456
+NYCTINASTIC plant	Albizzia julibrissin	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NYDA programme	Business Development Services	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+nye county community	Pahrump	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+NYFA program	Developmental Opportunity Grants	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYFA program	Arts & Education Technical Assistance	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYFA program	NYFA Source Hotline for artist	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nyfanget fish	swordfish	1	1	2	2	NULL	NULL	NULL	1196	336	0.0004180602006688963
+nyfanget fish	squid	1	1	2	2	NULL	NULL	NULL	908	356	0.0005506607929515419
+NYFIX service	NYFIX Marketplace	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYGASP regular	Susan Case	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYGASP regular	Alan Hill	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYGEAR UP activity	college trip	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NYHC band	Stigmata	1	1	1	1	1.000000000000	NULL	NULL	33	23	0.030303030303030304
+nyi-2182013v1 state documentary transfer tax	New York's real property transfer tax	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+nyingma great perfection transmission	Vajrakilaya	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+nyingma great perfection transmission	Troma	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+nyingma great perfection transmission	Yeshe Tsogyel	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+nyingma lama	Lama Kunzang Dorje Rinpoche	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyingma lama	Lama Konchog Rinpoche	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyingma rime master	Jigme Tenpe Nyima	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyingma rime master	Patrul Rinpoche	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+nyingma textual lineage	Net of Magical Illusion tantra	1	0	1	1	NULL	NULL	NULL	1	1	1
+nyingtik cycle	Longchen Nyingtik	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NYISO stakeholder	utility	1	1	2	2	NULL	NULL	NULL	5186	1541	0.00009641342074816814
+NYISO stakeholder	power plant owner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYK customer	Toyota	1	1	2	2	NULL	NULL	NULL	4435	1095	0.00011273957158962796
+NYK customer	Subaru on delivering heavy stamping equipment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyko product	patented Worm Light	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+nyko product	patented Air Flo Controllers	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+nyko product	patented AirFlo Controllers	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+nylon	Nylon 6	5	3	17	11	0.750000000000	NULL	NULL	63	41	0.02334267040149393
+nylon	polycaprolactam	3	2	17	11	0.750000000000	NULL	NULL	10	7	0.052941176470588235
+nylon	low memory nylon	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	Robert Simmons White Sable	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	single number nylon	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	found on the outer layers of wetsuits	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	conventional aliphatic nylon	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	nylon 66	1	1	17	11	0.750000000000	NULL	NULL	17	15	0.0034602076124567475
+nylon	oxford weave nylon	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	Zytel 122L	1	1	17	11	0.750000000000	NULL	NULL	1	1	0.058823529411764705
+nylon	amorphous nylon	1	1	17	11	0.750000000000	NULL	NULL	4	3	0.014705882352941176
+nylon 6T resin	Polyphthalamide of Amoco	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon 6T resin	Arlen of Mitsui	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon bag	designer nylon bag	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon bag	stylish nylon bag	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon bag	shopping nylon bag	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon bag	colored nylon bag	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon based material	polyamide	1	1	1	1	NULL	NULL	NULL	402	195	0.0024875621890547263
+nylon belt	industrial Nylon Belts	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon belt	rubber module belt	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon belt	rubber Nylon Belts	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon belt	automobile Nylon Belts	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon belt	nylon fiber belt	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon brush	toothbrush for cleaning	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+nylon brush	old toothbrush	1	1	2	2	1.000000000000	NULL	NULL	37	13	0.013513513513513514
+nylon bushing	bushing 306a of FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon button related offer	Diamond Button	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+nylon button related offer	Brass Button	1	1	3	3	1.000000000000	NULL	NULL	18	17	0.018518518518518517
+nylon button related offer	Press Button	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+nylon cable item	cable terminal	4	3	24	7	1.000000000000	NULL	NULL	7	4	0.09523809523809523
+nylon cable item	wire connectors and joint	4	3	24	7	1.000000000000	NULL	NULL	4	1	0.16666666666666666
+nylon cable item	cable marker	4	3	24	7	1.000000000000	NULL	NULL	14	10	0.047619047619047616
+nylon cable item	cable clamp	4	3	24	7	1.000000000000	NULL	NULL	35	21	0.019047619047619046
+nylon cable item	cable gland	4	3	24	7	1.000000000000	NULL	NULL	28	20	0.023809523809523808
+nylon cable item	cable tie	3	3	24	7	1.000000000000	NULL	NULL	110	60	0.003409090909090909
+nylon cable item	cable tie s	1	1	24	7	1.000000000000	NULL	NULL	1	1	0.041666666666666664
+nylon camp shirt	Railriders Oasis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon camp shirt	Columbia Silver Ridge	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon camping fly	Integral Designs Siltarp	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon carpet	DuPont StainMaster	1	1	1	1	NULL	NULL	NULL	1	1	1
+Nylon clothing	jacket	3	3	5	3	NULL	NULL	NULL	1820	757	0.000989010989010989
+Nylon clothing	raincoat	1	1	5	3	NULL	NULL	NULL	70	48	0.002857142857142857
+Nylon clothing	shell suit	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+Nylon cord	fishing line	3	2	3	1	1.000000000000	NULL	NULL	119	55	0.025210084033613446
+nylon element	patch	2	2	4	2	NULL	NULL	NULL	2709	504	0.00036913990402362494
+nylon element	strip of nylon	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+nylon fabric	used in women's hosiery	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon fabric	Gore-Tex	1	1	5	5	NULL	NULL	NULL	142	96	0.0014084507042253522
+nylon fabric	nylon georgette fabric	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon fabric	fancy Nylon Fabrics	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon fabric	woven Nylon Fabrics	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+nylon fiber product	fine metal on the surface reflectivity	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon filament fabric	nylon tricot lingerie	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon filter fabric	monofilament nylon filter fabric	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon filter fabric	multifilament nylon filter fabric	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon garment	jacket	1	1	1	1	NULL	NULL	NULL	1820	757	0.0005494505494505495
+nylon good	backpack	1	1	2	2	NULL	NULL	NULL	1195	334	0.00041841004184100416
+nylon good	tactical produsct	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon hair net related offer	Tube Bag	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+nylon hair net related offer	Toilet Tissue Paper	1	1	3	3	1.000000000000	NULL	NULL	10	8	0.03333333333333333
+nylon hair net related offer	Venous Catheter	1	1	3	3	1.000000000000	NULL	NULL	15	10	0.02222222222222222
+nylon homopolymers	nylon 6	1	1	1	1	1.000000000000	NULL	NULL	63	41	0.015873015873015872
+nylon item	sport bag	1	1	2	2	NULL	NULL	NULL	2	14	0.25
+nylon item	T-Shirts	1	1	2	2	NULL	NULL	NULL	785	301	0.0006369426751592356
+nylon lace	come in the LL Bean blucher mocs	1	1	1	1	NULL	NULL	NULL	1	1	1
+Nylon lingerie	primadonna lingerie	3	3	3	1	NULL	NULL	NULL	3	1	1
+nylon material	nylon 6	2	1	2	1	1.000000000000	NULL	NULL	63	41	0.031746031746031744
+nylon material fastener	cable tie	1	1	2	2	NULL	NULL	NULL	110	60	0.004545454545454545
+nylon material fastener	threaded nylon screw	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon membrane	GeneScreen@ supplied by Du Pont	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon membrane	GeneScreenTM supplied by DuPont	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon message flag	blue flag	1	1	3	3	0.333333333333	NULL	NULL	27	20	0.012345679012345678
+nylon message flag	red	1	1	3	3	0.333333333333	NULL	NULL	9245	2185	0.000036055525509284295
+nylon message flag	white	1	1	3	3	0.333333333333	NULL	NULL	6155	1632	0.00005415651232060655
+nylon monomer	2-azacyclododecanone	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+nylon monomer	1,8-diazacyclotetradecane-2 ,7-dione	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+nylon monomer	2-azacyclotridecanone	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+nylon monomer	caprolactam	1	1	5	5	1.000000000000	NULL	NULL	12	10	0.016666666666666666
+nylon monomer	valerolactam	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+nylon net	basket ball nylon net	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon object	nylon frisbees	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon pad	green	2	2	4	3	NULL	NULL	NULL	6694	1904	0.00014938751120406333
+nylon pad	coarse Scotch-Brite	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+nylon pad	coarse Scotch absorbed by the wood	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+nylon pantie	nylon hipster pantie	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon part	frame corner	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Nylon polymer	nylon 6	1	1	1	1	1.000000000000	NULL	NULL	63	41	0.015873015873015872
+nylon powder	glass-filled nylon	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+nylon producer	Li Peng	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+nylon product	carpet	1	1	5	5	0.333333333333	NULL	NULL	3397	1059	0.0000588754783632617
+nylon product	high multi-filament yarn	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+nylon product	tire	1	1	5	5	0.333333333333	NULL	NULL	2102	655	0.00009514747859181732
+nylon product	nylon rod	1	1	5	5	0.333333333333	NULL	NULL	6	4	0.03333333333333333
+nylon product	nylon jacket	1	1	5	5	0.333333333333	NULL	NULL	7	7	0.028571428571428574
+nylon resin	ordinary nylon resin	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nylon resin	Nylatron GS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon rod	industrial Nylon Rods	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon rod	fabricated Nylon Rods	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon rod	customized Nylon Rods	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon rod	nylon square rod	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nylon rope	plain nylon rope	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+nylon rope	sturdy nylon rope	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+nylon rope	nylon solid braided rope	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+nylon rope combination	nylon cotton rope	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon rope related offer	Circular Mesh Bag	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+nylon scrubber pad	Scotch-Brite	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+nylon sheet	industrial nylon sheet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon sheet	engineering nylon sheet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon short	solid color athletic short	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+nylon short	soccer short	1	1	2	2	1.000000000000	NULL	NULL	59	55	0.00847457627118644
+nylon shrimp	Heterocarpus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon shrimp	deep sea shrimp Acanthephyra	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon sleeve	312 a shown in FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon string guitar	folk	1	1	1	1	NULL	NULL	NULL	280	87	0.0035714285714285713
+nylon syn gut	Prince Syn Gut	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon syn gut	Gosen Sheep Micro	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nylon system	amorphous nylon	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+nylon system	nylon MXD6 nanocomposite	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+nylon thread	fly tying thread	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon thread related offer	Embroidery Thread	1	1	2	2	1.000000000000	NULL	NULL	22	18	0.022727272727272728
+nylon thread related offer	Nylon Fabric	1	1	2	2	1.000000000000	NULL	NULL	30	24	0.016666666666666666
+nylon tool	spudger	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+nylon tube compression fitting	straight union	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nylon tube compression fitting	flanged sleeve	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nylon tube compression fitting	nut	1	1	3	3	NULL	NULL	NULL	5171	1477	0.00006446206407529168
+nylon tube related offer	Solar Vacuum Tube	1	1	3	3	1.000000000000	NULL	NULL	30	3	0.01111111111111111
+nylon tube related offer	Air Tube	1	1	3	3	1.000000000000	NULL	NULL	9	7	0.037037037037037035
+nylon tube related offer	Pipe Making Machine	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+nylon variety	ripstop	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+nylon's characteristic	dyeing versatility	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+nylon's characteristic	abrasion resistance	2	2	6	3	NULL	NULL	NULL	245	97	0.0027210884353741495
+nylon's characteristic	excellent resilience	2	2	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+nylon's unique characteristic	puncture resistance	1	1	3	3	0.333333333333	NULL	NULL	28	18	0.011904761904761904
+nylon's unique characteristic	high strength	1	1	3	3	0.333333333333	NULL	NULL	210	78	0.0015873015873015873
+nylon's unique characteristic	oxygen	1	1	3	3	0.333333333333	NULL	NULL	4210	1106	0.0000791765637371338
+nylon-based material	GRYLAMID nylon	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon-based plastic	button	1	1	1	1	NULL	NULL	NULL	4383	1440	0.00022815423226100844
+nylon-damaging substance	alkalis	1	1	4	4	NULL	NULL	NULL	254	89	0.000984251968503937
+nylon-damaging substance	oxidizing agent	1	1	4	4	NULL	NULL	NULL	54	26	0.004629629629629629
+nylon-damaging substance	acid	1	1	4	4	NULL	NULL	NULL	1900	688	0.00013157894736842105
+nylon-damaging substance	bleach	1	1	4	4	NULL	NULL	NULL	2051	606	0.00012189176011701609
+nylon-forming compound	salts of dicarboxylic acids with diamines	1	1	1	1	NULL	NULL	NULL	1	1	1
+nylon-jacketed conductor	Type THWN	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYLS course	Corporations	1	1	2	2	1.000000000000	NULL	NULL	29	29	0.017241379310344827
+NYLS course	Securities Regulation	1	1	2	2	1.000000000000	NULL	NULL	38	21	0.013157894736842105
+NYMEX contract	gold	1	1	1	1	NULL	NULL	NULL	10877	2626	0.00009193711501333089
+NYMEX energy future contract	crude oil	1	1	2	2	NULL	NULL	NULL	819	302	0.0006105006105006105
+NYMEX energy future contract	natural gas	1	1	2	2	NULL	NULL	NULL	3647	920	0.00013709898546750753
+nymph	pheasant tail	19	12	112	61	0.600000000000	NULL	NULL	67	21	0.048107675906183374
+nymph	Hare's Ear	14	8	112	61	0.600000000000	NULL	NULL	21	11	0.08333333333333333
+nymph	Hares Ear	6	6	112	61	0.600000000000	NULL	NULL	17	8	0.018907563025210083
+nymph	Copper Johns	4	1	112	61	0.600000000000	NULL	NULL	5	4	0.02857142857142857
+nymph	prince nymph	4	4	112	61	0.600000000000	NULL	NULL	40	14	0.0035714285714285713
+nymph	stoneflies	4	3	112	61	0.600000000000	NULL	NULL	184	65	0.0007763975155279503
+nymph	Bead Head Prince	3	3	112	61	0.600000000000	NULL	NULL	3	1	0.026785714285714284
+nymph	Stonefly Nymphs	2	1	112	61	0.600000000000	NULL	NULL	3	2	0.011904761904761904
+nymph	scud	2	1	112	61	0.600000000000	NULL	NULL	40	18	0.0008928571428571428
+nymph	Buzzers	2	1	112	61	0.600000000000	NULL	NULL	9	7	0.003968253968253968
+nymph	Pheasant Tail Nymphs	2	1	112	61	0.600000000000	NULL	NULL	3	2	0.011904761904761904
+nymph	peacock lady	2	2	112	61	0.600000000000	NULL	NULL	28	3	0.0012755102040816326
+nymph	water Nymphs	2	2	112	61	0.600000000000	NULL	NULL	2	1	0.017857142857142856
+nymph	caddis larva	2	2	112	61	0.600000000000	NULL	NULL	7	5	0.00510204081632653
+nymph	Bead head Pheasant Tail	2	2	112	61	0.600000000000	NULL	NULL	2	1	0.017857142857142856
+nymph	Black Stones	2	2	112	61	0.600000000000	NULL	NULL	3	2	0.011904761904761904
+nymph	Girdle Bugs	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Gold Rib Hare's Ear	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Keeley Hazell	1	1	112	61	0.600000000000	NULL	NULL	7	6	0.0012755102040816326
+nymph	corixa	1	1	112	61	0.600000000000	NULL	NULL	5	5	0.0017857142857142857
+nymph	conventional trout nymph	1	1	112	61	0.600000000000	NULL	NULL	2	2	0.004464285714285714
+nymph	Eupheme	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Rainbow Warriors	1	1	112	61	0.600000000000	NULL	NULL	3	3	0.002976190476190476
+nymph	small beadhead nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	bead head nymphs in green	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	beadheaded pheasant tail	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	bead head nymph onto the free end of the tippet length extending from the first wet fly	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Gold Ribbed Hare's Ear	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Copper John's	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	traditional trout nymph	1	1	112	61	0.600000000000	NULL	NULL	2	2	0.004464285714285714
+nymph	Dryads	1	1	112	61	0.600000000000	NULL	NULL	11	8	0.0008116883116883116
+nymph	Delektable CDC Prince	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Damsels	1	1	112	61	0.600000000000	NULL	NULL	2	3	0.004464285714285714
+nymph	small, dark-coloured nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	red fox squirrel nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	BH Pheasant Tails	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Beadhead Pheasant Tails	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Bead-Headed Pheasant Tails	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	large weighted nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Tellico	1	1	112	61	0.600000000000	NULL	NULL	7	6	0.0012755102040816326
+nymph	standard provo river nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	small, dark nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Nicaea	1	1	112	61	0.600000000000	NULL	NULL	4	3	0.002232142857142857
+nymph	Oreads	1	1	112	61	0.600000000000	NULL	NULL	2	2	0.004464285714285714
+nymph	Pitys	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	PT's	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	standard beadhead nymph	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	trailing a Soft Hackle Pheasant Tail	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	egg pattern	1	1	112	61	0.600000000000	NULL	NULL	13	8	0.0006868131868131868
+nymph	Diawl Bach	1	1	112	61	0.600000000000	NULL	NULL	6	4	0.001488095238095238
+nymph	blood midge	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	callibaetis	1	1	112	61	0.600000000000	NULL	NULL	3	3	0.002976190476190476
+nymph	Hares Ears	1	1	112	61	0.600000000000	NULL	NULL	5	5	0.0017857142857142857
+nymph	Hatching Pupa	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	Micro Mayfly	1	1	112	61	0.600000000000	NULL	NULL	1	1	0.008928571428571428
+nymph	zug bug	1	1	112	61	0.600000000000	NULL	NULL	26	8	0.0003434065934065934
+nymph crop	field bean	1	1	1	1	1.000000000000	NULL	NULL	47	25	0.02127659574468085
+nymph pattern	generic nymph pattern	1	1	14	14	0.800000000000	NULL	NULL	1	1	0.07142857142857142
+nymph pattern	classic bead-headed nymph pattern	1	1	14	14	0.800000000000	NULL	NULL	2	2	0.03571428571428571
+nymph pattern	Pheasant Tail	1	1	14	14	0.800000000000	NULL	NULL	67	21	0.0010660980810234541
+nymph pattern	pheasant tail nymph	1	1	14	14	0.800000000000	NULL	NULL	6	6	0.011904761904761904
+nymph pattern	Tellico nymph	1	1	14	14	0.800000000000	NULL	NULL	3	3	0.023809523809523808
+nymph pattern	prince nymph	1	1	14	14	0.800000000000	NULL	NULL	40	14	0.0017857142857142857
+nymph pattern	Gray Nymph	1	1	14	14	0.800000000000	NULL	NULL	1	1	0.07142857142857142
+nymph pattern	Barr emerger's	1	1	14	14	0.800000000000	NULL	NULL	1	1	0.07142857142857142
+nymph pattern	PT	1	1	14	14	0.800000000000	NULL	NULL	159	94	0.00044923629829290204
+nymph pattern	regulation nymph pattern	1	1	14	14	0.800000000000	NULL	NULL	2	2	0.03571428571428571
+nymph pattern	basic nymph pattern	1	1	14	14	0.800000000000	NULL	NULL	2	2	0.03571428571428571
+nymph pattern	Olive Caddis Nymph	1	1	14	14	0.800000000000	NULL	NULL	1	1	0.07142857142857142
+nymph pattern	Olive Bird's Nest	1	1	14	14	0.800000000000	NULL	NULL	1	1	0.07142857142857142
+nymph pattern	Zug Bug	1	1	14	14	0.800000000000	NULL	NULL	26	8	0.002747252747252747
+Nymph s	Melissa	1	1	1	1	NULL	NULL	NULL	147	73	0.006802721088435374
+nymph small insect	small fly	1	1	3	3	0.333333333333	NULL	NULL	8	6	0.041666666666666664
+nymph small insect	fruit fly	1	1	3	3	0.333333333333	NULL	NULL	345	123	0.000966183574879227
+nymph small insect	midge	1	1	3	3	0.333333333333	NULL	NULL	163	68	0.0020449897750511245
+nymph wing case	stoneflies & sedge wings eg	1	1	1	1	NULL	NULL	NULL	1	1	1
+nymphaeaceous genus	Ondinea	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nymphaeaceous genus	Nuphar	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+nymphalid butterfly	Basilarchia astyanax	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nymphalid butterfly	having blackish wings spotted with red	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nymphalid butterfly	Basilarchia arthemis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nymphalid butterfly	Acraea encedon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Nymphalids	Charaxes	1	1	1	1	NULL	NULL	NULL	1	1	1
+nymphalines	Marpesia berania	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nymphalines	Smyrna karwinski	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nymphalines	Hypolimnas bolina Linnaeus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nymylan village	Lesnaya	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nymylan village	Paren	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nynonprofit organization	school	1	1	1	1	NULL	NULL	NULL	16053	4303	0.00006229365227683299
+nyong climate change adaptation activity	National Adaptation Programmes of Action	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+nyonya dessert	sago	1	1	3	3	NULL	NULL	NULL	80	46	0.004166666666666667
+nyonya dessert	9-layered kuih	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nyonya dessert	pak-tong kuih	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nyonya dish	Joo Hoo Char	2	2	8	6	1.000000000000	NULL	NULL	2	1	0.25
+nyonya dish	Popiah	2	2	8	6	1.000000000000	NULL	NULL	14	10	0.03571428571428571
+nyonya dish	Char Bee Hoon	1	1	8	6	1.000000000000	NULL	NULL	1	1	0.125
+nyonya dish	vegetable roll	1	1	8	6	1.000000000000	NULL	NULL	2	2	0.0625
+nyonya dish	Jiu Hoo Char	1	1	8	6	1.000000000000	NULL	NULL	4	3	0.03125
+nyonya dish	Chap Chye	1	1	8	6	1.000000000000	NULL	NULL	3	3	0.041666666666666664
+nyonya food	kueh dodol	1	1	1	1	NULL	NULL	NULL	1	1	1
+nyonya motif	flower	2	2	10	5	0.500000000000	NULL	NULL	5682	2006	0.00007039774727208729
+nyonya motif	floral basket	2	2	10	5	0.500000000000	NULL	NULL	3	2	0.13333333333333333
+nyonya motif	blossom	2	2	10	5	0.500000000000	NULL	NULL	45	35	0.008888888888888889
+nyonya motif	mandarin duck	2	2	10	5	0.500000000000	NULL	NULL	24	18	0.016666666666666666
+nyonya motif	butterfly	2	2	10	5	0.500000000000	NULL	NULL	1656	673	0.00024154589371980678
+NYPA customer	City	1	1	1	1	NULL	NULL	NULL	3651	1059	0.0002738975623116954
+NYPA hydropower customer	Occidental customers andolin	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYPA initiative	Renewable Energyprograms	1	0	1	1	1.000000000000	NULL	NULL	1	1	1
+NYPD excess	sodomization of Abner Louima	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYPD memorabilia item	collar insignia brass	2	1	2	1	NULL	NULL	NULL	2	1	1
+NYPD souvenir	NYPD t-shirts	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NYPD souvenir	shot glass	1	1	3	3	NULL	NULL	NULL	230	63	0.0014492753623188406
+NYPD souvenir	sweatshirt	1	1	3	3	NULL	NULL	NULL	390	171	0.0008547008547008547
+NYPD tactic	looking through the histories of computers at Internet cafe	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYPD unit	infamous Red Squad spied on dozens of organization	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+NYPD unit	thousands of New Yorkers	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+nyquist filter	pair of RRC filter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyquist filter	raised cosine filter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nyquist pulse shape	root-raised-cosine shape	1	1	1	1	NULL	NULL	NULL	1	1	1
+nyquist-rate quasi-static performance parameter	integral nonlinearities	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYRA issue	fighting ageism	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NYRA issue	lowering the drinking age	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+NYRA issue	repealing curfew	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NYRA issue	lowering the voting age	1	1	4	4	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+nyranews candidate	Caleb's Posse	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+nyranews candidate	Havre de Grace	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+NYRR event	weekend race	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+NYRR event	Youth Jamboree	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+NYS explorer	Henry Hudson	1	1	4	4	0.666666666666	NULL	NULL	20	13	0.0125
+NYS explorer	Champlain	1	1	4	4	0.666666666666	NULL	NULL	16	9	0.015625
+NYS explorer	Cartier	1	1	4	4	0.666666666666	NULL	NULL	839	409	0.0002979737783075089
+NYS explorer	Verrazano	1	1	4	4	0.666666666666	NULL	NULL	6	5	0.041666666666666664
+NYS funding opportunity	Small Cities Grant Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYS mandate	Clinic Plus	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NYS road	Taconic State Parkway	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NYS wine	Heron Hill	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYSDA council	Children's Dental Health Month	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NYSDOT project	Main Street project	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NYSDOT specialty waste	discarded chemical product	2	0	2	1	NULL	NULL	NULL	2	1	1
+NYSE euronext's competitor	Nasdaq OMX	1	1	1	1	1.000000000000	NULL	NULL	15	8	0.06666666666666667
+NYSE firm	Kmart	2	2	4	2	NULL	NULL	NULL	850	222	0.001176470588235294
+NYSE firm	subsequently traded on NASDAQ market	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+NYSE new home builder	DR Horton	1	1	1	1	1.000000000000	NULL	NULL	46	19	0.021739130434782608
+nyse's largest company	General Electric Co.	1	1	1	1	NULL	NULL	NULL	153	66	0.006535947712418301
+nyse-listed company	Ford Motor Co	1	1	2	2	NULL	NULL	NULL	125	41	0.004
+nyse-listed company	Citigroup Inc.	1	1	2	2	NULL	NULL	NULL	210	63	0.002380952380952381
+NYSERDA SBC program	Direct Install program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYSERDA SBC program	CBO Initiative	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYSHIP publication	Empire Plan Reports	1	1	1	1	NULL	NULL	NULL	1	1	1
+nysra's value-added service	low cost employee insurance program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nysra's value-added service	credit card processing	1	1	2	2	NULL	NULL	NULL	88	58	0.005681818181818182
+nystagmus characteristic	frequency	2	2	6	4	NULL	NULL	NULL	2547	871	0.00026174584478471405
+nystagmus characteristic	amplitude	2	2	6	4	NULL	NULL	NULL	523	243	0.0012746972594008922
+nystagmus characteristic	foveation time	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+nystagmus characteristic	conjugacy	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+nystagmus type	circular	1	1	1	1	NULL	NULL	NULL	427	188	0.00234192037470726
+nystagmus-inner ear disorder	labyrinthitis	1	1	1	1	1.000000000000	NULL	NULL	41	18	0.024390243902439025
+NYT bloggers	Andrew Ross Sorkin	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+NYT bloggers	Floyd Norris	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NYT columnist	Paul Krugman	1	1	4	4	0.500000000000	NULL	NULL	259	107	0.0009652509652509653
+NYT columnist	Friedman	1	1	4	4	0.500000000000	NULL	NULL	134	63	0.0018656716417910447
+NYT columnist	Krugman	1	1	4	4	0.500000000000	NULL	NULL	60	31	0.004166666666666667
+NYT columnist	Dowd	1	1	4	4	0.500000000000	NULL	NULL	14	13	0.017857142857142856
+NYT coverage	Magazine	1	1	1	1	NULL	NULL	NULL	4269	1431	0.00023424689622862497
+NYT staffer	Brooks Barnes	1	1	1	1	NULL	NULL	NULL	1	1	1
+nytime savvy investor	KKR	1	1	2	2	NULL	NULL	NULL	122	65	0.004098360655737705
+nytime savvy investor	Blackstone	1	1	2	2	NULL	NULL	NULL	246	133	0.0020325203252032522
+nytimes.com ad	dine	1	1	2	2	0.500000000000	NULL	NULL	11	11	0.045454545454545456
+nytimes.com ad	wine	1	1	2	2	0.500000000000	NULL	NULL	3790	1190	0.00013192612137203166
+NYU organization	Peer Education Council	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYU site	Florence	1	1	2	2	NULL	NULL	NULL	828	276	0.0006038647342995169
+NYU site	Prague	1	1	2	2	NULL	NULL	NULL	382	129	0.0013089005235602095
+NYU student	LSP freshman Gigi Braybrooks	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYU student	junior Julian Veshi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NYULMC committee	P&T	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NYULMC committee	IACUC Committees	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+NYULMC committee	Device Selection	1	1	4	4	1.000000000000	NULL	NULL	12	10	0.020833333333333332
+NYULMC committee	IRB	1	1	4	4	1.000000000000	NULL	NULL	15	12	0.016666666666666666
+nyungar cultural activity	welcome song	1	1	1	1	NULL	NULL	NULL	1	1	1
+NYURoam location	Vanderbilt Hall	1	1	1	1	1.000000000000	NULL	NULL	1	1	1

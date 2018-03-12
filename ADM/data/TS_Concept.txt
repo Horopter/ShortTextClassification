@@ -1,0 +1,288 @@
+ts	valuable bene ts	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ts	physiological benefi ts	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ts	economic various economic benefi ts	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ts	tangible benefi ts	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ts	multiplayer ele man ts	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ts	non-current benefi ts	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+TS&P team	commercial service	1	1	1	1	0.500000000000	NULL	NULL	27	26	0.037037037037037035
+ts-linuxassumesthat dynamic frequency mechanism	Advanced Configuration	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+TS16949 activity	PFMEA	1	1	3	3	1.000000000000	NULL	NULL	11	8	0.0303030303030303
+TS16949 activity	APQP	1	1	3	3	1.000000000000	NULL	NULL	14	12	0.023809523809523808
+TS16949 activity	CPMP	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+TS3 feature	tough design for underwater	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA action	proposed Large Aircraft Security Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA issue	package tour	1	1	1	1	1.000000000000	NULL	NULL	15	9	0.06666666666666667
+TSA modification	use of advanced x-ray scanning technology	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA official	Federal Security Directors	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA policy change	increasing random carry-on item search	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA program	Secure Flight	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+TSA regulation	3-1-1 rule	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA senior leadership	TSA Assistant Secretary	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSA space requirement	office space for manager	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSA space requirement	break rooms for screeners	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tsa's revenue source	hotel bed tax revenue	2	2	2	1	NULL	NULL	NULL	2	1	1
+tsachy weissman abstract many field	Markov Decision Processes	1	1	3	3	NULL	NULL	NULL	7	5	0.047619047619047616
+tsachy weissman abstract many field	Learning	1	1	3	3	NULL	NULL	NULL	1173	475	0.0002841716396703609
+tsachy weissman abstract many field	Stochastic control	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+tsai-type phase	modulated Ce13Cd58	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsar	Peter The Great	2	2	10	9	1.000000000000	NULL	NULL	33	26	0.012121212121212121
+tsar	Alexander II	1	1	10	9	1.000000000000	NULL	NULL	3	3	0.03333333333333333
+tsar	Catherine II	1	1	10	9	1.000000000000	NULL	NULL	2	2	0.05
+tsar	Nicholas I	1	1	10	9	1.000000000000	NULL	NULL	5	4	0.02
+tsar	Alexander III	1	1	10	9	1.000000000000	NULL	NULL	3	3	0.03333333333333333
+tsar	Tsarina Catherine II	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+tsar	Mike Richards for cancer	1	1	10	9	1.000000000000	NULL	NULL	1	1	0.1
+tsar	Ivan the Terrible	1	1	10	9	1.000000000000	NULL	NULL	17	13	0.0058823529411764705
+tsar	Peter I	1	1	10	9	1.000000000000	NULL	NULL	8	5	0.0125
+Tsar's family	Miloslavsky	1	1	1	1	NULL	NULL	NULL	1	1	1
+Tsarist agent provocateurs	Yevno Azef	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsaritsnyo's building	Grand Palace	1	1	1	1	NULL	NULL	NULL	85	41	0.011764705882352941
+TSARP combined various element	schedule	1	1	2	2	NULL	NULL	NULL	804	354	0.0006218905472636816
+TSARP combined various element	scope	1	1	2	2	NULL	NULL	NULL	542	221	0.0009225092250922509
+tsavo outdoor activity	personality of the dog	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSB datum	Injector part number	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSB datum	VW ECM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSB program	Operation DWI	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+TSB program	Operation Buckle Down	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+TSB recordcontains datum	model	1	1	1	1	NULL	NULL	NULL	1338	508	0.0007473841554559044
+TSC characteristic	enhanced DNA repair ability	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+TSC characteristic	multidrug resistance	1	1	3	3	1.000000000000	NULL	NULL	7	5	0.047619047619047616
+TSC characteristic	quiescence	1	1	3	3	1.000000000000	NULL	NULL	10	8	0.03333333333333333
+TSC component	switch	2	1	4	2	NULL	NULL	NULL	3437	1190	0.0002909514111143439
+TSC component	enclosure	2	1	4	2	NULL	NULL	NULL	290	140	0.0034482758620689655
+TSC customer	Department of State	1	1	1	1	1.000000000000	NULL	NULL	86	31	0.011627906976744186
+TSC effort	port call	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+TSC effort	underway visit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSC feature	multiple card slot	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+TSC sign	cutaneous lesion	1	1	3	3	0.333333333333	NULL	NULL	7	6	0.047619047619047616
+TSC sign	mental retardation	1	1	3	3	0.333333333333	NULL	NULL	548	229	0.0006082725060827251
+TSC sign	seizure	1	1	3	3	0.333333333333	NULL	NULL	1803	638	0.0001848770567572564
+TSC tradition	Olive message Jar	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSCA organic waste	PCBs	1	1	1	1	NULL	NULL	NULL	1419	381	0.0007047216349541931
+TSCA PCB requirement	cap	1	1	2	2	NULL	NULL	NULL	1772	770	0.0002821670428893905
+TSCA PCB requirement	waste storage	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+Tschope	observed in Germany	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Tschope	follow-up of 196 cases of diabetic patients starting dialysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSCPA community	Tax Issues	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSD facility	landfill	1	1	1	1	0.500000000000	NULL	NULL	416	254	0.002403846153846154
+TSD issue	transuranic waste	1	1	4	4	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+TSD issue	Spent Nuclear Fuel	1	1	4	4	1.000000000000	NULL	NULL	21	17	0.011904761904761904
+TSD issue	Low-Level Waste	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+TSD issue	High-Level Waste	1	1	4	4	1.000000000000	NULL	NULL	7	3	0.03571428571428571
+TSD species	tuatara	1	1	2	2	1.000000000000	NULL	NULL	30	17	0.016666666666666666
+TSD species	Sphenodon guntheri	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+TSDC parameter	activation energy	1	1	1	1	NULL	NULL	NULL	187	57	0.0053475935828877
+TSE agent	BSE	1	1	1	1	NULL	NULL	NULL	231	97	0.004329004329004329
+TSE cellular model	Rov	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+TSE clinical symptom	ataxia	1	1	1	1	NULL	NULL	NULL	444	194	0.0022522522522522522
+TSE disease	BSE	3	3	8	5	NULL	NULL	NULL	231	97	0.00487012987012987
+TSE disease	sporadic CJD	2	2	8	5	NULL	NULL	NULL	2	1	0.25
+tse disease	prominent tse disease	1	1	8	5	NULL	NULL	NULL	2	2	0.0625
+TSE disease	scrapie	1	1	8	5	NULL	NULL	NULL	70	24	0.0017857142857142857
+TSE disease	Creutzfeldt-Jakob disease	1	1	8	5	NULL	NULL	NULL	69	27	0.0018115942028985507
+TSE susceptible species	cattle	1	1	1	1	NULL	NULL	NULL	2592	568	0.00038580246913580245
+tseforcomplex system	protein folding model	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSEs	mad cow disease	2	2	3	2	0.666666666666	NULL	NULL	174	79	0.007662835249042145
+TSEs	scrapie in sheep	1	1	3	2	0.666666666666	NULL	NULL	39	8	0.008547008547008546
+tsetse control technique	target	1	1	1	1	NULL	NULL	NULL	5227	1096	0.0001913143294432753
+tsetse habitat	riverine forest	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+tsetse species	Glossina fuscipes	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsetse-free area	maize-growing highland	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tsetse-free area	semi-arid lowland	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tsetse-infested area	western Kenya	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+TSF datum	TOE operating environment settings file	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSF fund program activity	transportation	1	0	2	2	NULL	NULL	NULL	8378	2254	0.000059680114585820004
+TSF fund program activity	collection	1	0	2	2	NULL	NULL	NULL	903	427	0.0005537098560354374
+TSG genetic lesion	BRCA1 in breast cancer	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSGs	WT1	2	2	3	2	1.000000000000	NULL	NULL	29	21	0.04597701149425287
+TSGs	Belgian cherry-flavoured beer Kriek	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+TSGsactingoncell cycle andapoptosis	FHIT	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+tshirt blogs	Death by T-Shirt filled with shirt design idea	1	1	1	1	NULL	NULL	NULL	1	1	1
+tshirts	vintagetshirtstore-cool   vintage tshirts	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tshirts	patchwork tshirt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tshirts	vintagetshirtstore cool vintage tshirts	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tshisekedi's advisor	Valentin Mubake	1	1	1	1	NULL	NULL	NULL	1	1	1
+tshrough scheme	Landcare Research Enviromark scheme	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSHTF medical supply	medicine	1	1	1	1	NULL	NULL	NULL	6368	1503	0.000157035175879397
+tshwane north college course	fabric painting	1	1	1	1	1.000000000000	NULL	NULL	38	22	0.02631578947368421
+TSI activity	chemical release	1	1	2	2	0.500000000000	NULL	NULL	26	21	0.019230769230769232
+TSI activity	prescribed burning	1	1	2	2	0.500000000000	NULL	NULL	298	147	0.0016778523489932886
+TSI technique	release cutting	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSI-compliant equipment	train	1	1	1	1	NULL	NULL	NULL	1369	590	0.0007304601899196494
+tsi-tsi dangarembga's writing	Nervous Conditions	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSIET use model	pictorial model	1	1	3	3	0.500000000000	NULL	NULL	27	5	0.012345679012345678
+TSIET use model	number line	1	1	3	3	0.500000000000	NULL	NULL	127	49	0.0026246719160104987
+TSIET use model	concrete object	1	1	3	3	0.500000000000	NULL	NULL	41	10	0.008130081300813007
+tsim sha tsui attraction	Harbour City	1	1	3	3	1.000000000000	NULL	NULL	10	10	0.03333333333333333
+tsim sha tsui attraction	Felix Bar	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+tsim sha tsui attraction	Peninsula Hotel	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+tsinoy game	checker	2	2	4	2	NULL	NULL	NULL	697	175	0.0014347202295552368
+tsinoy game	Chinese jackstones	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+TSIs	HS & CR RST	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSL event datum term	capsule name	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSM competitor	Cassis International	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+TSM competitor	Vivotech	1	1	3	3	1.000000000000	NULL	NULL	4	2	0.08333333333333333
+TSM competitor	Gemalto	1	1	3	3	1.000000000000	NULL	NULL	13	9	0.02564102564102564
+TSM element	bus service	1	1	1	1	NULL	NULL	NULL	75	50	0.013333333333333334
+TSM feature	Storage Pools	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TSM feature	Policy Domains	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TSM feature	Management Classes	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TSM measure	intersection capacity improvement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSM measure	adjustments in signal timing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tsm option	thesis tsm option	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+TSM option	lane restriping	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+TSM option	ramp metering	1	1	4	4	1.000000000000	NULL	NULL	67	45	0.0037313432835820895
+TSM option	intelligent transportation system	1	1	4	4	1.000000000000	NULL	NULL	61	32	0.004098360655737705
+TSM product	TDP for Exchange	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TSM product	TDP for Oracle	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TSM product	Brbackup for SAP	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TSM product	TDP for SQL	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TSM project	Telephone Routing Interactive System	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSM strategy	improving traffic signal timing	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSM technique	installation	1	1	1	1	NULL	NULL	NULL	1804	562	0.0005543237250554324
+TSMC client	Broadcom	1	1	2	2	NULL	NULL	NULL	222	96	0.0022522522522522522
+TSMC client	Qualcomm	1	1	2	2	NULL	NULL	NULL	442	178	0.0011312217194570137
+tsmc's chip-designing customer	Marvell	1	1	1	1	NULL	NULL	NULL	61	30	0.01639344262295082
+tsmc's competitor	Taiwan-based United Microelectronics Corp.	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsmc's distribution partner	Cadence	2	2	2	1	NULL	NULL	NULL	173	93	0.011560693641618497
+tsmc's embflash IP special feature	high speed	1	1	1	1	NULL	NULL	NULL	162	83	0.006172839506172839
+TSMMABJJ instructor	Sensei Fred Murty	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSMMABJJ instructor	school's judo instructor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSNAs	NNK	3	3	4	2	1.000000000000	NULL	NULL	11	8	0.20454545454545456
+TSNAs	NNN	1	1	4	2	1.000000000000	NULL	NULL	7	7	0.03571428571428571
+TSO function	ISPF Browse	1	0	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+TSO members solo project	Chris Caffery	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSO organization	Nordel in the Nordic country	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSO resource	TSO region size	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSO resource	TSO account number	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tsog offering	candy	1	1	2	2	NULL	NULL	NULL	4475	1246	0.000111731843575419
+tsog offering	cookie	1	1	2	2	NULL	NULL	NULL	5329	1507	0.00009382623381497467
+tsongas supporter	Chelmsford resident Maryanne Paresky	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSOs	Kinder Morgan Interstate Gas Transmission	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsotsis	Tsotsi Malema	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsouthern country	Greece	1	1	1	1	NULL	NULL	NULL	4688	768	0.00021331058020477816
+TSP arisesinsituations	transportation planning	1	1	1	1	1.000000000000	NULL	NULL	59	28	0.01694915254237288
+TSP event log datum	priority request	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsp fruit juice	apple	1	1	1	1	NULL	NULL	NULL	15894	3432	0.00006291682395872656
+tsp ground spice	cinnamon	1	1	4	4	NULL	NULL	NULL	3347	776	0.00007469375560203167
+tsp ground spice	ginger	1	1	4	4	NULL	NULL	NULL	3867	984	0.00006464959917248513
+tsp ground spice	nutmeg	1	1	4	4	NULL	NULL	NULL	1088	257	0.00022977941176470588
+tsp ground spice	mace	1	1	4	4	NULL	NULL	NULL	467	173	0.0005353319057815846
+tsp high quality oil	coconut oil	2	2	6	3	NULL	NULL	NULL	1504	438	0.0004432624113475177
+tsp high quality oil	almond	2	2	6	3	NULL	NULL	NULL	4195	930	0.00015891934843067143
+tsp high quality oil	olive	2	2	6	3	NULL	NULL	NULL	3387	1028	0.00019683102056884165
+TSP member	Tameside College	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSP participant	air traffic controller	1	1	2	2	NULL	NULL	NULL	89	52	0.0056179775280898875
+TSP participant	law enforcement officer	1	1	2	2	NULL	NULL	NULL	115	65	0.004347826086956522
+TSP project	boulevard treatment	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+TSP project	intelligent transportation system improvement	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+TSP project	intersection improvement	1	1	3	3	1.000000000000	NULL	NULL	44	32	0.007575757575757575
+TSP resource	homework problem	1	0	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+tsp souring agent	lemon juice	1	1	1	1	NULL	NULL	NULL	1124	357	0.0008896797153024911
+TSP topic	contribution limit	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+TSP variation	TSP with precedence constraint	1	1	1	1	NULL	NULL	NULL	1	1	1
+tspec parameter	bandwidth	1	1	3	3	NULL	NULL	NULL	1137	466	0.0002931691586045148
+tspec parameter	jitter	1	1	3	3	NULL	NULL	NULL	387	211	0.0008613264427217916
+tspec parameter	delay	1	1	3	3	NULL	NULL	NULL	1442	646	0.0002311604253351826
+TSPI system	GPS Aided Inertial Navigation Reference	1	1	1	1	NULL	NULL	NULL	1	1	1
+tspo-rich cell	MA-10 cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSPRA product	Bond Aid	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSR mainstay	Harold Mentzer	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+TSR mainstay	Jon Pickens	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+TSR measurement parameter	frequency range	1	1	5	5	0.666666666666	NULL	NULL	58	37	0.003448275862068966
+TSR measurement parameter	time delay	1	1	5	5	0.666666666666	NULL	NULL	134	79	0.0014925373134328358
+TSR measurement parameter	excitation level	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+TSR measurement parameter	time range	1	1	5	5	0.666666666666	NULL	NULL	11	8	0.018181818181818184
+TSR measurement parameter	sweep time	1	1	5	5	0.666666666666	NULL	NULL	3	3	0.06666666666666667
+TSR part	carbon fiber seatpost	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSR product	Egg McMuffins	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+TSR program	screen saver	3	1	9	6	0.400000000000	NULL	NULL	171	91	0.005847953216374269
+TSR program	clock display program	2	1	9	6	0.400000000000	NULL	NULL	2	1	0.2222222222222222
+TSR program	anti virus program	1	1	9	6	0.400000000000	NULL	NULL	8	7	0.013888888888888888
+TSR program	anti-virus	1	1	9	6	0.400000000000	NULL	NULL	378	182	0.00029394473838918284
+TSR program	virus checker	1	1	9	6	0.400000000000	NULL	NULL	30	21	0.0037037037037037034
+TSR program	anti-virus program	1	1	9	6	0.400000000000	NULL	NULL	72	43	0.0015432098765432098
+TSR utility	screen saver	1	1	1	1	NULL	NULL	NULL	171	91	0.005847953216374269
+tsr's excellent supplement	Combat & Tactics	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tsr's excellent supplement	Skills & Powers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tsr's excellent supplement	Spells & Magic	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tsr's previous setting	Forgotten Realms	1	1	2	2	1.000000000000	NULL	NULL	22	16	0.022727272727272728
+tsr's previous setting	Dragonlance world	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+tsr's technologically-advanced feature	Velociti switch fabric	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+tsr's technologically-advanced feature	distributed architecture	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+tsr's technologically-advanced feature	Composite Links	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+tsrc's good movement project	smart parking for truck	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tsrc's good movement project	eco-driving for truck	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tsrc's good movement project	truck electrification	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TSRI individual	Department Chairs	1	0	1	3	1.000000000000	NULL	NULL	4	5	0.25
+TSRs	TSRs found in TSP-2	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSRS group service many area	Privacy & Business Continuity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TSRS group service many area	Security	1	1	2	2	NULL	NULL	NULL	8153	2525	0.00006132711885195633
+tsrswithother function	transposition	1	1	2	2	NULL	NULL	NULL	86	63	0.005813953488372093
+tsrswithother function	integration	1	1	2	2	NULL	NULL	NULL	743	301	0.0006729475100942127
+TSs	equipment gauging	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+TSs	observed in the human gene	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+TSSAA standard	age	1	1	1	1	NULL	NULL	NULL	32703	4368	0.00003057823441274501
+TST product	Leather Protection	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+TST product	Paint Protection	1	1	3	3	1.000000000000	NULL	NULL	15	10	0.02222222222222222
+TST product	Rust Protection	1	1	3	3	1.000000000000	NULL	NULL	4	2	0.08333333333333333
+TST protein	CD53	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+TST switch unit	unit of FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSTC event	Oktoberfest	1	1	2	2	NULL	NULL	NULL	144	68	0.003472222222222222
+TSTC event	Techsan Day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tsts	politically sensitive tsts	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSU member bank	Deutsche Bank	1	1	1	1	NULL	NULL	NULL	820	291	0.0012195121951219512
+tsubaki transmission component	coupling	1	1	1	1	NULL	NULL	NULL	367	169	0.0027247956403269754
+tsuge	Yunnan tsuge	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+tsuge	Siam tsuge	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+tsuluts character	letter	1	1	1	1	NULL	NULL	NULL	3814	1255	0.00026219192448872575
+tsunami	tsunami hazard l arge tsunami	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+tsunami	Great Awakening	1	1	4	4	0.500000000000	NULL	NULL	13	11	0.019230769230769232
+tsunami	2004 Indian Ocean event	1	1	4	4	0.500000000000	NULL	NULL	6	2	0.041666666666666664
+tsunami	2004 Indonesian	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+tsunami affected country	Indonesia	2	2	4	2	NULL	NULL	NULL	7073	1117	0.0001413827230312456
+tsunami affected country	Thailand	2	2	4	2	NULL	NULL	NULL	6705	938	0.00014914243102162565
+tsunami concept	coastal flooding	1	1	2	2	0.500000000000	NULL	NULL	13	10	0.038461538461538464
+tsunami concept	wave formation	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+tsunami control structure	water gate	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+tsunami control structure	land lock	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+tsunami effect	unusual current	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tsunami feature	period	1	1	1	1	NULL	NULL	NULL	605	194	0.001652892561983471
+tsunami hazard feature	flow velocity	1	1	1	1	NULL	NULL	NULL	121	68	0.008264462809917356
+tsunami natural disaster	tsunami	1	1	1	1	NULL	NULL	NULL	1506	441	0.0006640106241699867
+tsunami protection measure	tide embankment	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+tsunami protection measure	evacuation shelter	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+tsunami protection measure	offshore breakwalls	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tsunami rehabilitation activity	medical support	1	1	1	1	1.000000000000	NULL	NULL	32	25	0.03125
+tsunami stricken country	India	1	1	2	2	NULL	NULL	NULL	24660	2730	0.000020275750202757502
+tsunami stricken country	Malaysia	1	1	2	2	NULL	NULL	NULL	6168	917	0.00008106355382619974
+tsunami warning system	DART being deployed in the Northeast Pacific	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsunami wave property	frequency	1	1	3	3	NULL	NULL	NULL	2547	871	0.00013087292239235702
+tsunami wave property	wavelength	1	1	3	3	NULL	NULL	NULL	270	129	0.0012345679012345679
+tsunami wave property	wave height	1	1	3	3	NULL	NULL	NULL	104	53	0.003205128205128205
+tsunami-affected area	Banda Aceh	1	1	1	1	1.000000000000	NULL	NULL	25	13	0.04
+tsunami-affected country	India	2	1	8	6	NULL	NULL	NULL	24660	2730	0.000020275750202757502
+tsunami-affected country	Thailand	2	1	8	6	NULL	NULL	NULL	6705	938	0.00007457121551081282
+tsunami-affected country	Malaysia	1	1	8	6	NULL	NULL	NULL	6168	917	0.000020265888456549934
+tsunami-affected country	Indonesia	1	1	8	6	NULL	NULL	NULL	7073	1117	0.0000176728403789057
+tsunami-affected country	Sri Lanka	1	1	8	6	NULL	NULL	NULL	1883	310	0.00006638343069569835
+tsunami-affected country	Maldives	1	1	8	6	NULL	NULL	NULL	549	136	0.00022768670309653916
+tsunami-hit country	Maldives	1	1	6	6	NULL	NULL	NULL	549	136	0.0003035822707953855
+tsunami-hit country	Sri Lanka	1	1	6	6	NULL	NULL	NULL	1883	310	0.0000885112409275978
+tsunami-hit country	Indonesia	1	1	6	6	NULL	NULL	NULL	7073	1117	0.00002356378717187426
+tsunami-hit country	Thailand	1	1	6	6	NULL	NULL	NULL	6705	938	0.00002485707183693761
+tsunami-hit country	Seychelles	1	1	6	6	NULL	NULL	NULL	286	88	0.0005827505827505828
+tsunami-hit country	India	1	1	6	6	NULL	NULL	NULL	24660	2730	0.000006758583400919167
+tsunami-hit district	onion-producing Trincomalee	1	1	1	1	NULL	NULL	NULL	1	1	1
+tsunami-ravaged community	Sri Lanka	1	1	1	1	NULL	NULL	NULL	1883	310	0.0005310674455655868
+tsunami-related injury	pneumonia	2	2	2	1	NULL	NULL	NULL	3534	784	0.0005659309564233164
+tsundere character	Asuka	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+tsvangirai's admirable quality	personal bravery	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSW inverter	Champion 2000W Inverter	1	1	1	1	NULL	NULL	NULL	1	1	1
+TSW use tool	ruler	1	1	2	2	NULL	NULL	NULL	1113	358	0.0004492362982929021
+TSW use tool	patty paper	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tswana term	verb	1	1	1	1	NULL	NULL	NULL	205	123	0.004878048780487805
+tswana-speaking public officer	teacher	1	1	1	2	NULL	NULL	NULL	4365	1382	0.0002290950744558992
+Tswanachiefs	Secheleand Khama	1	1	1	1	NULL	NULL	NULL	1	1	1
+tswapong village	Lerala	1	1	1	1	NULL	NULL	NULL	1	1	1
+tswv-susceptible variety	Tamrun 98	1	1	1	1	NULL	NULL	NULL	1	1	1

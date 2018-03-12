@@ -1,0 +1,6 @@
+xj's many function	audio communication	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+xj's many function	climate control	1	1	2	2	0.500000000000	NULL	NULL	287	145	0.0017421602787456446
+xjl's many function	automatic four-zone climate control	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+xjl's many function	navigation	1	1	4	4	NULL	NULL	NULL	1419	591	0.00017618040873854828
+xjl's many function	1200-watt Bowers & Wilkins audio system	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+xjl's many function	Bluetooth	1	1	4	4	NULL	NULL	NULL	2836	910	0.00008815232722143864

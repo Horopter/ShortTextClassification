@@ -1,0 +1,39 @@
+PQ bag reward item	Wooden Figurine	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+PQ disturbance	harmonic distortion	1	1	3	3	0.333333333333	NULL	NULL	55	25	0.006060606060606061
+PQ disturbance	voltage sag	1	1	3	3	0.333333333333	NULL	NULL	46	24	0.007246376811594202
+PQ disturbance	voltage swell	1	1	3	3	0.333333333333	NULL	NULL	10	8	0.03333333333333333
+PQ feature	brightness	1	1	4	4	NULL	NULL	NULL	1181	450	0.00021168501270110075
+PQ feature	hue	1	1	4	4	NULL	NULL	NULL	247	146	0.0010121457489878543
+PQ feature	saturation	1	1	4	4	NULL	NULL	NULL	530	259	0.0004716981132075472
+PQ feature	contrast	1	1	4	4	NULL	NULL	NULL	1366	542	0.00018301610541727673
+PQ function	reactive power compensation	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+PQ function	sag correction	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+PQ improvement	better contrast	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+PQ MNAs	Bernard Drainville of the South Shiore riding of Marie-Victorin	1	1	1	1	NULL	NULL	NULL	1	1	1
+PQ parameter	voltage	1	1	2	2	NULL	NULL	NULL	1211	512	0.00041288191577208916
+PQ parameter	RMS	1	1	2	2	NULL	NULL	NULL	65	48	0.007692307692307693
+PQ phenomenon	harmonic	1	1	1	1	NULL	NULL	NULL	165	103	0.006060606060606061
+PQ setting	PSQ result index	1	1	1	1	NULL	NULL	NULL	1	1	1
+PQ variation	momentary interruption	1	1	2	2	0.500000000000	NULL	NULL	6	5	0.08333333333333333
+PQ variation	voltage sag	1	1	2	2	0.500000000000	NULL	NULL	46	24	0.010869565217391304
+PQA educator expert	agricultural extension personnel	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+PQA educator expert	veterinarian	1	1	2	2	NULL	NULL	NULL	328	150	0.001524390243902439
+PQA plus advisor expert	veterinarian	2	2	4	2	NULL	NULL	NULL	328	150	0.003048780487804878
+PQA plus advisor expert	agricultural Extension personnel	2	2	4	2	NULL	NULL	NULL	4	3	0.25
+PQCI parameter	static capacitance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PQCI parameter	resonant frequency	1	1	2	2	NULL	NULL	NULL	48	29	0.010416666666666666
+PQFP package	illustrated in FIG	1	1	1	1	NULL	NULL	NULL	1506	674	0.0006640106241699867
+PQI vendor	Southern Oregon Resource Center for Education	6	5	6	1	NULL	NULL	NULL	6	1	1
+PQM promotional material	PowerPoint slide	1	1	2	2	NULL	NULL	NULL	132	75	0.003787878787878788
+PQM promotional material	leaflet	1	1	2	2	NULL	NULL	NULL	842	330	0.0005938242280285036
+PQQ dependent enzyme	methyl alcohol	1	1	1	1	NULL	NULL	NULL	159	67	0.006289308176100629
+pqq-dependent enzyme	methyl alcohol	1	1	1	1	NULL	NULL	NULL	159	67	0.006289308176100629
+PQRI educational material	coding manual	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+PQRI educational material	measure finder tool	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+PQRI educational material	PQRI toolkit material	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+PQRI educational material	power-point slide	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+PQs	Zakum	1	1	1	1	0.500000000000	NULL	NULL	6	5	0.16666666666666666
+PQSPBers	Peter Mitchell	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+PQSPBers	Derek Drummond	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+PQSPBers	Peter Landry	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+pqube's current input module	CT4	1	1	1	1	NULL	NULL	NULL	1	1	1

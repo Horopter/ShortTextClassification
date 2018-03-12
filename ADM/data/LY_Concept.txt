@@ -1,0 +1,1274 @@
+ly high object	building	1	1	1	1	NULL	NULL	NULL	5956	1998	0.000167897918065816
+ly rec og-nizedhighrisk medical condition	diabetes	1	1	2	2	NULL	NULL	NULL	23990	3013	0.000020842017507294705
+ly rec og-nizedhighrisk medical condition	asthma	1	1	2	2	NULL	NULL	NULL	8602	1433	0.00005812601720530109
+LY ruin	sarcophagi laden with everyday tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+ly special circumstance	illness	1	1	1	1	NULL	NULL	NULL	3864	969	0.0002587991718426501
+ly-based choice scarf user	Dialga	1	1	1	1	1.000000000000	NULL	NULL	28	12	0.03571428571428571
+lyadoptother sophisticated parametric estimator	POLand PWL	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyavailable variable	gender	1	1	1	1	NULL	NULL	NULL	16818	2908	0.00005946010227137591
+lybemappedtoanyRPC system	increasingly popular SOAP	1	1	1	1	NULL	NULL	NULL	1	1	1
+lycaenid species	Strymon melinus Hiibner	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lycaenid species	Plebejus idas L.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lycaenid species	Everes alcetas Hffmgg.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Lycaenini	Shirozua	1	1	1	1	NULL	NULL	NULL	1	1	1
+lycanthrope	wererat	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lyceum activity	competitive sport	3	3	12	9	0.500000000000	NULL	NULL	57	37	0.013157894736842105
+lyceum activity	chess club	2	2	12	9	0.500000000000	NULL	NULL	200	81	0.0016666666666666666
+lyceum activity	relay club	1	1	12	9	0.500000000000	NULL	NULL	4	4	0.020833333333333332
+lyceum activity	chess clubhouse	1	1	12	9	0.500000000000	NULL	NULL	6	4	0.013888888888888888
+lyceum activity	seed club	1	1	12	9	0.500000000000	NULL	NULL	3	3	0.027777777777777776
+lyceum activity	relay ally	1	1	12	9	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+lyceum activity	seed fellowship	1	1	12	9	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+lyceum activity	broadcast club	1	1	12	9	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+lyceum activity	broadcast ally	1	1	12	9	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+lychee production region	Gaozhou	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lycian city	Kyaenai at Yavu	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lycian city	Apollonia at Kilincli	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lycian city	Isinda at Belenli	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lycian city	Istlada at Kapakli	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Lycopds	Lepidodendron	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+lycopene rich food	tomato	2	2	6	5	0.200000000000	NULL	NULL	10378	2224	0.00006423845313804844
+lycopene rich food	pink grapefruit	1	1	6	5	0.200000000000	NULL	NULL	66	36	0.002525252525252525
+lycopene rich food	apricot	1	1	6	5	0.200000000000	NULL	NULL	2525	579	0.000066006600660066
+lycopene rich food	cooked tomato	1	1	6	5	0.200000000000	NULL	NULL	10	7	0.016666666666666666
+lycopene rich food	papaya	1	1	6	5	0.200000000000	NULL	NULL	2014	453	0.00008275405494869247
+lycopene-containing food	tomato	1	1	1	1	NULL	NULL	NULL	10378	2224	0.00009635767970707265
+lycopene-containing fruit	papaya slice	1	1	1	1	NULL	NULL	NULL	1	1	1
+lycopene-rich food	tomato	6	6	21	8	0.285714285714	NULL	NULL	10378	2224	0.0001651845937835531
+lycopene-rich food	watermelon	5	5	21	8	0.285714285714	NULL	NULL	1942	524	0.0006130155460742484
+lycopene-rich food	guava	3	3	21	8	0.285714285714	NULL	NULL	828	268	0.0005175983436853001
+lycopene-rich food	pink grapefruit	2	2	21	8	0.285714285714	NULL	NULL	66	36	0.002886002886002886
+lycopene-rich food	red grapefruit	2	2	21	8	0.285714285714	NULL	NULL	6	4	0.031746031746031744
+lycopene-rich food	fresh tomato	1	1	21	8	0.285714285714	NULL	NULL	50	34	0.0009523809523809524
+lycopene-rich food	vegetable	1	1	21	8	0.285714285714	NULL	NULL	11661	2612	0.000004083616123749903
+lycopene-rich food	fruit	1	1	21	8	0.285714285714	NULL	NULL	15318	3376	0.0000031086987608726736
+lycopene-rich fruit	watermelon	1	1	1	1	NULL	NULL	NULL	1942	524	0.0005149330587023687
+lycopene-rich vegetable	mango	13	3	76	8	NULL	NULL	NULL	4062	1036	0.0005474357977662028
+lycopene-rich vegetable	spinach	13	3	76	8	NULL	NULL	NULL	8593	1370	0.00025877856517238636
+lycopene-rich vegetable	broccoli	12	2	76	8	NULL	NULL	NULL	10232	1548	0.00018517756470927123
+lycopene-rich vegetable	tomato	12	2	76	8	NULL	NULL	NULL	10378	2224	0.00018257244576076924
+lycopene-rich vegetable	kale	12	2	76	8	NULL	NULL	NULL	4725	764	0.0004010025062656641
+lycopene-rich vegetable	berry	12	2	76	8	NULL	NULL	NULL	2426	691	0.0007810127131513862
+lycopene-rich vegetable	sweet potato	1	1	76	8	NULL	NULL	NULL	2558	814	0.0000051438212419242
+lycopene-rich vegetable	watermelon	1	1	76	8	NULL	NULL	NULL	1942	524	0.000006775434982925903
+lycopersicon species	tomato	1	1	2	2	NULL	NULL	NULL	10378	2224	0.000048178839853536324
+lycopersicon species	tomato L.lycopersicon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lycophytes	Selaginella	4	4	5	2	1.000000000000	NULL	NULL	11	7	0.29090909090909095
+lycophytes	clubmosses	1	1	5	2	1.000000000000	NULL	NULL	8	6	0.025
+Lycopods	Lepidodendron	3	3	6	4	1.000000000000	NULL	NULL	10	7	0.15
+Lycopods	Sigillaria	1	1	6	4	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+Lycopods	Huperzia	1	1	6	4	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+Lycopods	Lycopodium	1	1	6	4	1.000000000000	NULL	NULL	19	11	0.008771929824561403
+lycoprotein inhibitor	amiodarone	1	1	4	4	NULL	NULL	NULL	358	78	0.0006983240223463687
+lycoprotein inhibitor	quinidine	1	1	4	4	NULL	NULL	NULL	298	76	0.0008389261744966443
+lycoprotein inhibitor	ketoconazole	1	1	4	4	NULL	NULL	NULL	681	200	0.0003671071953010279
+lycoprotein inhibitor	verapamil	1	1	4	4	NULL	NULL	NULL	585	163	0.00042735042735042735
+lycoproteins	mucins	1	1	1	1	1.000000000000	NULL	NULL	21	22	0.047619047619047616
+lycos community service	fan club	1	1	1	1	1.000000000000	NULL	NULL	20	17	0.05
+lycosid genus	Pirata	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Lycosid species	P. palustris	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+Lycosid species	Pardosa agrestis	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+Lycosids	Pardosa agrestis	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+Lycosids	Trochosa ruricola	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Lycosids	Pardosa palustris	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lycra fabric	cotton lycra fabric	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+lycra fabric	nylon lycra fabric	1	1	2	2	1.000000000000	NULL	NULL	21	19	0.023809523809523808
+lydia's showbiz friend	Carol Cheng	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lydia's showbiz friend	veterans Eric Tsang	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lydian structure	temple	1	1	3	3	NULL	NULL	NULL	826	414	0.0004035512510088781
+lydian structure	bridges in city	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lydian structure	aqueduct	1	1	3	3	NULL	NULL	NULL	87	69	0.0038314176245210726
+lye precaution	chemical goggle	1	1	1	1	NULL	NULL	NULL	8	4	0.125
+lye product	Red Devil	1	1	1	1	1.000000000000	NULL	NULL	23	20	0.043478260869565216
+lye relaxer	Tea Tree PARNEVU relaxer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lye relaxer	Motions & Clairol Texture Tones	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lye soap	Fels Naptha	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+lye-based cleaner	oven cleaner	3	2	3	1	NULL	NULL	NULL	227	81	0.013215859030837005
+lye-based product	drain de-cloggers	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Lygaeidae species	false chinch bug	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Lying scum	David Adair	1	1	1	1	NULL	NULL	NULL	1	1	1
+lying-down stage	last stage of Osho Kundalini	2	2	2	1	NULL	NULL	NULL	2	1	1
+lying-to-Congress bank CEOs	Lloyd Blankfein	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+lying-to-Congress bank CEOs	Jamie Dimon of JPMorgan Chase	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lyla j's safety product	stun gun	2	2	4	2	NULL	NULL	NULL	421	113	0.0023752969121140144
+lyla j's safety product	pepper spray	2	2	4	2	NULL	NULL	NULL	629	206	0.001589825119236884
+lyle-disapproved supplement	separate iron supplement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyle-disapproved supplement	Balco's ZMA	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Lyme co-infections	Babesiosis	1	1	1	1	NULL	NULL	NULL	109	43	0.009174311926605505
+Lyme coinfections	Ehrlichia	1	1	3	3	0.666666666666	NULL	NULL	28	19	0.011904761904761904
+Lyme coinfections	Babesiosis	1	1	3	3	0.666666666666	NULL	NULL	109	43	0.0030581039755351682
+Lyme coinfections	Bartonella	1	1	3	3	0.666666666666	NULL	NULL	35	20	0.009523809523809523
+Lyme disease	late neuroborreliosis	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Lyme disease	Lyme arthritis	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+lyme disease indicator	headache	1	1	4	4	NULL	NULL	NULL	11164	1934	0.00002239340738086707
+lyme disease indicator	flu-like symptom	1	1	4	4	NULL	NULL	NULL	103	51	0.0024271844660194173
+lyme disease indicator	fatigue	1	1	4	4	NULL	NULL	NULL	7827	1619	0.000031940718027341254
+lyme disease indicator	fever	1	1	4	4	NULL	NULL	NULL	6376	1113	0.00003920953575909661
+lyme disease symptom	muscle pain in between joint	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lyme disease symptom	TMJ	1	1	5	5	NULL	NULL	NULL	85	47	0.0023529411764705885
+lyme disease symptom	legs feet hand	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lyme disease symptom	crippling fatigue	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lyme disease symptom	severe muscle twitching	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lyme painter	Hassam	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+lyme symptom	fever	3	3	18	14	0.181818181818	NULL	NULL	6376	1113	0.00007841907151819322
+lyme symptom	fatigue	2	2	18	14	0.181818181818	NULL	NULL	7827	1619	0.00002839174935763667
+lyme symptom	headache	2	2	18	14	0.181818181818	NULL	NULL	11164	1934	0.000019905251005215175
+lyme symptom	flu-like feeling	1	1	18	14	0.181818181818	NULL	NULL	7	5	0.007936507936507936
+lyme symptom	bulls eye rash	1	1	18	14	0.181818181818	NULL	NULL	1	1	0.05555555555555555
+lyme symptom	rash	1	1	18	14	0.181818181818	NULL	NULL	2111	538	0.000026317174588136217
+lyme symptom	bulls-eye rash	1	1	18	14	0.181818181818	NULL	NULL	1	1	0.05555555555555555
+lyme symptom	chronic lyme symptom	1	1	18	14	0.181818181818	NULL	NULL	2	2	0.027777777777777776
+lyme symptom	painful	1	1	18	14	0.181818181818	NULL	NULL	38	20	0.0014619883040935672
+lyme symptom	feeling sick	1	1	18	14	0.181818181818	NULL	NULL	74	20	0.0007507507507507507
+lyme symptom	confusion	1	1	18	14	0.181818181818	NULL	NULL	1535	484	0.00003619254433586681
+lyme symptom	chill	1	1	18	14	0.181818181818	NULL	NULL	1029	232	0.00005398984990821725
+lyme symptom	slurred speech	1	1	18	14	0.181818181818	NULL	NULL	157	71	0.0003538570417551309
+lyme symptom	irritability	1	1	18	14	0.181818181818	NULL	NULL	2260	625	0.000024582104228121925
+lyme-endemic area	Wisconsin	1	1	1	1	NULL	NULL	NULL	2038	234	0.0004906771344455348
+lyme-literate physician	Dr. Joseph Jemsek	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymegrass character	stress tolerance	1	1	1	1	1.000000000000	NULL	NULL	40	27	0.025
+lymodel numerical attribute	age	1	1	1	1	NULL	NULL	NULL	32703	4368	0.00003057823441274501
+lymp hotoxin-type peptides	lymphotoxin	1	1	1	1	1.000000000000	NULL	NULL	13	6	0.07692307692307693
+lymph	hydrocele check microfilaria	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymph area	groin	4	4	4	1	NULL	NULL	NULL	371	167	0.01078167115902965
+lymph cancer	Non-Hodgkin's lymphoma	1	1	1	1	1.000000000000	NULL	NULL	75	43	0.013333333333333334
+lymph flow disorder	lymphatic dysplasia	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lymph flow disorder	lymphangiectasia	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+lymph flow disorder	lymphatic obstruction	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+lymph gland	Tonsils	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+lymph gland	Thymus	1	1	2	2	NULL	NULL	NULL	222	72	0.0022522522522522522
+lymph more waste product	toxin	1	1	2	2	NULL	NULL	NULL	616	227	0.0008116883116883117
+lymph more waste product	excess fluid	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lymph node	medial retropharyngeal	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+lymph node	aortic lymph node	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+lymph node	neck node	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+lymph node	axillary	1	1	6	6	0.500000000000	NULL	NULL	19	17	0.008771929824561403
+lymph node	animal internal lymph node	1	1	6	6	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+lymph node	medial iliac lymph node	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+lymph node & extranodal site	skin	1	1	1	1	NULL	NULL	NULL	2481	924	0.00040306328093510683
+lymph node cell type	endothelial cell	2	2	2	1	NULL	NULL	NULL	354	118	0.005649717514124294
+lymph node constituent cell	lymphocyte	1	1	1	1	NULL	NULL	NULL	439	152	0.002277904328018223
+lymph node datum	label	1	1	1	1	NULL	NULL	NULL	1519	641	0.0006583278472679394
+lymph node dissection	axillary lymph node dissection	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+lymph node filter foreign substance	bacterium	2	2	4	2	0.500000000000	NULL	NULL	6921	1358	0.00014448779078167894
+lymph node filter foreign substance	cancer cell	2	2	4	2	0.500000000000	NULL	NULL	116	55	0.008620689655172414
+lymph node often injury	cut	1	1	1	1	NULL	NULL	NULL	1864	670	0.000536480686695279
+lymph node-specific MRI contrast agent	ultrasmall superparamagnetic iron oxide particle	3	3	3	1	NULL	NULL	NULL	3	1	1
+lymph organ	lymph node	3	3	10	7	0.200000000000	NULL	NULL	295	97	0.0030508474576271183
+lymph organ	spleen	2	2	10	7	0.200000000000	NULL	NULL	689	165	0.0005805515239477504
+lymph organ	thymus	1	1	10	7	0.200000000000	NULL	NULL	222	72	0.00045045045045045046
+lymph organ	lymph vessel	1	1	10	7	0.200000000000	NULL	NULL	3	3	0.03333333333333333
+lymph organ	Peyer's patch	1	1	10	7	0.200000000000	NULL	NULL	30	19	0.0033333333333333335
+lymph organ	bone marrow	1	1	10	7	0.200000000000	NULL	NULL	467	146	0.00021413276231263385
+lymph organ	secondary lymph organ	1	1	10	7	0.200000000000	NULL	NULL	2	2	0.05
+lymph tissue	lymph node	1	1	1	1	NULL	NULL	NULL	295	97	0.003389830508474576
+lymph transportsan gen-presen ng cell	dendrite cell	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lymph vessel	large lymph vessel	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lymph vessel	thoracic duct	1	1	2	2	NULL	NULL	NULL	10	5	0.05
+Lymph-borne particulate Ags	vesicular stomatitis virus	2	1	2	1	1.000000000000	NULL	NULL	67	26	0.029850746268656716
+Lymph-vein shunting	thoracic duct-left external jugular vein anastomosis	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphacising activity	walking on uneven ground	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+lymphangiogenesis inducer	hyaluronic acid	1	1	1	1	NULL	NULL	NULL	726	312	0.0013774104683195593
+lymphangiogenesis parameter	LVD	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+Lymphangiogenesis stimulators	VEGF-C	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+lymphangiogenesis-dependent pathological process	tumor metastasis	1	1	1	1	1.000000000000	NULL	NULL	17	11	0.058823529411764705
+lymphangiogenic factor	VEGF-D	2	1	4	2	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+lymphangiogenic factor	VEGF-C	2	1	4	2	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+lymphangiogenic growth factor	VEGF-C	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+lymphangiogenic marker	VEGF-R3 receptor	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphangiogenic molecule	vascular endothelial growth factor-c	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+lymphangioleiomyomas	MFH	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+lymphatic abnormality	mesenteric lymphocytosis	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphatic and liver tonic	Echinacea	1	1	3	3	0.250000000000	NULL	NULL	1120	291	0.0002976190476190476
+lymphatic and liver tonic	Dandelion	1	1	3	3	0.250000000000	NULL	NULL	1914	499	0.00017415534656913965
+lymphatic and liver tonic	Burdock	1	1	3	3	0.250000000000	NULL	NULL	368	107	0.0009057971014492753
+lymphatic complication	lymphocutaneous fistula	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphatic condition	Klippel-Trenaunay syndrome	1	1	2	3	0.500000000000	NULL	NULL	4	4	0.125
+lymphatic condition	cellulite	1	1	2	3	0.500000000000	NULL	NULL	89	55	0.0056179775280898875
+lymphatic drainage herb	basil	1	1	7	7	0.285714285714	NULL	NULL	3388	715	0.000042165626581210996
+lymphatic drainage herb	dandelion	1	1	7	7	0.285714285714	NULL	NULL	1914	499	0.00007463800567248842
+lymphatic drainage herb	marshmallow root	1	1	7	7	0.285714285714	NULL	NULL	74	32	0.0019305019305019303
+lymphatic drainage herb	seaweed	1	1	7	7	0.285714285714	NULL	NULL	820	342	0.00017421602787456446
+lymphatic drainage herb	yellow dock root	1	1	7	7	0.285714285714	NULL	NULL	21	8	0.006802721088435374
+lymphatic drainage herb	cleaver	1	1	7	7	0.285714285714	NULL	NULL	124	49	0.001152073732718894
+lymphatic drainage herb	red clover	1	1	7	7	0.285714285714	NULL	NULL	627	174	0.000227842333105491
+lymphatic drainage technique	exercise	1	1	3	3	0.333333333333	NULL	NULL	5777	1645	0.00005770007501009751
+lymphatic drainage technique	massage	1	1	3	3	0.333333333333	NULL	NULL	5399	1445	0.00006173982836327714
+lymphatic drainage technique	skin brushing	1	1	3	3	0.333333333333	NULL	NULL	10	8	0.03333333333333333
+lymphatic drainage waste product	chemical	1	1	3	3	NULL	NULL	NULL	5436	1619	0.0000613195977434388
+lymphatic drainage waste product	bacterium	1	1	3	3	NULL	NULL	NULL	6921	1358	0.000048162596927226314
+lymphatic drainage waste product	toxin	1	1	3	3	NULL	NULL	NULL	616	227	0.0005411255411255411
+lymphatic endothelial marker	VEGFR-3	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+lymphatic factor	VEGF-C	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+lymphatic factor	PDGF-BB	1	1	2	2	1.000000000000	NULL	NULL	20	12	0.025
+Lymphatic filariasis	loiasis	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+lymphatic fluid attack germ	bacterium	2	2	4	2	NULL	NULL	NULL	6921	1358	0.00014448779078167894
+lymphatic fluid attack germ	virus	2	2	4	2	NULL	NULL	NULL	4964	1250	0.000201450443190975
+lymphatic group	mediastinal	5	5	5	1	1.000000000000	NULL	NULL	14	9	0.35714285714285715
+lymphatic herb	cleaver	4	4	10	6	0.500000000000	NULL	NULL	124	49	0.012903225806451613
+lymphatic herb	red clover	2	2	10	6	0.500000000000	NULL	NULL	627	174	0.0006379585326953748
+lymphatic herb	depurative or lymphatic herb	1	1	10	6	0.500000000000	NULL	NULL	2	2	0.05
+lymphatic herb	red clove r	1	1	10	6	0.500000000000	NULL	NULL	1	1	0.1
+lymphatic herb	depurative and lymphatic herb	1	1	10	6	0.500000000000	NULL	NULL	2	2	0.05
+lymphatic herb	actual flu lymphatic herb	1	1	10	6	0.500000000000	NULL	NULL	2	2	0.05
+lymphatic malformation	venous and lymphatic malformation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lymphatic malignancy	non-Hodgkin's lymphoma	2	2	2	1	1.000000000000	NULL	NULL	75	43	0.02666666666666667
+lymphatic mammal	porpoise	1	1	1	1	NULL	NULL	NULL	184	44	0.005434782608695652
+lymphatic marker	VEGFR-3	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+lymphatic nodule	tonsils guarding against bacterial infection using lymphocytes cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphatic organ	lymph node	6	5	25	7	0.600000000000	NULL	NULL	295	97	0.0048813559322033895
+lymphatic organ	tonsil	6	5	25	7	0.600000000000	NULL	NULL	113	50	0.012743362831858406
+lymphatic organ	spleen	5	5	25	7	0.600000000000	NULL	NULL	689	165	0.001451378809869376
+lymphatic organ	thymus	4	3	25	7	0.600000000000	NULL	NULL	222	72	0.002882882882882883
+lymphatic organ	bone marrow	2	2	25	7	0.600000000000	NULL	NULL	467	146	0.00034261241970021415
+lymphatic organ	gut-associated lymphoid tissue	1	1	25	7	0.600000000000	NULL	NULL	3	3	0.013333333333333334
+lymphatic organ	secondary lymphatic organ	1	1	25	7	0.600000000000	NULL	NULL	2	2	0.02
+lymphatic system	hunting	1	1	2	2	NULL	NULL	NULL	3586	952	0.00013943112102621306
+lymphatic system	important function in the human anatomy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphatic system lymphoma	Hodgkin's disease	1	1	2	2	0.500000000000	NULL	NULL	137	49	0.0036496350364963502
+lymphatic system lymphoma	non-Hodgkin's lymphoma	1	1	2	2	0.500000000000	NULL	NULL	75	43	0.006666666666666667
+lymphatic system organ	spleen	1	1	4	4	NULL	NULL	NULL	689	165	0.000362844702467344
+lymphatic system organ	thymus	1	1	4	4	NULL	NULL	NULL	222	72	0.0011261261261261261
+lymphatic system organ	tonsil	1	1	4	4	NULL	NULL	NULL	113	50	0.0022123893805309734
+lymphatic system organ	adenoid	1	1	4	4	NULL	NULL	NULL	39	28	0.00641025641025641
+lymphatic system structure	lymph vessel	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+lymphatic system structure	lymph node	1	1	2	2	NULL	NULL	NULL	295	97	0.001694915254237288
+lymphatic technique	slow stationary circle	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphatic tissue	lymph node	4	4	8	5	0.333333333333	NULL	NULL	295	97	0.006779661016949152
+lymphatic tissue	adenoid	1	1	8	5	0.333333333333	NULL	NULL	39	28	0.003205128205128205
+lymphatic tissue	large lymphatic tissue	1	1	8	5	0.333333333333	NULL	NULL	2	2	0.0625
+lymphatic tissue	spleen	1	1	8	5	0.333333333333	NULL	NULL	689	165	0.000181422351233672
+lymphatic tissue	found in the lymph node	1	1	8	5	0.333333333333	NULL	NULL	1	1	0.125
+Lymphatic treatment	lymphatic drainage massage	1	1	1	1	1.000000000000	NULL	NULL	17	14	0.058823529411764705
+lymphatic-specific marker	VEGFR-3	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+lymphedema protective factor	matrix metalloproteinase-9	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+lymphedema treatment	skin care	1	1	3	3	NULL	NULL	NULL	294	129	0.0011337868480725624
+lymphedema treatment	use of compression stocking	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+lymphedema treatment	massage	1	1	3	3	NULL	NULL	NULL	5399	1445	0.00006173982836327714
+lymphedema treatment garment	arm sleeve	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+lymphedema treatment garment	compression bandage	1	1	2	2	1.000000000000	NULL	NULL	18	16	0.027777777777777776
+Lympho-cytesthatproduce cytokines	IL-12	1	1	1	1	NULL	NULL	NULL	216	74	0.004629629629629629
+lympho-epithelial structure	gastro-intestinal mucosae	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lympho-epithelial structure	tonsil	1	1	3	3	NULL	NULL	NULL	113	50	0.0029498525073746312
+lympho-epithelial structure	lung	1	1	3	3	NULL	NULL	NULL	2556	599	0.00013041210224308815
+lymphoblastoid cell	C8166 cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphocidal agent	IBDV	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lymphocidal agent	MDV	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+lymphocising activity	walking on uneven ground	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+lymphocyte	T cell	12	12	40	19	0.625000000000	NULL	NULL	156	63	0.023076923076923075
+lymphocyte	B cell	9	9	40	19	0.625000000000	NULL	NULL	169	52	0.01198224852071006
+lymphocyte	macrophages	2	2	40	19	0.625000000000	NULL	NULL	1468	303	0.00006811989100817439
+lymphocyte	Natural Killer cell	2	2	40	19	0.625000000000	NULL	NULL	96	45	0.0010416666666666667
+lymphocyte	unconventionnal t lymphocyte	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	innate or innate-like lymphocyte	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	mantle cell	1	1	40	19	0.625000000000	NULL	NULL	2	2	0.0125
+lymphocyte	memory b cell	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	natural killer cell s	1	1	40	19	0.625000000000	NULL	NULL	2	2	0.0125
+lymphocyte	T-lymphocytes	1	1	40	19	0.625000000000	NULL	NULL	31	15	0.0008064516129032258
+lymphocyte	T lymphocyte	1	1	40	19	0.625000000000	NULL	NULL	52	27	0.0004807692307692308
+lymphocyte	circulsting B cell	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	plasma cell	1	1	40	19	0.625000000000	NULL	NULL	61	30	0.0004098360655737705
+lymphocyte	neutrophils	1	1	40	19	0.625000000000	NULL	NULL	678	164	0.00003687315634218289
+lymphocyte	B cell s	1	1	40	19	0.625000000000	NULL	NULL	3	2	0.008333333333333333
+lymphocyte	cytokines pro-ducedbyth2 lymphocyte	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	transduced with an HIV-1 based vector capable of expressing heterologous genetic material of interes	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	tumor-infiltrated lymphocyte	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte	typicallyactivated T cell	1	1	40	19	0.625000000000	NULL	NULL	1	1	0.025
+lymphocyte activation antigen	CD30	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+lymphocyte activator	phorbol ester	1	1	2	2	0.333333333333	NULL	NULL	95	44	0.005263157894736842
+lymphocyte activator	IL-2	1	1	2	2	0.333333333333	NULL	NULL	347	116	0.001440922190201729
+lymphocyte antigen receptor	B cell antigen receptor	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphocyte associated antigen	CD19	1	1	2	2	1.000000000000	NULL	NULL	53	36	0.009433962264150943
+lymphocyte associated antigen	CD22	1	1	2	2	1.000000000000	NULL	NULL	34	18	0.014705882352941176
+lymphocyte behavior	antigen recognition	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+lymphocyte cell	B cell	1	1	1	1	NULL	NULL	NULL	169	52	0.005917159763313609
+lymphocyte chemotactic factor	IL-1	1	1	1	1	NULL	NULL	NULL	586	117	0.0017064846416382253
+lymphocyte costimulatory molecule	CD40	1	1	1	1	NULL	NULL	NULL	58	32	0.017241379310344827
+lymphocyte disorder	multiple myeloma	1	1	1	1	NULL	NULL	NULL	341	132	0.002932551319648094
+lymphocyte function	activation	1	1	4	4	NULL	NULL	NULL	120	79	0.0020833333333333333
+lymphocyte function	DNA synthetic response	1	1	4	4	NULL	NULL	NULL	3	2	0.08333333333333333
+lymphocyte function	locomotion	1	1	4	4	NULL	NULL	NULL	171	97	0.0014619883040935672
+lymphocyte function	antigen recognition	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+lymphocyte granulomatous lung inflammatory disorder	sarcoidosis	1	1	3	3	NULL	NULL	NULL	535	165	0.0006230529595015575
+lymphocyte granulomatous lung inflammatory disorder	extrinsic allergicalveolitis	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+lymphocyte granulomatous lung inflammatory disorder	associated with inhalation of antigens causing a host response	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Lymphocyte integrins	LFA-1	2	2	3	2	1.000000000000	NULL	NULL	40	21	0.03333333333333333
+Lymphocyte integrins	VLA-4	1	1	3	2	1.000000000000	NULL	NULL	19	12	0.017543859649122806
+lymphocyte lymphotropic virus	retrovirus	1	1	1	1	NULL	NULL	NULL	202	51	0.0049504950495049506
+lymphocyte marker	mature lymphocyte marker	1	1	7	7	0.750000000000	NULL	NULL	2	2	0.07142857142857142
+lymphocyte marker	CD22	1	1	7	7	0.750000000000	NULL	NULL	34	18	0.004201680672268907
+lymphocyte marker	CD30	1	1	7	7	0.750000000000	NULL	NULL	13	10	0.010989010989010988
+lymphocyte marker	CD22 andcd30	1	1	7	7	0.750000000000	NULL	NULL	1	1	0.14285714285714285
+lymphocyte marker	CD19	1	1	7	7	0.750000000000	NULL	NULL	53	36	0.002695417789757412
+lymphocyte marker	T-cell marker	1	1	7	7	0.750000000000	NULL	NULL	1	1	0.14285714285714285
+lymphocyte marker	B-cell marker	1	1	7	7	0.750000000000	NULL	NULL	1	1	0.14285714285714285
+lymphocyte population	B cell	1	1	1	1	NULL	NULL	NULL	169	52	0.005917159763313609
+lymphocyte response	IL-2	1	1	1	1	NULL	NULL	NULL	347	116	0.002881844380403458
+lymphocyte rich region	mesenteric lymph nodes in the mouse spleen	2	2	2	1	NULL	NULL	NULL	2	1	1
+lymphocyte sequestration agent	sphingosine kinase inhibitor	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+lymphocyte specific antibody	anti-thymocyte globulin	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+Lymphocyte stimulaters	IL-2	1	1	1	1	0.500000000000	NULL	NULL	347	116	0.002881844380403458
+lymphocyte subpopulations	Th17	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+lymphocyte subpopulations	CD4 FOXP3	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphocyte subset	regulatory Tcells	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+lymphocyte subset	regulatory T cell	1	1	4	4	0.666666666666	NULL	NULL	23	11	0.010869565217391304
+lymphocyte subset	Th17 cell	1	1	4	4	0.666666666666	NULL	NULL	3	3	0.08333333333333333
+lymphocyte subset	discrete lymphocyte subset	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+lymphocyte surface antigen	human leucocyte antigen-dr	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lymphocyte surface antigen	CD38	1	1	2	2	NULL	NULL	NULL	46	25	0.010869565217391304
+lymphocyte T expressing marker	CD2	1	1	3	3	0.666666666666	NULL	NULL	38	26	0.008771929824561403
+lymphocyte T expressing marker	CD4	1	1	3	3	0.666666666666	NULL	NULL	89	59	0.0037453183520599247
+lymphocyte T expressing marker	CD7	1	1	3	3	0.666666666666	NULL	NULL	14	12	0.023809523809523808
+lymphocyte type	B cell	18	12	28	8	0.750000000000	NULL	NULL	169	52	0.06846999154691463
+lymphocyte type	natural killer cell	3	2	28	8	0.750000000000	NULL	NULL	96	45	0.0033482142857142855
+lymphocyte type	B cell s	2	2	28	8	0.750000000000	NULL	NULL	3	2	0.047619047619047616
+lymphocyte type	B cells by the presence of special binding area called T-cell receptor	1	1	28	8	0.750000000000	NULL	NULL	1	1	0.03571428571428571
+lymphocyte type	Bcellsandnatural killer cell	1	1	28	8	0.750000000000	NULL	NULL	1	1	0.03571428571428571
+lymphocyte type	B-cells	1	1	28	8	0.750000000000	NULL	NULL	21	13	0.0017006802721088435
+lymphocyte type	NK cell	1	1	28	8	0.750000000000	NULL	NULL	65	38	0.0005494505494505495
+lymphocyte type	Natural Killer NK cells by the presence of the T-cell receptor	1	1	28	8	0.750000000000	NULL	NULL	1	1	0.03571428571428571
+lymphocyte-depleting antibody	anti-thymocyte globulin	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+lymphocyte-depleting antibody	alemtuzumab	1	1	2	2	1.000000000000	NULL	NULL	68	31	0.007352941176470588
+lymphocyte-depleting polyclonal antibody	thymoglobulin	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lymphocyte-derived product	IL-4	1	1	1	1	NULL	NULL	NULL	535	129	0.001869158878504673
+lymphocyte-rich lesion	branchial cleft cyst	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+lymphocyte-rich lesion	benign lymphoepithelial lesion	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+lymphocyte-rich lesion	Warthin tumor	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+lymphocyte-rich tissue	thymus	1	1	2	2	NULL	NULL	NULL	222	72	0.0022522522522522522
+lymphocyte-rich tissue	tonsil	1	1	2	2	NULL	NULL	NULL	113	50	0.004424778761061947
+lymphocyte-specific gene	Lck	1	1	1	1	1.000000000000	NULL	NULL	32	17	0.03125
+lymphocyte-specific immunosuppressants	cyclosporin	1	1	1	1	NULL	NULL	NULL	297	99	0.003367003367003367
+lymphocytecostimulatory molecule	CD40	1	1	1	1	NULL	NULL	NULL	58	32	0.017241379310344827
+lymphocytic differentiation marker	Thy-1	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+lymphocytic neoplasm	non-Hodgkin lymphoma	1	1	1	1	1.000000000000	NULL	NULL	34	26	0.029411764705882353
+lymphocytokine signal	IL-2	1	1	1	1	NULL	NULL	NULL	347	116	0.002881844380403458
+Lymphocytokines	IL-2	1	1	2	2	NULL	NULL	NULL	347	116	0.001440922190201729
+Lymphocytokines	IL-12	1	1	2	2	NULL	NULL	NULL	216	74	0.0023148148148148147
+Lymphocytolytic mycotoxins	T-2 toxin	2	2	2	1	1.000000000000	NULL	NULL	22	8	0.09090909090909091
+lymphocytotrophic cytokine gene	interleukin-12	2	2	4	2	0.500000000000	NULL	NULL	42	17	0.023809523809523808
+lymphocytotrophic cytokine gene	interleukin-2	2	2	4	2	0.500000000000	NULL	NULL	208	70	0.004807692307692308
+lymphocytropic herpesviruses	HHV8	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+lymphocytropic herpesviruses	HHV7	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+lymphocytropic herpesviruses	human herpesvirus 6	1	1	3	3	1.000000000000	NULL	NULL	16	9	0.020833333333333332
+lymphodepleting agent	ATG	1	1	4	4	0.500000000000	NULL	NULL	38	27	0.006578947368421052
+lymphodepleting agent	cyclophosphamide	1	1	4	4	0.500000000000	NULL	NULL	962	220	0.0002598752598752599
+lymphodepleting agent	anti-CD20 antibody	1	1	4	4	0.500000000000	NULL	NULL	6	5	0.041666666666666664
+lymphodepleting agent	Campath 1-H	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+lymphodynamic change	destruction of lymphatic valve	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphodynamic change	increase of intralymphatic pressure	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphoedema syndrome	Nanne-Milroy syndrome	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphoid -infiltrate	PLEVA	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+lymphoid -infiltrate	lymphomatoid papulosis	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+lymphoid and nonlymphoid cell	adipocytes	1	1	1	1	NULL	NULL	NULL	86	30	0.011627906976744186
+lymphoid antigen	CD2	2	2	5	4	1.000000000000	NULL	NULL	38	26	0.021052631578947368
+lymphoid antigen	CD19	1	1	5	4	1.000000000000	NULL	NULL	53	36	0.0037735849056603774
+lymphoid antigen	CD5	1	1	5	4	1.000000000000	NULL	NULL	29	20	0.006896551724137932
+lymphoid antigen	CD10	1	1	5	4	1.000000000000	NULL	NULL	33	21	0.006060606060606061
+lymphoid blood cancer	non-Hodgkin's lymphoma	1	1	1	1	1.000000000000	NULL	NULL	75	43	0.013333333333333334
+lymphoid cancer	lymphoma	1	1	1	1	NULL	NULL	NULL	989	317	0.0010111223458038423
+lymphoid cell	B lymphocyte	4	3	24	17	0.750000000000	NULL	NULL	41	21	0.016260162601626015
+lymphoid cell	B cell	3	3	24	17	0.750000000000	NULL	NULL	169	52	0.0022189349112426036
+lymphoid cell	T cell	2	2	24	17	0.750000000000	NULL	NULL	156	63	0.0010683760683760683
+lymphoid cell	NK cell	2	2	24	17	0.750000000000	NULL	NULL	65	38	0.002564102564102564
+lymphoid cell	monoclonal antibody-producing hybridomas	1	1	24	17	0.750000000000	NULL	NULL	1	1	0.041666666666666664
+lymphoid cell	peripheral B cell	1	1	24	17	0.750000000000	NULL	NULL	1	1	0.041666666666666664
+lymphoid cell	peripheral blood mononuclear cells treated with gamma interferon	1	1	24	17	0.750000000000	NULL	NULL	1	1	0.041666666666666664
+lymphoid cell	regulatory T cell	1	1	24	17	0.750000000000	NULL	NULL	23	11	0.0018115942028985505
+lymphoid cell	macrophages	1	1	24	17	0.750000000000	NULL	NULL	1468	303	0.00002838328792007266
+lymphoid cell	thymocytes	1	1	24	17	0.750000000000	NULL	NULL	16	5	0.0026041666666666665
+lymphoid cell	normal lymphoid cell	1	1	24	17	0.750000000000	NULL	NULL	2	2	0.020833333333333332
+lymphoid cell	infected by HSV-1	1	1	24	17	0.750000000000	NULL	NULL	1	1	0.041666666666666664
+lymphoid cell	lymphoid DC	1	1	24	17	0.750000000000	NULL	NULL	1	1	0.041666666666666664
+lymphoid cell	effector T cell	1	1	24	17	0.750000000000	NULL	NULL	2	2	0.020833333333333332
+lymphoid cell	monocytes	1	1	24	17	0.750000000000	NULL	NULL	463	135	0.00008999280057595392
+lymphoid cell	normal mammalian lymphoid cell	1	1	24	17	0.750000000000	NULL	NULL	2	2	0.020833333333333332
+lymphoid cell	myelomas	1	1	24	17	0.750000000000	NULL	NULL	5	9	0.008333333333333333
+lymphoid cell line	hybridorna cell line	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphoid cell line	hybridoma cell line	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphoid cell type	natural killer T	1	1	1	1	NULL	NULL	NULL	1	1	1
+Lymphoid chemokines	CCL19	2	2	5	3	1.000000000000	NULL	NULL	12	5	0.06666666666666667
+Lymphoid chemokines	CCL21	2	2	5	3	1.000000000000	NULL	NULL	11	3	0.07272727272727274
+Lymphoid chemokines	CXCL13	1	1	5	3	1.000000000000	NULL	NULL	12	6	0.016666666666666666
+lymphoid dyscrasias	pityriasis lichenoides chronica	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphoid dyscrasias	large plaque parapsoriasis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphoid growth factor	interleukin-12	1	1	1	1	1.000000000000	NULL	NULL	42	17	0.023809523809523808
+lymphoid lineage committed progenitor	common lymphoid progenitor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lymphoid lineage-committed progenitor	common lymphoid progenitor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lymphoid malignancy	non-Hodgkin's lymphoma	2	1	9	8	0.600000000000	NULL	NULL	75	43	0.005925925925925926
+lymphoid malignancy	B-cell lymphoma	1	1	9	8	0.600000000000	NULL	NULL	16	13	0.006944444444444444
+lymphoid malignancy	lymphoma	1	1	9	8	0.600000000000	NULL	NULL	989	317	0.00011234692731153802
+lymphoid malignancy	lymphoblastic	1	1	9	8	0.600000000000	NULL	NULL	5	3	0.02222222222222222
+lymphoid malignancy	human lymphoid malignancy	1	1	9	8	0.600000000000	NULL	NULL	2	2	0.05555555555555555
+lymphoid malignancy	common lymphoid malignancy	1	1	9	8	0.600000000000	NULL	NULL	2	2	0.05555555555555555
+lymphoid malignancy	acute lymphoblastic leukemia	1	1	9	8	0.600000000000	NULL	NULL	31	20	0.0035842293906810036
+lymphoid malignancy	multiple myeloma	1	1	9	8	0.600000000000	NULL	NULL	341	132	0.00032583903551645487
+lymphoid marker	CD8	4	4	18	9	0.875000000000	NULL	NULL	35	23	0.025396825396825397
+lymphoid marker	CD4	4	4	18	9	0.875000000000	NULL	NULL	89	59	0.009987515605493134
+lymphoid marker	CD20	3	2	18	9	0.875000000000	NULL	NULL	47	31	0.010638297872340425
+lymphoid marker	CD3	2	2	18	9	0.875000000000	NULL	NULL	41	30	0.005420054200542005
+lymphoid marker	CD22	1	1	18	9	0.875000000000	NULL	NULL	34	18	0.001633986928104575
+lymphoid marker	CD5	1	1	18	9	0.875000000000	NULL	NULL	29	20	0.0019157088122605363
+lymphoid marker	CD10	1	1	18	9	0.875000000000	NULL	NULL	33	21	0.0016835016835016834
+lymphoid marker	CD45	1	1	18	9	0.875000000000	NULL	NULL	53	39	0.0010482180293501047
+lymphoid marker	concerning lymphoid marker	1	1	18	9	0.875000000000	NULL	NULL	2	2	0.027777777777777776
+lymphoid neoplasm	non-Hodgkin's lymphoma	1	1	2	2	1.000000000000	NULL	NULL	75	43	0.006666666666666667
+lymphoid neoplasm	natural killer-like T cell lymphoma	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lymphoid organ	spleen	33	28	120	23	0.900000000000	NULL	NULL	689	165	0.013171262699564588
+lymphoid organ	thymus	26	21	120	23	0.900000000000	NULL	NULL	222	72	0.02537537537537538
+lymphoid organ	lymph node	20	18	120	23	0.900000000000	NULL	NULL	295	97	0.011299435028248586
+lymphoid organ	tonsil	9	7	120	23	0.900000000000	NULL	NULL	113	50	0.005973451327433627
+lymphoid organ	bone marrow	8	8	120	23	0.900000000000	NULL	NULL	467	146	0.0011420413990007137
+lymphoid organ	Peyer's patch	4	4	120	23	0.900000000000	NULL	NULL	30	19	0.0044444444444444444
+lymphoid organ	bursa	2	2	120	23	0.900000000000	NULL	NULL	42	25	0.0007936507936507937
+lymphoid organ	adenoid	2	1	120	23	0.900000000000	NULL	NULL	39	28	0.0008547008547008547
+lymphoid organ	bursa of Fabricius of bird	2	1	120	23	0.900000000000	NULL	NULL	2	1	0.016666666666666666
+lymphoid organ	bursa of Fabricius	1	1	120	23	0.900000000000	NULL	NULL	4	4	0.0020833333333333333
+lymphoid organ	extraintestinal lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid organ	compartmentalized secondary lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	3	3	0.002777777777777778
+lymphoid organ	peripheral lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid organ	peripheral lymph node	1	1	120	23	0.900000000000	NULL	NULL	3	2	0.002777777777777778
+lymphoid organ	bcellsinsolid lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid organ	econdary lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid organ	discussion secondary lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	3	3	0.002777777777777778
+lymphoid organ	draining lymph node	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid organ	appendix	1	1	120	23	0.900000000000	NULL	NULL	89	50	0.00009363295880149813
+lymphoid organ	sophisticated secondary lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	3	3	0.002777777777777778
+lymphoid organ	so-called ``lymphoid organ''	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid organ	fetal liver	1	1	120	23	0.900000000000	NULL	NULL	15	7	0.0005555555555555556
+lymphoid organ	central lymphoid organ	1	1	120	23	0.900000000000	NULL	NULL	2	2	0.004166666666666667
+lymphoid structure	Peyer's patch	2	2	6	5	0.333333333333	NULL	NULL	30	19	0.02222222222222222
+lymphoid structure	solitary follicles of the intestine	1	1	6	5	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+lymphoid structure	tonsil	1	1	6	5	0.333333333333	NULL	NULL	113	50	0.0014749262536873156
+lymphoid structure	plasma cell	1	1	6	5	0.333333333333	NULL	NULL	61	30	0.00273224043715847
+lymphoid structure	secondary lymphoid structure	1	1	6	5	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+lymphoid tissue	spleen	21	17	79	23	0.700000000000	NULL	NULL	689	165	0.008102000698131578
+lymphoid tissue	lymph node	19	14	79	23	0.700000000000	NULL	NULL	295	97	0.015490238146320534
+lymphoid tissue	tonsil	7	7	79	23	0.700000000000	NULL	NULL	113	50	0.005488966058026213
+lymphoid tissue	thymus	7	6	79	23	0.700000000000	NULL	NULL	222	72	0.002793933173680009
+lymphoid tissue	bone marrow	4	3	79	23	0.700000000000	NULL	NULL	467	146	0.00043368660721546093
+lymphoid tissue	Peyer's patch	3	3	79	23	0.700000000000	NULL	NULL	30	19	0.0037974683544303796
+lymphoid tissue	peripheral secondary lymphoid organ	2	2	79	23	0.700000000000	NULL	NULL	2	1	0.02531645569620253
+lymphoid tissue	host immune cell	1	1	79	23	0.700000000000	NULL	NULL	3	3	0.004219409282700422
+lymphoid tissue	intraepithelial lymphocytes in the normal stomach	1	1	79	23	0.700000000000	NULL	NULL	1	1	0.012658227848101266
+lymphoid tissue	intestinal Peyer's patch	1	1	79	23	0.700000000000	NULL	NULL	1	1	0.012658227848101266
+lymphoid tissue	human lymphoid tissue	1	1	79	23	0.700000000000	NULL	NULL	2	2	0.006329113924050633
+lymphoid tissue	large increase in Tregs	1	1	79	23	0.700000000000	NULL	NULL	1	1	0.012658227848101266
+lymphoid tissue	lung	1	1	79	23	0.700000000000	NULL	NULL	2556	599	0.0000049523583130286645
+lymphoid tissue	MLN	1	1	79	23	0.700000000000	NULL	NULL	7	6	0.0018083182640144665
+lymphoid tissue	mesenteric lymph node	1	1	79	23	0.700000000000	NULL	NULL	8	4	0.0015822784810126582
+lymphoid tissue	node	1	1	79	23	0.700000000000	NULL	NULL	148	102	0.00008552856654122477
+lymphoid tissue	lymphatic gland	1	1	79	23	0.700000000000	NULL	NULL	2	2	0.006329113924050633
+lymphoid tissue	tonsil s	1	1	79	23	0.700000000000	NULL	NULL	1	1	0.012658227848101266
+lymphoid tissue	tertiary lymphoid tissue	1	1	79	23	0.700000000000	NULL	NULL	2	2	0.006329113924050633
+lymphoid tissue	thymus in human	1	1	79	23	0.700000000000	NULL	NULL	1	1	0.012658227848101266
+lymphoid tissue	adult lymphoid tissue	1	1	79	23	0.700000000000	NULL	NULL	2	2	0.006329113924050633
+lymphoid tissue	gut lymphoid tissue	1	1	79	23	0.700000000000	NULL	NULL	2	2	0.006329113924050633
+lymphoid tissue	Peyer's patches in the digestive tract	1	1	79	23	0.700000000000	NULL	NULL	1	1	0.012658227848101266
+lymphoid tissue site	axillary	1	1	1	1	1.000000000000	NULL	NULL	19	17	0.05263157894736842
+Lymphoid-lineage transcription-factor gene expression	E2A	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+lymphokine gene	IL-2	1	1	1	1	NULL	NULL	NULL	347	116	0.002881844380403458
+lymphokine receptor	class II MHC antigen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lymphokine receptor	nutrient receptor	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+lymphokine receptor	IL-2	1	1	3	3	NULL	NULL	NULL	347	116	0.0009606147934678194
+lymphokines	IL-2	7	5	42	22	0.571428571428	NULL	NULL	347	116	0.0033621517771373673
+lymphokines	tumor necrosis factor	4	4	42	22	0.571428571428	NULL	NULL	428	110	0.0008900756564307966
+lymphokines	interleukin-2	4	4	42	22	0.571428571428	NULL	NULL	208	70	0.0018315018315018315
+lymphokines	interferon-gamma	3	3	42	22	0.571428571428	NULL	NULL	75	21	0.002857142857142857
+lymphokines	interferon	2	2	42	22	0.571428571428	NULL	NULL	643	222	0.00014811523365178107
+lymphokines	IL-3	2	2	42	22	0.571428571428	NULL	NULL	145	51	0.0006568144499178981
+lymphokines	granulocyte-macrophage colony-stimulating factor	2	2	42	22	0.571428571428	NULL	NULL	56	21	0.0017006802721088435
+lymphokines	interleukin-1	2	2	42	22	0.571428571428	NULL	NULL	467	76	0.00020393596410727031
+lymphokines	interleukin	2	2	42	22	0.571428571428	NULL	NULL	295	101	0.00032284100080710247
+lymphokines	IL-4	2	2	42	22	0.571428571428	NULL	NULL	535	129	0.0001780151312861593
+lymphokines	interleukin-2 at present offer great potential	1	1	42	22	0.571428571428	NULL	NULL	1	1	0.023809523809523808
+lymphokines	interferon-alpha	1	1	42	22	0.571428571428	NULL	NULL	50	21	0.0004761904761904762
+lymphokines	gamma interferon	1	1	42	22	0.571428571428	NULL	NULL	36	20	0.0006613756613756613
+lymphokines	perforin	1	1	42	22	0.571428571428	NULL	NULL	12	9	0.001984126984126984
+lymphokines	IL-1	1	1	42	22	0.571428571428	NULL	NULL	586	117	0.00004063058670567203
+lymphokines	IFN-gamma	1	1	42	22	0.571428571428	NULL	NULL	51	23	0.0004668534080298786
+lymphokines	colony stimulating factor	1	1	42	22	0.571428571428	NULL	NULL	8	5	0.002976190476190476
+lymphokines	tumor necrosis factor-alpha	1	1	42	22	0.571428571428	NULL	NULL	232	42	0.00010262725779967159
+lymphokines	interferon gamma	1	1	42	22	0.571428571428	NULL	NULL	58	27	0.00041050903119868636
+lymphokines	IL 1	1	1	42	22	0.571428571428	NULL	NULL	9	6	0.0026455026455026454
+lymphokines	lymphokine-activated killer cells derived from patient peripheral blood	1	1	42	22	0.571428571428	NULL	NULL	1	1	0.023809523809523808
+lymphokines	erythropoietin	1	1	42	22	0.571428571428	NULL	NULL	285	108	0.00008354218880534669
+lymphoma	small lymphocytic lymphoma	3	3	44	35	1.000000000000	NULL	NULL	7	5	0.02922077922077922
+lymphoma	Burkitt lymphoma	3	3	44	35	1.000000000000	NULL	NULL	19	11	0.010765550239234449
+lymphoma	Hodgkin's disease	3	3	44	35	1.000000000000	NULL	NULL	137	49	0.001493032514930325
+lymphoma	lymphoblastic lymphoma	2	2	44	35	1.000000000000	NULL	NULL	6	5	0.015151515151515152
+lymphoma	Burkitt's lymphoma	2	2	44	35	1.000000000000	NULL	NULL	35	22	0.0025974025974025974
+lymphoma	angioimmunoblastic lymphoma	2	2	44	35	1.000000000000	NULL	NULL	4	3	0.022727272727272728
+lymphoma	DLBCL with MYC translocations	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	typically low-grade  b-cell lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	intermediate-grade mature b-cell lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	marginal zone B cell MLs	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue type	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	low grade lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	nodal or extranodal non-hodgkin lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	non-Hodgkin lymphoma	1	1	44	35	1.000000000000	NULL	NULL	34	26	0.0006684491978609626
+lymphoma	diffuse large cell lymphoma	1	1	44	35	1.000000000000	NULL	NULL	3	3	0.007575757575757576
+lymphoma	common mediastinal lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	systemic anaplastic large cell lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	high grade non-hodgkin lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	high-grade b cell lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	Hodgkin's	1	1	44	35	1.000000000000	NULL	NULL	8	4	0.002840909090909091
+lymphoma	primary CNS lymphoma	1	1	44	35	1.000000000000	NULL	NULL	6	5	0.003787878787878788
+lymphoma	b-and  t-cell non-hodgkin's lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	lymphatic system lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	mantle cell lymphoma	1	1	44	35	1.000000000000	NULL	NULL	19	16	0.0011961722488038277
+lymphoma	Hodgkin lymphoma	1	1	44	35	1.000000000000	NULL	NULL	14	13	0.0016233766233766235
+lymphoma	indolent or low grade lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	clinically aggressive lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	DLBCL	1	1	44	35	1.000000000000	NULL	NULL	7	7	0.003246753246753247
+lymphoma	non-Hodgkin's lymphoma	1	1	44	35	1.000000000000	NULL	NULL	75	43	0.00030303030303030303
+lymphoma	mta3-positive, higher-growth fraction lymphoma	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	marginal zone B-cell lymphoma of MALT type	1	1	44	35	1.000000000000	NULL	NULL	1	1	0.022727272727272728
+lymphoma	follicular	1	1	44	35	1.000000000000	NULL	NULL	15	13	0.0015151515151515152
+lymphoma	follicular lymphoma	1	1	44	35	1.000000000000	NULL	NULL	30	24	0.0007575757575757576
+lymphoma	anaplastic lymphoma	1	1	44	35	1.000000000000	NULL	NULL	2	2	0.011363636363636364
+lymphoma	small lymphocytic	1	1	44	35	1.000000000000	NULL	NULL	3	2	0.007575757575757576
+Lymphoma Aggressive-histology NHL	diffuse large B cell	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lymphoma associated symptom	pain	2	1	4	2	NULL	NULL	NULL	5315	1495	0.00018814675446848542
+lymphoma associated symptom	pruritus	2	1	4	2	NULL	NULL	NULL	399	138	0.002506265664160401
+lymphoma cell	Daudi B lymphoma cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphoma cell line	diffuse large cell lymphoma cell line	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lymphoma cell line	follicular lymphoma cell line	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lymphoma cell line	Burkitt lymphoma cell line	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lymphoma cell-associated antibody	natural anti-idiotype antibody	1	1	1	1	NULL	NULL	NULL	1	1	1
+lymphoma classification system	Rappaport classification	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lymphoma classification system	Working Formulation	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+lymphoma entity	pre B-ALL	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+lymphoma histology	follicular	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+lymphoma histology	mantle cell subtypes	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lymphoma subtypes	mantle cell lymphoma	1	1	3	3	1.000000000000	NULL	NULL	19	16	0.017543859649122806
+lymphoma subtypes	ALCL	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+lymphoma subtypes	Hodgkin's lymphoma	1	1	3	3	1.000000000000	NULL	NULL	38	16	0.008771929824561403
+lymphoma symptom	rib swelling	2	2	2	1	NULL	NULL	NULL	2	1	1
+lymphoma treatment	Bexxar	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+lymphoma-infiltrated specimen	lymph node	1	1	2	2	0.500000000000	NULL	NULL	295	97	0.001694915254237288
+lymphoma-infiltrated specimen	peripheral blood	1	1	2	2	0.500000000000	NULL	NULL	36	20	0.013888888888888888
+lymphoma-like regimen	CHOP	1	1	2	2	0.500000000000	NULL	NULL	189	96	0.0026455026455026454
+lymphoma-like regimen	CHOP andasparaginase	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+lymphomagenic chromosomal translocations	t in follicular lymphoma	2	2	2	1	NULL	NULL	NULL	4	2	0.5
+lymphomatous disorder	chronic lymphatic leukemia	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+lymphophilic malignancy	cervical cancer	1	1	1	1	NULL	NULL	NULL	243	88	0.00411522633744856
+lymphoplasmacytic disorder	multiple myeloma	1	1	1	1	NULL	NULL	NULL	341	132	0.002932551319648094
+lymphoprolif-erative disease	chronic lymphocytic leukemia	1	1	1	1	NULL	NULL	NULL	68	41	0.014705882352941176
+lymphoproliferative disease	hairy cell leukemia	2	1	9	8	0.750000000000	NULL	NULL	22	19	0.0202020202020202
+lymphoproliferative disease	b-cell lymphoproliferative disease	1	1	9	8	0.750000000000	NULL	NULL	2	2	0.05555555555555555
+lymphoproliferative disease	non-Hodgkin lymphoma	1	1	9	8	0.750000000000	NULL	NULL	34	26	0.00326797385620915
+lymphoproliferative disease	mycosis fungoides	1	1	9	8	0.750000000000	NULL	NULL	31	17	0.0035842293906810036
+lymphoproliferative disease	Waldenstr m's macroglobulinemia	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+lymphoproliferative disease	HD	1	1	9	8	0.750000000000	NULL	NULL	169	92	0.0006574621959237343
+lymphoproliferative disease	gastric lymphoma	1	1	9	8	0.750000000000	NULL	NULL	5	5	0.02222222222222222
+lymphoproliferative disease	Waldenstrm's macroglobulinemia	1	1	9	8	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+lymphoproliferative disorder	multiple myeloma	9	5	47	20	0.666666666666	NULL	NULL	341	132	0.0050539714232233105
+lymphoproliferative disorder	Waldenstrom's macroglobulinemia	7	3	47	20	0.666666666666	NULL	NULL	20	12	0.05212765957446808
+lymphoproliferative disorder	leukemia	4	3	47	20	0.666666666666	NULL	NULL	1553	331	0.00021920510747900425
+lymphoproliferative disorder	lymphoma	4	3	47	20	0.666666666666	NULL	NULL	989	317	0.000344211862401308
+lymphoproliferative disorder	chronic lymphocytic leukemia	4	4	47	20	0.666666666666	NULL	NULL	68	41	0.0050062578222778474
+lymphoproliferative disorder	B-prolymphocytic leukemia	3	3	47	20	0.666666666666	NULL	NULL	3	1	0.06382978723404255
+lymphoproliferative disorder	plasma cell leukemia	3	3	47	20	0.666666666666	NULL	NULL	5	3	0.03829787234042553
+lymphoproliferative disorder	lymphoproliferative disorder lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	cutaneous lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	marrow-based lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	discussion various lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	accompanying lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	Multicentric Castleman's disease	1	1	47	20	0.666666666666	NULL	NULL	6	4	0.0035460992907801418
+lymphoproliferative disorder	Hodgkin's disease	1	1	47	20	0.666666666666	NULL	NULL	137	49	0.00015530361857431278
+lymphoproliferative disorder	b-cell lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	non-Hodgkin's lymphoma	1	1	47	20	0.666666666666	NULL	NULL	75	43	0.00028368794326241134
+lymphoproliferative disorder	underlying lymphoproliferative disorder	1	1	47	20	0.666666666666	NULL	NULL	2	2	0.010638297872340425
+lymphoproliferative disorder	follicular	1	1	47	20	0.666666666666	NULL	NULL	15	13	0.0014184397163120566
+lymphoproliferative disorder	lymphomatoid granulomatosis	1	1	47	20	0.666666666666	NULL	NULL	3	3	0.0070921985815602835
+lymphoproliferative disorder	primary effusion lymphoma	1	1	47	20	0.666666666666	NULL	NULL	15	11	0.0014184397163120566
+lymphoproliferative herpesviruses	Epstein-Barr virus	1	1	2	2	NULL	NULL	NULL	286	79	0.0017482517482517483
+lymphoproliferative herpesviruses	rhesus lymphocryptovirus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphoproliferative malignancy	chronic lymphocytic leukemia	2	2	4	3	0.666666666666	NULL	NULL	68	41	0.014705882352941176
+lymphoproliferative malignancy	non-Hodgkin's lymphoma	1	1	4	3	0.666666666666	NULL	NULL	75	43	0.0033333333333333335
+lymphoproliferative malignancy	myeloma	1	1	4	3	0.666666666666	NULL	NULL	110	57	0.0022727272727272726
+lymphoproliferative tumor	chronic lymphocytic leukemia	1	1	1	1	NULL	NULL	NULL	68	41	0.014705882352941176
+lymphoreticular malignancy	lymphocytic leukemia	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+lymphoreticular tissue	spleen	1	1	3	3	NULL	NULL	NULL	689	165	0.0004837929366231253
+lymphoreticular tissue	lymph node	1	1	3	3	NULL	NULL	NULL	295	97	0.0011299435028248588
+lymphoreticular tissue	bone marrow	1	1	3	3	NULL	NULL	NULL	467	146	0.0007137758743754461
+lymphoreticular tumor	Hodgkin	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+lymphoreticular tumor	non-Hiodgkin lymphoma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lymphotoxin-type peptides	lymphotoxin	1	1	1	1	1.000000000000	NULL	NULL	13	6	0.07692307692307693
+lymphotrophic agent	arginine	1	1	2	2	NULL	NULL	NULL	571	152	0.0008756567425569177
+lymphotrophic agent	IL-2	1	1	2	2	NULL	NULL	NULL	347	116	0.001440922190201729
+lymphotropi c virus	Kaposi ssarcoma herpesvirus	1	1	1	1	NULL	NULL	NULL	1	1	1
+Lymphotropic herpesviruses	Epstein-Barr virus	1	1	1	1	NULL	NULL	NULL	286	79	0.0034965034965034965
+lymphotropic virus	human immunodeficiency virus	2	2	8	6	0.200000000000	NULL	NULL	413	115	0.0012106537530266344
+lymphotropic virus	HIV-1	2	2	8	6	0.200000000000	NULL	NULL	189	57	0.0026455026455026454
+lymphotropic virus	human T-cell leukemia virus	1	1	8	6	0.200000000000	NULL	NULL	51	8	0.0024509803921568627
+lymphotropic virus	Kaposi's sarcoma herpesvirus	1	1	8	6	0.200000000000	NULL	NULL	1	1	0.125
+lymphotropic virus	cytomegalovirus	1	1	8	6	0.200000000000	NULL	NULL	524	120	0.00023854961832061068
+lymphotropic virus	Epstein-Barr virus	1	1	8	6	0.200000000000	NULL	NULL	286	79	0.00043706293706293706
+lympic sport	netball	1	1	1	1	NULL	NULL	NULL	699	171	0.001430615164520744
+lync attribute	Enterprise Voice	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+lync attribute	Dial Plan	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+lync capability	presence	1	1	1	1	NULL	NULL	NULL	723	342	0.0013831258644536654
+lync feature	sharing document	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+lync feature	sending instant message	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+lync server capability	presence	1	1	1	1	NULL	NULL	NULL	723	342	0.0013831258644536654
+Lynch box	foolproof	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lynch project	Wildat Heart	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+lynch project	television show Twin Peaks	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+lynch project	Blue Velvet	1	1	4	4	0.500000000000	NULL	NULL	40	21	0.00625
+lynch project	Dune	1	1	4	4	0.500000000000	NULL	NULL	215	142	0.0011627906976744186
+lynch technique	visual sensations of color	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lynch technique	motion	1	1	3	3	NULL	NULL	NULL	738	340	0.00045167118337850043
+lynch technique	shape	1	1	3	3	NULL	NULL	NULL	3964	1303	0.00008409014463504877
+lynch's client	Allen Anderson	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lynch's client	marketing director for the Abbey Resort	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lynch's work	Inland Empire	1	1	3	3	0.500000000000	NULL	NULL	60	27	0.005555555555555555
+lynch's work	Twin Peaks	1	1	3	3	0.500000000000	NULL	NULL	48	28	0.006944444444444444
+lynch's work	Lost Highway	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+lynch-type permanent magnet motor	Perm	1	1	2	2	NULL	NULL	NULL	231	72	0.0021645021645021645
+lynch-type permanent magnet motor	Lemco	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lynchburg city department	Museum	1	1	2	2	NULL	NULL	NULL	3834	1308	0.00013041210224308815
+lynchburg city department	Library	1	1	2	2	NULL	NULL	NULL	6833	2108	0.00007317430118542368
+lynchburg city housing market datum	median sales price	1	1	2	2	0.500000000000	NULL	NULL	94	91	0.005319148936170213
+lynchburg city housing market datum	inventory level	1	1	2	2	0.500000000000	NULL	NULL	187	150	0.00267379679144385
+lynchburg sport facility	Lynchburg area golf course	1	1	1	1	NULL	NULL	NULL	1	1	1
+lynchburg's then-most notable citizen	Dr. Edward Christian Glass	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lynchburg's then-most notable citizen	George Morgan Jones	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lynchian moment	lady runnning into a deer while passing Alvin	1	1	1	1	NULL	NULL	NULL	1	1	1
+lynchian technique	deep red	1	1	2	2	NULL	NULL	NULL	232	113	0.0021551724137931034
+lynchian technique	minimal dialogue	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lynchian type	Sheryl Lee	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+lynchian type	Crispin Glover	1	1	4	4	1.000000000000	NULL	NULL	14	11	0.017857142857142856
+lynchian type	Harry Dean Stanton	1	1	4	4	1.000000000000	NULL	NULL	11	9	0.022727272727272728
+lynchian type	Sherilyn Fenn	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+lynching sometimes body part	finger	1	1	1	1	NULL	NULL	NULL	647	236	0.0015455950540958269
+lynchpin series	Sandman	1	1	1	1	NULL	NULL	NULL	86	40	0.011627906976744186
+lyndhurst new jersey quality product	Panasonic camera	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+lyndon special classroom	gym	1	1	2	2	NULL	NULL	NULL	2236	677	0.00022361359570661896
+lyndon special classroom	music	1	1	2	2	NULL	NULL	NULL	14153	3857	0.00003532819896841659
+Lynians	Shakalaka	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lynley dodd's regular character	Slinki Malinki	1	1	1	1	NULL	NULL	NULL	1	1	1
+lynn city official	Peter DeVeau	1	1	1	1	NULL	NULL	NULL	1	1	1
+lynn's complication	hypothalmic dysfunction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lynn's complication	blood clot on the lung	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lynn's project	House Prototype in Long Island	2	2	2	1	NULL	NULL	NULL	2	1	1
+LYNNE A. KVAPIL role	leader	1	1	1	1	NULL	NULL	NULL	197	109	0.005076142131979695
+lynnwood area	Lynnwood Proper	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+lynnwood area	Ridge	1	1	4	4	0.333333333333	NULL	NULL	468	237	0.0005341880341880342
+lynnwood area	Glen	1	1	4	4	0.333333333333	NULL	NULL	16	15	0.015625
+lynnwood area	Park	1	1	4	4	0.333333333333	NULL	NULL	5086	1754	0.00004915454187966968
+lynnwood police juvenile crime	loitering	1	1	3	3	NULL	NULL	NULL	90	58	0.0037037037037037034
+lynnwood police juvenile crime	shoplifting	1	1	3	3	NULL	NULL	NULL	498	140	0.0006693440428380187
+lynnwood police juvenile crime	graffito	1	1	3	3	NULL	NULL	NULL	409	193	0.0008149959250203749
+Lynx client	Zero-Footprint Icon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Lynx client	hotkey	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+lynx species	Iberian lynx	1	1	1	1	1.000000000000	NULL	NULL	22	12	0.045454545454545456
+lynx-like feature	long ear tuft	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyocell fiber variation	standard	1	1	2	2	0.500000000000	NULL	NULL	1207	561	0.00041425020712510354
+lyocell fiber variation	A100	1	1	2	2	0.500000000000	NULL	NULL	7	5	0.07142857142857142
+lyon workspace product	heavy duty steel shelving	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lyon workspace product	steel locker	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+lyon workspace product	industrial storage rack	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+lyon workspace product	steel storage rack	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+lyons static site	Wimpy Bars	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyophile colloid	albumin	1	1	1	1	NULL	NULL	NULL	878	345	0.0011389521640091116
+lyophilic group	hydroxyl group	2	2	2	1	NULL	NULL	NULL	144	46	0.013888888888888888
+lyophilic material	MgF 2	1	1	1	1	1.000000000000	NULL	NULL	28	21	0.03571428571428571
+lyophilic polymer additive	starch	1	1	4	4	NULL	NULL	NULL	2628	791	0.00009512937595129375
+lyophilic polymer additive	gelatin	1	1	4	4	NULL	NULL	NULL	1152	396	0.00021701388888888888
+lyophilic polymer additive	poly	1	1	4	4	NULL	NULL	NULL	1279	538	0.00019546520719311962
+lyophilic polymer additive	natural gum	1	1	4	4	NULL	NULL	NULL	66	26	0.003787878787878788
+lyophilization condition	duration of drying phase	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lyophilization condition	temperature	1	1	3	3	NULL	NULL	NULL	21509	4199	0.000015497388690005733
+lyophilization condition	amount of applied pressure	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+LYOPHILIZATION many biopharmaceutical product	monoclonal antibody	1	1	2	2	NULL	NULL	NULL	456	216	0.0010964912280701754
+LYOPHILIZATION many biopharmaceutical product	vaccine	1	1	2	2	NULL	NULL	NULL	892	410	0.0005605381165919282
+lyophilization shelf type	tube-lined shelf	1	1	1	1	NULL	NULL	NULL	1	1	1
+Lyophilized lactobacilli	type used in Pratt	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyophilized material	lyophilized bioremodellable material	2	2	2	1	NULL	NULL	NULL	2	1	1
+lyophilized rbcswouldoffer numerous advantage	transport of a compact	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyophilized rbcswouldoffer numerous advantage	easy storage	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+lyophilized specimen	SRM 909	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyophilized vaccine	BCG	1	1	3	3	NULL	NULL	NULL	137	70	0.0024330900243309003
+lyophilized vaccine	measles	1	1	3	3	NULL	NULL	NULL	2428	452	0.0001372872048325096
+lyophilized vaccine	yellow fever	1	1	3	3	NULL	NULL	NULL	699	168	0.0004768717215069146
+Lyophilizers	Labconco FreeZone Freeze Dry Systems	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyophobic film	fluorocarbon resin film	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyophobic group	fluorine group	2	2	2	1	NULL	NULL	NULL	7	2	0.2857142857142857
+lyophobic organic compound	alkanes	1	1	1	1	NULL	NULL	NULL	166	83	0.006024096385542169
+Lyoprotectants	dextran	1	1	3	3	NULL	NULL	NULL	372	154	0.0008960573476702509
+Lyoprotectants	glycols	1	1	3	3	NULL	NULL	NULL	230	117	0.0014492753623188406
+Lyoprotectants	trehalose	1	1	3	3	NULL	NULL	NULL	244	92	0.001366120218579235
+lyotropic agent	50% acetone	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lyotropic agent	6M urea	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyotropic compound	bromophenanthrene sulfonic acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyotropic liquid crystal	diamond cubic phase formed by the lipid monoolein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyotropic liquid crystal	water	1	1	2	2	NULL	NULL	NULL	25348	6311	0.000019725422124033453
+lyotropic liquid crystal polymer	Kevlar	1	1	1	1	NULL	NULL	NULL	469	201	0.0021321961620469083
+lyotropic liquid crystal system	hexagonal mesophases	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyotropic liquid crystal system	reversed bicontinuous cubic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyotropic liquid crystalline material	lipid molecule	1	1	1	1	NULL	NULL	NULL	1	1	1
+Lyotropic liquid crystalline polyamides	poly	1	1	1	1	NULL	NULL	NULL	1279	538	0.0007818608287724785
+lyotropic polymer	Kevlar	1	1	1	1	NULL	NULL	NULL	469	201	0.0021321961620469083
+lyotropic salt	ammonium sulfate	2	2	2	1	NULL	NULL	NULL	374	155	0.0053475935828877
+lyotropic-type mesomorphic polymer	aromatic polyamide having mesomorphism in solution	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lypophilic and hydrophilic low-molecular-weight antioxidant	uric acid	1	1	2	2	NULL	NULL	NULL	282	148	0.0017730496453900709
+lypophilic and hydrophilic low-molecular-weight antioxidant	vitamin C	1	1	2	2	NULL	NULL	NULL	4485	625	0.00011148272017837236
+lypophilic compound	pyrethrins	1	1	1	1	NULL	NULL	NULL	77	38	0.012987012987012988
+lypophilic polymer	polyvinyl acetate	1	1	1	1	NULL	NULL	NULL	148	82	0.006756756756756757
+lypophilic substance	aliphatic alcohol	2	2	2	1	1.000000000000	NULL	NULL	45	27	0.044444444444444446
+lypophillic toxin	mercury	1	1	1	1	NULL	NULL	NULL	6018	1029	0.00016616816218012627
+LYRASIS purchase	consulting service	1	1	2	2	0.500000000000	NULL	NULL	110	64	0.004545454545454545
+LYRASIS purchase	library product	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+lyregionalised country	Italy	1	1	2	2	NULL	NULL	NULL	10580	1406	0.00004725897920604915
+lyregionalised country	Spain	1	1	2	2	NULL	NULL	NULL	9967	1404	0.00005016554630279924
+lyric	Gallisas kai Delagrazia	2	1	42	38	0.200000000000	NULL	NULL	2	1	0.047619047619047616
+lyric	Factory Slave	2	2	42	38	0.200000000000	NULL	NULL	2	1	0.047619047619047616
+lyric	Song of the Day Labourers	2	2	42	38	0.200000000000	NULL	NULL	2	1	0.047619047619047616
+lyric	Song of the Poor	2	2	42	38	0.200000000000	NULL	NULL	2	1	0.047619047619047616
+lyric	Ugly Bitches	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Joy Division's Love	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	lyrics of babies lady poem	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	wareham's benignly trippy lyric	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Prairie Wedding	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Naw	1	1	42	38	0.200000000000	NULL	NULL	3	3	0.007936507936507936
+lyric	Old Ironsides	1	1	42	38	0.200000000000	NULL	NULL	5	5	0.0047619047619047615
+lyric	Ankhaima Rata Gali	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Maa	1	1	42	38	0.200000000000	NULL	NULL	6	5	0.003968253968253968
+lyric	Grateful Dead's Dire Wolf''	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Bad Seeds The Lyre of Orpheus	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Ministry of romance drama	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Yo Kholako Sanglo Pani	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Ode on St. Cello's Day	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Stephen Foster's	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Jati Hansu Bhanchu	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Ghumtima Naau Hai	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Better Together from Jack Johnson	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	beatles ``backward'' lyric	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Vides ut alia	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Silvertown Blues	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Schizoid Man	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Goreto Yo Gaunko	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	anything suggestive lyric	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Harvey's The Desperate Kingdom of Love	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	famous Autumn Wind Lyrics	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	famous ErlkOnig	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Dropkick Murphys Gauntlet	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Collide from Howie day	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Te Kanewa	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Mera Jahan	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	Ode on St. Cecilia's Day	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+lyric	mixtape	1	1	42	38	0.200000000000	NULL	NULL	5	4	0.0047619047619047615
+lyric	Morris Winchevsky's To the Masses in the Streets''	1	1	42	38	0.200000000000	NULL	NULL	1	1	0.023809523809523808
+Lyric A poem	sonnet	4	4	8	2	1.000000000000	NULL	NULL	179	72	0.0111731843575419
+Lyric A poem	ode	4	4	8	2	1.000000000000	NULL	NULL	47	28	0.0425531914893617
+lyric alumnus	Adrian Dunbar	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+lyric alumnus	Ciaran Hinds	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+lyric chronicle various historic figure	Christopher Columbus	1	1	2	2	0.500000000000	NULL	NULL	115	49	0.004347826086956522
+lyric chronicle various historic figure	Sir Francis Drake	1	1	2	2	0.500000000000	NULL	NULL	52	33	0.009615384615384616
+lyric concern subject	drug	1	1	4	4	0.250000000000	NULL	NULL	5262	1715	0.00004751045229950589
+lyric concern subject	violence	1	1	4	4	0.250000000000	NULL	NULL	1888	706	0.00013241525423728814
+lyric concern subject	religion	1	1	4	4	0.250000000000	NULL	NULL	6231	1572	0.00004012197079120526
+lyric concern subject	human relationship	1	1	4	4	0.250000000000	NULL	NULL	27	15	0.009259259259259259
+lyric form	ode	2	2	5	4	0.500000000000	NULL	NULL	47	28	0.01702127659574468
+lyric form	ballad	1	1	5	4	0.500000000000	NULL	NULL	116	58	0.001724137931034483
+lyric form	elegy	1	1	5	4	0.500000000000	NULL	NULL	13	11	0.015384615384615385
+lyric form	sonnet	1	1	5	4	0.500000000000	NULL	NULL	179	72	0.00111731843575419
+lyric information	line	1	1	1	1	NULL	NULL	NULL	1652	716	0.0006053268765133172
+lyric movie	Watch out for Zouzou	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyric passage	cellos in the first movement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyric passage	melodies in the violin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyric poem	sonnet	2	2	3	2	0.500000000000	NULL	NULL	179	72	0.0074487895716946
+lyric poem	ode	1	1	3	2	0.500000000000	NULL	NULL	47	28	0.0070921985815602835
+lyric poet	Pindar	2	2	11	10	0.750000000000	NULL	NULL	21	17	0.017316017316017316
+lyric poet	Bacchylides	1	1	11	10	0.750000000000	NULL	NULL	4	3	0.022727272727272728
+lyric poet	Theodore Roethke	1	1	11	10	0.750000000000	NULL	NULL	8	5	0.011363636363636364
+lyric poet	Walt Whitman	1	1	11	10	0.750000000000	NULL	NULL	133	66	0.000683526999316473
+lyric poet	Catullus	1	1	11	10	0.750000000000	NULL	NULL	37	17	0.002457002457002457
+lyric poet	Horace	1	1	11	10	0.750000000000	NULL	NULL	95	40	0.0009569377990430622
+lyric poet	Sharon Olds	1	1	11	10	0.750000000000	NULL	NULL	17	9	0.005347593582887701
+lyric poet	Simonides	1	1	11	10	0.750000000000	NULL	NULL	10	8	0.00909090909090909
+lyric poet	William Butler Yeats	1	1	11	10	0.750000000000	NULL	NULL	23	12	0.003952569169960474
+lyric poet	Mary Oliver	1	1	11	10	0.750000000000	NULL	NULL	13	7	0.006993006993006993
+Lyric poetry	verses of Umar Abu Rishah	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyric role	Alfredo in La traviata	2	2	14	7	1.000000000000	NULL	NULL	3	2	0.09523809523809523
+lyric role	Nemorino in L'elisir d'amore	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+lyric role	Almaviva in Il barbiere di Siviglia	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+lyric role	Alfredo	2	1	14	7	1.000000000000	NULL	NULL	63	33	0.0045351473922902496
+lyric role	Duke in Rigoletto	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+lyric role	Lenski in Eugene Onegin	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+lyric role	Pamina in The Magic Flute	2	2	14	7	1.000000000000	NULL	NULL	3	2	0.09523809523809523
+lyric search engine online	Lyrics Robot	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyric site	Sing365	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyric site	metrolyrics.com	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+lyric soprano	Angela Gheorghiu	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+lyric soprano	Renee Fleming	1	1	2	2	1.000000000000	NULL	NULL	19	14	0.02631578947368421
+lyric tenor	great Alfredo Kraus	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyric theatre production	Road to Mecca	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyric topic	hypostatic union of Christ	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lyric topic	Gods sovereignty over sin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lyric topic	trial	1	1	4	4	NULL	NULL	NULL	175	116	0.0014285714285714286
+lyric topic	election	1	1	4	4	NULL	NULL	NULL	546	260	0.0004578754578754579
+lyric trained hearing professional	Mr Scott	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lyric website online	www.lyrics.com	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lyric website online	www.azlyrics.com	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+lyric website online	www.metrolyrics.com	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lyric writer	Majrooh Sultanpuri	2	2	3	2	1.000000000000	NULL	NULL	4	2	0.3333333333333333
+lyric writer	Gulzar	1	1	3	2	1.000000000000	NULL	NULL	10	8	0.03333333333333333
+lyric writer gareth site band	Architecture In Helsinki	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+lyric writer gareth site band	Mouldy Peaches	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyric-free music	Balmorhea	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+lyric-free music	Sigur Ros	1	1	2	2	1.000000000000	NULL	NULL	53	23	0.009433962264150943
+lyric-free relaxation music	post-rock	1	1	1	1	1.000000000000	NULL	NULL	9	5	0.1111111111111111
+LyricA poem	sonnet	1	1	2	2	0.500000000000	NULL	NULL	179	72	0.002793296089385475
+LyricA poem	ode	1	1	2	2	0.500000000000	NULL	NULL	47	28	0.010638297872340425
+lyrical and descriptive name	Jacob's Cattle Bean	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lyrical and descriptive name	Black Valentine	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lyrical and symphonic orchestra	ones of Vercelli	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lyrical and symphonic orchestra	Novara	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+lyrical artist	Filippino Lippi	2	2	4	2	1.000000000000	NULL	NULL	9	5	0.1111111111111111
+lyrical artist	Botticelli	2	2	4	2	1.000000000000	NULL	NULL	109	38	0.009174311926605505
+lyrical ballad	Tears	2	2	4	3	1.000000000000	NULL	NULL	14	8	0.07142857142857142
+lyrical ballad	transgender artist Micha Cardinas's simulations of nonhuman existence	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+lyrical ballad	Contagious	1	1	4	3	1.000000000000	NULL	NULL	11	9	0.022727272727272728
+lyrical baritone role	Escamillo in Carmen	2	2	2	1	NULL	NULL	NULL	4	2	0.5
+lyrical book	Night Before Christmas	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+lyrical clue	promotional utterances of record label	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrical collection	Green Pitcher	2	1	2	1	NULL	NULL	NULL	2	1	1
+lyrical coloratura repertoire	Gilda in Verdi's Rigoletto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyrical coloratura repertoire	Lucia di Lammermoor in Donizetti's opera	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyrical composition	Dadra	1	1	1	1	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+lyrical concept	movie	1	1	1	1	NULL	NULL	NULL	4206	1513	0.00023775558725630053
+lyrical dance	hula	1	1	1	1	1.000000000000	NULL	NULL	27	24	0.037037037037037035
+lyrical description	snow	2	1	2	1	NULL	NULL	NULL	2306	735	0.0008673026886383347
+lyrical digression	lament of Igor's wife Yaroslavna	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrical element	floor lamp	1	1	3	3	NULL	NULL	NULL	137	90	0.0024330900243309003
+lyrical element	wide-leaping melody in the opening movement	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lyrical element	violins serene	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+lyrical genius	Biggie & Tupac	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrical genre	Paraguayan guarania	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrical great	Ella Fitzgerald	1	1	6	6	0.333333333333	NULL	NULL	415	154	0.0004016064257028112
+lyrical great	Rakim	1	1	6	6	0.333333333333	NULL	NULL	126	50	0.0013227513227513227
+lyrical great	Nikki Giovanni	1	1	6	6	0.333333333333	NULL	NULL	43	21	0.003875968992248062
+lyrical great	Dylan	1	1	6	6	0.333333333333	NULL	NULL	97	45	0.001718213058419244
+lyrical great	Gwendolyn Brooks	1	1	6	6	0.333333333333	NULL	NULL	45	22	0.0037037037037037034
+lyrical great	Maya Angelou	1	1	6	6	0.333333333333	NULL	NULL	172	95	0.0009689922480620155
+lyrical heavyweight	Jay-Z	1	1	2	2	0.500000000000	NULL	NULL	823	243	0.0006075334143377885
+lyrical heavyweight	Notorious B.I.G.	1	1	2	2	0.500000000000	NULL	NULL	77	21	0.006493506493506494
+lyrical influence	Jay-Z	2	2	4	3	NULL	NULL	NULL	823	243	0.001215066828675577
+lyrical influence	Johnny Cash	1	1	4	3	NULL	NULL	NULL	384	129	0.0006510416666666666
+lyrical influence	David Eugene Edwards	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+lyrical instrument	harp	1	1	5	5	NULL	NULL	NULL	355	114	0.0005633802816901409
+lyrical instrument	soulful sound of the clarinet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lyrical instrument	violin	1	1	5	5	NULL	NULL	NULL	1334	285	0.0001499250374812594
+lyrical instrument	soprano flute	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lyrical instrument	saxophone	1	1	5	5	NULL	NULL	NULL	396	98	0.000505050505050505
+lyrical master	Eliot	1	1	1	1	0.333333333333	NULL	NULL	109	42	0.009174311926605505
+lyrical masterpiece	No Boundries	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrical moment	Berceuse	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+lyrical moment	lilting Lazy Ways	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lyrical name	Ocean Creatures	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lyrical name	Pacific opal	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lyrical name	Capri blue	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+lyrical name	aquamarine	1	1	4	4	NULL	NULL	NULL	297	125	0.0008417508417508417
+lyrical opera	Manon	1	1	6	6	1.000000000000	NULL	NULL	10	8	0.016666666666666666
+lyrical opera	Cendrillon	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+lyrical opera	Werther	1	1	6	6	1.000000000000	NULL	NULL	6	4	0.027777777777777776
+lyrical opera	r&b's lyrical opera	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+lyrical opera	Don Quixotte	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+lyrical opera	Le jongleur de Notre-Dame	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+lyrical philosophy	social justice	1	1	1	1	NULL	NULL	NULL	501	203	0.001996007984031936
+lyrical play	No Man's Land	1	1	1	1	0.500000000000	NULL	NULL	14	12	0.07142857142857142
+lyrical poem	Lotos-Eaters	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+lyrical poem	Lamia	1	1	6	6	0.666666666666	NULL	NULL	9	5	0.018518518518518517
+lyrical poem	Eve of St. Agnes	1	1	6	6	0.666666666666	NULL	NULL	5	2	0.03333333333333333
+lyrical poem	La Belle Dame sans Merci	1	1	6	6	0.666666666666	NULL	NULL	4	4	0.041666666666666664
+lyrical poem	Lady of Shalott	1	1	6	6	0.666666666666	NULL	NULL	7	7	0.023809523809523808
+lyrical poem	Ulysses	1	1	6	6	0.666666666666	NULL	NULL	47	29	0.0035460992907801418
+lyrical poet	Bei Dao	1	1	1	1	NULL	NULL	NULL	11	5	0.09090909090909091
+lyrical production	Hear	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+lyrical rapper	Nas	1	1	4	4	0.250000000000	NULL	NULL	474	114	0.0005274261603375527
+lyrical rapper	Eminem	1	1	4	4	0.250000000000	NULL	NULL	648	168	0.00038580246913580245
+lyrical rapper	Jadakiss	1	1	4	4	0.250000000000	NULL	NULL	74	30	0.0033783783783783786
+lyrical rapper	Jay-Z	1	1	4	4	0.250000000000	NULL	NULL	823	243	0.00030376670716889426
+lyrical role	Mimi	1	1	4	4	1.000000000000	NULL	NULL	17	10	0.014705882352941176
+lyrical role	Duke of Mantua	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+lyrical role	Alfredo	1	1	4	4	1.000000000000	NULL	NULL	63	33	0.003968253968253968
+lyrical role	Zerlina	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+lyrical subject	humanitarian cause	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+lyrical subject	faith	1	1	4	4	NULL	NULL	NULL	981	377	0.00025484199796126404
+lyrical subject	positive life choice	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+lyrical subject	religion	1	1	4	4	NULL	NULL	NULL	6231	1572	0.00004012197079120526
+lyrical target	religion	1	1	1	1	NULL	NULL	NULL	6231	1572	0.00016048788316482104
+lyrical technique	use of rhyme	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+lyrical theme	love	2	2	29	27	0.173913043478	NULL	NULL	4970	1397	0.00002775272323596753
+lyrical theme	nature	2	2	29	27	0.173913043478	NULL	NULL	1414	443	0.00009754670048285617
+lyrical theme	religion	2	2	29	27	0.173913043478	NULL	NULL	6231	1572	0.00002213625974687187
+lyrical theme	children's song	1	1	29	27	0.173913043478	NULL	NULL	4	4	0.008620689655172414
+lyrical theme	friendship	1	1	29	27	0.173913043478	NULL	NULL	1288	412	0.000026772328121653458
+lyrical theme	nationalism	1	1	29	27	0.173913043478	NULL	NULL	469	168	0.00007352400558782443
+lyrical theme	occult	1	1	29	27	0.173913043478	NULL	NULL	52	23	0.000663129973474801
+lyrical theme	poverty	1	1	29	27	0.173913043478	NULL	NULL	5898	1419	0.000005846517229686276
+lyrical theme	love song	1	1	29	27	0.173913043478	NULL	NULL	36	23	0.0009578544061302681
+lyrical theme	God	1	1	29	27	0.173913043478	NULL	NULL	769	345	0.000044841038518452086
+lyrical theme	aging	1	1	29	27	0.173913043478	NULL	NULL	1231	357	0.000028011989131348215
+lyrical theme	death	1	1	29	27	0.173913043478	NULL	NULL	4423	1491	0.00000779623753576524
+lyrical theme	teenage promiscuity	1	1	29	27	0.173913043478	NULL	NULL	2	2	0.017241379310344827
+lyrical theme	teen promiscuity	1	1	29	27	0.173913043478	NULL	NULL	2	2	0.017241379310344827
+lyrical theme	song about nature	1	1	29	27	0.173913043478	NULL	NULL	1	1	0.034482758620689655
+lyrical theme	inner city culture	1	1	29	27	0.173913043478	NULL	NULL	1	1	0.034482758620689655
+lyrical theme	religious song	1	1	29	27	0.173913043478	NULL	NULL	3	3	0.011494252873563218
+lyrical theme	nonsense song	1	1	29	27	0.173913043478	NULL	NULL	1	1	0.034482758620689655
+lyrical theme	satanism	1	1	29	27	0.173913043478	NULL	NULL	63	36	0.0005473453749315818
+lyrical theme	road	1	1	29	27	0.173913043478	NULL	NULL	6806	2297	0.000005066523452937064
+lyrical theme	battle	1	1	29	27	0.173913043478	NULL	NULL	131	78	0.00026322716504343247
+lyrical theme	child	1	1	29	27	0.173913043478	NULL	NULL	3515	1021	0.00000981017314955609
+lyrical theme	family	1	1	29	27	0.173913043478	NULL	NULL	5717	1803	0.000006031617740194097
+lyrical theme	rape	1	1	29	27	0.173913043478	NULL	NULL	4855	976	0.000007102524947618878
+lyrical theme	politics	1	1	29	27	0.173913043478	NULL	NULL	3289	854	0.000010484268355332823
+lyrical theme	paganism	1	1	29	27	0.173913043478	NULL	NULL	90	48	0.0003831417624521073
+lyrical track	Hit List	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+lyrical website	lyric	1	1	1	1	NULL	NULL	NULL	156	93	0.00641025641025641
+lyrical wizard	Destruct aka Charlie Hustle	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+lyrical wizard	Matrix & the Pyramindz	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+lyrical wizard	Ace Lover	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+lyrical wizard	Punchline	1	1	6	6	0.250000000000	NULL	NULL	11	7	0.01515151515151515
+lyrical wizard	GodFather Don	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+lyrical wizard	Sir Menelik aka Scaramanga Shallah	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+lyrical work	Yukiguni	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+lyrical work	Snow Country	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+lyrical, geometrical abstraction	found in the work of Wassily Kandinsky	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrically aggressive artist	Shabba Ranks superseding The Wailers	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyrically forlorn place	title track	1	1	1	1	NULL	NULL	NULL	459	145	0.002178649237472767
+lyrically hardcore performer	Geto Boys	1	1	1	1	1.000000000000	NULL	NULL	23	10	0.043478260869565216
+lyricist	Nas	4	4	91	67	0.538461538461	NULL	NULL	474	114	0.00037093707979783935
+lyricist	Gus Kahn	3	3	91	67	0.538461538461	NULL	NULL	3	1	0.03296703296703297
+lyricist	Ira Gershwin	3	3	91	67	0.538461538461	NULL	NULL	6	3	0.016483516483516484
+lyricist	Ian Anderson	3	2	91	67	0.538461538461	NULL	NULL	13	7	0.00760777683854607
+lyricist	Peter Hammill	3	2	91	67	0.538461538461	NULL	NULL	6	4	0.016483516483516484
+lyricist	Lindy Robbins	2	1	91	67	0.538461538461	NULL	NULL	4	2	0.01098901098901099
+lyricist	Leo Robin	2	2	91	67	0.538461538461	NULL	NULL	2	1	0.02197802197802198
+lyricist	Jay-Z	2	2	91	67	0.538461538461	NULL	NULL	823	243	0.000053409530930794605
+lyricist	Tom Kimmel	2	1	91	67	0.538461538461	NULL	NULL	3	2	0.014652014652014654
+lyricist	Oscar Hammerstein on the Broadway musicals Wildflower	2	2	91	67	0.538461538461	NULL	NULL	2	1	0.02197802197802198
+lyricist	Monty Powell	2	1	91	67	0.538461538461	NULL	NULL	3	2	0.014652014652014654
+lyricist	Darrell Brown	2	1	91	67	0.538461538461	NULL	NULL	4	3	0.01098901098901099
+lyricist	Ty Lacy	2	1	91	67	0.538461538461	NULL	NULL	8	2	0.005494505494505495
+lyricist	Anna Wilson	2	1	91	67	0.538461538461	NULL	NULL	2	1	0.02197802197802198
+lyricist	Jess Cates	2	1	91	67	0.538461538461	NULL	NULL	2	1	0.02197802197802198
+lyricist	Alex Forbes	2	1	91	67	0.538461538461	NULL	NULL	2	1	0.02197802197802198
+lyricist	Shelly Peiken	2	1	91	67	0.538461538461	NULL	NULL	3	2	0.014652014652014654
+lyricist	Sidney Claire	2	2	91	67	0.538461538461	NULL	NULL	2	1	0.02197802197802198
+lyricist	De La Soul	1	1	91	67	0.538461538461	NULL	NULL	114	39	0.00009639483323693851
+lyricist	David Batteau	1	1	91	67	0.538461538461	NULL	NULL	2	2	0.005494505494505495
+lyricist	Tupac Shakur	1	1	91	67	0.538461538461	NULL	NULL	130	49	0.000084530853761623
+lyricist	Chuck D	1	1	91	67	0.538461538461	NULL	NULL	48	20	0.00022893772893772896
+lyricist	Lew Brown	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Iraj Janati Ataei	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Bob Dylan	1	1	91	67	0.538461538461	NULL	NULL	972	260	0.000011305566861122418
+lyricist	Biggie	1	1	91	67	0.538461538461	NULL	NULL	92	35	0.00011944577161968467
+lyricist	Big Daddy Kane	1	1	91	67	0.538461538461	NULL	NULL	75	28	0.00014652014652014652
+lyricist	Bhuvana Chandra	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Shahyar Ghanbari	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Nakano	1	1	91	67	0.538461538461	NULL	NULL	3	3	0.0036630036630036634
+lyricist	Oscar Hammerstein II	1	1	91	67	0.538461538461	NULL	NULL	3	3	0.0036630036630036634
+lyricist	Otto Harbach	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	ex-Pavement front man Stephen Malkmus	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	entire Juice Crew	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Emcees like Tupac	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Styles P	1	1	91	67	0.538461538461	NULL	NULL	21	9	0.0005232862375719519
+lyricist	Hasrat Jaipuri	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Kool G Rap	1	1	91	67	0.538461538461	NULL	NULL	34	14	0.0003232062055591468
+lyricist	KRS-ONE of BDP	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Cassidy	1	1	91	67	0.538461538461	NULL	NULL	32	18	0.00034340659340659343
+lyricist	great female lyricist	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Northwest River resident Byron Chaulk	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Ray Davies	1	1	91	67	0.538461538461	NULL	NULL	14	10	0.0007849293563579278
+lyricist	Rakim	1	1	91	67	0.538461538461	NULL	NULL	126	50	0.00008721437292865865
+lyricist	Tribe Called Quest	1	1	91	67	0.538461538461	NULL	NULL	87	31	0.00012631047113805736
+lyricist	Big Pun	1	1	91	67	0.538461538461	NULL	NULL	74	18	0.00014850014850014852
+lyricist	Ice T	1	1	91	67	0.538461538461	NULL	NULL	52	18	0.0002113271344040575
+lyricist	Gulzar	1	1	91	67	0.538461538461	NULL	NULL	10	8	0.001098901098901099
+lyricist	John Lennon	1	1	91	67	0.538461538461	NULL	NULL	242	96	0.00004540913631822723
+lyricist	Lil Wayne	1	1	91	67	0.538461538461	NULL	NULL	519	151	0.000021173431578055857
+lyricist	Lorenz Hart	1	1	91	67	0.538461538461	NULL	NULL	9	7	0.001221001221001221
+lyricist	N.W.A.	1	1	91	67	0.538461538461	NULL	NULL	20	9	0.0005494505494505495
+lyricist	Mos Def	1	1	91	67	0.538461538461	NULL	NULL	211	78	0.00005208062080099995
+lyricist	Common	1	1	91	67	0.538461538461	NULL	NULL	448	188	0.000024529042386185245
+lyricist	Alan Jay Lerner	1	1	91	67	0.538461538461	NULL	NULL	2	2	0.005494505494505495
+lyricist	Emcee Lyte	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	east coast lyricist	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Javed Akhtar	1	1	91	67	0.538461538461	NULL	NULL	9	7	0.001221001221001221
+lyricist	Kaifi Azmi	1	1	91	67	0.538461538461	NULL	NULL	3	2	0.0036630036630036634
+lyricist	Kannadasan	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Ice Cube of NWA	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Notorious B.I.G.	1	1	91	67	0.538461538461	NULL	NULL	77	21	0.00014271442842871417
+lyricist	Oscar Hammerstein III	1	1	91	67	0.538461538461	NULL	NULL	2	2	0.005494505494505495
+lyricist	Run DMC	1	1	91	67	0.538461538461	NULL	NULL	128	44	0.00008585164835164836
+lyricist	Sahara Monadi	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyricist	Saul Williams	1	1	91	67	0.538461538461	NULL	NULL	26	16	0.000422654268808115
+lyricist	well known english lyricist	1	1	91	67	0.538461538461	NULL	NULL	1	1	0.01098901098901099
+lyrics-free music	classical	1	1	1	1	NULL	NULL	NULL	558	209	0.0017921146953405018
+Lyriscanusean external SQL database	Oracle	1	1	1	1	NULL	NULL	NULL	4631	1430	0.00021593608291945585
+lys analog	tranexamic acid	1	1	1	1	NULL	NULL	NULL	103	42	0.009708737864077669
+lysate system	rabbit reticulocytes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lysate system	wheat germ	1	1	2	2	NULL	NULL	NULL	402	164	0.0012437810945273632
+lysecondary prevention strategy	cervical cancer screening using the Pap smear test	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lysenko's opponent	distinguished academician Vavilov	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysergic acid derivative	lysergic acid amide	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lysergic acid derivative	ester	1	1	2	2	NULL	NULL	NULL	821	318	0.0006090133982947625
+lysien's diverse influence	Replacements	1	1	5	5	0.333333333333	NULL	NULL	43	24	0.004651162790697674
+lysien's diverse influence	Queen	1	1	5	5	0.333333333333	NULL	NULL	615	196	0.0003252032520325203
+lysien's diverse influence	Smoking Popes	1	1	5	5	0.333333333333	NULL	NULL	9	4	0.022222222222222223
+lysien's diverse influence	Naked Raygun	1	1	5	5	0.333333333333	NULL	NULL	7	4	0.028571428571428574
+lysien's diverse influence	Buddy Holly	1	1	5	5	0.333333333333	NULL	NULL	145	68	0.0013793103448275863
+lysimeter datum	available in the Tor Mancinadataset	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysine analog	tranexamic acid	5	5	8	4	0.750000000000	NULL	NULL	103	42	0.03033980582524272
+lysine analog	6-aminohexanoic acid	1	1	8	4	0.750000000000	NULL	NULL	2	2	0.0625
+lysine analog	epsilon-aminocaproic acid	1	1	8	4	0.750000000000	NULL	NULL	16	7	0.0078125
+lysine analog	epsilon aminocaproic acid	1	1	8	4	0.750000000000	NULL	NULL	20	11	0.00625
+Lysine analog antifibrinolytics	epsilon aminocaproic acid	1	1	1	1	1.000000000000	NULL	NULL	20	11	0.05
+lysine methylation site	H3 K27	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysine modification	methylation	1	1	2	2	NULL	NULL	NULL	264	87	0.001893939393939394
+lysine modification	ubiquitination	1	1	2	2	NULL	NULL	NULL	107	33	0.004672897196261682
+lysine producer	leading lysine producer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lysine rich food	dairy product	1	1	5	5	NULL	NULL	NULL	2120	517	0.00009433962264150944
+lysine rich food	meat	1	1	5	5	NULL	NULL	NULL	9410	1886	0.000021253985122210414
+lysine rich food	vegetable	1	1	5	5	NULL	NULL	NULL	11661	2612	0.000017151187719749595
+lysine rich food	egg	1	1	5	5	NULL	NULL	NULL	9254	1960	0.00002161227577263886
+lysine rich food	legume	1	1	5	5	NULL	NULL	NULL	2179	558	0.00009178522257916476
+lysine-containing protein	HPV-16 E7	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+lysine-containing protein	MyoD	1	1	4	4	0.500000000000	NULL	NULL	57	31	0.0043859649122807015
+lysine-containing protein	LMP-1	1	1	4	4	0.500000000000	NULL	NULL	8	8	0.03125
+lysine-containing protein	LMP-2	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+lysine-rich food	fish	1	1	5	5	NULL	NULL	NULL	12757	2977	0.00001567766716312613
+lysine-rich food	potato	1	1	5	5	NULL	NULL	NULL	9600	2035	0.000020833333333333336
+lysine-rich food	nut	1	1	5	5	NULL	NULL	NULL	5171	1477	0.00003867723844517502
+lysine-rich food	poultry	1	1	5	5	NULL	NULL	NULL	3542	817	0.000056465273856578205
+lysine-rich food	dairy product	1	1	5	5	NULL	NULL	NULL	2120	517	0.00009433962264150944
+Lysine-rich peptides	polylysine	1	1	1	1	NULL	NULL	NULL	112	49	0.008928571428571428
+lysine-rich product	soy flour	1	1	1	1	NULL	NULL	NULL	91	51	0.01098901098901099
+lysine-rich protein	collagen	3	3	3	1	NULL	NULL	NULL	1723	584	0.0017411491584445734
+lysine-targeting modification	acetylation	1	1	1	1	NULL	NULL	NULL	394	104	0.0025380710659898475
+lysing agent	lysozymes	2	2	2	1	NULL	NULL	NULL	5	10	0.4
+Lysing biocides	quats	2	2	2	1	1.000000000000	NULL	NULL	19	10	0.10526315789473684
+lysis condition	1 % Triton X-100	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lysis condition	nature of the lysis buffer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lysis detergent	sodium dodecyl sulfate	1	1	1	1	NULL	NULL	NULL	142	65	0.007042253521126761
+lysis enzyme	proteinase K	1	1	2	3	0.500000000000	NULL	NULL	35	15	0.014285714285714285
+lysis enzyme	lysozyme	1	1	2	3	0.500000000000	NULL	NULL	294	135	0.0017006802721088435
+lysis gene backup	6 lysis genes in SD127	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysis method	sonication	2	2	3	2	NULL	NULL	NULL	159	73	0.008385744234800837
+lysis method	use of a French press	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+lysis reagent	sodium dodecylsulfate	1	1	1	1	1.000000000000	NULL	NULL	26	14	0.038461538461538464
+lysis step	incubation in the organic solvents chloroform	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysm-containing protein	staphylococcal immunoglobulin G binding protein	2	1	4	3	NULL	NULL	NULL	3	2	0.3333333333333333
+lysm-containing protein	Escherichiacoli intimin	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+lysm-containing protein	Escherichia coli intimin	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+lyso-somalhydrolase defect	post-translational processing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lyso-somotropic compound	chloroquine	1	1	1	1	NULL	NULL	NULL	361	129	0.002770083102493075
+lyso-type phospholipid molecule	lysophosphatidylcholine	1	1	2	2	1.000000000000	NULL	NULL	24	11	0.020833333333333332
+lyso-type phospholipid molecule	lysophosphatidic acid	1	1	2	2	1.000000000000	NULL	NULL	44	25	0.011363636363636364
+lysochrome dye	Nile red	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+lysogenic filamentous phages	CTX	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+lysogenic virus	HPV	1	1	1	1	NULL	NULL	NULL	285	64	0.0035087719298245615
+lysol product	Lysol disinfectant spray	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+lysol product	liquid concentrate sold for use in hospital	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Lysolipids	LPC	1	1	1	1	1.000000000000	NULL	NULL	36	26	0.027777777777777776
+lysophosphatides	lysophosphatidylcholine originating from soybean	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysophosphatidic acid	oleoyl LPA	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysophospholipid acyltransferases	lysoPC acyltransferase	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+lysophospholipid acyltransferases	lysoPS acyltransferase	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+lysophospholipid mediator	lysophosphatidic acid	1	1	2	2	1.000000000000	NULL	NULL	44	25	0.011363636363636364
+lysophospholipid mediator	sphingosine-1-phosphate	1	1	2	2	1.000000000000	NULL	NULL	38	16	0.013157894736842105
+lysophospholipid receptor lysophospholipids	LPA	1	1	1	1	1.000000000000	NULL	NULL	17	11	0.058823529411764705
+lysophospholipid series	lysophosphatidylserine	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+Lysophospholipids	lysophosphatidic acid	10	7	43	14	0.818181818181	NULL	NULL	44	25	0.052854122621564484
+Lysophospholipids	lysophosphatidylcholine	8	7	43	14	0.818181818181	NULL	NULL	24	11	0.06201550387596899
+Lysophospholipids	sphingosine-1-phosphate	5	4	43	14	0.818181818181	NULL	NULL	38	16	0.015299877600979193
+Lysophospholipids	LPC	4	3	43	14	0.818181818181	NULL	NULL	36	26	0.0103359173126615
+Lysophospholipids	LPE	3	3	43	14	0.818181818181	NULL	NULL	8	6	0.026162790697674417
+Lysophospholipids	LPA	3	2	43	14	0.818181818181	NULL	NULL	17	11	0.012311901504787962
+Lysophospholipids	sphingosine 1-phosphate	3	3	43	14	0.818181818181	NULL	NULL	19	10	0.011015911872705017
+Lysophospholipids	brain LPE	1	1	43	14	0.818181818181	NULL	NULL	1	1	0.023255813953488372
+Lysophospholipids	egg LPE	1	1	43	14	0.818181818181	NULL	NULL	1	1	0.023255813953488372
+Lysophospholipids	phosphatidic acid	1	1	43	14	0.818181818181	NULL	NULL	64	25	0.0003633720930232558
+Lysophospholipids	egg lysophosphatidylcholine	1	1	43	14	0.818181818181	NULL	NULL	1	1	0.023255813953488372
+lysophospholipids	lysophospholipid receptor lysophospholipids	1	1	43	14	0.818181818181	NULL	NULL	1	1	0.023255813953488372
+Lysophospholipids	lysophosphatidylserine	1	1	43	14	0.818181818181	NULL	NULL	2	2	0.011627906976744186
+Lysophospholipids	liver LPI	1	1	43	14	0.818181818181	NULL	NULL	1	1	0.023255813953488372
+Lysosomal cathepsins	cathepsin B	2	2	2	1	1.000000000000	NULL	NULL	70	30	0.02857142857142857
+lysosomal cystein proteases	cathepsin B	1	1	1	1	NULL	NULL	NULL	70	30	0.014285714285714285
+lysosomal cysteine proteases	cathepsin B	1	1	1	2	NULL	NULL	NULL	70	30	0.014285714285714285
+Lysosomal cysteine proteinases	cathepsin B	2	2	3	2	1.000000000000	NULL	NULL	70	30	0.019047619047619046
+Lysosomal cysteine proteinases	cathepsins N	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+lysosomal digestion product	nucleotides	3	2	9	3	0.333333333333	NULL	NULL	148	82	0.006756756756756757
+lysosomal digestion product	sugar	3	2	9	3	0.333333333333	NULL	NULL	9798	2484	0.00010206164523372117
+lysosomal digestion product	amino acid	3	2	9	3	0.333333333333	NULL	NULL	2111	741	0.0004737091425864519
+lysosomal disease	Tay-Sachs disease	2	2	3	2	1.000000000000	NULL	NULL	111	42	0.012012012012012012
+lysosomal disease	mucopolysaccharidoses	1	1	3	2	1.000000000000	NULL	NULL	13	12	0.02564102564102564
+lysosomal disorder	Gaucher disease	1	1	5	5	1.000000000000	NULL	NULL	42	24	0.004761904761904762
+lysosomal disorder	Hurler's Syndrome	1	1	5	5	1.000000000000	NULL	NULL	10	8	0.02
+lysosomal disorder	Krabbe disease	1	1	5	5	1.000000000000	NULL	NULL	11	11	0.018181818181818184
+lysosomal disorder	Pompe disease	1	1	5	5	1.000000000000	NULL	NULL	11	7	0.018181818181818184
+lysosomal disorder	multiple sulfatase deficiency	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+lysosomal enzyme	cathepsin L	2	2	19	17	0.833333333333	NULL	NULL	18	6	0.011695906432748537
+lysosomal enzyme	cathepsin B	2	1	19	17	0.833333333333	NULL	NULL	70	30	0.003007518796992481
+lysosomal enzyme	acid phosphatase	2	2	19	17	0.833333333333	NULL	NULL	43	26	0.004895960832313341
+lysosomal enzyme	tartrate resistant acid phosphatase	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+lysosomal enzyme	acid sphingomyelinase	1	1	19	17	0.833333333333	NULL	NULL	2	2	0.02631578947368421
+lysosomal enzyme	BU glucuronic acid enzyme	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+lysosomal enzyme	beta-glucuronidase	1	1	19	17	0.833333333333	NULL	NULL	7	7	0.007518796992481203
+lysosomal enzyme	lysosomal N-acylethanolamine hydrolyzing acid amidase	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+lysosomal enzyme	leucine amino-peptidase	1	1	19	17	0.833333333333	NULL	NULL	2	2	0.02631578947368421
+lysosomal enzyme	acid lipase	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+lysosomal enzyme	prostate-specific antigen	1	1	19	17	0.833333333333	NULL	NULL	46	32	0.0011441647597254005
+lysosomal enzyme	soluble lysosomal enzyme	1	1	19	17	0.833333333333	NULL	NULL	2	2	0.02631578947368421
+lysosomal enzyme	glucocerebrosidase	1	1	19	17	0.833333333333	NULL	NULL	8	2	0.006578947368421052
+lysosomal enzyme	cathepsins	1	1	19	17	0.833333333333	NULL	NULL	40	16	0.0013157894736842105
+lysosomal enzyme	cathepsins of the cysteine	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+lysosomal enzyme	N-acetylglucosaminidase	1	1	19	17	0.833333333333	NULL	NULL	1	1	0.05263157894736842
+lysosomal hydrolytic enzyme	acid phosphatase	1	1	1	1	NULL	NULL	NULL	43	26	0.023255813953488372
+lysosomal inhibitor	ammonium chloride	2	2	7	6	0.666666666666	NULL	NULL	359	163	0.0015917230401910067
+lysosomal inhibitor	chloroquine	1	1	7	6	0.666666666666	NULL	NULL	361	129	0.0003957261574990107
+lysosomal inhibitor	bafilomycin	1	1	7	6	0.666666666666	NULL	NULL	11	6	0.012987012987012986
+lysosomal inhibitor	conventional lysosomal inhibitor	1	1	7	6	0.666666666666	NULL	NULL	2	2	0.07142857142857142
+lysosomal inhibitor	leupeptin	1	1	7	6	0.666666666666	NULL	NULL	78	23	0.0018315018315018315
+lysosomal inhibitor	E64	1	1	7	6	0.666666666666	NULL	NULL	11	8	0.012987012987012986
+lysosomal lipid transfer protein	GM2 activator protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysosomal lipid-transfer protein	apolipoprotein E	2	2	4	2	1.000000000000	NULL	NULL	21	15	0.047619047619047616
+lysosomal lipid-transfer protein	saposins	2	2	4	2	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+lysosomal membrane protein	LAMP1	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysosomal peptidases	cathepsin B	1	1	2	2	0.500000000000	NULL	NULL	70	30	0.007142857142857143
+lysosomal peptidases	cathepsin D	1	1	2	2	0.500000000000	NULL	NULL	26	18	0.019230769230769232
+lysosomal preparation endosomal protein	mannose 6-phosphate receptor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lysosomal preparation endosomal protein	mature form of cathepsin D	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lysosomal preparationendosomal protein	mature form of cathepsin D	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lysosomal preparationendosomal protein	mannose 6-phosphate receptor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lysosomal property	density	1	1	5	5	0.333333333333	NULL	NULL	3212	1051	0.000062266500622665
+lysosomal property	osmotic stability	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+lysosomal property	enzyme activity	1	1	5	5	0.333333333333	NULL	NULL	56	38	0.0035714285714285718
+lysosomal property	shape	1	1	5	5	0.333333333333	NULL	NULL	3964	1303	0.000050454086781029264
+lysosomal property	lysosomal ph	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+lysosomal proteases	cathepsin B	5	2	12	7	1.000000000000	NULL	NULL	70	30	0.029761904761904764
+lysosomal proteases	cathepsin D	2	2	12	7	1.000000000000	NULL	NULL	26	18	0.01282051282051282
+lysosomal proteases	cathepsins	2	2	12	7	1.000000000000	NULL	NULL	40	16	0.008333333333333333
+lysosomal proteases	removed from the cell by exocytosis	1	1	12	7	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+lysosomal proteases	lysosomal cathepsins	1	1	12	7	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+lysosomal proteases	cysteine cathepsin B	1	1	12	7	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+lysosomal protein	cathepsin G	2	2	3	2	1.000000000000	NULL	NULL	65	29	0.020512820512820513
+lysosomal protein	CD63	1	1	3	2	1.000000000000	NULL	NULL	19	13	0.017543859649122806
+Lysosomal proteinases	cathepsin B	1	1	1	1	NULL	NULL	NULL	70	30	0.014285714285714285
+lysosomal storage disease	Gaucher's disease	4	4	24	15	0.888888888888	NULL	NULL	36	22	0.018518518518518517
+lysosomal storage disease	Gaucher disease	4	3	24	15	0.888888888888	NULL	NULL	42	24	0.015873015873015872
+lysosomal storage disease	mucopolysaccharidosis I	3	3	24	15	0.888888888888	NULL	NULL	4	2	0.09375
+lysosomal storage disease	Tay-Sachs disease	2	2	24	15	0.888888888888	NULL	NULL	111	42	0.0015015015015015015
+lysosomal storage disease	Sandhoff disease	1	1	24	15	0.888888888888	NULL	NULL	17	5	0.0024509803921568627
+lysosomal storage disease	Gauchers Disease	1	1	24	15	0.888888888888	NULL	NULL	1	1	0.041666666666666664
+lysosomal storage disease	Gaucher Type I	1	1	24	15	0.888888888888	NULL	NULL	1	1	0.041666666666666664
+lysosomal storage disease	Gaucher's	1	1	24	15	0.888888888888	NULL	NULL	2	2	0.020833333333333332
+lysosomal storage disease	mannosidosis	1	1	24	15	0.888888888888	NULL	NULL	2	2	0.020833333333333332
+lysosomal storage disease	Hunter	1	1	24	15	0.888888888888	NULL	NULL	473	250	0.00008809020436927413
+lysosomal storage disease	Tay-Sachs	1	1	24	15	0.888888888888	NULL	NULL	71	24	0.0005868544600938967
+lysosomal storage disease	metachromatic leukodystrophy	1	1	24	15	0.888888888888	NULL	NULL	11	6	0.0037878787878787876
+lysosomal storage disease	Fabry disease	1	1	24	15	0.888888888888	NULL	NULL	17	13	0.0024509803921568627
+lysosomal storage disease	HS	1	1	24	15	0.888888888888	NULL	NULL	17	15	0.0024509803921568627
+lysosomal storage disease	sialidosis	1	1	24	15	0.888888888888	NULL	NULL	2	2	0.020833333333333332
+lysosomal storage disorder	Gaucher disease	5	5	24	14	1.000000000000	NULL	NULL	42	24	0.024801587301587304
+lysosomal storage disorder	Pompe disease	4	4	24	14	1.000000000000	NULL	NULL	11	7	0.0606060606060606
+lysosomal storage disorder	Fabry disease	3	3	24	14	1.000000000000	NULL	NULL	17	13	0.022058823529411766
+lysosomal storage disorder	Pompe	2	2	24	14	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+lysosomal storage disorder	Fabry	1	1	24	14	1.000000000000	NULL	NULL	9	7	0.004629629629629629
+lysosomal storage disorder	Hunter syndrome	1	1	24	14	1.000000000000	NULL	NULL	3	3	0.013888888888888888
+lysosomal storage disorder	Pompe's disease	1	1	24	14	1.000000000000	NULL	NULL	2	2	0.020833333333333332
+lysosomal storage disorder	Sandhoff disease	1	1	24	14	1.000000000000	NULL	NULL	17	5	0.0024509803921568627
+lysosomal storage disorder	Hurler	1	1	24	14	1.000000000000	NULL	NULL	9	7	0.004629629629629629
+lysosomal storage disorder	mucopolysaccharidoses	1	1	24	14	1.000000000000	NULL	NULL	13	12	0.003205128205128205
+lysosomal storage disorder	Gaucher's disease	1	1	24	14	1.000000000000	NULL	NULL	36	22	0.0011574074074074073
+lysosomal storage disorder	mannosidosis	1	1	24	14	1.000000000000	NULL	NULL	2	2	0.020833333333333332
+lysosomal storage disorder	Tay-Sachs	1	1	24	14	1.000000000000	NULL	NULL	71	24	0.0005868544600938967
+lysosomal storage disorder	MPS I	1	1	24	14	1.000000000000	NULL	NULL	2	2	0.020833333333333332
+lysosomal-storage disease	Niemann-Pick type-C disease	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysosome deficiency disorder	Danon's disease	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lysosome inhibitor	ammonium chloride	1	1	1	1	NULL	NULL	NULL	359	163	0.002785515320334262
+lysosome-free cell	erythrocyte	1	1	1	1	NULL	NULL	NULL	125	56	0.008
+lysosome-related organelle	platelet dense granule	2	2	4	3	NULL	NULL	NULL	3	2	0.3333333333333333
+lysosome-related organelle	melanosomes	2	1	4	3	NULL	NULL	NULL	7	5	0.14285714285714285
+lysosomotrophic agent	NH4Cl	2	2	2	1	1.000000000000	NULL	NULL	14	7	0.14285714285714285
+Lysosomotrophic amines	chloroquine	2	2	2	1	NULL	NULL	NULL	361	129	0.00554016620498615
+lysosomotropic agent	chloroquine	17	10	43	10	0.600000000000	NULL	NULL	361	129	0.01861753527024415
+lysosomotropic agent	ammonium chloride	12	12	43	10	0.600000000000	NULL	NULL	359	163	0.009328237351817063
+lysosomotropic agent	NH 4 Cl	5	4	43	10	0.600000000000	NULL	NULL	39	21	0.014907573047107932
+lysosomotropic agent	NH4Cl	3	3	43	10	0.600000000000	NULL	NULL	14	7	0.01495016611295681
+lysosomotropic agent	amantadine	1	1	43	10	0.600000000000	NULL	NULL	256	90	0.00009084302325581395
+lysosomotropic agent	specific inhibitor of v-atpases	1	1	43	10	0.600000000000	NULL	NULL	1	1	0.023255813953488372
+lysosomotropic agent	Bafilomycin A1	1	1	43	10	0.600000000000	NULL	NULL	10	8	0.002325581395348837
+lysosomotropic agent	ciprofloxacin	1	1	43	10	0.600000000000	NULL	NULL	695	129	0.000033461602810774635
+lysosomotropic agent	hydroxychloroquine	1	1	43	10	0.600000000000	NULL	NULL	157	54	0.00014812620352540364
+lysosomotropic agent	monensin	1	1	43	10	0.600000000000	NULL	NULL	113	40	0.00020580366330520683
+Lysosomotropic amines	chloroquine	2	2	4	2	0.500000000000	NULL	NULL	361	129	0.002770083102493075
+Lysosomotropic amines	methylamine	2	2	4	2	0.500000000000	NULL	NULL	74	42	0.013513513513513514
+lysosomotropic compound	epinephrine	1	1	2	2	0.500000000000	NULL	NULL	568	218	0.0008802816901408451
+lysosomotropic compound	methyl amine	1	1	2	2	0.500000000000	NULL	NULL	14	16	0.03571428571428571
+lysosomotropic drug	bafilomycin A1	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+lysosomotropic drug	ammonium chloride	1	1	2	2	0.500000000000	NULL	NULL	359	163	0.001392757660167131
+lysosomotropic dye	TPPS 4	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysosomotropic weak amine base	chloroquine	1	1	2	2	0.500000000000	NULL	NULL	361	129	0.0013850415512465374
+lysosomotropic weak amine base	NH 4 Cl	1	1	2	2	0.500000000000	NULL	NULL	39	21	0.01282051282051282
+lysosomotrpic agent	chloroquine	1	1	2	2	NULL	NULL	NULL	361	129	0.0013850415512465374
+lysosomotrpic agent	NH 4 C1	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Lysosphingolipids	sphingosine-1-phosphate	2	2	2	1	1.000000000000	NULL	NULL	38	16	0.05263157894736842
+lysotracker dye	LysoTracker Red DND-99	1	1	1	1	NULL	NULL	NULL	1	1	1
+lysozyme crystal	High Temperature Orthorhombic	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+lysozyme crystal	Tetragonal	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+lysozymes	hen-egg white lysozyme	3	3	8	4	NULL	NULL	NULL	3	1	0.375
+lysozymes	bacteriophage T4 lysozyme	3	3	8	4	NULL	NULL	NULL	3	1	0.375
+lysozymes	T4 lysozyme	1	1	8	4	NULL	NULL	NULL	3	2	0.041666666666666664
+lysozymes	hen egg white lysozyme	1	1	8	4	NULL	NULL	NULL	4	2	0.03125
+lyst	aluminum chloride	1	1	1	1	NULL	NULL	NULL	209	84	0.004784688995215311
+lyster beneficiary	Family member	1	1	2	2	NULL	NULL	NULL	758	312	0.0006596306068601583
+lyster beneficiary	retiree	1	1	2	2	NULL	NULL	NULL	130	68	0.0038461538461538464
+lysts	Thomas Ogden	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lysts	Moo3-based mixed oxide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lysyl-dppg degradation product	lysine	2	2	3	2	NULL	NULL	NULL	567	150	0.0023515579071134627
+lysyl-dppg degradation product	free fatty acid	1	1	3	2	NULL	NULL	NULL	118	79	0.002824858757062147
+lytic agent	Ortho Instruments	3	3	9	7	NULL	NULL	NULL	3	1	0.3333333333333333
+lytic agent	streptokinase	1	1	9	7	NULL	NULL	NULL	237	58	0.0004688232536333802
+lytic agent	lysozyme	1	1	9	7	NULL	NULL	NULL	294	135	0.00037792894935752074
+lytic agent	postoperative period lytic agent	1	1	9	7	NULL	NULL	NULL	2	2	0.05555555555555555
+lytic agent	cell surface lytic agent	1	1	9	7	NULL	NULL	NULL	2	2	0.05555555555555555
+lytic agent	clot lytic agent	1	1	9	7	NULL	NULL	NULL	2	2	0.05555555555555555
+lytic agent	phar-macologicalthrombolysisa  lytic agent	1	1	9	7	NULL	NULL	NULL	2	2	0.05555555555555555
+lytic enzyme	chitinase	2	2	8	6	0.666666666666	NULL	NULL	47	27	0.010638297872340425
+lytic enzyme	Lysozyme	2	2	8	6	0.666666666666	NULL	NULL	294	135	0.0017006802721088435
+lytic enzyme	feruloyl esterases	2	1	8	6	0.666666666666	NULL	NULL	2	1	0.25
+lytic enzyme	cell wall lytic enzyme	1	1	8	6	0.666666666666	NULL	NULL	2	2	0.0625
+lytic enzyme	hydrolases	1	1	8	6	0.666666666666	NULL	NULL	19	7	0.006578947368421052
+lytic granule protein	perforin	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+lytic p h age	T4 phage	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+lytic peptides	melittin	2	1	3	2	0.666666666666	NULL	NULL	21	13	0.06349206349206349
+lytic peptides	antibiotics andmelittin	1	1	3	2	0.666666666666	NULL	NULL	1	1	0.3333333333333333
+lytic phage	lambda	1	1	1	1	NULL	NULL	NULL	40	27	0.025
+lytic phages	T4 phage	3	3	5	3	0.500000000000	NULL	NULL	9	5	0.19999999999999998
+lytic phages	lambda	1	1	5	3	0.500000000000	NULL	NULL	40	27	0.005
+lytic phages	T7	1	1	5	3	0.500000000000	NULL	NULL	27	17	0.007407407407407408
+lytic pro-enzymes	PLA2	3	2	3	1	1.000000000000	NULL	NULL	9	6	0.3333333333333333
+lytic process	renal cell	4	2	12	3	1.000000000000	NULL	NULL	17	9	0.0784313725490196
+lytic process	lung carcinoma	4	2	12	3	1.000000000000	NULL	NULL	27	17	0.04938271604938271
+lytic process	metastatic thyroid	4	2	12	3	1.000000000000	NULL	NULL	4	1	0.3333333333333333
+lytic substance	soap	1	1	1	1	NULL	NULL	NULL	2849	1032	0.000351000351000351
+lytic virus	herpes	2	1	5	4	NULL	NULL	NULL	1416	225	0.0005649717514124294
+lytic virus	Influenza virus	1	1	5	4	NULL	NULL	NULL	240	72	0.0008333333333333334
+lytic virus	vaccinia virus	1	1	5	4	NULL	NULL	NULL	128	39	0.0015625
+lytic virus	vaccinia	1	1	5	4	NULL	NULL	NULL	78	37	0.002564102564102564
+lyticalmodels	negative exponential curve	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+lyticaltools	separation of variable	1	1	3	3	1.000000000000	NULL	NULL	26	11	0.01282051282051282
+lyticaltools	dyadic analysis	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+lyticaltools	contour integration	1	1	3	3	1.000000000000	NULL	NULL	9	9	0.037037037037037035
+lyticprograms	statistics package	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+lyticprograms	spreadsheet	1	1	2	2	0.500000000000	NULL	NULL	2471	916	0.00020234722784297855
+lytics	urokinase	1	1	2	2	NULL	NULL	NULL	156	54	0.003205128205128205
+lytics	fibrin specific lytics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lywithother professional	attorney	1	1	1	1	NULL	NULL	NULL	1809	527	0.000552791597567717
+lyzeprocesses	proletarianizati on across various continent	1	1	1	1	NULL	NULL	NULL	1	1	1
+lyzing enzyme	lysozyme	1	1	1	1	NULL	NULL	NULL	294	135	0.003401360544217687

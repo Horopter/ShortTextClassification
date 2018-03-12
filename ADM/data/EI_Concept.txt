@@ -1,0 +1,706 @@
+EI active employment measure	skills training	1	1	1	1	NULL	NULL	NULL	145	90	0.006896551724137931
+EI advocate	LA Election Protection Task Force	1	1	1	1	NULL	NULL	NULL	1	1	1
+EI benefit	compassionate care benefit	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EI benefit	regular benefit	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EI benefit	sickness benefit	1	1	3	3	1.000000000000	NULL	NULL	41	24	0.008130081300813007
+EI competency	self-confidence	3	3	13	8	NULL	NULL	NULL	489	189	0.0014157621519584709
+EI competency	transparency	3	3	13	8	NULL	NULL	NULL	1743	654	0.0003971931682775056
+EI competency	self-awareness	2	2	13	8	NULL	NULL	NULL	240	107	0.001282051282051282
+ei competency	renowned ei competency	1	1	13	8	NULL	NULL	NULL	2	2	0.038461538461538464
+EI competency	optimism	1	1	13	8	NULL	NULL	NULL	495	173	0.0001554001554001554
+EI competency	initiative	1	1	13	8	NULL	NULL	NULL	564	218	0.0001363884342607747
+EI competency	adaptability	1	1	13	8	NULL	NULL	NULL	449	181	0.00017132088401576153
+EI competency	emotional self-control	1	1	13	8	NULL	NULL	NULL	2	2	0.038461538461538464
+EI measure	ECI	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+EI measure	MSCEIT	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+EI personnel	Social worker	1	1	2	2	NULL	NULL	NULL	1798	548	0.00027808676307007786
+EI personnel	EI Specialist	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EI practice	job rotation	1	1	3	3	0.333333333333	NULL	NULL	172	91	0.001937984496124031
+EI practice	quality circle	1	1	3	3	0.333333333333	NULL	NULL	114	81	0.0029239766081871343
+EI practice	self-directed work team	1	1	3	3	0.333333333333	NULL	NULL	16	12	0.020833333333333332
+EI principle	empathy	1	1	4	4	NULL	NULL	NULL	1434	499	0.00017433751743375174
+EI principle	social competence	1	1	4	4	NULL	NULL	NULL	55	32	0.004545454545454545
+EI principle	impulse control	1	1	4	4	NULL	NULL	NULL	74	43	0.0033783783783783786
+EI principle	self-awareness	1	1	4	4	NULL	NULL	NULL	240	107	0.0010416666666666667
+EI program	training	1	1	1	1	NULL	NULL	NULL	7685	2537	0.00013012361743656474
+EI project	project	1	1	1	1	NULL	NULL	NULL	1196	512	0.0008361204013377926
+EI reform	imposing higher premiums on employer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EI reform	cutting regional benefit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EI supporting program	youth employment strategy	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+EI trait	interpersonal communication	1	1	3	3	0.333333333333	NULL	NULL	162	72	0.0020576131687242796
+EI trait	self-awareness	1	1	3	3	0.333333333333	NULL	NULL	240	107	0.0013888888888888887
+EI trait	team skill	1	1	3	3	0.333333333333	NULL	NULL	22	21	0.01515151515151515
+ei-assisted program	health	1	1	1	1	NULL	NULL	NULL	12226	3162	0.00008179290037624735
+EIA	EIA for the Denarau resort project in Fiji	2	1	2	1	NULL	NULL	NULL	2	1	1
+EIA customer	financial analyst	1	1	1	1	0.500000000000	NULL	NULL	146	81	0.00684931506849315
+EIA follow-up activity	monitoring	1	1	1	1	NULL	NULL	NULL	1507	705	0.0006635700066357001
+EIA legislation	California Environmental Quality Act	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+EIA machine	Microplate Washer	2	2	8	4	1.000000000000	NULL	NULL	5	3	0.1
+EIA machine	Microplate Reader	2	2	8	4	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+EIA machine	Coagulation Analyzer	2	2	8	4	1.000000000000	NULL	NULL	12	6	0.041666666666666664
+EIA machine	Fully Automatic Chemistry Analyzer	2	2	8	4	1.000000000000	NULL	NULL	4	2	0.125
+EIA machinery	Fully Automatic Chemistry Analyzer	2	2	8	4	1.000000000000	NULL	NULL	4	2	0.125
+EIA machinery	Coagulation Analyzer	2	2	8	4	1.000000000000	NULL	NULL	12	6	0.041666666666666664
+EIA machinery	Microplate Washer	2	2	8	4	1.000000000000	NULL	NULL	5	3	0.1
+EIA machinery	Microplate Reader	2	2	8	4	1.000000000000	NULL	NULL	13	10	0.038461538461538464
+EIA method	checklist	1	1	4	4	NULL	NULL	NULL	604	293	0.0004139072847682119
+EIA method	descriptive checklist	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EIA method	map	1	1	4	4	NULL	NULL	NULL	4332	1570	0.00005771006463527239
+EIA method	matrix	1	1	4	4	NULL	NULL	NULL	1013	426	0.00024679170779861795
+EIA process	public participation	1	1	1	1	NULL	NULL	NULL	63	38	0.015873015873015872
+EIA scoping technique	checklist	1	1	3	3	NULL	NULL	NULL	604	293	0.0005518763796909492
+EIA scoping technique	network	1	1	3	3	NULL	NULL	NULL	1218	591	0.0002736726874657909
+EIA scoping technique	matrix	1	1	3	3	NULL	NULL	NULL	1013	426	0.0003290556103981573
+EIA service	Applied Behavior Analysis	2	2	2	1	1.000000000000	NULL	NULL	48	32	0.041666666666666664
+EIA symptom	cough	1	1	2	2	NULL	NULL	NULL	1869	490	0.00026752273943285177
+EIA symptom	shortness of breath	1	1	2	2	NULL	NULL	NULL	1544	316	0.0003238341968911917
+EIAA project	Mediascope Europe	1	1	1	1	NULL	NULL	NULL	1	1	1
+eiactive employment measure	skills training	1	1	1	1	NULL	NULL	NULL	145	90	0.006896551724137931
+EIAEDs	phenytoin	3	2	7	4	0.500000000000	NULL	NULL	1199	209	0.0010723221732396044
+EIAEDs	carbamazepine	2	2	7	4	0.500000000000	NULL	NULL	1291	232	0.00044262476485559365
+EIAEDs	PHT	1	1	7	4	0.500000000000	NULL	NULL	12	10	0.011904761904761904
+EIAEDs	CBZ	1	1	7	4	0.500000000000	NULL	NULL	20	15	0.007142857142857143
+eiap protein	XIAP	1	1	1	1	1.000000000000	NULL	NULL	27	14	0.037037037037037035
+eias major infrastructure project	highway	1	1	1	1	NULL	NULL	NULL	1225	554	0.0008163265306122449
+eiav-infected animal neurobehavioral feature	psychomotor slowing	1	1	2	2	0.500000000000	NULL	NULL	12	11	0.041666666666666664
+eiav-infected animal neurobehavioral feature	ataxia	1	1	2	2	0.500000000000	NULL	NULL	444	194	0.0011261261261261261
+eiav-infectible cell	equine endothelial cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIB device	switch	1	1	1	1	NULL	NULL	NULL	3437	1190	0.0002909514111143439
+EIB low-level driver	PEI16 Driver for Win32	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EIB low-level driver	EIB PEI16 Linux Module	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Eibli Angelfish information	breeding	1	1	5	5	0.200000000000	NULL	NULL	290	165	0.0006896551724137932
+Eibli Angelfish information	determining sex	1	1	5	5	0.200000000000	NULL	NULL	41	41	0.004878048780487805
+Eibli Angelfish information	distribution	1	1	5	5	0.200000000000	NULL	NULL	1800	744	0.00011111111111111112
+Eibli Angelfish information	diet	1	1	5	5	0.200000000000	NULL	NULL	5762	1140	0.000034710170079833394
+Eibli Angelfish information	compatibility	1	1	5	5	0.200000000000	NULL	NULL	279	133	0.0007168458781362007
+EIBT treatment package	discrete trial training	1	1	1	1	1.000000000000	NULL	NULL	30	19	0.03333333333333333
+EIC facility	library	1	1	3	3	NULL	NULL	NULL	6833	2108	0.000048782867456949115
+EIC facility	auditorium	1	1	3	3	NULL	NULL	NULL	615	249	0.0005420054200542005
+EIC facility	mobile exhibition	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EICAS communication alert message	SELCAL	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+EICAS communication alert message	ACARS	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+eich man	Eupert Godwin	1	1	1	1	NULL	NULL	NULL	1	1	1
+eichler enthusiast	Carolyn Allen	2	2	2	1	NULL	NULL	NULL	2	1	1
+eichler's E-11 & E-21 model	728 Gailen Ave.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eichler's E-11 & E-21 model	728 Gailen Ave. in Palo Alto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eicosanoid action	ion regulation	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+eicosanoid congeners	epoxyeicosatrienoic acid regioisomers	1	1	1	1	NULL	NULL	NULL	1	1	1
+eicosanoid hormone	prostaglandins	1	1	1	1	NULL	NULL	NULL	483	162	0.002070393374741201
+eicosanoid lipid mediator	leukotrienes	1	1	2	2	NULL	NULL	NULL	170	66	0.0029411764705882353
+eicosanoid lipid mediator	prostagland in	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eicosanoid-independent mechanism	altered gene expression	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+eicosanoid-independent mechanism	transcription factor activity	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+eicosanoid-producing immunoinflammatory cell	macrophages	1	1	2	2	NULL	NULL	NULL	1468	303	0.0003405994550408719
+eicosanoid-producing immunoinflammatory cell	mast cell	1	1	2	2	NULL	NULL	NULL	210	77	0.002380952380952381
+eicosanoid-producingimmunoinflammatory cell	mast cell	1	1	2	2	NULL	NULL	NULL	210	77	0.002380952380952381
+eicosanoid-producingimmunoinflammatory cell	macrophages	1	1	2	2	NULL	NULL	NULL	1468	303	0.0003405994550408719
+Eicosanoids	prostaglandin E2	2	2	10	9	0.857142857142	NULL	NULL	64	39	0.00625
+Eicosanoids	LTB4	2	2	10	9	0.857142857142	NULL	NULL	15	11	0.02666666666666667
+Eicosanoids	prostaglandin PGE2	1	1	10	9	0.857142857142	NULL	NULL	1	1	0.1
+Eicosanoids	LTC4	1	1	10	9	0.857142857142	NULL	NULL	7	6	0.014285714285714287
+eicosanoids	besides-hydroxylating other proinflammatory eicosanoids	1	1	10	9	0.857142857142	NULL	NULL	1	1	0.1
+Eicosanoids	cysteinyl leucotrienes	1	1	10	9	0.857142857142	NULL	NULL	1	1	0.1
+eicosanoids	asthma arachidonic acid-derived eicosanoids	1	1	10	9	0.857142857142	NULL	NULL	1	1	0.1
+Eicosanoids	Prostaglandin H2	1	1	10	9	0.857142857142	NULL	NULL	4	4	0.025
+eid dish	Biriyani	1	1	3	3	1.000000000000	NULL	NULL	13	12	0.02564102564102564
+eid dish	Sufi Malpua	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+eid dish	Badam Firni	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+eid special teleplay	Yeh Bakra Nahi Chalega	1	1	1	1	NULL	NULL	NULL	1	1	1
+EID user support staff	Department Contacts	1	0	1	1	NULL	NULL	NULL	1	1	1
+eid-derived element	traffic path prediction	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eid-derived element	explicit display of time-to-contact	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eid-derived element	traffic history trend	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eida community	toldos aharon	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIDE device	EIDE hard drive	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+EIDE device	hard drive	2	2	5	3	NULL	NULL	NULL	1268	435	0.0006309148264984228
+EIDE device	EIDE CD-ROM drive	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+EIDE drive	hard disk drive	2	2	3	2	NULL	NULL	NULL	538	227	0.0024783147459727386
+EIDE drive	DVD drive	1	1	3	2	NULL	NULL	NULL	137	74	0.0024330900243309003
+EIDE peripheral device	hard drive	4	4	4	1	NULL	NULL	NULL	1268	435	0.0031545741324921135
+eidentity-related issue	secure public service provision	1	1	1	1	NULL	NULL	NULL	1	1	1
+eider authority	Tillemont	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+eider authority	Muratori	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+eidetic phenomenon	nature	1	1	2	2	NULL	NULL	NULL	1414	443	0.0003536067892503536
+eidetic phenomenon	color	1	1	2	2	NULL	NULL	NULL	11347	3399	0.00004406451044328897
+eidetic science	geometry	2	2	3	2	NULL	NULL	NULL	898	335	0.0014847809948032665
+eidetic science	diagrams on paper	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+eidgliah predecessor	Bentham	1	1	1	1	NULL	NULL	NULL	90	44	0.011111111111111112
+Eidos	mezuzah	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+eidos franchise	Tomb Raider	1	1	1	1	NULL	NULL	NULL	182	84	0.005494505494505495
+EIDS user system	M2	1	1	1	1	NULL	NULL	NULL	84	61	0.011904761904761904
+EIF activity	journal Living Reviews in European Governance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EIF activity	published in co-operation with the German Max Planck Society	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EIF show horse	Adelle & Kit	1	1	1	1	NULL	NULL	NULL	1	1	1
+eif4e-dependent gene	cyclin D1	1	1	1	1	NULL	NULL	NULL	79	43	0.012658227848101266
+eif4f protein	cap-binding proteins eif4e	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eif4f protein	scaffold protein eif4g	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eif4f protein	PABP	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+eIF5A2 gene product	related eIF5A1 protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+eiffel technique	static typing	1	1	4	4	0.666666666666	NULL	NULL	7	7	0.03571428571428571
+eiffel technique	precondition	1	1	4	4	0.666666666666	NULL	NULL	14	11	0.017857142857142856
+eiffel technique	assertion	1	1	4	4	0.666666666666	NULL	NULL	64	41	0.00390625
+eiffel technique	disciplined exception handling	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+eiffel tower item	albumen photo	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+eiffel tower item	old postcard	1	1	4	4	0.333333333333	NULL	NULL	18	15	0.013888888888888888
+eiffel tower item	statue	1	1	4	4	0.333333333333	NULL	NULL	899	412	0.00027808676307007786
+eiffel tower item	print	1	1	4	4	0.333333333333	NULL	NULL	1806	782	0.00013842746400885935
+eiffel's unique feature	multiple inheritance	2	2	4	3	1.000000000000	NULL	NULL	29	19	0.034482758620689655
+eiffel's unique feature	Design by Contract TM	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+eiffel's unique feature	Design by ContractTM	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+EIFS shape	crown molding	1	1	4	4	NULL	NULL	NULL	364	187	0.0006868131868131869
+EIFS shape	bracket	1	1	4	4	NULL	NULL	NULL	907	331	0.0002756339581036384
+EIFS shape	key stones	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+EIFS shape	arch	1	1	4	4	NULL	NULL	NULL	562	290	0.00044483985765124553
+eigen-analysis method	multiple signal classification	3	2	5	2	1.000000000000	NULL	NULL	16	12	0.11249999999999999
+eigen-analysis method	root MUSIC	2	2	5	2	1.000000000000	NULL	NULL	2	1	0.4
+eigen-based approach	PCA decomposition	2	2	2	1	NULL	NULL	NULL	2	1	1
+eigenanalysis algorithm	ESPRIT	1	1	1	1	1.000000000000	NULL	NULL	50	34	0.02
+eigenanalysis method	Pisarenko's method	2	2	4	3	NULL	NULL	NULL	3	2	0.3333333333333333
+eigenanalysis method	extended Prony method	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+eigenanalysis method	extended Pronymethod	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+eigenfunctions	subset of Legendre polynomial	1	1	1	1	NULL	NULL	NULL	1	1	1
+eigenstatesofany periodic operator	hamiltonian	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+eigenstructure-based decomposition	EVD	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+eigenstructure-based decomposition	singular SVD	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eigenstructure-based source localization technique	ESPRIT	2	1	2	1	1.000000000000	NULL	NULL	50	34	0.04
+eigenstructure-based technique	ESPRIT	1	1	1	1	1.000000000000	NULL	NULL	50	34	0.02
+eigenvalue analysis	modal analysis	1	1	1	1	1.000000000000	NULL	NULL	24	19	0.041666666666666664
+eigenvalue decomposition method	Min-Norm method	1	1	1	1	NULL	NULL	NULL	1	1	1
+eigenvalue iterative method	Arnoldi	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+eigenvalue-decomposition approach	singular value decomposition	1	1	1	1	NULL	NULL	NULL	109	65	0.009174311926605505
+eigenvalue-stable laminar flow	Couetteflowat moderate Reynoldsnumber	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eigenvalue-stable laminar flow	Poiseuille	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+eigenvector	vectors 238A	1	1	1	1	NULL	NULL	NULL	1	1	1
+eigenvector computation algorithm	GNU Scientific Library	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+eigenvector matrix	ones obtained by the KLT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eigenvector matrix	ones obtained by Karhu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eigenvector method	PCA	1	1	1	1	0.500000000000	NULL	NULL	410	233	0.0024390243902439024
+eigenvector-based global-rank -metric	Eigenvector centrality	1	1	2	2	0.500000000000	NULL	NULL	6	5	0.08333333333333333
+eigenvector-based global-rank -metric	PageRank	1	1	2	2	0.500000000000	NULL	NULL	101	58	0.0049504950495049506
+eigenvector-based method	spectral clustering	1	1	1	1	1.000000000000	NULL	NULL	22	15	0.045454545454545456
+EIGHBORHOOD C ITIES city	Canby	1	0	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+eighborhood entity	youth group	1	1	2	2	NULL	NULL	NULL	293	130	0.0017064846416382253
+eighborhood entity	agency	1	1	2	2	NULL	NULL	NULL	357	205	0.0014005602240896359
+eighborhoods	Hayes Valley	1	1	1	1	1.000000000000	NULL	NULL	12	6	0.08333333333333333
+eighboring town	Pacific Grove	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+eight bearing activity	swimming	1	1	1	1	NULL	NULL	NULL	15629	2556	0.00006398362019323054
+eight bearing exercise	walking	1	1	2	2	NULL	NULL	NULL	13109	2473	0.000038141734686093524
+eight bearing exercise	cycling	1	1	2	2	NULL	NULL	NULL	5412	1129	0.00009238728750923873
+eight topical unit	topical history	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-armed cephalopod mollusc	Octopus vulgaris in Europe	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-bearing exercise	biking	2	2	5	4	NULL	NULL	NULL	4205	830	0.00019024970273483948
+eight-bearing exercise	swimming	1	1	5	4	NULL	NULL	NULL	15629	2556	0.000012796724038646107
+eight-bearing exercise	jumping rope	1	1	5	4	NULL	NULL	NULL	374	153	0.0005347593582887701
+eight-bearing exercise	running	1	1	5	4	NULL	NULL	NULL	5694	1097	0.000035124692658939236
+eight-bit code set	ISO Latin-1	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+eight-bit computer	drawn by the tie	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-bit drive	MiniScribe 8450XT	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-bit machine	Philips 8051XA	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-bit microprocessor	Intel 8052ah-basic	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-bit system	black-and-white imaging board	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eight-core CPUs	future versions of Intel Corp. s Nehalem chip	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Eight-core CPUs	future versions of Intel's Nehalem chip	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eight-core processor	QorIQ	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-core system	BL480c with quad-core	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eight-core system	DL585 G2	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eight-day festival	famous Snake Dance	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-day trip	whitewater rafting	1	1	1	1	NULL	NULL	NULL	296	114	0.0033783783783783786
+eight-dimensional parametric feature	conic sections in 3-space from range datum	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-fold system	Ogdoad of ancient Egypt	3	3	9	5	NULL	NULL	NULL	3	1	0.3333333333333333
+eight-fold system	trigrams of the I Ching	2	2	9	5	NULL	NULL	NULL	2	1	0.2222222222222222
+eight-fold system	pagan wheel of the year	2	2	9	5	NULL	NULL	NULL	2	1	0.2222222222222222
+eight-fold system	year's pagan wheel	1	1	9	5	NULL	NULL	NULL	1	1	0.1111111111111111
+eight-fold system	trigrams of I Ching	1	1	9	5	NULL	NULL	NULL	1	1	0.1111111111111111
+eight-hand dance	Suites of May	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eight-hand dance	Morris Reel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eight-hand dance	High Caul Cap	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eight-inch plate	salad plate	1	1	1	1	1.000000000000	NULL	NULL	35	14	0.02857142857142857
+eight-item favorite	kung pai chicken	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eight-item favorite	Mongolian pork	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eight-legged animal	spider	1	1	1	1	NULL	NULL	NULL	1802	524	0.0005549389567147614
+eight-megapixel competitor	LG KC910 Renoir	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-page, illustrated weekly	Saturday Journal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eight-page, illustrated weekly	Fireside Companion	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eight-passenger vehicle	Escalade	1	1	1	1	1.000000000000	NULL	NULL	39	28	0.02564102564102564
+eight-port distribution amp	Antennas Direct CDA8	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-seater corporate jet	Cessna Citation III	1	1	1	1	NULL	NULL	NULL	1	1	1
+eight-string electric guitar	Novax played by Charlie Hunter	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-string silent guitar	Novax played by Charlie Hunter	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-stringed instrument	harp	1	1	1	1	NULL	NULL	NULL	355	114	0.0028169014084507044
+eight-way server	HP ProLiant DL760	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eight-week or shorter course	summer school	2	1	2	1	NULL	NULL	NULL	157	87	0.012738853503184714
+eight-wire Ethernet connector	Registered Jack-45 connector	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighted company	Boeing	1	1	1	1	NULL	NULL	NULL	2227	558	0.000449034575662326
+eighteen-inch machete	inexpensive Bellota	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteen-year history rider	Joop Zoetemelk	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eighteenth century	Black Moth	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century agricultural improvement	new crop	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+eighteenth century antiquarian	Lorenz Beger	3	3	3	1	NULL	NULL	NULL	4	2	0.75
+eighteenth century antiquarian s	Lorenz Beger	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+eighteenth century author	David Hume	1	1	7	7	0.500000000000	NULL	NULL	192	85	0.000744047619047619
+eighteenth century author	Swift	1	1	7	7	0.500000000000	NULL	NULL	313	143	0.00045641259698767686
+eighteenth century author	Dr. Johnson	1	1	7	7	0.500000000000	NULL	NULL	5	5	0.02857142857142857
+eighteenth century author	Frances Burney	1	1	7	7	0.500000000000	NULL	NULL	7	7	0.02040816326530612
+eighteenth century author	William Congreve	1	1	7	7	0.500000000000	NULL	NULL	5	4	0.02857142857142857
+eighteenth century author	Addison	1	1	7	7	0.500000000000	NULL	NULL	47	27	0.00303951367781155
+eighteenth century author	Colley Cibber	1	1	7	7	0.500000000000	NULL	NULL	4	4	0.03571428571428571
+eighteenth century chair	Hepplewhite chair	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century conflict	Wars of Spanish	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eighteenth century conflict	Seven Years War	1	1	3	3	1.000000000000	NULL	NULL	12	8	0.027777777777777776
+eighteenth century conflict	Austrian Successions	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eighteenth century cookbook	Hannah Glasse's The Art of Cookery made Plain and Easy''	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century country	Britain	1	0	1	1	NULL	NULL	NULL	3941	769	0.0002537427048972342
+eighteenth century english craftsman	William Kent	1	1	1	1	1.000000000000	NULL	NULL	19	12	0.05263157894736842
+eighteenth century european country	France	1	1	1	1	NULL	NULL	NULL	18997	2318	0.00005263989050902774
+eighteenth century family	Hisikawa the Torii	2	2	2	1	NULL	NULL	NULL	2	1	1
+eighteenth century famous painter	Canaletto	1	1	1	1	1.000000000000	NULL	NULL	25	14	0.04
+eighteenth century figure	Johnson	1	1	2	2	0.500000000000	NULL	NULL	472	209	0.001059322033898305
+eighteenth century figure	Buffon	1	1	2	2	0.500000000000	NULL	NULL	30	22	0.016666666666666666
+eighteenth century fort	Fort King George	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+eighteenth century german theorist	Christian von Wolff	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century home	Gunston Hall in VA	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eighteenth century home	Drayton Hall	1	1	2	2	1.000000000000	NULL	NULL	12	11	0.041666666666666664
+eighteenth century influential colonial spokespersons	physician Benjamin Rush	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century intellectual	Diderot	3	2	3	1	1.000000000000	NULL	NULL	89	46	0.033707865168539325
+eighteenth century kokugaku scholar	Kamo no Mabuchi	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century landowner	Edward Coke	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+eighteenth century liberal	Grattan	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+eighteenth century manufacturing industry	cotton	1	1	1	1	NULL	NULL	NULL	8381	1830	0.00011931750387781887
+eighteenth century many american leader	Benjamin Rush	1	1	2	2	0.500000000000	NULL	NULL	29	22	0.017241379310344827
+eighteenth century many american leader	George Washington	1	1	2	2	0.500000000000	NULL	NULL	680	258	0.0007352941176470588
+eighteenth century materialist	Denis Diderot	2	1	2	1	1.000000000000	NULL	NULL	21	12	0.09523809523809523
+Eighteenth century memorabilia	pioneering artifact	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century national trust mansion	Mount Stewart	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+eighteenth century necessitarians	Jonathan Edwards	1	1	1	1	NULL	NULL	NULL	118	62	0.00847457627118644
+eighteenth century patriarch	Jeremias III	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+eighteenth century patriarch	Serapheim II	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+eighteenth century philosopher	John Locke	3	3	7	5	NULL	NULL	NULL	420	137	0.003061224489795918
+eighteenth century philosopher	Locke	1	1	7	5	NULL	NULL	NULL	494	134	0.0002891844997108155
+eighteenth century philosopher	Montesquieu	1	1	7	5	NULL	NULL	NULL	145	64	0.0009852216748768472
+eighteenth century philosopher	Hume	1	1	7	5	NULL	NULL	NULL	273	89	0.0005232862375719518
+eighteenth century philosopher	Kant	1	1	7	5	NULL	NULL	NULL	475	135	0.0003007518796992481
+eighteenth century philosophes	Voltaire	1	1	2	2	NULL	NULL	NULL	442	146	0.0011312217194570137
+eighteenth century philosophes	Diderot	1	1	2	2	NULL	NULL	NULL	89	46	0.0056179775280898875
+eighteenth century product	cotton	1	1	1	1	NULL	NULL	NULL	8381	1830	0.00011931750387781887
+eighteenth century pub	Albion on Dean Street	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century publisher	Westphal in Hamburg	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth century publisher	Haehne in Moscow	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth century scottish writer	John Gregory	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+eighteenth century secret society	Masons	1	1	1	1	NULL	NULL	NULL	200	63	0.005
+Eighteenth century stonecutters	Henry Ernrnes	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Eighteenth century stonecutters	John Bull	1	1	3	3	1.000000000000	NULL	NULL	12	12	0.027777777777777776
+Eighteenth century stonecutters	William Codner	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eighteenth century substance	carmine	1	1	1	1	NULL	NULL	NULL	64	46	0.015625
+eighteenth century thinker	Diderot	1	1	3	3	NULL	NULL	NULL	89	46	0.0037453183520599247
+eighteenth century thinker	David Hume	1	1	3	3	NULL	NULL	NULL	192	85	0.001736111111111111
+eighteenth century thinker	Adam smith	1	1	3	3	NULL	NULL	NULL	424	142	0.0007861635220125786
+eighteenth century villain	thief Jack Shepherd	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth century virtue	honor	1	1	1	1	NULL	NULL	NULL	915	324	0.001092896174863388
+eighteenth century woman writer	Anne Bradstreet	1	1	1	1	1.000000000000	NULL	NULL	18	9	0.05555555555555555
+eighteenth century writer	Voltaire	5	4	11	7	0.200000000000	NULL	NULL	442	146	0.005141916906622789
+eighteenth century writer	Benjamin Franklin	1	1	11	7	0.200000000000	NULL	NULL	408	192	0.00022281639928698754
+eighteenth century writer	Fielding	1	1	11	7	0.200000000000	NULL	NULL	67	37	0.00135685210312076
+eighteenth century writer	Richardson	1	1	11	7	0.200000000000	NULL	NULL	102	55	0.0008912655971479501
+eighteenth century writer	Sir Thomas Percy	1	1	11	7	0.200000000000	NULL	NULL	1	1	0.09090909090909091
+eighteenth century writer	Sterne	1	1	11	7	0.200000000000	NULL	NULL	17	10	0.005347593582887701
+eighteenth century writer	Jonathon Swift	1	1	11	7	0.200000000000	NULL	NULL	4	4	0.022727272727272728
+eighteenth-century adaptation	Cobbler of Preston	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century alteration	expansion of barn space by taking down division	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eighteenth-century alteration	extending the building	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eighteenth-century alteration	adding porch	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eighteenth-century anatomical author	William Cheselden	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century anatomical author	William Hunter	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eighteenth-century anatomical author	Bernard SiegfriedAlbimus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century anatomist	Caspar Friedrich Wolff	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century artifact	jewelry	1	1	3	3	NULL	NULL	NULL	7848	1759	0.00004247366632687733
+eighteenth-century artifact	painting	1	1	3	3	NULL	NULL	NULL	8042	2413	0.000041449059106358285
+eighteenth-century artifact	garment	1	1	3	3	NULL	NULL	NULL	737	371	0.0004522840343735866
+eighteenth-century auction house	Bonhams	1	1	3	3	0.333333333333	NULL	NULL	31	15	0.01075268817204301
+eighteenth-century auction house	Sotheby's	1	1	3	3	0.333333333333	NULL	NULL	203	65	0.0016420361247947454
+eighteenth-century auction house	Christie's	1	1	3	3	0.333333333333	NULL	NULL	169	55	0.0019723865877712033
+eighteenth-century author	Richardson	2	2	10	9	0.500000000000	NULL	NULL	102	55	0.00392156862745098
+eighteenth-century author	3 John Mercer	1	0	10	9	0.500000000000	NULL	NULL	1	1	0.1
+eighteenth-century author	Boswell	1	1	10	9	0.500000000000	NULL	NULL	14	12	0.0071428571428571435
+eighteenth-century author	Robert Beverley	1	0	10	9	0.500000000000	NULL	NULL	1	1	0.1
+eighteenth-century author	Sterne	1	1	10	9	0.500000000000	NULL	NULL	17	10	0.0058823529411764705
+eighteenth-century author	Edmund Burke	1	1	10	9	0.500000000000	NULL	NULL	61	40	0.001639344262295082
+eighteenth-century author	Fielding	1	1	10	9	0.500000000000	NULL	NULL	67	37	0.0014925373134328358
+eighteenth-century author	5 Hugh Jones	1	0	10	9	0.500000000000	NULL	NULL	1	1	0.1
+eighteenth-century author	4 George Webb	1	0	10	9	0.500000000000	NULL	NULL	1	1	0.1
+eighteenth-century baltic palace	Lazienki	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century british inventor	Sir Richard Arkwright	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eighteenth-century british inventor	John Kay	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+eighteenth-century british inventor	James Hargreaves	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+eighteenth-century builder	Trost	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eighteenth-century contemporary	Treadway Russell Nash	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century country house	Neoclassical Rammerscales	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century country house	Palladian Tinwald	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century didactic text	Samuel Richardson's Familiar Letters	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century didactic text	conduct book	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+eighteenth-century dover merchant	Nicholas Loockerman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century dover merchant	Thomas Parke	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century dover merchant	John Housman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century economist	Adam Smith	1	1	1	1	NULL	NULL	NULL	424	142	0.0023584905660377358
+eighteenth-century empiricist	Leonhard Euler	3	3	3	1	1.000000000000	NULL	NULL	9	6	0.3333333333333333
+eighteenth-century english pleasure garden	Vauxhall in Lambeth	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century english radical writer	Thomas Gordon	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+eighteenth-century english radical writer	John Trenchard	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+eighteenth-century enlightenment figure	Voltaire	1	1	1	1	NULL	NULL	NULL	442	146	0.0022624434389140274
+eighteenth-century europe certain theorist	Montesquieu	1	1	1	1	NULL	NULL	NULL	145	64	0.006896551724137931
+eighteenth-century european artist	John Wootton	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century european illustrator	William Hooker	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+eighteenth-century european illustrator	Pierre Joseph Redoute	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century european thinker	Julien Offrray de La Mettrie	1	1	6	6	0.500000000000	NULL	NULL	3	2	0.05555555555555555
+eighteenth-century european thinker	Francis Bacon	1	1	6	6	0.500000000000	NULL	NULL	127	58	0.0013123359580052493
+eighteenth-century european thinker	Denis Diderot	1	1	6	6	0.500000000000	NULL	NULL	21	12	0.007936507936507936
+eighteenth-century european thinker	Jean-Jacques Rousseau	1	1	6	6	0.500000000000	NULL	NULL	98	35	0.0017006802721088435
+eighteenth-century european thinker	Bernard Mandeville	1	1	6	6	0.500000000000	NULL	NULL	8	7	0.020833333333333332
+eighteenth-century european thinker	Jean le Rond D'Alembert	1	1	6	6	0.500000000000	NULL	NULL	5	5	0.03333333333333333
+eighteenth-century german philosopher	Herder	1	1	2	2	0.500000000000	NULL	NULL	59	29	0.00847457627118644
+eighteenth-century german philosopher	Fichte	1	1	2	2	0.500000000000	NULL	NULL	55	21	0.00909090909090909
+eighteenth-century gothic novel	Ann Radcliffe's influential The Mysteries of Udolpho	2	2	2	1	NULL	NULL	NULL	2	1	1
+eighteenth-century humanistic literary critic	Arnold	1	1	1	1	NULL	NULL	NULL	71	41	0.014084507042253521
+eighteenth-century hymn writer	Isaac Watts	1	1	2	2	1.000000000000	NULL	NULL	24	14	0.020833333333333332
+eighteenth-century hymn writer	Charles Wesley	1	1	2	2	1.000000000000	NULL	NULL	14	9	0.03571428571428571
+eighteenth-century idealist	Schelling	1	1	3	3	0.666666666666	NULL	NULL	34	17	0.00980392156862745
+eighteenth-century idealist	Hegel	1	1	3	3	0.666666666666	NULL	NULL	275	99	0.0012121212121212121
+eighteenth-century idealist	Fichte	1	1	3	3	0.666666666666	NULL	NULL	55	21	0.006060606060606061
+eighteenth-century industrialist	Arkwright	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+eighteenth-century institution	Charleston Museum	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+eighteenth-century irish nationalist figure	Wolfe Tone	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+eighteenth-century literary figure	Daniel Defoe	2	2	4	2	1.000000000000	NULL	NULL	41	18	0.024390243902439025
+eighteenth-century literary figure	Jonathan Swift	2	2	4	2	1.000000000000	NULL	NULL	60	33	0.016666666666666666
+eighteenth-century manufacturer	Josiah Wedgwood	1	1	1	1	1.000000000000	NULL	NULL	26	8	0.038461538461538464
+eighteenth-century materialist	Maupertuis	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+eighteenth-century mercantilists	Great Elector of Brandenburg	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century mercantilists	Colbert in France	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eighteenth-century military and naval physician	John Pringle	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eighteenth-century military and naval physician	Donald Munro	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+eighteenth-century military commander	John Burgoyne	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eighteenth-century military commander	Barry St. Leger	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century naturalist	Linnaeus	1	1	2	2	1.000000000000	NULL	NULL	24	15	0.020833333333333332
+eighteenth-century naturalist	Buffon	1	1	2	2	1.000000000000	NULL	NULL	30	22	0.016666666666666666
+eighteenth-century necessitarians	Hartley	1	1	2	2	0.500000000000	NULL	NULL	20	15	0.025
+eighteenth-century necessitarians	Edwards	1	1	2	2	0.500000000000	NULL	NULL	155	85	0.0032258064516129032
+eighteenth-century north american political thinker	Thomas Jefferson	1	1	1	1	NULL	NULL	NULL	661	264	0.0015128593040847202
+eighteenth-century novel	Peregrine Pickle	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+eighteenth-century novel	Belinda	1	1	3	3	1.000000000000	NULL	NULL	8	4	0.041666666666666664
+eighteenth-century novel	Pamela	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+eighteenth-century novelist	Fielding	1	1	1	1	NULL	NULL	NULL	67	37	0.014925373134328358
+eighteenth-century painter	Reynolds	1	1	1	1	NULL	NULL	NULL	72	39	0.013888888888888888
+eighteenth-century periodical	Annales de Chimie	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century philosopher	Herder	1	1	8	8	0.375000000000	NULL	NULL	59	29	0.00211864406779661
+eighteenth-century philosopher	Bishop Berkeley	1	1	8	8	0.375000000000	NULL	NULL	6	5	0.020833333333333332
+eighteenth-century philosopher	Edmund Burke	1	1	8	8	0.375000000000	NULL	NULL	61	40	0.0020491803278688526
+eighteenth-century philosopher	Diderot	1	1	8	8	0.375000000000	NULL	NULL	89	46	0.0014044943820224719
+eighteenth-century philosopher	David Hume	1	1	8	8	0.375000000000	NULL	NULL	192	85	0.0006510416666666666
+eighteenth-century philosopher	Vico	1	1	8	8	0.375000000000	NULL	NULL	13	12	0.009615384615384616
+eighteenth-century philosopher	Jean-Jacques Rousseau	1	1	8	8	0.375000000000	NULL	NULL	98	35	0.0012755102040816326
+eighteenth-century philosopher	Voltaire	1	1	8	8	0.375000000000	NULL	NULL	442	146	0.0002828054298642534
+eighteenth-century Philosophes	Montesquieu	1	1	1	1	NULL	NULL	NULL	145	64	0.006896551724137931
+eighteenth-century physician	Lind	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+eighteenth-century poet	Wordsworth	1	1	1	1	NULL	NULL	NULL	224	65	0.004464285714285714
+eighteenth-century predecessor	Isaiah Thomas	1	1	3	3	1.000000000000	NULL	NULL	12	9	0.027777777777777776
+eighteenth-century predecessor	Noah Webster	1	1	3	3	1.000000000000	NULL	NULL	19	15	0.017543859649122806
+eighteenth-century predecessor	Mathew Carey	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century publisher	John Newberry	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century publisher	John Newbery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century rationalist	Clarke	1	1	1	1	NULL	NULL	NULL	76	44	0.013157894736842105
+eighteenth-century real whig historian	James Burgh	2	2	2	1	NULL	NULL	NULL	2	1	1
+eighteenth-century record	census record	1	1	4	4	0.333333333333	NULL	NULL	129	66	0.001937984496124031
+eighteenth-century record	poll book	1	1	4	4	0.333333333333	NULL	NULL	3	3	0.08333333333333333
+eighteenth-century record	inventory	1	1	4	4	0.333333333333	NULL	NULL	1655	718	0.00015105740181268882
+eighteenth-century record	court document	1	1	4	4	0.333333333333	NULL	NULL	69	21	0.0036231884057971015
+eighteenth-century rector	John Percival	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eighteenth-century revivalist preacher	Jonathan Edwards of Northampton	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century rhetorician	Ogilvie	1	1	3	3	0.333333333333	NULL	NULL	5	5	0.06666666666666667
+eighteenth-century rhetorician	Lord Kames	1	1	3	3	0.333333333333	NULL	NULL	4	4	0.08333333333333333
+eighteenth-century rhetorician	Campbell	1	1	3	3	0.333333333333	NULL	NULL	156	68	0.0021367521367521365
+eighteenth-century savant	Charles Dufay	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century scholar	Brown	1	1	1	1	NULL	NULL	NULL	4244	1139	0.000235626767200754
+eighteenth-century scottish enlightenment thinker	Adam Ferguson	1	1	1	1	1.000000000000	NULL	NULL	21	10	0.047619047619047616
+eighteenth-century sultan	Ahmet II	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighteenth-century surgeon	Vicq D'Azyr	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eighteenth-century taxonomers	Carl Linnaeus	3	3	3	1	1.000000000000	NULL	NULL	12	7	0.25
+eighteenth-century taxonomist	Carl Linnaeus	3	3	3	1	1.000000000000	NULL	NULL	12	7	0.25
+eighteenth-century theatrical genre	tragedy	1	1	1	1	NULL	NULL	NULL	107	56	0.009345794392523364
+eighteenth-century thinker	Lichtenberg	1	1	8	8	0.250000000000	NULL	NULL	6	6	0.020833333333333332
+eighteenth-century thinker	Voltaire	1	1	8	8	0.250000000000	NULL	NULL	442	146	0.0002828054298642534
+eighteenth-century thinker	Pascal	1	1	8	8	0.250000000000	NULL	NULL	432	105	0.00028935185185185184
+eighteenth-century thinker	Descartes	1	1	8	8	0.250000000000	NULL	NULL	390	124	0.0003205128205128205
+eighteenth-century thinker	Diderot	1	1	8	8	0.250000000000	NULL	NULL	89	46	0.0014044943820224719
+eighteenth-century thinker	Edmund Burke	1	1	8	8	0.250000000000	NULL	NULL	61	40	0.0020491803278688526
+eighteenth-century thinker	Adam Smith	1	1	8	8	0.250000000000	NULL	NULL	424	142	0.00029481132075471697
+eighteenth-century thinker	Rousseau	1	1	8	8	0.250000000000	NULL	NULL	358	129	0.00034916201117318437
+eighteenth-century traveler	Otto Mentzel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century traveler	Carl Thunberg	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighteenth-century vessel form	porringer	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+eighteenth-century woman writer	Wollstonecraft	1	1	3	3	1.000000000000	NULL	NULL	17	6	0.0196078431372549
+eighteenth-century woman writer	Radcliffe	1	1	3	3	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+eighteenth-century woman writer	Austen	1	1	3	3	1.000000000000	NULL	NULL	44	22	0.007575757575757575
+eighteenth-century writer	John Cleland	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+eighteenth-century writer	Sir Francis Buller	1	0	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+eighteenth-century writer	seventeenthand eighteenth-century writer	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+eighteenth-century writer	Samuel Richardson	1	1	7	7	1.000000000000	NULL	NULL	12	11	0.011904761904761904
+eighteenth-century writer	Henry Bathurst	1	0	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+eighteenth-century writer	Henry Fielding	1	1	7	7	1.000000000000	NULL	NULL	19	9	0.007518796992481203
+eighteenth-century writer	William Stukeley	1	1	7	7	1.000000000000	NULL	NULL	5	4	0.02857142857142857
+eighteenth-century, english-speaking evangelist	George Whitefield	1	1	2	2	NULL	NULL	NULL	46	25	0.010869565217391304
+eighteenth-century, english-speaking evangelist	Jonathan Edwards	1	1	2	2	NULL	NULL	NULL	118	62	0.00423728813559322
+eighteenth-century-related subject	putti	1	1	3	4	1.000000000000	NULL	NULL	8	8	0.041666666666666664
+eighteenth-century-related subject	wreaths of flower	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eighteenth-century-related subject	pastoral love scene	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Eighters	Herman Uihlein	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Eighters	Lloyd Smith	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Eighters	Captain Frederick Pabst	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eighth amendment concern	individualized determinations in sentencing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighth amendment concern	need for reliability	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eighth amendment violation	use of excessive force by prison official	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighth and ninth century figure	Offa	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+eighth and ninth century town	Amalfi	2	2	2	1	1.000000000000	NULL	NULL	54	33	0.037037037037037035
+eighth and twelfth house issue	sexuality	1	1	1	1	NULL	NULL	NULL	1106	325	0.0009041591320072332
+eighth century animal	horse	1	1	1	1	NULL	NULL	NULL	3872	895	0.00025826446280991736
+eighth century numerous saint	Saints Andrew of Crete	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighth century specialist trading centre	Ipswich	1	1	2	2	NULL	NULL	NULL	104	42	0.004807692307692308
+eighth century specialist trading centre	Southampton	1	1	2	2	NULL	NULL	NULL	240	91	0.0020833333333333333
+eighth external pathologic factor	time	1	1	1	1	NULL	NULL	NULL	8851	2418	0.00011298158400180771
+eighth grade measure	teacher evaluations of the student's behavior	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighth grade measure	teacher evaluations of the student sbehavior	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighth grade student	Hannah Delgado	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighth grader	Danny Castillo	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+eighth grader	Jessica Bucci	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+eighth house issue	life	1	1	6	6	NULL	NULL	NULL	1540	626	0.00010822510822510823
+eighth house issue	occult	1	1	6	6	NULL	NULL	NULL	52	23	0.003205128205128205
+eighth house issue	inheritance	1	1	6	6	NULL	NULL	NULL	1033	400	0.00016134236850596966
+eighth house issue	tax	1	1	6	6	NULL	NULL	NULL	5258	1534	0.000031697730442500313
+eighth house issue	death	1	1	6	6	NULL	NULL	NULL	4423	1491	0.00003768181475619866
+eighth house issue	sex	1	1	6	6	NULL	NULL	NULL	8187	1861	0.00002035747730141281
+eighth house matter	insurance	1	1	2	2	NULL	NULL	NULL	8820	2250	0.00005668934240362812
+eighth house matter	joint finance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighth torque-transmitting mechanism	braking synchronizer	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighth, court case	Looney	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+eighth, economic condition	inflation	1	1	2	2	NULL	NULL	NULL	2369	581	0.00021105951878429716
+eighth, economic condition	unfavorable labor market condition	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighth, local area feature	geographical location	2	2	2	1	NULL	NULL	NULL	441	138	0.0045351473922902496
+eighth, wash object	clothes	1	1	1	1	NULL	NULL	NULL	3774	1059	0.00026497085320614734
+eighth-grade craft	ceramic	1	1	1	1	NULL	NULL	NULL	4473	1434	0.000223563603845294
+eighth-nerve lesion	acoustic schwannomas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighth-nerve lesion	meningiomas	1	1	2	2	NULL	NULL	NULL	170	57	0.0029411764705882353
+eighties superstar rival	Whitney Houston	1	1	1	1	NULL	NULL	NULL	368	114	0.002717391304347826
+eighty activist intellectual	Nurcholish Madjid	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+eighty artist	Michael Jackson	1	1	1	1	NULL	NULL	NULL	865	291	0.0011560693641618498
+eighty b-movie trade mark	Buck Flower	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighty celebrity	Esther Rantzen	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+eighty classic	Sixteen Candles	1	1	7	7	0.857142857142	NULL	NULL	38	14	0.0037593984962406013
+eighty classic	Mr. Mom	1	1	7	7	0.857142857142	NULL	NULL	6	6	0.023809523809523808
+eighty classic	Pretty in Pink	1	1	7	7	0.857142857142	NULL	NULL	53	22	0.002695417789757412
+eighty classic	National Lampoon's Vacation	1	1	7	7	0.857142857142	NULL	NULL	9	8	0.015873015873015872
+eighty classic	Karate Kid	1	1	7	7	0.857142857142	NULL	NULL	47	23	0.00303951367781155
+eighty classic	Weird Science	1	1	7	7	0.857142857142	NULL	NULL	30	19	0.0047619047619047615
+eighty classic	Breakfast Club	1	1	7	7	0.857142857142	NULL	NULL	175	79	0.0008163265306122448
+eighty company	Big Three automaker	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+eighty company	General Electric	1	1	2	2	NULL	NULL	NULL	2514	682	0.0001988862370723946
+eighty era game	Pac Man	1	1	1	1	NULL	NULL	NULL	84	41	0.011904761904761904
+eighty film	William Lustig's Maniac	1	1	1	1	NULL	NULL	NULL	1	1	1
+eighty flick	Used Cars	1	1	1	1	1.000000000000	NULL	NULL	387	346	0.002583979328165375
+eighty game title	Bubble Bobble	1	1	6	6	0.400000000000	NULL	NULL	15	9	0.01111111111111111
+eighty game title	Missile Command	1	1	6	6	0.400000000000	NULL	NULL	28	19	0.005952380952380952
+eighty game title	Rainbow Island	1	1	6	6	0.400000000000	NULL	NULL	1	3	0.16666666666666666
+eighty game title	Asteroids	1	1	6	6	0.400000000000	NULL	NULL	117	38	0.0014245014245014244
+eighty game title	Space Invaders	1	1	6	6	0.400000000000	NULL	NULL	239	72	0.000697350069735007
+eighty game title	Pac Man	1	1	6	6	0.400000000000	NULL	NULL	84	41	0.001984126984126984
+eighty great	Bono from U2	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+eighty group	Devo	6	5	6	1	1.000000000000	NULL	NULL	58	21	0.10344827586206896
+eighty juggernaut	C. Thomas Howell	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+eighty metal band	Motley Crue	1	1	2	3	0.500000000000	NULL	NULL	143	39	0.0034965034965034965
+eighty metal band	white snake	1	1	2	3	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+eighty model	Titanic Toni Frances	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighty model	Shelagh Harrison	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eighty player	Chris Waddle	1	1	1	1	1.000000000000	NULL	NULL	17	5	0.058823529411764705
+eighty profession	law	1	1	1	1	NULL	NULL	NULL	5118	1346	0.00019538882375928098
+eighty R&B girl group	Mary Jane Girls	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+eighty roided bodybuilder action heroes	Arnie	2	1	4	2	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+eighty roided bodybuilder action heroes	Bruce Die-Hard Willis	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+eighty second generation SKA band	Specials	1	1	1	1	NULL	NULL	NULL	78	27	0.01282051282051282
+eighty slower musical style	ballad	3	3	3	1	1.000000000000	NULL	NULL	116	58	0.02586206896551724
+eighty television show	Transformers	1	1	2	2	0.500000000000	NULL	NULL	311	155	0.001607717041800643
+eighty television show	Full House	1	1	2	2	0.500000000000	NULL	NULL	67	42	0.007462686567164179
+eighty traditional and primary product	coffee	1	1	1	1	NULL	NULL	NULL	11509	2489	0.00008688852202624034
+eighty various small group	woman	2	2	3	2	NULL	NULL	NULL	2038	592	0.000654236179260713
+eighty various small group	dalits	1	1	3	2	NULL	NULL	NULL	66	30	0.00505050505050505
+eighty video game	pacman	1	1	1	1	NULL	NULL	NULL	149	58	0.006711409395973154
+eighty-eight secondary source	industry statistic	1	1	2	2	1.000000000000	NULL	NULL	9	5	0.05555555555555555
+eighty-eight secondary source	media report	1	1	2	2	1.000000000000	NULL	NULL	28	17	0.017857142857142856
+eighty-five percent exhibit symptom	nightmare	1	1	3	3	0.333333333333	NULL	NULL	357	145	0.0009337068160597572
+eighty-five percent exhibit symptom	physical complaint	1	1	3	3	0.333333333333	NULL	NULL	9	7	0.037037037037037035
+eighty-five percent exhibit symptom	sleep disturbance	1	1	3	3	0.333333333333	NULL	NULL	572	208	0.0005827505827505828
+eighty-one element	iron	1	1	4	4	NULL	NULL	NULL	11941	2300	0.000020936269994137844
+eighty-one element	copper	1	1	4	4	NULL	NULL	NULL	15607	2840	0.000016018453258153393
+eighty-one element	hydrogen	1	1	4	4	NULL	NULL	NULL	2960	833	0.00008445945945945946
+eighty-one element	oxygen	1	1	4	4	NULL	NULL	NULL	4210	1106	0.000059382422802850356
+eighty-proof alcoholic beverage	gin	1	1	4	4	NULL	NULL	NULL	481	146	0.0005197505197505198
+eighty-proof alcoholic beverage	vodka	1	1	4	4	NULL	NULL	NULL	767	218	0.0003259452411994785
+eighty-proof alcoholic beverage	rum	1	1	4	4	NULL	NULL	NULL	580	193	0.0004310344827586207
+eighty-proof alcoholic beverage	whiskey	1	1	4	4	NULL	NULL	NULL	439	145	0.0005694760820045558
+eighty-year old assessment	J F C Fuller's	1	1	1	1	NULL	NULL	NULL	1	1	1
+eigid society	China	1	1	2	2	NULL	NULL	NULL	30422	3640	0.0000164354743277891
+eigid society	India	1	1	2	2	NULL	NULL	NULL	24660	2730	0.000020275750202757502
+EIGRP feature	automatically summarizing routes at major network boundary	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIGRP operational traffic	hello	1	1	1	1	0.500000000000	NULL	NULL	13	7	0.07692307692307693
+EIGRP packet	Hello packet	3	3	3	1	NULL	NULL	NULL	5	3	0.6
+EII complex	mannose-specific E. coli EII Man	1	1	1	1	NULL	NULL	NULL	1	1	1
+EII technology	electronic mail	1	1	1	1	NULL	NULL	NULL	621	292	0.001610305958132045
+eiisocial insect	ant	1	1	2	2	NULL	NULL	NULL	1658	410	0.00030156815440289503
+eiisocial insect	termite	1	1	2	2	NULL	NULL	NULL	723	171	0.0006915629322268327
+eiken's product	fully automated fecal occult blood analyzer OC series	1	1	1	1	NULL	NULL	NULL	1	1	1
+eilat hotel	Crowne Plaza Eilat	1	1	1	1	NULL	NULL	NULL	1	1	1
+eileen's audio tape	Loving Unconditionally	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIM	Microsoft LCS	1	1	1	1	0.500000000000	NULL	NULL	2	2	0.5
+EIM device	Audio Port	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+EIM framework component	master data management	1	1	1	1	1.000000000000	NULL	NULL	60	44	0.016666666666666666
+EIM infrastructure	Microsoft LCS	1	1	1	1	0.500000000000	NULL	NULL	2	2	0.5
+EIM service	Process Review	1	1	3	3	1.000000000000	NULL	NULL	20	14	0.016666666666666666
+EIM service	eForms Conversion	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EIM service	Workflow Architecture	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+EIM software	Websense Enterprise	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eimeria strain	E. brunetti	1	1	1	1	NULL	NULL	NULL	1	1	1
+eindhoven attraction	evoluon	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+eindhoven attraction	Philips Stadium	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+Eingegliederten Ostgebieten	Warthegau	1	1	1	1	NULL	NULL	NULL	1	1	1
+eInk device	original Nook	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eink reader	Kindle	1	1	1	1	NULL	NULL	NULL	878	239	0.0011389521640091116
+eink screen	Kobo use	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eink screen	Kindle	1	1	2	2	NULL	NULL	NULL	878	239	0.0005694760820045558
+eins	drug-transport prot eins	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+eins	map kinase scaffolding prot eins	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+einstein biographer	Albert Einstein in the World Wide Web	1	1	1	1	NULL	NULL	NULL	1	1	1
+einstein equation pre-dictsquite unexpected phenomenon	gravitational wave	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+einstein interactive game	3-reel set	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+einstein interactive game	memory matching game	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+einstein party supply	plate	1	1	1	1	NULL	NULL	NULL	2349	1069	0.0004257130693912303
+einstein recruit	Alfred A. Rosenberg Professorial Chair in Diabetes Research	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+einstein recruit	Jeff Pessin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+einstein recruit	Judy R.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+einstein scholar	Holton	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+einstein scientist	S. Tolver PrestonOlinto De Pretto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+einstein scientist	S. Tolver Preston Olinto De Pretto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+einstein's associate	Wieland Herzfeld	1	1	1	1	NULL	NULL	NULL	1	1	1
+einstein's party favor	Little Einsteins DVD	1	1	1	1	NULL	NULL	NULL	1	1	1
+Einstein's personal information	height	1	1	2	2	NULL	NULL	NULL	4847	1409	0.00010315659170621003
+Einstein's personal information	birthday	1	1	2	2	NULL	NULL	NULL	5325	828	0.00009389671361502347
+einstein's symbol	E if for energy	1	1	1	1	NULL	NULL	NULL	1	1	1
+einstein's theory	Theory of Relativity	1	1	1	1	1.000000000000	NULL	NULL	31	14	0.03225806451612903
+Einsteins	Sarandon	1	1	1	1	0.666666666666	NULL	NULL	6	6	0.16666666666666666
+Einsteins law	found in the laws of thermodynamics	1	1	1	1	NULL	NULL	NULL	1	1	1
+einstruction product	new MOBI View	1	1	1	1	NULL	NULL	NULL	1	1	1
+einstruction tool	CPS	1	1	1	1	NULL	NULL	NULL	81	55	0.012345679012345678
+eInvoicing technology	EDI	1	1	1	1	NULL	NULL	NULL	287	172	0.003484320557491289
+EIP feature	document library	1	1	1	1	NULL	NULL	NULL	53	34	0.018867924528301886
+EIP multi-sectoral activity	irrigation	1	1	1	1	0.500000000000	NULL	NULL	1571	697	0.0006365372374283895
+EIP pattern	Dead Letter Channel	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+EIP pattern	Splitter	1	1	5	5	1.000000000000	NULL	NULL	12	22	0.016666666666666666
+EIP pattern	Idempotent Consumer	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+EIP pattern	Aggregator	1	1	5	5	1.000000000000	NULL	NULL	11	11	0.018181818181818184
+EIP pattern	Recipient List	1	1	5	5	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+EIP technique	cascading information	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+EIP technique	team briefing	1	1	2	2	1.000000000000	NULL	NULL	22	15	0.022727272727272728
+eip's successful event	fundraising event	1	1	3	3	0.333333333333	NULL	NULL	70	35	0.0047619047619047615
+eip's successful event	happy hour	1	1	3	3	0.333333333333	NULL	NULL	243	90	0.0013717421124828531
+eip's successful event	bowling tournament	1	1	3	3	0.333333333333	NULL	NULL	17	10	0.0196078431372549
+EIPP technology user	Con-Way Transportation Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EIPP technology user	AT&T Wireless	1	1	2	2	NULL	NULL	NULL	117	57	0.004273504273504274
+eir special eff ects	sound	1	1	2	2	NULL	NULL	NULL	3042	1139	0.0001643655489809336
+eir special eff ects	storm with fog machine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eir technological breakthrough	gunpowder	1	1	1	1	NULL	NULL	NULL	191	87	0.005235602094240838
+eircom department	Network Management	1	1	1	1	NULL	NULL	NULL	216	106	0.004629629629629629
+eiretsu company	Honda	1	1	1	1	NULL	NULL	NULL	2841	812	0.00035198873636043646
+EIs	Load Profiler	1	1	2	2	0.200000000000	NULL	NULL	1	1	0.5
+EIs	big handss	1	1	2	2	0.200000000000	NULL	NULL	1	1	0.5
+EIS binding	bindings for a CICS system	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIS datum	Pore resistance	2	2	3	2	NULL	NULL	NULL	5	3	0.26666666666666666
+EIS datum	coating capacitance	1	1	3	2	NULL	NULL	NULL	5	3	0.06666666666666667
+EIS graduate	Seth Berkley	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EIS graduate	President of the International AIDS Vaccine Initiative	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EIS group	Purchases	1	0	1	2	1.000000000000	NULL	NULL	9	11	0.1111111111111111
+EIS incorporated technology	electronic mail	1	1	2	2	0.500000000000	NULL	NULL	621	292	0.0008051529790660225
+EIS incorporated technology	computer conferencing	1	1	2	2	0.500000000000	NULL	NULL	44	35	0.011363636363636364
+EIS indicator	innovation expenditure	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EIS initiative	Peace Parks Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIS interface	screen	1	1	1	1	NULL	NULL	NULL	1171	551	0.0008539709649871904
+EIS investment	film company	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+EIS officer	David Auerbach	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIS parameter	consistency of slopes between different frequency	1	1	1	1	NULL	NULL	NULL	1	1	1
+EIS resource	DB2	1	1	1	1	NULL	NULL	NULL	446	177	0.002242152466367713
+EIS service	videoconferencing	1	1	2	2	NULL	NULL	NULL	756	321	0.0006613756613756613
+EIS service	Kent Learning Zone	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EIS system	digital dashboard	3	3	3	2	1.000000000000	NULL	NULL	10	8	0.3
+eis-level planning process	RMP revision	1	1	1	1	NULL	NULL	NULL	1	1	1
+eis-owned datum	EIS identifiers	1	1	1	1	NULL	NULL	NULL	1	1	1
+EISA bus board	PCI-20501C Series	1	1	1	1	NULL	NULL	NULL	1	1	1
+EISA feature	speed	1	1	3	3	NULL	NULL	NULL	4847	1571	0.00006877106113747335
+EISA feature	32-bit address	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EISA feature	geographic addressing	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EISCAT observation	dualfrequency target size	1	1	1	1	NULL	NULL	NULL	1	1	1
+eiscosanoid compound	resolvins	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+eiseases	chlamydia	1	1	2	2	NULL	NULL	NULL	1958	258	0.0002553626149131767
+eiseases	gonorrhea	1	1	2	2	NULL	NULL	NULL	1505	186	0.0003322259136212625
+eiseley's writing	childhood story	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+eisenberg gourmet sausage	beef polish	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eisenberg gourmet sausage	bratwurst	1	1	2	2	NULL	NULL	NULL	143	85	0.0034965034965034965
+eisenhower later president	Ford	1	1	6	6	NULL	NULL	NULL	4256	1161	0.000039160401002506263
+eisenhower later president	Bush	1	1	6	6	NULL	NULL	NULL	699	332	0.0002384358607534573
+eisenhower later president	Kennedy	1	1	6	6	NULL	NULL	NULL	147	84	0.0011337868480725624
+eisenhower later president	Johnson	1	1	6	6	NULL	NULL	NULL	472	209	0.00035310734463276836
+eisenhower later president	Reagan	1	1	6	6	NULL	NULL	NULL	128	64	0.0013020833333333333
+eisenhower later president	Nixon	1	1	6	6	NULL	NULL	NULL	104	51	0.0016025641025641025
+eisenhower medical center service	physical	1	1	1	1	NULL	NULL	NULL	1690	653	0.000591715976331361
+eisenhower revisionist	Melanie Billings-Yun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eisenhower revisionist	presidential scholar Fred Greenstein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eisenhower teacher	Louise LaFaive	1	1	1	1	NULL	NULL	NULL	1	1	1
+eisenhower's war action	working with French general Jean-Francois Darlan	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eisenia species	Eisenia foetida	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+Eisenman building	Wexner Center	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+Eisenman's progeny	Greg Lynn	1	1	1	1	1.000000000000	NULL	NULL	9	5	0.1111111111111111
+eisenman's work	Ohio State University's Wexner Center for the Visual Arts	1	1	1	1	NULL	NULL	NULL	1	1	1
+Eisenstadtpartscom-panywithothers	Ernst Haas	1	1	1	1	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+eisenstein's book	Film Form	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eisenstein's book	Film Sense	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eisner property	Mr. Mystic	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eisteddfods parish event	St Patricks day	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+EIT country	Ukraine	2	2	3	2	NULL	NULL	NULL	1691	356	0.0007884880741178789
+EIT country	Russia	1	1	3	2	NULL	NULL	NULL	8825	1448	0.00003777148253068933
+EIT store information	purpose of the visit	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+eitc	earned income tax credit eitc	1	1	1	1	NULL	NULL	NULL	1	1	1
+EITC provision	simplified definition of earned income	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EITC provision	simplified relationship test increases in phase-out limit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eithera medical ora psychiatric condition	depression	2	1	6	3	NULL	NULL	NULL	15330	3151	0.00004348771472059143
+eithera medical ora psychiatric condition	diabetes	2	1	6	3	NULL	NULL	NULL	23990	3013	0.00002778935667639294
+eithera medical ora psychiatric condition	asthma	2	1	6	3	NULL	NULL	NULL	8602	1433	0.00007750135627373479
+eithera natural phenomenon	lighting	1	1	1	1	NULL	NULL	NULL	5506	1914	0.00018162005085361425
+eithera PBPK model	Kirman et al.	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eithera PBPK model	ones published by Young et al.	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Eithernon-idealities	amplifier dynamic	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eitherpairwise interaction	many-body embedded atom method potential for simple metal	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+eitherpairwise interaction	Lennard-Jones potential	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+eithertotask effect	construction priming	1	1	1	1	NULL	NULL	NULL	1	1	1
+EITI country	Azerbaijan	2	2	3	2	NULL	NULL	NULL	452	142	0.0029498525073746312
+EITI country	Liberia	1	1	3	2	NULL	NULL	NULL	792	142	0.00042087542087542086
+eitneun housing condition	family	1	1	2	2	NULL	NULL	NULL	5717	1803	0.00008745845723281441
+eitneun housing condition	friend	1	1	2	2	NULL	NULL	NULL	2272	836	0.00022007042253521127
+eiuotioned cause	grief	1	1	3	3	NULL	NULL	NULL	1260	360	0.0002645502645502645
+eiuotioned cause	fright	1	1	3	3	NULL	NULL	NULL	102	51	0.00326797385620915
+eiuotioned cause	shock	1	1	3	3	NULL	NULL	NULL	1007	428	0.0003310162197947699
+EIV	Failed Verification Report	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EIV	Multiple Subsidy Report	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EIV	Deceased Tenant Report	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EIV model estimation method	generalized maximum entropy	1	1	4	5	0.333333333333	NULL	NULL	1	1	0.25
+EIV model estimation method	instrumental variable	1	1	4	5	0.333333333333	NULL	NULL	51	32	0.004901960784313725
+EIV model estimation method	maximum likelihood	1	1	4	5	0.333333333333	NULL	NULL	227	140	0.0011013215859030838
+EIV model estimation method	method of moment	1	1	4	5	0.333333333333	NULL	NULL	70	42	0.0035714285714285713
+eivedbarriers	lack of ti metoconduct evaluation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eivedbarriers	losing contact with client	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eivedhighest international recognition	Winston Gordon Award from the Canadian National Institute for the Blind	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eiver	variometer short wave set	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eivironmental factor	ph	1	1	3	3	0.200000000000	NULL	NULL	6258	1312	0.000053265153936294876
+eivironmental factor	conductivity	1	1	3	3	0.200000000000	NULL	NULL	885	324	0.0003766478342749529
+eivironmental factor	TOC	1	1	3	3	0.200000000000	NULL	NULL	61	35	0.00546448087431694

@@ -1,0 +1,19 @@
+XV australian-made wildlife film	David Parer's Dragons of Galapagos	1	1	1	1	NULL	NULL	NULL	1	1	1
+XV century famous humanist	Manuel Chrysolorus	1	1	1	1	NULL	NULL	NULL	1	1	1
+XV post	Awesome	1	1	2	2	1.000000000000	NULL	NULL	61	14	0.00819672131147541
+XV post	Foreign Exchange Student	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+XV v-twin model	Virago	2	1	2	1	1.000000000000	NULL	NULL	13	11	0.15384615384615385
+xvalwithadierent classifier	support vector machine	1	1	1	1	NULL	NULL	NULL	612	242	0.0016339869281045752
+XVCL concept	iteration	1	1	2	2	0.333333333333	NULL	NULL	99	65	0.005050505050505051
+XVCL concept	selection	1	1	2	2	0.333333333333	NULL	NULL	804	378	0.0006218905472636816
+xvenionitory symptom	loss of appetite	1	1	1	1	NULL	NULL	NULL	1085	273	0.0009216589861751152
+XVI century numerous historical datum	written source	1	1	1	1	NULL	NULL	NULL	1	1	1
+XVII century great thinker	Newton	1	1	3	3	NULL	NULL	NULL	484	194	0.0006887052341597795
+XVII century great thinker	Locke	1	1	3	3	NULL	NULL	NULL	494	134	0.0006747638326585695
+XVII century great thinker	Galileo	1	1	3	3	NULL	NULL	NULL	507	199	0.0006574621959237343
+XVII century painter	Murillo	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+XVII century painter	Le Nain	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+XVIII century villa	built around a XVI century tower	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XVIII century villa	Villa San Marco	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XVIII century villa	Villa Valdina	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XVL function	process animation capabilities created in XVL Studio	1	1	1	1	NULL	NULL	NULL	1	1	1

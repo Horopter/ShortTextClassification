@@ -1,0 +1,138 @@
+VR	OW	1	1	1	1	0.666666666666	NULL	NULL	2	2	0.5
+VR application	digital library application created by Shiaw	2	2	14	13	0.333333333333	NULL	NULL	2	1	0.14285714285714285
+VR application	flight simulation	1	1	14	13	0.333333333333	NULL	NULL	20	19	0.0035714285714285713
+VR application	treatment of phobia	1	1	14	13	0.333333333333	NULL	NULL	2	2	0.03571428571428571
+VR application	Hugh Denard's reconstruction of the theater of Pompey in Rome	1	1	14	13	0.333333333333	NULL	NULL	1	1	0.07142857142857142
+VR application	virtual museum	1	1	14	13	0.333333333333	NULL	NULL	6	6	0.011904761904761904
+VR application	virtual shop	1	1	14	13	0.333333333333	NULL	NULL	1	1	0.07142857142857142
+VR application	medical imaging	1	1	14	13	0.333333333333	NULL	NULL	333	120	0.00021450021450021448
+VR application	Richard Beacham's	1	1	14	13	0.333333333333	NULL	NULL	1	1	0.07142857142857142
+VR application	DesignSpace system	1	1	14	13	0.333333333333	NULL	NULL	2	2	0.03571428571428571
+VR application	architectural design	1	1	14	13	0.333333333333	NULL	NULL	128	81	0.0005580357142857143
+VR application	video game	1	1	14	13	0.333333333333	NULL	NULL	1579	618	0.00004523658735185017
+VR application	data visualization	1	1	14	13	0.333333333333	NULL	NULL	64	39	0.0011160714285714285
+VR application	virtual city	1	1	14	13	0.333333333333	NULL	NULL	3	3	0.023809523809523808
+VR application development platform	using Alice	1	1	1	1	NULL	NULL	NULL	1	1	1
+VR center	Vis Lab located at Ohio's Wright State University Joshi Lab	1	1	1	1	NULL	NULL	NULL	1	1	1
+VR design parameter	switching frequency	1	1	2	2	1.000000000000	NULL	NULL	22	16	0.022727272727272728
+VR design parameter	amount of capacitance	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+VR design technique	scientific visualization	1	1	1	1	1.000000000000	NULL	NULL	34	27	0.029411764705882353
+VR device	Cyberglove	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VR device	tracking	1	1	4	4	NULL	NULL	NULL	756	361	0.00033068783068783067
+VR device	Powerwall	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+VR device	force-feedback device	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VR feature	shape	1	1	2	2	NULL	NULL	NULL	3964	1303	0.00012613521695257316
+VR feature	color	1	1	2	2	NULL	NULL	NULL	11347	3399	0.00004406451044328897
+VR implementation	telepresence	1	1	1	1	NULL	NULL	NULL	113	59	0.008849557522123894
+VR input device	wand	1	1	3	3	0.333333333333	NULL	NULL	298	161	0.0011185682326621924
+VR input device	motion tracker	1	1	3	3	0.333333333333	NULL	NULL	7	7	0.047619047619047616
+VR input device	glove	1	1	3	3	0.333333333333	NULL	NULL	4008	1201	0.00008316699933466401
+VR lens	18-200mm VR	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VR lens	18-105mm VR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VR project	reconstruction of the ancient city of Miletus in Asia Minor	1	1	1	1	NULL	NULL	NULL	1	1	1
+VR projection device	shutter glass	2	2	6	3	1.000000000000	NULL	NULL	9	8	0.07407407407407407
+VR projection device	Immersive WorkBench	2	2	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+VR projection device	pinch glove	2	2	6	3	1.000000000000	NULL	NULL	8	4	0.08333333333333333
+VR researcher	Myron Krueger	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VR ride	DisneyQuest's CyberSpace Mountain in Orlando	1	1	1	1	NULL	NULL	NULL	1	1	1
+VR service	training	1	1	4	4	0.400000000000	NULL	NULL	7685	2537	0.000032530904359141185
+VR service	career counseling	1	1	4	4	0.400000000000	NULL	NULL	166	76	0.0015060240963855422
+VR service	plan development	1	1	4	4	0.400000000000	NULL	NULL	10	9	0.025
+VR service	guidance	1	1	4	4	0.400000000000	NULL	NULL	314	152	0.0007961783439490446
+VR simulation	flight simulator	1	1	2	2	NULL	NULL	NULL	114	74	0.0043859649122807015
+VR simulation	re-creation of the Shadow Moses incident	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VR simulator component	graphical model	1	1	2	2	1.000000000000	NULL	NULL	26	17	0.019230769230769232
+VR simulator component	interactive user interface	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+VR software	WTK	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+VR software package	SuperScape VRT	2	2	2	1	NULL	NULL	NULL	2	1	1
+VR system	flight simulator	2	2	7	6	0.666666666666	NULL	NULL	114	74	0.005012531328320802
+vr system	frequently unconsidered vr system	1	1	7	6	0.666666666666	NULL	NULL	2	2	0.07142857142857142
+VR system	Dragon	1	1	7	6	0.666666666666	NULL	NULL	934	475	0.00015295197308045274
+VR system	Dictaphone	1	1	7	6	0.666666666666	NULL	NULL	15	13	0.009523809523809523
+VR system	Virtual Museums project	1	1	7	6	0.666666666666	NULL	NULL	1	1	0.14285714285714285
+VR system	Proscribe	1	1	7	6	0.666666666666	NULL	NULL	1	1	0.14285714285714285
+VR technique	CAVE technology	1	1	1	1	NULL	NULL	NULL	1	1	1
+VR technology	tactile feedback system	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vr technology	high-end vr technology	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+vr technology	variousimmersive vr technology	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VR tool	software	1	1	3	3	NULL	NULL	NULL	3405	1210	0.0000978952520802741
+VR tool	MR Toolkit	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VR tool	immersive cylindrical projector screen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VR world	SL	1	1	1	1	1.000000000000	NULL	NULL	38	29	0.02631578947368421
+VR-applications	virtual assembly planning	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+vr-based interface	exoskeleton-based system for robotic arms control	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+vr-based interface	haptic feedback	1	1	4	4	1.000000000000	NULL	NULL	13	12	0.019230769230769232
+vr-based interface	multi-modal interfaces providing voice control	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+vr-based interface	gesture-based control	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+VR1 agonists	RTX	4	3	5	2	0.500000000000	NULL	NULL	12	8	0.26666666666666666
+VR1 agonists	capsaicin	1	1	5	2	0.500000000000	NULL	NULL	201	102	0.0009950248756218907
+VR1 ion channel mediated disease	chronic	1	1	2	2	0.500000000000	NULL	NULL	82	44	0.006097560975609756
+VR1 ion channel mediated disease	acute pain	1	1	2	2	0.500000000000	NULL	NULL	31	23	0.016129032258064516
+VR500 award honoree	E. P. Burke Publishing	1	1	1	1	NULL	NULL	NULL	1	1	1
+VRA conservation project	on-farm improvement	1	1	1	1	NULL	NULL	NULL	1	1	1
+vraid automated storage management task	performance tuning	1	1	1	1	NULL	NULL	NULL	68	44	0.014705882352941176
+vRanger configuration information	ESX host	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+vRanger configuration information	configured Virtual Centers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vRanger configuration information	configured job	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VRArtists	Char Davies	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VRArtists	Toshio Iwaior Maurice Benayoun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VRAs	Tolvaptan	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+Vrats	dharna-parna	1	1	1	1	NULL	NULL	NULL	1	1	1
+VRC core component	Domain Controller	1	1	1	1	NULL	NULL	NULL	64	43	0.015625
+VRC members event	special commemorative book	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VRC members event	milestone	1	1	2	2	NULL	NULL	NULL	167	91	0.0029940119760479044
+VRC option	Position Indicators	2	2	2	1	1.000000000000	NULL	NULL	16	8	0.125
+VRC2 game	Contra	1	1	1	1	1.000000000000	NULL	NULL	55	30	0.01818181818181818
+VRCBVI resource	O&M instruction	1	1	1	1	NULL	NULL	NULL	1	1	1
+vrcs technique	three-dimensional geometric modeling	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+vrcs technique	scientific visualization	1	1	2	2	1.000000000000	NULL	NULL	34	27	0.014705882352941176
+VRDS transport	T1	1	1	1	1	NULL	NULL	NULL	228	159	0.0043859649122807015
+VRE1 programme method	participatory design	1	1	1	1	1.000000000000	NULL	NULL	39	23	0.02564102564102564
+Vref's	Vref20	1	1	1	1	NULL	NULL	NULL	1	1	1
+vremove obstacle	rock	1	1	2	2	NULL	NULL	NULL	5667	1843	0.00008823010411152286
+vremove obstacle	tree limb	1	1	2	2	NULL	NULL	NULL	250	87	0.002
+VRESCoregistry storesmetadata	QoSorphysical location of service	1	1	1	1	NULL	NULL	NULL	1	1	1
+vrey lightly onthe vice	carrying on in society	1	1	1	1	NULL	NULL	NULL	10	3	0.1
+vrindavan flower	Kund	1	1	1	1	NULL	NULL	NULL	1	1	1
+vrindavan's tree	champak	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+vrindavan's tree	bakula	1	1	3	3	1.000000000000	NULL	NULL	8	5	0.041666666666666664
+vrindavan's tree	tamala	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+vritual CD program	Alcohol 120%	1	1	2	2	0.500000000000	NULL	NULL	87	29	0.005747126436781609
+vritual CD program	Daemon Tools	1	1	2	2	0.500000000000	NULL	NULL	123	41	0.0040650406504065045
+VRML browser	Cosmo Player	2	2	3	2	1.000000000000	NULL	NULL	4	3	0.3333333333333333
+VRML browser	Webspace	1	1	3	2	1.000000000000	NULL	NULL	7	5	0.047619047619047616
+VRML community building project	Terra Vista	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+VRML feature	VRMLScript node	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+VRML feature	time-based animation	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+VRML feature	script	1	1	5	5	NULL	NULL	NULL	778	344	0.00025706940874035993
+VRML feature	sensor	1	1	5	5	NULL	NULL	NULL	1753	737	0.00011409013120365089
+VRML feature	stored viewpoint	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+VRML file	topo	1	1	1	1	0.666666666666	NULL	NULL	10	9	0.1
+VRML new sensor	time	1	1	3	3	NULL	NULL	NULL	8851	2418	0.000037660528000602565
+VRML new sensor	motion	1	1	3	3	NULL	NULL	NULL	738	340	0.00045167118337850043
+VRML new sensor	sound	1	1	3	3	NULL	NULL	NULL	3042	1139	0.00010957703265395572
+VRML node	Text	1	1	1	1	NULL	NULL	NULL	3231	1203	0.00030950170225936243
+VRML object	car	1	1	2	2	NULL	NULL	NULL	7866	2381	0.00006356470887363335
+VRML object	home	1	1	2	2	NULL	NULL	NULL	3273	1179	0.00015276504735716468
+VRML player	Cortona VRML Client	1	1	1	1	NULL	NULL	NULL	1	1	1
+VRML plugin	Cosmo Player	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+VRML plugin	Cortona 3D Player	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VRML program	Cortona from parallel graphic	1	1	1	1	NULL	NULL	NULL	1	1	1
+VRML resource	builder	1	1	3	3	0.333333333333	NULL	NULL	487	207	0.0006844626967830253
+VRML resource	model	1	1	3	3	0.333333333333	NULL	NULL	1338	508	0.00024912805181863477
+VRML resource	parsers	1	1	3	3	0.333333333333	NULL	NULL	38	30	0.008771929824561403
+VRML viewer	Cosmos VRML viewer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+vrml viewer	public-domain vrml viewer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+VRML viewer	Cosmo Player	1	1	5	5	NULL	NULL	NULL	4	3	0.05
+VRML viewer	Blaxxun	1	1	5	5	NULL	NULL	NULL	5	5	0.04
+VRML viewer	Microsoft VRML viewer	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+VRML-specific information	description of VRML node	1	1	1	1	NULL	NULL	NULL	1	1	1
+VRNisindexedtoa money market rate	LIBOR	1	1	1	1	0.500000000000	NULL	NULL	78	38	0.01282051282051282
+VRS company	ZVRS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VRS company	Convo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VRS investment	private equity	2	2	2	1	NULL	NULL	NULL	531	196	0.003766478342749529
+VRSs	HOVRS	1	1	1	1	NULL	NULL	NULL	1	1	1
+VRT role	staff Officers	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+vrt-401ssupports various internet communication application	Telephony	1	1	2	3	NULL	NULL	NULL	381	180	0.0013123359580052493
+vrt-401ssupports various internet communication application	Conferencing application	1	1	2	3	NULL	NULL	NULL	4	3	0.125
+vrv-based refrigeration system	Daikin R410a CVP	1	1	1	1	NULL	NULL	NULL	1	1	1

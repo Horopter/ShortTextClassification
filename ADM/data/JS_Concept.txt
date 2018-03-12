@@ -1,0 +1,116 @@
+js	Lightbox JS	1	1	1	1	1.000000000000	NULL	NULL	15	7	0.06666666666666667
+JS debugger	Chrome's debugger	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JS debugger	Firebug	1	1	2	2	NULL	NULL	NULL	91	40	0.005494505494505495
+JS engine	Google's V8	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+JS engine	Mozilla Rhino for scripting	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JS engine	Google V8	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JS framework	jquery	5	4	8	4	0.333333333333	NULL	NULL	557	194	0.005610412926391382
+js framework	common js framework	1	1	8	4	0.333333333333	NULL	NULL	2	2	0.0625
+JS framework	Dojo	1	1	8	4	0.333333333333	NULL	NULL	95	37	0.0013157894736842105
+JS framework	Scriptaculous	1	1	8	4	0.333333333333	NULL	NULL	27	19	0.004629629629629629
+JS function	match	2	2	3	2	NULL	NULL	NULL	810	261	0.0016460905349794238
+JS function	search	1	1	3	2	NULL	NULL	NULL	1516	675	0.0002198768689533861
+JS library	jquery	4	3	6	3	NULL	NULL	NULL	557	194	0.0047875523638539795
+js library	great ria js library	1	1	6	3	NULL	NULL	NULL	2	2	0.08333333333333333
+JS library	Prototype	1	1	6	3	NULL	NULL	NULL	380	146	0.00043859649122807013
+JS ROMS	Teleforce	1	1	1	1	NULL	NULL	NULL	1	1	1
+js-based template engine	jQuery template	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+js-powered feature	Description	1	1	2	2	NULL	NULL	NULL	1517	559	0.0003295978905735003
+js-powered feature	Show link for Share	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JSA action	drawing up a CV	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JSA action figure	JLA figures like the Silver Age Batman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JSA action figure	Hourman	1	1	3	3	NULL	NULL	NULL	8	5	0.041666666666666664
+JSA action figure	Flash	1	1	3	3	NULL	NULL	NULL	2364	906	0.00014100394811054708
+JSA member	Flash	1	1	3	3	0.250000000000	NULL	NULL	2364	906	0.00014100394811054708
+JSA member	Johnny Thunder	1	1	3	3	0.250000000000	NULL	NULL	1	1	0.3333333333333333
+JSA member	Johnny Quick	1	1	3	3	0.250000000000	NULL	NULL	4	4	0.08333333333333333
+JSA support material	hazard identification tool	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+JSA support material	checklist	1	1	2	2	NULL	NULL	NULL	604	293	0.0008278145695364238
+JSAT OPIs	J5PA Coord	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSB operation	Palestinian Intifada	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+jsb's own pellet	JSB Exacts	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+jsb's own pellet	Air Arms Field & Webley Mosquito's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JSC legend	Dr. Gilruth	1	1	1	1	NULL	NULL	NULL	1	1	1
+jsc's most famed attraction	Neutral Buoyancy Laboratory's 6.2-million-gallon pool at the Sonny Carter Training Facility	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSCBs	Phu Nam Bank	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jscs supporter	newspaper Mideast Mirror	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSDA survey	clean survey	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSE environment	unit test environment	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSE player	Anglo American	1	1	1	1	NULL	NULL	NULL	180	92	0.005555555555555556
+jse-listed company	BHP Billiton	2	2	5	3	0.333333333333	NULL	NULL	553	212	0.0014466546112115732
+jse-listed company	Anglo American	2	2	5	3	0.333333333333	NULL	NULL	180	92	0.0044444444444444444
+jse-listed company	Omnia	1	1	5	3	0.333333333333	NULL	NULL	7	6	0.028571428571428574
+jse-listed resource giant	Anglo American	1	1	1	1	NULL	NULL	NULL	180	92	0.005555555555555556
+JSF application resource	managed bean	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSF asset	unmanned aerial vehicle	1	1	1	1	NULL	NULL	NULL	96	73	0.010416666666666666
+JSF building block concept	component identifiers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JSF building block concept	component family	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JSF building block concept	component tree	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JSF component	UI component	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JSF component set	ADF Face Rich Client	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JSF component set	Apache Trinidad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JSF extension	MyFaces Tomahawk	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSF formatter	date formatter	2	1	2	1	NULL	NULL	NULL	2	1	1
+JSF framework	JBOSS Seam	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+JSF function	navigation	2	1	2	1	NULL	NULL	NULL	1419	591	0.0014094432699083862
+JSF implementation	Mojarra	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+JSF implementation	Sun RI	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JSF partner	Britain	2	2	6	5	NULL	NULL	NULL	3941	769	0.0001691618032648228
+JSF partner	Italy	1	1	6	5	NULL	NULL	NULL	10580	1406	0.00001575299306868305
+JSF partner	Northrop Grumman	1	1	6	5	NULL	NULL	NULL	337	132	0.0004945598417408506
+JSF partner	Netherlands	1	1	6	5	NULL	NULL	NULL	7061	827	0.000023603833262521832
+JSF partner	BAE Systems	1	1	6	5	NULL	NULL	NULL	297	128	0.0005611672278338944
+JSF UI component	Input Text	1	1	2	2	0.500000000000	NULL	NULL	12	6	0.041666666666666664
+JSF UI component	command button	1	1	2	2	0.500000000000	NULL	NULL	80	40	0.00625
+JSF view technology	Facelets	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+jsh&a's strategic public relation program	award-winning America's Longest Commute'' contest	1	1	1	1	NULL	NULL	NULL	1	1	1
+jshell property	current directory	1	1	1	1	NULL	NULL	NULL	6	3	0.16666666666666666
+JSOC task force	Task Force 145	3	3	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+JSOC task force	Task Force 121	3	3	9	3	NULL	NULL	NULL	4	2	0.25
+JSOC task force	Task Force 6-26	3	3	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+jsome european country	France	1	1	1	1	NULL	NULL	NULL	18997	2318	0.00005263989050902774
+JSON datum	selection list	1	1	1	1	1.000000000000	NULL	NULL	21	17	0.047619047619047616
+JSON library	JSON	1	1	1	1	NULL	NULL	NULL	73	55	0.0136986301369863
+JSON parsers	Microsoft's JavaScriptSerializer class found in the System.Web.Script.Serialization namespace	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSON-based document database	CouchDB	2	1	4	2	1.000000000000	NULL	NULL	58	37	0.017241379310344827
+JSON-based document database	mongodb	2	1	4	2	1.000000000000	NULL	NULL	81	43	0.012345679012345678
+JSP 1.2-compliant container	OC4J JSP container	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JSP 1.2-compliant JSP container	OC4J JSP container	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JSP bus management system	main framework used STEUTS	3	2	3	1	NULL	NULL	NULL	3	1	1
+JSP compilation error	incorrect JSP syntax	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSP compiler	Jasper into servlets	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JSP construct	JSP expression element	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JSP construct	J SP expression element	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jsp container	tomcat	1	1	2	2	NULL	NULL	NULL	181	89	0.0027624309392265192
+jsp container	Resin	1	1	2	2	NULL	NULL	NULL	1240	509	0.0004032258064516129
+JSP element	action	2	2	7	5	NULL	NULL	NULL	704	305	0.0008116883116883116
+JSP element	scripting element	2	2	7	5	NULL	NULL	NULL	3	2	0.19047619047619047
+JSP element	declaration	1	1	7	5	NULL	NULL	NULL	101	57	0.0014144271570014143
+JSP element	directive	1	1	7	5	NULL	NULL	NULL	50	38	0.002857142857142857
+JSP element	custom JSP tag	1	1	7	5	NULL	NULL	NULL	1	1	0.14285714285714285
+JSP file	transformation fragment	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+JSP file	template	2	1	4	2	NULL	NULL	NULL	701	328	0.0014265335235378032
+JSP implicit object	request	2	2	6	4	NULL	NULL	NULL	174	104	0.0038314176245210726
+JSP implicit object	response	2	2	6	4	NULL	NULL	NULL	180	111	0.0037037037037037034
+JSP implicit object	session	1	1	6	4	NULL	NULL	NULL	117	90	0.0014245014245014244
+JSP implicit object	pagecontext	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+JSP Server	SAP J2EE Engine	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSP servlet womb	Tomcat	1	1	1	1	NULL	NULL	NULL	181	89	0.0055248618784530384
+JSP syntax element	standard action tag	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JSP syntax element	custom tag	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+JSP tag	button	1	1	1	1	NULL	NULL	NULL	4383	1440	0.00022815423226100844
+JSP Taglibraries	Request Tag Library	1	1	1	1	NULL	NULL	NULL	1	1	1
+JSP technology-related topic	implicit object	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jsp type application	OAM	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+JSPP s	Teachers Pension Plan	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JSPs	DeleteSubproject	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JSPs	Teachers Pension Plan	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+JSPs	AddSubproject	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JSPS product	NMS	2	2	2	1	1.000000000000	NULL	NULL	19	14	0.10526315789473684
+JSR-303 provider	Hibernate Validator	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+JSRD feature	hepatic fibrosis	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+JSRD feature	ocular colobomas	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JSS measure outcome satisfaction facet	supervision	1	1	3	3	NULL	NULL	NULL	584	259	0.0005707762557077625
+JSS measure outcome satisfaction facet	promotion	1	1	3	3	NULL	NULL	NULL	2086	789	0.00015979546180888463
+JSS measure outcome satisfaction facet	pay	1	1	3	3	NULL	NULL	NULL	584	208	0.0005707762557077625
+JST connector	ones used on small TP LiPolys	1	1	1	1	NULL	NULL	NULL	1	1	1

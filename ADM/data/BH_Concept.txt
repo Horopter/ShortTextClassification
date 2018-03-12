@@ -1,0 +1,224 @@
+BH alternative	single supermassive star	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+BH event	drive by's	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+bh operation parameter	WOB	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+BH service	Family Stabilization Teams	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+BH service	Inpatient Psychiatric Hospitalization	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+BH-3 only member	Puma	1	1	1	1	NULL	NULL	NULL	888	327	0.0011261261261261261
+BH-3 only proteins	Bim	1	1	2	2	0.500000000000	NULL	NULL	64	20	0.0078125
+BH-3 only proteins	Bid	1	1	2	2	0.500000000000	NULL	NULL	130	76	0.0038461538461538464
+bh-3-only member	Puma	1	1	2	2	0.333333333333	NULL	NULL	888	327	0.0005630630630630631
+bh-3-only member	Bid	1	1	2	2	0.333333333333	NULL	NULL	130	76	0.0038461538461538464
+BH3	B4H12	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BH3	B3H9	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BH3	B2H6	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+BH3 domain protein	Bid	1	1	1	1	NULL	NULL	NULL	130	76	0.007692307692307693
+BH3 mimetics	ATF4	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+BH3 mimetics	ATF3	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+BH3 only activator	Bim	1	1	1	1	1.000000000000	NULL	NULL	64	20	0.015625
+BH3 only death protein	Bid	1	1	1	1	NULL	NULL	NULL	130	76	0.007692307692307693
+bh3-containing proapoptotic molecule	Bid	1	1	2	2	0.500000000000	NULL	NULL	130	76	0.0038461538461538464
+bh3-containing proapoptotic molecule	Bim	1	1	2	2	0.500000000000	NULL	NULL	64	20	0.0078125
+bh3-only bcl-2 family protein	Bid	2	2	2	1	1.000000000000	NULL	NULL	130	76	0.015384615384615385
+BH3-only effectors	Noxa	1	1	1	1	0.500000000000	NULL	NULL	30	12	0.03333333333333333
+bh3-only molecule	Bid	1	1	2	2	0.500000000000	NULL	NULL	130	76	0.0038461538461538464
+bh3-only molecule	Bim	1	1	2	2	0.500000000000	NULL	NULL	64	20	0.0078125
+bh3-only pro-apoptotic molecule	Bim	1	1	3	3	0.666666666666	NULL	NULL	64	20	0.005208333333333333
+bh3-only pro-apoptotic molecule	Noxa	1	1	3	3	0.666666666666	NULL	NULL	30	12	0.01111111111111111
+bh3-only pro-apoptotic molecule	Puma	1	1	3	3	0.666666666666	NULL	NULL	888	327	0.00037537537537537537
+bh3-only proapoptotic bcl-2 family member	Bid	1	1	1	1	NULL	NULL	NULL	130	76	0.007692307692307693
+bh3-only proapoptotic molecule	Bim	1	1	3	3	0.666666666666	NULL	NULL	64	20	0.005208333333333333
+bh3-only proapoptotic molecule	Puma	1	1	3	3	0.666666666666	NULL	NULL	888	327	0.00037537537537537537
+bh3-only proapoptotic molecule	Noxa	1	1	3	3	0.666666666666	NULL	NULL	30	12	0.01111111111111111
+bh3-only protein	Bim	29	18	68	8	0.800000000000	NULL	NULL	64	20	0.19324448529411764
+bh3-only protein	Bid	14	8	68	8	0.800000000000	NULL	NULL	130	76	0.022171945701357467
+bh3-only protein	Noxa	10	9	68	8	0.800000000000	NULL	NULL	30	12	0.04901960784313726
+bh3-only protein	Puma	10	8	68	8	0.800000000000	NULL	NULL	888	327	0.0016560678325384208
+bh3-only protein	BimEL	2	2	68	8	0.800000000000	NULL	NULL	2	1	0.029411764705882353
+bh3-only protein	contrary other bh3-only  protein	1	1	68	8	0.800000000000	NULL	NULL	2	2	0.007352941176470588
+bh3-only protein	pro-apoptotic bh3-only protein	1	1	68	8	0.800000000000	NULL	NULL	2	2	0.007352941176470588
+bh3-only protein	proapoptotic bh3-only protein	1	1	68	8	0.800000000000	NULL	NULL	2	2	0.007352941176470588
+BH4 composition	Kuvan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BH4 composition	Large neutral Amino Acids LNAA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BH4 composition	Pheblock	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bh4-requiring enzyme	phenylalanine hydroxylase	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+BHA acid	salicylic acid	1	1	1	1	NULL	NULL	NULL	930	326	0.001075268817204301
+BHA component	in-line stabilizer	1	1	1	1	NULL	NULL	NULL	1	1	1
+BHA distinguished supporter	novelist Ian McEwan	1	1	1	1	NULL	NULL	NULL	1	1	1
+BHA geometric configuration input	BHA component position	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHA geometric configuration input	dimension	1	1	2	2	NULL	NULL	NULL	1006	421	0.0004970178926441351
+BHA operating parameter	tool fatigue	1	1	1	1	NULL	NULL	NULL	1	1	1
+BHA product	Neutrogena's Rapid Clear Lotion	1	1	1	1	NULL	NULL	NULL	1	1	1
+BHA project	Nardoo Hills reserve	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhabhainvokes psychoanalytic concept	paranoia	1	1	1	1	NULL	NULL	NULL	427	199	0.00234192037470726
+bhagat singh's friend	Sukhdev	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+bhagat singh's friend	Rajguru	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhagats	Bhagat Kabir ji a Muslim	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhagavathi temple	Kadappuram Sri Kurumba temple	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhagavathi temple	Theruvath Bhagavathi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Bhagwans	Rajneesh	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+bhai dooj gift	Bhaidooj Sweets Hamper	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+bhai dooj gift	gifts office	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+bhai dooj gift	perfume	1	1	4	4	NULL	NULL	NULL	2491	732	0.00010036130068245685
+bhai dooj gift	watch	1	1	4	4	NULL	NULL	NULL	3163	899	0.00007903888713246918
+bhajans	Jai Ganesha	1	1	3	3	0.250000000000	NULL	NULL	2	2	0.16666666666666666
+bhajans	Manasa Bhajarae	1	1	3	3	0.250000000000	NULL	NULL	1	1	0.3333333333333333
+bhajans	Shiva	1	1	3	3	0.250000000000	NULL	NULL	110	50	0.0030303030303030303
+bhajis1	tandalja	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhajjis	plantain bhajji	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhajjis	milagai bhajji	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhajjis	brinjal bhajji	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhajjis	vazhaikai	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhajjis	potato bhajji	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhaktas	Yudhisthira	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+bhaktas	Jayadeva	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+bhakti book	Madhura Milana	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+bhakti book	Sriharibhakitarangini	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+bhakti book	Shriharibhakitarangini	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+bhakti deity	Krishna	1	1	1	1	NULL	NULL	NULL	195	89	0.005128205128205128
+bhakti period saint	Kabir	9	9	50	10	1.000000000000	NULL	NULL	51	20	0.03176470588235294
+bhakti period saint	Eknath	8	8	50	10	1.000000000000	NULL	NULL	13	5	0.09846153846153846
+bhakti period saint	Dnyaneshwar	7	7	50	10	1.000000000000	NULL	NULL	9	3	0.1088888888888889
+bhakti period saint	Nanak	7	7	50	10	1.000000000000	NULL	NULL	21	8	0.04666666666666667
+bhakti period saint	Ramanuja	7	7	50	10	1.000000000000	NULL	NULL	22	13	0.04454545454545455
+bhakti period saint	Caitanya	5	5	50	10	1.000000000000	NULL	NULL	8	3	0.0625
+bhakti period saint	Ramananda	4	4	50	10	1.000000000000	NULL	NULL	5	2	0.064
+bhakti period saint	Tukaram	1	1	50	10	1.000000000000	NULL	NULL	10	5	0.002
+bhakti period saint	Ramanuj	1	1	50	10	1.000000000000	NULL	NULL	1	1	0.02
+bhakti period saint	Chaitanya	1	1	50	10	1.000000000000	NULL	NULL	7	6	0.002857142857142857
+bhakti poet	Chaitanya	1	1	4	4	0.800000000000	NULL	NULL	7	6	0.03571428571428571
+bhakti poet	prominent bhakti poet	1	1	4	4	0.800000000000	NULL	NULL	2	2	0.125
+bhakti poet	Kabir	1	1	4	4	0.800000000000	NULL	NULL	51	20	0.004901960784313725
+bhakti poet	Mirabai	1	1	4	4	0.800000000000	NULL	NULL	12	10	0.020833333333333332
+bhakti saint	Kabir	2	2	4	3	1.000000000000	NULL	NULL	51	20	0.0196078431372549
+bhakti saint	Dadu	1	1	4	3	1.000000000000	NULL	NULL	7	6	0.03571428571428571
+bhakti saint	Chaitanya Mahaprabhu	1	1	4	3	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+bhakti tradition	Sufism Basant Panchmi stats the Creator	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhaktivinoda's work	Harinama Chintamani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhaktivinoda's work	Jaiva Dharma	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+bhang fixation	critter in the femur longer than a day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhang fixation	imposter emile	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhangra group	Heera	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Bhangra super-groups	Heera	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+Bhangra super-groups	Alaap	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+bhangra-style percussion instrument	dhol	1	1	3	3	0.500000000000	NULL	NULL	34	16	0.00980392156862745
+bhangra-style percussion instrument	tumbi	1	1	3	3	0.500000000000	NULL	NULL	5	4	0.06666666666666667
+bhangra-style percussion instrument	tabla	1	1	3	3	0.500000000000	NULL	NULL	129	34	0.0025839793281653744
+bharadwaj's bollywood movie	Omkara	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+bharadwaj's bollywood movie	Maqbool	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+bharatanatyam dancer	Deepak Mazumdar	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+bharatanatyam dancer	Meenakshi Sreenivasan	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+bharatanatyam dancer	Arupa Lahiri	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+bharatanatyam dancer	Guru Sujatha Srinivasan	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+bharatanatyam dancer	Vaibhav Arekar	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+bharatanatyam dancer	Jayashree Rao	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+bharatanatyam guru	Adyar Lakshman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bharatanatyam guru	Sheela Unnikrishnan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bharatanatyam item	Pushpanjali	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+bharatanatyam item	Ganesh Vandana	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+bharatanatyam teacher	Unnikrishnan	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+bharatiya language	Gujarati	1	1	3	3	NULL	NULL	NULL	107	42	0.003115264797507788
+bharatiya language	Bengali	1	1	3	3	NULL	NULL	NULL	183	52	0.0018214936247723133
+bharatiya language	Marathi	1	1	3	3	NULL	NULL	NULL	94	35	0.0035460992907801418
+bharti airtel ltd ACMIIL broadcaster	Zee Telefilms	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+bharti ralliesdaily marketstop IT stock	Infosys	1	1	2	2	NULL	NULL	NULL	1278	423	0.0003912363067292645
+bharti ralliesdaily marketstop IT stock	TCS	1	1	2	2	NULL	NULL	NULL	680	254	0.0007352941176470588
+bharti's rival	Reliance Communications	2	2	2	1	0.500000000000	NULL	NULL	166	58	0.012048192771084338
+bhartydharmas-indian religion	Nivrittidharma	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhasmasur sacred text	Upanishads	1	1	1	1	NULL	NULL	NULL	134	55	0.007462686567164179
+Bhat's guru-brothers	K. G. Ginde	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+bhatia factor	intended audience	1	1	4	4	0.250000000000	NULL	NULL	20	14	0.0125
+bhatia factor	form	1	1	4	4	0.250000000000	NULL	NULL	2051	857	0.00012189176011701609
+bhatia factor	medium	1	1	4	4	0.250000000000	NULL	NULL	3226	1070	0.00007749535027898326
+bhatia factor	content	1	1	4	4	0.250000000000	NULL	NULL	857	338	0.00029171528588098014
+Bhats gurubrothers	K. G. Ginde	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+bhatt film	Raaz	1	1	1	1	NULL	NULL	NULL	8	4	0.125
+bhavas	unconscious dancing	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+bhavas	Soka	1	1	6	6	0.666666666666	NULL	NULL	6	6	0.027777777777777776
+bhavas	dasa bhava	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+bhavas	maatru bhava	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+bhavas	singing in ecstasy	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+bhavas	vatsalya bhava	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+bhavas position	position in Kendras	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhavas position	Konas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhc-specic characteristic	control for bank liquidity	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+bhc-specific characteristic	control for bank liquidity	3	3	3	1	NULL	NULL	NULL	4	2	0.75
+bhd. service	effluent analysis	3	2	9	4	0.333333333333	NULL	NULL	6	4	0.16666666666666666
+bhd. service	air	3	2	9	4	0.333333333333	NULL	NULL	4803	1359	0.00020820320632937748
+bhd. service	water quality analysis	2	1	9	4	0.333333333333	NULL	NULL	7	6	0.06349206349206349
+bhd. service	water quality	1	1	9	4	0.333333333333	NULL	NULL	1102	380	0.00010082677959265981
+bheastly password	Celticfc	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bheastly password	upthera	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bheastly password	thebhoys	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BHEL product	motors for gas centrifuge compressor	2	1	2	1	1.000000000000	NULL	NULL	2	1	1
+bhevaiors	giggling at certain word	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+bhi-sponsored event	Family Expos	1	1	1	2	NULL	NULL	NULL	1	1	1
+bhikkhus	Ven	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+bhil tribe	Tad vis of the Satpuras	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhimrajka impex group industry	automotive	1	1	1	1	NULL	NULL	NULL	2606	577	0.0003837298541826554
+BHIVA activity	writing guideline	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+BHK cluster	eleganta	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+BHK cluster	regalia	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+BHL writer	Jacob Levy	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+bhlh factor	E47	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+bhlh protein	class ii bhlh protein	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+bhlh protein	class i bhlh protein	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+bhlh protein	LYL-1 in lymphopoietic cell	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+bhlh protein	myogenin	1	1	7	7	1.000000000000	NULL	NULL	24	19	0.005952380952380952
+bhlh protein	myogenic bhlh protein	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+bhlh protein	members of the MyoD family in muscle cell	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+bhlh protein	MASH-1 in neuronal cell	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+bhlh transcription factor	MyoD	3	3	10	6	0.800000000000	NULL	NULL	57	31	0.015789473684210523
+bhlh transcription factor	E47	2	2	10	6	0.800000000000	NULL	NULL	13	11	0.03076923076923077
+bhlh transcription factor	E12	2	2	10	6	0.800000000000	NULL	NULL	8	6	0.05
+bhlh transcription factor	neural bhlh transcription factor	1	1	10	6	0.800000000000	NULL	NULL	3	3	0.03333333333333333
+bhlh transcription factor	NeuroD	1	1	10	6	0.800000000000	NULL	NULL	8	8	0.0125
+bhlh transcription factor	Myc	1	1	10	6	0.800000000000	NULL	NULL	116	37	0.0008620689655172415
+bHLHproteins	LYL-1 inlymphopoietic cell	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bHLHproteins	members of the MyoD family in muscle cell	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+bHLHproteins	MASH-1 in neuronal cell	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+bHLHs	NeuroD	1	1	1	1	0.500000000000	NULL	NULL	8	8	0.125
+BHN steering committee social event	annual Holiday Party	1	1	1	1	1.000000000000	NULL	NULL	20	11	0.05
+bho-specific initiative	Restraint Reduction Initiative	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhojpuri magazine	Bhojpuri Academy patrika	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhojpuri magazine	Bhojpuri Sammelan Patrika	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhojpuri star	Ravi Kishan	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+bhootha character	Nikumbhan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+bhootha character	Brungoradiyan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+bhootha character	Brungan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+bhootha character	Kumbhodaran	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+bhos	perfectly fine bhos	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHOs	MyWay Search Bar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHP contractor	Downer EDI	1	1	2	2	1.000000000000	NULL	NULL	14	11	0.03571428571428571
+BHP contractor	NRW Holdings	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+BHP-like program	Commonwealth Care	1	1	1	1	NULL	NULL	NULL	7	3	0.14285714285714285
+BHR test	Aridol	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHR test	methacholine challenge test	1	1	2	2	NULL	NULL	NULL	10	5	0.05
+BHR-001WO functioning organelle	chloroplast	1	1	1	1	NULL	NULL	NULL	176	47	0.005681818181818182
+Bhramanti's Himalaya venture information	Kalindi summit	1	1	1	1	NULL	NULL	NULL	1	1	1
+BHRR animal	BHRR's Benjamin	1	1	1	1	NULL	NULL	NULL	1	1	1
+BHS acute care facility	St. Joseph's Medical Center	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHS acute care facility	St. Mary's Regional Health Center	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHS student	Oliver Moore	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+BHT scanner	equipped with the conventional BHT-BASIC3.x-supported system	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BHT scanner	BHT-8000 Series	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+bhuinyas worship deity	Gai Sivi	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhutan kingdom's socially progressive effort	banning tobacco sale	1	1	1	1	NULL	NULL	NULL	1	1	1
+bhutanese art form	thangka painting	2	2	3	2	0.500000000000	NULL	NULL	8	7	0.16666666666666666
+bhutanese art form	woodcarving	1	1	3	2	0.500000000000	NULL	NULL	115	66	0.002898550724637681
+bhutanese design	dragon	2	2	2	1	0.500000000000	NULL	NULL	934	475	0.0021413276231263384
+bhutanese favorite	Sheryl Crow	1	1	1	1	NULL	NULL	NULL	286	89	0.0034965034965034965
+bhutanese government's anti-humanity activity	deception	1	1	1	1	NULL	NULL	NULL	175	98	0.005714285714285714
+bhutanese movie	Tshering Meto	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese movie	Euchung Lhamo	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese movie	No Excuse	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese movie	49th Day	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese movie	Six Boys	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese teacher	Terton Drukdra Dorji	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bhutanese teacher	Jey Shakya Rinchen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bhutanese teacher	Jey Yonten Thaye	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bhutanese writer	parliament member Sonam Kinga	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese writer	Dasho Kinley Dorji	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese writer	Dasho Karma Ura	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese writer	Kunzang Choden	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutanese writer	opposition leader Tshering Tobgay	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+bhutto's reform	lateral entry of civilian bureaucrat	1	1	1	1	NULL	NULL	NULL	1	1	1

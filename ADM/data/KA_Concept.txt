@@ -1,0 +1,1889 @@
+KA channel partner	RT Mart	1	1	3	3	0.333333333333	NULL	NULL	6	6	0.05555555555555555
+KA channel partner	Tesco	1	1	3	3	0.333333333333	NULL	NULL	2170	627	0.00015360983102918587
+KA channel partner	Wal-Mart	1	1	3	3	0.333333333333	NULL	NULL	6827	1533	0.00004882574093061862
+KA drink	cola	1	1	2	2	0.500000000000	NULL	NULL	798	238	0.0006265664160401002
+KA drink	grape soda	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+KA specialty flour	Rye	1	1	2	2	NULL	NULL	NULL	1762	458	0.00028376844494892167
+KA specialty flour	White Whole Wheat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KA store	Carrefour	1	1	1	1	NULL	NULL	NULL	808	317	0.0012376237623762376
+KA technique	manual KA	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+KA technique	machine learning	1	1	2	2	0.500000000000	NULL	NULL	236	109	0.00211864406779661
+Ka'b ibn Abi Ahaba'' source	gossip	1	1	1	1	NULL	NULL	NULL	177	101	0.005649717514124294
+ka-band capable mission	Cassini	2	2	6	3	1.000000000000	NULL	NULL	49	31	0.013605442176870748
+ka-band capable mission	Mars Observer	2	2	6	3	1.000000000000	NULL	NULL	5	3	0.13333333333333333
+ka-band capable mission	Mars Global Surveyor	2	2	6	3	1.000000000000	NULL	NULL	19	10	0.03508771929824561
+ka-band-capable mission	Mars Global Surveyor	1	1	3	3	1.000000000000	NULL	NULL	19	10	0.017543859649122806
+ka-band-capable mission	Mars Observer	1	1	3	3	1.000000000000	NULL	NULL	5	3	0.06666666666666667
+ka-band-capable mission	Cassini	1	1	3	3	1.000000000000	NULL	NULL	49	31	0.006802721088435374
+kaanapali attraction	Maui County Parks	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+kaanapali beach many large resort	Hyatt	1	1	1	1	NULL	NULL	NULL	475	213	0.002105263157894737
+kaans item	plate	1	1	1	1	NULL	NULL	NULL	2349	1069	0.0004257130693912303
+kab's mod	outboard tonearm cable mod	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaba access system	Kaba evolo	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaba corp business operation	pushbutton lock	1	1	4	4	0.666666666666	NULL	NULL	4	4	0.0625
+kaba corp business operation	multihousing	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+kaba corp business operation	key blank	1	1	4	4	0.666666666666	NULL	NULL	12	11	0.020833333333333332
+kaba corp business operation	automotive	1	1	4	4	0.666666666666	NULL	NULL	2606	577	0.00009593246354566385
+kabab roll	chicken bihari	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kabab roll	beef seekh kabab	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kabalah scholar	Schneur Zalman of Liadi	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+kabalah scholar	Moses ben Jacob Cordovero	1	1	2	2	NULL	NULL	NULL	6	3	0.08333333333333333
+kabbala scholar	Gershom Scholem	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+kabbalah devotee	Madonna	1	1	1	1	NULL	NULL	NULL	1965	488	0.0005089058524173028
+kabbalah item	Jewelry	1	1	2	2	NULL	NULL	NULL	7848	1759	0.00006371049949031601
+kabbalah item	amulet	1	1	2	2	NULL	NULL	NULL	121	69	0.004132231404958678
+kabbalah member	Britney Spears	2	1	7	5	NULL	NULL	NULL	1132	311	0.0005047955577990914
+kabbalah member	Lindsay Lohan	2	1	7	5	NULL	NULL	NULL	557	156	0.0010259040779687098
+kabbalah member	Chris Brown	1	1	7	5	NULL	NULL	NULL	276	93	0.0005175983436853001
+kabbalah member	Rihanna	1	1	7	5	NULL	NULL	NULL	1090	236	0.0001310615989515072
+kabbalah member	Madonna	1	1	7	5	NULL	NULL	NULL	1965	488	0.00007270083605961468
+kabbalah scholar	Professors Moshe Idel	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+kabbalah scholar	Daniel Abrams	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+kabbalah scholar	Ronit Meroz	1	1	4	3	NULL	NULL	NULL	2	2	0.125
+kabbalah symbol	Soul Mate	1	1	8	8	0.333333333333	NULL	NULL	11	8	0.011363636363636364
+kabbalah symbol	Unconditional Love	1	1	8	8	0.333333333333	NULL	NULL	59	41	0.00211864406779661
+kabbalah symbol	Power of Prosperity	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+kabbalah symbol	Absolute Certainty	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+kabbalah symbol	David Star	1	1	8	8	0.333333333333	NULL	NULL	3	3	0.041666666666666664
+kabbalah symbol	Protect from the Evil Eye	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+kabbalah symbol	Miracle Making	1	1	8	8	0.333333333333	NULL	NULL	1	1	0.125
+kabbalah symbol	sacred writing	1	1	8	8	0.333333333333	NULL	NULL	3	3	0.041666666666666664
+Kabbalah-loving celebs	Demi Moore	1	1	2	2	NULL	NULL	NULL	343	91	0.0014577259475218659
+Kabbalah-loving celebs	Moore	1	1	2	2	NULL	NULL	NULL	180	83	0.002777777777777778
+kabbalahs	dogmatic	1	1	1	1	1.000000000000	NULL	NULL	10	6	0.1
+kabbalistic concept	pardes	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+kabbalistic concept	gematria	1	1	2	2	1.000000000000	NULL	NULL	13	11	0.038461538461538464
+kabbalistic day-month numerical date code	9-11 for the New York museum	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kabbalistic Jews	Lubavitch Hasidism	5	5	10	3	NULL	NULL	NULL	5	1	0.5
+Kabbalistic Jews	Moses Cordovero	4	4	10	3	NULL	NULL	NULL	4	1	0.4
+Kabbalistic Jews	Moses ben Jacob Cordovero	1	1	10	3	NULL	NULL	NULL	6	3	0.016666666666666666
+kabbalistic master	Baba Sali	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+kabbalistic movement	Kabbalah Centre	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kabbalistic practice	creation of the golem	1	1	1	1	NULL	NULL	NULL	1	1	1
+kabbalistic scholar	Moses ben Jacob Cordovero	4	4	6	2	1.000000000000	NULL	NULL	6	3	0.4444444444444444
+kabbalistic scholar	Schneur Zalman of Liadi	2	2	6	2	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+kabbalistic text	Zohar	2	2	3	2	1.000000000000	NULL	NULL	48	27	0.027777777777777776
+kabbalistic text	Sefer Yetzirah	1	1	3	2	1.000000000000	NULL	NULL	15	9	0.02222222222222222
+kabbalistic tool	72	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+kabbalistic topic	Ein Sof	1	1	1	1	NULL	NULL	NULL	1	1	1
+kabbalistic work	Book of Brilliance	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+kabbalistic work	Treatise of the Left Emanation	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kabbalistic work	Zohar	1	1	3	3	1.000000000000	NULL	NULL	48	27	0.006944444444444444
+kabbalistic writer	Isaac of Acre	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kabbalistic writer	Shem Tov b. Gaon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kabbalists	Isaac Abravanel	3	3	25	17	0.500000000000	NULL	NULL	3	1	0.12
+Kabbalists	James Trimm	2	2	25	17	0.500000000000	NULL	NULL	2	1	0.08
+Kabbalists	Rabbi Shlomo Alkabetz	2	2	25	17	0.500000000000	NULL	NULL	2	1	0.08
+Kabbalists	Cordovero	2	1	25	17	0.500000000000	NULL	NULL	2	1	0.08
+Kabbalists	Rabbi Yitzhak Luria	2	2	25	17	0.500000000000	NULL	NULL	2	1	0.08
+Kabbalists	Rabbi Yohanan Alemanno	2	2	25	17	0.500000000000	NULL	NULL	2	1	0.08
+Kabbalists	Vilna Gaon	2	2	25	17	0.500000000000	NULL	NULL	7	6	0.022857142857142857
+Kabbalists	Issac of Acco	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	Israel Sarug	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	Rabbi Moshe Hayyim Luzzatto in the beginning of the eighteenth century	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	doyen of Italian kabbalists	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	Shabbetai Zvi	1	1	25	17	0.500000000000	NULL	NULL	2	2	0.02
+Kabbalists	kabbalists of Gerona	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	disciples of Isaac the Blind	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	Abraham Abulafia	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	Yehudah Lev Ashlag	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+Kabbalists	R. Moses Zacuto	1	1	25	17	0.500000000000	NULL	NULL	1	1	0.04
+KABC committee	Membership	1	1	3	3	0.333333333333	NULL	NULL	466	200	0.000715307582260372
+KABC committee	Fundraising	1	1	3	3	0.333333333333	NULL	NULL	494	208	0.0006747638326585695
+KABC committee	Special Events	1	1	3	3	0.333333333333	NULL	NULL	15	13	0.02222222222222222
+KABC personality	Gloria Allred	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+kabob place	Ravi Kabob	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kabob place	Meat in the Box	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kabuki actor	popular edo-style kabuki actor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kabuli variety	CDC Xena	3	2	7	3	1.000000000000	NULL	NULL	4	2	0.3214285714285714
+kabuli variety	Sanford	2	2	7	3	1.000000000000	NULL	NULL	51	31	0.011204481792717087
+kabuli variety	CDC Diva	2	2	7	3	1.000000000000	NULL	NULL	2	1	0.2857142857142857
+kabyle opposition party	Rally for Culture	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kabylians	Cheikh Nourredine	2	2	2	1	NULL	NULL	NULL	2	1	1
+KAC archival object	lapel pin	1	1	3	3	0.333333333333	NULL	NULL	87	51	0.0038314176245210726
+KAC archival object	banner	1	1	3	3	0.333333333333	NULL	NULL	1989	924	0.0001675884028825205
+KAC archival object	plaque	1	1	3	3	0.333333333333	NULL	NULL	499	260	0.000668002672010688
+kac's complex telepresence network	Rara Avis	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+kaccountsfor factor	insurance	1	1	1	1	NULL	NULL	NULL	8820	2250	0.00011337868480725624
+kace's advanced appliance	K1000	2	2	2	1	NULL	NULL	NULL	8	5	0.25
+kachari group	Bodo	1	1	3	3	1.000000000000	NULL	NULL	3	4	0.1111111111111111
+kachari group	Jharua	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kachari group	Thengal	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kachcha color	yellow	1	1	3	3	0.333333333333	NULL	NULL	5611	1380	0.00005940711697261331
+kachcha color	parrot green	1	1	3	3	0.333333333333	NULL	NULL	6	6	0.05555555555555555
+kachcha color	red	1	1	3	3	0.333333333333	NULL	NULL	9245	2185	0.000036055525509284295
+kachin national	jing phaw	1	1	1	1	NULL	NULL	NULL	1	1	1
+kachin new website	Kachin Land News	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kachin new website	Kachin News Group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kachina carver	Duane Lacapa	2	2	2	1	NULL	NULL	NULL	2	1	1
+kachina doll	badger	1	1	3	3	NULL	NULL	NULL	572	154	0.0005827505827505828
+kachina doll	Owl	1	1	3	3	NULL	NULL	NULL	1154	336	0.00028885037550548814
+kachina doll	Wolf	1	1	3	3	NULL	NULL	NULL	2340	606	0.00014245014245014244
+Kachinko Power-ups	eliminator s	1	1	1	1	NULL	NULL	NULL	1	1	1
+kacyeshopis selling beer collectible	Baron Catapult Lighter	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaczynski s personal item	handwritten letter	1	1	4	4	0.250000000000	NULL	NULL	24	15	0.010416666666666666
+kaczynski s personal item	clothing	1	1	4	4	0.250000000000	NULL	NULL	9665	2540	0.00002586652871184687
+kaczynski s personal item	typewriter	1	1	4	4	0.250000000000	NULL	NULL	431	182	0.000580046403712297
+kaczynski s personal item	tool	1	1	4	4	0.250000000000	NULL	NULL	3208	1144	0.00007793017456359102
+kaenan hertz tool	segmentation	1	1	1	1	NULL	NULL	NULL	387	219	0.002583979328165375
+KAESER eurocomp compressor component	electric motor	2	2	4	2	NULL	NULL	NULL	777	375	0.001287001287001287
+KAESER eurocomp compressor component	compressor block	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kaeser maintenance supply	Kaeser Couplings	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaeser maintenance supply	Kaeser Semi Synthetic Oils	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaeser maintenance supply	Kaeser Belts	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaeser maintenance supply	Kaeser Separators	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaeser maintenance supply	Kaeser Synthetic Oils	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaeser maintenance supply	Kaeser Filters	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaeser maintenance supply	Kaeser replacement airends	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kafer ship	transport	1	1	1	1	NULL	NULL	NULL	4212	1268	0.00023741690408357076
+kafies	khaja Ghulam Fareed	1	1	1	1	NULL	NULL	NULL	1	1	1
+kafir medium outlet	Fox News	1	1	1	1	NULL	NULL	NULL	524	236	0.0019083969465648854
+kafir nation	Atheists	1	1	3	3	0.500000000000	NULL	NULL	7	11	0.047619047619047616
+kafir nation	Christians	1	1	3	3	0.500000000000	NULL	NULL	250	90	0.0013333333333333333
+kafir nation	Jews	1	1	3	3	0.500000000000	NULL	NULL	717	203	0.00046490004649000463
+kafka's short story	Metamorphosis	1	1	2	2	NULL	NULL	NULL	67	48	0.007462686567164179
+kafka's short story	novel	1	1	2	2	NULL	NULL	NULL	868	347	0.000576036866359447
+kafka-esque theme	transformation	1	1	2	2	0.500000000000	NULL	NULL	365	216	0.0013698630136986301
+kafka-esque theme	absurdity	1	1	2	2	0.500000000000	NULL	NULL	14	12	0.03571428571428571
+kafkaesque, transgressive novel	Skin	2	2	2	1	0.666666666666	NULL	NULL	2481	924	0.0008061265618702137
+kafkas short work	Metamorphosis	1	1	1	1	NULL	NULL	NULL	67	48	0.014925373134328358
+kaftan	designer kaftan	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kaftan	printed kaftan	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kaftan	ladies kaftan	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kaftan	fancy kaftan	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kaftan	fashionable Kaftans	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+KAG logo item	pen	1	1	4	4	NULL	NULL	NULL	5345	1399	0.00004677268475210477
+KAG logo item	hat	1	1	4	4	NULL	NULL	NULL	4593	1302	0.000054430655345090354
+KAG logo item	mug	1	1	4	4	NULL	NULL	NULL	1629	640	0.0001534683855125844
+KAG logo item	clothing	1	1	4	4	NULL	NULL	NULL	9665	2540	0.00002586652871184687
+Kages	Orochimaru	1	1	1	1	1.000000000000	NULL	NULL	10	6	0.1
+kaghan valley's highest peak	Makra	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kaghan valley's highest peak	Malika Parbat	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kaghan valley's highest peak	Musa Ka Musalla	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+Kagome's father's clothes	collar shirt	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kagoshima speciality	crafts made from Yaku cedar	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kagoshima speciality	Kurozu Vinegar	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kagoshima speciality	Shochu	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+kagyu lama	Talep Rinpoche	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kagyu lama	9th Sangye Nyenpa Rinpoche	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kagyu lama	great kagyu lama	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+kagyu lama	Situ Rinpoche	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+kagyu master	Drikung Jigten Sumgon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kagyu master	Beru Chentze Rinpoche	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kagyu master	Jamgon Kongtrul Rinpoche	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kagyu master	Shamar Rinpoche	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kagyu text	Hundred Thousand Songs of Milarepa	1	1	1	1	NULL	NULL	NULL	1	1	1
+kahala hand	Kay Ahearn	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kahala hand	Alicia Antonio	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kahala hand	Charlie Goodness	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kahala logo item	bag	1	1	2	2	NULL	NULL	NULL	3272	1148	0.0001528117359413203
+kahala logo item	T shirt	1	1	2	2	NULL	NULL	NULL	151	90	0.0033112582781456954
+Kahanamoku family	Cameron Kahanamoku	1	1	1	1	NULL	NULL	NULL	1	1	1
+kahanist material	Newsletters around South Florida	1	1	1	2	NULL	NULL	NULL	1	1	1
+kahaniya	shabana azami's	1	1	1	1	NULL	NULL	NULL	1	1	1
+kahle value	sense of belonging	1	1	2	2	NULL	NULL	NULL	65	42	0.007692307692307693
+kahle value	security	1	1	2	2	NULL	NULL	NULL	8153	2525	0.00006132711885195633
+kahn process network	Unix pipe	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+kahn's finest building	Salk Institute in La Jolla	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kahn's finest building	Kimbell Art Museum in Fort Worth	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kahn's finest building	California	2	2	6	3	NULL	NULL	NULL	14491	1396	0.0000460055666735675
+kahn's signature spread	Sensational Sun Dried Tomato Spread	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kahn's signature spread	Olive Madness	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kahn's signature spread	Hazelnut Pesto	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kahungunu claim	Mohaka	1	1	1	1	NULL	NULL	NULL	1	1	1
+kai	emphatic	1	1	1	1	NULL	NULL	NULL	1	1	1
+kai ikaika organized event	race	1	1	1	1	NULL	NULL	NULL	8280	1787	0.00012077294685990338
+Kai moana	toheroa patty	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kai moana	tuatua	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+Kai moana	paua patty	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kai product	Kai Body Butter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kai product	Kai Eau de Parfum	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kai product	Kai Gift Bag	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kai room spray	linen spray	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+kaiapo leader	Paulinho Paiakan	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaidan's object rig	Magellan M-2000	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kaide Philippines physical degradation	corrosion	1	1	1	1	NULL	NULL	NULL	547	229	0.0018281535648994515
+Kaiju Heroes	Dusto Bunny	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+Kaiju Heroes	Robox	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+Kaiju Heroes	Tadd Bradley	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kailo word	health	1	1	1	1	NULL	NULL	NULL	12226	3162	0.00008179290037624735
+kailua-kona attraction	Hulihee Palace	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kailua-kona attraction	Ahu'ena Heiau	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KAIMAI VALLEY service business unit	Kaimai Consultants	1	1	1	1	NULL	NULL	NULL	1	1	1
+KAIN characteristic	education	1	1	2	2	0.500000000000	NULL	NULL	21642	5033	0.00002310322521023935
+KAIN characteristic	teacher experience	1	1	2	2	0.500000000000	NULL	NULL	29	17	0.017241379310344827
+kairi's trait	green hair	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kairomone A chemical substance	pheromone	1	1	1	1	NULL	NULL	NULL	95	60	0.010526315789473684
+kairos project	youth club at Elson	1	1	1	1	NULL	NULL	NULL	1	1	1
+kairosoft game	Mega Mall	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kairosoft game	Game Dev	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kairosoft game	Soccer	1	1	3	3	NULL	NULL	NULL	7482	1247	0.000044551367726989213
+kairosoft's popular management game	Game Dev Story	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+kaisa ka's activity	mass action	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+kaisa ka's activity	workshop	1	1	5	5	NULL	NULL	NULL	3369	1324	0.00005936479667557139
+kaisa ka's activity	alliance work	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kaisa ka's activity	forum	1	1	5	5	NULL	NULL	NULL	2019	808	0.00009905894006934126
+kaisa ka's activity	conference	1	1	5	5	NULL	NULL	NULL	2864	1022	0.00006983240223463688
+kaiseki restaurant	Ryugin in Tokyo	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaiser best practice	Healthy Heart program	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaiser computer system	Health Connect	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kaiser permanente medical center specialist	dermatologist	1	1	2	2	NULL	NULL	NULL	220	64	0.0022727272727272726
+kaiser permanente medical center specialist	gynecologist	1	1	2	2	NULL	NULL	NULL	84	38	0.005952380952380952
+kaiser permanente region	California	1	1	1	1	NULL	NULL	NULL	14491	1396	0.00006900835001035126
+kaiser permanente site	Laboratory	1	1	3	3	NULL	NULL	NULL	1401	551	0.00023792529145848202
+kaiser permanente site	Pharmacy	1	1	3	3	NULL	NULL	NULL	1762	606	0.0001891789632992811
+kaiser permanente site	Operating Room	1	1	3	3	NULL	NULL	NULL	243	107	0.0013717421124828531
+kaiser permanente's community partner	Prince George's County Health Department	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaiser permanente's community partner	Fairfax County Office of Partnerships	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaivconcort's opera performance	Orff's Der Mond	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kaivconcort's opera performance	Bizet's Carmen	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+kaizen &copy process	Strategic Planning	1	1	4	4	0.333333333333	NULL	NULL	805	351	0.00031055900621118014
+kaizen &copy process	Total Quality Control	1	1	4	4	0.333333333333	NULL	NULL	29	19	0.008620689655172414
+kaizen &copy process	Total Quality Management	1	1	4	4	0.333333333333	NULL	NULL	541	264	0.0004621072088724584
+kaizen &copy process	Hoshin	1	1	4	4	0.333333333333	NULL	NULL	4	4	0.0625
+kaizen improvement method	Minor Stops	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kaizen improvement method	5S	1	1	4	4	NULL	NULL	NULL	276	128	0.0009057971014492754
+kaizen improvement method	TPM	1	1	4	4	NULL	NULL	NULL	98	70	0.002551020408163265
+kaizen improvement method	Autonomous Maintenance	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+kaizen tool	5S	1	1	8	8	0.714285714285	NULL	NULL	276	128	0.0004528985507246377
+kaizen tool	standard work	1	1	8	8	0.714285714285	NULL	NULL	39	16	0.003205128205128205
+kaizen tool	takt time	1	1	8	8	0.714285714285	NULL	NULL	26	14	0.004807692307692308
+kaizen tool	autonomous team	1	1	8	8	0.714285714285	NULL	NULL	1	1	0.125
+kaizen tool	Poka Yoke	1	1	8	8	0.714285714285	NULL	NULL	13	10	0.009615384615384616
+kaizen tool	TPM	1	1	8	8	0.714285714285	NULL	NULL	98	70	0.0012755102040816326
+kaizen tool	SMED	1	1	8	8	0.714285714285	NULL	NULL	44	23	0.002840909090909091
+kaizen tool	workflow diagram	1	1	8	8	0.714285714285	NULL	NULL	8	8	0.015625
+kaizo level design	overuse of clapper	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaizo level design	invisible coin block douchebaggery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kajaani attraction	cycling	1	1	5	5	NULL	NULL	NULL	5412	1129	0.00003695491500369549
+kajaani attraction	golfing	1	1	5	5	NULL	NULL	NULL	1142	290	0.00017513134851138354
+kajaani attraction	walking	1	1	5	5	NULL	NULL	NULL	13109	2473	0.00001525669387443741
+kajaani attraction	canoeing	1	1	5	5	NULL	NULL	NULL	2791	584	0.00007165890361877464
+kajaani attraction	skiing	1	1	5	5	NULL	NULL	NULL	3886	798	0.0000514668039114771
+kajima's various environment-related engineering technology	solar energy panel	1	1	1	1	1.000000000000	NULL	NULL	17	11	0.058823529411764705
+kajo keji crop	maize	1	1	1	1	NULL	NULL	NULL	3361	842	0.0002975304968759298
+kajor interaction	van der Waals attraction	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kajor interaction	electrostatic attraction	1	1	2	2	1.000000000000	NULL	NULL	17	9	0.029411764705882353
+Kaka autographed memorabilia	hand signed collage	1	1	3	3	0.666666666666	NULL	NULL	9	9	0.037037037037037035
+Kaka autographed memorabilia	inscribed ball	1	1	3	3	0.666666666666	NULL	NULL	33	33	0.0101010101010101
+Kaka autographed memorabilia	trading card	1	1	3	3	0.666666666666	NULL	NULL	211	103	0.001579778830963665
+kakadu tour	camping tour	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kakadu's impressive sandstone escarpment	Nourlangie Rock	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kakanins	famous native kakanins	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kakeras	Higurashi	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+kal's incarnation	Krishna	1	1	1	1	NULL	NULL	NULL	195	89	0.005128205128205128
+kal-lah tradition	shuk	1	0	1	1	NULL	NULL	NULL	1	1	1
+KAL1 mutation	missense	1	1	1	1	0.500000000000	NULL	NULL	13	10	0.07692307692307693
+kala-azar , disease	malaria	1	1	1	1	NULL	NULL	NULL	4105	774	0.000243605359317905
+kalabari village	new Calabar	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kalahari antelope	eland	1	1	1	1	NULL	NULL	NULL	208	60	0.004807692307692308
+kalahari group sediment	silver	1	1	1	1	NULL	NULL	NULL	7631	1889	0.00013104442405975625
+Kalahari species	springbok	1	1	2	2	NULL	NULL	NULL	137	45	0.0036496350364963502
+Kalahari species	gemsbok	1	1	2	2	NULL	NULL	NULL	72	25	0.006944444444444444
+kalakbay benefit	emergency message	1	1	6	6	NULL	NULL	NULL	7	3	0.023809523809523808
+kalakbay benefit	hotel accommodation	1	1	6	6	NULL	NULL	NULL	152	71	0.0010964912280701754
+kalakbay benefit	minor on-site repair	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kalakbay benefit	referral	1	1	6	6	NULL	NULL	NULL	247	142	0.0006747638326585695
+kalakbay benefit	emergency towing	1	1	6	6	NULL	NULL	NULL	13	5	0.01282051282051282
+kalakbay benefit	alternative travel	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+kalakshetra style teacher	Urmila Sathyanarayanan	1	1	1	1	NULL	NULL	NULL	1	1	1
+kalam writer	al-juwayni	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+kalam writer	Abd al-jabbar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalamazoo area project	Bronson Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kalamazoo area project	Habitat	1	1	5	5	NULL	NULL	NULL	571	251	0.0003502626970227671
+kalamazoo area project	Kalamazoo Neighborhood Housing	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kalamazoo area project	Flower Fest	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+kalamazoo area project	Portage Parks	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kalamazoo group	Violent Apathy	1	1	1	1	NULL	NULL	NULL	1	1	1
+kalamazoo landmark	train station	1	1	3	3	NULL	NULL	NULL	381	201	0.0008748906386701661
+kalamazoo landmark	Bell's Eccentric Cafe	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kalamazoo landmark	former Gibson Guitar factory	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kalanchoes	Kalanchoe pinnata	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+kalani's amenity	Olympic size swimming pool	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+kalash chief rojawai	Nagar Shah	1	1	1	1	NULL	NULL	NULL	1	1	1
+kalashnikov weapon	AKM	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+kalashnikov-style firearm	Draco pistol	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalashnikov-style firearm	Romanian PSL DMR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalayaan activity	campaign against the new Home Office Proposals for Migrant Domestic Workers	1	1	1	1	NULL	NULL	NULL	1	1	1
+kale	Cavolo Nero	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+kale family	Cabbage	1	1	1	1	NULL	NULL	NULL	6090	1120	0.00016420361247947455
+kale-loving country	Italy	1	1	2	2	NULL	NULL	NULL	10580	1406	0.00004725897920604915
+kale-loving country	Portugal	1	1	2	2	NULL	NULL	NULL	3395	556	0.00014727540500736376
+kaleckian author	Lavoie	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kaleidescape product	Kaleidescape server	1	1	1	1	NULL	NULL	NULL	1	1	1
+kalenjin runner	Helen Kimaiyo	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kalenjin runner	Wilson Kipketer	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+kalenjin runner	Tegla Loroupe	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+Kalenjin sub-tribes	Nandi	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+kalevalan theme	Sampo	3	3	3	1	1.000000000000	NULL	NULL	14	12	0.21428571428571427
+kali statue	goddess Kali Statues	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kali statue	maa Kali Statues	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kali statue	religious Kali Statues	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kali statue	decorative Kali Statues	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kali statue	kali mata statue	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kali video	Hunted	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+kali video	Jason Bourne	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+kali weapon	Moro Kris	1	1	1	1	NULL	NULL	NULL	1	1	1
+kali's different energy	fire of suffering	1	1	1	1	NULL	NULL	NULL	1	1	1
+kali's main soldier	irreligion	1	1	4	4	0.250000000000	NULL	NULL	2	2	0.125
+kali's main soldier	anger	1	1	4	4	0.250000000000	NULL	NULL	7439	1466	0.00003360666756284447
+kali's main soldier	greed	1	1	4	4	0.250000000000	NULL	NULL	1082	419	0.0002310536044362292
+kali's main soldier	lust	1	1	4	4	0.250000000000	NULL	NULL	464	194	0.0005387931034482759
+kalibandulu dealing	new -remix	1	1	1	1	NULL	NULL	NULL	1	1	1
+KALIDO feature	surrogate key management	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KALIDO feature	built-in data validation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KALIDO feature	time variance	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kalimba magic collection	Easter Hymns	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalimba magic collection	African American Spirituals	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+Kalin Olsen Additional PCs	office computer	1	1	1	1	1.000000000000	NULL	NULL	19	15	0.05263157894736842
+kaliningrad attraction	maks	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kaliningrad attraction	Botanical garden	1	1	2	2	NULL	NULL	NULL	195	102	0.002564102564102564
+kaliningrad-specific matter	socioeconomic development	1	1	1	1	1.000000000000	NULL	NULL	13	6	0.07692307692307693
+kalisz attraction	BWA Art Gallery	1	1	1	1	NULL	NULL	NULL	1	1	1
+kalkempfindliche plant	rhododendron	1	1	1	1	NULL	NULL	NULL	993	274	0.0010070493454179255
+kalki krishnamurthy's immortal classic	Ponniyin Selvan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalki krishnamurthy's immortal classic	Parthiban Kanavu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kall8 feature	Payphone Blocking	1	1	1	1	NULL	NULL	NULL	1	1	1
+kall8 service	VoIP Termination	1	1	1	1	1.000000000000	NULL	NULL	15	6	0.06666666666666667
+kallang roar favorite	Jang Jung	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kallang roar favorite	Malek Awab	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+kallang roar favorite	Fandi Ahmad	1	1	5	5	NULL	NULL	NULL	6	4	0.03333333333333333
+kallang roar favorite	Abbas Saad	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+kallang roar favorite	Nazri Nasir	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kallikrein inhibitor	peptide P8720	1	1	1	1	NULL	NULL	NULL	1	1	1
+kallikreins	KLK14	4	4	23	11	NULL	NULL	NULL	4	1	0.17391304347826086
+kallikreins	KLK13	4	4	23	11	NULL	NULL	NULL	4	1	0.17391304347826086
+kallikreins	KLK9	3	3	23	11	NULL	NULL	NULL	3	1	0.13043478260869565
+kallikreins	KLK10	2	2	23	11	NULL	NULL	NULL	2	1	0.08695652173913043
+kallikreins	KLK7	2	2	23	11	NULL	NULL	NULL	3	2	0.057971014492753624
+kallikreins	KLK6	2	2	23	11	NULL	NULL	NULL	4	3	0.043478260869565216
+kallikreins	KLK11	2	2	23	11	NULL	NULL	NULL	2	1	0.08695652173913043
+kallikreins	KLK3	1	1	23	11	NULL	NULL	NULL	4	4	0.010869565217391304
+kallikreins	KLK4	1	1	23	11	NULL	NULL	NULL	1	1	0.043478260869565216
+kallikreins	KLK6 in ovarian	1	1	23	11	NULL	NULL	NULL	1	1	0.043478260869565216
+kallikreins	KLK8	1	1	23	11	NULL	NULL	NULL	1	1	0.043478260869565216
+kalman filter	0-order Kalman filter	2	2	4	3	1.000000000000	NULL	NULL	2	1	0.5
+kalman filter	adaptive kalman filter	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+kalman filter	Wiener filter	1	1	4	3	1.000000000000	NULL	NULL	35	28	0.007142857142857143
+Kalman filter-based approach	Federated Kalman filter	1	1	1	1	NULL	NULL	NULL	1	1	1
+kalman-type filter	EKF andukf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalman-type filter	new filter FKF	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kalmanap-proachwithstate space abstraction technique	CMAC	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+kalmar's terminal development service	identification of optimal layout	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kalmar's terminal development service	assistance in the conversion of straddle carrier operation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kalmar's terminal development service	estimation of the required fleet size	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kalmar-product feature	durability	2	2	8	4	NULL	NULL	NULL	1836	372	0.0002723311546840959
+kalmar-product feature	excellent service access	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+kalmar-product feature	visibility	2	2	8	4	NULL	NULL	NULL	491	203	0.0010183299389002036
+kalmar-product feature	great ergonomics	2	2	8	4	NULL	NULL	NULL	3	2	0.16666666666666666
+kalmarajoina drug	alcohol	1	1	2	2	NULL	NULL	NULL	12820	3081	0.000039001560062402496
+kalmarajoina drug	drug	1	1	2	2	NULL	NULL	NULL	5262	1715	0.00009502090459901178
+kalmbach book	Realistic Model RR Design	2	1	2	1	NULL	NULL	NULL	2	1	1
+kalo theme	leaf	1	1	2	2	NULL	NULL	NULL	4185	1340	0.00011947431302270011
+kalo theme	cherry	1	1	2	2	NULL	NULL	NULL	4701	1285	0.00010636034886194426
+kaloric product	food processor	1	1	7	7	0.142857142857	NULL	NULL	328	136	0.00043554006968641115
+kaloric product	meat grinder	1	1	7	7	0.142857142857	NULL	NULL	68	36	0.0021008403361344537
+kaloric product	deep fryer	1	1	7	7	0.142857142857	NULL	NULL	78	42	0.0018315018315018315
+kaloric product	waffle maker	1	1	7	7	0.142857142857	NULL	NULL	38	24	0.0037593984962406013
+kaloric product	blender	1	1	7	7	0.142857142857	NULL	NULL	1002	347	0.000142571998859424
+kaloric product	coffee maker	1	1	7	7	0.142857142857	NULL	NULL	925	306	0.00015444015444015442
+kaloric product	toaster	1	1	7	7	0.142857142857	NULL	NULL	1444	433	0.00009893153937475267
+Kalpvriksh bed	Lord Vishnu in kshirsagar Bichhaa bed	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kama Sutra apps	iKamaSutram Sex Guide	1	1	1	1	NULL	NULL	NULL	1	1	1
+kama sutra item	cream	1	1	2	2	NULL	NULL	NULL	4329	1449	0.0001155001155001155
+kama sutra item	powder	1	1	2	2	NULL	NULL	NULL	1241	538	0.00040290088638195
+kama sutra product	powder	1	1	3	3	NULL	NULL	NULL	1241	538	0.00026860059092130003
+kama sutra product	lotion	1	1	3	3	NULL	NULL	NULL	2347	812	0.00014202528049992897
+kama sutra product	Oil of Love	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kama sutra term	Yoni	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+kama sutra term	Yap Yub position	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kama sutra term	Lingam	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+kamaaina program	Escape Club	1	1	1	1	NULL	NULL	NULL	1	1	1
+kamado accessory	Double roasted circle	2	2	6	3	NULL	NULL	NULL	6	3	0.1111111111111111
+kamado accessory	Roasted circle with hook	2	2	6	3	NULL	NULL	NULL	6	3	0.1111111111111111
+kamado accessory	Chicken holder	2	2	6	3	NULL	NULL	NULL	6	3	0.1111111111111111
+kamado-style cooker	Big Green Egg	1	1	1	1	1.000000000000	NULL	NULL	15	8	0.06666666666666667
+kamado-style grill	Saffire	3	1	3	1	1.000000000000	NULL	NULL	8	6	0.375
+kamae	jodan	1	1	1	1	NULL	NULL	NULL	1	1	1
+kamael-exclusive weapon	rapier	1	1	2	2	1.000000000000	NULL	NULL	59	40	0.00847457627118644
+kamael-exclusive weapon	ancient sword	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+kamagra	ament weakness advice kamagra	1	1	1	1	NULL	NULL	NULL	1	1	1
+kamagra oral jelly flavor	grape	1	1	4	4	NULL	NULL	NULL	4192	1036	0.00005963740458015267
+kamagra oral jelly flavor	banana	1	1	4	4	NULL	NULL	NULL	8340	1751	0.00002997601918465228
+kamagra oral jelly flavor	orange	1	1	4	4	NULL	NULL	NULL	12312	2565	0.000020305393112410655
+kamagra oral jelly flavor	strawberry	1	1	4	4	NULL	NULL	NULL	6216	1333	0.00004021879021879022
+kamagra professional online psychological factor	stress	1	1	1	1	NULL	NULL	NULL	9419	1683	0.00010616838305552606
+kamakura period new buddhists sect	Kegon	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+kamakura-period reformer	Shinran	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+kamakura-period reformer	Dogen	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+kamal haasan film	mahanadhi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kamal haasan film	nayagan	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+kamalaya's additional facility	Wellness Sanctuary	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kamalaya's additional facility	Holistic Spa	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kaman copy	Westone	1	1	1	1	0.500000000000	NULL	NULL	11	7	0.09090909090909091
+kamayoqearna living selling input	veterinary product	2	1	4	2	NULL	NULL	NULL	7	4	0.14285714285714285
+kamayoqearna living selling input	providing technical advice	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+kamboj kingdom	Kashmir	1	1	1	1	NULL	NULL	NULL	188	80	0.005319148936170213
+kameen counter ideology	New Criticism	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+kamen rider actor	Masahiro Inoue	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kamen rider Ryuki	excessive use of card	1	1	1	1	NULL	NULL	NULL	1	1	1
+kamen rider show	Kamen Rider Faiz	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kamen Rider's creator Shotaro Ishinomori	Himitsu Sentai Goranger	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kamen Rider's creator Shotaro Ishinomori	Android Kikaider	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kamen Rider's creator Shotaro Ishinomori	Inazuman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kamen rider's signature move	Rider Kick	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kamen rider's signature move	Rider Punch	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kamenetz profile person	Dougald Hine	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kames	Ocheyedan Mound State Preserve	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaminomoto's unique traditional ingredient	Kamigen E	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaminomoto's unique traditional ingredient	Neo-Takanal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kamishak bay system	Bruin	3	1	9	3	1.000000000000	NULL	NULL	7	5	0.14285714285714285
+kamishak bay system	Paint River Lakes	3	1	9	3	1.000000000000	NULL	NULL	3	1	0.3333333333333333
+kamishak bay system	Ursus	3	1	9	3	1.000000000000	NULL	NULL	8	6	0.125
+Kamloops	Peterson Creek	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kamloops distinctive landscape feature	river	1	1	3	3	NULL	NULL	NULL	3506	1211	0.00009507510933637573
+kamloops distinctive landscape feature	skyline	1	1	3	3	NULL	NULL	NULL	52	36	0.00641025641025641
+kamloops distinctive landscape feature	Mount Paul	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kammic ceremony	Ordination Kamma	1	1	1	1	NULL	NULL	NULL	1	1	1
+kamolot's on-going program	TV production	1	1	2	2	1.000000000000	NULL	NULL	21	19	0.023809523809523808
+kamolot's on-going program	youth training program	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kamora ID document	passport	1	1	1	1	NULL	NULL	NULL	2477	564	0.0004037141703673799
+kampala trader	Godfrey Kirumira	1	1	1	1	NULL	NULL	NULL	1	1	1
+kampala tycoon	Sudhir Ruparelia	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kampala tycoon	Nick Wavamuno	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kampampangan dish	sisig	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+Kampferian company	Kampferian Weaponry	1	1	1	1	NULL	NULL	NULL	1	1	1
+kampong	Kampong Ulang Aling	1	1	1	1	NULL	NULL	NULL	1	1	1
+kampongs	Bukit Ho Swee	2	2	6	3	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+kampongs	Kampong Soopoo	2	2	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+kampongs	Tiong Bahru	2	2	6	3	1.000000000000	NULL	NULL	14	11	0.047619047619047616
+kampongs basic utility	water supply	1	1	1	1	NULL	NULL	NULL	1398	523	0.000715307582260372
+kampungs	Depok Tengah	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kampungs	Depok Barat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kan sha special	Albacore Salad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kan sha special	Sushi Pizza	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kana designation	tail	1	1	2	2	NULL	NULL	NULL	274	170	0.0018248175182481751
+kana designation	head	1	1	2	2	NULL	NULL	NULL	1061	534	0.000471253534401508
+kanab's local landmark	Best Friends Animal Sanctuary	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kanab's local landmark	Coral Pink Sand Dunes	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+Kanats	Bobby Kanat	1	1	1	1	NULL	NULL	NULL	1	1	1
+kanawha county resident	Rodney Hudnall	1	1	1	1	NULL	NULL	NULL	1	1	1
+kanayi kolichar veeran kottam plant	Ankolam	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kanayi kolichar veeran kottam plant	Urithookki	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kanayi kolichar veeran kottam plant	Karimuthil	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kanban item	pallet	1	1	1	1	NULL	NULL	NULL	397	190	0.0025188916876574307
+KANBAN operation	material receipt	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kanban tool	container	1	1	2	2	NULL	NULL	NULL	870	452	0.0005747126436781609
+kanban tool	card	1	1	2	2	NULL	NULL	NULL	1325	598	0.0003773584905660377
+kandahar resident	Haji Toryali	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kandaharis	Hamid Karzai	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Kandas	Vajasaneya	1	1	1	1	NULL	NULL	NULL	1	1	1
+kandela supply also prestigious hotel	SHANGRI LA with sophisticated wax votives design	1	1	1	1	NULL	NULL	NULL	1	1	1
+kandh organization	Phulbani Kui Seva Samiti	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kandh organization	Kui Kul Samiti	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kandh organization	Nikhil Utkal Kui Samaj	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kandinsky's geometric abstraction	Sharp Angles	1	1	1	1	NULL	NULL	NULL	1	1	1
+kandy component	matching amplifier	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kane autographed memorabilia	pic	1	1	3	3	0.666666666666	NULL	NULL	81	55	0.004115226337448559
+Kane autographed memorabilia	hand signed collage	1	1	3	3	0.666666666666	NULL	NULL	9	9	0.037037037037037035
+Kane autographed memorabilia	inscribed ball	1	1	3	3	0.666666666666	NULL	NULL	33	33	0.0101010101010101
+kane favorite	Spirit Boy	1	1	1	1	NULL	NULL	NULL	1	1	1
+kane solvent	octane	1	1	1	1	NULL	NULL	NULL	164	67	0.006097560975609756
+Kane staff clergy	priest	1	1	1	1	NULL	NULL	NULL	423	208	0.002364066193853428
+kane's point	separation of Church	1	1	1	1	1.000000000000	NULL	NULL	44	25	0.022727272727272728
+kanebo's cheaper line	Freshel White C	1	1	1	1	NULL	NULL	NULL	1	1	1
+kanekalon color	sweet red	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kanekalon color	pink	1	1	2	2	NULL	NULL	NULL	4262	1062	0.00011731581417175035
+kaneland defender	sophomore Dylan Nauert	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaneland defender	junior Ryan Lawrence	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kangaroo	Red Kangaroo	6	2	25	11	0.666666666666	NULL	NULL	39	16	0.03692307692307692
+kangaroo	Western Greys	4	1	25	11	0.666666666666	NULL	NULL	4	1	0.16
+kangaroo	red	3	3	25	11	0.666666666666	NULL	NULL	9245	2185	0.00003893996755002704
+kangaroo	Eastern Grey	3	2	25	11	0.666666666666	NULL	NULL	3	1	0.12
+kangaroo	grey	3	3	25	11	0.666666666666	NULL	NULL	179	87	0.002011173184357542
+kangaroo	gray	2	2	25	11	0.666666666666	NULL	NULL	2715	725	0.000058931860036832416
+kangaroo	western gray	1	1	25	11	0.666666666666	NULL	NULL	1	1	0.04
+kangaroo	Macropus giganteus	1	1	25	11	0.666666666666	NULL	NULL	3	2	0.013333333333333334
+kangaroo	Eastern gray	1	1	25	11	0.666666666666	NULL	NULL	4	4	0.01
+kangaroo	precious Merlot	1	1	25	11	0.666666666666	NULL	NULL	1	1	0.04
+kangaroo connection australian gift	chinchilla	1	1	3	3	NULL	NULL	NULL	194	75	0.001718213058419244
+kangaroo connection australian gift	koala	1	1	3	3	NULL	NULL	NULL	223	88	0.0014947683109118085
+kangaroo connection australian gift	sugar glider	1	1	3	3	NULL	NULL	NULL	127	50	0.0026246719160104987
+kangaroo fashionable apparel	tshirts	1	1	3	3	0.400000000000	NULL	NULL	55	44	0.006060606060606061
+kangaroo fashionable apparel	jacket	1	1	3	3	0.400000000000	NULL	NULL	1820	757	0.00018315018315018315
+kangaroo fashionable apparel	tee	1	1	3	3	0.400000000000	NULL	NULL	631	257	0.0005282620179609086
+kangaroo part	head	2	0	5	3	NULL	NULL	NULL	1061	534	0.0007540056550424129
+kangaroo part	tail	2	0	5	3	NULL	NULL	NULL	274	170	0.0029197080291970805
+kangaroo part	hand	1	0	5	3	NULL	NULL	NULL	1306	501	0.00015313935681470137
+kangaroo point attraction	Story Bridge	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+kangaroo point attraction	Embassy Night Club	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kangaroo proof fence	security fence	1	1	1	1	1.000000000000	NULL	NULL	20	19	0.05
+kangaroo pump accessory	Proximal Spike Pump Set	1	1	1	1	NULL	NULL	NULL	1	1	1
+kangaroo retailer	Overkill	1	1	1	1	1.000000000000	NULL	NULL	24	14	0.041666666666666664
+kangaroo survey parameter	height	1	1	1	1	NULL	NULL	NULL	4847	1409	0.00020631318341242006
+kangjin ware	sherds excavated from Yongun-ni kiln number eleven	1	1	1	1	NULL	NULL	NULL	1	1	1
+kangoo's many innovative feature	folding front passenger seat	1	1	1	1	NULL	NULL	NULL	1	1	1
+kanji character	light	1	1	4	4	0.200000000000	NULL	NULL	6435	2121	0.00003885003885003885
+kanji character	love	1	1	4	4	0.200000000000	NULL	NULL	4970	1397	0.000050301810865191146
+kanji character	Aoi	1	1	4	4	0.200000000000	NULL	NULL	8	7	0.03125
+kanji character	faith	1	1	4	4	0.200000000000	NULL	NULL	981	377	0.00025484199796126404
+kankesu jayanthakumaran background term	Free Trade Zones	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+kankesu jayanthakumaran background term	Special Economic Zones	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+kankesu jayanthakumaran background term	Export Processing Zones	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+Kankong UMNO ball lickers	Zainal Keling	1	1	1	1	NULL	NULL	NULL	1	1	1
+kannada film	Super Aliya	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kannada film	Jenu Goodu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kannada film star	Shivarajkumar	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kannada film star	Upendra	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kannada film star	Ramesh Aravind	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kannada folk source	suvvakke	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kannada folk source	sobane	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kannada folk source	udayaraga	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kannada folk source	koluhadu	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kannada folk source	gundakriya	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kannada journal	Sakshi	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kannada organization	Kendriya Nagara Kannada Sangha	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kannada organization	Karmika Loka	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kannada organization	Kannada Janashakthi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kannada origin artiste	Murali in Tamil	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kannada origin artiste	Prakashraj	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+kannada periodic magazine	Taranga	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+kannada periodic magazine	Sudha	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+kannada poet	Nemichandra	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kannada poet	Rudrabhatta	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kannada publication	Kannada Sahitya Parishtpatrike	4	2	12	3	NULL	NULL	NULL	4	1	0.3333333333333333
+kannada publication	Manavika Karnataka	4	2	12	3	NULL	NULL	NULL	4	1	0.3333333333333333
+kannada publication	Prabhuddha Karnataka	4	2	12	3	NULL	NULL	NULL	4	1	0.3333333333333333
+kannada song	O Nanna Olave	1	1	1	1	NULL	NULL	NULL	1	1	1
+kannada writer	U. R. Ananthamurthy	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kannada writer	late Kuvempu	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kannada writer	Bargur Ramchandrappa	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kannadigas	CNN-IBN's assistant editor D P Satish	1	1	1	1	NULL	NULL	NULL	1	1	1
+kannstaber cheap good	computer	1	1	1	1	NULL	NULL	NULL	13729	3711	0.00007283851700779372
+kano chemical	Kroil	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kano merchant	Maikano Agogo	1	1	1	1	NULL	NULL	NULL	1	1	1
+kano school painter	Ishida Yutei	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kansa's service	Vidura	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kansai area	Nara	1	1	2	2	NULL	NULL	NULL	45	30	0.011111111111111112
+Kansai area	Osaka	1	1	2	2	NULL	NULL	NULL	234	80	0.002136752136752137
+kansai region	Kyoto	1	1	2	2	0.500000000000	NULL	NULL	178	81	0.0028089887640449437
+kansai region	Okayama	1	1	2	2	0.500000000000	NULL	NULL	13	12	0.038461538461538464
+kansai region-based company	Toray	1	1	5	5	0.333333333333	NULL	NULL	15	13	0.013333333333333334
+kansai region-based company	Sunrise Industry	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+kansai region-based company	Matsushita	1	1	5	5	0.333333333333	NULL	NULL	186	101	0.001075268817204301
+kansai region-based company	Nippon Electric Glass	1	1	5	5	0.333333333333	NULL	NULL	3	3	0.06666666666666667
+kansai region-based company	Sharp	1	1	5	5	0.333333333333	NULL	NULL	1004	392	0.00019920318725099602
+kansai-based grassroots promotion	Real Rhythm	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansan country artist	Martina McBride	2	1	4	2	1.000000000000	NULL	NULL	121	47	0.008264462809917356
+kansan country artist	BR549's Chuck Mead	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+Kansans	Colonel Charles Jennison	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kansans	Senator James Lane	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kansans	William Hutchinson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kansas	imipramine	1	1	2	2	0.333333333333	NULL	NULL	588	101	0.0008503401360544217
+Kansas	Bonner Springs	1	1	2	2	0.333333333333	NULL	NULL	4	4	0.125
+kansas author club document	yearbook	1	1	2	2	NULL	NULL	NULL	388	135	0.001288659793814433
+kansas author club document	minute	1	1	2	2	NULL	NULL	NULL	463	213	0.0010799136069114472
+kansas avandia lawyer	Michael L. Hodges	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansas basketball player	Tyrel Reed	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kansas basketball player	Brandon Rush	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+kansas basketball player	Matt Kleinmann	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kansas business	Frontier Farm Credit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas business	ICM Incorporated	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas certain variety	Red Bermuda	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kansas Citians	John Barnard	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kansas city	Emporia	2	2	20	11	0.625000000000	NULL	NULL	11	9	0.018181818181818184
+kansas city	Baldwin City	2	2	20	11	0.625000000000	NULL	NULL	5	3	0.04
+kansas city	Manhattan	2	2	20	11	0.625000000000	NULL	NULL	299	158	0.0006688963210702342
+kansas city	Hays	2	2	20	11	0.625000000000	NULL	NULL	46	25	0.004347826086956522
+kansas city	Pittsburg	2	2	20	11	0.625000000000	NULL	NULL	41	22	0.004878048780487805
+kansas city	Wichita	2	2	20	11	0.625000000000	NULL	NULL	119	51	0.0016806722689075631
+kansas city	Topeka	2	2	20	11	0.625000000000	NULL	NULL	47	28	0.00425531914893617
+kansas city	Lawrence	2	2	20	11	0.625000000000	NULL	NULL	198	79	0.00101010101010101
+kansas city	Ottawa	2	2	20	11	0.625000000000	NULL	NULL	469	121	0.0004264392324093817
+kansas city	Overland Park Ks.	1	1	20	11	0.625000000000	NULL	NULL	1	1	0.05
+kansas city	Olathe Ks.	1	1	20	11	0.625000000000	NULL	NULL	1	1	0.05
+kansas city area city	Kansas City	1	1	3	3	0.333333333333	NULL	NULL	462	130	0.0007215007215007215
+kansas city area city	Shawnee	1	1	3	3	0.333333333333	NULL	NULL	77	35	0.004329004329004329
+kansas city area city	Leawood	1	1	3	3	0.333333333333	NULL	NULL	10	7	0.03333333333333333
+kansas city attraction	Westport Historical Society	2	1	6	5	NULL	NULL	NULL	4	2	0.16666666666666666
+kansas city attraction	Country Club Plaza	1	1	6	5	NULL	NULL	NULL	6	5	0.027777777777777776
+kansas city attraction	Swope Park	1	1	6	5	NULL	NULL	NULL	2	2	0.08333333333333333
+kansas city attraction	Science City-Union Station Adm	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kansas city attraction	Downtown Kansas City	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kansas city brochure printing company	Color Print Graphics	1	1	1	1	1.000000000000	NULL	NULL	35	35	0.02857142857142857
+kansas city chief great	Bobby Bell	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+kansas city chief great	Derrick Thomas	1	1	3	3	1.000000000000	NULL	NULL	13	6	0.02564102564102564
+kansas city chief great	Len Dawson	1	1	3	3	1.000000000000	NULL	NULL	11	10	0.0303030303030303
+kansas city emergency crew	ambulance driver	1	1	4	4	0.500000000000	NULL	NULL	29	28	0.008620689655172414
+kansas city emergency crew	police officer	1	1	4	4	0.500000000000	NULL	NULL	1131	408	0.00022104332449160034
+kansas city emergency crew	firefighter	1	1	4	4	0.500000000000	NULL	NULL	1003	365	0.0002492522432701894
+kansas city emergency crew	highway patrol officer	1	1	4	4	0.500000000000	NULL	NULL	6	6	0.041666666666666664
+kansas city figure	Count Basie	1	1	2	2	0.666666666666	NULL	NULL	162	77	0.0030864197530864196
+kansas city figure	Mary Lou Williams	1	1	2	2	0.666666666666	NULL	NULL	6	5	0.08333333333333333
+kansas city flyer printing company	Color Print Graphics	1	1	1	1	1.000000000000	NULL	NULL	35	35	0.02857142857142857
+Kansas City injury law firm	Law Offices of Macey	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Kansas City International Airport information	flight arrival	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+kansas city location	UMKC	1	1	5	5	NULL	NULL	NULL	6	5	0.03333333333333333
+kansas city location	JCCC	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kansas city location	Holly Trinity Cathedral	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kansas city location	Baker University	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+kansas city location	Nelson Atkins Museum of Art	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+kansas city metro area	Jackson County	1	1	2	2	1.000000000000	NULL	NULL	43	16	0.011627906976744186
+kansas city metro area	Johnson County Kansas	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kansas city radio station	94.9 KCMO	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansas city star color	mandarin orange	1	1	1	1	NULL	NULL	NULL	103	49	0.009708737864077669
+kansas city summer team	Olathe Rockets	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+kansas city's best rapper	Mad Marlon	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kansas city's best rapper	Nelson El	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kansas city's big-time prospect	Eric Hosmer	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+kansas city-area company	Hallmark Cards Inc.	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kansas city-style activity	casino gaming	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+kansas community	Emporia	1	1	7	7	0.500000000000	NULL	NULL	11	9	0.012987012987012986
+kansas community	Franklin	1	1	7	7	0.500000000000	NULL	NULL	315	136	0.0004535147392290249
+kansas community	Salina	1	1	7	7	0.500000000000	NULL	NULL	15	7	0.009523809523809523
+kansas community	Hays	1	1	7	7	0.500000000000	NULL	NULL	46	25	0.003105590062111801
+kansas community	Hutchinson	1	1	7	7	0.500000000000	NULL	NULL	39	20	0.003663003663003663
+kansas community	northwest kansas community	1	1	7	7	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+kansas community	Harvey county	1	1	7	7	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+kansas county	Johnson	2	2	5	4	0.400000000000	NULL	NULL	472	209	0.0016949152542372883
+kansas county	Douglas	1	1	5	4	0.400000000000	NULL	NULL	170	76	0.0011764705882352942
+kansas county	Sedgwick	1	1	5	4	0.400000000000	NULL	NULL	11	6	0.018181818181818184
+kansas county	Reno	1	1	5	4	0.400000000000	NULL	NULL	130	62	0.0015384615384615385
+Kansas environment	school	2	2	2	1	NULL	NULL	NULL	16053	4303	0.00012458730455366598
+kansas fundamentalist	Wichita evangelist Gerald B. Winrod	2	2	2	1	NULL	NULL	NULL	2	1	1
+kansas group	Breast Cancer Action	1	1	2	2	0.500000000000	NULL	NULL	19	12	0.02631578947368421
+kansas group	Inc.	1	1	2	2	0.500000000000	NULL	NULL	1793	737	0.0002788622420524261
+kansas health care professional	nurse	1	1	2	2	NULL	NULL	NULL	4227	1158	0.00011828720132481665
+kansas health care professional	doctor	1	1	2	2	NULL	NULL	NULL	6593	1574	0.00007583801001061732
+Kansas high-schoolers	Danny Manning	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+kansas icon	windmill	1	1	2	2	NULL	NULL	NULL	367	207	0.0013623978201634877
+kansas icon	sunflower	1	1	2	2	NULL	NULL	NULL	2673	769	0.00018705574261129816
+kansas institution	education	1	1	2	2	NULL	NULL	NULL	21642	5033	0.00002310322521023935
+kansas institution	health care	1	1	2	2	NULL	NULL	NULL	5486	1449	0.0000911410864017499
+kansas kaos event	Youth Football Camps	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kansas kaos event	Charity fundraising Events	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kansas lake	Clinton	1	1	2	2	NULL	NULL	NULL	206	97	0.0024271844660194173
+kansas lake	Council Grove	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kansas location	Gypsum Hills	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+kansas location	Nature Conservancy's Smoky Valley Ranch	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+kansas location	Lake Scott	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+kansas location	Monument Rocks	2	2	8	4	NULL	NULL	NULL	6	5	0.08333333333333333
+kansas manufacturing sector	aircraft	1	1	1	1	NULL	NULL	NULL	1633	643	0.000612369871402327
+kansas national historic landmark	Hollenberg Pony Express Station	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansas native fruit plant	pawpaw	1	1	2	2	NULL	NULL	NULL	118	57	0.00423728813559322
+kansas native fruit plant	elderberry	1	1	2	2	NULL	NULL	NULL	251	117	0.00199203187250996
+kansas natural history museum exhibit	mammal collection	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kansas natural history museum exhibit	insect collection	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+kansas operation	Houlihan's	2	2	2	1	1.000000000000	NULL	NULL	13	9	0.15384615384615385
+kansas organization	nonprofit	1	1	2	2	NULL	NULL	NULL	98	46	0.00510204081632653
+kansas organization	city government	1	1	2	2	NULL	NULL	NULL	74	46	0.006756756756756757
+kansas product	flour	1	1	2	2	NULL	NULL	NULL	2825	760	0.00017699115044247788
+kansas product	wheat	1	1	2	2	NULL	NULL	NULL	8874	1887	0.00005634437683119225
+kansas resource	library catalog	1	1	3	3	0.500000000000	NULL	NULL	57	34	0.005847953216374269
+kansas resource	state history reference	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+kansas resource	government site	1	1	3	3	0.500000000000	NULL	NULL	9	7	0.037037037037037035
+kansas restaurant	Liberal Inn	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansas school	University of Kansas	1	1	2	2	1.000000000000	NULL	NULL	41	16	0.012195121951219513
+kansas school	Kansas State University	1	1	2	2	1.000000000000	NULL	NULL	28	15	0.017857142857142856
+kansas school district	Shawnee Mission	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+kansas so-called cow town	Dodge City	1	1	1	1	1.000000000000	NULL	NULL	33	21	0.030303030303030304
+kansas state defender	defending KU's Danielle McCray	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas state defender	Kari Kincaid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas state lottery game	huge multi-state Powerball	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kansas state's vital document	birth certificate	1	1	1	1	NULL	NULL	NULL	1504	299	0.0006648936170212766
+kansas surety bond	KS MVD bond	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas surety bond	KS mortgage broker bond	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas town	Abilene	1	1	7	7	0.500000000000	NULL	NULL	62	23	0.002304147465437788
+kansas town	Norton	1	1	7	7	0.500000000000	NULL	NULL	944	403	0.00015133171912832928
+kansas town	Catherine	1	1	7	7	0.500000000000	NULL	NULL	42	24	0.003401360544217687
+kansas town	Burlington	1	1	7	7	0.500000000000	NULL	NULL	183	64	0.00078064012490242
+kansas town	Dodge City	1	1	7	7	0.500000000000	NULL	NULL	33	21	0.004329004329004329
+kansas town	Schoenchen	1	1	7	7	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+kansas town	Emporia	1	1	7	7	0.500000000000	NULL	NULL	11	9	0.012987012987012986
+kansas university student	Lawrence freshman Hannah Norman	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansas university's big-time basketball standout	Keith Langford	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+kansas university's big-time basketball standout	Wayne Simien	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+kansas utility	Western Resources	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+kansas virtual school	Lawrence Virtual School	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kansas winery	Greg Shipe's Davenport Orchard	1	1	1	1	NULL	NULL	NULL	1	1	1
+kansas woman	Mary Elizabeth Lease	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas woman	Annie Diggs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas younger player	Josh Selby	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+kansas's major city	Topeka	1	1	4	4	0.500000000000	NULL	NULL	47	28	0.005319148936170213
+kansas's major city	Kansas City	1	1	4	4	0.500000000000	NULL	NULL	462	130	0.0005411255411255411
+kansas's major city	Dodge City	1	1	4	4	0.500000000000	NULL	NULL	33	21	0.007575757575757576
+kansas's major city	Wichita	1	1	4	4	0.500000000000	NULL	NULL	119	51	0.0021008403361344537
+kansas's original activist	John Brown	1	1	1	1	1.000000000000	NULL	NULL	54	37	0.018518518518518517
+kansas-based aircraft manufacturer	Inland Aviation Travel Air	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansas-based aircraft manufacturer	Cessna	1	1	2	2	NULL	NULL	NULL	195	81	0.002564102564102564
+kansei engineering study	Jindo & Hirasago	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansei engineering study	Nakada	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kansei space element	exterior pond	2	2	8	4	0.666666666666	NULL	NULL	2	1	0.25
+kansei space element	roof garden	2	2	8	4	0.666666666666	NULL	NULL	67	45	0.007462686567164179
+kansei space element	slope	2	2	8	4	0.666666666666	NULL	NULL	1694	609	0.00029515938606847696
+kansei space element	revolving door	2	2	8	4	0.666666666666	NULL	NULL	33	21	0.015151515151515152
+kansei word pleasant, neutral color	gray	1	1	1	1	NULL	NULL	NULL	2715	725	0.00036832412523020257
+kant event	water freezing	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kant scholar	Susan Shell	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kant scholar	Manfred Kuehn	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kant scholar	Robert Louden	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kant scholar	Paul Guyer	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+kant scholar	Patricia Kitcher	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kant scholar	Richard Velkley	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kant's category	time	2	2	8	5	NULL	NULL	NULL	8851	2418	0.000056490792000903855
+kant's category	space	2	2	8	5	NULL	NULL	NULL	2040	725	0.00024509803921568627
+kant's category	substance	2	2	8	5	NULL	NULL	NULL	150	73	0.0033333333333333335
+kant's category	quality	2	2	8	5	NULL	NULL	NULL	3355	1064	0.00014903129657228018
+kant's earliest critic	Rehberg	2	2	3	2	0.500000000000	NULL	NULL	2	1	0.6666666666666666
+kant's earliest critic	Fichte	1	1	3	2	0.500000000000	NULL	NULL	55	21	0.006060606060606061
+kantarsport help client	F1 Management	1	1	7	7	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+kantarsport help client	Aviva	1	1	7	7	0.500000000000	NULL	NULL	266	113	0.0005370569280343716
+kantarsport help client	FIFA	1	1	7	7	0.500000000000	NULL	NULL	132	61	0.0010822510822510823
+kantarsport help client	Football League	1	1	7	7	0.500000000000	NULL	NULL	16	12	0.008928571428571428
+kantarsport help client	Royal Ascot	1	1	7	7	0.500000000000	NULL	NULL	61	27	0.00234192037470726
+kantarsport help client	RFU	1	1	7	7	0.500000000000	NULL	NULL	12	7	0.011904761904761904
+kantarsport help client	Barclays	1	1	7	7	0.500000000000	NULL	NULL	927	279	0.00015410695022345506
+kantarsport help organization	Football League	1	1	2	2	0.500000000000	NULL	NULL	16	12	0.03125
+kantarsport help organization	FIFA	1	1	2	2	0.500000000000	NULL	NULL	132	61	0.003787878787878788
+kantian approach	cost-effectiveness	1	1	1	1	NULL	NULL	NULL	196	82	0.00510204081632653
+kantian basic	time	1	1	1	1	NULL	NULL	NULL	8851	2418	0.00011298158400180771
+kantian conception	moral duty	1	1	1	1	1.000000000000	NULL	NULL	4	3	0.25
+kantian liberal	John Rawls	1	1	1	1	NULL	NULL	NULL	80	46	0.0125
+kantian philosopher	Hermann Cohen	1	1	3	3	0.666666666666	NULL	NULL	8	7	0.041666666666666664
+kantian philosopher	Nozick	1	0	3	3	0.666666666666	NULL	NULL	30	15	0.01111111111111111
+kantian philosopher	Rawls	1	0	3	3	0.666666666666	NULL	NULL	105	50	0.0031746031746031746
+Kantians	Rickert	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+kanto prefecture	Tokyo	1	1	2	2	0.500000000000	NULL	NULL	1261	338	0.0003965107057890563
+kanto prefecture	Kanagawa	1	1	2	2	0.500000000000	NULL	NULL	9	6	0.05555555555555555
+kantor document event	crumbling society	1	1	1	1	NULL	NULL	NULL	1	1	1
+KANU leader	William Ruto	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+KANU stalwart	Ezekiel Barngetuny	1	1	1	1	NULL	NULL	NULL	1	1	1
+kanun's distinct value	family	1	1	6	6	NULL	NULL	NULL	5717	1803	0.0000291528190776048
+kanun's distinct value	hospitality	1	1	6	6	NULL	NULL	NULL	1068	346	0.00015605493133583021
+kanun's distinct value	protection of every religious belief	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kanun's distinct value	respect for the foreigner	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kanun's distinct value	property	1	1	6	6	NULL	NULL	NULL	2463	812	0.00006766815536608472
+kanun's distinct value	promise	1	1	6	6	NULL	NULL	NULL	139	73	0.001199040767386091
+kanun's own technical film section	editing	1	1	2	2	0.500000000000	NULL	NULL	1032	434	0.00048449612403100775
+kanun's own technical film section	animation film workshop	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+kanyakumari hotel	Hotel Sea View	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kanyakumari hotel	Hotel Madhini	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kao-tsu's personal follower	famous Lu Chia	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaohsiung attraction	Dream Mall	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kaohsiung attraction	Love River	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kaohsiung attraction	Former British Consulate at Dagou	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kaohsiung's reputable hotel	China Trust	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kaohsiung's reputable hotel	Ambassador	1	1	3	3	NULL	NULL	NULL	71	49	0.004694835680751174
+kaohsiung's reputable hotel	Evergreen	1	1	3	3	NULL	NULL	NULL	235	152	0.0014184397163120566
+kaokoveld feature	Burnt Mountain	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+kaokoveld feature	Spitzkoppe	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+kaokoveld feature	Petrified Forest	1	1	3	3	1.000000000000	NULL	NULL	29	19	0.011494252873563218
+kaolin	6 Tile	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaolin	EPK clay sold by Feldspar Corp.	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaolin	Capim GP	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaolin	Capim NP	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaolin	Avery clay sold by Harris Mining Company	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaolin	EPK	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+kaolin	off-color calcined kaolin	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kaolin clay-based spray	Surround	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+kaolin composition	beneficiated fine sedimentary kaolin composition	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaolin mineral	halloysite	1	1	2	2	0.500000000000	NULL	NULL	25	14	0.02
+kaolin mineral	kaolinite	1	1	2	2	0.500000000000	NULL	NULL	211	81	0.002369668246445498
+kaolin pigment	product marketed by Thiele Kaolin Company under the trademark Kaocal	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaolin related offer	Zinc Battery	1	1	2	2	0.666666666666	NULL	NULL	30	28	0.016666666666666666
+kaolin related offer	Pellet	1	1	2	2	0.666666666666	NULL	NULL	461	262	0.0010845986984815619
+kaolin-dependent business	Springhill Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaolin-dependent business	Inc.	1	1	2	2	NULL	NULL	NULL	1793	737	0.0002788622420524261
+kaolin-pectin product	Pet Pectillin	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaoline-type clay mineral	kaolinite	1	1	2	2	NULL	NULL	NULL	211	81	0.002369668246445498
+kaoline-type clay mineral	hydrated halloysite	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaolinite	rubber kaolinite	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaolinite clay mineral	kaolinite	1	1	4	4	0.500000000000	NULL	NULL	211	81	0.001184834123222749
+kaolinite clay mineral	nacrite	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+kaolinite clay mineral	halloysite	1	1	4	4	0.500000000000	NULL	NULL	25	14	0.01
+kaolinite clay mineral	dickite	1	1	4	4	0.500000000000	NULL	NULL	7	5	0.03571428571428571
+KAON application	ontology editor Oi-Modeler	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaori yuki's work	Godchild	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+kaori yuki's work	Angel Sanctuary	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+KAOS artist	EL Padrino	1	1	1	1	NULL	NULL	NULL	1	1	1
+kapaa hotel	Outrigger Waipouli Beach	1	1	1	1	NULL	NULL	NULL	1	1	1
+kapali EVENT risk	war	1	1	1	1	NULL	NULL	NULL	3625	1222	0.00027586206896551725
+kapamilya celebrity	Christian Bautista	2	2	15	14	1.000000000000	NULL	NULL	15	13	0.017777777777777778
+kapamilya celebrity	Kim Chiu	1	1	15	14	1.000000000000	NULL	NULL	8	7	0.008333333333333333
+kapamilya celebrity	Luis Manzano	1	1	15	14	1.000000000000	NULL	NULL	4	3	0.016666666666666666
+kapamilya celebrity	Toni Gonzaga	1	1	15	14	1.000000000000	NULL	NULL	11	8	0.006060606060606061
+kapamilya celebrity	Erik Santos	1	1	15	14	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+kapamilya celebrity	Enchong Dee	1	1	15	14	1.000000000000	NULL	NULL	5	4	0.013333333333333332
+kapamilya celebrity	Bea Alonzo	1	1	15	14	1.000000000000	NULL	NULL	6	6	0.011111111111111112
+kapamilya celebrity	Nikki Gil	1	1	15	14	1.000000000000	NULL	NULL	6	4	0.011111111111111112
+kapamilya celebrity	Sam Milby	1	1	15	14	1.000000000000	NULL	NULL	14	10	0.0047619047619047615
+kapamilya celebrity	Jed Madela	1	1	15	14	1.000000000000	NULL	NULL	2	2	0.03333333333333333
+kapamilya celebrity	John Lloyd Cruz	1	1	15	14	1.000000000000	NULL	NULL	6	5	0.011111111111111112
+kapamilya celebrity	Anne Curtis	1	1	15	14	1.000000000000	NULL	NULL	9	7	0.007407407407407408
+kapamilya celebrity	Piolo Pascual	1	1	15	14	1.000000000000	NULL	NULL	15	14	0.0044444444444444444
+kapamilya celebrity	Sarah Geronimo	1	1	15	14	1.000000000000	NULL	NULL	10	9	0.006666666666666666
+kapamilya child actor	Xyriel Manabat	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+kapamilya child actor	Zaijian Jaranilla	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+kapamilya male performer	Piolo Pascual	1	1	4	4	1.000000000000	NULL	NULL	15	14	0.016666666666666666
+kapamilya male performer	Luis Manzano	1	1	4	4	1.000000000000	NULL	NULL	4	3	0.0625
+kapamilya male performer	Sam Milby	1	1	4	4	1.000000000000	NULL	NULL	14	10	0.017857142857142856
+kapamilya male performer	Vhong Navarro	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+kapamilya network star	Sam Milby	1	1	5	5	1.000000000000	NULL	NULL	14	10	0.014285714285714287
+kapamilya network star	Robin Nievera	1	1	5	5	1.000000000000	NULL	NULL	8	4	0.025
+kapamilya network star	Billy Crawford	1	1	5	5	1.000000000000	NULL	NULL	16	8	0.0125
+kapamilya network star	Jovit Baldovino	1	1	5	5	1.000000000000	NULL	NULL	4	2	0.05
+kapamilya network star	Yeng Constantino	1	1	5	5	1.000000000000	NULL	NULL	8	4	0.025
+kapamilya network's brightest star	Jovit Baldovino	3	3	15	5	1.000000000000	NULL	NULL	4	2	0.15000000000000002
+kapamilya network's brightest star	Yeng Constantino	3	3	15	5	1.000000000000	NULL	NULL	8	4	0.07500000000000001
+kapamilya network's brightest star	Billy Crawford	3	3	15	5	1.000000000000	NULL	NULL	16	8	0.037500000000000006
+kapamilya network's brightest star	Robin Nievera	3	3	15	5	1.000000000000	NULL	NULL	8	4	0.07500000000000001
+kapamilya network's brightest star	Sam Milby	3	3	15	5	1.000000000000	NULL	NULL	14	10	0.042857142857142864
+kapamilya singing star	KC Concepcion	1	1	5	5	1.000000000000	NULL	NULL	7	6	0.028571428571428574
+kapamilya singing star	Jericho Rosales	1	1	5	5	1.000000000000	NULL	NULL	7	6	0.028571428571428574
+kapamilya singing star	Anne Curtis	1	1	5	5	1.000000000000	NULL	NULL	9	7	0.022222222222222223
+kapamilya singing star	Sarah Geronimo	1	1	5	5	1.000000000000	NULL	NULL	10	9	0.02
+kapamilya singing star	Piolo Pascual	1	1	5	5	1.000000000000	NULL	NULL	15	14	0.013333333333333334
+kapamilya star	Gary Valenciano	2	2	22	13	1.000000000000	NULL	NULL	15	12	0.012121212121212121
+kapamilya star	Marcelino Pomoy	2	2	22	13	1.000000000000	NULL	NULL	2	1	0.09090909090909091
+kapamilya star	Maria Aragon	2	2	22	13	1.000000000000	NULL	NULL	4	3	0.045454545454545456
+kapamilya star	Angeline Quinto	2	2	22	13	1.000000000000	NULL	NULL	2	1	0.09090909090909091
+kapamilya star	Sam Milby	2	2	22	13	1.000000000000	NULL	NULL	14	10	0.012987012987012988
+kapamilya star	Jovit Baldivino	2	2	22	13	1.000000000000	NULL	NULL	4	2	0.045454545454545456
+kapamilya star	Robin Nievera	2	2	22	13	1.000000000000	NULL	NULL	8	4	0.022727272727272728
+kapamilya star	Yeng Constantino	2	2	22	13	1.000000000000	NULL	NULL	8	4	0.022727272727272728
+kapamilya star	Billy Crawford	2	2	22	13	1.000000000000	NULL	NULL	16	8	0.011363636363636364
+kapamilya star	John Lloyd Cruz	1	1	22	13	1.000000000000	NULL	NULL	6	5	0.007575757575757576
+kapamilya star	Pokwang	1	1	22	13	1.000000000000	NULL	NULL	1	1	0.045454545454545456
+kapamilya star	Lea Salonga	1	1	22	13	1.000000000000	NULL	NULL	22	12	0.002066115702479339
+kapamilya star	Vhong Navarro	1	1	22	13	1.000000000000	NULL	NULL	3	3	0.015151515151515152
+kapchais	Yamaha LC135	2	1	2	1	NULL	NULL	NULL	2	1	1
+Kapell LP's	Rhapsody on a Theme of Paganini with Reiner	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kapers	Girl Scout's Own	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+kapersky package	Defender Pro	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kapha disorder	cough	1	1	4	4	0.400000000000	NULL	NULL	1869	490	0.00013376136971642589
+kapha disorder	cold	1	1	4	4	0.400000000000	NULL	NULL	4004	980	0.00006243756243756244
+kapha disorder	lung congestion	1	1	4	4	0.400000000000	NULL	NULL	6	5	0.041666666666666664
+kapha disorder	runny nose	1	1	4	4	0.400000000000	NULL	NULL	880	202	0.0002840909090909091
+kapha illness	lethargy	1	1	2	2	NULL	NULL	NULL	894	282	0.0005592841163310962
+kapha illness	congestion	1	1	2	2	NULL	NULL	NULL	684	276	0.0007309941520467836
+kapha imbalance	obesity	2	2	5	4	0.200000000000	NULL	NULL	7193	1475	0.00011121924092868067
+kapha imbalance	indigestion	1	1	5	4	0.200000000000	NULL	NULL	794	240	0.00025188916876574307
+kapha imbalance	urinary stones	1	1	5	4	0.200000000000	NULL	NULL	22	9	0.009090909090909092
+kapha imbalance	cholesterol	1	1	5	4	0.200000000000	NULL	NULL	1324	518	0.00015105740181268882
+kapha-like tissue	fat	1	1	3	3	NULL	NULL	NULL	1844	671	0.00018076644974692697
+kapha-like tissue	semen	1	1	3	3	NULL	NULL	NULL	294	87	0.0011337868480725624
+kapha-like tissue	milk	1	1	3	3	NULL	NULL	NULL	11681	2213	0.0000285363696030591
+kaphic or yang food	dairy	1	1	2	2	NULL	NULL	NULL	2153	676	0.00023223409196470042
+kaphic or yang food	meat	1	1	2	2	NULL	NULL	NULL	9410	1886	0.00005313496280552604
+kapis product	chandelier	1	1	4	4	0.250000000000	NULL	NULL	460	263	0.0005434782608695652
+kapis product	wall panel	1	1	4	4	0.250000000000	NULL	NULL	138	88	0.0018115942028985507
+kapis product	lamp shade	1	1	4	4	0.250000000000	NULL	NULL	106	59	0.0023584905660377358
+kapis product	wall frame	1	1	4	4	0.250000000000	NULL	NULL	4	4	0.0625
+kapiti coast artist	Alan Weihipiana	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kapiti coast artist	Diana Farey	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaplan gift	bronze Monkey Settee	2	1	2	1	NULL	NULL	NULL	2	1	1
+kaplan method	backsolving	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+kaplan method	picking number	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+Kaplan resource	physics subject test	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaplan score-raising classic	Tales of Edgar Allen Poe	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaplan vocabulary strategy	looking for familiar root	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaplan's well-known travelogue	Balkan Ghosts	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kaplan's well-known travelogue	Ends of the Earth	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kapok bedding	kapok pillow	2	1	2	1	NULL	NULL	NULL	5	2	0.4
+kapok bedding product	Floor mattress	3	2	15	5	NULL	NULL	NULL	3	1	0.20000000000000004
+kapok bedding product	Meditation mattress	3	2	15	5	NULL	NULL	NULL	3	1	0.20000000000000004
+kapok bedding product	Bolster	3	2	15	5	NULL	NULL	NULL	4	2	0.15000000000000002
+kapok bedding product	Kapok Pillow	3	2	15	5	NULL	NULL	NULL	5	2	0.12000000000000002
+kapok bedding product	Zafu cushion	3	2	15	5	NULL	NULL	NULL	4	2	0.15000000000000002
+KAPP-like PP2Cs	Arabidopsis KAPP	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KAPP-like PP2Cs	rice OsKAPP	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kappa	Cohen's kappa	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+kappa agonists	U50,488	2	2	3	2	1.000000000000	NULL	NULL	3	2	0.4444444444444444
+kappa agonists	U69,593	1	1	3	2	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+kappa analgesic agonists	pentazocine	1	1	1	1	NULL	NULL	NULL	74	42	0.013513513513513514
+kappa delta sister	Knuckles Shackleford	1	1	1	1	NULL	NULL	NULL	1	1	1
+kappa opiate	tifluadom	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kappa opiate	EKC	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+kappa statistic	Cohen's kappa	4	3	4	1	1.000000000000	NULL	NULL	12	8	0.3333333333333333
+kappa zeta practice virtue	love	1	1	3	3	NULL	NULL	NULL	4970	1397	0.0000670690811535882
+kappa zeta practice virtue	eternal friendship	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kappa zeta practice virtue	trust	1	1	3	3	NULL	NULL	NULL	3274	1059	0.00010181225819588678
+Kappa-1 receptor agonists	U69,593	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+KAPPA-25 application	cleaning	1	1	2	2	0.500000000000	NULL	NULL	4484	1538	0.00011150758251561107
+KAPPA-25 application	hydrostatic testing	1	1	2	2	0.500000000000	NULL	NULL	16	11	0.03125
+Kappa-opioid agonists	nalbuphine	2	2	3	2	1.000000000000	NULL	NULL	50	27	0.026666666666666665
+kappa-opioid agonists	partial kappa-opioid agonists	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+KAPS transmission product	Hydraulic Shift Unit for paddle shifting	1	1	1	1	NULL	NULL	NULL	1	1	1
+kapuscinski & brister material	extra predator barrier net	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+kapuskasing's many festival	Lumberjack Heritage Festival	1	1	1	1	NULL	NULL	NULL	1	1	1
+kapuso artist	Iza Calzado	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kapuso artist	Aljur Abrenica	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+kapuso show	Luna Mystica	1	1	1	1	NULL	NULL	NULL	1	1	1
+kapuso star	Sunshine Dizon	1	1	9	9	1.000000000000	NULL	NULL	4	3	0.027777777777777776
+kapuso star	Dingdong Dantes	1	1	9	9	1.000000000000	NULL	NULL	11	11	0.0101010101010101
+kapuso star	Richard Gutierrez	1	1	9	9	1.000000000000	NULL	NULL	5	5	0.02222222222222222
+kapuso star	Rhian Ramos	1	1	9	9	1.000000000000	NULL	NULL	8	4	0.013888888888888888
+kapuso star	Marian Rivera	1	1	9	9	1.000000000000	NULL	NULL	11	7	0.0101010101010101
+kapuso star	Iza Calzado	1	1	9	9	1.000000000000	NULL	NULL	3	3	0.037037037037037035
+kapuso star	Heart Evangelista	1	1	9	9	1.000000000000	NULL	NULL	3	3	0.037037037037037035
+kapuso star	Mike Tan	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+kapuso star	Richard Gomez	1	1	9	9	1.000000000000	NULL	NULL	5	5	0.02222222222222222
+kapustin's composition fuse classical structure	sonata	1	1	1	1	NULL	NULL	NULL	161	94	0.006211180124223602
+kara's member	Kang Jiyoung	1	1	1	1	NULL	NULL	NULL	1	1	1
+kara-style input	priority linking	1	1	1	1	NULL	NULL	NULL	1	1	1
+karabakh city	Agdara	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karabakh city	Kalbajar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karachi place	Teen Talwar	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karachi place	Zamzama	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+karachi place	Nazimabad	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+karachi place	Shahrah-e-Faisal	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karachi tourism hotspot	Karachi Zoo	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karachi tourism hotspot	Sindbad Amusement Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karachi tourism hotspot	Aladdin Amusement Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karachi tourism hotspot	Askari Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karachi tourism hotspot	Go-Aish Adventure Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karachi's major public hospital	Abbasi Shaheed	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karachi's major public hospital	Jinnah Post Graduate Medical Hospital	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karachi's major public hospital	Civil Hospital	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+karachi's slum	Sohrab Goth	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+karaite polemicist	tenth-century Jacob al-kirkisanai	1	1	1	1	NULL	NULL	NULL	1	1	1
+Karaites	Nehemia Gordon	1	1	1	1	NULL	NULL	NULL	1	1	1
+karan follower	Grace Hightower	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karan follower	Patricia Cisneros	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karan follower	Heather Mnuchin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Karangas	late firebrand lawyer Eddison Zvobgo	1	1	1	1	NULL	NULL	NULL	1	1	1
+karankawa indian artifact	wood	1	1	3	3	NULL	NULL	NULL	13775	3193	0.000024198427102238353
+karankawa indian artifact	tools made from stone	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karankawa indian artifact	bone	1	1	3	3	NULL	NULL	NULL	2998	988	0.000111185234600845
+karaoke accessory	microphone	1	1	1	1	NULL	NULL	NULL	1156	434	0.0008650519031141869
+karaoke bar	Lucky Plaza	1	1	7	7	1.000000000000	NULL	NULL	6	4	0.023809523809523808
+karaoke bar	Ding Dong Dang	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+karaoke bar	Echo Point	1	1	7	7	1.000000000000	NULL	NULL	13	12	0.010989010989010988
+karaoke bar	going to Vietnamese church off Yager	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+karaoke bar	Permata Indah	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+karaoke bar	Karaoke World	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+karaoke bar	Chieu Thim	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+karaoke contest	Karaoke Grammy's in Georgia	1	1	1	1	NULL	NULL	NULL	1	1	1
+karaoke device	new Magic Sing ET-18000	2	2	2	1	NULL	NULL	NULL	2	1	1
+karaoke family-friendly hit	Friends	1	1	1	1	NULL	NULL	NULL	354	162	0.002824858757062147
+karaoke feature	advanced karaoke feature	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+karaoke feature	Auto Partner	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karaoke feature	Voice Cancellation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karaoke feature	audio recording	1	1	4	4	NULL	NULL	NULL	164	100	0.001524390243902439
+karaoke file application	winamp	1	1	1	1	NULL	NULL	NULL	338	100	0.0029585798816568047
+karaoke instructional technology	silent karaoke	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karaoke instructional technology	choral karaoke	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karaoke instructional technology	repeated reading karaoke	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karaoke lyric	Mylie Cyrus	1	1	1	1	NULL	NULL	NULL	1	1	1
+karaoke manufacturer	Sound Choice	1	1	1	1	NULL	NULL	NULL	11	4	0.09090909090909091
+karaoke mics	ones made by Magic Sing	1	1	1	1	NULL	NULL	NULL	1	1	1
+karaoke operator	KTV Karaoke Lounge	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+karaoke party supply	paper plate	1	1	2	2	NULL	NULL	NULL	399	188	0.0012531328320802004
+karaoke party supply	napkin	1	1	2	2	NULL	NULL	NULL	934	402	0.0005353319057815846
+karaoke player related offer	Speaker	1	1	1	1	NULL	NULL	NULL	1706	596	0.0005861664712778429
+karaoke product	amplifier	1	1	3	4	NULL	NULL	NULL	784	368	0.00042517006802721087
+karaoke product	mixer	1	1	3	4	NULL	NULL	NULL	831	400	0.00040112314480545525
+karaoke product	wireless	1	1	3	4	NULL	NULL	NULL	852	355	0.00039123630672926443
+karaoke setting	pitch control	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+karaoke speaker related offer	Home Theatre Speaker	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+karaoke speaker related offer	Karaoke	1	1	2	2	NULL	NULL	NULL	493	179	0.0010141987829614604
+karaoke system	commercial karaoke machine	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+karaoke system	all-in-on karaoke system	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+karaoke TV show	Idol	1	1	1	1	NULL	NULL	NULL	58	34	0.017241379310344827
+karaoke wii game	Battle of the Bands	2	1	3	3	1.000000000000	NULL	NULL	53	23	0.025157232704402514
+karaoke wii game	Wii music	1	1	3	3	1.000000000000	NULL	NULL	13	8	0.02564102564102564
+karaoke-comedy-parody song	Girl from essex	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karaoke-comedy-parody song	Badonkadonk from Dundalk	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karat	18k	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+Karat gold	18k	2	2	5	4	1.000000000000	NULL	NULL	8	7	0.1
+Karat gold	18 karat	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+Karat gold	14 karat	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+Karat gold	10 karat	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+karat red alloy	18k	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+karat stamp	14K	1	1	1	1	1.000000000000	NULL	NULL	20	12	0.05
+karat-weight gold alloy	20 karat gold	1	1	1	1	NULL	NULL	NULL	1	1	1
+karate antagonistic event	Continental	1	1	2	2	0.500000000000	NULL	NULL	831	217	0.0006016847172081829
+karate antagonistic event	World Championships	1	1	2	2	0.500000000000	NULL	NULL	66	37	0.007575757575757576
+karate athlete	Paul Newby	1	1	1	1	NULL	NULL	NULL	1	1	1
+karate event	seminar	1	1	2	2	NULL	NULL	NULL	2782	981	0.00017972681524083394
+karate event	tournament	1	1	2	2	NULL	NULL	NULL	378	160	0.0013227513227513227
+karate historian	Kinjo Akio	1	1	1	1	NULL	NULL	NULL	1	1	1
+karate legend	Joe Lewis	1	1	1	1	1.000000000000	NULL	NULL	16	12	0.0625
+karate master	Kanazawa	1	1	4	4	1.000000000000	NULL	NULL	18	8	0.013888888888888888
+karate master	Shogo Kuniba	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+karate master	Teruo Hayashi	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+karate master	Kosan Matsumora	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+karate move	kage zuki	2	2	8	6	NULL	NULL	NULL	2	1	0.25
+karate move	mawashi enpi	2	2	8	6	NULL	NULL	NULL	2	1	0.25
+karate move	mawashi empi	1	1	8	6	NULL	NULL	NULL	1	1	0.125
+karate move	kage tzuki	1	1	8	6	NULL	NULL	NULL	1	1	0.125
+karate move	block	1	1	8	6	NULL	NULL	NULL	1922	703	0.00006503642039542144
+karate move	gedan barai	1	1	8	6	NULL	NULL	NULL	1	1	0.125
+karate movie	Van Dam	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+karate movie	Five Deadly Venoms	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+karate movie	Steven Segal	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+karate organization	World Karate-do Federation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karate organization	World Japan Karate-do Alliance USA	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karate organization	USA-National Karate-do Federation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karate organization	World USA Shito Ryu Karate-do Federation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karate strike	palm heel	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+karate strike	shuto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karate style	Wado Ryo	2	1	9	7	1.000000000000	NULL	NULL	2	1	0.2222222222222222
+karate style	Shotokan	2	1	9	7	1.000000000000	NULL	NULL	35	19	0.012698412698412698
+karate style	Korea's Tae Kwon Do	1	1	9	7	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+karate style	Shidokan	1	1	9	7	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+karate style	Isshin-Ryu	1	1	9	7	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+karate style	Shito-Ryu	1	1	9	7	1.000000000000	NULL	NULL	3	3	0.037037037037037035
+karate style	Japan's Wado Ryu	1	1	9	7	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+karate system	Wado Ryu	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+karate technique	strike	1	1	3	3	NULL	NULL	NULL	613	332	0.000543773790103317
+karate technique	empty hand	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+karate technique	long stick	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+karate title	Battle of Atlanta	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+karate title	Kentucky National	2	2	10	5	NULL	NULL	NULL	3	2	0.13333333333333333
+karate title	Capital Classics	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+karate title	Jhoon Rhee Nationals	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+karate title	Battle of Baltimore	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+karate training method	correct posture	1	1	2	2	1.000000000000	NULL	NULL	24	20	0.020833333333333332
+karate training method	hip strength	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+karate weapon	Bo	1	1	1	1	1.000000000000	NULL	NULL	42	20	0.023809523809523808
+karate's value	respect	1	1	1	1	NULL	NULL	NULL	2479	618	0.0004033884630899556
+karate-based art	Shotokan	1	1	5	5	0.500000000000	NULL	NULL	35	19	0.005714285714285714
+karate-based art	Goju-Ryu	1	1	5	5	0.500000000000	NULL	NULL	5	5	0.04
+karate-based art	Shito-Ryu	1	1	5	5	0.500000000000	NULL	NULL	3	3	0.06666666666666667
+karate-based art	Tangsoodo	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+karate-based art	Taekwondo	1	1	5	5	0.500000000000	NULL	NULL	239	90	0.0008368200836820084
+karate-specific skill	punching	1	1	1	1	NULL	NULL	NULL	350	141	0.002857142857142857
+karate-type style	Tae Kwon Do	1	1	1	1	NULL	NULL	NULL	192	70	0.005208333333333333
+karateka	Asai	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+karateka	top jka karateka	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karava flag	Maggona flag	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karava flag	Tamankaduwa Sun	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karava flag	Sudu Etha Bendi flag	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karava flag	Moon flag	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karava flag	Chilaw flag	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karazin's bold, large scale painting	Russian Troops Taking Samarkand	1	1	1	1	NULL	NULL	NULL	1	1	1
+kardashian item	vote for Kim shirt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kardashian item	Kim Kardashiam perfume	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kardashian item	candle	1	1	4	4	NULL	NULL	NULL	2837	1038	0.00008812125484666901
+kardashian item	water bottle	1	1	4	4	NULL	NULL	NULL	720	294	0.00034722222222222224
+kardex-correct option	special order paint	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kardex-correct option	Speedster side trim	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kardinia mental health service program	tenp in bowling group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kardinia mental health service program	gym	1	1	2	2	NULL	NULL	NULL	2236	677	0.00022361359570661896
+kardiovaskular disease	hypertension	1	1	2	2	NULL	NULL	NULL	7750	1658	0.00006451612903225807
+kardiovaskular disease	stroke	1	1	2	2	NULL	NULL	NULL	6064	1490	0.00008245382585751979
+kare-kare ingredient	ground peanut	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kare-kare ingredient	rice	1	1	2	2	NULL	NULL	NULL	11473	2640	0.000043580580493332174
+karelia's special surface treatment	brushing	1	1	2	2	NULL	NULL	NULL	456	226	0.0010964912280701754
+karelia's special surface treatment	Stonewashed	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+karelian company	Segezhsky pulp	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karelian company	paper mill	1	1	2	2	NULL	NULL	NULL	215	90	0.002325581395348837
+karelian timber processing company	Kondopozhsky TsBK	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karelian timber processing company	Segezhsky TsBK	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen armstrong's book	History of God	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+karen celebration	Martyr Day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen celebration	Karen Revolution Day	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen demasco's sweet	lemon rosemary pastries in the morning	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen demasco's sweet	grown-up ice-cream sundaes at night	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen group	Australian Karen Refugee Support Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+karen hardy studio new	Karen Hardy at The Chelsea Summer Gala	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen hardy studio new	Karen Hardy being on BBC Breakfast	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karen human right organization	Karen Women Organization	1	1	1	1	NULL	NULL	NULL	1	1	1
+karen katz lift-the-flap book	Ears	1	1	2	2	NULL	NULL	NULL	3	5	0.16666666666666666
+karen katz lift-the-flap book	Toes	1	1	2	2	NULL	NULL	NULL	8	6	0.0625
+karen leader	Thapg h Tha Myat Kyi	1	1	1	1	NULL	NULL	NULL	1	1	1
+karen millen dress	Karen Millen Coat	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+karen millen dress	Karen Millen Jacket	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+karen millen dress	Karen Millen shoulders dress	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+karen new year activity	signing contest	1	1	1	1	NULL	NULL	NULL	1	1	1
+karen officer	Commander Saw Jack	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karen officer	Wing Commander Saw Shi Sho	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karen officer	Brigadier Saw Kyar Doe	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karen officer	Gen Smith Dun	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karen tradition	folk dress	1	1	1	1	NULL	NULL	NULL	1	1	1
+karen traditional product	pattern	1	1	4	4	0.666666666666	NULL	NULL	834	413	0.00029976019184652276
+karen traditional product	woven cloth	1	1	4	4	0.666666666666	NULL	NULL	34	30	0.007352941176470588
+karen traditional product	traditional costume	1	1	4	4	0.666666666666	NULL	NULL	9	8	0.027777777777777776
+karen traditional product	modern fashion dress decorated with Karen traditional embroidery with seed	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+karen village	Ban Mae Ab Nai	1	1	1	1	NULL	NULL	NULL	1	1	1
+Karen Walker large area	Cornwall	1	1	1	1	NULL	NULL	NULL	199	65	0.005025125628140704
+karena's preschool song	Teddy Bear	1	1	1	1	NULL	NULL	NULL	821	264	0.001218026796589525
+kari's high yield variety	banana	1	1	2	2	NULL	NULL	NULL	8340	1751	0.00005995203836930456
+kari's high yield variety	sweet potato	1	1	2	2	NULL	NULL	NULL	2558	814	0.00019546520719311962
+kari's loyal fan	Janice Dickenson	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+kari's loyal fan	Lauren Conrad	1	1	6	6	1.000000000000	NULL	NULL	115	33	0.0014492753623188406
+kari's loyal fan	Lauren German	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kari's loyal fan	Camryn Manheim	1	1	6	6	1.000000000000	NULL	NULL	12	8	0.013888888888888888
+kari's loyal fan	Ali Landry	1	1	6	6	1.000000000000	NULL	NULL	14	6	0.011904761904761904
+kari's loyal fan	Billy Morrison	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+karim's interior design project	Bosco pi fashion store interior	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karim's interior design project	Kurve restaurant in New York	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karkata-lagna native	authors Maya Angelou	1	1	1	1	0.333333333333	NULL	NULL	1	1	1
+karl mannheim dramatic political upheaval	war	1	1	1	1	NULL	NULL	NULL	3625	1222	0.00027586206896551725
+karl marx's book	famous The Communist Manifesto	1	1	1	1	NULL	NULL	NULL	1	1	1
+karl north most off-farm input	inorganic fertilizer	1	1	1	1	1.000000000000	NULL	NULL	26	21	0.038461538461538464
+karl source additional part	exhaust system	1	1	1	1	NULL	NULL	NULL	251	118	0.00398406374501992
+karl T. company	Net Perceptions	1	1	1	1	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+karloff's treasure	Black Room	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karloff's treasure	Mask of Fu Manchu	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+karloff's treasure	Old Dark House	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+karlson film	Tight Spot	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+karlsruhe attraction	Karlsruher Congress Centre	4	1	5	2	NULL	NULL	NULL	4	1	0.8
+karlsruhe attraction	Wildparkstadion	1	1	5	2	NULL	NULL	NULL	1	1	0.2
+karma	thievery	1	1	2	2	0.500000000000	NULL	NULL	24	18	0.020833333333333332
+karma	murder	1	1	2	2	0.500000000000	NULL	NULL	4751	769	0.00010524100189433803
+karma guilty pleasure	Dlisted	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+karma use-fulfor application	database	1	1	1	1	NULL	NULL	NULL	2989	1163	0.00033456005352960856
+karma's signature cocktail	Sweet Revenge	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+karma's signature cocktail	Purple Haze	1	1	2	2	1.000000000000	NULL	NULL	34	25	0.014705882352941176
+karmapa intensive mahamudra teaching	very special secret teachings of Mahamudra	1	1	1	1	NULL	NULL	NULL	1	1	1
+Karmapas	12th Tai Situ Rinpoche	1	1	1	1	NULL	NULL	NULL	1	1	1
+karmi holiday	Fourth of July	1	1	3	3	NULL	NULL	NULL	275	82	0.0012121212121212121
+karmi holiday	Christmas	1	1	3	3	NULL	NULL	NULL	5020	1005	0.00006640106241699867
+karmi holiday	Easter	1	1	3	3	NULL	NULL	NULL	1981	471	0.00016826518593303044
+karmic and related factor	birth circumstance	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+karmic duty	cooking	1	1	2	2	NULL	NULL	NULL	5018	1453	0.00009964129135113592
+karmic duty	cleaning	1	1	2	2	NULL	NULL	NULL	4484	1538	0.00011150758251561107
+karmic effect	Agami	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+karmic healing technique	Reiki	1	1	1	1	NULL	NULL	NULL	1525	477	0.0006557377049180328
+karmic illness	AIDS	1	1	1	1	NULL	NULL	NULL	2841	648	0.00035198873636043646
+karmic opportunity	saving innocents from thug	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+karmic, irrational state	fear	1	1	1	1	NULL	NULL	NULL	5762	1341	0.00017355085039916696
+karmically neutral state	concentration	1	1	1	1	NULL	NULL	NULL	1289	451	0.0007757951900698216
+karmin flat iron	Karmin G3 Salon Pro Tourmaline Ceramic Flat Iron	1	1	1	1	NULL	NULL	NULL	1	1	1
+Karnal bunt laboratory	Arizona Department of Agriculture's Karnal bunt laboratory in Phoenix	1	1	1	1	NULL	NULL	NULL	1	1	1
+karnataka airport	Belgaum	1	1	3	3	0.800000000000	NULL	NULL	13	10	0.02564102564102564
+karnataka airport	Hubli	1	1	3	3	0.800000000000	NULL	NULL	14	9	0.023809523809523808
+karnataka airport	Mangalore	1	1	3	3	0.800000000000	NULL	NULL	34	16	0.00980392156862745
+karnataka government's various initiative	fiscal incentive	1	1	2	2	1.000000000000	NULL	NULL	33	20	0.015151515151515152
+karnataka government's various initiative	biotech policy	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+karnataka player	D. Ganesh	1	1	1	1	NULL	NULL	NULL	1	1	1
+karnatakan specialty	spice	1	1	1	1	NULL	NULL	NULL	2055	721	0.00048661800486618007
+karneval staple	Viva Colonia	1	1	1	1	NULL	NULL	NULL	1	1	1
+Karok content	Dream Follower	1	1	1	1	NULL	NULL	NULL	1	1	1
+karolyi favor olympic vet	Dominique Moceanu	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+karolyi favor olympic vet	Dominique Dawes	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+karolyi favor olympic vet	Shannon Miller	1	1	3	3	1.000000000000	NULL	NULL	10	9	0.03333333333333333
+karons stock label	Sophie Kyron Jewellery	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karons stock label	Magali Pascal	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+karons stock label	Seriously Twisted Jewellery	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karons stock label	Boo Radley	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+karoo bird	White-throated Canary	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+karoo bird	Yellow Canary	2	2	10	5	NULL	NULL	NULL	4	3	0.1
+karoo bird	Karoo Scrub-Robin	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+karoo bird	Agulhas Long-billed Lark	2	2	10	5	NULL	NULL	NULL	3	2	0.13333333333333333
+karoo bird	Red-capped Lark	2	2	10	5	NULL	NULL	NULL	3	2	0.13333333333333333
+karoo property	historical house	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+karoo town	Graaff-Reinet	1	1	3	3	0.333333333333	NULL	NULL	11	6	0.0303030303030303
+karoo town	Ashton	1	1	3	3	0.333333333333	NULL	NULL	39	26	0.008547008547008546
+karoo town	Robertson	1	1	3	3	0.333333333333	NULL	NULL	74	50	0.0045045045045045045
+karoon industrial unit	steel	2	2	10	5	NULL	NULL	NULL	7816	1994	0.0000511770726714432
+karoon industrial unit	paper mill	2	2	10	5	NULL	NULL	NULL	215	90	0.0018604651162790699
+karoon industrial unit	paint making	2	2	10	5	NULL	NULL	NULL	5	3	0.08
+karoon industrial unit	agriculture	2	2	10	5	NULL	NULL	NULL	6485	1582	0.00006168080185042406
+karoon industrial unit	piping	2	2	10	5	NULL	NULL	NULL	483	259	0.0008281573498964803
+karpal's loyalist	assemblymen Rayer	2	2	2	1	NULL	NULL	NULL	2	1	1
+Karpas-Greens	parsley	1	1	1	1	NULL	NULL	NULL	2759	570	0.0003624501631025734
+karr feature	narrow neck	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+karroid element	Chrysocoma ciliata	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karroid element	Pentzia incana	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Karroid species	Bitterbush Chrysocoma ciliata	1	1	1	1	NULL	NULL	NULL	1	1	1
+Karst A carbonate-based bedrock	limestone	1	1	1	1	NULL	NULL	NULL	2198	747	0.00045495905368516835
+karst aquifer	Barton Springs aquifer	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+karst aquifer	Edwards Aquifer	1	1	4	4	1.000000000000	NULL	NULL	10	9	0.025
+karst aquifer	Edwards Aquifer in Texas	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+karst aquifer	Edwards-Trinity Aquifer	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+karst aquifer groundwater system	Edwards aquifer of Central Texas	1	1	1	1	NULL	NULL	NULL	1	1	1
+karst aquifer system	Upper Floridan aquifer	1	1	1	1	NULL	NULL	NULL	1	1	1
+karst area	southern	1	1	4	4	NULL	NULL	NULL	113	56	0.0022123893805309734
+karst area	Page County	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+karst area	eastern Edmonson County	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+karst area	Hardin County	1	1	4	4	NULL	NULL	NULL	8	3	0.03125
+karst butterfly species	False Grayling	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+karst butterfly species	Gatekeeper	1	1	2	2	NULL	NULL	NULL	50	29	0.01
+karst cave	Qianlong Cave in Baoting County	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karst cave	spectacular karst cave	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+karst cave	well-known Luobi Cave in Sanya	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karst cave	Huangdi Cave in Changjiang County	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+karst cave	limestone karst cave	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+karst cave system	Carlsbad Caverns in New Mexico	1	1	1	1	NULL	NULL	NULL	7	4	0.14285714285714285
+karst creation	specific hydrological network	1	1	1	1	NULL	NULL	NULL	1	1	1
+karst development parameter	local relief	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+karst drainage feature	spring	1	1	3	3	NULL	NULL	NULL	2397	949	0.00013906271728549575
+karst drainage feature	cave	1	1	3	3	NULL	NULL	NULL	821	390	0.0004060089321965083
+karst drainage feature	sinkhole	1	1	3	3	NULL	NULL	NULL	275	101	0.0012121212121212121
+karst environment	deep	1	1	3	3	0.666666666666	NULL	NULL	138	80	0.0024154589371980675
+karst environment	Big Spring	1	1	3	3	0.666666666666	NULL	NULL	73	34	0.0045662100456621
+karst environment	Yucatan Peninsula	1	1	3	3	0.666666666666	NULL	NULL	11	10	0.0303030303030303
+karst feature	sinkhole	97	71	289	57	0.714285714285	NULL	NULL	275	101	0.1183894306385656
+karst feature	cave	52	37	289	57	0.714285714285	NULL	NULL	821	390	0.011396347605460471
+karst feature	spring	48	38	289	57	0.714285714285	NULL	NULL	2397	949	0.0033259567539008533
+karst feature	losing stream	13	13	289	57	0.714285714285	NULL	NULL	16	4	0.0365484429065744
+karst feature	sinking stream	8	6	289	57	0.714285714285	NULL	NULL	19	7	0.01165543616827536
+karst feature	cavern	5	5	289	57	0.714285714285	NULL	NULL	71	48	0.0012183829621326577
+karst feature	conduit	4	2	289	57	0.714285714285	NULL	NULL	341	206	0.00016235578240266264
+karst feature	sink	3	3	289	57	0.714285714285	NULL	NULL	1210	463	0.000025737081414967542
+karst feature	disappearing stream	3	1	289	57	0.714285714285	NULL	NULL	9	7	0.003460207612456747
+karst feature	spring s	3	3	289	57	0.714285714285	NULL	NULL	4	2	0.007785467128027681
+karst feature	underground stream	2	2	289	57	0.714285714285	NULL	NULL	7	6	0.0019772614928324273
+karst feature	exposed bedrock	2	1	289	57	0.714285714285	NULL	NULL	8	7	0.0017301038062283738
+karst feature	swales	2	1	289	57	0.714285714285	NULL	NULL	318	183	0.000043524624056059716
+karst feature	karren	2	2	289	57	0.714285714285	NULL	NULL	8	7	0.0017301038062283738
+karst feature	stream sink	2	2	289	57	0.714285714285	NULL	NULL	2	1	0.006920415224913495
+karst feature	pinnacle	2	2	289	57	0.714285714285	NULL	NULL	151	88	0.00009166112880680126
+karst feature	subterranean karst feature	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	subsurface cavity	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	solution groove	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	closed depression	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	closed-basin depression	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	Ames Sink	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	arch	1	1	289	57	0.714285714285	NULL	NULL	562	290	0.000006156953047076063
+karst feature	open	1	1	289	57	0.714285714285	NULL	NULL	544	300	0.00000636067575819255
+karst feature	small sinkhole	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	underground channel	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	estevelles	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	fracture trace	1	1	289	57	0.714285714285	NULL	NULL	3	3	0.0011534025374855825
+karst feature	blind valley	1	1	289	57	0.714285714285	NULL	NULL	5	3	0.0006920415224913495
+karst feature	karst window	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	solution-enhanced fracture	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	Wakulla Springs system	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	vertical solution pipe	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	9 losing stream	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	turlough	1	1	289	57	0.714285714285	NULL	NULL	4	4	0.0008650519031141869
+karst feature	groundwater-sapped valley	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	karst cave	1	1	289	57	0.714285714285	NULL	NULL	4	4	0.0008650519031141869
+karst feature	lineament	1	1	289	57	0.714285714285	NULL	NULL	19	15	0.0001821161901293025
+karst feature	fracture	1	1	289	57	0.714285714285	NULL	NULL	1329	474	0.0000026036174661074097
+karst feature	ravel zone	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	preferential flow along fracture	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	natural tunnel	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	solution-widened joint	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	solution channel	1	1	289	57	0.714285714285	NULL	NULL	3	3	0.0011534025374855825
+karst feature	solution-enlarged fracture	1	1	289	57	0.714285714285	NULL	NULL	3	3	0.0011534025374855825
+karst feature	solution cavity	1	1	289	57	0.714285714285	NULL	NULL	6	6	0.0005767012687427913
+karst feature	closed sinkhole	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	doline sink	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	dry valley	1	1	289	57	0.714285714285	NULL	NULL	7	5	0.0004943153732081068
+karst feature	breccias	1	1	289	57	0.714285714285	NULL	NULL	16	13	0.00021626297577854672
+karst feature	losing stream s	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	losing reaches of stream	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	marked karst feature	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	Page-Ladson site	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	Nash Draw	1	1	289	57	0.714285714285	NULL	NULL	1	1	0.0034602076124567475
+karst feature	natural karst feature	1	1	289	57	0.714285714285	NULL	NULL	2	2	0.0017301038062283738
+karst feature	sink hole	1	1	289	57	0.714285714285	NULL	NULL	25	22	0.0001384083044982699
+karst form	cave	2	2	6	5	NULL	NULL	NULL	821	390	0.0008120178643930166
+karst form	surface karst form	1	1	6	5	NULL	NULL	NULL	2	2	0.08333333333333333
+karst form	valley	1	1	6	5	NULL	NULL	NULL	416	208	0.00040064102564102563
+karst form	karst sinkhole	1	1	6	5	NULL	NULL	NULL	2	2	0.08333333333333333
+karst form	crater	1	1	6	5	NULL	NULL	NULL	148	66	0.0011261261261261261
+karst formation	cave	2	2	7	6	NULL	NULL	NULL	821	390	0.0006960153123368713
+karst formation	travertine	1	1	7	6	NULL	NULL	NULL	419	164	0.00034094783498124785
+karst formation	sinkhole	1	1	7	6	NULL	NULL	NULL	275	101	0.0005194805194805195
+karst formation	Rabish Cave	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+karst formation	holes like Biserujka near Dobrinj	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+karst formation	stalactite	1	1	7	6	NULL	NULL	NULL	107	46	0.0013351134846461949
+karst hydrological feature	caves containing stream	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+karst hydrological feature	sinking stream	1	1	2	2	1.000000000000	NULL	NULL	19	7	0.02631578947368421
+Karst landforms	sinkhole	4	3	7	4	0.500000000000	NULL	NULL	275	101	0.008311688311688312
+Karst landforms	cave	1	1	7	4	0.500000000000	NULL	NULL	821	390	0.00017400382808421784
+karst landforms	classic surface karst landforms	1	1	7	4	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+Karst landforms	disappearing stream	1	1	7	4	0.500000000000	NULL	NULL	9	7	0.015873015873015872
+karst landscape	doline plain	3	2	3	1	NULL	NULL	NULL	3	1	1
+karst map	Engineering Aspects of Karst	3	2	6	4	NULL	NULL	NULL	3	1	0.5
+karst map	Scale 1:7,50Q,000	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+karst map	Map No. 38077-AW-NA-07M-00	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+karst map	produced by the USGS15	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+karst phenomenon	cave	2	2	8	7	NULL	NULL	NULL	821	390	0.0006090133982947625
+karst phenomenon	sinkhole	1	1	8	7	NULL	NULL	NULL	275	101	0.00045454545454545455
+karst phenomenon	small canyon-like valley	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+karst phenomenon	window	1	1	8	7	NULL	NULL	NULL	4545	1712	0.000027502750275027502
+karst phenomenon	Anakopian Caverns	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+karst phenomenon	Caves of Abrskil	1	1	8	7	NULL	NULL	NULL	1	1	0.125
+karst phenomenon	cavern	1	1	8	7	NULL	NULL	NULL	71	48	0.0017605633802816902
+karst region	North Fork Watershed	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karst region	Eleven Point River Watershed	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karst river	Krka River	1	1	1	1	NULL	NULL	NULL	1	1	1
+karst rock	gypsum	2	2	4	2	0.500000000000	NULL	NULL	857	338	0.0011668611435239206
+karst rock	anhydrite	2	2	4	2	0.500000000000	NULL	NULL	61	30	0.01639344262295082
+karst spring	Waikoropupu Springs	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+karst spring	Jacob's Well	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+karst system	Mammoth Cave Watershed	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+karst system	South-Central Kentucky karst ecosystem	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+karst terrain feature	spring	1	1	3	3	NULL	NULL	NULL	2397	949	0.00013906271728549575
+karst terrain feature	cave	1	1	3	3	NULL	NULL	NULL	821	390	0.0004060089321965083
+karst terrain feature	sinkhole	1	1	3	3	NULL	NULL	NULL	275	101	0.0012121212121212121
+karst-like feature	cave	1	1	2	2	NULL	NULL	NULL	821	390	0.0006090133982947625
+karst-like feature	enclosed depression	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karsted area	Edwards Aquifer	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+karstic feature	spring	2	2	19	17	0.545454545454	NULL	NULL	2397	949	0.00008782908460136574
+karstic feature	sinkhole	2	2	19	17	0.545454545454	NULL	NULL	275	101	0.0007655502392344497
+karstic feature	limestone cave	1	1	19	17	0.545454545454	NULL	NULL	11	10	0.004784688995215311
+karstic feature	grotto	1	1	19	17	0.545454545454	NULL	NULL	52	39	0.0010121457489878543
+karstic feature	cave	1	1	19	17	0.545454545454	NULL	NULL	821	390	0.00006410667350471184
+karstic feature	karren	1	1	19	17	0.545454545454	NULL	NULL	8	7	0.006578947368421052
+karstic feature	collapse feature	1	1	19	17	0.545454545454	NULL	NULL	1	1	0.05263157894736842
+karstic feature	developed karstic feature	1	1	19	17	0.545454545454	NULL	NULL	2	2	0.02631578947368421
+karstic feature	sinking stream	1	1	19	17	0.545454545454	NULL	NULL	19	7	0.002770083102493075
+karstic feature	subterranean river	1	1	19	17	0.545454545454	NULL	NULL	2	2	0.02631578947368421
+karstic feature	cover collapse sinkhole	1	1	19	17	0.545454545454	NULL	NULL	1	1	0.05263157894736842
+karstic feature	natural tunnel	1	1	19	17	0.545454545454	NULL	NULL	2	2	0.02631578947368421
+karstic feature	bridge	1	1	19	17	0.545454545454	NULL	NULL	5081	2007	0.000010358507960513366
+karstic feature	breccias	1	1	19	17	0.545454545454	NULL	NULL	16	13	0.003289473684210526
+karstic feature	disappearing stream	1	1	19	17	0.545454545454	NULL	NULL	9	7	0.005847953216374269
+karstic feature	collapse sink	1	1	19	17	0.545454545454	NULL	NULL	1	1	0.05263157894736842
+karstic feature	sink hole	1	1	19	17	0.545454545454	NULL	NULL	25	22	0.002105263157894737
+karstic form	dead cave	1	1	1	1	NULL	NULL	NULL	1	1	1
+karstic format ion	groove	1	1	2	2	0.500000000000	NULL	NULL	306	198	0.0016339869281045752
+karstic format ion	limestone pavement	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+karstic formation	cave	1	1	1	1	NULL	NULL	NULL	821	390	0.001218026796589525
+karstic geomorphological feature	karstic field	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karstic geomorphological feature	cave	1	1	2	2	NULL	NULL	NULL	821	390	0.0006090133982947625
+karstic heterogeneity	dissolution cavity	1	1	1	1	NULL	NULL	NULL	1	1	1
+karstic hole	Figueira Brava Cave	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karstic hole	Lapade Santa Margarida	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karstic land form	doline	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+karstic land form	uvala	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karstic land form	polje	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+karstic landforms	sinkhole	1	1	1	1	NULL	NULL	NULL	275	101	0.0036363636363636364
+karstic process	brecciation	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+karstic process	dissolution	1	1	2	2	0.500000000000	NULL	NULL	199	100	0.002512562814070352
+karstic system	cave	1	1	1	1	NULL	NULL	NULL	821	390	0.001218026796589525
+karstic terrain	found in Lebanon	1	1	1	1	NULL	NULL	NULL	1	1	1
+karstified aquifer	Carboniferous Limestone of the Mendip Hills	1	1	1	1	NULL	NULL	NULL	1	1	1
+karsts	Hatchet Bay Cave	1	1	1	1	NULL	NULL	NULL	1	1	1
+karsts feature	spring	1	1	4	4	NULL	NULL	NULL	2397	949	0.00010429703796412182
+karsts feature	limestone	1	1	4	4	NULL	NULL	NULL	2198	747	0.00011373976342129209
+karsts feature	cave	1	1	4	4	NULL	NULL	NULL	821	390	0.0003045066991473812
+karsts feature	sinkhole	1	1	4	4	NULL	NULL	NULL	275	101	0.0009090909090909091
+kart	Toad's Mushroom	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kart	Yoshi's Egg	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kart	Bowser's Tyrant	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kart ability	taking to the sky	1	1	1	1	NULL	NULL	NULL	1	1	1
+kart accessory	throttle table clamp	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kart accessory	pillow block	1	1	2	2	1.000000000000	NULL	NULL	29	18	0.017241379310344827
+kart component	suspension	1	1	2	2	NULL	NULL	NULL	1289	523	0.0003878975950349108
+kart component	rear shaft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kart game	tag-team Go Karts	1	1	1	1	NULL	NULL	NULL	1	1	1
+kart part	tire	3	3	9	8	NULL	NULL	NULL	2102	655	0.0004757373929590866
+kart part	chain	2	2	9	8	NULL	NULL	NULL	1383	618	0.00032136257732787014
+kart part	clutch	1	1	9	8	NULL	NULL	NULL	780	245	0.00014245014245014244
+kart part	steering wheel	1	1	9	8	NULL	NULL	NULL	393	199	0.0002827254735651682
+kart part	hub	1	1	9	8	NULL	NULL	NULL	763	310	0.000145623998835008
+kart part	motor	1	1	9	8	NULL	NULL	NULL	2780	997	0.00003996802557953637
+kart racer	Diddy Kong Racing	3	3	3	1	1.000000000000	NULL	NULL	13	6	0.23076923076923078
+kart racing game	Super Mario Kart	1	1	2	2	0.500000000000	NULL	NULL	21	13	0.023809523809523808
+kart racing game	Mario Kart	1	1	2	2	0.500000000000	NULL	NULL	162	65	0.0030864197530864196
+kart racing trope	power-ups	1	1	1	1	1.000000000000	NULL	NULL	36	25	0.027777777777777776
+kart related offer	ATV	1	1	3	3	NULL	NULL	NULL	105	94	0.0031746031746031746
+kart related offer	Buggy Go Kart	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+kart related offer	Quad	1	1	3	3	NULL	NULL	NULL	155	110	0.002150537634408602
+Kartels	Rhenish Steel Syndicate	1	1	1	1	NULL	NULL	NULL	1	1	1
+karting association	WKA	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+karting association	Stars of Karting	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+karting association	TAG USA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karting game	Go Kart Go & Kart Racing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karting game	Kart Fighter & Go Kart Go	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karting school	Bondurant	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+karting school	JHRII for starter	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+karuna fund organization	Bahujan Hitay	1	1	1	1	NULL	NULL	NULL	1	1	1
+karuna fund project	educational hostel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karuna fund project	slum kindergarten	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+karya titan's world class partner	Bechtel	1	1	2	2	NULL	NULL	NULL	224	98	0.002232142857142857
+karya titan's world class partner	Ballast Nedam	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+karyn tribute singer	Patsy Cline	1	1	1	1	NULL	NULL	NULL	97	47	0.010309278350515464
+karyological datum	long arm	2	1	4	2	1.000000000000	NULL	NULL	16	9	0.0625
+karyological datum	short arm	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+karyometric datum	nuclear signature	1	1	1	1	NULL	NULL	NULL	1	1	1
+karyotype abnormality	Turner syndrome	3	3	3	1	0.500000000000	NULL	NULL	83	40	0.03614457831325301
+karyotype asymmetry index	total form percentage	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karyotype asymmetry index	Romero-Zarco's index	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karyotype asymmetry index	symmetry index	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+karyotype feature	chromosome size	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+karyotype feature	secondary constriction	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+karyotype feature	variation in the decreasing order of long arm length	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+karyotypes	Y0	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+karyotypic abnormality	Klinefelter's syndrome	2	2	9	7	0.750000000000	NULL	NULL	66	30	0.006734006734006734
+karyotypic abnormality	balanced translocations	2	2	9	7	0.750000000000	NULL	NULL	7	5	0.06349206349206349
+karyotypic abnormality	chromosomal mosaicism	1	1	9	7	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+karyotypic abnormality	deletion of chromosome 5q	1	1	9	7	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+karyotypic abnormality	trisomy 18	1	1	9	7	0.750000000000	NULL	NULL	43	23	0.0025839793281653744
+karyotypic abnormality	trisomy 13	1	1	9	7	0.750000000000	NULL	NULL	38	24	0.0029239766081871343
+karyotypic abnormality	Turner syndrome	1	1	9	7	0.750000000000	NULL	NULL	83	40	0.0013386880856760374
+karyotypic alteration	deletion	2	1	4	2	NULL	NULL	NULL	695	333	0.0014388489208633094
+karyotypic alteration	translocations	2	1	4	2	NULL	NULL	NULL	222	115	0.0045045045045045045
+karyotypic change	MLL	1	1	1	1	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+karzai's critic	lawmaker Kabir Ranjbar	1	1	1	1	NULL	NULL	NULL	1	1	1
+karzai's potential opponent	Jamaat-e-Islami	2	1	2	1	1.000000000000	NULL	NULL	44	28	0.045454545454545456
+Karzai-style Iraqi puppet	Chalabi	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+KAS bank's added-value service	institutional risk management	1	1	1	1	NULL	NULL	NULL	1	1	1
+KASA change	increased knowledge	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+KASB standards-setting activity	reviewing KASB's EDs	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kasbahs	Ait Ben Haddou	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+kasco aeration product	Aerating Fountains	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kasco aeration product	Pond Aerators	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kasemake machinery	KM Table Cutting Machine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kasemake machinery	Packing Design Software	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kasey kahne NASCAR race-day supply	race-day chair	1	1	4	4	0.500000000000	NULL	NULL	9	9	0.027777777777777776
+kasey kahne NASCAR race-day supply	tent	1	1	4	4	0.500000000000	NULL	NULL	1217	440	0.00020542317173377156
+kasey kahne NASCAR race-day supply	cooler	1	1	4	4	0.500000000000	NULL	NULL	341	165	0.0007331378299120235
+kasey kahne NASCAR race-day supply	platers	1	1	4	4	0.500000000000	NULL	NULL	14	14	0.017857142857142856
+kasha partner international publisher	Springer-Verlag	1	1	7	7	1.000000000000	NULL	NULL	5	3	0.02857142857142857
+kasha partner international publisher	Karger Libri	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+kasha partner international publisher	Kluwer	1	1	7	7	1.000000000000	NULL	NULL	13	10	0.010989010989010988
+kasha partner international publisher	Marshall Cavendish	1	1	7	7	1.000000000000	NULL	NULL	6	5	0.023809523809523808
+kasha partner international publisher	Express Publishing Hesperus Press	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+kasha partner international publisher	Martin Books	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+kasha partner international publisher	UN Publications	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+kashayas	anger	1	1	4	4	NULL	NULL	NULL	7439	1466	0.00003360666756284447
+kashayas	Vidaryadi	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kashayas	Indukantham	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kashayas	Rasnadi	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kashi associate	Judy Martin	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kashi cereal	Toasted Berry Crumble	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashi cereal & cracker item	Kashi Cereal Puffs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kashi cereal & cracker item	Kashi TLC Cereal Bars	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kashi cereal & cracker item	Kashi TLC Snack Cracker	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kashmir group's idea	regional self-governance	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmir handicraft	carpet	1	1	1	1	NULL	NULL	NULL	3397	1059	0.00029437739181630853
+kashmir handicraft item	chainstitch	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmir handicraft product	Paper Mashay	1	1	4	6	NULL	NULL	NULL	1	1	0.25
+kashmir handicraft product	Suede & Leather	1	1	4	6	NULL	NULL	NULL	1	1	0.25
+kashmir handicraft product	Rugs made of silk	1	1	4	6	NULL	NULL	NULL	1	1	0.25
+kashmir handicraft product	wool	1	1	4	6	NULL	NULL	NULL	3859	1003	0.0000647836227001814
+kashmir's best writer	Harikrishan Kaul	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmir-focused group	Hizb-ul Mujahideen	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kashmir-focused group	Lashkar-e-Taiba	1	1	2	2	1.000000000000	NULL	NULL	82	37	0.006097560975609756
+kashmiri artist	Bhat	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+kashmiri artist	Kaul	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+kashmiri artist	calligrapher Muhammad Husayn Kashmiri	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kashmiri artist	Somnath	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+kashmiri dish	tabak maaz	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kashmiri dish	rogan josh	1	1	2	2	1.000000000000	NULL	NULL	34	22	0.014705882352941176
+kashmiri ethnic group	Hizb-ul-Mujahideen	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kashmiri family title	Pare	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+kashmiri family title	Magre	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kashmiri family title	Dand	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+kashmiri good	carpet	1	1	2	2	NULL	NULL	NULL	3397	1059	0.00014718869590815426
+kashmiri good	embroidered cloth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kashmiri group	Jaish-e-Mohammed	1	1	1	1	1.000000000000	NULL	NULL	22	14	0.045454545454545456
+kashmiri guerrilla group	Army of the Pure	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmiri handicraft	carpet	1	1	5	5	0.250000000000	NULL	NULL	3397	1059	0.0000588754783632617
+kashmiri handicraft	scarf	1	1	5	5	0.250000000000	NULL	NULL	2821	751	0.00007089684509039348
+kashmiri handicraft	Kashmiri Apricots	1	1	5	5	0.250000000000	NULL	NULL	1	1	0.2
+kashmiri handicraft	kurtas	1	1	5	5	0.250000000000	NULL	NULL	10	8	0.02
+kashmiri handicraft	shawl	1	1	5	5	0.250000000000	NULL	NULL	301	145	0.000664451827242525
+Kashmiri Hindu Rishis	Vasugupta	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmiri muslim leader	Mirwaiz Omar a religious leader	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmiri pandit organization	Indo-American Kashmir Forum	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmiri politician	late Abdul Ghani Lone	1	1	1	1	NULL	NULL	NULL	1	1	1
+kashmiri ruler	Sultan Zain-ul-Abidin	14	12	14	1	NULL	NULL	NULL	14	1	1
+kashmiri scholar	Pandit Krishna Bhatta	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri scholar	Pandit Krishan Bhat	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri scholar	Pandit Sahib Ram	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri scholar	Pandit Sahibram	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri scholar	Pandit Balabhadara Kaka	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri scholar	Pandit Balbhadra	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri shawl	embroidered Kashmiri shawl	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+kashmiri shawl	designer kashmiri shawl	1	1	6	5	NULL	NULL	NULL	2	2	0.08333333333333333
+kashmiri shawl	printed kashmiri shawl	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri shawl	colored kashmiri shawl	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri shawl	stylish kashmiri shawl	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+kashmiri terrorist group	Jaish-e-Mohammed	2	2	4	2	1.000000000000	NULL	NULL	22	14	0.045454545454545456
+kashmiri terrorist group	Lashkar-e-Taiba	2	2	4	2	1.000000000000	NULL	NULL	82	37	0.012195121951219513
+kashmiri writer	Abdul Sattar Ranjoor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kashmiris	Lone	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+kashrut organization	OU	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+kasmin's regular artist	Frankenthaler	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+kasmin's regular artist	Noland	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+kaspersky component	Firewall	1	1	1	1	NULL	NULL	NULL	2973	1055	0.0003363605785401951
+kasperskys feature	virtual keyboard	1	1	1	1	1.000000000000	NULL	NULL	21	14	0.047619047619047616
+kassel attraction	Schloss Orangerie	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kassiots	Markos Maliarakis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kassiots	Hatzinikolas Makris	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kassiots	Theodoros Kantartzis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kassite kind name	Khara Khandash	1	1	1	1	NULL	NULL	NULL	1	1	1
+kassoy's top-selling supply	gemological microscope	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kassoy's top-selling supply	Kassoy line of loupes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kastom activity	presentation of the malanggan carving	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kastom activity	orchestrated performance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kastrup attraction	Bella Center	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kasumi method	Hattori KD	1	1	1	1	NULL	NULL	NULL	1	1	1
+KAT patron	Gene Branch	1	1	1	1	NULL	NULL	NULL	1	1	1
+KAT percussion MIDI controller	drumkat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KAT percussion MIDI controller	malletkat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kata	Heian Nidan	2	2	24	19	0.500000000000	NULL	NULL	2	1	0.08333333333333333
+kata	Sochin	2	2	24	19	0.500000000000	NULL	NULL	3	2	0.05555555555555555
+kata	Nijushiho	2	2	24	19	0.500000000000	NULL	NULL	2	1	0.08333333333333333
+kata	Heian Shodan	2	2	24	19	0.500000000000	NULL	NULL	2	1	0.08333333333333333
+kata	Kanku Dai	2	2	24	19	0.500000000000	NULL	NULL	3	2	0.05555555555555555
+kata	Gojushiho Dai	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	tea cerimony	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	slashing with a halberd	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Akahachi no eku	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Juji no Kata	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	niseishi	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Naihanchin	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Bassai	1	1	24	19	0.500000000000	NULL	NULL	5	4	0.008333333333333333
+kata	Jion	1	1	24	19	0.500000000000	NULL	NULL	4	3	0.010416666666666666
+kata	Kime no Kata	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Bassai Dai	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	thrusting with a sword	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Taikyoku Sono Ich	1	1	24	19	0.500000000000	NULL	NULL	1	1	0.041666666666666664
+kata	Sanchin	1	1	24	19	0.500000000000	NULL	NULL	8	7	0.005208333333333333
+Katadyn Drip filter	Katadyn TRK Drip Gravidyn Gravity Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+Katadyn Micropurtablets ora purification treatment	MSRMIOX Water Purifier	1	1	1	1	NULL	NULL	NULL	1	1	1
+katadyn water filter	Hiker pro	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+KATALCO JM PERFORMANCE service	Asset Life Study	1	1	1	1	NULL	NULL	NULL	1	1	1
+katapa activity	child-care	1	1	4	5	NULL	NULL	NULL	61	40	0.004098360655737705
+katapa activity	domestic	1	1	4	5	NULL	NULL	NULL	178	99	0.0014044943820224719
+katapa activity	sleep	1	1	4	5	NULL	NULL	NULL	988	448	0.00025303643724696357
+katapa activity	recreation	1	1	4	5	NULL	NULL	NULL	1586	619	0.00015762925598991173
+katarista leader	Genaro Flores	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Katas	Hangetsu	2	2	6	4	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+Katas	Sanchin	2	2	6	4	1.000000000000	NULL	NULL	8	7	0.08333333333333333
+Katas	Sei San	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+Katas	Hama Higa No Tonfa	1	1	6	4	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kate career choice caruso	dealing with a bullying boss	1	1	1	1	NULL	NULL	NULL	1	1	1
+kate kearins operator	Air New Zealand	1	1	2	2	NULL	NULL	NULL	152	40	0.003289473684210526
+kate kearins operator	Tourism New Zealand	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+Kate Mo Edwards Ancient peoples	Druids	1	1	1	1	NULL	NULL	NULL	32	27	0.03125
+Kate Moss Supermodels	Naomi Campbell	1	1	2	2	NULL	NULL	NULL	264	86	0.001893939393939394
+Kate Moss Supermodels	Kate Moss	1	1	2	2	NULL	NULL	NULL	538	163	0.0009293680297397769
+kate mosse book	motion capture rotoscoping technique	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kate mosse book	project's conceptual drawing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kate savage rubber product	diaper	1	1	7	7	0.142857142857	NULL	NULL	2004	494	0.000071285999429712
+kate savage rubber product	condom	1	1	7	7	0.142857142857	NULL	NULL	1571	460	0.0000909338910611985
+kate savage rubber product	adhesive tape	1	1	7	7	0.142857142857	NULL	NULL	193	120	0.0007401924500370096
+kate savage rubber product	rubber band	1	1	7	7	0.142857142857	NULL	NULL	399	177	0.0003580379520229144
+kate savage rubber product	bandage	1	1	7	7	0.142857142857	NULL	NULL	728	293	0.00019623233908948193
+kate savage rubber product	balloon	1	1	7	7	0.142857142857	NULL	NULL	1326	563	0.00010773540185304891
+kate savage rubber product	inflatable toy	1	1	7	7	0.142857142857	NULL	NULL	75	59	0.0019047619047619048
+kate spade item	handbag	2	2	6	5	0.200000000000	NULL	NULL	1919	540	0.0003474031613687684
+kate spade item	shoe	1	1	6	5	0.200000000000	NULL	NULL	4445	1269	0.00003749531308586427
+kate spade item	clothing	1	1	6	5	0.200000000000	NULL	NULL	9665	2540	0.00001724435247456458
+kate spade item	home product	1	1	6	5	0.200000000000	NULL	NULL	73	17	0.00228310502283105
+kate spade item	jewelry	1	1	6	5	0.200000000000	NULL	NULL	7848	1759	0.000021236833163438666
+Kate The Greats	Kate Hepburn & Cate Blanchett	1	1	1	1	NULL	NULL	NULL	1	1	1
+kate's older film	Cold Comfort Farm	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kate's song	Boy Blue	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+kate-american resort	Vail	1	1	1	1	NULL	NULL	NULL	215	103	0.004651162790697674
+katech's V8 performance part	valve spring	1	1	2	2	0.500000000000	NULL	NULL	39	26	0.01282051282051282
+katech's V8 performance part	retainer	1	1	2	2	0.500000000000	NULL	NULL	99	54	0.005050505050505051
+kath supporter	board member Faro Vitale	1	1	1	1	NULL	NULL	NULL	1	1	1
+katha expounder	Pandit Sharma	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kathak gharanas	Lucknow	1	1	2	2	0.333333333333	NULL	NULL	93	32	0.005376344086021506
+Kathak gharanas	Banaras	1	1	2	2	0.333333333333	NULL	NULL	7	7	0.07142857142857142
+kathakali musician	Venmani Haridas	1	1	1	1	NULL	NULL	NULL	1	1	1
+kathakali stalwart	Vazhenkada Kunju Nair	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kathakali stalwart	Kalamandalam Krishnan Nair	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kathakali-like element	scarlet-faced figure of divine retribution	1	1	1	1	NULL	NULL	NULL	1	1	1
+katharine hepburn's greatest film	African Queen	1	1	1	1	1.000000000000	NULL	NULL	20	17	0.05
+katharometer device	Alscan TCD	1	1	1	1	NULL	NULL	NULL	1	1	1
+Katherine Hepburn movie	hurricane	1	1	1	1	NULL	NULL	NULL	5730	1211	0.00017452006980802793
+kathiawar's state	Junagarh	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kathimerini cultural event	museum exhibition	1	1	3	3	0.666666666666	NULL	NULL	11	10	0.0303030303030303
+kathimerini cultural event	festival	1	1	3	3	0.666666666666	NULL	NULL	1534	510	0.00021729682746631898
+kathimerini cultural event	expo	1	1	3	3	0.666666666666	NULL	NULL	76	40	0.0043859649122807015
+kathleen everitt public sector union	teacher	1	1	2	2	NULL	NULL	NULL	4365	1382	0.0001145475372279496
+kathleen everitt public sector union	fire fighter	1	1	2	2	NULL	NULL	NULL	249	139	0.002008032128514056
+kathleen parker's column	snide diatribe on Sarah Palin's religion	1	1	1	1	NULL	NULL	NULL	1	1	1
+kathmandu activity	masked dancing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kathmandu attraction	Freak Street	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kathmandu attraction	Durbar Square	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+Kathmandu information	hospitals detail	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Kathmandu information	Kathmandu Police number	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Kathmandu information	blood bank	1	1	4	4	NULL	NULL	NULL	87	52	0.0028735632183908046
+Kathmandu information	fire station number	1	1	4	4	NULL	NULL	NULL	3	2	0.08333333333333333
+kathmandu station	Ujyalo 90 Network	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kathmandu station	Nepal FM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kathmandu-based institution	Social Science Baha	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kathy	phil's ex-wife kathy	1	1	1	1	NULL	NULL	NULL	1	1	1
+kathy ireland item	chair	1	1	3	5	NULL	NULL	NULL	3601	1244	0.00009256687957048968
+kathy ireland item	desk	1	1	3	5	NULL	NULL	NULL	1351	521	0.0002467308166790032
+kathy ireland item	bookcase	1	1	3	5	NULL	NULL	NULL	455	215	0.0007326007326007326
+Kathy piece	jewelry	1	1	1	1	NULL	NULL	NULL	7848	1759	0.00012742099898063202
+kathy reich's book	406 Bones	1	1	1	1	NULL	NULL	NULL	1	1	1
+kathy's theme idea	Sangria Sunday	1	1	1	1	NULL	NULL	NULL	1	1	1
+katia well offshore, indirect effect	higher surf	1	1	1	1	NULL	NULL	NULL	1	1	1
+katie also cook special order	pie	1	1	2	2	NULL	NULL	NULL	1329	484	0.0003762227238525207
+katie also cook special order	cake	1	1	2	2	NULL	NULL	NULL	4260	1150	0.00011737089201877934
+katie's daily special	all-you-can-eat catfish on Tuesdays	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+katie's daily special	two-for-one Italian on Thursdays	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+katie's kitchen lemon myrtle product	local organic Olive oil infused with the lemon Myrtle flavor	1	1	1	1	NULL	NULL	NULL	1	1	1
+katie's previous book	Crystal	1	1	2	2	NULL	NULL	NULL	1540	658	0.0003246753246753247
+katie's previous book	Angel	1	1	2	2	NULL	NULL	NULL	798	431	0.0006265664160401002
+katimavik document	presentation	1	1	2	2	0.333333333333	NULL	NULL	2118	886	0.00023607176581680832
+katimavik document	report	1	1	2	2	0.333333333333	NULL	NULL	2947	1093	0.00016966406515100103
+kation-alistic writer	grant	1	1	2	2	NULL	NULL	NULL	1315	525	0.00038022813688212925
+kation-alistic writer	Hitzig	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+katowice attraction	Silesian Planetarium	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+katowice attraction	International Katowice Fair	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KATP inhibitor	glibenclamide	1	1	1	1	NULL	NULL	NULL	87	37	0.011494252873563218
+katrin kunnapmajor city	London	1	1	4	4	NULL	NULL	NULL	4434	1064	0.00005638249887235002
+katrin kunnapmajor city	Zurich	1	1	4	4	NULL	NULL	NULL	348	128	0.0007183908045977011
+katrin kunnapmajor city	Paris	1	1	4	4	NULL	NULL	NULL	2463	715	0.00010150223304912708
+katrin kunnapmajor city	Geneva	1	1	4	4	NULL	NULL	NULL	278	116	0.0008992805755395684
+katrina arango's poetic piece	Bad Boi	1	1	1	1	NULL	NULL	NULL	1	1	1
+Katrina hurricane NGO	Center for Faith Based	1	1	1	1	NULL	NULL	NULL	1	1	1
+katrina kaif's last few film	Race	1	1	1	1	NULL	NULL	NULL	8280	1787	0.00012077294685990338
+katrina related issue	evacuation	1	1	3	3	0.333333333333	NULL	NULL	172	103	0.001937984496124031
+katrina related issue	housing	1	1	3	3	0.333333333333	NULL	NULL	6378	1909	0.000052262987352357055
+katrina related issue	redevelopment	1	1	3	3	0.333333333333	NULL	NULL	37	26	0.009009009009009009
+katrina-funded project	cottage village	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+katrina-funded project	parking garage	1	1	2	2	NULL	NULL	NULL	203	120	0.0024630541871921183
+katrina-inspired investment incentive	accelerated depreciation on new rental	1	1	1	1	NULL	NULL	NULL	1	1	1
+katschberg rennweg alpine chalet	Alpine Chalet	1	1	1	1	NULL	NULL	NULL	1	1	1
+kattankudy border village	New Kattankudy	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kattankudy's boarder village	New Kattankudy	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kattankudy's coastal village	New Kattankudy	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+katumani variety	Kat B9	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+katumani variety	Kat B1	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+katural phenomenon	long grm	1	1	1	1	NULL	NULL	NULL	1	1	1
+katutura informal settlement	Okahandja Park in shacks without power	1	1	1	1	NULL	NULL	NULL	1	1	1
+katy annually dominant and team	Alief Taylor improving	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+katy annually dominant and team	Cinco Ranch	1	1	3	3	1.000000000000	NULL	NULL	11	8	0.0303030303030303
+katy annually dominant and team	Katy Taylor	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+katy perry music video	Hot n Cold	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+katy perry with hit	I Kissed A Girl	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+katy song	Friday Night	1	1	1	1	0.500000000000	NULL	NULL	13	11	0.07692307692307693
+katydid	Conocephalus nigropleurum	1	1	1	1	NULL	NULL	NULL	1	1	1
+kat~ with program	New Hampshire Housing Finance Authority	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kauai activity	hiking	1	1	5	5	0.200000000000	NULL	NULL	9096	1522	0.00002198768689533861
+kauai activity	scuba diving	1	1	5	5	0.200000000000	NULL	NULL	2113	431	0.0000946521533364884
+kauai activity	hayride	1	1	5	5	0.200000000000	NULL	NULL	124	50	0.0016129032258064516
+kauai activity	kayaking	1	1	5	5	0.200000000000	NULL	NULL	3147	661	0.00006355258976803305
+kauai activity	rope swing	1	1	5	5	0.200000000000	NULL	NULL	15	10	0.013333333333333334
+kauai beach	Anahola	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+kauai beach	Poipu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kauai destination	Kilauea Lighthouse	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+kauai destination	Tunnels Beach	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+kauai destination	Bali Hai	1	1	5	5	1.000000000000	NULL	NULL	7	6	0.028571428571428574
+kauai destination	Hanalei Bay	1	1	5	5	1.000000000000	NULL	NULL	6	6	0.03333333333333333
+kauai destination	Secret Beach	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+kauai land tour	Fern Grotto Tour	1	1	1	1	NULL	NULL	NULL	1	1	1
+kauai landmark	Spouting Horn	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+kauai landmark	Queen's Bath	1	1	3	3	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+kauai landmark	Waimea Canyon	1	1	3	3	1.000000000000	NULL	NULL	15	10	0.02222222222222222
+kauai luau	Smiths Luau	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kauai luau	Smith's Family Luau in Kauai	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kauai luau	Drums of Paradise	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kauai luau	Hiva Pasefika	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kauai luau	Kauai Princeville Luau	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kauai luau	Princeville Resort	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+kauai timeshare option	sea-view residence in Pahio at the Shearwater	1	1	1	1	NULL	NULL	NULL	1	1	1
+kauai tour	Hiking	1	1	4	4	0.500000000000	NULL	NULL	9096	1522	0.000027484608619173264
+kauai tour	Kauai Sightseeing Tours	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+kauai tour	Kauai Helicopter Tours	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+kauai tour	eco tour	1	1	4	4	0.500000000000	NULL	NULL	17	14	0.014705882352941176
+kauai town	Koloa	1	1	1	1	NULL	NULL	NULL	1	1	1
+kauai vacation rental	condo	1	1	3	3	NULL	NULL	NULL	3736	199	0.00008922198429693076
+kauai vacation rental	beach front cottage	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kauai vacation rental	home	1	1	3	3	NULL	NULL	NULL	3273	1179	0.00010184336490477645
+kauai's natural resource	Napali Coast	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kauai's natural resource	Waimea Canyon	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+kaufenakkus.com tegra platform	Kal-El	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+kauffman's money fund project	Kansas Children's Campaign	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaufman's critic	STA's Mock	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaukapakapa resident	Jeff Cook	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kaumatua	late Kuki Rimene	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaumatua activity	line dancing	1	1	1	1	NULL	NULL	NULL	146	65	0.00684931506849315
+kaupapa M ori practise	te reo M ori	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaupapa M ori practise	use of tikanga	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kaurava elder	Bidura	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kaurava elder	Bhishma	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+kaurava general	Duryodhana	1	1	4	4	1.000000000000	NULL	NULL	8	6	0.03125
+kaurava general	Bhishma	1	1	4	4	1.000000000000	NULL	NULL	9	8	0.027777777777777776
+kaurava general	Drona	1	1	4	4	1.000000000000	NULL	NULL	12	9	0.020833333333333332
+kaurava general	Salya	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+kaurna name	Yankalilla	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kaurna name	Willunga	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+kaurna name	Aldinga	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+Kava by-products	leaf	1	1	2	2	NULL	NULL	NULL	4185	1340	0.00011947431302270011
+Kava by-products	peeling	1	1	2	2	NULL	NULL	NULL	174	83	0.0028735632183908046
+kavachart format	XPM	1	1	2	2	1.000000000000	NULL	NULL	14	9	0.03571428571428571
+kavachart format	XBM	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kavakonis design	Sumi-e Koi fish necklace	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kavalactones	kavain	1	1	1	1	NULL	NULL	NULL	1	1	1
+kavi application	Kavi Showcase	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kavo innovation	unique angular design	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kavo innovation	quiet operation	1	1	2	2	1.000000000000	NULL	NULL	29	16	0.017241379310344827
+kavveri's esteemed clienteleinclude industry giant	Airports Authority of India	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kavveri's esteemed clienteleinclude industry giant	Alcatel-Lucent	1	1	3	3	NULL	NULL	NULL	269	135	0.0012391573729863693
+kavveri's esteemed clienteleinclude industry giant	Airtel	1	1	3	3	NULL	NULL	NULL	262	113	0.0012722646310432569
+kAvyams	Sankalpa SuryOdhayam	2	2	2	1	NULL	NULL	NULL	2	1	1
+kavyas	Meghaduta	1	1	1	1	NULL	NULL	NULL	1	1	1
+kawa dealer	Corby Kawasaki about the size spec	1	1	1	1	NULL	NULL	NULL	1	1	1
+kawabatas side project	Floating Flower	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kawabatas side project	Julia Galaxy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kawaguchi metal's casting	austenitic ironcastings	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+kawaguchi metal's casting	alloy steel	1	1	4	4	0.333333333333	NULL	NULL	126	56	0.001984126984126984
+kawaguchi metal's casting	ductile iron	1	1	4	4	0.333333333333	NULL	NULL	74	38	0.0033783783783783786
+kawaguchi metal's casting	carbon steel	1	1	4	4	0.333333333333	NULL	NULL	404	129	0.0006188118811881188
+Kawaguchi's manga	Zipang	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+Kawaguchi's manga	Silent Service	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kawai characteristic	body shape	1	1	3	3	NULL	NULL	NULL	139	64	0.002398081534772182
+kawai characteristic	chrome pickguard	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kawai characteristic	bar bridge	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kawai keyboard	K4	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+kawaii accessory	earring	1	1	3	3	NULL	NULL	NULL	1525	531	0.0002185792349726776
+kawaii accessory	bangle	1	1	3	3	NULL	NULL	NULL	234	118	0.0014245014245014244
+kawaii accessory	necklaces &	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kawaii earring design	Little Red Riding Hood	1	1	5	5	NULL	NULL	NULL	155	67	0.0012903225806451613
+kawaii earring design	Cowboy & Indian Girl	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kawaii earring design	Wolf	1	1	5	5	NULL	NULL	NULL	2340	606	0.00008547008547008547
+kawaii earring design	Beach Buddies	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kawaii earring design	Angel & Devil Girl	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+kawaii item	letter set	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+kawaii item	hat	1	1	4	4	NULL	NULL	NULL	4593	1302	0.000054430655345090354
+kawaii item	memo pad	1	1	4	4	NULL	NULL	NULL	114	72	0.0021929824561403508
+kawaii item	jewelry	1	1	4	4	NULL	NULL	NULL	7848	1759	0.000031855249745158005
+kawaii supply	stationery	1	1	3	3	0.500000000000	NULL	NULL	1114	471	0.0002992220227408737
+kawaii supply	deco tape	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+kawaii supply	origami paper	1	1	3	3	0.500000000000	NULL	NULL	11	11	0.0303030303030303
+kawartha lake	Scugog	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kawartha lake	Rice	1	1	2	2	NULL	NULL	NULL	11473	2640	0.000043580580493332174
+kawasaki bike part	Thumb Brakes	1	1	1	1	NULL	NULL	NULL	1	1	1
+kawasaki concours motorcycle part	belt	1	1	1	1	NULL	NULL	NULL	3587	1043	0.00027878449958182325
+kawasaki model	Versys	2	2	5	4	1.000000000000	NULL	NULL	4	3	0.2
+kawasaki model	ZX-6R	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+kawasaki model	250R	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+kawasaki model	650R	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+kawasaki motorcycle part	belt	1	1	1	1	NULL	NULL	NULL	3587	1043	0.00027878449958182325
+kawasaki mule winch control	replacment remote control unit	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+kawasaki mule winch control	wireless winch remote	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+kawasaki part	air filter	1	1	4	5	NULL	NULL	NULL	446	226	0.0005605381165919282
+kawasaki part	tire	1	1	4	5	NULL	NULL	NULL	2102	655	0.00011893434823977165
+kawasaki part	frame	1	1	4	5	NULL	NULL	NULL	1466	688	0.00017053206002728513
+kawasaki part	oil filter	1	1	4	5	NULL	NULL	NULL	261	138	0.0009578544061302681
+kawasaki teryx winch control	wireless winch remote	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+kawasaki teryx winch control	replacment remote control unit	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+kawasaki ZX-R6 part	Air Cleaner	1	1	13	14	0.272727272727	NULL	NULL	123	80	0.0006253908692933083
+kawasaki ZX-R6 part	Chain Cover	1	1	13	14	0.272727272727	NULL	NULL	4	4	0.019230769230769232
+kawasaki ZX-R6 part	Chassis Electrical Equipment	1	1	13	14	0.272727272727	NULL	NULL	1	1	0.07692307692307693
+kawasaki ZX-R6 part	Frame	1	1	13	14	0.272727272727	NULL	NULL	1466	688	0.00005247140308531851
+kawasaki ZX-R6 part	Engine	1	1	13	14	0.272727272727	NULL	NULL	2149	764	0.000035794824068439704
+kawasaki ZX-R6 part	Clutch	1	1	13	14	0.272727272727	NULL	NULL	780	245	0.00009861932938856017
+kawasaki ZX-R6 part	Brake Pedal	1	1	13	14	0.272727272727	NULL	NULL	30	26	0.002564102564102564
+kawasaki ZX-R6 part	Generator	1	1	13	14	0.272727272727	NULL	NULL	1597	672	0.000048167236645633646
+kawasaki ZX-R6 part	Cylinder Head	1	1	13	14	0.272727272727	NULL	NULL	253	120	0.0003040437823046519
+kawasaki ZX-R6 part	Air Duct	1	1	13	14	0.272727272727	NULL	NULL	68	43	0.0011312217194570137
+kawasaki ZX-R6 part	Cowling	1	1	13	14	0.272727272727	NULL	NULL	17	11	0.004524886877828055
+kawasaki ZX-R6 part	Camshaft	1	1	13	14	0.272727272727	NULL	NULL	164	93	0.00046904315196998124
+kawasaki ZX-R6 part	Crankcase	1	1	13	14	0.272727272727	NULL	NULL	47	22	0.0016366612111292963
+kawasaki's older sport motorcycle	EX250	1	1	1	1	NULL	NULL	NULL	1	1	1
+kawung pattern	latticework pattern	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kawung pattern	pattern nitik	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kay home product replacement part	deck anchor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kay home product replacement part	door	1	1	3	3	NULL	NULL	NULL	4440	1565	0.00007507507507507507
+kay home product replacement part	roof	1	1	3	3	NULL	NULL	NULL	1286	491	0.0002592016588906169
+kay's drama	Band of Gold	2	2	2	1	NULL	NULL	NULL	5	3	0.4
+Kay's stand-alones	Tigana	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+kaya flavor	chocolate	1	1	3	3	NULL	NULL	NULL	7342	1984	0.000045400889857441204
+kaya flavor	coffee	1	1	3	3	NULL	NULL	NULL	11509	2489	0.000028962840675413443
+kaya flavor	peanut from Wang Jiao House of Kaya Toast	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kayak	Jackson Coosa Elite	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	Native Ultimate	1	1	16	17	0.200000000000	NULL	NULL	2	2	0.03125
+kayak	Tarpon	1	1	16	17	0.200000000000	NULL	NULL	177	57	0.00035310734463276836
+kayak	Perception Acadia	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	Scramblers	1	1	16	17	0.200000000000	NULL	NULL	2	2	0.03125
+kayak	Scuppers	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	sit-on-top with a smooth bottom	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	dagger kayak	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	Dagger Kingpin	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	perception kayak	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	North Greenland	1	1	16	17	0.200000000000	NULL	NULL	2	2	0.03125
+kayak	open, sot kayak	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	Ocean Prowler	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	ocean kayak	1	1	16	17	0.200000000000	NULL	NULL	16	12	0.00390625
+kayak	modern inflatable kayak	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak	necky kayak	1	1	16	17	0.200000000000	NULL	NULL	1	1	0.0625
+kayak accessory	life jacket	1	1	6	6	0.750000000000	NULL	NULL	170	119	0.000980392156862745
+kayak accessory	foot wear	1	1	6	6	0.750000000000	NULL	NULL	10	8	0.016666666666666666
+kayak accessory	scupper plug	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+kayak accessory	dry bag	1	1	6	6	0.750000000000	NULL	NULL	24	21	0.006944444444444444
+kayak accessory	thermal protection	1	1	6	6	0.750000000000	NULL	NULL	23	15	0.007246376811594202
+kayak accessory	paddle leash	1	1	6	6	0.750000000000	NULL	NULL	3	3	0.05555555555555555
+kayak category	flat water	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+kayak category	white water	1	1	2	2	1.000000000000	NULL	NULL	20	19	0.025
+kayak color	red for extra visibility	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kayak color	yellow	1	1	3	3	NULL	NULL	NULL	5611	1380	0.00005940711697261331
+kayak color	lime	1	1	3	3	NULL	NULL	NULL	2829	925	0.00011782726522917403
+kayak expedition	15-day trip operated by 4th World Adventure	1	1	1	1	NULL	NULL	NULL	1	1	1
+kayak game	basketball	1	1	2	2	NULL	NULL	NULL	10932	1509	0.000045737285034760334
+kayak game	obstacle course	1	1	2	2	NULL	NULL	NULL	223	102	0.002242152466367713
+kayak hot spot	Malibu	1	1	1	1	NULL	NULL	NULL	198	88	0.005050505050505051
+kayak lock	cable tie-down lock with a user-defined combination system	1	1	1	1	NULL	NULL	NULL	1	1	1
+kayak magazine	Canoe & Kayak	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kayak magazine	Sea Kayaker	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kayak material	resin	1	1	2	2	NULL	NULL	NULL	1240	509	0.0004032258064516129
+kayak material	plastic	1	1	2	2	NULL	NULL	NULL	10906	2659	0.000045846323124885384
+kayak movement	back stroke	1	1	2	2	1.000000000000	NULL	NULL	11	7	0.045454545454545456
+kayak movement	forward stroke	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+kayak place	Anaconda	1	1	1	1	NULL	NULL	NULL	91	67	0.01098901098901099
+kayak program	event	1	1	5	5	NULL	NULL	NULL	1629	766	0.00012277470841006753
+kayak program	camp	1	1	5	5	NULL	NULL	NULL	480	231	0.0004166666666666667
+kayak program	class	1	1	5	5	NULL	NULL	NULL	2573	947	0.0000777302759424796
+kayak program	rental	1	1	5	5	NULL	NULL	NULL	388	199	0.0005154639175257732
+kayak program	tour	1	1	5	5	NULL	NULL	NULL	680	274	0.00029411764705882356
+kayak renter	Jory Lyle of Big Bear Paddling	1	1	1	1	NULL	NULL	NULL	1	1	1
+kayak skill	river safety	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+kayak skill	technique	1	1	4	4	NULL	NULL	NULL	394	154	0.0006345177664974619
+kayak skill	Eskimo Roll	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+kayak skill	paddle stroke	1	1	4	4	NULL	NULL	NULL	6	4	0.041666666666666664
+kayak tour company	Outfitters Kauai	1	1	1	1	NULL	NULL	NULL	1	1	1
+kayak-building technique	molded fiberglass	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+kayakers	Australian Wildwater Racing Champion	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kayakers	Elizabeth Kennedy	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kayakers	Tasmania's Dan Hall	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kayaking	kayaking in white-rapid river	1	1	1	1	NULL	NULL	NULL	1	1	1
+kayaking experience	sea kayaking	1	1	1	1	NULL	NULL	NULL	187	80	0.0053475935828877
+kayaking product	BC jakcet	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+kayaking product	life jacket	1	1	5	5	0.333333333333	NULL	NULL	170	119	0.0011764705882352942
+kayaking product	kayak	1	1	5	5	0.333333333333	NULL	NULL	857	364	0.00023337222870478414
+kayaking product	dry bag	1	1	5	5	0.333333333333	NULL	NULL	24	21	0.008333333333333333
+kayaking product	spray deck	1	1	5	5	0.333333333333	NULL	NULL	6	5	0.03333333333333333
+kaycan's sustainable business practice	using renewable energy in the manufacturing process	1	1	1	1	NULL	NULL	NULL	1	1	1
+kaye pyke's special effect	putting a satin picture in the middle of a cushion	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kaye Wiggs MSD	Nyssa	1	1	1	1	1.000000000000	NULL	NULL	14	14	0.07142857142857142
+kays natural product	kays naturals cereal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kays natural product	Kays Naturals protein snack	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kays natural product	Kays Naturals gluten free	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kayser's great designer	Hugo Leven	1	1	1	1	NULL	NULL	NULL	1	1	1
+kazakh billionaire	former BTA bank chief Mukhtar Ablyazov	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kazakh billionaire	Nazrbayev's former son-in-law Rakhat Aliev	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kazakh chain	electronics retailers Sulpak	1	1	1	1	NULL	NULL	NULL	1	1	1
+kazakh city	Taraz	1	1	3	3	NULL	NULL	NULL	7	4	0.047619047619047616
+kazakh city	Kyzylorda	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kazakh city	Shymkent	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kazakh metal firm	ENRC	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+kazakh national instrument	dombra	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kazakh opera	Abay	3	3	5	2	NULL	NULL	NULL	8	4	0.22499999999999998
+kazakh opera	Abylay Khan	2	2	5	2	NULL	NULL	NULL	2	1	0.4
+kazakh producer	Chevron	1	1	2	2	NULL	NULL	NULL	1094	336	0.0004570383912248629
+kazakh producer	state-owned Kazmunaigas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kazakh product	ayran	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+Kazakhoperations personnel	Mr Erkin Svanbayev	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kazakhstan health NGOs	Kazakhstan Association of Family Physicians	1	1	1	1	NULL	NULL	NULL	1	1	1
+kazakhstan landmark	Central State Museum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kazakhstan landmark	Obelisk of Independence	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kazakhstan's biggest oilfields	Karachaganak	2	2	4	3	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+Kazakhstan's biggest oilfields	Tengiz	1	1	4	3	1.000000000000	NULL	NULL	10	9	0.025
+Kazakhstan's biggest oilfields	Kashagan	1	1	4	3	1.000000000000	NULL	NULL	10	10	0.025
+kazakhstan's initiative	integration into European space	1	1	1	1	NULL	NULL	NULL	1	1	1
+kazakhstan's major export	oil	1	1	1	1	NULL	NULL	NULL	15331	4205	0.00006522731720044354
+Kazakhstan's national champions''	ENRC	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+kazakhstan's neighbor	Uzbekistan	1	1	1	1	NULL	NULL	NULL	482	137	0.002074688796680498
+kazakhstan's neighboring territory	Uzbekistan	1	1	1	1	NULL	NULL	NULL	482	137	0.002074688796680498
+kazakhstani investor	pension fund	1	1	1	1	NULL	NULL	NULL	2003	558	0.0004992511233150275
+kazakstan's priority	CICA	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+kazan attraction	Suyumbike Tower	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kazan attraction	Annunciation Cathedral	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+kazan attraction	Zilant Dormition	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kazan attraction	Qolsharif Mosque	1	1	4	4	NULL	NULL	NULL	3	2	0.08333333333333333
+kazan film	Gentlemen's Agreement	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kazan mall	Suvar Plaza	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+kazoo song	Th Final Countdown	1	1	1	1	NULL	NULL	NULL	1	1	1
+kazooie's beak attack	Beaky Barge	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kazooie's beak attack	Rat-a-Tat Rap	1	1	2	2	NULL	NULL	NULL	2	2	0.25

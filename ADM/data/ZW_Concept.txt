@@ -1,0 +1,39 @@
+zwick's film	Last Samurai	1	1	1	1	1.000000000000	NULL	NULL	49	20	0.02040816326530612
+zwinky	application not only zwinky	1	1	1	1	NULL	NULL	NULL	1	1	1
+zwischedurch sometimes synonymous editing software	Ulead VideoStudio	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+zwitterionic amino acid	proline	1	1	1	1	NULL	NULL	NULL	192	78	0.005208333333333333
+zwitterionic buffer	tricine	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+zwitterionic buffer	bicine	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+zwitterionic compound	betaine	2	1	8	9	0.500000000000	NULL	NULL	143	68	0.0034965034965034965
+zwitterionic compound	cephaloridine	1	1	8	9	0.500000000000	NULL	NULL	17	10	0.007352941176470588
+zwitterionic compound	ampicillin	1	1	8	9	0.500000000000	NULL	NULL	505	96	0.00024752475247524753
+zwitterionic compound	cefsulodin	1	1	8	9	0.500000000000	NULL	NULL	2	2	0.0625
+zwitterionic compound	cephalexin	1	1	8	9	0.500000000000	NULL	NULL	194	52	0.0006443298969072165
+zwitterionic compound	ceftazidime	1	1	8	9	0.500000000000	NULL	NULL	75	38	0.0016666666666666668
+zwitterionic compound	cefaclor	1	1	8	9	0.500000000000	NULL	NULL	29	16	0.004310344827586207
+zwitterionic detergent	betaines	5	1	5	1	1.000000000000	NULL	NULL	37	19	0.13513513513513514
+zwitterionic drug	cephaloridine	1	1	1	1	1.000000000000	NULL	NULL	17	10	0.058823529411764705
+zwitterionic dye	carboxylic acid	1	1	1	1	NULL	NULL	NULL	354	174	0.002824858757062147
+zwitterionic fluoroquinolones	ciprofloxacin	1	1	1	1	NULL	NULL	NULL	695	129	0.0014388489208633094
+zwitterionic group	amino acid	1	1	1	1	NULL	NULL	NULL	2111	741	0.0004737091425864519
+zwitterionic lipid	dioleoyl phosphatidylethanolamine	1	1	1	1	NULL	NULL	NULL	1	1	1
+zwitterionic molecule	various amino acid	2	2	2	1	NULL	NULL	NULL	5	3	0.4
+Zwitterionic or amp hoteric surfactants	phospholipids	1	1	2	2	0.500000000000	NULL	NULL	300	142	0.0016666666666666668
+Zwitterionic or amp hoteric surfactants	amine oxide	1	1	2	2	0.500000000000	NULL	NULL	28	23	0.017857142857142856
+Zwitterionic or amphoteric surfactants	amine oxide	1	1	2	2	0.500000000000	NULL	NULL	28	23	0.017857142857142856
+Zwitterionic or amphoteric surfactants	phospholipids	1	1	2	2	0.500000000000	NULL	NULL	300	142	0.0016666666666666668
+Zwitterionic phospholipids	PC	1	1	1	1	NULL	NULL	NULL	678	396	0.0014749262536873156
+zwitterionic polymer	poly	2	2	2	1	NULL	NULL	NULL	1279	538	0.001563721657544957
+zwitterionic substance	phospholipid lecithin	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+zwitterionic surface-active substance	lecithin	1	1	1	1	NULL	NULL	NULL	501	180	0.001996007984031936
+zwitterionic surfactants	betaines	4	3	9	3	0.500000000000	NULL	NULL	37	19	0.04804804804804805
+zwitterionic surfactants	betaine surfactants	4	3	9	3	0.500000000000	NULL	NULL	4	1	0.4444444444444444
+zwitterionic surfactants	phospholipids	1	1	9	3	0.500000000000	NULL	NULL	300	142	0.00037037037037037035
+zwitterions	phosphorylcholine	2	2	3	2	0.500000000000	NULL	NULL	9	7	0.14814814814814814
+zwitterions	tryptophan	1	1	3	2	0.500000000000	NULL	NULL	332	114	0.001004016064257028
+zwitterzonic inhibitor	4-butanoic acid	1	1	1	1	NULL	NULL	NULL	1	1	1
+zwolle attraction	Stedelijk Museum Zwolle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+zwolle attraction	Overijssels Ventrum Beeldende Kunsten	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ZwQuerySystemInformation	title	1	1	3	3	NULL	NULL	NULL	3119	1050	0.00010687186063909372
+ZwQuerySystemInformation	ZwQuerySystemInformation core function of the application of the sample	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ZwQuerySystemInformation	prepared by a task manager	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

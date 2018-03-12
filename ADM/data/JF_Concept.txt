@@ -1,0 +1,42 @@
+JFAC member	Shawn Keough	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JFAC member	Dean Cameron	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JFAC's so-called ilk	abysmal Waking The Cadaver	1	1	1	1	NULL	NULL	NULL	1	1	1
+jface UI structure	action	1	1	1	1	0.500000000000	NULL	NULL	704	305	0.0014204545454545455
+JFCS program	bereavement group	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+JFCS program	Samaritan Hospice partnership	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JFET	type SST201	1	1	1	1	NULL	NULL	NULL	1	1	1
+JFET part	Analog Devices AD549	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+JFET part	National Semiconductor's LF411	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+jfet-input op amp	LF353's	1	1	1	1	NULL	NULL	NULL	1	1	1
+jfet-input type	National LF353N	1	1	1	1	NULL	NULL	NULL	1	1	1
+JFK abuse drug	LSD	1	1	1	1	NULL	NULL	NULL	1386	202	0.0007215007215007215
+JFK aiport transportation limo need	concert	1	1	3	3	NULL	NULL	NULL	3379	894	0.00009864851533984413
+JFK aiport transportation limo need	wedding	1	1	3	3	NULL	NULL	NULL	9942	1590	0.00003352779454167505
+JFK aiport transportation limo need	party	1	1	3	3	NULL	NULL	NULL	2492	715	0.00013376136971642589
+JFK researcher	Barr McClellan	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+JFK researcher	Gary Shaw	2	2	14	7	1.000000000000	NULL	NULL	7	4	0.04081632653061224
+JFK researcher	Robert Groden	2	2	14	7	1.000000000000	NULL	NULL	5	4	0.05714285714285714
+JFK researcher	David Scheim	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+JFK researcher	Dick Russell	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+JFK researcher	Jim Marrs	2	2	14	7	1.000000000000	NULL	NULL	12	9	0.023809523809523808
+JFK researcher	John R. Craig	2	2	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+jfk's speech	American University Speech	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jfk's speech	Kennedy's Inaugural Address	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jflow feature	packet capture	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+jflow feature	port mirror	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+JFM ADD scandal	Miller Scandal	1	1	1	1	NULL	NULL	NULL	1	1	1
+JFM success case	Arabari	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JFM success case	Buldana	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+JFM success case	Harda	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JFPR activity	nationwide review of SCC operation	1	1	1	1	NULL	NULL	NULL	1	1	1
+JFR specialty mustang	John Force's P-51 Mustang	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+JFR specialty mustang	Force's P-51 Mustang	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+JFS function	creation of snapshot file system	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JFS function	defragmentation	1	1	2	2	1.000000000000	NULL	NULL	43	31	0.011627906976744186
+jfs's activity	gathering information	1	1	1	1	1.000000000000	NULL	NULL	44	29	0.022727272727272728
+JFSA fundraising event	ticket sale	1	1	2	2	NULL	NULL	NULL	74	50	0.006756756756756757
+JFSA fundraising event	publicity	1	1	2	2	NULL	NULL	NULL	295	144	0.001694915254237288
+jfu Javascript framework	jquery	1	1	1	1	NULL	NULL	NULL	557	194	0.0017953321364452424
+JFW label	Hisui	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JFW label	Mint Designs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JFX component	compiler	1	1	1	1	NULL	NULL	NULL	414	187	0.0024154589371980675

@@ -1,0 +1,142 @@
+TF antagonist	anti-TF antibody	1	1	1	1	NULL	NULL	NULL	1	1	1
+TF astronomical event	asterioid impact	1	1	1	1	NULL	NULL	NULL	1	1	1
+TF country	Sweden	1	1	1	1	NULL	NULL	NULL	7737	882	0.00012924906294429367
+TF family	homeodomain	1	1	1	1	0.666666666666	NULL	NULL	5	5	0.2
+TF Filoviruses	Ebola virus	1	1	1	1	NULL	NULL	NULL	89	43	0.011235955056179775
+TF measure	establishment of an IT-based single window system	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TF measure	modern risk management system	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TF measure	pre-arrival clearance	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+TF modification	missense mutation	1	1	2	2	1.000000000000	NULL	NULL	13	7	0.038461538461538464
+TF modification	reversible phosphorylation	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+TF pair	IRF-1	2	2	2	1	1.000000000000	NULL	NULL	16	12	0.125
+TF string literal	text	1	1	1	1	NULL	NULL	NULL	3231	1203	0.00030950170225936243
+TF system complex architectural feature	tall wall	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+TF technology	organic	1	1	1	1	NULL	NULL	NULL	643	320	0.0015552099533437014
+TF-A solution	virtual token	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+tf-based feature	TF interaction	1	1	1	1	NULL	NULL	NULL	1	1	1
+TF-CBT component	praise	1	1	1	1	NULL	NULL	NULL	387	159	0.002583979328165375
+tf-centered approach	chromatinimmunoprecipitat ion	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+tf-centered approach	chromatin immunoprecipitation	1	1	2	2	1.000000000000	NULL	NULL	35	24	0.014285714285714285
+tf-centered method	chromatin immunoprecipitations	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+tf-dependent process	angiogenesis	1	1	1	1	NULL	NULL	NULL	167	83	0.005988023952095809
+tf-mediated non-haemostatic function	migration towards FVIIa	1	1	1	1	NULL	NULL	NULL	1	1	1
+tf-mediated non-hemostatic function	migration toward FVIIa	1	1	1	1	NULL	NULL	NULL	1	1	1
+TF2 map	doublecross	1	0	1	1	NULL	NULL	NULL	2	2	0.5
+TF2 particular phong effect	lightwarp map	1	1	1	1	NULL	NULL	NULL	1	1	1
+TF2 specific	Respawn Rooms	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TF2 specific	Capture Points	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TF2 specific	CTF Modes	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TF2 texture	grass	2	1	4	2	NULL	NULL	NULL	3076	1135	0.00032509752925877764
+TF2 texture	water	2	1	4	2	NULL	NULL	NULL	25348	6311	0.000039450844248066906
+TF51 special force	elite Army Rangers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TF51 special force	Marine commando force	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TF6 part	TF6 gear diffs	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+TF6 part	suspension arm	1	1	4	4	0.333333333333	NULL	NULL	36	20	0.006944444444444444
+TF6 part	axle	1	1	4	4	0.333333333333	NULL	NULL	346	150	0.000722543352601156
+TF6 part	shock	1	1	4	4	0.333333333333	NULL	NULL	1007	428	0.00024826216484607745
+TFA technique	Wigner-Ville distribution	1	1	2	2	1.000000000000	NULL	NULL	13	11	0.038461538461538464
+TFA technique	STFT	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+TFBSs	WRKY	2	2	2	1	NULL	NULL	NULL	2	1	1
+TFC program	Oregon's Early Intervention Foster Care program	2	2	2	1	NULL	NULL	NULL	2	1	1
+TFCA area	MDTP area	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TFCA area	relevance of identifying socioeconomic issues by engaging diverse stakeholder	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TFCI power offset	PO1	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tfcog project	Robotmasters FV	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFD project	2004 Manfred-Swinton project	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFD representative	Vice-Director Ms. Maysing Yang	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFE packaging	cardboard boxes	1	1	1	1	NULL	NULL	NULL	335	159	0.0029850746268656717
+TFF peptides	TFF3	2	1	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+TFF peptides	TFF1	2	1	6	3	NULL	NULL	NULL	7	5	0.09523809523809523
+TFF peptides	TFF2	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+tfg's international backer	regional Intergovernmental Authority on Development	2	1	2	1	NULL	NULL	NULL	2	1	1
+TFH class	TFH Training	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TFH class	Touch for Health Continuing Education	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TFH class	TFH Proficiency	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Tfisnumbermustfiers	tradename	1	1	2	2	1.000000000000	NULL	NULL	15	5	0.03333333333333333
+Tfisnumbermustfiers	equipment model designation	1	1	2	2	1.000000000000	NULL	NULL	92	15	0.005434782608695652
+tfl department	Public Carriage Office	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tfl initiative	Safer Travel at Night	1	1	1	1	NULL	NULL	NULL	1	1	1
+tfl outlet	newspaper shop	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+tfl road	Farringdon	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+tfl road	A21	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+tfl road	Bishopsgate	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+TfL's infrastructure investment program	Tube upgrade	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tfl-controlled organization	DLR	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+tfland improvement	swimming pool	1	0	1	1	NULL	NULL	NULL	5047	1164	0.00019813750743015652
+TFM constraint	flexible track	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+TFM initiative	ground delay program	3	3	6	2	NULL	NULL	NULL	7	4	0.21428571428571427
+TFM initiative	ground stop	3	3	6	2	NULL	NULL	NULL	6	4	0.25
+TFM tool	CTAS	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+TFMH technology	PMR	1	1	1	1	1.000000000000	NULL	NULL	20	19	0.05
+tfore item	rack components larger than 2U	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+tfore item	speaker	1	1	3	3	NULL	NULL	NULL	1706	596	0.00019538882375928096
+tfore item	large receiver	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+TFP driver	physical investment	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+TFP measurement technique	growth accounting calculation	1	1	1	1	NULL	NULL	NULL	1	1	1
+tfp-associated function	microcolony formation	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFR technique	Wavelet Transform	2	1	4	2	1.000000000000	NULL	NULL	17	10	0.058823529411764705
+TFR technique	STFT	2	1	4	2	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+TFs	CREB1	2	2	19	18	0.909090909090	NULL	NULL	2	1	0.10526315789473684
+TFs	Gal4	1	1	19	18	0.909090909090	NULL	NULL	9	7	0.005847953216374269
+TFs	ZNF22	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	embryonic stem cell regulators OCT4	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	USF2	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	TEF	1	1	19	18	0.909090909090	NULL	NULL	9	9	0.005847953216374269
+TFs	LGTF	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+tfs	canonical pro-myogenic muscle gene tfs	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	ARID5B	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	AtNF-YB1 from Arabidopsis thaliana	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	MADS-box gene	1	1	19	18	0.909090909090	NULL	NULL	3	3	0.017543859649122806
+TFs	gap gene Kruppel	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	ATF2	1	1	19	18	0.909090909090	NULL	NULL	4	4	0.013157894736842105
+TFs	MEF2A	1	1	19	18	0.909090909090	NULL	NULL	2	2	0.02631578947368421
+TFs	associated with flower development	1	1	19	18	0.909090909090	NULL	NULL	1	1	0.05263157894736842
+TFs	USF1	1	1	19	18	0.909090909090	NULL	NULL	5	4	0.010526315789473684
+TFs	Rap1	1	1	19	18	0.909090909090	NULL	NULL	9	8	0.005847953216374269
+TFs	NT-3	1	1	19	18	0.909090909090	NULL	NULL	29	12	0.0018148820326678765
+TFS client	Teamprise client	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFS component	team project collection	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+TFS component	application tier server instance	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+TFS feature	reporting	2	2	2	1	NULL	NULL	NULL	972	476	0.00205761316872428
+TFS field	Reason field	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFS patron	Ahfad University President Gasim Badri	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFS work item	Task	2	1	4	4	NULL	NULL	NULL	728	310	0.0013736263736263737
+TFS work item	Scenario inside the Word document	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TFS work item	Bug	1	1	4	4	NULL	NULL	NULL	379	176	0.0006596306068601583
+TFSA issuer	credit union	1	1	1	1	NULL	NULL	NULL	1043	354	0.0009587727708533077
+TFT characteristic	mobility	2	1	4	3	NULL	NULL	NULL	1163	459	0.0008598452278589854
+tft characteristic	poly-si tft characteristic	1	1	4	3	NULL	NULL	NULL	2	2	0.125
+TFT characteristic	charge mobility	1	1	4	3	NULL	NULL	NULL	4	4	0.0625
+TFT device parameter	threshold voltage	2	2	7	4	1.000000000000	NULL	NULL	120	52	0.0047619047619047615
+TFT device parameter	subthreshold swing	2	2	7	4	1.000000000000	NULL	NULL	11	6	0.051948051948051945
+TFT device parameter	field effect mobility	2	2	7	4	1.000000000000	NULL	NULL	5	4	0.11428571428571428
+TFT device parameter	transconductance	1	1	7	4	1.000000000000	NULL	NULL	39	27	0.003663003663003663
+TFT LCD related offer	LCD Monitor	1	1	1	1	NULL	NULL	NULL	115	82	0.008695652173913044
+TFT LCD TV related offer	LCD TV	1	1	1	1	NULL	NULL	NULL	202	113	0.0049504950495049506
+TFT lcdhaving various advantage	compactness in size	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TFT lcdhaving various advantage	low power consumption	1	1	2	2	NULL	NULL	NULL	214	63	0.002336448598130841
+TFT monitor	HP L1702	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFT monitor related offer	Screen Monitor	1	1	1	1	1.000000000000	NULL	NULL	18	16	0.05555555555555555
+TFT parameter	threshold voltage	2	2	6	5	0.500000000000	NULL	NULL	120	52	0.005555555555555555
+TFT parameter	field effect mobility	1	1	6	5	0.500000000000	NULL	NULL	5	4	0.03333333333333333
+TFT parameter	leakage current	1	1	6	5	0.500000000000	NULL	NULL	97	53	0.001718213058419244
+TFT parameter	subthreshold slope	1	1	6	5	0.500000000000	NULL	NULL	7	5	0.023809523809523808
+TFT parameter	sub-threshold slope	1	1	6	5	0.500000000000	NULL	NULL	3	3	0.05555555555555555
+TFT structure	top gate	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+TFT structure	staggered type	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TFT-LCD array substrate	TN type TFT-LCD array substrate	1	1	1	1	NULL	NULL	NULL	1	1	1
+TFT-LCD company	Chi Mei Optoelectronics Corp.	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+TFT-LCD company	Chunghwa Picture Tubes	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+TFT-LCD panel application	television	2	2	2	1	NULL	NULL	NULL	8405	2451	0.0002379535990481856
+TFT-LCD supplier	Sharp	2	2	2	1	NULL	NULL	NULL	1004	392	0.00199203187250996
+TFT-LCD technology	Twisted Nematic	2	1	5	3	1.000000000000	NULL	NULL	7	5	0.1142857142857143
+TFT-LCD technology	In-Plane Switching	2	1	5	3	1.000000000000	NULL	NULL	4	3	0.2
+TFT-LCD technology	Fringe Field Switching	1	1	5	3	1.000000000000	NULL	NULL	1	1	0.2
+tftp client	tftp-ha from the Ubuntu repository	1	0	1	1	NULL	NULL	NULL	1	1	1
+TFTP server issue	incorrect IP address	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+TFTs	driving TFTs	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+TFTs	amorphous-silicon TFTs	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+TFTs	polycrystalline-silicon TFTs	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+TFTs	reverse T3	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+TFTs	switching TFTs	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+tftsthat use metal oxide semiconductor	zinc oxide	1	1	1	1	NULL	NULL	NULL	1245	447	0.0008032128514056225

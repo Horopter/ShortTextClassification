@@ -1,0 +1,169 @@
+QA	getting through the tutorial on the first level for the basic game mode	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA action	clicking an object	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+QA action	executing a command	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+QA action	generating different kinds of test datum	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+QA action	opening a page	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+QA action	verifying the output	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+QA activity	audit	3	3	16	12	0.428571428571	NULL	NULL	901	454	0.0006243063263041066
+QA activity	technical specification review	2	1	16	12	0.428571428571	NULL	NULL	2	1	0.125
+QA activity	code review	2	1	16	12	0.428571428571	NULL	NULL	79	50	0.0031645569620253164
+QA activity	measuring quality	1	1	16	12	0.428571428571	NULL	NULL	1	1	0.0625
+QA activity	Change Control	1	1	16	12	0.428571428571	NULL	NULL	92	57	0.0006793478260869565
+QA activity	moderating inspection	1	1	16	12	0.428571428571	NULL	NULL	1	1	0.0625
+QA activity	independent review	1	1	16	12	0.428571428571	NULL	NULL	13	11	0.004807692307692308
+QA activity	predicting quality	1	1	16	12	0.428571428571	NULL	NULL	1	1	0.0625
+QA activity	collecting sample	1	1	16	12	0.428571428571	NULL	NULL	3	3	0.020833333333333332
+QA activity	use of standard procedures for locating	1	1	16	12	0.428571428571	NULL	NULL	2	2	0.03125
+QA activity	surveillance	1	1	16	12	0.428571428571	NULL	NULL	758	346	0.00008245382585751979
+QA activity	review	1	1	16	12	0.428571428571	NULL	NULL	970	402	0.00006443298969072165
+QA alternative	dynamic analysis	1	1	3	3	0.600000000000	NULL	NULL	27	22	0.012345679012345678
+QA alternative	preventive action	1	1	3	3	0.600000000000	NULL	NULL	10	8	0.03333333333333333
+QA alternative	use of fault-tolerance technique	1	1	3	3	0.600000000000	NULL	NULL	1	1	0.3333333333333333
+QA audit activity	initial vendor qualification	2	1	2	1	NULL	NULL	NULL	2	1	1
+QA datum	blank	1	1	2	2	NULL	NULL	NULL	108	70	0.004629629629629629
+QA datum	spiked sample	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QA document	sop	2	1	7	6	0.750000000000	NULL	NULL	11	9	0.051948051948051945
+QA document	Certificates of Analysis	1	1	7	6	0.750000000000	NULL	NULL	12	6	0.011904761904761904
+QA document	test spec	1	1	7	6	0.750000000000	NULL	NULL	1	1	0.14285714285714285
+QA document	Certificates of Compliance	1	1	7	6	0.750000000000	NULL	NULL	7	5	0.02040816326530612
+QA document	plan	1	1	7	6	0.750000000000	NULL	NULL	543	269	0.0002630886608787161
+QA document	quality review	1	1	7	6	0.750000000000	NULL	NULL	5	6	0.02857142857142857
+QA environment	ISP environment	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA function	training	1	1	3	3	0.500000000000	NULL	NULL	7685	2537	0.00004337453914552158
+QA function	Incoming Inspection	1	1	3	3	0.500000000000	NULL	NULL	8	7	0.041666666666666664
+QA function	Authorization for Shipment of nutriceutical product	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+QA group	ASQC	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA instrument	electrometer	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+QA material	QA plan	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+QA measure	IAEA Intercentre Dosimetry Project	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA mechanism	checklist	1	1	1	1	NULL	NULL	NULL	604	293	0.0016556291390728477
+QA methodology	Six Sigma	2	1	2	1	NULL	NULL	NULL	624	305	0.003205128205128205
+QA option	off-site wikis	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA procedure	careful peptide set design	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QA procedure	sampling of bridge	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QA procedure	independent verification of inspection finding	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QA professional	Darrel Damon	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA program	ISO9000	1	1	2	2	0.500000000000	NULL	NULL	47	28	0.010638297872340425
+QA program	ISO9002	1	1	2	2	0.500000000000	NULL	NULL	11	8	0.045454545454545456
+QA program documentation	data quality	1	1	3	3	0.428571428571	NULL	NULL	138	72	0.0024154589371980675
+QA program documentation	study plan	1	1	3	3	0.428571428571	NULL	NULL	10	8	0.03333333333333333
+QA program documentation	Standard Operating Procedures	1	1	3	3	0.428571428571	NULL	NULL	18	22	0.018518518518518517
+QA project deliverables	test plan document	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+QA record	calibration record	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+QA record	certificates of destruction	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+QA related area	performing SRU verification	1	0	1	1	NULL	NULL	NULL	1	1	1
+QA related initiative	guideline	1	1	4	4	NULL	NULL	NULL	364	199	0.0006868131868131869
+QA related initiative	process	1	1	4	4	NULL	NULL	NULL	875	406	0.00028571428571428574
+QA related initiative	development of new QA standard	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+QA related initiative	procedure	1	1	4	4	NULL	NULL	NULL	1039	479	0.00024061597690086623
+QA report	deviation report	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+QA role	QA technician	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QA role	QA analyst	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+QA role	QA engineer	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+QA routine	Cp	1	1	1	1	NULL	NULL	NULL	118	64	0.00847457627118644
+QA sample	Matrix Spikes	2	1	4	4	NULL	NULL	NULL	2	1	0.5
+QA sample	Matrix Spike Duplicates	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+qa sample	field qa sample	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+QA service element	quality control	1	1	3	3	NULL	NULL	NULL	744	289	0.00044802867383512545
+QA service element	quality assurance	1	1	3	3	NULL	NULL	NULL	614	245	0.0005428881650380021
+QA service element	testing	1	1	3	3	NULL	NULL	NULL	1639	662	0.00020337604230221678
+QA support function	supervision	1	1	4	4	NULL	NULL	NULL	584	259	0.0004280821917808219
+QA support function	certificate re-prints	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+QA support function	data entry	1	1	4	4	NULL	NULL	NULL	1330	498	0.00018796992481203009
+QA support function	training	1	1	4	4	NULL	NULL	NULL	7685	2537	0.000032530904359141185
+QA system	Bugzilla	1	1	9	9	0.500000000000	NULL	NULL	59	37	0.0018832391713747645
+QA system	TQM	1	1	9	9	0.500000000000	NULL	NULL	243	142	0.0004572473708276177
+QA system	Sekine	1	1	9	9	0.500000000000	NULL	NULL	1	1	0.1111111111111111
+qa system	trec qa system	1	1	9	9	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+QA system	JIRA	1	1	9	9	0.500000000000	NULL	NULL	27	22	0.004115226337448559
+qa system	general-purpose qa system	1	1	9	9	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+qa system	publicly ac-cessibleweb-based  qa system	1	1	9	9	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+qa system	food industry often qa system	1	1	9	9	0.500000000000	NULL	NULL	2	2	0.05555555555555555
+QA system	Six Sigma	1	1	9	9	0.500000000000	NULL	NULL	624	305	0.00017806267806267804
+QA technique	inspection	1	1	2	2	NULL	NULL	NULL	1202	552	0.00041597337770382697
+QA technique	review	1	1	2	2	NULL	NULL	NULL	970	402	0.0005154639175257732
+QA template	Review checklist	2	1	2	1	1.000000000000	NULL	NULL	3	2	0.6666666666666666
+QA testing	daily calibration drift-error test	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA testing duty	assisting in the creation test plan	1	1	1	1	NULL	NULL	NULL	1	1	1
+QA tool	competency review	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+QA tool	QTP	1	1	7	7	1.000000000000	NULL	NULL	19	8	0.007518796992481203
+QA tool	WinRunner	1	1	7	7	1.000000000000	NULL	NULL	28	15	0.00510204081632653
+qa tool	common qa tool	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+QA tool	Astra QuickTest	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+QA tool	Google LQE tool	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+QA tool	SAP QETT sheet	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+qa-specific term	Commitment Levels	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qa-specific term	Priority Levels	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qabalistic book	Clifford Bias Qabala	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+qabalistic book	Western Mystery Tradition	1	1	3	2	NULL	NULL	NULL	2	2	0.16666666666666666
+qabalistic scholar	Gershom Scholem	2	2	2	1	1.000000000000	NULL	NULL	8	6	0.25
+qabalistic symbol	Tree of Life in one's mind	1	1	1	1	NULL	NULL	NULL	1	1	1
+qabalistic work	Pardes Rimmonim	1	1	1	1	NULL	NULL	NULL	1	1	1
+QAC associate artist	Carol Burns	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+QAC associate artist	Billie Brown	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QAC's	benzalkonium chloride	1	1	1	1	NULL	NULL	NULL	187	74	0.0053475935828877
+QActions	menu item	1	1	1	1	NULL	NULL	NULL	79	51	0.012658227848101266
+QAD.NET UI feature	browse	1	1	1	1	NULL	NULL	NULL	70	45	0.014285714285714285
+qaddafi's african client state	Zimbabwe	1	1	3	3	NULL	NULL	NULL	1553	230	0.000214638334406525
+qaddafi's african client state	Chad	1	1	3	3	NULL	NULL	NULL	451	102	0.0007390983000739098
+qaddafi's african client state	Burkina Faso	1	1	3	3	NULL	NULL	NULL	524	79	0.0006361323155216284
+QAIS school	Study	2	2	4	2	NULL	NULL	NULL	469	209	0.0021321961620469083
+QAIS school	Selwyn House	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+QAM capable tuner	Hauppauge Win TV HVR-1250	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QAM capable tuner	Samsung DTB-H260F	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+QAM capable tuner	Centronics ZAT502	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+QAM channel	CBS	1	1	3	3	NULL	NULL	NULL	894	358	0.0003728560775540641
+QAM channel	ABC	1	1	3	3	NULL	NULL	NULL	1106	446	0.0003013863773357444
+QAM channel	NBC	1	1	3	3	NULL	NULL	NULL	895	332	0.00037243947858472997
+QAM format	64QAM	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+QAM format	256QAM	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+QAM method	16-value method	1	1	1	1	NULL	NULL	NULL	1	1	1
+QAM modulation scheme	64-QAM	1	1	1	1	1.000000000000	NULL	NULL	37	27	0.02702702702702703
+QAM system	telephone line modem	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+QAM system	64-QAM	1	1	2	2	1.000000000000	NULL	NULL	37	27	0.013513513513513514
+qand rare numerous factor	degradation rate	1	1	2	2	0.500000000000	NULL	NULL	24	16	0.020833333333333332
+qand rare numerous factor	weather datum	1	1	2	2	0.500000000000	NULL	NULL	72	50	0.006944444444444444
+qantas benefit	use of lounge	1	1	1	1	NULL	NULL	NULL	1	1	1
+qantas complimentary dish	Chicken Provencal with Pesto Risoni	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+qantas internal department	Pricing	1	1	2	3	0.500000000000	NULL	NULL	1404	497	0.00035612535612535614
+qantas internal department	Yield Management	1	1	2	3	0.500000000000	NULL	NULL	28	21	0.017857142857142856
+qantas rival	Singapore Airlines	1	1	1	1	NULL	NULL	NULL	365	121	0.0027397260273972603
+Qantas Socceroos	Matt Thompson	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+qantas worker	engineer	1	1	1	1	NULL	NULL	NULL	2585	844	0.00038684719535783365
+qantas's rival	Virgin Australia	2	2	2	1	1.000000000000	NULL	NULL	21	9	0.09523809523809523
+QAO expense	travel	1	1	1	1	NULL	NULL	NULL	4528	1282	0.00022084805653710247
+QAP solver	tabu search	1	1	2	2	NULL	NULL	NULL	275	133	0.0018181818181818182
+QAP solver	methods based on simulated annealing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qap-affiliated preacher	Ahmad al-dukhayyil	1	1	1	1	NULL	NULL	NULL	1	1	1
+QAPs	Leafy Greens Agreement	1	1	1	1	NULL	NULL	NULL	1	1	1
+qarable agency	Massachusetts board	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qarable agency	New York	1	1	2	2	NULL	NULL	NULL	13310	1915	0.00003756574004507889
+qarakhanid city	Balasaghun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qarakhanid city	Kucha	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+QARANC staff	Matron Major Morgan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QARANC staff	Sister Tutor Captain Webster	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qarl's unique feature	tweaked mipmaps	1	1	1	1	NULL	NULL	NULL	1	1	1
+qarrtsiluni issue	Ekphrasis	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+qatar foundation member organization	university	1	1	1	1	NULL	NULL	NULL	4258	1447	0.00023485204321277596
+qatar petroleum contract	3 year contract for Construction services in Qatar offshore field	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+qatar petroleum contract	5 year contract for safety standby vessel	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+qatari artist	Doha Jazz Orchestra	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+qatari artist	Fahad Al Kubaisi	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+qatari artist	Al Lulua Band	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+qatari artist	Saoud Jassim Shahenn	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+qatari developer	Barwa	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+qatari developer	Qatari Diar	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+qatari dish	harees	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+qatari government ministry	National Health Authority	1	1	1	1	NULL	NULL	NULL	1	1	1
+qatari school	Ali Bin Abdulla School	2	2	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+qatari school	Doha English Speaking School	2	2	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+qatari school	Messaied International School	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+qatari school	Massaied International School	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+qatari social function	tea	1	1	2	2	NULL	NULL	NULL	7608	1710	0.00006572029442691903
+qatari social function	wedding	1	1	2	2	NULL	NULL	NULL	9942	1590	0.000050291691812512574
+Qateel Shifai's ghazals	Kiya hei pyar jissey humney zindagi ki tarah	1	1	1	1	NULL	NULL	NULL	1	1	1
+qauint custom	pelting	1	1	1	1	NULL	NULL	NULL	1	1	1
+qaulity Time	Theater	1	1	1	1	NULL	NULL	NULL	3253	1131	0.0003074085459575776
+qawwali singer	Nusrat Fateh Ali	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+qawwali singer	Shankar Shambhu	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+qawwali singer	Jaffer Hussain Khan Badauni	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

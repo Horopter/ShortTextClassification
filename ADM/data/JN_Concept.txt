@@ -1,0 +1,39 @@
+jnana yoga relaxation practice	Anuloma Viloma Kriya	2	1	2	1	NULL	NULL	NULL	2	1	1
+jnana yogi	Ramana Maharishi	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+jnana-yogi	Nisargadatta Maharaj	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+jnanins	Suka	2	2	4	2	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+jnanins	Sanaka	2	2	4	2	1.000000000000	NULL	NULL	10	7	0.1
+jnanis	Nisargadatta	1	1	3	3	0.666666666666	NULL	NULL	6	5	0.05555555555555555
+jnanis	Suka	1	1	3	3	0.666666666666	NULL	NULL	9	8	0.037037037037037035
+jnanis	Sanaka	1	1	3	3	0.666666666666	NULL	NULL	10	7	0.03333333333333333
+jnanis practice good quality	saintly behavior	1	1	1	1	NULL	NULL	NULL	1	1	1
+JNC advocate	Nakanishi	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JNC advocate	Sakurai	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+JNC corporation's product	fabric	1	1	2	2	NULL	NULL	NULL	2183	735	0.00022904260192395785
+JNC corporation's product	synthetic fiber	1	1	2	2	NULL	NULL	NULL	119	76	0.004201680672268907
+JNC political figure	Nakagawa	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jnd additive	wax	1	1	1	1	NULL	NULL	NULL	1867	677	0.0005356186395286556
+JNDI name input requirement	information	1	1	1	1	NULL	NULL	NULL	1615	616	0.0006191950464396285
+JNDI resource	database	1	1	2	2	0.500000000000	NULL	NULL	2989	1163	0.00016728002676480428
+JNDI resource	connection factory	1	1	2	2	0.500000000000	NULL	NULL	12	7	0.041666666666666664
+JNDI source	UNIX permissioning system	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JNDI source	LDAP	1	1	3	3	NULL	NULL	NULL	283	167	0.001177856301531213
+JNDI source	NT user database	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JNF site	Rosh Hanikra	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JNI function	throwing an exception	1	1	1	1	NULL	NULL	NULL	1	1	1
+jni-based wrapper framework	JPE	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jni-compatible call	117 in FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+jnion evangelist	Elder Richard Halversen	1	1	1	1	NULL	NULL	NULL	1	1	1
+JNK introduction chronic liver disease	chronic cholestasis	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+JNK introduction chronic liver disease	nonalcoholic steatohepatitis	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+JNK scaffolding protein	islet brain1	1	1	1	1	NULL	NULL	NULL	1	1	1
+JNK substrate	ATP	2	2	3	2	0.666666666666	NULL	NULL	439	195	0.003037205770690964
+JNK substrate	paxillin	1	1	3	2	0.666666666666	NULL	NULL	50	34	0.006666666666666666
+jnk-inducing signal	UV	1	1	1	1	NULL	NULL	NULL	347	203	0.002881844380403458
+JNKKKs	MEKK1	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+jnlp file	jfdraw.jnlp at jfimagine.com website	1	1	1	1	NULL	NULL	NULL	1	1	1
+JNNURM reform	user charges on basic service	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JNNURM reform	re-engineering	1	1	4	4	NULL	NULL	NULL	60	44	0.004166666666666667
+JNNURM reform	accounting reform	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+JNNURM reform	property tax system	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+JNNURM rehabilitation project	Shyam Nagar	1	1	1	1	NULL	NULL	NULL	1	1	1

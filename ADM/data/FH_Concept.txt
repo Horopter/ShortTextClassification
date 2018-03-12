@@ -1,0 +1,82 @@
+FH parameter	hop timing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FH parameter	hopping carrier frequency	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHA approved lender	bank	1	1	2	2	NULL	NULL	NULL	11524	2789	0.00004338771259979174
+FHA approved lender	mortgage company	1	1	2	2	NULL	NULL	NULL	270	100	0.001851851851851852
+FHA approved mortgage lender	bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+FHA closing issue	low appraisal	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FHA domain	ones found in yeast Rad53	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHA economist	Homer Hoyt	2	1	2	1	NULL	NULL	NULL	2	1	1
+FHA gift charity	Nehemiah Corp. of America	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+fha government loan loan	VA	1	1	3	3	NULL	NULL	NULL	390	169	0.0008547008547008547
+fha government loan loan	FHA	1	1	3	3	NULL	NULL	NULL	448	167	0.000744047619047619
+fha government loan loan	USDA	1	1	3	3	NULL	NULL	NULL	311	109	0.0010718113612004287
+FHA lender	Crestline Funding	1	1	1	1	NULL	NULL	NULL	1	1	1
+fha loan	benefit fha loan	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FHA loan	the American Dream Downpayment Initiative	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHA mortgage loan program	203 program	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHA option	NC Housing s down payment assistance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHA option	gift from family	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHA process	Active Partners Performance System	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHA program	Standard fixed rate	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FHA program	FHA adjustable rate mortgage	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FHA program	projects financed by LIHTCs	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FHA program	projects financed by the low-income housing tax credit	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FHA refinancing option	FHA-HAMP program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHA refinancing option	FHA short-refinancing option	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHA variety	Maryland Mortgage Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+fha-approved lender	mortgage broker	1	1	4	4	NULL	NULL	NULL	206	123	0.0012135922330097086
+fha-approved lender	mortgage company	1	1	4	4	NULL	NULL	NULL	270	100	0.000925925925925926
+fha-approved lender	credit union	1	1	4	4	NULL	NULL	NULL	1043	354	0.00023969319271332693
+fha-approved lender	bank	1	1	4	4	NULL	NULL	NULL	11524	2789	0.00002169385629989587
+fha-approved lending institution	bank	13	10	36	5	0.200000000000	NULL	NULL	11524	2789	0.00040736241274248915
+fha-approved lending institution	saving	11	8	36	5	0.200000000000	NULL	NULL	1396	488	0.0024076727156956386
+fha-approved lending institution	mortgage company	10	7	36	5	0.200000000000	NULL	NULL	270	100	0.0102880658436214
+fha-approved lending institution	mortgage lender	1	1	36	5	0.200000000000	NULL	NULL	147	66	0.00018896447467876037
+fha-approved lending institution	credit union	1	1	36	5	0.200000000000	NULL	NULL	1043	354	0.000026632576968147438
+fha-created incentive	subsidized mortgage	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FHA-HERO resource	fall affiliation packet	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHB control strategy	crop rotation	1	1	1	1	NULL	NULL	NULL	985	317	0.0010152284263959391
+FHB officer	AVP Saipan area manager Juan SN	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHBA committee	Governmental Affairs	1	1	4	4	NULL	NULL	NULL	3	2	0.08333333333333333
+FHBA committee	Impact Fee Task Force	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FHBA committee	Developers Council	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FHBA committee	New Vision Task Force	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+fhese habit	paragraph length	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+FHLB member	Beal's bank	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+fhlbanks investment	MBS	1	1	1	1	1.000000000000	NULL	NULL	23	23	0.043478260869565216
+FHLBs	Dallas FHLB	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+FHLBs	FHLB New York	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fholiday glass ornament	snowflake	1	1	2	2	NULL	NULL	NULL	227	168	0.0022026431718061676
+fholiday glass ornament	star	1	1	2	2	NULL	NULL	NULL	1598	728	0.00031289111389236547
+FHP CAD event	traffic stops by officer	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHP element	prevention program	1	1	1	1	1.000000000000	NULL	NULL	23	17	0.043478260869565216
+FHR amenity	room upgrade	1	1	1	1	1.000000000000	NULL	NULL	39	23	0.02564102564102564
+FHRP	HSRP	1	1	1	1	1.000000000000	NULL	NULL	31	18	0.03225806451612903
+FHRP FHRPs	VRRP	1	1	1	1	1.000000000000	NULL	NULL	26	16	0.038461538461538464
+FHRPs	Neighbor Unreachability Detection	2	1	7	5	1.000000000000	NULL	NULL	3	2	0.19047619047619047
+FHRPs	VRRP	2	2	7	5	1.000000000000	NULL	NULL	26	16	0.021978021978021976
+FHRPs	HSRP	1	1	7	5	1.000000000000	NULL	NULL	31	18	0.004608294930875576
+FHRPs	Hot-Standby Router Protocol	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FHRPs	Hot-Standby R outer Protocol	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+FHS item	program	1	1	3	3	NULL	NULL	NULL	1312	601	0.0002540650406504065
+FHS item	equipment	1	1	3	3	NULL	NULL	NULL	4707	1559	0.00007081651441116068
+FHS item	banner	1	1	3	3	NULL	NULL	NULL	1989	924	0.0001675884028825205
+FHSS application	cordless telephony	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FHSS radio	Bluetooth	1	1	1	1	NULL	NULL	NULL	2836	910	0.0003526093088857546
+FHSS system	Bluetooth	2	2	4	3	NULL	NULL	NULL	2836	910	0.0003526093088857546
+FHSS system	Bluetooth device	1	1	4	3	NULL	NULL	NULL	66	35	0.003787878787878788
+FHSS system	HomeRF device	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+FHSWLRQVIRUFROXPQV relative key figure	variance	1	1	1	1	NULL	NULL	NULL	525	261	0.0019047619047619048
+FHWA activity	innovative financing	4	4	12	3	1.000000000000	NULL	NULL	9	4	0.14814814814814814
+FHWA activity	public private partnership	4	4	12	3	1.000000000000	NULL	NULL	36	38	0.037037037037037035
+FHWA activity	experimental project	4	4	12	3	1.000000000000	NULL	NULL	6	3	0.2222222222222222
+FHWA effort	Accelerated Test study	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHWA fund	National Highway System Funds	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHWA program	Bridge	1	1	3	3	0.500000000000	NULL	NULL	5081	2007	0.00006560388374991799
+FHWA program	Congestion Mitigation	1	1	3	3	0.500000000000	NULL	NULL	17	14	0.0196078431372549
+FHWA program	Air Quality Improvement Program	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+FHWA publication	Design of Stable Channels With Flexible Linings	1	1	1	1	NULL	NULL	NULL	1	1	1
+FHWA regulated agency	trucking company	1	1	1	1	NULL	NULL	NULL	76	54	0.013157894736842105
+fhwa's objective	coordinating with the United States Department of Defense	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fhwa's objective	improving interagency communication	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FHWAR datum	sportsperson expenditure	1	1	1	1	NULL	NULL	NULL	1	1	1

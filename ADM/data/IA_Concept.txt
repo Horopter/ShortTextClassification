@@ -1,0 +1,514 @@
+IA	high CMRR	2	2	7	6	0.200000000000	NULL	NULL	3	2	0.19047619047619047
+ia	required criter ia	1	1	7	6	0.200000000000	NULL	NULL	2	2	0.07142857142857142
+IA	sea water	1	1	7	6	0.200000000000	NULL	NULL	93	61	0.0015360983102918587
+ia	calcification criter ia	1	1	7	6	0.200000000000	NULL	NULL	2	2	0.07142857142857142
+IA	MAX4208 with low V OS	1	1	7	6	0.200000000000	NULL	NULL	1	1	0.14285714285714285
+IA	MAX4208 with low VOS	1	1	7	6	0.200000000000	NULL	NULL	1	1	0.14285714285714285
+IA activity	review of internal control	1	1	1	1	NULL	NULL	NULL	1	1	1
+IA agent	procainamide	1	1	1	1	NULL	NULL	NULL	239	48	0.0041841004184100415
+IA artifact	pottery	1	1	2	2	NULL	NULL	NULL	1931	710	0.0002589331952356292
+IA artifact	slag	1	1	2	2	NULL	NULL	NULL	335	160	0.0014925373134328358
+ia bles	precious metal	1	1	1	1	0.500000000000	NULL	NULL	472	202	0.00211864406779661
+IA capability element	IA professionalism	2	2	2	1	NULL	NULL	NULL	2	1	1
+IA client deliverables	mind map	1	1	1	1	NULL	NULL	NULL	81	59	0.012345679012345678
+IA component	firewall	1	1	1	1	NULL	NULL	NULL	2973	1055	0.0003363605785401951
+IA concept	faceted classification	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IA configuration file	services . ora	1	1	1	1	NULL	NULL	NULL	1	1	1
+IA deliverables	content inventory	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IA device	firewall	1	1	1	2	NULL	NULL	NULL	2973	1055	0.0003363605785401951
+IA early advanced use feature	diagram	1	1	5	5	NULL	NULL	NULL	1291	433	0.0001549186676994578
+IA early advanced use feature	chart	1	1	5	5	NULL	NULL	NULL	2668	849	0.0000749625187406297
+IA early advanced use feature	format	1	1	5	5	NULL	NULL	NULL	534	245	0.0003745318352059925
+IA early advanced use feature	table of content	1	1	5	5	NULL	NULL	NULL	306	133	0.0006535947712418301
+IA early advanced use feature	glossary	1	1	5	5	NULL	NULL	NULL	448	168	0.00044642857142857147
+IA element	Li	1	1	1	1	NULL	NULL	NULL	220	101	0.004545454545454545
+IA event	worm	1	1	1	1	NULL	NULL	NULL	2308	714	0.0004332755632582322
+IA management process	issue follow-up	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+IA management process	workpaper preparation	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+IA management process	planning	1	1	5	5	NULL	NULL	NULL	3605	1345	0.00005547850208044383
+IA management process	scheduling	1	1	5	5	NULL	NULL	NULL	1696	777	0.0001179245283018868
+IA management process	reporting	1	1	5	5	NULL	NULL	NULL	972	476	0.000205761316872428
+IA method	participatory method	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+ia offering course	Official Sratistics	1	1	1	1	NULL	NULL	NULL	1	1	1
+iA performance	Confront Detection	1	1	1	1	NULL	NULL	NULL	1	1	1
+IA policy	DIACAP	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+IA principle	classification	1	1	3	3	NULL	NULL	NULL	785	365	0.00042462845010615707
+IA principle	common IA pattern	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IA principle	category	1	1	3	3	NULL	NULL	NULL	587	194	0.0005678591709256105
+IA procedure	notification	1	1	1	1	NULL	NULL	NULL	212	127	0.0047169811320754715
+IA program	DoD Public Key Infrastructure	1	1	1	1	NULL	NULL	NULL	1	1	1
+IA project	vulnerability management	1	1	3	3	1.000000000000	NULL	NULL	15	10	0.02222222222222222
+IA project	C&A project	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IA project	information security program development	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IA service	authentication	1	1	3	3	NULL	NULL	NULL	1169	500	0.000285143997718848
+IA service	confidentiality	1	1	3	3	NULL	NULL	NULL	1176	340	0.0002834467120181406
+IA service	integrity	1	1	3	3	NULL	NULL	NULL	2785	714	0.00011968880909634949
+IA solution	User Task Flows	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IA solution	Site Maps	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IA standard	BS7799	1	1	2	2	1.000000000000	NULL	NULL	11	6	0.045454545454545456
+IA standard	ISO17799	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+IA-32 application	Word Perfect	2	1	2	1	0.500000000000	NULL	NULL	88	37	0.022727272727272728
+IA-32 CPUs	Intel's Pentium 4	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+IA-32 CPUs	AMD's Athlon	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+IA-32 processor	Pentium Pro	1	1	3	3	1.000000000000	NULL	NULL	20	12	0.016666666666666666
+IA-32 processor	Intel's 80486	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IA-32 processor	Pentium II	1	1	3	3	1.000000000000	NULL	NULL	27	18	0.012345679012345678
+IA-64 feature	speculation	1	1	2	2	0.500000000000	NULL	NULL	75	42	0.006666666666666667
+IA-64 feature	predication	1	1	2	2	0.500000000000	NULL	NULL	19	13	0.02631578947368421
+IA-64 system	Columbia	1	1	1	1	NULL	NULL	NULL	1145	374	0.0008733624454148472
+IA-64 system vendor	HP	1	1	1	1	NULL	NULL	NULL	5009	1443	0.00019964064683569574
+IA-64 vendor	Dell	1	1	1	1	NULL	NULL	NULL	6439	1426	0.00015530361857431278
+ia-enabling technology	Public Key Infrastructure	1	1	1	1	NULL	NULL	NULL	100	58	0.01
+IA-HEV member country	Canada	1	1	1	1	NULL	NULL	NULL	14882	1900	0.00006719526945303051
+ia-related publication	Journal of Information Architecture	2	2	2	1	NULL	NULL	NULL	2	1	1
+IA64 machine	DEC Alpha	1	1	2	2	1.000000000000	NULL	NULL	16	11	0.03125
+IA64 machine	Sun Sparc	1	1	2	2	1.000000000000	NULL	NULL	15	8	0.03333333333333333
+IAA measure	kappa	1	1	1	1	1.000000000000	NULL	NULL	54	38	0.018518518518518517
+IAA precursor	tryptophan	2	2	4	2	0.500000000000	NULL	NULL	332	114	0.0030120481927710845
+IAA precursor	tryptamine	2	2	4	2	0.500000000000	NULL	NULL	27	17	0.037037037037037035
+IAA project	robotic GraffitiWriter	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAA response	tropism	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+IAA response	asymmetric IAA distribution in tropic organ	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+iaa-induced rapid response	cell membrane hyperpolarization	2	1	2	1	NULL	NULL	NULL	2	1	1
+IAAF ambassador	world record holders Wilson Kipketer	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAAF honor	IAAF Golden Order of Merit	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+IAAF honor	IAAF Plaque of Merit	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+IAAF honor	IAAF Silver Order of Merit	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+iaas offering	Amazon's Elastic Compute Cloud	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+iaas platform	Amazon Web Services Elastic Compute Cloud	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+iaas platform	Eucalyptus	1	1	2	2	NULL	NULL	NULL	1377	445	0.00036310820624546115
+iaas player	Rack Space	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667
+iaas provider	Amazon	2	2	6	5	0.333333333333	NULL	NULL	6750	1912	0.00009876543209876543
+iaas provider	Amazon Web Services	2	1	6	5	0.333333333333	NULL	NULL	84	58	0.007936507936507936
+iaas provider	Amazon EC2 service	1	1	6	5	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+iaas provider	Rackspace	1	1	6	5	0.333333333333	NULL	NULL	140	67	0.0011904761904761904
+iaas service	Amazon EC2	1	1	1	1	0.500000000000	NULL	NULL	118	71	0.00847457627118644
+iaas solution	Amazon EC2	1	1	1	1	NULL	NULL	NULL	118	71	0.00847457627118644
+iaas vendor	Amazon	2	2	2	1	NULL	NULL	NULL	6750	1912	0.0002962962962962963
+iaas-type cloud	EC2	1	1	1	1	1.000000000000	NULL	NULL	27	23	0.037037037037037035
+iaascloud provider	GoGrid	1	1	2	2	1.000000000000	NULL	NULL	35	16	0.014285714285714285
+iaascloud provider	FlexiScale	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+iaatm's document	membership list	1	1	1	1	1.000000000000	NULL	NULL	35	27	0.02857142857142857
+IAB service	conference	1	1	5	5	0.200000000000	NULL	NULL	2864	1022	0.00006983240223463688
+IAB service	educational event	1	1	5	5	0.200000000000	NULL	NULL	28	21	0.0071428571428571435
+IAB service	seminar	1	1	5	5	0.200000000000	NULL	NULL	2782	981	0.00007189072609633358
+IAB service	newsletter	1	1	5	5	0.200000000000	NULL	NULL	3095	1282	0.00006462035541195476
+IAB service	discussion group	1	1	5	5	0.200000000000	NULL	NULL	302	178	0.0006622516556291391
+IABC houston friend	Menninger Clinic	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+IABC international publication	CW Bulletin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IABC international publication	Communications World magazine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IABC university branch	James Madison University	1	1	1	1	1.000000000000	NULL	NULL	17	9	0.058823529411764705
+iabetic diet	milk diet	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+iabetic diet	rice diet	1	1	4	4	1.000000000000	NULL	NULL	10	10	0.025
+iabetic diet	oat cure	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+iabetic diet	use of opium	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+iabetics treatment option	use of diuretic	1	1	1	1	1.000000000000	NULL	NULL	16	12	0.0625
+iable method	Unterzaucher analysis	1	1	1	1	NULL	NULL	NULL	1	1	1
+IABP datum set	surface air temperature	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+IABPs	Datascope System 98XT	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAC brand	Ask.com	1	1	1	1	NULL	NULL	NULL	129	55	0.007751937984496124
+IAC company	Ticketmaster	1	1	2	2	0.500000000000	NULL	NULL	104	62	0.004807692307692308
+IAC company	LendingTree	1	1	2	2	0.500000000000	NULL	NULL	33	21	0.015151515151515152
+IAC recommendation	pensioner copayment	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAC's award-winning training	Consciousness Development Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+iac's major partner	Siemens	2	2	6	3	0.250000000000	NULL	NULL	2293	783	0.00029073993312981537
+iac's major partner	Schneider	2	2	6	3	0.250000000000	NULL	NULL	85	46	0.00784313725490196
+iac's major partner	ABB	2	2	6	3	0.250000000000	NULL	NULL	510	223	0.00130718954248366
+iac's online travel agent	expedia.com	1	1	1	1	NULL	NULL	NULL	278	117	0.0035971223021582736
+IACC global challenge	sustainability	1	1	2	2	0.500000000000	NULL	NULL	1490	413	0.0003355704697986577
+IACC global challenge	human security	1	1	2	2	0.500000000000	NULL	NULL	56	33	0.008928571428571428
+IACC member	Art Furia of Gunster	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IACC member	Yoakley & Stewart	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IACC member	Art Fureia of Gunster	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IACC member facility	Banff Centre	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+iacc's active member	Kellogg Conference Hotel	1	1	1	1	NULL	NULL	NULL	1	1	1
+iaccarino design variable	draft	1	1	2	2	NULL	NULL	NULL	264	153	0.001893939393939394
+iaccarino design variable	camber	1	1	2	2	NULL	NULL	NULL	80	51	0.00625
+IACLE program	Student Trial Exam At the Tianjin Medical University	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IACLE program	National Coordinator	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+IACUC record	inspections report	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IACUC record	meeting minute	1	1	3	3	NULL	NULL	NULL	246	101	0.0013550135501355014
+IACUC record	committee membership list	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IAD subtypes	gaming overuse	1	1	1	1	0.250000000000	NULL	NULL	1	1	1
+IAD tumor model	androgen-dependent Shionogi carcinomas in mice	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IADAA member	Charles Ede	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IADAA member	Rupert Wace	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IADB skill	teamwork	1	1	1	1	NULL	NULL	NULL	2187	609	0.0004572473708276177
+IADL item	money management	1	1	3	3	NULL	NULL	NULL	320	128	0.0010416666666666667
+IADL item	housework	1	1	3	3	NULL	NULL	NULL	396	161	0.0008417508417508417
+IADL item	shopping	1	1	3	3	NULL	NULL	NULL	3213	983	0.00010374520178441747
+IADL limitation	having difficulty shopping	1	1	1	1	NULL	NULL	NULL	1	1	1
+IADL task	cooking	1	1	3	3	NULL	NULL	NULL	5018	1453	0.00006642752756742393
+IADL task	shopping	1	1	3	3	NULL	NULL	NULL	3213	983	0.00010374520178441747
+IADL task	housework	1	1	3	3	NULL	NULL	NULL	396	161	0.0008417508417508417
+iadl-specific domain	manual skill	2	2	2	1	0.500000000000	NULL	NULL	3	2	0.6666666666666666
+IADLs	handling finance	1	1	1	1	0.230769230769	NULL	NULL	11	9	0.09090909090909091
+iadrenergic agent	beta blocker	1	1	1	1	NULL	NULL	NULL	692	136	0.001445086705202312
+IAE component	National Institute of Health's past performance database	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAEA activity	quality audit	2	1	4	2	1.000000000000	NULL	NULL	17	13	0.058823529411764705
+IAEA activity	implementation of medical physics education program	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+IAEA guideline	Milestones in the Development of a National Infrastructure for Nuclear Power	2	1	2	1	NULL	NULL	NULL	2	1	1
+IAEA member state	U.S	1	1	1	1	NULL	NULL	NULL	1028	276	0.0009727626459143969
+IAEA publication	documents from the Technical Reports Series	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+IAEA publication	Safety Reports	1	1	3	2	NULL	NULL	NULL	3	2	0.1111111111111111
+iaediata illness	cancer	1	1	2	2	NULL	NULL	NULL	12145	2003	0.000041169205434335116
+iaediata illness	heart disease	1	1	2	2	NULL	NULL	NULL	8051	1227	0.00006210408644888833
+IAEI supporter	ETI	1	1	2	2	0.750000000000	NULL	NULL	6	6	0.08333333333333333
+IAEI supporter	Platt	1	1	2	2	0.750000000000	NULL	NULL	7	9	0.07142857142857142
+IAF legacy combat aircraft	MiG-27	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IAF legacy combat aircraft	MiG-29	1	1	2	2	NULL	NULL	NULL	8	4	0.0625
+IAF member	Access Intelligence	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+IAF member	Telespazio	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+IAFPA organisational information	membership detail	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+IAFPA organisational information	mission statement	1	1	2	2	0.500000000000	NULL	NULL	122	92	0.004098360655737705
+IAFWA entity	Law Enforcement Committee	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IAFWA entity	Invasive Species Advisory Work Group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iag provider	national iag provider	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iag's major operating brand	SGIO	3	1	9	3	NULL	NULL	NULL	5	3	0.2
+iag's major operating brand	SGIC	3	1	9	3	NULL	NULL	NULL	6	3	0.16666666666666666
+iag's major operating brand	NRMA Insurance	3	1	9	3	NULL	NULL	NULL	4	2	0.25
+IAGC member	Geophysical Pursuit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IAGC member	WesternGeco	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+IAGC member	TGS NOPEC	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+IAGNOSIS A. diagnosis anxiety symptom	fear	1	1	3	3	NULL	NULL	NULL	5762	1341	0.00005785028346638898
+IAGNOSIS A. diagnosis anxiety symptom	nervousness	1	1	3	3	NULL	NULL	NULL	857	272	0.00038895371450797355
+IAGNOSIS A. diagnosis anxiety symptom	worry	1	1	3	3	NULL	NULL	NULL	911	250	0.00036589828027808267
+iagnostic procedure	blood	1	1	2	2	NULL	NULL	NULL	2818	957	0.000177430801987225
+iagnostic procedure	physical exam	1	1	2	2	NULL	NULL	NULL	122	72	0.004098360655737705
+iagnostic study	blood test	1	1	2	2	NULL	NULL	NULL	1195	307	0.00041841004184100416
+iagnostic study	x-rays	1	1	2	2	NULL	NULL	NULL	3587	832	0.00013939224979091162
+iagnostic technique	radiography	1	1	2	2	NULL	NULL	NULL	392	193	0.0012755102040816326
+iagnostic technique	electrocardiography	1	1	2	2	NULL	NULL	NULL	111	68	0.0045045045045045045
+IAH game favorite	Animal Kaiser	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IAH game favorite	Dragonica	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+IAIA section	Health	1	1	1	1	NULL	NULL	NULL	12226	3162	0.00008179290037624735
+iaido school	Mugai Ryu	1	1	1	1	NULL	NULL	NULL	1	1	1
+iain's favorite heavy metal band	Children of Bodom	2	2	4	2	1.000000000000	NULL	NULL	63	19	0.015873015873015872
+iain's favorite heavy metal band	Lamb of God	2	2	4	2	1.000000000000	NULL	NULL	109	29	0.009174311926605505
+iair pollutant	ground-level ozone	1	1	1	1	1.000000000000	NULL	NULL	54	24	0.018518518518518517
+ial	velour	1	1	6	6	NULL	NULL	NULL	140	65	0.0011904761904761904
+ial	grades of sandpaper	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+ial	leather	1	1	6	6	NULL	NULL	NULL	3707	1035	0.0000449599856128046
+ial	satin	1	1	6	6	NULL	NULL	NULL	1160	366	0.00014367816091954023
+ial	cotton	1	1	6	6	NULL	NULL	NULL	8381	1830	0.000019886250646303143
+ial	inert filtration mater ial	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ial commercial relational database system	Ingres	1	1	4	4	NULL	NULL	NULL	73	34	0.003424657534246575
+ial commercial relational database system	IBM DB2	1	1	4	4	NULL	NULL	NULL	109	60	0.0022935779816513763
+ial commercial relational database system	DEC Rdb	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ial commercial relational database system	Oracle	1	1	4	4	NULL	NULL	NULL	4631	1430	0.00005398402072986396
+ial event	dance	1	1	1	1	NULL	NULL	NULL	5030	1458	0.00019880715705765408
+ial guest	Christena Lynch Erglis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ial guest	Bill Gordon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ial guest	Betty Archer	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ial guest	Donna Poelzer	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ial interaction	trade	1	1	1	1	NULL	NULL	NULL	1822	671	0.0005488474204171241
+ialalgorithms	clustering	1	1	1	1	NULL	NULL	NULL	982	424	0.0010183299389002036
+ialapplications	studies of the inner ear	1	1	1	1	NULL	NULL	NULL	1	1	1
+ialcharacters	newline	1	1	2	2	1.000000000000	NULL	NULL	22	10	0.022727272727272728
+ialcharacters	horizontal tab	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ialcontrol mechanism	recommendation	1	1	1	1	NULL	NULL	NULL	285	162	0.0035087719298245615
+ialfactors	population density	1	1	2	2	NULL	NULL	NULL	734	258	0.0006811989100817438
+ialfactors	group size	1	1	2	2	NULL	NULL	NULL	180	73	0.002777777777777778
+ialfit parameter	width	1	1	1	1	NULL	NULL	NULL	1384	568	0.000722543352601156
+ialharmonyand function	breathing	1	1	1	1	NULL	NULL	NULL	1403	570	0.0007127583749109052
+ialinmany physiological and pathological condition	diabetic retinopathy	1	1	3	3	NULL	NULL	NULL	522	148	0.0006385696040868454
+ialinmany physiological and pathological condition	arthritis	1	1	3	3	NULL	NULL	NULL	6085	1050	0.00005477951246233908
+ialinmany physiological and pathological condition	tumor	1	1	3	3	NULL	NULL	NULL	1328	486	0.000251004016064257
+ialinsects	leaf cutter ant	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+ialinsects	army ant	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+ialinstitutions	marriage	1	1	1	1	NULL	NULL	NULL	4449	1264	0.0002247696111485727
+ialistsidewere author	Barone	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+ialistsidewere author	Lange	1	1	2	2	1.000000000000	NULL	NULL	24	15	0.020833333333333332
+ializedcells	hemocytes	1	1	1	1	NULL	NULL	NULL	1	1	1
+ially hazardous element	glass	1	1	1	1	NULL	NULL	NULL	12254	3248	0.00008160600620205648
+iallyexcluded group	free black	1	1	2	2	0.500000000000	NULL	NULL	7	5	0.07142857142857142
+iallyexcluded group	immigrant	1	1	2	2	0.500000000000	NULL	NULL	218	97	0.0022935779816513763
+ialmechanisms	emotional contagion	1	1	2	2	0.666666666666	NULL	NULL	9	7	0.05555555555555555
+ialmechanisms	vicarious learning	1	1	2	2	0.666666666666	NULL	NULL	10	9	0.05
+ialmodels	White&Frenk	1	1	1	1	NULL	NULL	NULL	1	1	1
+ialmovements	civil rights movement	1	1	1	1	NULL	NULL	NULL	205	95	0.004878048780487805
+ialsciences	anthropology	1	1	1	1	NULL	NULL	NULL	1171	226	0.0008539709649871904
+ialsectors	automotive	1	1	3	3	NULL	NULL	NULL	2606	577	0.00012790995139421845
+ialsectors	pharmaceutical	1	1	3	3	NULL	NULL	NULL	3698	910	0.00009013881377321073
+ialsectors	fabricated metal s	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ialso use accounting performance measure	return on equity	1	1	3	3	0.333333333333	NULL	NULL	207	116	0.001610305958132045
+ialso use accounting performance measure	return on asset	1	1	3	3	0.333333333333	NULL	NULL	197	110	0.001692047377326565
+ialso use accounting performance measure	return on sale	1	1	3	3	0.333333333333	NULL	NULL	33	25	0.0101010101010101
+ialsoassumethat promotional activity	feature	1	1	1	1	NULL	NULL	NULL	510	195	0.00196078431372549
+ialsoflndthat variable	volatility	1	1	2	2	0.500000000000	NULL	NULL	337	152	0.001483679525222552
+ialsoflndthat variable	market return	1	1	2	2	0.500000000000	NULL	NULL	11	10	0.045454545454545456
+IAM activity	weekly participation in the Bayview Farmers Market	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAM capability	single sign-on	1	1	2	2	0.500000000000	NULL	NULL	101	65	0.0049504950495049506
+IAM capability	reduced	1	1	2	2	0.500000000000	NULL	NULL	9	8	0.05555555555555555
+IAM employer	Boeing	1	1	2	2	NULL	NULL	NULL	2227	558	0.000224517287831163
+IAM employer	Lockheed	1	1	2	2	NULL	NULL	NULL	189	76	0.0026455026455026454
+IAM event	annual reception	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IAM function	identity management	2	1	6	5	1.000000000000	NULL	NULL	97	59	0.006872852233676976
+IAM function	identity governance	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+IAM function	entitlement management	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+IAM function	trusted broker network	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+IAM function	outsourced identity management	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+IAM member	David Thistle	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAM technology	access	1	1	2	2	NULL	NULL	NULL	2308	763	0.0002166377816291161
+IAM technology	role life-cycle management	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IAMAS information booth publication	Graduate Exhibition Catalogue	1	1	1	1	NULL	NULL	NULL	1	1	1
+iamblichus many follower	Priscus	1	1	5	5	0.666666666666	NULL	NULL	2	2	0.1
+iamblichus many follower	Aedesius	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+iamblichus many follower	Themistius	1	1	5	5	0.666666666666	NULL	NULL	3	3	0.06666666666666667
+iamblichus many follower	Sopater	1	1	5	5	0.666666666666	NULL	NULL	4	3	0.05
+iamblichus many follower	Chrysanthius	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+IAMD common software product	Common Data Link Interface Management	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IAMD common software product	Integrated Defense Design	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IAMD common software product	Common Warfighter Machine Interface	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IAMD common software product	Joint Track Management	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+iamellar structure	inverted micelles	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+iameter vessel	coronary	1	1	1	1	NULL	NULL	NULL	44	36	0.022727272727272728
+iamgladthat researcher	present author	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+iamignoringother consideration	transportation	1	1	1	1	NULL	NULL	NULL	8378	2254	0.00011936022917164001
+IAML-US endowment fund	Lenore Coral Travel Grant Endowment	1	1	1	1	NULL	NULL	NULL	1	1	1
+ian angus contemporary social movement	feminism	2	2	4	2	NULL	NULL	NULL	488	209	0.0020491803278688526
+ian angus contemporary social movement	environmentalism	2	2	4	2	NULL	NULL	NULL	200	86	0.005
+ian livingstone fighting fantasy book	Deathtrap Dungeon	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ian livingstone fighting fantasy book	Temple of Terror	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ian's literary influence	Stepner	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ian's signature adventure	River Cave Expedition	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ianaguages	LATIN & GREEK & HEBREW	1	1	1	1	NULL	NULL	NULL	1	1	1
+iancountries	Czech Republic	1	1	1	1	NULL	NULL	NULL	2119	342	0.00047192071731949034
+Iand Qbuffermemories	RAM1 in Tx-MCIDS-Buffer-BufI A.52	1	1	1	1	NULL	NULL	NULL	1	1	1
+iannis xenakis orchestral work	Metastasis	3	3	6	2	1.000000000000	NULL	NULL	134	72	0.011194029850746268
+iannis xenakis orchestral work	Pithoprakta	3	3	6	2	1.000000000000	NULL	NULL	4	2	0.375
+iannone UTU officer	former Vice Presidents Howard Kenyon	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IANPHI member country	Guinea-Bissau	2	2	2	1	1.000000000000	NULL	NULL	102	35	0.0196078431372549
+ians	greek histor ians	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ianto's friend	party-girl Gwenno	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ianto's friend	psychopathic Roger	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IANYF ebruaryclasses	Estimating by Art Elmers	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+IAP activity	work experience	1	1	1	1	NULL	NULL	NULL	497	190	0.002012072434607646
+IAP angiographic abnormality	artery-to-artery anastomoses	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IAP angiographic abnormality	arteriovenous shunt	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+IAP control intervention	use of an LPG stove for cooking	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAP negative regulatory molecule	XAF	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+IAP protein	XIAP	3	3	9	5	1.000000000000	NULL	NULL	27	14	0.037037037037037035
+IAP protein	inhibitor of apoptosis-1	2	2	9	5	1.000000000000	NULL	NULL	2	1	0.2222222222222222
+IAP protein	X-linked IAP	2	2	9	5	1.000000000000	NULL	NULL	3	2	0.14814814814814814
+IAP protein	X-chromosome linked IAP	1	1	9	5	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+iap protein	human iap protein	1	1	9	5	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+iap-dependent assay	chemotaxis	1	1	1	1	0.500000000000	NULL	NULL	107	63	0.009345794392523364
+IAP9L-AGCM inadequacy	physical process depiction	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+IAPI event	MDs Forums	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IAPI event	AGM	1	1	2	2	1.000000000000	NULL	NULL	39	23	0.01282051282051282
+iaporunt stream	Aterno	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+iApps	iweb	2	1	7	6	0.200000000000	NULL	NULL	42	25	0.013605442176870748
+iApps	ical	1	1	7	6	0.200000000000	NULL	NULL	96	49	0.001488095238095238
+iApps	iphoto	1	1	7	6	0.200000000000	NULL	NULL	251	108	0.0005691519635742744
+iApps	itunes	1	1	7	6	0.200000000000	NULL	NULL	1829	691	0.00007810669374365383
+iapps	classic type iapps	1	1	7	6	0.200000000000	NULL	NULL	1	1	0.14285714285714285
+iApps	Pages	1	1	7	6	0.200000000000	NULL	NULL	157	79	0.0009099181073703366
+IAPs	XIAP	9	8	11	3	0.833333333333	NULL	NULL	27	14	0.27272727272727276
+IAPs	human XIAP	1	1	11	3	0.833333333333	NULL	NULL	1	1	0.09090909090909091
+IAPs	NAIP	1	1	11	3	0.833333333333	NULL	NULL	7	6	0.012987012987012988
+iapu tree	tipua	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAQ contaminant	asbestos	1	1	3	3	NULL	NULL	NULL	1829	557	0.0001822489520685256
+IAQ contaminant	mold	1	1	3	3	NULL	NULL	NULL	2011	616	0.00016575501408917618
+IAQ contaminant	radon	1	1	3	3	NULL	NULL	NULL	519	200	0.0006422607578676942
+IAQ information	CO2 level	1	1	2	2	0.500000000000	NULL	NULL	12	8	0.041666666666666664
+IAQ information	humidity	1	1	2	2	0.500000000000	NULL	NULL	4029	858	0.00012410027302060066
+IAQ issue	asbestos remediation	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+IAQ issue	radon	1	1	2	2	NULL	NULL	NULL	519	200	0.0009633911368015414
+IAQ parameter	VOCs	1	1	2	2	NULL	NULL	NULL	82	58	0.006097560975609756
+IAQ parameter	particulate	1	1	2	2	NULL	NULL	NULL	258	97	0.001937984496124031
+iaq problem	acute iaq problem	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IAQ product	UV light	1	1	2	3	NULL	NULL	NULL	265	138	0.0018867924528301887
+IAQ product	ventilator	1	1	2	3	NULL	NULL	NULL	269	161	0.0018587360594795538
+IAQ solution product	Indoor Air Quality Meters	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IAQ solution product	Air Capture Hoods	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IAQ solution product	Air Velocity Meters	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+IAQ solution product	Indoor Air Quality Monitors	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+iar name	hydra shok	1	1	7	7	0.750000000000	NULL	NULL	5	5	0.02857142857142857
+iar name	gold dot	1	1	7	7	0.750000000000	NULL	NULL	12	12	0.011904761904761904
+iar name	tactical	1	1	7	7	0.750000000000	NULL	NULL	29	20	0.0049261083743842365
+iar name	golden sabre	1	1	7	7	0.750000000000	NULL	NULL	3	3	0.047619047619047616
+iar name	el nido goyita gold finch xtp	1	1	7	7	0.750000000000	NULL	NULL	1	1	0.14285714285714285
+iar name	black talon	1	1	7	7	0.750000000000	NULL	NULL	7	6	0.02040816326530612
+iar name	silvertip	1	1	7	7	0.750000000000	NULL	NULL	9	8	0.015873015873015872
+IARCs	WARDA in Africa	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+IARCs	International Livestock Research Institute	1	1	6	6	0.750000000000	NULL	NULL	2	2	0.08333333333333333
+IARCs	ILCA	1	1	6	6	0.750000000000	NULL	NULL	10	9	0.016666666666666666
+IARCs	IRRI in Bangladesh	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+IARCs	International of Institute of Tropical Agriculture	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+IARCs	International Water Management Institute	1	1	6	6	0.750000000000	NULL	NULL	4	4	0.041666666666666664
+iareadvanced function	web server module	1	1	1	1	NULL	NULL	NULL	1	1	1
+iarge heavy item	refrigerator	1	1	2	2	NULL	NULL	NULL	5220	1209	0.00009578544061302682
+iarge heavy item	freezer	1	1	2	2	NULL	NULL	NULL	1051	320	0.0004757373929590866
+IARPC agency	National Science Foundation	1	1	1	1	NULL	NULL	NULL	367	106	0.0027247956403269754
+IAS	crofton weed	2	2	15	11	0.400000000000	NULL	NULL	11	7	0.024242424242424242
+IAS	mile-a-minute weed	2	2	15	11	0.400000000000	NULL	NULL	6	5	0.044444444444444446
+IAS	smooth cord-grass	2	2	15	11	0.400000000000	NULL	NULL	3	2	0.08888888888888889
+IAS	water hyacinth	2	2	15	11	0.400000000000	NULL	NULL	503	144	0.0005301524188204108
+IAS	Mandya	1	1	15	11	0.400000000000	NULL	NULL	11	8	0.006060606060606061
+IAS	Nasre Imam	1	1	15	11	0.400000000000	NULL	NULL	1	1	0.06666666666666667
+IAS	Nematullah	1	1	15	11	0.400000000000	NULL	NULL	1	1	0.06666666666666667
+IAS	Maddur	1	1	15	11	0.400000000000	NULL	NULL	2	2	0.03333333333333333
+IAS	trademark	1	1	15	11	0.400000000000	NULL	NULL	908	267	0.00007342143906020558
+IAS	University of Mysore	1	1	15	11	0.400000000000	NULL	NULL	2	2	0.03333333333333333
+IAS	Shoaib	1	1	15	11	0.400000000000	NULL	NULL	6	5	0.011111111111111112
+IAS engineering process	system performance engineering	2	2	2	1	NULL	NULL	NULL	2	1	1
+ias feature	Application Events	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAS item	Butterfly	1	1	2	2	NULL	NULL	NULL	1656	673	0.00030193236714975844
+IAS item	Orchid	1	1	2	2	NULL	NULL	NULL	1177	438	0.0004248088360237893
+IAS officer	Cabinet Secretary	1	1	2	2	1.000000000000	NULL	NULL	5	7	0.1
+IAS officer	Defense Secretary	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+IASB member	Tatsumi Yamada	1	1	1	1	NULL	NULL	NULL	1	1	1
+IASB project	financial statement presentation	1	0	7	7	0.400000000000	NULL	NULL	10	8	0.014285714285714285
+IASB project	post-retirement benefit	1	0	7	7	0.400000000000	NULL	NULL	2	2	0.07142857142857142
+IASB project	consolidation	1	0	7	7	0.400000000000	NULL	NULL	414	188	0.0003450655624568668
+iasb project	fundamental iasb project	1	1	7	7	0.400000000000	NULL	NULL	2	2	0.07142857142857142
+IASB project	insurance contract	1	1	7	7	0.400000000000	NULL	NULL	55	28	0.0025974025974025974
+IASB project	financial instrument	1	0	7	7	0.400000000000	NULL	NULL	63	35	0.0022675736961451248
+IASB project	revenue recognition	1	0	7	7	0.400000000000	NULL	NULL	62	33	0.002304147465437788
+IASC member agency	WFP	1	1	3	3	NULL	NULL	NULL	196	50	0.0017006802721088435
+IASC member agency	UNICEF	1	1	3	3	NULL	NULL	NULL	1481	293	0.00022507314877335134
+IASC member agency	UNHCR	1	1	3	3	NULL	NULL	NULL	352	87	0.0009469696969696969
+iasc-endorsed initiative	donor-led initiative	1	1	1	1	NULL	NULL	NULL	1	1	1
+iasharingsites	Youtubeand Flickr	1	1	1	1	NULL	NULL	NULL	1	1	1
+iasi's main sight	Unification Square	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+iasi's main sight	Moldova Metropolitan Church	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+iasi's main sight	Golia Monastery	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+iasi's main sight	Palace of Culture	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+IASP publication	dictionary of pain term	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+iasp-based solution	cross-site mirroring	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+iasupplements	trace metal mixture	1	1	1	1	NULL	NULL	NULL	1	1	1
+iate fall warm season annual	dent corn	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+iate fall warm season annual	soybean	1	1	2	2	NULL	NULL	NULL	4228	1073	0.00011825922421948912
+iatebackground noise	car traffic	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+iatebackground noise	ocean wave	1	1	2	2	0.500000000000	NULL	NULL	97	61	0.005154639175257732
+iatebetweenfof volunteer activity	Trail Patrol	1	1	1	1	NULL	NULL	NULL	1	1	1
+iatedbyegg hormone	testosterone	1	1	1	1	NULL	NULL	NULL	1383	273	0.0007230657989877079
+iatedbyfactors	built infrastructure	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+iatedbyfactors	urban form	1	1	3	3	0.500000000000	NULL	NULL	21	10	0.015873015873015872
+iatedbyfactors	location	1	1	3	3	0.500000000000	NULL	NULL	9104	1958	0.00003661394258933802
+iatedfeatures	guilt	1	1	1	1	0.250000000000	NULL	NULL	1903	454	0.0005254860746190226
+iatedsymptoms	nausea	1	1	1	1	NULL	NULL	NULL	10577	1695	0.00009454476694714947
+iatives	cross-border init iatives	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iatrogenic accident	perforation	2	2	2	1	NULL	NULL	NULL	491	154	0.004073319755600814
+iatrogenic and environm ental factor	colder temperature	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+iatrogenic arterial access complication	pseudoaneurysm	1	1	1	1	1.000000000000	NULL	NULL	32	18	0.03125
+iatrogenic bilio-enteric communication	bilio-enteric anastomosis	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+iatrogenic bleeding disorder	immune thrombocytopenia	1	1	1	1	1.000000000000	NULL	NULL	11	9	0.09090909090909091
+iatrogenic cause	surgery	2	2	32	29	0.315789473684	NULL	NULL	3491	1070	0.00003580635920939559
+iatrogenic cause	tourniquet release	2	2	32	29	0.315789473684	NULL	NULL	2	1	0.0625
+iatrogenic cause	biopsy	2	1	32	29	0.315789473684	NULL	NULL	594	227	0.00021043771043771043
+iatrogenic cause	blood transfusion	1	1	32	29	0.315789473684	NULL	NULL	232	114	0.00013469827586206896
+iatrogenic cause	catheterization	1	1	32	29	0.315789473684	NULL	NULL	72	43	0.00043402777777777775
+iatrogenic cause	colonoscopy	1	1	32	29	0.315789473684	NULL	NULL	646	180	0.00004837461300309598
+iatrogenic cause	elective cesarean birth	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	endoscopy	1	1	32	29	0.315789473684	NULL	NULL	546	205	0.000057234432234432234
+iatrogenic cause	post-bouginage perforation	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	perforation from a nasogastric tube	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	tonsil surgery	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	endotracheal intubation	1	1	32	29	0.315789473684	NULL	NULL	80	37	0.000390625
+iatrogenic cause	carbon dioxide insufflation during laparoscopy	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	carbon dioxide insufflation during laparosc opy	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	hyponatremia	1	1	32	29	0.315789473684	NULL	NULL	121	55	0.00025826446280991736
+iatrogenic cause	mastoidectomy	1	1	32	29	0.315789473684	NULL	NULL	12	10	0.0026041666666666665
+iatrogenic cause	neurosurgical procedure	1	1	32	29	0.315789473684	NULL	NULL	4	4	0.0078125
+iatrogenic cause	placement of dental implant	1	1	32	29	0.315789473684	NULL	NULL	6	6	0.005208333333333333
+iatrogenic cause	stem cell transplantation	1	1	32	29	0.315789473684	NULL	NULL	30	23	0.0010416666666666667
+iatrogenic cause	sometimes iatrogenic cause	1	1	32	29	0.315789473684	NULL	NULL	2	2	0.015625
+iatrogenic cause	drug	1	1	32	29	0.315789473684	NULL	NULL	5262	1715	0.000005938806537438236
+iatrogenic cause	dental extraction	1	1	32	29	0.315789473684	NULL	NULL	32	19	0.0009765625
+iatrogenic cause	knee arthroplasty	1	1	32	29	0.315789473684	NULL	NULL	5	4	0.00625
+iatrogenic cause	arthroscopic surgery	1	1	32	29	0.315789473684	NULL	NULL	48	30	0.0006510416666666666
+iatrogenic cause	tooth extraction on a dental chair	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	subintimal damage during angiography	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	complications from pulmonary artery catheter	1	1	32	29	0.315789473684	NULL	NULL	1	1	0.03125
+iatrogenic cause	perforation	1	1	32	29	0.315789473684	NULL	NULL	491	154	0.00006364562118126272
+iatrogenic cause	radiation therapy	1	1	32	29	0.315789473684	NULL	NULL	409	155	0.00007640586797066015
+iatrogenic cause medication	corticosteroids	2	2	2	1	NULL	NULL	NULL	1625	344	0.0012307692307692308
+iatrogenic complication	infection	1	1	7	7	0.500000000000	NULL	NULL	5942	1309	0.00002404192912439294
+iatrogenic complication	pleural effusion	1	1	7	7	0.500000000000	NULL	NULL	165	84	0.0008658008658008658
+iatrogenic complication	embolic phenomenon	1	1	7	7	0.500000000000	NULL	NULL	4	4	0.03571428571428571
+iatrogenic complication	chylothorax	1	1	7	7	0.500000000000	NULL	NULL	13	9	0.010989010989010988
+iatrogenic complication	periprosthetic fracture	1	1	7	7	0.500000000000	NULL	NULL	6	5	0.023809523809523808
+iatrogenic complication	renal injury	1	1	7	7	0.500000000000	NULL	NULL	5	4	0.02857142857142857
+iatrogenic complication	cardiac puncture	1	1	7	7	0.500000000000	NULL	NULL	4	4	0.03571428571428571
+iatrogenic condition	gastropathy induced by nonsteroidal anti-inflammatory drug	1	1	1	1	NULL	NULL	NULL	1	1	1
+iatrogenic effect	infection	1	1	5	5	NULL	NULL	NULL	5942	1309	0.00003365870077415012
+iatrogenic effect	vaginal cancer caused by diethylstilbestrol	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+iatrogenic effect	cushingoid appearance	1	1	5	5	NULL	NULL	NULL	5	5	0.04
+iatrogenic effect	root canal treatment	1	1	5	5	NULL	NULL	NULL	82	42	0.0024390243902439024
+iatrogenic effect	bone alteration	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+iatrogenic event	nosocomial infection	2	2	6	3	0.250000000000	NULL	NULL	23	17	0.02898550724637681
+iatrogenic event	pressure sore	2	2	6	3	0.250000000000	NULL	NULL	137	61	0.004866180048661801
+iatrogenic event	block	2	2	6	3	0.250000000000	NULL	NULL	1922	703	0.000346860908775581
+iatrogenic factor	excessive diuresis	2	2	44	34	0.333333333333	NULL	NULL	3	2	0.030303030303030304
+iatrogenic factor	pronounced intraoral temperature fluctuation	2	2	44	34	0.333333333333	NULL	NULL	2	1	0.045454545454545456
+iatrogenic factor	poor cavity preparation design	2	2	44	34	0.333333333333	NULL	NULL	2	1	0.045454545454545456
+iatrogenic factor	skin	2	2	44	34	0.333333333333	NULL	NULL	2481	924	0.000036642116448646074
+iatrogenic factor	urethral	2	2	44	34	0.333333333333	NULL	NULL	13	11	0.006993006993006993
+iatrogenic factor	subgingival margin	2	2	44	34	0.333333333333	NULL	NULL	2	1	0.045454545454545456
+iatrogenic factor	indwelling catheter	2	2	44	34	0.333333333333	NULL	NULL	34	22	0.0026737967914438505
+iatrogenic factor	restorative overhang	2	2	44	34	0.333333333333	NULL	NULL	2	1	0.045454545454545456
+iatrogenic factor	drug	2	2	44	34	0.333333333333	NULL	NULL	5262	1715	0.000017276528108911235
+iatrogenic factor	making fistula	2	2	44	34	0.333333333333	NULL	NULL	2	1	0.045454545454545456
+iatrogenic factor	major surgery	1	1	44	34	0.333333333333	NULL	NULL	82	48	0.0002771618625277162
+iatrogenic factor	immobilization	1	1	44	34	0.333333333333	NULL	NULL	113	61	0.0002011263073209976
+iatrogenic factor	use of nasogastric tube	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	5	1	1	44	34	0.333333333333	NULL	NULL	311	195	0.00007307804735457468
+iatrogenic factor	severed nerve connection	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	wrong selection of restorative material	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	anesthesia complication	1	1	44	34	0.333333333333	NULL	NULL	5	5	0.004545454545454545
+iatrogenic factor	somatostatin	1	1	44	34	0.333333333333	NULL	NULL	190	67	0.00011961722488038278
+iatrogenic factor	hypoperfusion with loss of autoregulation	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	multiple vein puncture	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	laryngoscopy	1	1	44	34	0.333333333333	NULL	NULL	17	9	0.0013368983957219253
+iatrogenic factor	cardiopulmonary resuscitation	1	1	44	34	0.333333333333	NULL	NULL	81	52	0.0002805836139169473
+iatrogenic factor	tonsillectomy	1	1	44	34	0.333333333333	NULL	NULL	94	39	0.00024177949709864604
+iatrogenic factor	trauma	1	1	44	34	0.333333333333	NULL	NULL	2048	628	0.000011097301136363637
+iatrogenic factor	continuous total parenteral nutrition	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	dopamine	1	1	44	34	0.333333333333	NULL	NULL	1228	295	0.000018507551080840985
+iatrogenic factor	tracheostomy	1	1	44	34	0.333333333333	NULL	NULL	37	20	0.0006142506142506142
+iatrogenic factor	catheter placement	1	1	44	34	0.333333333333	NULL	NULL	12	9	0.001893939393939394
+iatrogenic factor	glucocorticoids	1	1	44	34	0.333333333333	NULL	NULL	398	134	0.00005710370031978072
+iatrogenic factor	band	1	1	44	34	0.333333333333	NULL	NULL	1786	574	0.000012725236689402423
+iatrogenic factor	intra-operative cerebral hypoxia	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	hypocapnia	1	1	44	34	0.333333333333	NULL	NULL	6	5	0.003787878787878788
+iatrogenic factor	rude surgery operation	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic factor	polytherapy	1	1	44	34	0.333333333333	NULL	NULL	1	1	0.022727272727272728
+iatrogenic infection	catheter-related bloodstream infection	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+iatrogenic infection	ventilator-acquired pneumonia	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+iatrogenic influence	use of anticoagulant	2	2	3	2	0.166666666666	NULL	NULL	7	6	0.19047619047619047
+iatrogenic influence	steroid hormone	1	1	3	2	0.166666666666	NULL	NULL	105	68	0.0031746031746031746
+iatrogenic injury	minor anorectal surgery	1	1	1	1	0.666666666666	NULL	NULL	1	1	1
+Iatrogenic intervention	endoscopic sphincterotomy	1	1	2	2	1.000000000000	NULL	NULL	9	4	0.05555555555555555
+Iatrogenic intervention	13	1	1	2	2	1.000000000000	NULL	NULL	56	39	0.008928571428571428
+iatrogenic lung disease	medication-induced hypersensitivity pneumonitis	2	2	2	1	NULL	NULL	NULL	2	1	1
+iatrogenic mean steroid	prednisone	1	1	1	1	NULL	NULL	NULL	2235	316	0.00044742729306487697
+iatrogenic measure	antibiotic therapy	1	1	2	2	1.000000000000	NULL	NULL	40	24	0.0125
+iatrogenic measure	immunosuppressive	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+iatrogenic or patient-induced cause	cocaine abuse	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+iatrogenic or patient-induced cause	contraceptive medication	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+iatrogenic or patient-induced cause	verapamil overdose	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+iatrogenic procedural error	transportation	1	1	3	3	0.333333333333	NULL	NULL	8378	2254	0.000039786743057213336
+iatrogenic procedural error	ledge	1	1	3	3	0.333333333333	NULL	NULL	131	81	0.0025445292620865138
+iatrogenic procedural error	separated instrument	1	1	3	3	0.333333333333	NULL	NULL	3	3	0.1111111111111111
+iatrogenic procedure	case iatrogenic procedure	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+iatrogenic procedure	pacemaker electrode	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iatrogenic procedure	catheter	1	1	3	3	NULL	NULL	NULL	734	245	0.00045413260672116256
+iatrogenic risk	radiation	1	1	1	1	NULL	NULL	NULL	1781	602	0.0005614823133071309
+iatrogenic situation	radioactive iodine	1	1	2	2	1.000000000000	NULL	NULL	31	21	0.016129032258064516
+iatrogenic situation	ones resulting from surgical intervention	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+iatrogenic source	endoscopic retrograde choledochopancreatography	1	1	1	1	NULL	NULL	NULL	1	1	1
+Iatrogenic trauma	lateral epicondylectomy	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iatrogenic UVR	PUVA for psoriasis	1	1	1	1	NULL	NULL	NULL	1	1	1
+iaudio's signature feature	excellent sound output	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iaudio's signature feature	DSP feature	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iaudio's signature feature	fantastic EQ	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Iaulr s	burntout resistor	1	1	1	1	NULL	NULL	NULL	1	1	1
+IAYT's public contact information	city	1	1	5	5	NULL	NULL	NULL	3651	1059	0.00005477951246233909
+IAYT's public contact information	state	1	1	5	5	NULL	NULL	NULL	2687	1107	0.00007443245254931151
+IAYT's public contact information	name	1	1	5	5	NULL	NULL	NULL	13911	2278	0.000014377111638271872
+IAYT's public contact information	zip code	1	1	5	5	NULL	NULL	NULL	688	210	0.00029069767441860465
+IAYT's public contact information	credential	1	1	5	5	NULL	NULL	NULL	111	67	0.0018018018018018018
+Iazzpioneers	Jo Canion	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Iazzpioneers	Flip Nuflez	1	1	2	2	NULL	NULL	NULL	1	1	0.5

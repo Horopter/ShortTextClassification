@@ -1,0 +1,3 @@
+JG ballard's experimental novel	Crash	1	1	1	1	NULL	NULL	NULL	285	159	0.0035087719298245615
+JG-2 member	Gunther Seeger	1	1	1	1	NULL	NULL	NULL	1	1	1
+JGC c&c's chemical catalyst	hydrogenation	1	1	1	1	NULL	NULL	NULL	124	60	0.008064516129032258

@@ -1,0 +1,361 @@
+NR antagonist	agmatine administered into the gustatory cortex	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NR antagonist	APV	1	1	3	3	1.000000000000	NULL	NULL	14	11	0.023809523809523808
+NR antagonist	MK-801	1	1	3	3	1.000000000000	NULL	NULL	68	30	0.004901960784313725
+NR ligands	steroid	2	2	9	8	NULL	NULL	NULL	2183	522	0.00020359342393240696
+NR ligands	fatty acid	1	1	9	8	NULL	NULL	NULL	814	378	0.00013650013650013648
+NR ligands	thyroid hormone	1	1	9	8	NULL	NULL	NULL	195	65	0.0005698005698005698
+NR ligands	cholesterol by product	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+NR ligands	retinoic acid	1	1	9	8	NULL	NULL	NULL	186	93	0.0005973715651135006
+NR ligands	retinoids	1	1	9	8	NULL	NULL	NULL	340	141	0.000326797385620915
+NR ligands	certain lipid	1	1	9	8	NULL	NULL	NULL	3	3	0.037037037037037035
+NR ligands	vitamin D	1	1	9	8	NULL	NULL	NULL	747	201	0.00014874312063067083
+NR program	Neat Image	1	1	1	1	1.000000000000	NULL	NULL	21	15	0.047619047619047616
+NR solid item	seal	1	1	1	1	NULL	NULL	NULL	1274	416	0.0007849293563579278
+nr's older RS book	Carolina Moon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nr's older RS book	Montana Sky	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+nr's older RS book	Carnal Innocence	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NR-1 mission	checking the taps on Soviet undersea communication cable	1	1	1	1	NULL	NULL	NULL	1	1	1
+NR-2 natural hill country feature	steep slope	1	0	3	3	0.333333333333	NULL	NULL	439	178	0.000759301442672741
+NR-2 natural hill country feature	soil	1	0	3	3	0.333333333333	NULL	NULL	3401	1213	0.00009801038910124473
+NR-2 natural hill country feature	native tree	1	0	3	3	0.333333333333	NULL	NULL	13	13	0.02564102564102564
+nr-binding protein	NR-binding SET domain-containing protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+nr-regulated cell physiological phenomenon	death	1	1	3	3	NULL	NULL	NULL	4423	1491	0.00007536362951239732
+nr-regulated cell physiological phenomenon	growth	1	1	3	3	NULL	NULL	NULL	1594	663	0.00020911752404851526
+nr-regulated cell physiological phenomenon	differentiation	1	1	3	3	NULL	NULL	NULL	570	239	0.0005847953216374269
+NR10 antagonist	neutralizing antibodies against NR10	1	1	1	1	NULL	NULL	NULL	1	1	1
+nr2b-selective antagonist	first generation agentifenprodil	1	1	1	1	NULL	NULL	NULL	1	1	1
+nr2b-specific antagonist	ifenprodil	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+NR4.3 Wildlife habitat	hedgerow	1	1	1	1	NULL	NULL	NULL	333	136	0.003003003003003003
+nr4a agonist	therapeutically effective nr4a agonist	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NRA competition	Service Rifle	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NRA course	Basic Shotgun	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+NRA course	self-defense in the home	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+NRA course	Concealed Pistol License	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+NRA course	Rifle	1	1	4	4	0.500000000000	NULL	NULL	577	202	0.0004332755632582322
+NRA leader	Wayne LaPierre	2	2	2	1	1.000000000000	NULL	NULL	3	2	0.6666666666666666
+NRA official	Wayne LaPierre	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+NRA president	President Ulysses Grant	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRA program-related material	Range Manuals	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRA program-related material	Training Handbooks	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRA program-related material	video	1	1	3	3	NULL	NULL	NULL	10816	3555	0.00003081854043392505
+NRA sponsered event	Bianchi cup	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+nra's youth cooperative organization	BSA Venturing	3	3	12	4	1.000000000000	NULL	NULL	3	1	0.25
+nra's youth cooperative organization	Royal Rangers	3	3	12	4	1.000000000000	NULL	NULL	11	8	0.06818181818181818
+nra's youth cooperative organization	National High School Rodeo Association	3	3	12	4	1.000000000000	NULL	NULL	4	2	0.1875
+nra's youth cooperative organization	Boy Scouts of America	3	3	12	4	1.000000000000	NULL	NULL	162	64	0.004629629629629629
+NRAO site	planned location of outlier antennas for the EVLA II	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRAs	Ofcom in the UK	2	2	3	2	1.000000000000	NULL	NULL	4	2	0.3333333333333333
+NRAs	Polish regulator UKE	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NRB commercial engine	LM 2500	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRB president & ceos	Dr. Brandt Gustavson	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+NRB president & ceos	Dr. Ben Armstrong	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+NRB president & ceos	Wayne A. Pederson	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+NRB president & ceos	Dr. Frank Wright	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+NRBCT operation	Kawaza Village	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRBP state	Massachusetts	1	1	2	2	NULL	NULL	NULL	3029	286	0.0001650709805216243
+NRBP state	Connecticut	1	1	2	2	NULL	NULL	NULL	1873	199	0.00026695141484249865
+NRBS priority	pollution prevention	1	1	1	1	NULL	NULL	NULL	115	64	0.008695652173913044
+NRC conference	Regulatory Information Conference	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRC document	FOIA response	4	2	13	6	NULL	NULL	NULL	4	1	0.3076923076923077
+NRC document	Manual Chapters	3	3	13	6	NULL	NULL	NULL	3	1	0.23076923076923075
+NRC document	Inspection Procedures	3	3	13	6	NULL	NULL	NULL	3	1	0.23076923076923075
+NRC document	Issues Paper	1	1	13	6	NULL	NULL	NULL	2	2	0.038461538461538464
+NRC document	DOR Guidelines	1	1	13	6	NULL	NULL	NULL	1	1	0.07692307692307693
+NRC document	Memoranda of Understanding	1	1	13	6	NULL	NULL	NULL	81	36	0.000949667616334283
+NRC generic correspondence	Generic Letters	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+NRC guidance document	Regulatory Guides	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NRC guidance document	Standard Review Plans	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRC licensing system	current License Tracking System	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRC office	Office of Nuclear Reactor Regulation	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+NRC office director	NRO	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+NRC program office	Office of Nuclear Regulatory Research	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NRC program office	Office of Nuclear Material Safety	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRC program office	Office of Nuclear Reactor Regulation	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+NRC project	interim inventory for the NSTS	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRC regulated activity	Civilian Radioactive Waste Management Program	1	0	1	1	NULL	NULL	NULL	1	1	1
+NRC risk-informed program	Reactor Oversight Program	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NRC risk-informed program	Reactor Oversight Process	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+NRC service	licensing	4	4	4	1	NULL	NULL	NULL	891	422	0.004489337822671156
+nrc's inspection criterion	technical specification	1	1	2	2	NULL	NULL	NULL	97	60	0.005154639175257732
+nrc's inspection criterion	regulation	1	1	2	2	NULL	NULL	NULL	1465	546	0.00034129692832764505
+nrc's medical breakthrough	pacemaker	1	1	1	1	NULL	NULL	NULL	977	270	0.0010235414534288639
+nrc-battelle various organization	ASME	1	1	2	2	0.500000000000	NULL	NULL	104	49	0.004807692307692308
+nrc-battelle various organization	EPRI	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+nrc-required record	dosimetry equipment calibration	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRCA material	survey	1	1	3	3	0.333333333333	NULL	NULL	2392	950	0.00013935340022296544
+NRCA material	educational program	1	1	3	3	0.333333333333	NULL	NULL	211	123	0.001579778830963665
+NRCA material	management tool	1	1	3	3	0.333333333333	NULL	NULL	23	18	0.014492753623188404
+nrcan initiative	LINC	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+NRCCUA survey request personal information	gender	1	1	5	5	NULL	NULL	NULL	16818	2908	0.000011892020454275181
+NRCCUA survey request personal information	birth date	1	1	5	5	NULL	NULL	NULL	852	203	0.0002347417840375587
+NRCCUA survey request personal information	grade point average	1	1	5	5	NULL	NULL	NULL	158	73	0.0012658227848101266
+NRCCUA survey request personal information	name	1	1	5	5	NULL	NULL	NULL	13911	2278	0.000014377111638271872
+NRCCUA survey request personal information	address	1	1	5	5	NULL	NULL	NULL	8879	1453	0.000022525059128280213
+NRCs	Latin American Center at Tulane University	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRCS conservation cost-share program	Environmental Quality In centives Program	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRCS conservation practice	irrigation water management	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+NRCS conservation program	EQIP	1	1	2	2	NULL	NULL	NULL	63	23	0.007936507936507936
+NRCS conservation program	WHIP Wildlife Habitat Incentive Program	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRCS cost-share assistance program	Environmental Quality Incentives Program	1	1	1	1	NULL	NULL	NULL	88	27	0.011363636363636364
+NRCS cost-shared practice	brush management	2	2	2	1	1.000000000000	NULL	NULL	13	10	0.15384615384615385
+NRCS employee	Gerald Willis	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+NRCS employee	engineer	1	1	2	2	0.500000000000	NULL	NULL	2585	844	0.00019342359767891682
+NRCS farm bill conservation program	Environmental Quality Incentives Program	1	1	1	2	NULL	NULL	NULL	88	27	0.011363636363636364
+NRCS program	Conservation Reserve Enhancement Program	2	2	11	8	0.600000000000	NULL	NULL	39	22	0.009324009324009324
+NRCS program	Conservation Reserve Program	2	2	11	8	0.600000000000	NULL	NULL	165	64	0.002203856749311295
+NRCS program	EQIP	2	2	11	8	0.600000000000	NULL	NULL	63	23	0.005772005772005772
+NRCS program	Conservation Security Program	1	1	11	8	0.600000000000	NULL	NULL	16	10	0.005681818181818182
+NRCS program	Environmental Quality Incentives Program	1	1	11	8	0.600000000000	NULL	NULL	88	27	0.0010330578512396695
+NRCS program	Grassland Reserve Program	1	1	11	8	0.600000000000	NULL	NULL	5	5	0.01818181818181818
+NRCS program	Small Watershed Program	1	1	11	8	0.600000000000	NULL	NULL	1	1	0.09090909090909091
+NRCS program	Wetlands Reserve	1	1	11	8	0.600000000000	NULL	NULL	5	4	0.01818181818181818
+NRCS publication	TR-55	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+NRCS specialist	Boldt	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+NRCS specialist	Area 3 Soil Conservationist in Merced	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NRCS specialist	Fusaro	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NRCS specialist	Susan Perez	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+NRCSprograms	Grasslands Reserve Program	1	1	4	4	1.000000000000	NULL	NULL	7	6	0.03571428571428571
+NRCSprograms	Wetlands Reserve Program	1	1	4	4	1.000000000000	NULL	NULL	57	22	0.0043859649122807015
+NRCSprograms	Environmental Quality Incentive Program	1	1	4	4	1.000000000000	NULL	NULL	2	13	0.125
+NRCSprograms	Wildlife Habitat Incentives Program	1	1	4	4	1.000000000000	NULL	NULL	32	12	0.0078125
+NRDAR datum	baseline condition	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+nrdc's initiative	developing guidelines for green building	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nrdc's initiative	suing polluter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRE cost	hourly charges for developer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRE cost	design	1	1	2	2	NULL	NULL	NULL	4272	1433	0.00011704119850187266
+NRE resource	wave energy	2	2	3	2	0.500000000000	NULL	NULL	53	37	0.025157232704402514
+NRE resource	solar	1	1	3	2	0.500000000000	NULL	NULL	4132	912	0.00008067118425298483
+NRE source	solar	2	2	2	1	NULL	NULL	NULL	4132	912	0.000484027105517909
+NRE system	solar	1	1	1	1	0.500000000000	NULL	NULL	4132	912	0.0002420135527589545
+NRE's	Shell 23-7P	2	2	2	1	NULL	NULL	NULL	2	1	1
+NREGA activity	water conservation	1	1	1	1	NULL	NULL	NULL	303	160	0.0033003300330033004
+NREI legacy formal arrangement	Alberta's Water Act	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NREI legacy formal arrangement	Alberta Forest Conservation Strategy	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NREI legacy formal arrangement	Regional Sustainable Development Strategy	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nrel-developed technology agricultural residue	corn stover	1	1	1	1	NULL	NULL	NULL	228	89	0.0043859649122807015
+NREM arousal disorder	sleep terror	1	1	2	2	1.000000000000	NULL	NULL	12	5	0.041666666666666664
+NREM arousal disorder	confusional arousal	1	1	2	2	1.000000000000	NULL	NULL	6	3	0.08333333333333333
+NRENs	SURFnet	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+NRENs	JANET	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+nret-ropolitan city	Sepphoris	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+NRF activity	Upper Neuse River Cleanup	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRF activity	Clean Water Lobby Day	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRF activity	Neuse River Day public hearing	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRF component	engineer unit	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+nrf sport product	Active Protein for muscle building	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nrf sport product	Active Creatine	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nrf sport product	Thermogenic Products for thermogenesis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nrf sport product	Active Carbo for carbohydrates & carbo-loading	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nrf's group	Information Technology Council	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+nrf2 activator	sulforaphane	1	1	1	1	NULL	NULL	NULL	78	37	0.01282051282051282
+nrf2 inducer	sulforaphane	2	2	2	1	1.000000000000	NULL	NULL	78	37	0.02564102564102564
+nrf2 target gene	NQO1	2	1	2	1	1.000000000000	NULL	NULL	11	9	0.18181818181818182
+nrf2-driven structural protein	loricrin of epidermal tissue	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nrf2-driven structural protein	keratin K6	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nrf2-regulated host defense protein	HO-1	1	1	1	1	1.000000000000	NULL	NULL	20	17	0.05
+NRG conversion software	MagicISO for free from a variety of website	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRG electronic communication system	e-mail	1	1	2	2	NULL	NULL	NULL	4959	1772	0.00010082677959265981
+NRG electronic communication system	voicemail	1	1	2	2	NULL	NULL	NULL	671	246	0.0007451564828614009
+NRG fit class	healthy living coaching	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRG fit class	ZUMBA-like class	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRHA trainer	All-American Quarter Horse Congress Champion	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRHA trainer	Bob Salyers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRHA trainer	Brandon Brandt	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nrhp-eligible transportation facility	Lake Washington Boulevard	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NRI account	Non Resident Ordinary	2	2	5	3	1.000000000000	NULL	NULL	2	1	0.4
+NRI account	Non Resident External	2	2	5	3	1.000000000000	NULL	NULL	2	1	0.4
+NRI account	NRE	1	1	5	3	1.000000000000	NULL	NULL	7	7	0.028571428571428574
+NRI banking	money transfer	1	1	1	1	NULL	NULL	NULL	178	82	0.0056179775280898875
+NRI banking service	Insurance	1	1	4	6	0.333333333333	NULL	NULL	8820	2250	0.00002834467120181406
+NRI banking service	Loans against FD	1	1	4	6	0.333333333333	NULL	NULL	1	1	0.25
+NRI banking service	Money Transfer	1	1	4	6	0.333333333333	NULL	NULL	178	82	0.0014044943820224719
+NRI banking service	Bank Accounts	1	1	4	6	0.333333333333	NULL	NULL	6	8	0.041666666666666664
+NRI datum	slope	1	1	2	2	NULL	NULL	NULL	1694	609	0.00029515938606847696
+NRI datum	soil	1	1	2	2	NULL	NULL	NULL	3401	1213	0.00014701558365186709
+NRI device	NML	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NRI film-makers	Mira Nair	1	1	1	1	1.000000000000	NULL	NULL	35	9	0.02857142857142857
+nri rider	Robbie Marshall	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nri rider	Jimmy Decotis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRI service	airline ticketing	1	1	2	2	0.500000000000	NULL	NULL	23	8	0.021739130434782608
+NRI service	travel insurance	1	1	2	2	0.500000000000	NULL	NULL	253	96	0.001976284584980237
+NRIs	Strattera	1	1	4	4	0.750000000000	NULL	NULL	68	40	0.003676470588235294
+NRIs	founder SKS Microfinance	1	1	4	4	0.750000000000	NULL	NULL	1	1	0.25
+NRIs	Vikram Akula	1	1	4	4	0.750000000000	NULL	NULL	3	3	0.08333333333333333
+NRIs	reboxetine	1	1	4	4	0.750000000000	NULL	NULL	25	14	0.01
+NRIS application	Digital Atlas	1	1	1	1	NULL	NULL	NULL	1	1	1
+nris noradrenaline reuptake inhibitor	Wellbutrin Bupropion	1	1	1	1	NULL	NULL	NULL	1	1	1
+nris service	gifting	2	2	4	2	1.000000000000	NULL	NULL	32	27	0.03125
+nris service	online remittance	2	2	4	2	1.000000000000	NULL	NULL	4	2	0.25
+nrithyollasa's thematic production	Dance of Shiva	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nrithyollasa's thematic production	Bhakthi Shakthi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nrithyollasa's thematic production	Glory of Rama	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRK artist	Jamie Anderson	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+NRK artist	Nick Holder	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+NRK artist	Miguel Migs	1	1	4	4	1.000000000000	NULL	NULL	12	8	0.020833333333333332
+NRK artist	Peace Division	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+NRKN non-host crop	corn	4	4	4	1	NULL	NULL	NULL	11029	2454	0.00036268020672771783
+NRL allergen	Hev b 2	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRL club	Canberra	1	1	2	2	NULL	NULL	NULL	122	53	0.004098360655737705
+NRL club	St George Illawarra	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+NRL legend	Jason Stevens	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+NRL legend	Steve Mortimer	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+NRL legend	Sam Burgess	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+NRL player	Greg Bird	2	2	15	13	1.000000000000	NULL	NULL	2	1	0.13333333333333333
+NRL player	Johnathan Thurston	2	2	15	13	1.000000000000	NULL	NULL	6	5	0.044444444444444446
+NRL player	Peter Gill	1	1	15	13	1.000000000000	NULL	NULL	5	3	0.013333333333333332
+NRL player	Aaron Gorrel	1	1	15	13	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NRL player	Darren Burns	1	1	15	13	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NRL player	Ryan James	1	1	15	13	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+nrl player	high profile nrl player	1	1	15	13	1.000000000000	NULL	NULL	2	2	0.03333333333333333
+NRL player	Carl Webb	1	1	15	13	1.000000000000	NULL	NULL	3	3	0.022222222222222223
+NRL player	Scott Bagley	1	1	15	13	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NRL player	Chris Sandow	1	1	15	13	1.000000000000	NULL	NULL	2	2	0.03333333333333333
+NRL player	Don Saunders	1	1	15	13	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NRL player	Danny Nutley	1	1	15	13	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+NRL player	Preston Campbell	1	1	15	13	1.000000000000	NULL	NULL	7	6	0.009523809523809523
+NRL star	Tim Moltzen	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+NRL star	Darren Lockyer	1	1	8	8	1.000000000000	NULL	NULL	11	11	0.011363636363636364
+NRL star	Chris Heighington	1	1	8	8	1.000000000000	NULL	NULL	1	1	0.125
+NRL star	Billy Slater	1	1	8	8	1.000000000000	NULL	NULL	15	9	0.008333333333333333
+NRL star	Justin Hodges	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+NRL star	Craig Fitzgibbon	1	1	8	8	1.000000000000	NULL	NULL	4	3	0.03125
+NRL star	Johnathan Thurston	1	1	8	8	1.000000000000	NULL	NULL	6	5	0.020833333333333332
+NRL star	Matt Orford	1	1	8	8	1.000000000000	NULL	NULL	3	2	0.041666666666666664
+nrl's best player	Cooper Cronk	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+nrl's best player	Prince	1	1	2	2	NULL	NULL	NULL	583	207	0.0008576329331046312
+NRM action	vegetation management	1	1	1	1	1.000000000000	NULL	NULL	58	39	0.017241379310344827
+NRM activity	prescribed fire	1	1	1	1	NULL	NULL	NULL	176	100	0.005681818181818182
+NRM agency	catchment management authority	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+NRM behavior	use of perennial pasture	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRM biosecurity issue	established weed	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NRM indicator	proportion of bare ground	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NRM indicator	soil water leakage	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NRM investment	terracing	1	1	2	2	0.500000000000	NULL	NULL	194	102	0.002577319587628866
+NRM investment	reafforestation	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+nrm issue	context nrm issue	1	1	4	4	0.333333333333	NULL	NULL	2	2	0.125
+NRM issue	declining water quality	1	1	4	4	0.333333333333	NULL	NULL	14	10	0.017857142857142856
+NRM issue	loss of biodiversity	1	1	4	4	0.333333333333	NULL	NULL	149	70	0.0016778523489932886
+NRM issue	salinity	1	1	4	4	0.333333333333	NULL	NULL	1827	511	0.00013683634373289546
+NRM program	forest user group	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NRM region	Tasmanian Cradle Coast NRM	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRM related matter	urban water balance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRM related matter	salinity	1	1	2	2	NULL	NULL	NULL	1827	511	0.0002736726874657909
+NRM scholar	Bromley	1	1	1	1	1.000000000000	NULL	NULL	75	27	0.013333333333333334
+NRM work	stone bunding in Pudur Nadu	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+NRM work	land leveling	1	1	2	2	1.000000000000	NULL	NULL	32	20	0.015625
+nrm-related regional group	Groundwater Management Committees	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nrm-related regional group	River Management Committees	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+nrm-related technology	integrated pest management	1	1	1	1	NULL	NULL	NULL	199	107	0.005025125628140704
+NRMs	Brahma Kumaris	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+NRMs	nutritional pharmacologist	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NRMs	Rajneesh Movement	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+NRN issue	dual citizen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRN issue	voting right	1	1	2	2	NULL	NULL	NULL	94	45	0.005319148936170213
+nrn-canada member	Dr. Betman Bhandari	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nrn-canada member	Bhanu Paudyal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+nrn-canada member	Chandra Rai	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRO contributers	John Derbyshire	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+NRO contributor	Lawrence Kudlow	1	1	4	4	1.000000000000	NULL	NULL	9	7	0.027777777777777776
+NRO contributor	John O'Sullivan	1	1	4	4	1.000000000000	NULL	NULL	5	4	0.05
+NRO contributor	Linda Chavez	1	1	4	4	1.000000000000	NULL	NULL	7	7	0.03571428571428571
+NRO contributor	Mona Charen	1	1	4	4	1.000000000000	NULL	NULL	5	4	0.05
+NRP art-related project	Artists on Chicago affordable housing program	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+NRP art-related project	neighborhood mural project at Burroughs School	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+NRP art-related project	Plymouth Avenue Studio	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+NRP's national and international impact	JIC's new initiatives in China	2	2	2	1	NULL	NULL	NULL	2	1	1
+NRPCA committee	June Day	1	1	1	1	NULL	NULL	NULL	1	1	1
+nrpsassembly line	ACV synthetase in penicillin biogenesis	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRR country	Angola	1	1	5	5	NULL	NULL	NULL	1247	262	0.00016038492381716118
+NRR country	Ecuador	1	1	5	5	NULL	NULL	NULL	1303	180	0.00015349194167306218
+NRR country	Nigeria	1	1	5	5	NULL	NULL	NULL	3333	572	0.00006000600060006001
+NRR country	Congo	1	1	5	5	NULL	NULL	NULL	471	138	0.0004246284501061571
+NRR country	Sierra Leone	1	1	5	5	NULL	NULL	NULL	878	169	0.00022779043280182233
+nrr's export brand	Ethnic India	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nrr's export brand	Nature's Gift	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+nrroducrion investment appraisal technique	net present value	1	1	1	1	NULL	NULL	NULL	304	185	0.003289473684210526
+NRs	LXR	2	2	12	11	0.666666666666	NULL	NULL	7	6	0.047619047619047616
+NRs	HNF4	1	1	12	11	0.666666666666	NULL	NULL	7	7	0.011904761904761904
+NRs	FXR	1	1	12	11	0.666666666666	NULL	NULL	8	7	0.010416666666666666
+NRs	androgen receptor	1	1	12	11	0.666666666666	NULL	NULL	38	14	0.0021929824561403508
+NRs	peroxisome proliferator-activated receptors andrxrs	1	1	12	11	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+NRs	peroxisome proliferator-activated receptor-alpha	1	1	12	11	0.666666666666	NULL	NULL	3	3	0.027777777777777776
+NRs	PPAR	1	1	12	11	0.666666666666	NULL	NULL	6	5	0.013888888888888888
+NRs	predicted by flow models with stiff continental keel	1	1	12	11	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+NRs	thyroid hormone receptor	1	1	12	11	0.666666666666	NULL	NULL	27	9	0.0030864197530864196
+NRs	RAR	1	1	12	11	0.666666666666	NULL	NULL	107	51	0.000778816199376947
+NRs	SF-1	1	1	12	11	0.666666666666	NULL	NULL	16	13	0.005208333333333333
+nrs-relevant issue	hydrogen distribution	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+nrs-relevant issue	pressurized thermal shock	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+nrs-relevant issue	boron dilution	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+nrs-relevant issue	thermal striping	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+nrsa-awarded cost	tuition	1	1	2	2	NULL	NULL	NULL	712	236	0.0007022471910112359
+nrsa-awarded cost	institutional allowance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nrsg action	pressure relieving measure	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRsinthiscluster	thyroid hormone receptora	1	1	1	1	NULL	NULL	NULL	1	1	1
+nrt	cigarette smoking patch	1	1	5	5	0.250000000000	NULL	NULL	1	1	0.2
+nrt	cigarette smoking spot	1	1	5	5	0.250000000000	NULL	NULL	1	1	0.2
+nrt	smoking spot	1	1	5	5	0.250000000000	NULL	NULL	3	2	0.06666666666666667
+nrt	nicotine patch	1	1	5	5	0.250000000000	NULL	NULL	381	133	0.0005249343832020997
+nrt	patch	1	1	5	5	0.250000000000	NULL	NULL	2709	504	0.00007382798080472499
+NRT application	Internet File transfer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NRT medicine	skin patch	1	1	1	1	1.000000000000	NULL	NULL	46	29	0.021739130434782608
+NRT net registered tonnage product	nicotine patch	1	1	1	1	NULL	NULL	NULL	381	133	0.0026246719160104987
+NRT product	patch	7	6	20	10	0.375000000000	NULL	NULL	2709	504	0.0009043927648578811
+NRT product	gum	3	3	20	10	0.375000000000	NULL	NULL	540	247	0.0008333333333333333
+NRT product	nicotine patch	3	3	20	10	0.375000000000	NULL	NULL	381	133	0.0011811023622047244
+NRT product	nicotine chewing gum	1	1	20	10	0.375000000000	NULL	NULL	27	19	0.001851851851851852
+NRT product	Nicorette Microtab	1	1	20	10	0.375000000000	NULL	NULL	1	1	0.05
+NRT product	Nicoderm	1	1	20	10	0.375000000000	NULL	NULL	9	6	0.005555555555555556
+NRT product	chewing gum	1	1	20	10	0.375000000000	NULL	NULL	583	231	0.00008576329331046313
+NRT product	nicotine gum	1	1	20	10	0.375000000000	NULL	NULL	348	125	0.00014367816091954023
+NRT product	Niquitin CQ patch	1	1	20	10	0.375000000000	NULL	NULL	1	1	0.05
+NRT product	Nicorette	1	1	20	10	0.375000000000	NULL	NULL	29	22	0.001724137931034483
+NRT report	percentile rank	1	1	1	1	1.000000000000	NULL	NULL	19	11	0.05263157894736842
+NRT service	file transfer	1	1	5	5	NULL	NULL	NULL	540	216	0.0003703703703703704
+NRT service	web browsing	1	1	5	5	NULL	NULL	NULL	788	336	0.0002538071065989848
+nrt service	typically nrt service	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+NRT service	fax	1	1	5	5	NULL	NULL	NULL	2192	806	0.00009124087591240877
+NRT service	e-mail	1	1	5	5	NULL	NULL	NULL	4959	1772	0.000040330711837063925
+NRT treatment	quickmist	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NRT treatment	gum	1	1	3	3	NULL	NULL	NULL	540	247	0.0006172839506172839
+NRT treatment	patch	1	1	3	3	NULL	NULL	NULL	2709	504	0.00012304663467454166
+NRTI	tenofovir	1	1	5	5	0.250000000000	NULL	NULL	79	36	0.002531645569620253
+NRTI	di- danosine	1	1	5	5	0.250000000000	NULL	NULL	1	1	0.2
+NRTI	abacavir	1	1	5	5	0.250000000000	NULL	NULL	36	18	0.005555555555555556
+NRTI	AZT	1	1	5	5	0.250000000000	NULL	NULL	232	90	0.0008620689655172415
+NRTI	zidovudine	1	1	5	5	0.250000000000	NULL	NULL	143	55	0.0013986013986013986
+NRTI combination	zidovudine	1	1	1	1	NULL	NULL	NULL	143	55	0.006993006993006993
+NRTI drug	AZT work by interfering with transcriptase	1	1	1	1	NULL	NULL	NULL	1	1	1
+NRTI side effect	peripheral neuropathy	1	1	1	1	NULL	NULL	NULL	267	127	0.003745318352059925
+nrti-associated adverse effect	polyneuropathy	1	1	1	1	1.000000000000	NULL	NULL	25	22	0.04
+nrti-type drug	ddi	1	1	1	1	1.000000000000	NULL	NULL	44	22	0.022727272727272728
+NRTIs	AZT	8	7	28	13	0.857142857142	NULL	NULL	232	90	0.009852216748768473
+NRTIs	zidovudine	4	4	28	13	0.857142857142	NULL	NULL	143	55	0.003996003996003996
+NRTIs	abacavir	3	2	28	13	0.857142857142	NULL	NULL	36	18	0.008928571428571428
+NRTIs	tenofovir	3	2	28	13	0.857142857142	NULL	NULL	79	36	0.004068716094032549
+NRTIs	Zerit	2	2	28	13	0.857142857142	NULL	NULL	5	4	0.02857142857142857
+NRTIs	Emtriva	1	1	28	13	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+NRTIs	nevirapine	1	1	28	13	0.857142857142	NULL	NULL	118	50	0.00030266343825665856
+NRTIs	delavirdine	1	1	28	13	0.857142857142	NULL	NULL	32	18	0.0011160714285714285
+NRTIs	Epivir	1	1	28	13	0.857142857142	NULL	NULL	9	7	0.003968253968253968
+NRTIs	Retrovir	1	1	28	13	0.857142857142	NULL	NULL	7	7	0.00510204081632653
+NRTIs	Viread	1	1	28	13	0.857142857142	NULL	NULL	5	4	0.007142857142857143
+NRTIs	stavudine Zerit	1	1	28	13	0.857142857142	NULL	NULL	1	1	0.03571428571428571
+NRTIs	tenofovir DF	1	1	28	13	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+NRTK approach application	Direct Photogrammetry	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NRTK approach application	LIDAR	1	1	2	2	NULL	NULL	NULL	133	64	0.0037593984962406013
+NRTKs	Src	2	1	2	1	NULL	NULL	NULL	124	51	0.016129032258064516
+NRTLs	CSA International	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NRTs	nicotine patch	2	2	4	2	0.166666666666	NULL	NULL	381	133	0.0026246719160104987
+NRTs	Medical College Aptitude Test	2	2	4	2	0.166666666666	NULL	NULL	2	1	0.5
+nrutyashala's innovative dance drama	Utsav	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+NRVC member state	Massachusetts	1	1	1	1	NULL	NULL	NULL	3029	286	0.0003301419610432486
+nrw-based firm	teleshopping giant QVC	1	1	1	1	NULL	NULL	NULL	1	1	1
+nrx iv-interacting protein	Cont	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NRZ datum	used in Ethernet	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NRZ datum pattern	pseudo-random sequence generated by a linear feedback shift register	2	1	2	1	NULL	NULL	NULL	2	1	1
+NRZ signal	alternating 1s	1	1	1	1	NULL	NULL	NULL	1	1	1
+nrz-test-pattern property	data rate	1	1	2	2	0.500000000000	NULL	NULL	136	74	0.003676470588235294
+nrz-test-pattern property	pattern length	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+NRZI bitstreams	HD-SDI	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+NRZI code	RLL	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1

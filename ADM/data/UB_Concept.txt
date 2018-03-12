@@ -1,0 +1,877 @@
+ub affinity reagent	Ub remnant antibody	1	1	1	1	NULL	NULL	NULL	1	1	1
+UB apps	ilife	1	0	1	1	1.000000000000	NULL	NULL	40	30	0.025
+UB brand	Hula Hoops	1	1	2	2	1.000000000000	NULL	NULL	10	11	0.05
+UB brand	McVities	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+ub code	time code	1	1	2	2	1.000000000000	NULL	NULL	40	23	0.0125
+ub code	program number	1	1	2	2	1.000000000000	NULL	NULL	17	10	0.029411764705882353
+UB disorder	interstitial cystitis	1	1	1	1	NULL	NULL	NULL	95	46	0.010526315789473684
+UB event	Corporate Challenge	1	1	1	1	1.000000000000	NULL	NULL	8	5	0.125
+UB framework non-conventional bank	development	1	1	1	1	NULL	NULL	NULL	2392	933	0.0004180602006688963
+UB group company	UB Holdings	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+UB group company	United Breweries	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+UB group's in-house brand	Royal Challenge	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UB item	DVDs	1	1	1	1	NULL	NULL	NULL	1949	787	0.000513083632632119
+UB partner institution	Roswell Park Cancer Institute	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+UB student organization	Undergraduate Student Association	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+UB vendor	Progressive Business Forms	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UB vendor	NC Mutual Insurance	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UB vendor	American Safety Products	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UB-04 specific code	ICD9 procedure code	1	1	1	1	NULL	NULL	NULL	1	1	1
+ub-associated factor	BRE1 Ub protein ligase	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ub-associated factor	DOA4 deubiquitination enzyme	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ub-associated factor	RAD6 E2 Ub-conjugating enzyme	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ub-associated factor	protein monoubiquitination-involved LGE1	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ub-binding domain	Ub-associated domain	1	1	1	1	NULL	NULL	NULL	1	1	1
+ub-federal entity	state	1	1	1	1	NULL	NULL	NULL	2687	1107	0.0003721622627465575
+ub-related entity	clinical practice plan	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ub-related entity	UB Foundation	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ub-related entity	Research Foundation	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+ubalanced diet	South Beach	1	1	2	2	NULL	NULL	NULL	313	114	0.001597444089456869
+ubalanced diet	Atkins	1	1	2	2	NULL	NULL	NULL	874	218	0.0005720823798627002
+ubat sedative	sleeping pill	1	1	1	1	NULL	NULL	NULL	305	85	0.003278688524590164
+ubatomic particle	neutron	1	1	2	2	NULL	NULL	NULL	394	143	0.0012690355329949238
+ubatomic particle	proton	1	1	2	2	NULL	NULL	NULL	678	207	0.0007374631268436578
+ubay-bohol handicraft	Bags	1	1	1	1	1.000000000000	NULL	NULL	12	118	0.08333333333333333
+UBBER LINED HOPPER fragile product	seed	1	1	1	1	NULL	NULL	NULL	2759	988	0.0003624501631025734
+UBC expert	Dr. Christine Loock	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UBC expert	associate professor	1	1	2	2	1.000000000000	NULL	NULL	19	13	0.02631578947368421
+UBC facility	Aquatic Centre	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+UBC faculty	Law Faculty	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+UBC faculty	Sauder School of Business	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+UBC library's resource	journal	1	1	2	2	NULL	NULL	NULL	1765	715	0.00028328611898016995
+UBC library's resource	pharmacy database	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UBC production	Picnic	1	1	4	4	0.666666666666	NULL	NULL	1263	419	0.0001979414093428345
+UBC production	Trojan Women	1	1	4	4	0.666666666666	NULL	NULL	9	6	0.027777777777777776
+UBC production	Medea	1	1	4	4	0.666666666666	NULL	NULL	59	30	0.00423728813559322
+UBC production	Servant of Two Masters	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+UBC publication	Ubyssey newspaper	1	1	1	1	NULL	NULL	NULL	1	1	1
+UBC researcher	Dr. Daniel Pauly	1	1	1	1	NULL	NULL	NULL	1	1	1
+UBC resource	diversity advisor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UBC resource	counseling	1	1	3	3	NULL	NULL	NULL	2433	762	0.00013700506918755994
+UBC resource	wellness workshop	1	1	3	3	NULL	NULL	NULL	6	3	0.05555555555555555
+UBC service	UBCV Student Health Service	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UBC service	UBCV Counselling	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UBC site	UBC Blogs	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+UBC star	Gary Rowles	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubc's most successful coach	Kevin Hanson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ubc's most successful coach	Hash Kanjee	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ubcd4win's included file explorer	A43	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ubcortical region	corpus callosum	1	1	1	1	NULL	NULL	NULL	67	38	0.014925373134328358
+UBCV Buddhists	Thich Quang Do	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+UBCV Buddhists	Cao Dai dignitary	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+UBDs	ubiquitin-binding motifs of translesion DNA polymerases	1	1	1	1	NULL	NULL	NULL	1	1	1
+ube industries business unit	Chemicals	1	1	1	1	1.000000000000	NULL	NULL	12	45	0.08333333333333333
+ube type	Fig	1	1	1	1	NULL	NULL	NULL	1329	490	0.0007524454477050414
+uber armor	Golden Plate	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uber bright color	Amber Rose's dress	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber card	Exodia	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+uber chic designer	Christain Siriano	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uber chic designer	Iceberg	1	1	3	3	NULL	NULL	NULL	104	67	0.003205128205128205
+uber chic designer	Chris Han	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uber expensive wax	SV Crystal Rock	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber favorite	Halo	1	1	3	3	0.500000000000	NULL	NULL	848	327	0.0003930817610062893
+uber favorite	Dangerously In Love	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+uber favorite	Freakum Dress	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+uber feminine fabric	charmeuse	1	1	4	4	0.250000000000	NULL	NULL	53	24	0.0047169811320754715
+uber feminine fabric	linen	1	1	4	4	0.250000000000	NULL	NULL	3019	817	0.00008280887711162637
+uber feminine fabric	organza	1	1	4	4	0.250000000000	NULL	NULL	392	139	0.0006377551020408163
+uber feminine fabric	silk	1	1	4	4	0.250000000000	NULL	NULL	4547	1140	0.000054981306355839013
+uber hack	Ivor Callelly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber hack	perfect IV's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber investor	Carl Icahn	1	1	1	1	1.000000000000	NULL	NULL	40	22	0.025
+uber item	divine	1	1	1	1	0.333333333333	NULL	NULL	34	18	0.029411764705882353
+uber liberal	Raul Grijalva	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+uber liberal	Dennis Don Quixote Kucinich	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber necessary item	bottle	1	1	2	2	NULL	NULL	NULL	1955	719	0.0002557544757033248
+uber necessary item	diaper	1	1	2	2	NULL	NULL	NULL	2004	494	0.000249500998003992
+uber patent geek	Bill Slawski	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber portal	Pogo	1	1	1	1	0.500000000000	NULL	NULL	55	30	0.01818181818181818
+Uber powerful kaiju	Keizer Ghidorah	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Uber powerful kaiju	Majin	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+Uber powerful kaiju	Giant Claw	1	1	5	5	1.000000000000	NULL	NULL	4	4	0.05
+Uber powerful kaiju	Super Godzilla	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Uber powerful kaiju	Mothra	1	1	5	5	1.000000000000	NULL	NULL	21	13	0.009523809523809525
+uber romantic flower	hydrangea	1	1	4	4	NULL	NULL	NULL	605	241	0.00041322314049586776
+uber romantic flower	orchid	1	1	4	4	NULL	NULL	NULL	1177	438	0.00021240441801189465
+uber romantic flower	freesia	1	1	4	4	NULL	NULL	NULL	95	53	0.002631578947368421
+uber romantic flower	open rose	1	1	4	4	NULL	NULL	NULL	8	3	0.03125
+uber SF	Melo	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+uber shop	ultimate hotel boutique	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+uber shop	Marc Jacobs galore	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+uber shop	Stella McCartney	1	1	4	4	NULL	NULL	NULL	316	106	0.0007911392405063291
+uber shop	Jeffreys	1	1	4	4	NULL	NULL	NULL	2	3	0.125
+uber sophisticated crystal platform shoe	Benjamin Adams Athens	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber stylish celebs	Kate Bosworth	1	1	1	1	1.000000000000	NULL	NULL	77	27	0.012987012987012988
+uber successful band	Three Dog Night	1	1	2	2	1.000000000000	NULL	NULL	38	20	0.013157894736842105
+uber successful band	Mike Pinder	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+uber technician	Guy Chadash	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber technician	Brannens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber wag	Jodi Gordon	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+uber wag	Rebecca Judd	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+uber zombie	Thugs	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+uber-baddies	Shadow King	1	1	1	1	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+uber-bloggers	Jon Udell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber-bloggers	Andrew Sullivan	1	1	2	2	NULL	NULL	NULL	55	34	0.00909090909090909
+uber-brands	Baccarat	1	1	1	1	NULL	NULL	NULL	813	185	0.0012300123001230013
+Uber-celebs	Gwen Stefani	1	1	5	5	NULL	NULL	NULL	312	99	0.000641025641025641
+Uber-celebs	Jay-Z	1	1	5	5	NULL	NULL	NULL	823	243	0.00024301336573511544
+Uber-celebs	Katie Holmes	1	1	5	5	NULL	NULL	NULL	195	49	0.0010256410256410256
+Uber-celebs	Madonna	1	1	5	5	NULL	NULL	NULL	1965	488	0.00010178117048346057
+Uber-celebs	Angelina Jolie	1	1	5	5	NULL	NULL	NULL	752	206	0.00026595744680851064
+uber-cheap supermarket	Netto	3	3	9	3	0.333333333333	NULL	NULL	40	26	0.025
+uber-cheap supermarket	Lidl	3	3	9	3	0.333333333333	NULL	NULL	228	110	0.0043859649122807015
+uber-cheap supermarket	Aldi	3	3	9	3	0.333333333333	NULL	NULL	428	169	0.002336448598130841
+uber-chic extra	atmospheric lighting	2	1	4	2	0.500000000000	NULL	NULL	2	1	0.5
+uber-chic extra	fireplace	2	1	4	2	0.500000000000	NULL	NULL	1489	522	0.000671591672263264
+uber-chic label	Payal Jain	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber-conservative part	Taliban-controlled tribal area	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber-cool Darkwings	NegaDuck	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber-cool show	O.C	1	1	2	2	0.500000000000	NULL	NULL	19	11	0.02631578947368421
+uber-cool show	Skins	1	1	2	2	0.500000000000	NULL	NULL	64	36	0.0078125
+Uber-DJs	Carl Cox	1	1	1	1	NULL	NULL	NULL	101	47	0.009900990099009901
+uber-educated, left-leaning progressive city	Missoula	1	1	1	1	NULL	NULL	NULL	56	29	0.017857142857142856
+uber-elite college	Harvard	1	1	1	1	NULL	NULL	NULL	2040	544	0.0004901960784313725
+uber-entity	AmSouth	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+uber-exclusive destination	Harrods in London	1	1	4	4	0.250000000000	NULL	NULL	12	8	0.020833333333333332
+uber-exclusive destination	New York City	1	1	4	4	0.250000000000	NULL	NULL	1868	470	0.00013383297644539615
+uber-exclusive destination	Russia	1	1	4	4	0.250000000000	NULL	NULL	8825	1448	0.000028328611898016997
+uber-exclusive destination	Dubai	1	1	4	4	0.250000000000	NULL	NULL	911	304	0.00027442371020856203
+uber-expensive control system	Crestron	1	1	1	1	NULL	NULL	NULL	91	56	0.01098901098901099
+uber-expensive model	FHI	2	2	2	1	1.000000000000	NULL	NULL	13	10	0.15384615384615385
+uber-food destination	Paris	1	1	3	3	NULL	NULL	NULL	2463	715	0.00013533631073216944
+uber-food destination	New York	1	1	3	3	NULL	NULL	NULL	13310	1915	0.000025043826696719256
+uber-food destination	San Francisco	1	1	3	3	NULL	NULL	NULL	3664	789	0.00009097525473071324
+uber-fringe behavior	necrophilia	1	1	1	1	1.000000000000	NULL	NULL	29	19	0.034482758620689655
+uber-geeks	The Wall Street Journal's Walt Mossberg	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber-gurus	Jim Collins	1	1	1	1	1.000000000000	NULL	NULL	31	22	0.03225806451612903
+uber-historic, scenic old town	Charleston	1	1	2	2	NULL	NULL	NULL	543	139	0.0009208103130755065
+uber-historic, scenic old town	Beaufort	1	1	2	2	NULL	NULL	NULL	44	31	0.011363636363636364
+uber-liberal site	Media Matters	1	1	1	1	1.000000000000	NULL	NULL	35	23	0.02857142857142857
+uber-performance SUVs	Escalade	1	1	1	1	0.500000000000	NULL	NULL	39	28	0.02564102564102564
+uber-popular event	finals in gymnastics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uber-popular event	opening ceremony	1	1	2	2	NULL	NULL	NULL	64	34	0.0078125
+uber-powerful heroes	Superman	1	1	1	1	NULL	NULL	NULL	853	352	0.0011723329425556857
+uber-powerful, conservative democrat	John M. Spratt Jr	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber-quick boy	Steve Caldwell	1	1	1	1	NULL	NULL	NULL	1	1	1
+uber-successful artist	Dizzee Rascal	2	2	2	1	1.000000000000	NULL	NULL	79	26	0.02531645569620253
+uber-trendy young hollywood starlet	Rachel Bilson	1	1	1	1	1.000000000000	NULL	NULL	172	33	0.005813953488372093
+uber-violent game	Unreal Tournament	1	1	2	2	NULL	NULL	NULL	131	59	0.003816793893129771
+uber-violent game	Quake	1	1	2	2	NULL	NULL	NULL	331	116	0.0015105740181268882
+ubercart and suggested module	seo	2	2	2	1	1.000000000000	NULL	NULL	128	71	0.015625
+ubercart feature	Shipping module	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubercelebrity musician	Elvis Presley	2	1	4	2	NULL	NULL	NULL	579	194	0.0017271157167530224
+ubercelebrity musician	Beatles	2	1	4	2	NULL	NULL	NULL	1338	358	0.0007473841554559044
+uberfundamentalist Christian	say Jack Chick	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubergirl ireland's expense	travel	1	1	1	1	NULL	NULL	NULL	4528	1282	0.00022084805653710247
+uberrying plant	holly	1	1	2	2	0.500000000000	NULL	NULL	747	268	0.0006693440428380187
+uberrying plant	yaupon	1	1	2	2	0.500000000000	NULL	NULL	27	18	0.018518518518518517
+Ubers	Caedus	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Ubers	Sidious	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+ubersexual icon	Bono	3	3	12	5	0.500000000000	NULL	NULL	277	104	0.002707581227436823
+ubersexual icon	George Clooney	3	3	12	5	0.500000000000	NULL	NULL	390	126	0.0019230769230769232
+ubersexual icon	Bill Clinton	2	2	12	5	0.500000000000	NULL	NULL	374	175	0.00089126559714795
+ubersexual icon	Barack Obama	2	2	12	5	0.500000000000	NULL	NULL	271	138	0.0012300123001230013
+ubersexual icon	Jon Stewart	2	2	12	5	0.500000000000	NULL	NULL	74	39	0.0045045045045045045
+UBI banker	Access Bank	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+UBI banker	GT Bank	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ubi's home automation capability	energy management	1	1	4	4	0.250000000000	NULL	NULL	170	110	0.0014705882352941176
+ubi's home automation capability	security	1	1	4	4	0.250000000000	NULL	NULL	8153	2525	0.000030663559425978165
+ubi's home automation capability	lighting	1	1	4	4	0.250000000000	NULL	NULL	5506	1914	0.00004540501271340356
+ubi's home automation capability	telemetering	1	1	4	4	0.250000000000	NULL	NULL	6	6	0.041666666666666664
+ubicomp device	certain music player	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubicomp game	Smart Playing Cards	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubicomp pioneer	Weiser	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+ubicomp platform	Smart Furniture	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+ubicomp platform	Smart Space Lab.	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ubiqui-tous lowland social	Mentha canadensis	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiqui-touspersonal device	mobile phone	1	1	1	1	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+Ubiquinones	ubiquinone	2	2	2	1	1.000000000000	NULL	NULL	29	17	0.06896551724137931
+ubiquitary regulatory cascade	mitogen-activated protein kinases	1	1	2	2	1.000000000000	NULL	NULL	27	16	0.018518518518518517
+ubiquitary regulatory cascade	phosphatidylinositol 3-OH kinase	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ubiquitin affinity reagent	ubiquitin remnant antibody	2	2	2	1	NULL	NULL	NULL	2	1	1
+ubiquitin agent	ubiquitin conjugating agent	9	3	27	3	NULL	NULL	NULL	9	1	0.3333333333333333
+ubiquitin agent	ubiquitin ligating agent	9	3	27	3	NULL	NULL	NULL	9	1	0.3333333333333333
+ubiquitin agent	ubiquitin activating agent	9	3	27	3	NULL	NULL	NULL	9	1	0.3333333333333333
+ubiquitin conjugation system	cullin-based ligases	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitin feature	K63 chain	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitin ligases	c-cbl	2	1	12	10	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+ubiquitin ligases	Mdm2	2	1	12	10	1.000000000000	NULL	NULL	19	11	0.017543859649122806
+ubiquitin ligases	muscle-specific ring finger-1	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ubiquitin ligases	muscle-atrophy F-box	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ubiquitin ligases	WWP1	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ubiquitin ligases	cullinsubunits ofcullin-ring-type e3 ubiquitin ligases	1	1	12	10	1.000000000000	NULL	NULL	2	2	0.041666666666666664
+ubiquitin ligases	E4F1	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ubiquitin ligases	active ring-type ubiquitin ligases	1	1	12	10	1.000000000000	NULL	NULL	1	1	0.08333333333333333
+ubiquitin ligases	E6-AP	1	1	12	10	1.000000000000	NULL	NULL	9	6	0.009259259259259259
+ubiquitin ligases	Cbl-b	1	1	12	10	1.000000000000	NULL	NULL	5	4	0.016666666666666666
+ubiquitin receptor factor	intrinsic Rpt5 subunit	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitin related gene	NHLRC1	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ubiquitin related gene	UBR	1	1	3	3	1.000000000000	NULL	NULL	12	12	0.027777777777777776
+ubiquitin related gene	CUL4B	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ubiquitin-binding domain	ubiquitin-associated domain	2	2	2	1	1.000000000000	NULL	NULL	2	1	1
+ubiquitin-interacting protein	Hrs	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+ubiquitin-like modification	SUMOylation	1	0	1	1	1.000000000000	NULL	NULL	16	8	0.0625
+ubiquitin-like modifier protein	NEDD8	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ubiquitin-like protein	NEDD8	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ubiquitin-protein ligases	HRD1 andgp78	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitin-related domain	involved in protein-protein interactions DUB	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitin-related enzyme	kinases	1	1	2	2	NULL	NULL	NULL	99	53	0.005050505050505051
+ubiquitin-related enzyme	phosphatases	1	1	2	2	NULL	NULL	NULL	94	34	0.005319148936170213
+ubiquitin-related molecular feature	E3 domain	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitinated inclusion body	detects ubiquitinated inclusion body	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitinated membrane protein	activated growth factor receptor	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitinated receptor	epidermal growth factor receptor	1	1	1	1	NULL	NULL	NULL	150	60	0.006666666666666667
+ubiquitination site	threonine residues in A3G	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitination-associated enzyme	E2	1	1	1	1	1.000000000000	NULL	NULL	27	23	0.037037037037037035
+ubiquitinhassome non-traditional role	transcriptional regulation	1	1	1	1	1.000000000000	NULL	NULL	27	21	0.037037037037037035
+Ubiquitinligases	Cbl-b	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+Ubiquitinligases	Itch	1	1	2	2	NULL	NULL	NULL	93	50	0.005376344086021506
+ubiquitous accessibility internet protocol	HTTP	1	1	1	1	NULL	NULL	NULL	1172	410	0.0008532423208191126
+ubiquitous activity	golf course turf replacement	2	1	2	1	NULL	NULL	NULL	2	1	1
+ubiquitous allergen	rubber	1	1	3	3	NULL	NULL	NULL	4143	1304	0.00008045699573577922
+ubiquitous allergen	nickel	1	1	3	3	NULL	NULL	NULL	5172	1141	0.00006444960041247743
+ubiquitous allergen	oak pollen	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubiquitous amenity	gift shop	1	1	3	3	NULL	NULL	NULL	332	148	0.001004016064257028
+ubiquitous amenity	restaurant	1	1	3	3	NULL	NULL	NULL	11422	2864	0.00002918344714877721
+ubiquitous amenity	restroom	1	1	3	3	NULL	NULL	NULL	847	311	0.0003935458480913026
+ubiquitous and best-known lawn weed	crabgrass	1	1	2	2	NULL	NULL	NULL	363	101	0.0013774104683195593
+ubiquitous and best-known lawn weed	dandelion	1	1	2	2	NULL	NULL	NULL	1914	499	0.00026123301985370953
+ubiquitous and liver-enriched transcription factor	HNF4	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+ubiquitous and open internet standard	XML	1	1	1	1	NULL	NULL	NULL	1998	697	0.0005005005005005005
+Ubiquitous and opportunistic raptors	red-tailed hawk	1	1	1	1	NULL	NULL	NULL	250	49	0.004
+ubiquitous and pervasive computing application	sensor network	1	1	1	1	NULL	NULL	NULL	299	150	0.0033444816053511705
+ubiquitous and very dynamic hazard	military conflict	1	1	1	1	1.000000000000	NULL	NULL	27	18	0.037037037037037035
+ubiquitous antigen	vimentin	1	1	1	1	NULL	NULL	NULL	87	42	0.011494252873563218
+ubiquitous antioxidant	glutathione	1	1	1	1	NULL	NULL	NULL	634	233	0.0015772870662460567
+ubiquitous application	Pico on Linux	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ubiquitous application software	word processor	1	1	1	1	NULL	NULL	NULL	1259	462	0.0007942811755361397
+ubiquitous artifact	white shirt	1	1	1	1	1.000000000000	NULL	NULL	51	41	0.0196078431372549
+ubiquitous asymmetric indicator	sigma	1	0	1	1	NULL	NULL	NULL	249	119	0.004016064257028112
+ubiquitous attire brand	Adidas	1	1	2	2	NULL	NULL	NULL	2246	608	0.0002226179875333927
+ubiquitous attire brand	Reebok	1	1	2	2	NULL	NULL	NULL	926	307	0.0005399568034557236
+ubiquitous BB gun	Red Ryder from Daisy	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous beer	Pete's Wicked Ale	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+ubiquitous beer	Sam Adams	1	1	2	2	NULL	NULL	NULL	73	48	0.00684931506849315
+ubiquitous beer brand	Sapporo	2	1	4	2	1.000000000000	NULL	NULL	61	37	0.01639344262295082
+ubiquitous beer brand	Asahi	2	1	4	2	1.000000000000	NULL	NULL	39	29	0.02564102564102564
+ubiquitous beta cell protein	actin	2	2	2	1	NULL	NULL	NULL	276	107	0.007246376811594203
+ubiquitous brand	Diamond White	1	1	11	11	0.300000000000	NULL	NULL	11	6	0.008264462809917356
+ubiquitous brand	Sunglass Hut	1	1	11	11	0.300000000000	NULL	NULL	22	15	0.004132231404958678
+ubiquitous brand	Trader Joe's	1	1	11	11	0.300000000000	NULL	NULL	316	113	0.00028768699654775604
+ubiquitous brand	Dell	1	1	11	11	0.300000000000	NULL	NULL	6439	1426	0.00001411851077948298
+ubiquitous brand	Sanyo	1	1	11	11	0.300000000000	NULL	NULL	391	169	0.00023250406882120437
+ubiquitous brand	HP	1	1	11	11	0.300000000000	NULL	NULL	5009	1443	0.00001814914971233598
+ubiquitous brand	Jenny Craig	1	1	11	11	0.300000000000	NULL	NULL	313	121	0.0002904443799012489
+ubiquitous brand	Marmite	1	1	11	11	0.300000000000	NULL	NULL	82	46	0.0011086474501108647
+ubiquitous brand	White Lightning	1	1	11	11	0.300000000000	NULL	NULL	23	13	0.003952569169960474
+ubiquitous brand	Frosty Jack	1	1	11	11	0.300000000000	NULL	NULL	2	2	0.045454545454545456
+ubiquitous brand	Panasonic	1	1	11	11	0.300000000000	NULL	NULL	2159	664	0.000042107036085729926
+ubiquitous brandy-producing grape	colombard	1	1	1	1	1.000000000000	NULL	NULL	23	17	0.043478260869565216
+ubiquitous breeding site	tree hole	3	3	6	2	1.000000000000	NULL	NULL	28	20	0.05357142857142857
+ubiquitous breeding site	coconut shell	3	3	6	2	1.000000000000	NULL	NULL	122	72	0.012295081967213115
+ubiquitous by-products	dioxin	1	1	2	2	0.500000000000	NULL	NULL	1246	396	0.0004012841091492777
+ubiquitous by-products	chlorinated benzene	1	1	2	2	0.500000000000	NULL	NULL	11	9	0.045454545454545456
+ubiquitous capture device	digital camera	1	1	1	1	NULL	NULL	NULL	3926	1175	0.00025471217524197657
+ubiquitous carcinogenic microbe	Helicobacter pylorus	2	2	2	1	NULL	NULL	NULL	129	44	0.015503875968992248
+ubiquitous card	Sol Ring	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ubiquitous celebrity icon	footballer David Beckham	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+ubiquitous cell surface molecule	CD71	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+ubiquitous cell surface molecule	CD55	1	1	2	2	1.000000000000	NULL	NULL	30	18	0.016666666666666666
+ubiquitous chain	Pizza Hut	1	1	4	4	NULL	NULL	NULL	933	334	0.0002679528403001072
+ubiquitous chain	McDonald's	1	1	4	4	NULL	NULL	NULL	3099	848	0.00008067118425298483
+ubiquitous chain	KFC	1	1	4	4	NULL	NULL	NULL	949	353	0.00026343519494204424
+ubiquitous chain	Dunkin Donuts	1	1	4	4	NULL	NULL	NULL	128	71	0.001953125
+ubiquitous channel	radio	1	1	2	2	NULL	NULL	NULL	7280	2387	0.00006868131868131868
+ubiquitous channel	TV	1	1	2	2	NULL	NULL	NULL	3776	1346	0.00013241525423728814
+ubiquitous characteristic	pervasive connectivity	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ubiquitous chemical	acetone	1	1	1	1	NULL	NULL	NULL	2962	700	0.00033760972316002703
+ubiquitous chinese restaurant	Xuan Xin Restaurant	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous classic	fresh salsa	1	1	4	4	0.250000000000	NULL	NULL	11	9	0.022727272727272728
+ubiquitous classic	guacamole	1	1	4	4	0.250000000000	NULL	NULL	304	146	0.0008223684210526315
+ubiquitous classic	empanadas	1	1	4	4	0.250000000000	NULL	NULL	103	74	0.0024271844660194173
+ubiquitous classic	enchilada	1	1	4	4	0.250000000000	NULL	NULL	359	179	0.0006963788300835655
+ubiquitous client technology	Flash Player	1	1	4	4	0.250000000000	NULL	NULL	72	44	0.003472222222222222
+ubiquitous client technology	HTML	1	1	4	4	0.250000000000	NULL	NULL	1717	611	0.00014560279557367502
+ubiquitous client technology	Adobe AIR	1	1	4	4	0.250000000000	NULL	NULL	56	35	0.004464285714285714
+ubiquitous client technology	PDF	1	1	4	4	0.250000000000	NULL	NULL	1196	357	0.00020903010033444816
+ubiquitous cloud type	boundary-layer stratocumulus	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous commercial entity	Inc.	1	1	1	1	NULL	NULL	NULL	1793	737	0.0005577244841048522
+ubiquitous communication protocol	HTTP	1	1	2	2	NULL	NULL	NULL	1172	410	0.0004266211604095563
+ubiquitous communication protocol	data format standard	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ubiquitous communication technology	text messaging	1	1	1	1	NULL	NULL	NULL	709	286	0.0014104372355430183
+ubiquitous community institution	school	1	1	2	2	NULL	NULL	NULL	16053	4303	0.000031146826138416496
+ubiquitous community institution	places of worship	1	1	2	2	NULL	NULL	NULL	223	114	0.002242152466367713
+ubiquitous community-driven site	Wikipedia	1	1	2	2	NULL	NULL	NULL	1844	607	0.00027114967462039046
+ubiquitous community-driven site	Flickr	1	1	2	2	NULL	NULL	NULL	2328	648	0.0002147766323024055
+ubiquitous company	Groupon	1	1	2	2	NULL	NULL	NULL	890	281	0.0005617977528089888
+ubiquitous company	Living Social	1	1	2	2	NULL	NULL	NULL	122	59	0.004098360655737705
+ubiquitous compound	hexenol	3	2	7	4	0.500000000000	NULL	NULL	3	1	0.42857142857142855
+ubiquitous compound	green leaf -volatile	2	2	7	4	0.500000000000	NULL	NULL	10	4	0.05714285714285714
+ubiquitous compound	phthalate ester	1	1	7	4	0.500000000000	NULL	NULL	37	17	0.0038610038610038607
+ubiquitous compound	water	1	1	7	4	0.500000000000	NULL	NULL	25348	6311	0.000005635834892580987
+ubiquitous compound class	adrenal steroid	1	1	4	4	0.250000000000	NULL	NULL	7	5	0.03571428571428571
+ubiquitous compound class	sterols	1	1	4	4	0.250000000000	NULL	NULL	137	81	0.0018248175182481751
+ubiquitous compound class	bile acid	1	1	4	4	0.250000000000	NULL	NULL	76	53	0.003289473684210526
+ubiquitous compound class	sex hormone	1	1	4	4	0.250000000000	NULL	NULL	85	35	0.0029411764705882353
+ubiquitous computing environment	Active Campus	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ubiquitous computing environment	Oxygen	1	1	4	4	NULL	NULL	NULL	4210	1106	0.000059382422802850356
+ubiquitous computing environment	dynamic ubiquitous computing environment	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ubiquitous computing environment	smart home	1	1	4	4	NULL	NULL	NULL	54	29	0.004629629629629629
+ubiquitous computing function	telemetry	1	1	2	2	0.500000000000	NULL	NULL	120	76	0.004166666666666667
+ubiquitous computing function	context awareness	1	1	2	2	0.500000000000	NULL	NULL	18	15	0.027777777777777776
+ubiquitous computing platform	Smart Furniture	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+ubiquitous computing platform	Smart Space Lab.	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ubiquitous computing research branch	intelligent environment	1	1	1	1	0.500000000000	NULL	NULL	3	3	0.3333333333333333
+ubiquitous computing scenario	home	1	1	1	1	NULL	NULL	NULL	3273	1179	0.00030553009471432935
+ubiquitous computing technique	multiagent system	2	2	4	2	NULL	NULL	NULL	6	4	0.16666666666666666
+ubiquitous computing technique	ubiquitous data mining	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+ubiquitous computing technology	context aware device	1	1	7	7	0.400000000000	NULL	NULL	1	1	0.14285714285714285
+ubiquitous computing technology	automated data capture	1	1	7	7	0.400000000000	NULL	NULL	2	2	0.07142857142857142
+ubiquitous computing technology	sensor	1	1	7	7	0.400000000000	NULL	NULL	1753	737	0.00008149295085975062
+ubiquitous computing technology	wireless communication	1	1	7	7	0.400000000000	NULL	NULL	289	126	0.0004943153732081067
+ubiquitous computing technology	indoor location tracking	1	1	7	7	0.400000000000	NULL	NULL	1	1	0.14285714285714285
+ubiquitous computing technology	RFID tagging	1	1	7	7	0.400000000000	NULL	NULL	9	6	0.015873015873015872
+ubiquitous computing technology	tagging	1	1	7	7	0.400000000000	NULL	NULL	313	155	0.00045641259698767686
+ubiquitous connective technology	Internet-enabled digital commerce	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ubiquitous connective technology	social networking	1	1	2	2	NULL	NULL	NULL	1052	428	0.0004752851711026616
+ubiquitous conservative commentator	John Stossel	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+ubiquitous consumer electronic device	cell phone	1	1	1	1	NULL	NULL	NULL	8165	2060	0.0001224739742804654
+ubiquitous contaminant	acrylamide	1	1	2	2	NULL	NULL	NULL	174	77	0.0028735632183908046
+ubiquitous contaminant	dust	1	1	2	2	NULL	NULL	NULL	4491	1190	0.00011133377866844801
+ubiquitous contemporary infrastructure component	entrance point	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ubiquitous contemporary infrastructure component	switch	1	1	3	3	NULL	NULL	NULL	3437	1190	0.00009698380370478129
+ubiquitous contemporary infrastructure component	new router	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ubiquitous CPU architecture	Intel x86	1	1	1	1	1.000000000000	NULL	NULL	21	15	0.047619047619047616
+ubiquitous creature	flea	1	1	2	2	NULL	NULL	NULL	1334	282	0.0003748125937031484
+ubiquitous creature	rat	1	1	2	2	NULL	NULL	NULL	3271	707	0.0001528584530724549
+ubiquitous cubic puzzle	Rubik's Cube	1	1	1	1	1.000000000000	NULL	NULL	40	30	0.025
+ubiquitous device	PDAs	2	1	17	16	0.100000000000	NULL	NULL	3267	824	0.00007202146239579394
+ubiquitous device	cell phone	2	2	17	16	0.100000000000	NULL	NULL	8165	2060	0.00002881740571305068
+ubiquitous device	bluetooth-enabled mobile phone	1	1	17	16	0.100000000000	NULL	NULL	1	1	0.058823529411764705
+ubiquitous device	biomedical implant	1	1	17	16	0.100000000000	NULL	NULL	3	3	0.0196078431372549
+ubiquitous device	memory stick	1	1	17	16	0.100000000000	NULL	NULL	293	152	0.0002007628990162618
+ubiquitous device	medical scanning machine	1	1	17	16	0.100000000000	NULL	NULL	1	1	0.058823529411764705
+ubiquitous device	multifunctional cellular phone	1	1	17	16	0.100000000000	NULL	NULL	1	1	0.058823529411764705
+ubiquitous device	Nintendo Gameboy	1	1	17	16	0.100000000000	NULL	NULL	8	7	0.007352941176470588
+ubiquitous device	RFID tag	1	1	17	16	0.100000000000	NULL	NULL	208	99	0.00028280542986425336
+ubiquitous device	pad	1	1	17	16	0.100000000000	NULL	NULL	623	332	0.00009441979038806533
+ubiquitous device	MP3 player	1	1	17	16	0.100000000000	NULL	NULL	3198	925	0.00001839384909686201
+ubiquitous device	USB jump drive	1	1	17	16	0.100000000000	NULL	NULL	5	5	0.011764705882352941
+ubiquitous device	mobile phone	1	1	17	16	0.100000000000	NULL	NULL	6991	1839	0.000008414179575420498
+ubiquitous device	reader	1	1	17	16	0.100000000000	NULL	NULL	329	142	0.00017879492222420883
+ubiquitous device	digital camera	1	1	17	16	0.100000000000	NULL	NULL	3926	1175	0.000014983069131880974
+ubiquitous disease	TB	1	1	4	4	0.600000000000	NULL	NULL	593	217	0.00042158516020236085
+ubiquitous disease	measles	1	1	4	4	0.600000000000	NULL	NULL	2428	452	0.00010296540362438221
+ubiquitous disease	small box	1	1	4	4	0.600000000000	NULL	NULL	8	12	0.03125
+ubiquitous disease	motile beromonas spp.	1	1	4	4	0.600000000000	NULL	NULL	1	1	0.25
+ubiquitous dish	crab cake	1	1	4	4	0.500000000000	NULL	NULL	182	115	0.0013736263736263737
+ubiquitous dish	veggie sandwich	1	1	4	4	0.500000000000	NULL	NULL	5	3	0.05
+ubiquitous dish	stuffed banana pepper	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ubiquitous dish	veal parmesan	1	1	4	4	0.500000000000	NULL	NULL	14	13	0.017857142857142856
+ubiquitous DNA architectural protein	prokaroytic nucleoid protein HU	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous electronic device	MP3 player	1	1	5	5	0.333333333333	NULL	NULL	3198	925	0.00006253908692933083
+ubiquitous electronic device	rollup display	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+ubiquitous electronic device	IC tag	1	1	5	5	0.333333333333	NULL	NULL	4	4	0.05
+ubiquitous electronic device	disposable camera	1	1	5	5	0.333333333333	NULL	NULL	75	43	0.002666666666666667
+ubiquitous electronic device	smart card	1	1	5	5	0.333333333333	NULL	NULL	686	352	0.0002915451895043732
+ubiquitous electronic messaging system	instant messaging	1	1	2	2	NULL	NULL	NULL	1827	684	0.0002736726874657909
+ubiquitous electronic messaging system	conventional email	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ubiquitous element	air	1	1	1	1	NULL	NULL	NULL	4803	1359	0.00020820320632937748
+ubiquitous embedded system	medication management	1	1	1	1	NULL	NULL	NULL	143	80	0.006993006993006993
+ubiquitous engineering job	manufacturing	1	1	1	1	NULL	NULL	NULL	4573	1084	0.00021867483052700635
+ubiquitous environmental contaminant	halogenated aromatic hydrocarbon	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ubiquitous environmental law	Stockholm Convention on Persistent Organic Pollutants	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+ubiquitous environmental signal	light	1	1	1	1	NULL	NULL	NULL	6435	2121	0.0001554001554001554
+ubiquitous environmental toxin	DDT	1	1	2	2	NULL	NULL	NULL	1836	404	0.0002723311546840959
+ubiquitous environmental toxin	PCBs	1	1	2	2	NULL	NULL	NULL	1419	381	0.00035236081747709656
+ubiquitous enzyme	aldehyde reductases	1	1	3	4	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ubiquitous enzyme	carbonyl reductases	1	1	3	4	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ubiquitous enzyme	RNA polymerase	1	1	3	4	0.500000000000	NULL	NULL	38	15	0.008771929824561403
+ubiquitous equipment	PDA	1	1	1	1	NULL	NULL	NULL	297	378	0.003367003367003367
+ubiquitous eric carle book	Very Busy Spider	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ubiquitous event	mind wandering	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ubiquitous exotic grass	Bromus madritensis ssp	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+Ubiquitous exotic herbaceous species	Bidens pilosa	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+Ubiquitous exotic herbaceous species	Ehrharta erecta	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ubiquitous expanded cinema technique	real-time sampling	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ubiquitous expanded cinema technique	remixing	1	1	3	3	1.000000000000	NULL	NULL	7	5	0.047619047619047616
+ubiquitous expanded cinema technique	digital manipulation	1	1	3	3	1.000000000000	NULL	NULL	11	10	0.0303030303030303
+ubiquitous exposure	indoor Radon	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ubiquitous factor	marketing	2	2	4	2	NULL	NULL	NULL	6527	1892	0.00015320974413972729
+ubiquitous factor	technology	2	2	4	2	NULL	NULL	NULL	4468	1409	0.00022381378692927484
+ubiquitous figure	John Ruskin	1	1	1	1	NULL	NULL	NULL	54	29	0.018518518518518517
+ubiquitous file format	PDF available	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous film	Casablanca	1	1	2	2	0.500000000000	NULL	NULL	328	118	0.001524390243902439
+ubiquitous film	Godfather trilogy	1	1	2	2	0.500000000000	NULL	NULL	21	16	0.023809523809523808
+ubiquitous form	varieties of the small bivalve	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous franchise	Pizza Hut	1	1	2	2	NULL	NULL	NULL	933	334	0.0005359056806002144
+ubiquitous franchise	Dominos	1	1	2	2	NULL	NULL	NULL	130	66	0.0038461538461538464
+ubiquitous fungus	Cryptococcus	1	1	5	5	0.600000000000	NULL	NULL	59	36	0.0033898305084745766
+ubiquitous fungus	Aspergillus	1	1	5	5	0.600000000000	NULL	NULL	440	139	0.00045454545454545455
+ubiquitous fungus	Pneumocystis	1	1	5	5	0.600000000000	NULL	NULL	18	12	0.011111111111111112
+ubiquitous fungus	Fusarium	1	1	5	5	0.600000000000	NULL	NULL	277	100	0.0007220216606498196
+ubiquitous fungus	Rhizopus	1	1	5	5	0.600000000000	NULL	NULL	40	19	0.005
+ubiquitous gambling game	slot	1	1	1	1	NULL	NULL	NULL	694	208	0.001440922190201729
+ubiquitous game component	audio	1	1	1	1	NULL	NULL	NULL	2864	1159	0.00034916201117318437
+ubiquitous gene	cytochrome c	4	4	4	1	1.000000000000	NULL	NULL	162	71	0.024691358024691357
+ubiquitous green building measure	solar panel	1	1	1	1	NULL	NULL	NULL	1307	624	0.0007651109410864575
+ubiquitous growth factor	Fibroblast Growth Factor	1	1	1	1	NULL	NULL	NULL	264	71	0.003787878787878788
+ubiquitous GUI device	cellular phone	1	1	3	3	NULL	NULL	NULL	2660	748	0.00012531328320802005
+ubiquitous GUI device	personal computer	1	1	3	3	NULL	NULL	NULL	2291	756	0.00014549687181725592
+ubiquitous GUI device	handheld computer	1	1	3	3	NULL	NULL	NULL	281	104	0.0011862396204033213
+ubiquitous handheld device	mobile phone	1	1	1	1	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+ubiquitous health advantage	shortening blood pressure	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous health care appliance	medical gas cylinder	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ubiquitous health care appliance	wheelchair	1	1	2	2	NULL	NULL	NULL	1254	363	0.00039872408293460925
+ubiquitous home appliance	television	1	1	3	3	NULL	NULL	NULL	8405	2451	0.000039658933174697595
+ubiquitous home appliance	clothes dryer	1	1	3	3	NULL	NULL	NULL	385	128	0.0008658008658008658
+ubiquitous home appliance	microwave	1	1	3	3	NULL	NULL	NULL	2708	814	0.00012309207287050712
+Ubiquitous housekeeping RNAs	RNase P	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+Ubiquitous housekeeping RNAs	SRP RNA	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ubiquitous human issue	trauma	1	1	3	3	NULL	NULL	NULL	2048	628	0.00016276041666666666
+ubiquitous human issue	morality	1	1	3	3	NULL	NULL	NULL	497	180	0.0006706908115358819
+ubiquitous human issue	illness	1	1	3	3	NULL	NULL	NULL	3864	969	0.0000862663906142167
+ubiquitous ICT datum gathering method	innovative compliance monitor	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous industry	restaurant	1	1	2	2	NULL	NULL	NULL	11422	2864	0.00004377517072316582
+ubiquitous industry	bakery	1	1	2	2	NULL	NULL	NULL	866	386	0.0005773672055427252
+ubiquitous industry standard	XML	1	1	2	2	NULL	NULL	NULL	1998	697	0.00025025025025025025
+ubiquitous industry standard	HTTP	1	1	2	2	NULL	NULL	NULL	1172	410	0.0004266211604095563
+ubiquitous infection	influenza	1	1	3	3	0.250000000000	NULL	NULL	1839	402	0.000181257930034439
+ubiquitous infection	pneumococcal pneumonia	1	1	3	3	0.250000000000	NULL	NULL	24	16	0.013888888888888888
+ubiquitous infection	Epstein-Barr virus	1	1	3	3	0.250000000000	NULL	NULL	286	79	0.0011655011655011655
+ubiquitous information source	Internet	2	2	4	2	NULL	NULL	NULL	10699	2978	0.00009346667912889055
+ubiquitous information source	cell phone datum	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+ubiquitous information-age tool	desktop	1	1	1	1	NULL	NULL	NULL	635	305	0.0015748031496062992
+ubiquitous innovation	dishwasher	1	1	3	3	NULL	NULL	NULL	2443	574	0.00013644426251876107
+ubiquitous innovation	toaster	1	1	3	3	NULL	NULL	NULL	1444	433	0.00023084025854108956
+ubiquitous innovation	microwave	1	1	3	3	NULL	NULL	NULL	2708	814	0.00012309207287050712
+ubiquitous international brand	Illy	1	1	2	2	0.500000000000	NULL	NULL	25	16	0.02
+ubiquitous international brand	Zara	1	1	2	2	0.500000000000	NULL	NULL	576	253	0.0008680555555555555
+ubiquitous internet system	WiMAX	1	1	1	1	NULL	NULL	NULL	476	210	0.0021008403361344537
+ubiquitous internet technology	Extensible Markup Language	3	3	6	2	1.000000000000	NULL	NULL	174	74	0.008620689655172414
+ubiquitous internet technology	HyperText Transfer Protocol	3	3	6	2	1.000000000000	NULL	NULL	74	38	0.02027027027027027
+ubiquitous item	South African flag	2	2	29	23	0.307692307692	NULL	NULL	2	1	0.06896551724137931
+ubiquitous item	architecturally distinct Constitutional Court	2	2	29	23	0.307692307692	NULL	NULL	2	1	0.06896551724137931
+ubiquitous item	wild nettle pennette cooked in the style of risotto	2	2	29	23	0.307692307692	NULL	NULL	2	1	0.06896551724137931
+ubiquitous item	salad of poached lamb tongue	2	2	29	23	0.307692307692	NULL	NULL	2	1	0.06896551724137931
+ubiquitous item	Stoned Cherrie's taboo-popping Steve Biko T-shirt	2	2	29	23	0.307692307692	NULL	NULL	2	1	0.06896551724137931
+ubiquitous item	Zapiro's indicting political cartoon	2	2	29	23	0.307692307692	NULL	NULL	2	1	0.06896551724137931
+ubiquitous item	coffee cup	1	1	29	23	0.307692307692	NULL	NULL	264	183	0.00013061650992685474
+ubiquitous item	light bulb	1	1	29	23	0.307692307692	NULL	NULL	815	338	0.00004231013327691982
+ubiquitous item	Nando's national identity-forging advertisement	1	1	29	23	0.307692307692	NULL	NULL	1	1	0.034482758620689655
+ubiquitous item	steamed shrimp dumpling	1	1	29	23	0.307692307692	NULL	NULL	5	5	0.006896551724137931
+ubiquitous item	conditioner	1	1	29	23	0.307692307692	NULL	NULL	810	291	0.00004257130693912303
+ubiquitous item	family photograph	1	1	29	23	0.307692307692	NULL	NULL	77	34	0.0004478280340349306
+ubiquitous item	Kulula	1	1	29	23	0.307692307692	NULL	NULL	10	8	0.0034482758620689655
+ubiquitous item	Kulula airline	1	1	29	23	0.307692307692	NULL	NULL	1	1	0.034482758620689655
+ubiquitous item	Har Gau	1	1	29	23	0.307692307692	NULL	NULL	5	3	0.006896551724137931
+ubiquitous item	shampoo	1	1	29	23	0.307692307692	NULL	NULL	3875	1061	0.000008898776418242492
+ubiquitous item	office paper	1	1	29	23	0.307692307692	NULL	NULL	126	53	0.0002736726874657909
+ubiquitous item	sweet	1	1	29	23	0.307692307692	NULL	NULL	1666	628	0.000020697934346152255
+ubiquitous item	water bottle	1	1	29	23	0.307692307692	NULL	NULL	720	294	0.00004789272030651341
+ubiquitous item	Sigg water bottles from Switzerland	1	1	29	23	0.307692307692	NULL	NULL	1	1	0.034482758620689655
+ubiquitous item	newspaper	1	1	29	23	0.307692307692	NULL	NULL	5708	1864	0.000006041127999420051
+ubiquitous item	cashmere sweater	1	1	29	23	0.307692307692	NULL	NULL	33	29	0.001044932079414838
+ubiquitous item	birth record	1	1	29	23	0.307692307692	NULL	NULL	79	42	0.00043649061545176777
+ubiquitous japanese brand	Canon	1	1	5	5	NULL	NULL	NULL	1869	581	0.00010700909577314073
+ubiquitous japanese brand	Hitachi	1	1	5	5	NULL	NULL	NULL	997	379	0.00020060180541624876
+ubiquitous japanese brand	Toyota	1	1	5	5	NULL	NULL	NULL	4435	1095	0.00004509582863585119
+ubiquitous japanese brand	Sony	1	1	5	5	NULL	NULL	NULL	6122	1647	0.00003266906239790918
+ubiquitous japanese brand	Mitsubishi	1	1	5	5	NULL	NULL	NULL	1115	455	0.00017937219730941706
+ubiquitous kinematic indicator	sigma porphyroclasts	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubiquitous kinematic indicator	oblique grain-shape foliations	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubiquitous kinematic indicator	S-C fabric	1	1	3	3	NULL	NULL	NULL	8	4	0.041666666666666664
+ubiquitous little-boy theme	truck	1	1	2	2	NULL	NULL	NULL	2917	860	0.00017140898183064793
+ubiquitous little-boy theme	sport	1	1	2	2	NULL	NULL	NULL	7765	2042	0.0000643915003219575
+ubiquitous local seafood dish	chilli crab	1	1	1	1	1.000000000000	NULL	NULL	16	9	0.0625
+ubiquitous low bandwidth network	paging	1	1	1	1	NULL	NULL	NULL	265	146	0.0037735849056603774
+ubiquitous malady	high blood pressure	1	1	1	1	NULL	NULL	NULL	5959	951	0.0001678133915086424
+ubiquitous management interface	Web browser	1	1	1	1	NULL	NULL	NULL	947	349	0.0010559662090813093
+ubiquitous marine organism	barnacle	1	1	1	1	NULL	NULL	NULL	287	98	0.003484320557491289
+ubiquitous material	concrete	4	4	25	13	0.181818181818	NULL	NULL	5791	1660	0.00011051631842514247
+ubiquitous material	synthetic rubber	4	4	25	13	0.181818181818	NULL	NULL	207	96	0.0030917874396135265
+ubiquitous material	clear glass	4	4	25	13	0.181818181818	NULL	NULL	35	22	0.018285714285714287
+ubiquitous material	aluminum	3	3	25	13	0.181818181818	NULL	NULL	10290	2216	0.00003498542274052478
+ubiquitous material	polyethylene	2	2	25	13	0.181818181818	NULL	NULL	3181	975	0.00005029864822382898
+ubiquitous material	plastics polyethylene	2	2	25	13	0.181818181818	NULL	NULL	2	1	0.08
+ubiquitous material	stationery	1	1	25	13	0.181818181818	NULL	NULL	1114	471	0.000035906642728904846
+ubiquitous material	trash	1	1	25	13	0.181818181818	NULL	NULL	548	234	0.00007299270072992701
+ubiquitous material	photograph	1	1	25	13	0.181818181818	NULL	NULL	4026	1203	0.000009935419771485345
+ubiquitous material	newspaper	1	1	25	13	0.181818181818	NULL	NULL	5708	1864	0.00000700770847932726
+ubiquitous material	coffee cup	1	1	25	13	0.181818181818	NULL	NULL	264	183	0.00015151515151515152
+ubiquitous material	packaging	1	1	25	13	0.181818181818	NULL	NULL	1906	671	0.000020986358866736622
+ubiquitous medication	eyedrops used for ophthalmic exam	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous medium	internet	1	1	2	2	NULL	NULL	NULL	10699	2978	0.000046733339564445275
+ubiquitous medium	YouTube	1	1	2	2	NULL	NULL	NULL	6287	1492	0.0000795291872117067
+ubiquitous mediums	mobile phone	1	1	1	1	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+ubiquitous menu favorite	eggs Benedict	1	1	2	2	NULL	NULL	NULL	156	97	0.003205128205128205
+ubiquitous menu favorite	Caesar salad	1	1	2	2	NULL	NULL	NULL	113	72	0.004424778761061947
+ubiquitous metabolite	alcohol	2	2	3	2	0.333333333333	NULL	NULL	12820	3081	0.00010400416016640666
+ubiquitous metabolite	ATP	1	1	3	2	0.333333333333	NULL	NULL	439	195	0.000759301442672741
+ubiquitous method	2G	1	1	1	1	NULL	NULL	NULL	143	39	0.006993006993006993
+ubiquitous microbe	Pseudomonas sp.	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+ubiquitous mineral	white mica	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous mobile source related compound	benzene	1	1	1	1	NULL	NULL	NULL	4065	919	0.0002460024600246002
+ubiquitous mobile technology	mobile phone	1	1	1	2	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+ubiquitous modern infrastructure component	new router	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ubiquitous modern infrastructure component	switch	1	1	3	3	NULL	NULL	NULL	3437	1190	0.00009698380370478129
+ubiquitous modern infrastructure component	access point	1	1	3	3	NULL	NULL	NULL	253	107	0.0013175230566534913
+ubiquitous module	Views	1	1	1	1	1.000000000000	NULL	NULL	38	31	0.02631578947368421
+ubiquitous multivariate statistical application	regression	4	3	4	1	NULL	NULL	NULL	505	239	0.007920792079207921
+ubiquitous native species	adorable little Carolina Chickadees	1	1	1	4	NULL	NULL	NULL	1	1	1
+ubiquitous naturalised species	pasture grass	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+ubiquitous naturalised species	hawkweeds	1	1	2	2	1.000000000000	NULL	NULL	13	8	0.038461538461538464
+ubiquitous network technology	Internet	1	0	2	2	0.333333333333	NULL	NULL	10699	2978	0.000046733339564445275
+ubiquitous network technology	mobile communication	1	0	2	2	0.333333333333	NULL	NULL	169	82	0.0029585798816568047
+ubiquitous networking technology	RFID tag	1	1	1	1	NULL	NULL	NULL	208	99	0.004807692307692308
+ubiquitous neural network method	Kohonen Networks	1	1	1	2	NULL	NULL	NULL	3	3	0.3333333333333333
+ubiquitous new england historical style	Saltbox	1	1	2	2	0.333333333333	NULL	NULL	14	2	0.03571428571428571
+ubiquitous new england historical style	Colonial	1	1	2	2	0.333333333333	NULL	NULL	124	69	0.004032258064516129
+ubiquitous newfoundland seabird	Atlantic Puffin	1	1	1	2	1.000000000000	NULL	NULL	17	11	0.058823529411764705
+ubiquitous newspaper	Deseret News	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+ubiquitous noxious hydrophobic substance	hydrocarbon	1	1	1	1	NULL	NULL	NULL	994	397	0.001006036217303823
+ubiquitous online legal research tool	LexisNexis	1	1	1	1	NULL	NULL	NULL	189	115	0.005291005291005291
+ubiquitous online personal	Match.com	1	1	1	1	0.333333333333	NULL	NULL	400	89	0.0025
+ubiquitous or economically important family	Asteraceae	1	1	1	1	1.000000000000	NULL	NULL	21	12	0.047619047619047616
+ubiquitous organism	Candida	1	1	3	3	NULL	NULL	NULL	419	151	0.0007955449482895783
+ubiquitous organism	Legionella	1	1	3	3	NULL	NULL	NULL	137	63	0.0024330900243309003
+ubiquitous organism	Aspergillus	1	1	3	3	NULL	NULL	NULL	440	139	0.0007575757575757576
+ubiquitous parental involvement initiative	helping out in the office	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ubiquitous parental involvement initiative	fund raising	1	1	2	2	NULL	NULL	NULL	171	88	0.0029239766081871343
+ubiquitous pathogen	Streptococcus	1	1	3	3	0.333333333333	NULL	NULL	330	99	0.00101010101010101
+ubiquitous pathogen	Pneumococcus	1	1	3	3	0.333333333333	NULL	NULL	49	23	0.006802721088435374
+ubiquitous pathogen	Staphylococcus	1	1	3	3	0.333333333333	NULL	NULL	367	104	0.0009082652134423251
+ubiquitous pest	olive fruit fly	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous phenomenon	Beatles	1	1	3	3	NULL	NULL	NULL	1338	358	0.00024912805181863477
+ubiquitous phenomenon	gravity	1	1	3	3	NULL	NULL	NULL	1396	490	0.0002387774594078319
+ubiquitous phenomenon	heat	1	1	3	3	NULL	NULL	NULL	4223	1245	0.00007893282816323308
+ubiquitous pianist	Tommy Flanagan	1	1	2	2	1.000000000000	NULL	NULL	14	13	0.03571428571428571
+ubiquitous pianist	Wynton Kelly	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+ubiquitous plant	Dittrichia viscosa	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ubiquitous plant	Capparis orientalis	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ubiquitous plant	Euphorbia pinea	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ubiquitous plant	Senecio cineraria	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ubiquitous plant	Umbilicus horizontalis	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+ubiquitous plant constituent	flavonoids	1	1	1	1	NULL	NULL	NULL	812	259	0.0012315270935960591
+ubiquitous plastic	Styrofoam	1	1	3	3	NULL	NULL	NULL	401	150	0.0008312551953449708
+ubiquitous plastic	urethane	1	1	3	3	NULL	NULL	NULL	368	199	0.0009057971014492753
+ubiquitous plastic	ABS	1	1	3	3	NULL	NULL	NULL	1312	481	0.0002540650406504065
+ubiquitous platform	Smart Furniture	2	1	5	4	1.000000000000	NULL	NULL	7	6	0.1142857142857143
+ubiquitous platform	smart mobile phone	1	1	5	4	1.000000000000	NULL	NULL	11	11	0.018181818181818184
+ubiquitous platform	set-top box for the TV	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+ubiquitous platform	Smart Space Lab.	1	1	5	4	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+ubiquitous pollutant	smoke	1	1	3	3	0.333333333333	NULL	NULL	2086	724	0.00015979546180888463
+ubiquitous pollutant	gasoline vapor	1	1	3	3	0.333333333333	NULL	NULL	16	11	0.020833333333333332
+ubiquitous pollutant	car exhaust	1	1	3	3	0.333333333333	NULL	NULL	58	35	0.005747126436781609
+ubiquitous polynesian cocktail	Mai Tai	1	1	4	4	0.500000000000	NULL	NULL	40	25	0.00625
+ubiquitous polynesian cocktail	Chi-Chi	1	1	4	4	0.500000000000	NULL	NULL	4	4	0.0625
+ubiquitous polynesian cocktail	Banana Daiquiri	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ubiquitous polynesian cocktail	Blue Hawaii	1	1	4	4	0.500000000000	NULL	NULL	14	13	0.017857142857142856
+ubiquitous popular cultural product	advertising	1	1	1	1	NULL	NULL	NULL	4247	1447	0.0002354603249352484
+ubiquitous process	promoting cell proliferation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous product	electric hedge trimmer	2	2	8	8	0.166666666666	NULL	NULL	9	7	0.05555555555555555
+ubiquitous product	Office	1	1	8	8	0.166666666666	NULL	NULL	3914	1497	0.00003193663771078181
+ubiquitous product	lighter	1	1	8	8	0.166666666666	NULL	NULL	472	190	0.00026483050847457627
+ubiquitous product	beverage container	1	1	8	8	0.166666666666	NULL	NULL	75	41	0.0016666666666666668
+ubiquitous product	gasoline	1	1	8	8	0.166666666666	NULL	NULL	4631	1181	0.00002699201036493198
+ubiquitous product	glass bakeware	1	0	8	8	0.166666666666	NULL	NULL	3	3	0.041666666666666664
+ubiquitous product	mobile phone	1	1	8	8	0.166666666666	NULL	NULL	6991	1839	0.00001788013159776856
+ubiquitous program	Windows Media Player	1	1	1	1	NULL	NULL	NULL	839	277	0.0011918951132300357
+ubiquitous project management tool	network planning	1	1	1	1	NULL	NULL	NULL	51	33	0.0196078431372549
+ubiquitous promoter	CMV	1	1	3	3	NULL	NULL	NULL	218	86	0.0015290519877675841
+ubiquitous promoter	cytomegalovirus	1	1	3	3	NULL	NULL	NULL	524	120	0.0006361323155216284
+ubiquitous promoter	CBA promoter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubiquitous proteases	furin	1	1	1	1	1.000000000000	NULL	NULL	18	14	0.05555555555555555
+Ubiquitous protein	lysozyme	2	1	2	1	NULL	NULL	NULL	294	135	0.006802721088435374
+ubiquitous pub favorite	billiards	1	1	1	1	NULL	NULL	NULL	437	150	0.002288329519450801
+ubiquitous public service	health care	1	1	2	2	NULL	NULL	NULL	5486	1449	0.0000911410864017499
+ubiquitous public service	welfare	1	1	2	2	NULL	NULL	NULL	1226	479	0.0004078303425774878
+ubiquitous quality	volume	2	1	8	4	NULL	NULL	NULL	2436	1012	0.00020525451559934318
+ubiquitous quality	spatial dimension	2	1	8	4	NULL	NULL	NULL	8	4	0.0625
+ubiquitous quality	time	2	1	8	4	NULL	NULL	NULL	8851	2418	0.000056490792000903855
+ubiquitous quality	mass	2	1	8	4	NULL	NULL	NULL	1301	515	0.0003843197540353574
+ubiquitous raster scanning display	computer monitor	1	1	2	2	NULL	NULL	NULL	432	188	0.0011574074074074073
+ubiquitous raster scanning display	cathode ray tubes used in television	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ubiquitous reef fish	grouper	1	1	3	3	NULL	NULL	NULL	688	272	0.00048449612403100775
+ubiquitous reef fish	snapper	1	1	3	3	NULL	NULL	NULL	758	293	0.0004397537379067722
+ubiquitous reef fish	jack	1	1	3	3	NULL	NULL	NULL	588	321	0.0005668934240362812
+ubiquitous reference	spokesman	1	1	1	1	0.500000000000	NULL	NULL	11	11	0.09090909090909091
+ubiquitous regulatory cascade	phosphatidylinositol 3-OH kinase	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ubiquitous regulatory cascade	mitogen-activated protein kinases	1	1	2	2	1.000000000000	NULL	NULL	27	16	0.018518518518518517
+ubiquitous resource	processing power	1	1	1	1	NULL	NULL	NULL	88	53	0.011363636363636364
+ubiquitous respiratory virus	enteroviruses	1	1	2	2	0.500000000000	NULL	NULL	47	18	0.010638297872340425
+ubiquitous respiratory virus	influenza virus	1	1	2	2	0.500000000000	NULL	NULL	240	72	0.0020833333333333333
+ubiquitous saint	St. Margareta	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ubiquitous saint	St. George	1	1	2	2	NULL	NULL	NULL	51	22	0.00980392156862745
+ubiquitous seasoning	pepper	1	1	1	1	NULL	NULL	NULL	4612	1166	0.0002168256721595837
+ubiquitous security device	smart card	1	1	1	1	NULL	NULL	NULL	686	352	0.0014577259475218659
+Ubiquitous serotypes	Salmonella Typhimurium	1	1	1	1	0.500000000000	NULL	NULL	73	35	0.0136986301369863
+ubiquitous service	Jini service	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+ubiquitous service	MMS	1	1	6	6	NULL	NULL	NULL	631	219	0.0002641310089804543
+ubiquitous service	DPWS service	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+ubiquitous service	HAVi service	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+ubiquitous service	SMS	1	1	6	6	NULL	NULL	NULL	1371	536	0.00012156576707999027
+ubiquitous service	DIY smart object service	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+ubiquitous short-range mobile technology	Bluetooth	2	2	2	1	NULL	NULL	NULL	2836	910	0.0007052186177715092
+ubiquitous signal	WAAS	1	1	1	1	NULL	NULL	NULL	50	27	0.02
+ubiquitous single value -metric	average	1	1	1	1	NULL	NULL	NULL	766	322	0.0013054830287206266
+ubiquitous skewered appetizer nibble	Thai chicken stix	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous small removable storage device	USB drive	1	1	1	1	NULL	NULL	NULL	254	134	0.003937007874015748
+ubiquitous social network	Facebook	1	1	1	1	NULL	NULL	NULL	29637	3798	0.00003374160677531464
+ubiquitous software application program	spread sheet	3	3	9	3	0.333333333333	NULL	NULL	75	53	0.013333333333333334
+ubiquitous software application program	word processing	3	3	9	3	0.333333333333	NULL	NULL	1836	640	0.0005446623093681918
+ubiquitous software application program	electronic mail	3	3	9	3	0.333333333333	NULL	NULL	621	292	0.001610305958132045
+ubiquitous software program	Photoshop	1	1	1	1	NULL	NULL	NULL	3496	963	0.0002860411899313501
+ubiquitous source	motor vehicle	1	1	1	1	NULL	NULL	NULL	518	219	0.0019305019305019305
+ubiquitous souvenir	kangaroo doll	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous species	Orthotrichum diaphanum	2	2	15	14	0.500000000000	NULL	NULL	4	3	0.06666666666666667
+ubiquitous species	drab ubiquitous species	1	1	15	14	0.500000000000	NULL	NULL	2	2	0.03333333333333333
+ubiquitous species	black phoebe	1	1	15	14	0.500000000000	NULL	NULL	11	8	0.006060606060606061
+ubiquitous species	brown algal genera Hydroclathrus	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous species	Halimeda discoidea	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous species	ocean pout	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous species	goosefish	1	1	15	14	0.500000000000	NULL	NULL	4	2	0.016666666666666666
+ubiquitous species	Arcyria cinerea	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous species	long-tailed field mouse Apodemus sylvaticus	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous species	Atlantic cod	1	1	15	14	0.500000000000	NULL	NULL	105	43	0.0006349206349206349
+ubiquitous species	Physarum notabile	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous species	sea raven	1	1	15	14	0.500000000000	NULL	NULL	6	4	0.011111111111111112
+ubiquitous species	Rhodotorula rubra	1	1	15	14	0.500000000000	NULL	NULL	3	3	0.022222222222222223
+ubiquitous species	Veigaia nemorensis	1	1	15	14	0.500000000000	NULL	NULL	1	1	0.06666666666666667
+ubiquitous splicing factor	SR protein	2	2	2	1	1.000000000000	NULL	NULL	15	10	0.13333333333333333
+ubiquitous structural factor	language convention	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+ubiquitous structural factor	medium	1	1	6	6	NULL	NULL	NULL	3226	1070	0.0000516635668526555
+ubiquitous structural factor	marketing	1	1	6	6	NULL	NULL	NULL	6527	1892	0.000025534957356621214
+ubiquitous structural factor	sale	1	1	6	6	NULL	NULL	NULL	4152	1482	0.00004014129736673089
+ubiquitous structural factor	politics	1	1	6	6	NULL	NULL	NULL	3289	854	0.00005067396371744198
+ubiquitous structural factor	predominant forms of recreation	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+ubiquitous stuff	painting	1	1	1	1	NULL	NULL	NULL	8042	2413	0.00012434717731907486
+ubiquitous style	Brown Ale	1	1	2	2	1.000000000000	NULL	NULL	19	11	0.02631578947368421
+ubiquitous style	Pale Ale	1	1	2	2	1.000000000000	NULL	NULL	35	21	0.014285714285714285
+ubiquitous substance	carbon dioxide	1	1	4	4	NULL	NULL	NULL	5020	998	0.000049800796812749006
+ubiquitous substance	oxygen	1	1	4	4	NULL	NULL	NULL	4210	1106	0.000059382422802850356
+ubiquitous substance	hormone ethylene	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ubiquitous substance	water	1	1	4	4	NULL	NULL	NULL	25348	6311	0.000009862711062016726
+ubiquitous sushi offering	vinegary tako su octopus salad	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous system	handheld	1	1	8	8	1.000000000000	NULL	NULL	27	36	0.004629629629629629
+ubiquitous system	automatic, ubiquitous system	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+ubiquitous system	driven van der Pol os cillator	1	0	8	8	1.000000000000	NULL	NULL	1	1	0.125
+ubiquitous system	Duffing oscillator	1	0	8	8	1.000000000000	NULL	NULL	3	2	0.041666666666666664
+ubiquitous system	mobile information device	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+ubiquitous system	ontology-based ubiquitous system	1	1	8	8	1.000000000000	NULL	NULL	2	2	0.0625
+ubiquitous system	damped and driven pendulum	1	0	8	8	1.000000000000	NULL	NULL	1	1	0.125
+ubiquitous system	wearable	1	1	8	8	1.000000000000	NULL	NULL	10	8	0.0125
+ubiquitous taxa	Physidae snail	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous technique	mouse interaction on the desktop	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiquitous technological platform	mobile phone	1	1	3	3	NULL	NULL	NULL	6991	1839	0.00004768035092738282
+ubiquitous technological platform	social networking site	1	1	3	3	NULL	NULL	NULL	414	211	0.0008051529790660225
+ubiquitous technological platform	instant messenger	1	1	3	3	NULL	NULL	NULL	245	98	0.0013605442176870747
+ubiquitous technology	mobile phone	2	2	26	26	0.157894736842	NULL	NULL	6991	1839	0.00002200631581263823
+ubiquitous technology	GPS	1	1	26	26	0.157894736842	NULL	NULL	2674	1060	0.000014383522236925379
+ubiquitous technology	home computers with worldwide web access	1	1	26	26	0.157894736842	NULL	NULL	1	1	0.038461538461538464
+ubiquitous technology	DVDs	1	1	26	26	0.157894736842	NULL	NULL	1949	787	0.000019733985870466117
+ubiquitous technology	television	1	1	26	26	0.157894736842	NULL	NULL	8405	2451	0.000004576030750926646
+ubiquitous technology	telephone	1	1	26	26	0.157894736842	NULL	NULL	6660	1994	0.000005775005775005775
+ubiquitous technology	refrigerator	1	1	26	26	0.157894736842	NULL	NULL	5220	1209	0.000007368110816386679
+ubiquitous technology	XML	1	1	26	26	0.157894736842	NULL	NULL	1998	697	0.000019250019250019253
+ubiquitous technology	sensor cloud	1	1	26	26	0.157894736842	NULL	NULL	1	1	0.038461538461538464
+ubiquitous technology	Direct TV	1	1	26	26	0.157894736842	NULL	NULL	90	57	0.00042735042735042735
+ubiquitous technology	nano-to-macro transmitter	1	1	26	26	0.157894736842	NULL	NULL	1	1	0.038461538461538464
+ubiquitous technology	TiVo	1	1	26	26	0.157894736842	NULL	NULL	349	136	0.00011020498126515319
+ubiquitous technology	interactive web-based videoconferencing	1	1	26	26	0.157894736842	NULL	NULL	1	1	0.038461538461538464
+ubiquitous technology	pager	1	1	26	26	0.157894736842	NULL	NULL	1516	404	0.000025370407956159935
+ubiquitous technology	sensation converter	1	1	26	26	0.157894736842	NULL	NULL	1	1	0.038461538461538464
+ubiquitous technology	video conferencing	1	1	26	26	0.157894736842	NULL	NULL	1334	493	0.000028831737977165267
+ubiquitous technology	text messaging	1	1	26	26	0.157894736842	NULL	NULL	709	286	0.00005424758598242378
+ubiquitous technology	emerging ubiquitous technology	1	1	26	26	0.157894736842	NULL	NULL	2	2	0.019230769230769232
+ubiquitous technology	decade once ubiquitous technology	1	1	26	26	0.157894736842	NULL	NULL	2	2	0.019230769230769232
+ubiquitous technology	Internet	1	1	26	26	0.157894736842	NULL	NULL	10699	2978	0.000003594872274188098
+ubiquitous technology	Macromedia Flash	1	1	26	26	0.157894736842	NULL	NULL	158	91	0.00024342745861733204
+ubiquitous technology	cell phone	1	1	26	26	0.157894736842	NULL	NULL	8165	2060	0.000004710537472325592
+ubiquitous technology	broadband	1	1	26	26	0.157894736842	NULL	NULL	496	230	0.00007754342431761787
+ubiquitous technology	BlueRay	1	1	26	26	0.157894736842	NULL	NULL	3	3	0.012820512820512822
+ubiquitous technology	mobile internet	1	1	26	26	0.157894736842	NULL	NULL	85	49	0.00045248868778280545
+ubiquitous third-generation cephalosporins	ceftriaxone	1	1	1	1	NULL	NULL	NULL	209	54	0.004784688995215311
+ubiquitous tool	simple, ubiquitous tool	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ubiquitous topic	web hosting	1	1	3	3	NULL	NULL	NULL	620	233	0.0005376344086021505
+ubiquitous topic	weight loss	1	1	3	3	NULL	NULL	NULL	3020	798	0.00011037527593818985
+ubiquitous topic	Internet marketing	1	1	3	3	NULL	NULL	NULL	269	125	0.0012391573729863693
+ubiquitous transcription factor	AP-1	3	3	7	3	1.000000000000	NULL	NULL	86	37	0.01495016611295681
+ubiquitous transcription factor	Oct1	2	2	7	3	1.000000000000	NULL	NULL	3	2	0.19047619047619047
+ubiquitous transcription factor	NF1	2	2	7	3	1.000000000000	NULL	NULL	18	10	0.031746031746031744
+ubiquitous transport protocol	HTTP	1	1	2	2	NULL	NULL	NULL	1172	410	0.0004266211604095563
+ubiquitous transport protocol	SOAP	1	1	2	2	NULL	NULL	NULL	2849	1032	0.0001755001755001755
+ubiquitous type	list	2	2	4	3	NULL	NULL	NULL	1193	582	0.0008382229673093043
+ubiquitous type	character	1	1	4	3	NULL	NULL	NULL	1526	541	0.000163826998689384
+ubiquitous type	integer	1	1	4	3	NULL	NULL	NULL	876	363	0.00028538812785388126
+ubiquitous typeface	Georgia	1	1	1	1	NULL	NULL	NULL	3170	454	0.0003154574132492114
+ubiquitous urban pest	cockroach	1	1	2	2	NULL	NULL	NULL	1013	229	0.0004935834155972359
+ubiquitous urban pest	flea	1	1	2	2	NULL	NULL	NULL	1334	282	0.0003748125937031484
+ubiquitous van design	ferocious tiger	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubiquitous van design	mighty Thor	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+ubiquitous van design	semi-clothed cave woman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubiquitous viral agent	Epstein-Barr virus	2	2	4	2	0.500000000000	NULL	NULL	286	79	0.0034965034965034965
+ubiquitous viral agent	rhinovirus	2	2	4	2	0.500000000000	NULL	NULL	115	36	0.008695652173913044
+ubiquitous viral promoter	CMV	1	1	1	1	NULL	NULL	NULL	218	86	0.0045871559633027525
+ubiquitous virus	retrovirus	2	2	5	4	0.333333333333	NULL	NULL	202	51	0.0039603960396039604
+ubiquitous virus	influenza	1	1	5	4	0.333333333333	NULL	NULL	1839	402	0.0001087547580206634
+ubiquitous virus	adeno	1	1	5	4	0.333333333333	NULL	NULL	7	5	0.028571428571428574
+ubiquitous virus	herpesviruses	1	1	5	4	0.333333333333	NULL	NULL	104	32	0.0019230769230769232
+ubiquitous weapon	M4A1	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+ubiquitous web browser	Microsoft Internet Explorer	1	1	2	2	NULL	NULL	NULL	674	141	0.000741839762611276
+ubiquitous web browser	Netscape Navigator	1	1	2	2	NULL	NULL	NULL	664	160	0.0007530120481927711
+ubiquitous web technology	HTML	1	1	2	2	NULL	NULL	NULL	1717	611	0.00029120559114735004
+ubiquitous web technology	JavaScript	1	1	2	2	NULL	NULL	NULL	1101	328	0.00045413260672116256
+ubiquitous wine	Barolo	1	1	4	4	0.250000000000	NULL	NULL	88	53	0.002840909090909091
+ubiquitous wine	Dolcetto	1	1	4	4	0.250000000000	NULL	NULL	48	30	0.005208333333333333
+ubiquitous wine	Soave	1	1	4	4	0.250000000000	NULL	NULL	35	26	0.007142857142857143
+ubiquitous wine	Chianti	1	1	4	4	0.250000000000	NULL	NULL	136	67	0.001838235294117647
+ubiquitous, GMOs	Roundup Ready soy	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ubiquitous, GMOs	wheat	1	1	2	2	NULL	NULL	NULL	8874	1887	0.00005634437683119225
+ubiquitous, invasive coastal weed	boxthorn	1	1	1	1	1.000000000000	NULL	NULL	18	11	0.05555555555555555
+ubiquitous, mobile device	wearable device	1	1	3	3	0.666666666666	NULL	NULL	12	9	0.027777777777777776
+ubiquitous, mobile device	wrist band	1	1	3	3	0.666666666666	NULL	NULL	67	43	0.004975124378109453
+ubiquitous, mobile device	phone	1	1	3	3	0.666666666666	NULL	NULL	3710	1244	0.00008984725965858041
+ubiquitous, programmable, handheld terminal	cell phone	1	1	1	1	NULL	NULL	NULL	8165	2060	0.0001224739742804654
+ubiquitous, resource	word processing	1	1	1	1	NULL	NULL	NULL	1836	640	0.0005446623093681918
+ubiquitous, small, home-care technology	asthma peak-meters	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ubiquitous, small, home-care technology	insulin pen	1	1	2	2	1.000000000000	NULL	NULL	34	23	0.014705882352941176
+ubiquitous, yet prevalent medical device	implanted heart valve	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ubiquitous, yet prevalent medical device	shoulder	1	1	4	4	NULL	NULL	NULL	1076	399	0.00023234200743494423
+ubiquitous, yet prevalent medical device	knee	1	1	4	4	NULL	NULL	NULL	1787	461	0.0001398992725237829
+ubiquitous, yet prevalent medical device	hip	1	1	4	4	NULL	NULL	NULL	1346	408	0.00018573551263001485
+ubiquitous-computing service	friend finder	1	1	1	1	1.000000000000	NULL	NULL	21	13	0.047619047619047616
+ubiquity method	2G	1	1	1	1	NULL	NULL	NULL	143	39	0.006993006993006993
+ubiquitylated cargo protein	transmembrane receptor	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ubiquitylated membrane protein	activated growth-factor receptor	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubiqutous species	Asterias rubens	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+ubisoft game	Assassin's Creed	4	4	8	4	0.750000000000	NULL	NULL	159	62	0.012578616352201259
+ubisoft game	Prince of Persia	2	2	8	4	0.750000000000	NULL	NULL	86	52	0.005813953488372093
+ubisoft game	Far Cry 2	1	1	8	4	0.750000000000	NULL	NULL	61	27	0.0020491803278688526
+ubisoft game	Splinter Cell	1	1	8	4	0.750000000000	NULL	NULL	95	43	0.0013157894736842105
+ubisoft montreal game	Assassin's Creed	1	1	1	1	NULL	NULL	NULL	159	62	0.006289308176100629
+ubisoft recent game	Assassin's Creed II	1	1	1	1	1.000000000000	NULL	NULL	21	10	0.047619047619047616
+ubisoft UK MD game	Gaiares	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+ubitermconsiders different aspect	performance	1	1	1	1	NULL	NULL	NULL	2689	957	0.0003718854592785422
+ubject area	Science	1	1	3	5	NULL	NULL	NULL	4682	1221	0.00007119464616260856
+ubject area	Music	1	1	3	5	NULL	NULL	NULL	14153	3857	0.00002355213264561106
+ubject area	Mathematics	1	1	3	5	NULL	NULL	NULL	3159	796	0.00010551862403714255
+ubject interaction	treatment by time	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubjective examination	code review	1	1	1	1	NULL	NULL	NULL	79	50	0.012658227848101266
+ubjective issue	color grain character	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ubjects	general history of religion	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+ubjects	grammar	1	1	7	7	NULL	NULL	NULL	929	388	0.0001537751806858373
+ubjects	foreign language	1	1	7	7	NULL	NULL	NULL	609	204	0.0002345765892563922
+ubjects	social study	1	1	7	7	NULL	NULL	NULL	632	117	0.0002260397830018083
+ubjects	Natural Science	1	1	7	7	NULL	NULL	NULL	173	76	0.0008257638315441783
+ubjects	Geography	1	1	7	7	NULL	NULL	NULL	2600	616	0.000054945054945054945
+ubjects	horse	1	1	7	7	NULL	NULL	NULL	3872	895	0.00003689492325855962
+ubjects variable	group size	1	1	1	1	NULL	NULL	NULL	180	73	0.005555555555555556
+UBL	ubiquitin	2	2	2	1	1.000000000000	NULL	NULL	39	25	0.05128205128205128
+ublearns collaboration tool	virtual classroom	1	1	1	1	NULL	NULL	NULL	53	39	0.018867924528301886
+ublic building	library	2	1	7	4	0.333333333333	NULL	NULL	6833	2108	0.00008362777278334134
+ublic building	fire department	2	1	7	4	0.333333333333	NULL	NULL	679	298	0.0008415737428992215
+ublic building	schoolhouse	2	1	7	4	0.333333333333	NULL	NULL	30	17	0.019047619047619046
+ublic building	Saitama Super Arena	1	1	7	4	0.333333333333	NULL	NULL	3	3	0.047619047619047616
+ublic document	ordinance	1	1	3	3	0.333333333333	NULL	NULL	97	68	0.003436426116838488
+ublic document	Board minute	1	1	3	3	0.333333333333	NULL	NULL	40	20	0.008333333333333333
+ublic document	resolution	1	1	3	3	0.333333333333	NULL	NULL	1240	468	0.00026881720430107527
+ublic figure	Ms. Burnett	1	1	1	1	NULL	NULL	NULL	6	2	0.16666666666666666
+ublic institution	detention center	1	1	2	2	0.500000000000	NULL	NULL	24	18	0.020833333333333332
+ublic institution	prison	1	1	2	2	0.500000000000	NULL	NULL	1172	484	0.0004266211604095563
+ublic policy concern	communication efficiency	1	1	1	1	NULL	NULL	NULL	1	1	1
+ublic protector	police	1	1	1	1	NULL	NULL	NULL	6527	1820	0.00015320974413972729
+ublic representative	members of parliament	1	1	1	1	0.500000000000	NULL	NULL	59	51	0.01694915254237288
+UBLIC sector utility	Department of Telecommunications	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+UBLIC sector utility	Postal Department	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ublic service worker	firefighter	1	1	2	2	NULL	NULL	NULL	1003	365	0.0004985044865403788
+ublic service worker	nurse	1	1	2	2	NULL	NULL	NULL	4227	1158	0.00011828720132481665
+ublic transportation system s	airline	1	1	2	2	NULL	NULL	NULL	1753	569	0.0002852253280091272
+ublic transportation system s	railroad	1	1	2	2	NULL	NULL	NULL	829	400	0.0006031363088057901
+ublic-key cryptosystems	RSA	2	2	3	2	0.500000000000	NULL	NULL	501	257	0.0026613439787092482
+ublic-key cryptosystems	Diffie-Hellman	1	1	3	2	0.500000000000	NULL	NULL	45	33	0.007407407407407407
+ublicans	James G. Blaine	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+ublicans	Benjamin Butterworth	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ublicized drug	gammahydroxybuty rate	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ublicized drug	ketamine	1	1	2	2	NULL	NULL	NULL	677	178	0.0007385524372230429
+ublics	Venice	1	1	1	1	NULL	NULL	NULL	758	303	0.0013192612137203166
+ublingual lutein formula	New Focus	1	1	1	1	NULL	NULL	NULL	4	5	0.25
+ublishers	Heinemann	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+UBLps	ATG8 involved in autophagy	1	1	1	1	NULL	NULL	NULL	1	1	1
+UBLs	ubiquitin	2	2	5	3	1.000000000000	NULL	NULL	39	25	0.020512820512820513
+UBLs	NEDD8	2	2	5	3	1.000000000000	NULL	NULL	5	4	0.16
+UBLs	Ub	1	1	5	3	1.000000000000	NULL	NULL	4	4	0.05
+UBM structure	conductive pillar	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubm-guided injection	targeted injections of retrovirus	2	2	2	1	NULL	NULL	NULL	2	1	1
+ubmit relevant document	copies of memo	2	1	2	1	1.000000000000	NULL	NULL	2	1	1
+ubnique feature	transparent data encryption	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+UBP protein	yeast Ubp8	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubps	Drosophila ubp-64e	1	1	1	1	NULL	NULL	NULL	1	1	1
+UBS algorithm	UBS Tap	1	1	1	1	NULL	NULL	NULL	1	1	1
+UBS compliant device	external video adapter	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+UBS compliant device	external hard drive	1	1	3	3	NULL	NULL	NULL	436	165	0.0007645259938837921
+UBS compliant device	Blu-ray burner	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+UBS rival	Credit Suisse Group	1	1	2	2	0.500000000000	NULL	NULL	23	16	0.021739130434782608
+UBS rival	JPMorgan Chase	1	1	2	2	0.500000000000	NULL	NULL	441	144	0.0011337868480725624
+ubs's transaction	Travelport listing	2	2	2	1	NULL	NULL	NULL	2	1	1
+ubsequent course	Inquiry	1	1	2	2	NULL	NULL	NULL	182	123	0.0027472527472527475
+ubsequent course	TE807 Professional Development	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ubstances	iron	1	1	5	5	NULL	NULL	NULL	11941	2300	0.000016749015995310276
+ubstances	salt	1	1	5	5	NULL	NULL	NULL	6145	1390	0.00003254678600488202
+ubstances	antibiotic	1	1	5	5	NULL	NULL	NULL	3419	824	0.000058496636443404506
+ubstances	DDT	1	1	5	5	NULL	NULL	NULL	1836	404	0.00010893246187363835
+ubstances	oil	1	1	5	5	NULL	NULL	NULL	15331	4205	0.00001304546344008871
+ubstantial plant	shrub	1	1	3	3	NULL	NULL	NULL	993	403	0.0003356831151393085
+ubstantial plant	tree	1	1	3	3	NULL	NULL	NULL	6423	2236	0.000051896829103741756
+ubstantial plant	hedge	1	1	3	3	NULL	NULL	NULL	437	223	0.0007627765064836002
+ubsurface feature	wall	1	1	1	1	NULL	NULL	NULL	4117	1506	0.00024289531212047608
+ubtle change	decrease in functional status	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubud attraction	Puputan Badung Square	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ubud hotel	Puri Wulandari	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ubud hotel	Four Seasons Ubud	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ubud hotel	Pita Maha	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ubud hotel	Kupu Kupu Barong	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ubunit plant virus	tomato bushy stunt virus	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ubuntu alternative	Mandriva	1	1	1	1	0.666666666666	NULL	NULL	79	33	0.012658227848101266
+ubuntu application	Terminal	1	1	1	2	NULL	NULL	NULL	590	257	0.001694915254237288
+ubuntu derivative	Edubuntu	2	1	8	5	1.000000000000	NULL	NULL	6	4	0.08333333333333333
+ubuntu derivative	Xubuntu	2	2	8	5	1.000000000000	NULL	NULL	16	12	0.03125
+ubuntu derivative	Kubuntu	2	2	8	5	1.000000000000	NULL	NULL	21	14	0.023809523809523808
+ubuntu derivative	Super OS	1	1	8	5	1.000000000000	NULL	NULL	4	3	0.03125
+ubuntu derivative	official ubuntu derivative	1	1	8	5	1.000000000000	NULL	NULL	2	2	0.0625
+Ubuntu design work	Application Indicators	2	1	2	1	NULL	NULL	NULL	2	1	1
+ubuntu event	Ubuntu Hour	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubuntu fork	Kubuntu	1	1	1	1	1.000000000000	NULL	NULL	21	14	0.047619047619047616
+Ubuntu image	ones found at Alestic.com	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubuntu link	Ubuntu new network	1	1	1	1	NULL	NULL	NULL	1	1	1
+ubuntu specific supplier	System 76	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Ubuntu system	security update	1	1	1	1	1.000000000000	NULL	NULL	35	26	0.02857142857142857
+ubuntu tool	ubuntu tweak	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ubuntu training partner	Fast Lane	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+ubuntu user	business	1	1	2	2	NULL	NULL	NULL	5070	1629	0.00009861932938856015
+ubuntu user	school	1	1	2	2	NULL	NULL	NULL	16053	4303	0.000031146826138416496
+ubuntu variant	non ubuntu variant	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ubuntu vulnerability	avahi	1	1	14	14	0.350000000000	NULL	NULL	1	1	0.07142857142857142
+ubuntu vulnerability	libpng	1	1	14	14	0.350000000000	NULL	NULL	13	8	0.005494505494505494
+ubuntu vulnerability	ktorrent	1	1	14	14	0.350000000000	NULL	NULL	5	5	0.014285714285714285
+ubuntu vulnerability	ruby	1	1	14	14	0.350000000000	NULL	NULL	1844	539	0.00003873566780291292
+ubuntu vulnerability	python	1	1	14	14	0.350000000000	NULL	NULL	1393	349	0.00005127679212388473
+ubuntu vulnerability	gnupgp	1	1	14	14	0.350000000000	NULL	NULL	1	1	0.07142857142857142
+ubuntu vulnerability	mysql	1	1	14	14	0.350000000000	NULL	NULL	1303	473	0.0000548185505975222
+ubuntu vulnerability	xorg	1	1	14	14	0.350000000000	NULL	NULL	1	1	0.07142857142857142
+ubuntu vulnerability	libwpd	1	1	14	14	0.350000000000	NULL	NULL	1	1	0.07142857142857142
+ubuntu vulnerability	exploits for Inkscape	1	1	14	14	0.350000000000	NULL	NULL	1	1	0.07142857142857142
+ubuntu vulnerability	xserver	1	1	14	14	0.350000000000	NULL	NULL	2	2	0.03571428571428571
+ubuntu vulnerability	fetchmail	1	1	14	14	0.350000000000	NULL	NULL	9	7	0.007936507936507936
+ubuntu vulnerability	Firefox	1	1	14	14	0.350000000000	NULL	NULL	4528	599	0.000015774861181221605
+ubuntu vulnerability	postgresql	1	1	14	14	0.350000000000	NULL	NULL	254	116	0.000281214848143982
+ubuntu's common messaging application	pidgin	1	1	2	2	NULL	NULL	NULL	126	64	0.003968253968253968
+ubuntu's common messaging application	evolution	1	1	2	2	NULL	NULL	NULL	870	332	0.0005747126436781609
+ubuntu's feature	wallpaper	1	1	1	1	NULL	NULL	NULL	894	399	0.0011185682326621924
+Ubuntu-based distro	Bodhi Linux	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ubuntu-centric PC maker	System76	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+ubuntu-related event	Ubuntu Open Week	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubuntu-related event	LoCo Documentation Days	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubuntu-related event	Ubuntu Developer Week	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ubuntu-specific interface improvement	notification system	1	1	1	1	0.500000000000	NULL	NULL	11	8	0.09090909090909091
+UBX domain-containing protein	FAF1	1	1	1	1	NULL	NULL	NULL	1	1	1

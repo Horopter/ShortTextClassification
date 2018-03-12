@@ -1,0 +1,10 @@
+JK lighting product	IR heat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JK lighting product	reflector incandescent	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JK's organise equipment	overhead projector	1	1	1	1	NULL	NULL	NULL	373	170	0.002680965147453083
+JK-FF	FF 295	1	1	1	1	NULL	NULL	NULL	1	1	1
+JKA event	tournament	1	1	2	2	NULL	NULL	NULL	378	160	0.0013227513227513227
+JKA event	clinic	1	1	2	2	NULL	NULL	NULL	1405	563	0.00035587188612099647
+JKA instructor	Oscar Obsioma	1	1	1	1	NULL	NULL	NULL	1	1	1
+JKA-masters	Nakayama	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+jkdconcepts school	Rick Faye's Minnesota Kali Group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jkdconcepts school	Paul Vunak's Progressive Fighting Systems	1	1	2	2	NULL	NULL	NULL	1	1	0.5

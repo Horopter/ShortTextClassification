@@ -1,0 +1,164 @@
+VL T support service	accounting	1	1	2	2	NULL	NULL	NULL	5188	1624	0.00009637625289128758
+VL T support service	administration	1	1	2	2	NULL	NULL	NULL	1728	671	0.00028935185185185184
+VLA protein	VLA-4	2	2	2	1	1.000000000000	NULL	NULL	19	12	0.10526315789473684
+VLA-4 binding agent	VLA-4 binding antibody	3	2	3	1	NULL	NULL	NULL	3	1	1
+vlaams belang supporter	law professor Matthias Storme	1	1	1	1	NULL	NULL	NULL	1	1	1
+vlach centre	Krusevo in Fyrom	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vlach centre	Serres in Eastern Macedonia	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vlach population	Aromanians	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vladimir nabokov novel	Pale Fire	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+vladimir nabokov novel	Gift in school	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vladimir player	Salce	1	1	1	1	NULL	NULL	NULL	1	1	1
+vlan configuration	advanced vlan configuration	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLAN configuration	passing the VLAN tag	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+VLAN dependent BPDU frame	GMRP	2	2	2	1	NULL	NULL	NULL	6	3	0.3333333333333333
+VLAN environment	Cisco ISL	1	1	1	1	NULL	NULL	NULL	1	1	1
+vlan group	Company LAN	1	1	1	2	NULL	NULL	NULL	3	3	0.3333333333333333
+VLAN information	default VLAN	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+VLAN information	active VLANs on the link	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+VLAN information	default the active VLANs on the link	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+VLAN management protocol	VTP	2	1	3	2	1.000000000000	NULL	NULL	10	6	0.13333333333333333
+VLAN management protocol	GVRP	1	1	3	2	1.000000000000	NULL	NULL	5	4	0.06666666666666667
+VLAN property	IP address	2	2	4	2	NULL	NULL	NULL	1561	490	0.0006406149903907751
+VLAN property	DHCP behavior	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+vlan-aware device	IDP	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+vlan-aware device	VLAN-enabled switch	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+vlan-based ACL feature	static ARP inspection	2	2	2	1	NULL	NULL	NULL	2	1	1
+vlan-based service	customer VLANs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vlan-based service	Residence Halls Packeteer PacketShaper	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vlan-based service	Wireless WiscWorld	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vlanguage fundamental	character set	1	1	1	1	1.000000000000	NULL	NULL	52	37	0.019230769230769232
+vlans	billing	2	0	8	5	0.250000000000	NULL	NULL	1390	648	0.00035971223021582735
+vlans	voice	2	0	8	5	0.250000000000	NULL	NULL	2237	987	0.00022351363433169424
+vlans	security	2	0	8	5	0.250000000000	NULL	NULL	8153	2525	0.00006132711885195633
+vlans	VLAN 115	1	1	8	5	0.250000000000	NULL	NULL	1	1	0.125
+vlans	Cronus	1	1	8	5	0.250000000000	NULL	NULL	8	6	0.015625
+vlax dialect	Lovari Romani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vlax dialect	Kalderash	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VLBI array	VLB Array	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VLBI array	European VLBI Network the VLB Array	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VLBI array	European VLBI Network	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VLBI technique	DBBC	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLC based entropy coding	CAVLC	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+VLC topologies	vehicular topologies	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLCC oil tanker	New Success in the world	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLCDs	LighterLife	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+vlctorian feature	broad veranda	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+VLD parameter	coded block pattern for luminance	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VLD parameter	de-quantization parameter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VLD parameter	coded block pattern for chrominance	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VlD3 Compatible component video source	DVD player	1	1	1	1	NULL	NULL	NULL	2332	772	0.0004288164665523156
+VLDB environment	data warehouse	1	1	1	1	NULL	NULL	NULL	192	116	0.005208333333333333
+VLE device	Reliance Classic series	1	1	1	1	NULL	NULL	NULL	1	1	1
+vle feature	uploading of work	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+vle feature	helpdesk	1	1	6	6	0.750000000000	NULL	NULL	55	37	0.0030303030303030303
+vle feature	library system	1	1	6	6	0.750000000000	NULL	NULL	27	23	0.006172839506172839
+vle feature	canteen system	1	1	6	6	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+vle feature	online assessment	1	1	6	6	0.750000000000	NULL	NULL	22	12	0.007575757575757575
+vle feature	room booking	1	1	6	6	0.750000000000	NULL	NULL	20	15	0.008333333333333333
+VLE product	Blackboard	1	1	1	1	NULL	NULL	NULL	914	432	0.0010940919037199124
+VLE s	Blackboard	1	1	1	1	NULL	NULL	NULL	914	432	0.0010940919037199124
+VLE software company	Blackboard	2	1	4	2	NULL	NULL	NULL	914	432	0.0010940919037199124
+VLE software company	WebCT	2	1	4	2	NULL	NULL	NULL	404	205	0.0024752475247524753
+VLE solution	Blackboard	1	1	2	2	NULL	NULL	NULL	914	432	0.0005470459518599562
+VLE solution	WebCT	1	1	2	2	NULL	NULL	NULL	404	205	0.0012376237623762376
+VLE system	Blackboard	2	2	5	3	NULL	NULL	NULL	914	432	0.00087527352297593
+VLE system	Moodle	2	2	5	3	NULL	NULL	NULL	424	209	0.0018867924528301887
+VLE system	WebCT	1	1	5	3	NULL	NULL	NULL	404	205	0.0004950495049504951
+VLE tool	discussion forum	1	1	1	1	NULL	NULL	NULL	508	257	0.001968503937007874
+vleis	Zeekoevlei in the Cape Peninsula	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vleis	Rondevlei	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+VLEs	open source Moodle	2	2	4	3	0.500000000000	NULL	NULL	4	3	0.25
+VLEs	FirstClass	1	1	4	3	0.500000000000	NULL	NULL	12	12	0.020833333333333332
+VLEs	come with a wide range of tools for learning	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+VLF	Whites Spectrum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLF	Fisher CZ6	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLF communication	comms for a submarine	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLF parameter	phase real	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+VLF parameter	apparent resistivity	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+VLF signal	click	1	1	1	1	NULL	NULL	NULL	324	180	0.0030864197530864196
+VLF time signal	Loran-C	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+VLF transmitter	DHO38 in Rhauderfehn	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLF-EM parameter	real	1	1	3	3	0.333333333333	NULL	NULL	206	133	0.0016181229773462782
+VLF-EM parameter	apparent resistivity	1	1	3	3	0.333333333333	NULL	NULL	4	4	0.08333333333333333
+VLF-EM parameter	phase	1	1	3	3	0.333333333333	NULL	NULL	318	157	0.0010482180293501047
+VLIW design	Crusoe	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+VLIW DSPs	Texas Instruments C6x	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+VLIW processor	TEXAS INSTRUMENTS C6XXX processor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLIW processor	IA-64 processor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VLJ training issue	cognitive load	1	1	5	5	0.333333333333	NULL	NULL	14	12	0.014285714285714287
+VLJ training issue	mentoring program	1	1	5	5	0.333333333333	NULL	NULL	141	83	0.0014184397163120568
+VLJ training issue	currency	1	1	5	5	0.333333333333	NULL	NULL	807	355	0.00024783147459727387
+VLJ training issue	single pilot resource management	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+VLJ training issue	training footprint	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+vlliage industry	hand-yrlndlng	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLM formula	MLand ILM formula	1	1	1	1	NULL	NULL	NULL	1	1	1
+vlocity part	motor	1	1	1	1	NULL	NULL	NULL	2780	997	0.00035971223021582735
+vlog site	YouTube	1	1	1	1	NULL	NULL	NULL	6287	1492	0.0001590583744234134
+Vlog webpages	Rocketboom	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+vloggers	Justine Ezarik	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vlogs	Rocketboom	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+vlotage source	battery	1	1	1	1	NULL	NULL	NULL	5492	1552	0.0001820830298616169
+vlp-based vaccine	human papillomavirus vaccine	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+VLS catalyst	Ti	1	1	1	1	NULL	NULL	NULL	584	229	0.0017123287671232876
+VLS suppllies material	rubble	1	1	1	1	NULL	NULL	NULL	123	59	0.008130081300813009
+VLS system	South African Umkhonto VLS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLS system	Israeli Barak	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VLSI application	digital signal processing	3	3	7	5	0.500000000000	NULL	NULL	104	50	0.012362637362637362
+VLSI application	proximity gettering of impurity	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+VLSI application	microprocessor	1	1	7	5	0.500000000000	NULL	NULL	1148	446	0.00012444001991040318
+vlsi application	low-power vlsi application	1	1	7	5	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+VLSI application	localized minotiry-carrier lifetime control	1	1	7	5	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+VLSI architecture	systolic array	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+VLSI ASIC application	Digital Communication Systems	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLSI chip	microprocessor	2	2	5	4	0.500000000000	NULL	NULL	1148	446	0.0006968641114982578
+vlsi chip	commercial vlsi chip	1	1	5	4	0.500000000000	NULL	NULL	2	2	0.1
+VLSI chip	digital signal processing chip	1	1	5	4	0.500000000000	NULL	NULL	2	2	0.1
+VLSI chip	DSP chip	1	1	5	4	0.500000000000	NULL	NULL	4	4	0.05
+vlsi circuit	complex vlsi circuit	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VLSI component	memory chip	1	1	4	5	NULL	NULL	NULL	143	73	0.0017482517482517483
+VLSI component	bq 2040	1	1	4	5	NULL	NULL	NULL	1	1	0.25
+VLSI component	microprocessor	1	1	4	5	NULL	NULL	NULL	1148	446	0.00021777003484320557
+VLSI component	Memory	1	1	4	5	NULL	NULL	NULL	3739	1244	0.00006686279753944904
+VLSI defect	open	1	1	2	2	NULL	NULL	NULL	544	300	0.0009191176470588235
+VLSI defect	global short	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLSI design aspect	modularity	1	1	3	3	NULL	NULL	NULL	206	118	0.0016181229773462782
+VLSI design aspect	regularity	1	1	3	3	NULL	NULL	NULL	69	40	0.004830917874396135
+VLSI design aspect	scalability	1	1	3	3	NULL	NULL	NULL	778	271	0.00042844901456726646
+VLSI device	microprocessor	2	2	3	2	NULL	NULL	NULL	1148	446	0.0011614401858304297
+VLSI device	router	1	1	3	2	NULL	NULL	NULL	2575	830	0.00012944983818770226
+VLSI fabrication process	film deposition	1	1	3	3	0.333333333333	NULL	NULL	11	11	0.0303030303030303
+VLSI fabrication process	photolithography	1	1	3	3	0.333333333333	NULL	NULL	299	144	0.0011148272017837235
+VLSI fabrication process	etching	1	1	3	3	0.333333333333	NULL	NULL	802	301	0.0004156275976724854
+VLSI fabrication step	chemical vapor deposition of titanium	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VLSI fabrication step	silicon nitride	1	1	2	2	NULL	NULL	NULL	973	304	0.0005138746145940391
+VLSI hardware technique	true random number generation using noise	1	1	1	1	NULL	NULL	NULL	1	1	1
+VLSI integrated circuit	microprocessor	2	1	2	1	NULL	NULL	NULL	1148	446	0.0017421602787456446
+VLSI interface circuit	amplifier	1	1	1	1	0.500000000000	NULL	NULL	784	368	0.0012755102040816326
+VLSI option	Gate Array	1	1	3	3	1.000000000000	NULL	NULL	51	37	0.0065359477124183
+VLSI option	Fully Custom	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+VLSI option	Standard Cell	1	1	3	3	1.000000000000	NULL	NULL	17	17	0.0196078431372549
+VLSI phenomenon	negative bias temperature instability	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+VLSI physical design construct	vias between power grids on adjacent metal layer	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+VLSI physical design construct	power grid element	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+VLSI processor design issue	speed	1	1	3	3	NULL	NULL	NULL	4847	1571	0.00006877106113747335
+VLSI processor design issue	link between fast digital circuit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VLSI processor design issue	power	1	1	3	3	NULL	NULL	NULL	4617	1701	0.00007219695328857122
+VLSI related issue	leakage current	1	1	2	2	NULL	NULL	NULL	97	53	0.005154639175257732
+VLSI related issue	wire delay	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+VLSI reliability issue	hot-carrier effect	1	1	1	1	0.500000000000	NULL	NULL	3	2	0.3333333333333333
+VLSI semiconductor device	memory device	1	1	1	1	NULL	NULL	NULL	186	56	0.005376344086021506
+VLSI semiconductor product	controller	1	1	2	2	NULL	NULL	NULL	877	311	0.0005701254275940707
+VLSI semiconductor product	microprocessor	1	1	2	2	NULL	NULL	NULL	1148	446	0.00043554006968641115
+VLSI sequential system component	Flip Flops	1	1	1	1	1.000000000000	NULL	NULL	7	9	0.14285714285714285
+VLSI system	application specific DSP architecture	3	2	7	3	NULL	NULL	NULL	3	1	0.42857142857142855
+VLSI system	microprocessor	3	2	7	3	NULL	NULL	NULL	1148	446	0.0011199601791936286
+VLSI system	application-specific DSP architecture	1	1	7	3	NULL	NULL	NULL	1	1	0.14285714285714285
+VLSI technology	BiCMOS	1	1	3	3	0.333333333333	NULL	NULL	28	13	0.011904761904761904
+VLSI technology	CCD	1	1	3	3	0.333333333333	NULL	NULL	389	163	0.0008568980291345329
+VLSI technology	CMOS	1	1	3	3	0.333333333333	NULL	NULL	162	82	0.0020576131687242796
+VLSI testing technique	VLSI fault modeling	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VLSI testing technique	automatic test generation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VLSI testing technique	memory testing	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+VLSI testing technique	design for testability	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+vlsiimplementation technique	pipelining	1	0	1	1	NULL	NULL	NULL	126	70	0.007936507936507936

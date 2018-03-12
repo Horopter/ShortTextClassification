@@ -1,0 +1,13 @@
+PZ plane	P-51	1	1	2	2	0.666666666666	NULL	NULL	32	25	0.015625
+PZ plane	Champ	1	1	2	2	0.666666666666	NULL	NULL	24	23	0.020833333333333332
+PZ specification	wind speed	1	1	2	2	0.500000000000	NULL	NULL	1383	363	0.00036153289949385393
+PZ specification	degree of slope	1	1	2	2	0.500000000000	NULL	NULL	11	7	0.045454545454545456
+PZA analog	pyrazinoic acid ester	2	1	2	1	NULL	NULL	NULL	2	1	1
+PZP service	Gnutella	1	1	1	1	NULL	NULL	NULL	479	200	0.0020876826722338203
+PZR material	doped semiconductor	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+PZT coefficient	relative dielectric constant	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+PZT device	PZT switch	1	1	1	1	NULL	NULL	NULL	1	1	1
+PZT material parameter	dielectric	2	2	5	3	0.500000000000	NULL	NULL	82	44	0.00975609756097561
+PZT material parameter	strain constant	2	2	5	3	0.500000000000	NULL	NULL	2	1	0.4
+PZT material parameter	dielectric constant	1	1	5	3	0.500000000000	NULL	NULL	255	96	0.0007843137254901962
+PZT surface treatment	physical surface roughening	2	1	2	1	NULL	NULL	NULL	2	1	1

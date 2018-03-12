@@ -1,0 +1,8 @@
+yzediverse reaction	methylation	1	1	1	1	NULL	NULL	NULL	264	87	0.003787878787878788
+yzeextended-spectrum cephalosporins	ceftazidime andcefotaxime	1	1	1	1	NULL	NULL	NULL	1	1	1
+yzestheinformal characteristic	Bank's 115 Personal communication with Bank official	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yzestheinformal characteristic	power dynamics among the staff	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+yzetheeffectsof various 3dgraphics factor	resolution	1	1	4	4	0.250000000000	NULL	NULL	1240	468	0.00020161290322580645
+yzetheeffectsof various 3dgraphics factor	frame rate	1	1	4	4	0.250000000000	NULL	NULL	457	142	0.0005470459518599562
+yzetheeffectsof various 3dgraphics factor	level of detail	1	1	4	4	0.250000000000	NULL	NULL	31	25	0.008064516129032258
+yzetheeffectsof various 3dgraphics factor	lighting	1	1	4	4	0.250000000000	NULL	NULL	5506	1914	0.00004540501271340356

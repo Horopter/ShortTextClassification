@@ -1,0 +1,42 @@
+EK attribute	eye color of an individual	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EK attribute	height	1	1	2	2	NULL	NULL	NULL	4847	1409	0.00010315659170621003
+EK folks	Doc Henry	1	1	1	1	NULL	NULL	NULL	1	1	1
+EK parameter	surface chemistry of the grain	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EK parameter	pore fluid salinity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EK9 exhaust system	Mugen Twinloop	1	1	1	1	NULL	NULL	NULL	1	1	1
+ekahau product	Ekahau Site Survey	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ekats	Robert Cahill Henderson	1	1	1	1	NULL	NULL	NULL	1	1	1
+EKCtechniques	vesicular electrokinetic chromatography 18,19	1	1	1	1	NULL	NULL	NULL	1	1	1
+ekdum regular return gift	lunch boxes	1	1	2	2	0.500000000000	NULL	NULL	208	84	0.002403846153846154
+ekdum regular return gift	pencil boxes	1	1	2	2	0.500000000000	NULL	NULL	41	14	0.012195121951219513
+EKG change	prolongation of the QT	2	2	6	5	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+EKG change	ST elevation	1	1	6	5	1.000000000000	NULL	NULL	5	4	0.03333333333333333
+EKG change	peaked T wave	1	1	6	5	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+EKG change	QRS widening	1	1	6	5	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+EKG change	bundle branch block	1	1	6	5	1.000000000000	NULL	NULL	24	18	0.006944444444444444
+EKG device	sold by Hewlett Packard	1	1	1	1	NULL	NULL	NULL	1	1	1
+ekit's service	free email service	2	2	2	1	1.000000000000	NULL	NULL	7	6	0.2857142857142857
+ekka favorite	fairy floss	1	1	2	2	0.500000000000	NULL	NULL	5	5	0.1
+ekka favorite	ball clown	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+Ekman model	proposed Galerkin model	1	1	1	1	NULL	NULL	NULL	1	1	1
+ekmanian emotion	fear	2	2	8	6	NULL	NULL	NULL	5762	1341	0.00008677542519958348
+ekmanian emotion	anger	2	2	8	6	NULL	NULL	NULL	7439	1466	0.00006721333512568894
+ekmanian emotion	surprise	1	1	8	6	NULL	NULL	NULL	314	119	0.0003980891719745223
+ekmanian emotion	disgust	1	1	8	6	NULL	NULL	NULL	264	75	0.0004734848484848485
+ekmanian emotion	sadness	1	1	8	6	NULL	NULL	NULL	1965	400	0.00006361323155216285
+ekmanian emotion	enjoyment	1	1	8	6	NULL	NULL	NULL	200	87	0.000625
+ekon division	eKON Investment Services	1	1	1	1	NULL	NULL	NULL	1	1	1
+EKOS survey reference	doctor	1	1	2	2	NULL	NULL	NULL	6593	1574	0.00007583801001061732
+EKOS survey reference	employer	1	1	2	2	NULL	NULL	NULL	865	305	0.0005780346820809249
+eksceptions	photochemical eraction s adn teh photovoltaic efect	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eksceptions	flourescence	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+eksceptions	harmonic geniration	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ekskretirujutsja	remote use sharp anxiety ekskretirujutsja	1	1	1	1	NULL	NULL	NULL	1	1	1
+ekspredo task	Microsoft Access	1	1	1	1	NULL	NULL	NULL	594	259	0.0016835016835016834
+EKT service	Leeds	1	1	1	1	NULL	NULL	NULL	594	192	0.0016835016835016834
+ekta's show	Kasamh Se	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ekta's show	Kasautii Zindagi Kay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ektagraphic part	fan motor	1	1	1	1	NULL	NULL	NULL	249	223	0.004016064257028112
+ektron technology roadmap feature	site search	1	1	3	3	1.000000000000	NULL	NULL	40	22	0.008333333333333333
+ektron technology roadmap feature	Ektron developers guide	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ektron technology roadmap feature	templated control	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666

@@ -1,0 +1,1119 @@
+IG army	Drop Troops	1	1	1	1	NULL	NULL	NULL	1	1	1
+ig artist	Judy Garland	1	1	3	3	NULL	NULL	NULL	190	84	0.0017543859649122805
+ig artist	Frank Sinatra	1	1	3	3	NULL	NULL	NULL	677	205	0.0004923682914820285
+ig artist	Ray Anthony	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+ig brother contestant	Brian Dowling	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ig domain protein	palladin	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ig h-calorie holiday drink	apple cider	1	1	2	2	NULL	NULL	NULL	145	84	0.0034482758620689655
+ig h-calorie holiday drink	eggnog	1	1	2	2	NULL	NULL	NULL	143	88	0.0034965034965034965
+IG investigation	investigation performed by the Justice Department's OIG	2	2	2	1	NULL	NULL	NULL	2	1	1
+Ig isotypes	IgM	1	1	1	1	NULL	NULL	NULL	41	23	0.024390243902439025
+IG item	piston	1	1	1	1	NULL	NULL	NULL	720	278	0.001388888888888889
+ig name	Ian Mcnabb	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ig name	Kirk Brandon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ig name	Wal-Mart	1	1	4	4	NULL	NULL	NULL	6827	1533	0.00003661930569796397
+ig name	Miles Hunt	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+IG office	Postal Service OIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+IG structure	North West Forum	1	1	1	1	NULL	NULL	NULL	1	1	1
+ig superfamily cam	L1	1	1	1	1	NULL	NULL	NULL	58	37	0.017241379310344827
+IG-producing species	Arabidopsis	1	1	1	1	NULL	NULL	NULL	423	125	0.002364066193853428
+IGA	making candle	1	1	1	1	1.000000000000	NULL	NULL	16	8	0.0625
+IGA P ORT	security	1	0	1	1	NULL	NULL	NULL	8153	2525	0.00012265423770391266
+IGA selling essential	alcohol	1	1	1	1	NULL	NULL	NULL	12820	3081	0.00007800312012480499
+IGA store	Cooroy	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IGA subprojects	sewing machine	1	1	2	2	NULL	NULL	NULL	291	163	0.001718213058419244
+IGA subprojects	consumer shop	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IGA total shop management tool	VIN tracking	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IGA total shop management tool	integrated member installation tip	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iga ueno's major attraction	Ninja Museum	1	1	1	1	NULL	NULL	NULL	1	1	1
+IgA-associated immunological disorder	IgA nephropathy	1	1	1	1	1.000000000000	NULL	NULL	27	16	0.037037037037037035
+iga-mediated immune effector response	cytokine synthesis	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+iga-mediated immune effector response	phagocytosis	1	1	3	3	0.500000000000	NULL	NULL	151	88	0.002207505518763797
+iga-mediated immune effector response	antibody-dependent cellular cytotoxicity	1	1	3	3	0.500000000000	NULL	NULL	9	8	0.037037037037037035
+iga1 molecule	IgA1 myeloma protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGAD information initiative	Regional Early Warning System	1	1	1	1	NULL	NULL	NULL	1	1	1
+igalo activity	yoga	1	1	1	1	NULL	NULL	NULL	10229	2367	0.00009776126698602014
+igame technician	Greg Wildman	2	1	2	1	NULL	NULL	NULL	2	1	1
+igarette maker	Cool Mixx	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IGAs	making candle	1	1	3	3	0.375000000000	NULL	NULL	16	8	0.020833333333333332
+IGAs	fuel stones making	1	1	3	3	0.375000000000	NULL	NULL	1	1	0.3333333333333333
+IGAs	food related	1	1	3	3	0.375000000000	NULL	NULL	4	2	0.08333333333333333
+igate software	aprsd application	1	1	1	1	NULL	NULL	NULL	1	1	1
+igatetheroleof various complex social factor	loneliness	1	1	1	1	NULL	NULL	NULL	822	275	0.0012165450121654502
+igatingtheuseof combined approach	ARQ flow control	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igatingtheuseof combined approach	packet encapsulation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+igationof surface phenomenon	diffusion	1	1	2	2	0.500000000000	NULL	NULL	486	240	0.00102880658436214
+igationof surface phenomenon	islanding	1	1	2	2	0.500000000000	NULL	NULL	13	11	0.038461538461538464
+igations	thyroid function test	1	1	2	2	1.000000000000	NULL	NULL	56	21	0.008928571428571428
+igations	slow fl ight	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+IGBM member	Save the Children	1	1	1	1	NULL	NULL	NULL	404	134	0.0024752475247524753
+igbo community	Owerri province	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+igbo dignitary	Josiah Okeke	1	1	1	1	NULL	NULL	NULL	1	1	1
+igbo group	Ngwa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igbo group	Ohuhu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igbo historian	Emeka Esogbue	3	3	3	1	NULL	NULL	NULL	3	1	1
+igbo leader	Dr Chukwuemeka Ezeife	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+igbo leader	Chief Ralph Uwechue	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+igbo leader	Orji Uzoh Kalu	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+igbo leader	President of Ohanaeze	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+igbo name	Ajudua	1	1	1	1	NULL	NULL	NULL	1	1	1
+igbo newspaper	Ogene	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+igbo organization	Ohaneze	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+igbo organization	Igbo elite	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+igbo organization	student union	1	1	5	5	NULL	NULL	NULL	64	58	0.003125
+igbo organization	traders union	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+igbo organization	market woman	1	1	5	5	NULL	NULL	NULL	6	4	0.03333333333333333
+igbo professional	doctor	1	1	1	1	NULL	NULL	NULL	6593	1574	0.00015167602002123465
+igbo subgroup	Ikwerre	12	11	13	2	NULL	NULL	NULL	14	3	0.7912087912087912
+igbo subgroup	Ikwere	1	1	13	2	NULL	NULL	NULL	3	3	0.025641025641025644
+igbo-controlled bank	African Continental Bank	1	1	1	1	NULL	NULL	NULL	1	1	1
+igbo-speaking state	Imo	1	1	1	1	1.000000000000	NULL	NULL	15	8	0.06666666666666667
+Igbobians	Dr. T. O. Elias	2	2	2	1	NULL	NULL	NULL	2	1	1
+igboland town	Enugu	2	2	6	3	1.000000000000	NULL	NULL	26	11	0.02564102564102564
+igboland town	Owerri	2	2	6	3	1.000000000000	NULL	NULL	12	5	0.05555555555555555
+igboland town	Onitsha	2	2	6	3	1.000000000000	NULL	NULL	18	10	0.037037037037037035
+IGBP program	LOICZ	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+IGBT application	automotive ignition system	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IGBT characteristic	RBSOA	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGBT driver	Mitsubishi M57962L	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGBT technology	NPT trench	1	1	1	1	NULL	NULL	NULL	1	1	1
+igbt-based fact	active filter	1	1	1	1	1.000000000000	NULL	NULL	44	18	0.022727272727272728
+IGC NEWSLETTER aberration	micronuclei	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+IGC project school	Colorado	1	1	1	1	NULL	NULL	NULL	2800	379	0.00035714285714285714
+IGC's work	collection of model clauses for MTAs	1	1	1	1	NULL	NULL	NULL	1	1	1
+IgCAMs	L1	2	2	2	1	1.000000000000	NULL	NULL	58	37	0.034482758620689655
+IGCC publication	policy paper	1	1	3	3	0.666666666666	NULL	NULL	12	11	0.027777777777777776
+IGCC publication	policy brief	1	1	3	3	0.666666666666	NULL	NULL	29	21	0.011494252873563218
+IGCC publication	newsletter	1	1	3	3	0.666666666666	NULL	NULL	3095	1282	0.00010770059235325793
+IGCP project	Project 111	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGCSE subject	World History	1	1	4	5	NULL	NULL	NULL	77	37	0.003246753246753247
+IGCSE subject	Tourism	1	1	4	5	NULL	NULL	NULL	3057	830	0.00008177952240758914
+IGCSE subject	Geography	1	1	4	5	NULL	NULL	NULL	2600	616	0.00009615384615384615
+IGCSE subject	Travel	1	1	4	5	NULL	NULL	NULL	4528	1282	0.00005521201413427562
+IGD	computers running ICS	1	1	1	1	NULL	NULL	NULL	1	1	1
+igdomain-containing protein	immunoglobulins	1	1	3	3	0.666666666666	NULL	NULL	180	79	0.0018518518518518517
+igdomain-containing protein	CD8	1	1	3	3	0.666666666666	NULL	NULL	35	23	0.009523809523809523
+igdomain-containing protein	T-cell receptor	1	1	3	3	0.666666666666	NULL	NULL	11	10	0.0303030303030303
+ige antibody	arranged on the surface of mast cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+ige blocker	omalizumab	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+ige symptom	asthma	1	1	3	3	NULL	NULL	NULL	8602	1433	0.00003875067813686739
+ige symptom	allergic rhinitis	1	1	3	3	NULL	NULL	NULL	314	114	0.0010615711252653928
+ige symptom	allergic conjunctivitis	1	1	3	3	NULL	NULL	NULL	42	21	0.007936507936507936
+IGE syndrome	childhood absence epilepsy	1	1	1	1	1.000000000000	NULL	NULL	18	8	0.05555555555555555
+ige-activated effector cell	mast cell	1	1	2	2	NULL	NULL	NULL	210	77	0.002380952380952381
+ige-activated effector cell	basophils	1	1	2	2	NULL	NULL	NULL	62	27	0.008064516129032258
+ige-associated food reaction	S4 ANNALS OF ALLERGY	1	1	1	1	NULL	NULL	NULL	1	1	1
+ige-based test	enzyme-linked immunosorbent assay	1	1	1	1	NULL	NULL	NULL	254	121	0.003937007874015748
+IgE-binding isoforms	enzymes aldehyde dehydrogenase	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IgE-binding isoforms	hexosaminidase	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ige-dependent agent	HMW substance	1	1	1	1	NULL	NULL	NULL	1	1	1
+ige-dependent stimulus	allergen	1	1	1	1	NULL	NULL	NULL	300	138	0.0033333333333333335
+ige-mediated allergic disease	asthma	1	1	1	1	NULL	NULL	NULL	8602	1433	0.00011625203441060219
+ige-mediated allergic reaction	rhinitis	4	4	8	3	0.333333333333	NULL	NULL	324	144	0.006172839506172839
+ige-mediated allergic reaction	allergic asthma	3	3	8	3	0.333333333333	NULL	NULL	87	41	0.01293103448275862
+ige-mediated allergic reaction	asthma	1	1	8	3	0.333333333333	NULL	NULL	8602	1433	0.000014531504301325273
+IgE-mediated allergic response	type I reaction	1	1	1	1	NULL	NULL	NULL	1	1	1
+IgE-mediated allergicreactions	allergic asthma	1	1	2	2	NULL	NULL	NULL	87	41	0.005747126436781609
+IgE-mediated allergicreactions	rhinitis	1	1	2	2	NULL	NULL	NULL	324	144	0.0015432098765432098
+ige-mediated allergy	asthma	5	5	5	1	0.500000000000	NULL	NULL	8602	1433	0.0005812601720530109
+ige-mediated condition	anaphylaxis	1	1	1	1	NULL	NULL	NULL	318	118	0.0031446540880503146
+ige-mediated cutaneous reaction	acute urticaria	2	2	5	4	0.500000000000	NULL	NULL	10	8	0.08
+ige-mediated cutaneous reaction	angioedemaand acute contact urticaria	1	1	5	4	0.500000000000	NULL	NULL	1	1	0.2
+ige-mediated cutaneous reaction	acute urticaria andangioedema	1	1	5	4	0.500000000000	NULL	NULL	1	1	0.2
+ige-mediated cutaneous reaction	angioedema	1	1	5	4	0.500000000000	NULL	NULL	172	62	0.0011627906976744186
+ige-mediated disease	allergic disorder	2	2	2	1	1.000000000000	NULL	NULL	19	9	0.10526315789473684
+ige-mediated reaction	angioedema	2	2	6	4	0.333333333333	NULL	NULL	172	62	0.003875968992248062
+ige-mediated reaction	urticaria	2	2	6	4	0.333333333333	NULL	NULL	593	174	0.0011242270938729624
+ige-mediated reaction	laryngeal edema	1	1	6	4	0.333333333333	NULL	NULL	14	11	0.011904761904761904
+ige-mediated reaction	nonurticarial skin rash	1	1	6	4	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+ige-related illness	food allergy	1	1	4	4	NULL	NULL	NULL	427	163	0.000585480093676815
+ige-related illness	chronic allergy-related rhinosinusitis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ige-related illness	allergic rhinitis	1	1	4	4	NULL	NULL	NULL	314	114	0.0007961783439490446
+ige-related illness	laryngitis	1	1	4	4	NULL	NULL	NULL	95	58	0.002631578947368421
+IGEL custom-made specialty lens	prosthetic	1	1	1	1	1.000000000000	NULL	NULL	7	12	0.14285714285714285
+IGEL device	sleek IGEL UD9 with integrated TFT screen	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGEL thin client setting	session configuration	1	1	1	1	NULL	NULL	NULL	1	1	1
+Igenity panel information	ribeye area	1	1	2	2	0.666666666666	NULL	NULL	8	7	0.0625
+Igenity panel information	yield grade	1	1	2	2	0.666666666666	NULL	NULL	5	5	0.1
+IGERT issue	ethic	1	1	1	1	NULL	NULL	NULL	1666	434	0.0006002400960384153
+IGEs	JME	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+igestive complaint	ulcerative colitis	1	1	1	1	NULL	NULL	NULL	955	209	0.0010471204188481676
+IGF analog	peptidomimetic	2	2	2	1	1.000000000000	NULL	NULL	6	3	0.3333333333333333
+IGF BPs	IGF BP-4	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGF signaling component	IGF-I	1	1	2	2	1.000000000000	NULL	NULL	74	33	0.006756756756756757
+IGF signaling component	IRS-1	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+IGF's	Hermitefunctions of distinctive order	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGF-1 inhibitor	stomatostatin analog	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGF-1R antibody	figitumumab	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IGF-1R mAbs	8A1	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGF-I inhibitor	somatostatin analogs octreotide	1	1	1	1	NULL	NULL	NULL	1	1	1
+igf-independent effect	inducing apoptosis	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+igf-related cancer	prostate cancer	1	1	1	1	NULL	NULL	NULL	585	174	0.0017094017094017094
+IGF2 related regulatory gene	IGF2R	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IGFBP proteinases	PAPPA	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGFBP-3 proteinases	matrix metalloproteinase-7	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+IGFBPs	IGFBP-3	3	2	3	1	1.000000000000	NULL	NULL	9	7	0.3333333333333333
+IGFET	MOSFET	1	1	1	1	NULL	NULL	NULL	69	67	0.014492753623188406
+igfsinfluencemytogenic and metabolic process	glucose uptake	2	1	2	1	NULL	NULL	NULL	5	4	0.4
+IgG	IgG3	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+IgG	IgG2	1	1	3	3	1.000000000000	NULL	NULL	9	8	0.037037037037037035
+IgG	con man T.T	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+igg antibody	Campath	4	3	5	2	1.000000000000	NULL	NULL	15	7	0.21333333333333335
+igg antibody	Erbitux	1	1	5	2	1.000000000000	NULL	NULL	46	24	0.004347826086956522
+igg feature	hinge length	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+igg instance	antibodies specific for small carbohydrate	1	1	1	1	NULL	NULL	NULL	1	1	1
+IgG isotypes	mouse IgG1	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+igg type antibody	IgG1	7	5	7	1	1.000000000000	NULL	NULL	13	6	0.5384615384615384
+igg's game	Tales of Pirates	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+igg-binding protein	protein H from Streptococcus pyogenes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igg-binding protein	protein G from group C	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IgG-coated surface	found on parasite	1	1	1	1	NULL	NULL	NULL	1	1	1
+igg-containing immune complex	rheumatoid factor	1	1	1	1	NULL	NULL	NULL	133	47	0.007518796992481203
+igg1 monoclonal antibody	efalizumab	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+iggalongwith serum-derived protein	albumin	1	1	1	1	NULL	NULL	NULL	878	345	0.0011389521640091116
+iggy's lite dish	Chicken Skillet & Low-Call Burrito	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iggy's lite dish	Low-Cal Burrito	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+iggy's lite dish	Chicken Skillet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+igh impact item	financials every month	1	1	1	1	NULL	NULL	NULL	1	1	1
+igh profile destination	r transit station	1	1	1	1	NULL	NULL	NULL	1	1	1
+igh profile research institution	Huntingdon Life Sciences	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+igh quality paper stock	uncoated Munken Polar 300gsm for the print	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IGH resolution method	well-known ESPRIT algorithm	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGH S EMINARY immediate issue	invasive pest	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IGH S EMINARY immediate issue	infectious disease	1	1	2	2	NULL	NULL	NULL	393	189	0.001272264631043257
+IGH suit gift item	apparel	1	1	5	5	NULL	NULL	NULL	1147	489	0.0001743679163034002
+IGH suit gift item	cookie	1	1	5	5	NULL	NULL	NULL	5329	1507	0.000037530493525989866
+IGH suit gift item	book	1	1	5	5	NULL	NULL	NULL	13029	3482	0.00001535037224652698
+IGH suit gift item	chocolate	1	1	5	5	NULL	NULL	NULL	7342	1984	0.000027240533914464727
+IGH suit gift item	toy	1	1	5	5	NULL	NULL	NULL	5414	1538	0.000036941263391207984
+igh value item	jewelry	1	1	5	5	NULL	NULL	NULL	7848	1759	0.000025484199796126402
+igh value item	car	1	1	5	5	NULL	NULL	NULL	7866	2381	0.000025425883549453346
+igh value item	real estate	1	1	5	5	NULL	NULL	NULL	3890	1053	0.00005141388174807198
+igh value item	boat	1	1	5	5	NULL	NULL	NULL	2719	889	0.0000735564545788893
+igh value item	gold	1	1	5	5	NULL	NULL	NULL	10877	2626	0.000018387423002666178
+igh-availability system	telecomm	1	1	1	1	NULL	NULL	NULL	5	6	0.2
+igh-impact exercise	playing tennis on hard pavement	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+igh-impact exercise	jogging	1	1	3	3	NULL	NULL	NULL	5294	999	0.0000629643621710112
+igh-impact exercise	running	1	1	3	3	NULL	NULL	NULL	5694	1097	0.00005854115443156539
+igh-impact, weather-dependent event	transmission of airborne	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+igh-impact, weather-dependent event	extreme temperature	1	1	3	3	0.500000000000	NULL	NULL	336	147	0.000992063492063492
+igh-impact, weather-dependent event	poor air quality	1	1	3	3	0.500000000000	NULL	NULL	36	19	0.009259259259259259
+igh-pressure application	air	1	1	1	1	NULL	NULL	NULL	4803	1359	0.00020820320632937748
+igh-security application	conditional access	1	1	2	2	0.500000000000	NULL	NULL	12	11	0.041666666666666664
+igh-security application	mobile banking	1	1	2	2	0.500000000000	NULL	NULL	219	102	0.00228310502283105
+igh-speed differential interface	High-Definition Multim edia Interface	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+igh-stakes test	collage entrance exam	1	1	1	1	NULL	NULL	NULL	1	1	1
+igh-tech company	Compaq	1	1	2	2	NULL	NULL	NULL	1070	362	0.00046728971962616824
+igh-tech company	Intel	1	1	2	2	NULL	NULL	NULL	4286	1143	0.00011665888940737284
+igher cognitive processing skill	reasoning	1	1	1	1	NULL	NULL	NULL	473	223	0.0021141649048625794
+igher-level health professional	doctor	1	1	1	1	NULL	NULL	NULL	6593	1574	0.00015167602002123465
+ighhazard industry	nuclear energy	1	1	2	2	NULL	NULL	NULL	219	121	0.00228310502283105
+ighhazard industry	aviation	1	1	2	2	NULL	NULL	NULL	1194	386	0.0004187604690117253
+ighlights	Mission San Jose	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ighly regarded organization	National Staff Development Council	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+ighly regarded organization	National Association of Elementary School Principals	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+IGHS stalwart	Bill Selm	1	1	1	1	NULL	NULL	NULL	1	1	1
+ight characteristic	turn rate	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+ight fabric curtain	curtains made of silk	1	1	1	1	NULL	NULL	NULL	1	1	1
+ight fruit	apple	1	1	1	1	NULL	NULL	NULL	15894	3432	0.00006291682395872656
+ight housework	wash dish	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+ight research institution	Fred Hutchinson Cancer Research Center	1	1	3	3	0.500000000000	NULL	NULL	15	12	0.02222222222222222
+ight research institution	Seattle Institute for Systems Biology	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+ight research institution	University of Washington	1	1	3	3	0.500000000000	NULL	NULL	163	76	0.0020449897750511245
+ight sight	PVS-22	1	0	1	1	NULL	NULL	NULL	4	4	0.25
+ight space	overhead bins on airplane	1	1	1	1	NULL	NULL	NULL	1	1	1
+ight-wing populist anti-immigration party	Progress Party in Norway	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+ight-wing populist anti-immigration party	Freedom Party of Austria	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+ight-wing populist anti-immigration party	National Front in France	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+ightbright safety marking	tape	1	1	2	2	NULL	NULL	NULL	2353	959	0.00021249468763280918
+ightbright safety marking	paint	1	1	2	2	NULL	NULL	NULL	7733	1968	0.0000646579593948015
+ightclubs	T ropicana	1	1	1	1	NULL	NULL	NULL	1	1	1
+ightechnology industry	semiconductor	1	1	2	2	NULL	NULL	NULL	981	357	0.0005096839959225281
+ightechnology industry	computer	1	1	2	2	NULL	NULL	NULL	13729	3711	0.00003641925850389686
+ighted issue	international concerns in Palestine	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ighted issue	Islamophobia	1	1	2	2	1.000000000000	NULL	NULL	15	9	0.03333333333333333
+ighteenth-century English aestheticians	Archibald Alison	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+ighteenth-century English aestheticians	Lord Karnes	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+ighters	American F-15	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ightinformation	average ightdelay	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ightinformation	ight cancellation rate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ightinformation	individual FAA sAviationSystem Performance Metrics	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ighting disease	diabetes	1	1	1	1	NULL	NULL	NULL	23990	3013	0.00004168403501458941
+ighway vehicle	farm equipment	1	1	1	1	NULL	NULL	NULL	146	90	0.00684931506849315
+ighway vehicle area	Old Station	1	1	1	1	NULL	NULL	NULL	1	1	1
+igious art	Dancing Siva in Hindu sculpture	1	1	1	1	NULL	NULL	NULL	1	1	1
+igital display	LEDs	1	1	2	2	NULL	NULL	NULL	685	325	0.00072992700729927
+igital display	date-month - year display	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IGJ administration cost	avatar judge	1	0	1	1	NULL	NULL	NULL	1	1	1
+igloo	Split Level Igloos	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGM author	Michael Bujold	1	1	1	1	NULL	NULL	NULL	1	1	1
+igm inhibitor	modified natural IgM antibody	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+igm inhibitor	natural IgM antibody-binding peptides	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+igma tool	COPQ	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+igma tool	SIPOC	1	1	2	2	1.000000000000	NULL	NULL	17	8	0.029411764705882353
+IGMP feature	static member	2	1	4	2	1.000000000000	NULL	NULL	2	1	0.5
+IGMP feature	access list	2	1	4	2	1.000000000000	NULL	NULL	17	11	0.058823529411764705
+IGMP message	Membership Query Messages	1	1	1	1	NULL	NULL	NULL	1	1	1
+ign protein	typhoid vaccine	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+ign situation	combined arms defensive screen	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+ign situation	ambush	1	1	3	3	0.500000000000	NULL	NULL	89	61	0.0037453183520599247
+ign situation	police action	1	1	3	3	0.500000000000	NULL	NULL	8	7	0.041666666666666664
+IGN special map	Decouverte Regionales	1	1	1	1	NULL	NULL	NULL	1	1	1
+ign species	African zebra wood	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ignacious rock	granite	1	1	1	1	NULL	NULL	NULL	2971	919	0.0003365870077415012
+ignalingbyseven-membrane-spanning receptor	angiotensin type 1A receptor	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ignatian prayer	daily Examen	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignbreast condition	breast cyst	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+ignbreast condition	nipple discharge	1	1	2	2	1.000000000000	NULL	NULL	26	13	0.019230769230769232
+ignconditions	submucosal leiomyomas	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ignconditions	granulomatous disease	1	1	4	4	0.500000000000	NULL	NULL	22	15	0.011363636363636364
+ignconditions	blood clot	1	1	4	4	0.500000000000	NULL	NULL	411	124	0.0006082725060827251
+ignconditions	focal nodal fibrosis	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+ignem magic	Ball of Absymal Flame	1	1	1	1	NULL	NULL	NULL	1	1	1
+igneous accessory mineral	zircon	1	1	4	4	NULL	NULL	NULL	279	121	0.0008960573476702509
+igneous accessory mineral	monazite	1	1	4	4	NULL	NULL	NULL	100	41	0.0025
+igneous accessory mineral	apatite	1	1	4	4	NULL	NULL	NULL	142	63	0.0017605633802816902
+igneous accessory mineral	topaz	1	1	4	4	NULL	NULL	NULL	391	163	0.0006393861892583121
+igneous activity	filling of vesicle	1	1	1	1	NULL	NULL	NULL	1	1	1
+igneous and metamorphic rock	granite	3	3	6	3	0.333333333333	NULL	NULL	2971	919	0.0005048805116122518
+igneous and metamorphic rock	schist	2	2	6	3	0.333333333333	NULL	NULL	129	50	0.005167958656330749
+igneous and metamorphic rock	slate	1	1	6	3	0.333333333333	NULL	NULL	1518	542	0.00010979358805445761
+igneous and unstratificd rock	basalt	1	1	1	1	NULL	NULL	NULL	422	196	0.002369668246445498
+igneous and unstratified rock	basalt	1	1	1	1	NULL	NULL	NULL	422	196	0.002369668246445498
+igneous building stones	granite	1	1	1	1	NULL	NULL	NULL	2971	919	0.0003365870077415012
+igneous centre	Carlingford Complex	1	1	1	1	NULL	NULL	NULL	1	1	1
+igneous feature	flow banding	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+igneous feature	volcanic edifice	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+igneous feature	inclusion	1	1	4	4	NULL	NULL	NULL	465	188	0.0005376344086021505
+igneous feature	sill	1	1	4	4	NULL	NULL	NULL	171	109	0.0014619883040935672
+igneous formation	granite	1	1	1	1	NULL	NULL	NULL	2971	919	0.0003365870077415012
+igneous fragment	glass	1	1	2	2	0.500000000000	NULL	NULL	12254	3248	0.00004080300310102824
+igneous fragment	pieces of crystalline rock	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+igneous hill	Las Moras Mountain	1	1	1	1	NULL	NULL	NULL	1	1	1
+igneous intrusion	batholiths	7	6	10	4	0.250000000000	NULL	NULL	11	5	0.4454545454545454
+igneous intrusion	dyke	1	1	10	4	0.250000000000	NULL	NULL	108	61	0.000925925925925926
+igneous intrusion	dike	1	1	10	4	0.250000000000	NULL	NULL	372	194	0.00026881720430107527
+igneous intrusion	Bear Butte	1	1	10	4	0.250000000000	NULL	NULL	8	8	0.0125
+Igneous intrusion s	batholith s	2	2	8	5	NULL	NULL	NULL	2	1	0.25
+Igneous intrusion s	laccolith s	2	2	8	5	NULL	NULL	NULL	2	1	0.25
+Igneous intrusion s	sill	2	2	8	5	NULL	NULL	NULL	171	109	0.0029239766081871343
+Igneous intrusion s	dike s	1	1	8	5	NULL	NULL	NULL	2	2	0.0625
+Igneous intrusion s	dike	1	1	8	5	NULL	NULL	NULL	372	194	0.0003360215053763441
+Igneous intrusives	granite	1	1	1	1	NULL	NULL	NULL	2971	919	0.0003365870077415012
+igneous island	Hawaiian chain	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+igneous landmark	Shiprock	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+igneous landmark	Beclabito Dome	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+igneous massif	Khorixas inlier	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+igneous massif	Kamanjab	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+igneous material	andesite	1	1	2	2	0.500000000000	NULL	NULL	46	31	0.010869565217391304
+igneous material	granite	1	1	2	2	0.500000000000	NULL	NULL	2971	919	0.0001682935038707506
+Igneous microstructures	oscillatory zoning in plagioclase concordant with crystal face	1	1	1	1	NULL	NULL	NULL	1	1	1
+igneous mineral	feldspar	1	1	6	6	NULL	NULL	NULL	455	190	0.0003663003663003663
+igneous mineral	place original igneous mineral	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+igneous mineral	quartz	1	1	6	6	NULL	NULL	NULL	2011	716	0.00008287750704458809
+igneous mineral	pyroxene	1	1	6	6	NULL	NULL	NULL	97	46	0.001718213058419244
+igneous mineral	olivine	1	1	6	6	NULL	NULL	NULL	176	82	0.0009469696969696969
+igneous mineral	rare metamorphic and igneous mineral	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+igneous object	chondrules	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+igneous oceanic plateau	Shatsky	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+igneous or metamorphic rock	granite	3	2	6	3	0.333333333333	NULL	NULL	2971	919	0.0005048805116122518
+igneous or metamorphic rock	gneiss	2	1	6	3	0.333333333333	NULL	NULL	145	56	0.004597701149425287
+igneous or metamorphic rock	slate	1	1	6	3	0.333333333333	NULL	NULL	1518	542	0.00010979358805445761
+Igneous or volcanic rock	Basalt	2	2	3	2	NULL	NULL	NULL	422	196	0.00315955766192733
+Igneous or volcanic rock	granite	1	1	3	2	NULL	NULL	NULL	2971	919	0.00011219566924716705
+igneous phosphate deposit	Kola deposit in Russia	1	1	1	1	NULL	NULL	NULL	1	1	1
+igneous plutonic rock	granite	2	1	3	2	NULL	NULL	NULL	2971	919	0.0004487826769886682
+igneous plutonic rock	gabbro	1	1	3	2	NULL	NULL	NULL	100	50	0.003333333333333333
+igneous process	magma mixing	2	2	3	2	1.000000000000	NULL	NULL	16	6	0.08333333333333333
+igneous process	liquid immiscibility	1	1	3	2	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+igneous rock	granite	116	92	325	99	0.827586206896	NULL	NULL	2971	919	0.013935737772829662
+igneous rock	basalt	57	46	325	99	0.827586206896	NULL	NULL	422	196	0.023689391177542835
+igneous rock	gabbro	13	9	325	99	0.827586206896	NULL	NULL	100	50	0.0052
+igneous rock	rhyolite	9	7	325	99	0.827586206896	NULL	NULL	78	40	0.003195266272189349
+igneous rock	pumice	7	7	325	99	0.827586206896	NULL	NULL	240	112	0.0006282051282051282
+igneous rock	diorite	6	5	325	99	0.827586206896	NULL	NULL	48	24	0.002307692307692308
+igneous rock	obsidian	6	6	325	99	0.827586206896	NULL	NULL	241	123	0.0004596233641876796
+igneous rock	gneiss	5	5	325	99	0.827586206896	NULL	NULL	145	56	0.0005305039787798409
+igneous rock	porphyry	5	4	325	99	0.827586206896	NULL	NULL	64	39	0.001201923076923077
+igneous rock	pegmatites	4	2	325	99	0.827586206896	NULL	NULL	8	4	0.006153846153846154
+igneous rock	diabase	3	3	325	99	0.827586206896	NULL	NULL	36	22	0.0007692307692307693
+igneous rock	andesite	3	3	325	99	0.827586206896	NULL	NULL	46	31	0.0006020066889632108
+igneous rock	anorthosite	3	3	325	99	0.827586206896	NULL	NULL	23	9	0.0012040133779264216
+igneous rock	volcanic ash	2	2	325	99	0.827586206896	NULL	NULL	75	52	0.0001641025641025641
+igneous rock	lava	2	2	325	99	0.827586206896	NULL	NULL	146	84	0.00008429926238145416
+igneous rock	tuffs	2	2	325	99	0.827586206896	NULL	NULL	14	12	0.0008791208791208791
+igneous rock	dolerite	2	2	325	99	0.827586206896	NULL	NULL	13	14	0.0009467455621301775
+igneous rock	syenite	2	2	325	99	0.827586206896	NULL	NULL	25	16	0.0004923076923076923
+igneous rock	talc	1	1	325	99	0.827586206896	NULL	NULL	1494	444	0.0000020595201318092885
+igneous rock	spotted dolerite	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	dolerites of Tasmania	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	felsite	1	1	325	99	0.827586206896	NULL	NULL	7	6	0.00043956043956043956
+igneous rock	grandiorite outcrops in the northern part of the project area	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	granitic	1	1	325	99	0.827586206896	NULL	NULL	4	4	0.0007692307692307692
+igneous rock	granodiorite outcrops in the northern part of the project area	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	glassy igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	charnockite	1	1	325	99	0.827586206896	NULL	NULL	4	3	0.0007692307692307692
+igneous rock	asbestos	1	1	325	99	0.827586206896	NULL	NULL	1829	557	0.0000016822980190940826
+igneous rock	Basalt with Olivine	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	hectorite clay	1	1	325	99	0.827586206896	NULL	NULL	6	6	0.0005128205128205128
+igneous rock	intermediate igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	Pikes Peak Granite of Colorado	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	quartz	1	1	325	99	0.827586206896	NULL	NULL	2011	716	0.000001530046283900088
+igneous rock	silica-deficient igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	Vernal Mesa Quartz Monzonite	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	dark, igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	ferromanganese igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	fine-textured igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	coarse-grained igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	coarse-grained  igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	coarse grained igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	undersaturated igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	sodalite	1	1	325	99	0.827586206896	NULL	NULL	41	21	0.000075046904315197
+igneous rock	terrestrial igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	granites outcropping around Pendle Hill	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	KREEP basalt	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	magma	1	1	325	99	0.827586206896	NULL	NULL	34	28	0.00009049773755656108
+igneous rock	basic or intermediate igneous rock	1	1	325	99	0.827586206896	NULL	NULL	3	3	0.0010256410256410256
+igneous rock	carbonatites	1	1	325	99	0.827586206896	NULL	NULL	5	5	0.0006153846153846154
+igneous rock	granodiorite outcrop	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	gabro	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	metamorphic rock	1	1	325	99	0.827586206896	NULL	NULL	8	6	0.0003846153846153846
+igneous rock	scoria	1	1	325	99	0.827586206896	NULL	NULL	41	26	0.000075046904315197
+igneous rock	volcanic igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	quartz diorite	1	1	325	99	0.827586206896	NULL	NULL	4	4	0.0007692307692307692
+igneous rock	norite	1	1	325	99	0.827586206896	NULL	NULL	5	4	0.0006153846153846154
+igneous rock	undersaturated alkaline igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	common igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	Aibo Granite of Sonora	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	exposed igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	Cretaceous rhyolite	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	lava form extrusive igneous rock	1	1	325	99	0.827586206896	NULL	NULL	3	3	0.0010256410256410256
+igneous rock	Jurassic granodiorite	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	lower permian granite	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	greenstones	1	1	325	99	0.827586206896	NULL	NULL	6	4	0.0005128205128205128
+igneous rock	igneous rock igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	generally metamorphic and igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	carbonatites crystalline hydroxy fluorapatite Ca5	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	calcalkaline igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	basic and ultra-basic igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	pumice stone	1	1	325	99	0.827586206896	NULL	NULL	18	29	0.00017094017094017094
+igneous rock	silica-rich igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	silica-poor igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	silica-undersaturated igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	sedimentary and igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	seafloor basalt	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	basic and intermediate igneous rock	1	1	325	99	0.827586206896	NULL	NULL	3	3	0.0010256410256410256
+igneous rock	high strength igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	hard igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	acid igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	ferro-manganese igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	example igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	dark-colored igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	dark igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	distinctive red granite	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock	trap	1	1	325	99	0.827586206896	NULL	NULL	287	184	0.000010720986330742428
+igneous rock	common mafic igneous rock	1	1	325	99	0.827586206896	NULL	NULL	3	3	0.0010256410256410256
+igneous rock	volcanic lava	1	1	325	99	0.827586206896	NULL	NULL	7	6	0.00043956043956043956
+igneous rock	vesicular igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	smooth igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	whinstone	1	1	325	99	0.827586206896	NULL	NULL	6	5	0.0005128205128205128
+igneous rock	salic	1	1	325	99	0.827586206896	NULL	NULL	4	4	0.0007692307692307692
+igneous rock	rock quarry igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	sedimentary or igneous rock	1	1	325	99	0.827586206896	NULL	NULL	2	2	0.0015384615384615385
+igneous rock	sauna stones hard igneous rock	1	1	325	99	0.827586206896	NULL	NULL	3	3	0.0010256410256410256
+igneous rock	resulting from lava	1	1	325	99	0.827586206896	NULL	NULL	1	1	0.003076923076923077
+igneous rock fragment	andesite	1	1	1	1	1.000000000000	NULL	NULL	46	31	0.021739130434782608
+igneous rock s	basalt	2	2	3	2	NULL	NULL	NULL	422	196	0.00315955766192733
+igneous rock s	granite	1	1	3	2	NULL	NULL	NULL	2971	919	0.00011219566924716705
+igneous rock type	Soundness Testing andesite	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+igneous rock type	basalt	1	1	4	4	NULL	NULL	NULL	422	196	0.0005924170616113745
+igneous rock type	granite	1	1	4	4	NULL	NULL	NULL	2971	919	0.0000841467519353753
+igneous rock type	rhyolite	1	1	4	4	NULL	NULL	NULL	78	40	0.003205128205128205
+Igneous setts	Cornish granite	1	1	1	1	NULL	NULL	NULL	1	1	1
+Igneous stone	granite	1	1	1	1	NULL	NULL	NULL	2971	919	0.0003365870077415012
+Igneous stones	granite	2	2	4	3	NULL	NULL	NULL	2971	919	0.0003365870077415012
+Igneous stones	quartzite	1	1	4	3	NULL	NULL	NULL	204	104	0.0012254901960784314
+Igneous stones	basalt	1	1	4	3	NULL	NULL	NULL	422	196	0.0005924170616113745
+igneous structure	pillow	1	1	1	1	NULL	NULL	NULL	2414	760	0.00041425020712510354
+igneous texture	accumulated megacrysts	1	1	1	1	NULL	NULL	NULL	1	1	1
+igni.fkmtgeographic feature	lake	1	1	2	2	NULL	NULL	NULL	2802	1096	0.00017844396859386153
+igni.fkmtgeographic feature	mountain	1	1	2	2	NULL	NULL	NULL	1978	738	0.0002527805864509606
+ignificant author	Shannon Sue Scul lin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignificant author	Jerry Fjermestad	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignificant corporate transaction	merger	1	1	2	2	0.500000000000	NULL	NULL	1240	492	0.0004032258064516129
+ignificant corporate transaction	sales of asset	1	1	2	2	0.500000000000	NULL	NULL	17	9	0.029411764705882353
+ignificant event	solstice	1	1	1	1	NULL	NULL	NULL	66	45	0.015151515151515152
+ignificant historical personality	Alexander the Great	1	1	1	1	NULL	NULL	NULL	192	102	0.005208333333333333
+ignificant state action	SVPA commitment	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignimbrite sheet	conclusion ignimbrite sheet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignimbrite sheet	southern Sierra Madre Occidental	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ignit ion source	open flame	1	1	1	1	1.000000000000	NULL	NULL	105	25	0.009523809523809525
+ignitable and free burning fiber	cotton	1	1	1	1	NULL	NULL	NULL	8381	1830	0.00011931750387781887
+ignitable and free-burn-ingfibers	hemp	1	1	10	10	0.250000000000	NULL	NULL	1571	524	0.00006365372374283896
+ignitable and free-burn-ingfibers	jute	1	1	10	10	0.250000000000	NULL	NULL	764	277	0.00013089005235602096
+ignitable and free-burn-ingfibers	oakum	1	1	10	10	0.250000000000	NULL	NULL	10	7	0.01
+ignitable and free-burn-ingfibers	excelsior	1	1	10	10	0.250000000000	NULL	NULL	75	50	0.0013333333333333335
+ignitable and free-burn-ingfibers	istle	1	1	10	10	0.250000000000	NULL	NULL	3	3	0.03333333333333333
+ignitable and free-burn-ingfibers	kapok	1	1	10	10	0.250000000000	NULL	NULL	45	31	0.0022222222222222222
+ignitable and free-burn-ingfibers	hay	1	1	10	10	0.250000000000	NULL	NULL	931	397	0.00010741138560687433
+ignitable and free-burn-ingfibers	henequen	1	1	10	10	0.250000000000	NULL	NULL	10	9	0.01
+ignitable and free-burn-ingfibers	cocoa fiber	1	1	10	10	0.250000000000	NULL	NULL	4	3	0.025
+ignitable and free-burn-ingfibers	cotton	1	1	10	10	0.250000000000	NULL	NULL	8381	1830	0.000011931750387781888
+ignitable and free-burning fiber	cotton	2	2	11	10	0.250000000000	NULL	NULL	8381	1830	0.000043388183228297774
+ignitable and free-burning fiber	cocoa fiber	1	1	11	10	0.250000000000	NULL	NULL	4	3	0.022727272727272728
+ignitable and free-burning fiber	henequen	1	1	11	10	0.250000000000	NULL	NULL	10	9	0.00909090909090909
+ignitable and free-burning fiber	hay	1	1	11	10	0.250000000000	NULL	NULL	931	397	0.00009764671418806758
+ignitable and free-burning fiber	kapok	1	1	11	10	0.250000000000	NULL	NULL	45	31	0.00202020202020202
+ignitable and free-burning fiber	istle	1	1	11	10	0.250000000000	NULL	NULL	3	3	0.030303030303030304
+ignitable and free-burning fiber	excelsior	1	1	11	10	0.250000000000	NULL	NULL	75	50	0.0012121212121212121
+ignitable and free-burning fiber	oakum	1	1	11	10	0.250000000000	NULL	NULL	10	7	0.00909090909090909
+ignitable and free-burning fiber	jute	1	1	11	10	0.250000000000	NULL	NULL	764	277	0.00011899095668729178
+ignitable and free-burning fiber	hemp	1	1	11	10	0.250000000000	NULL	NULL	1571	524	0.00005786702158439905
+ignitable and free-burning vegetable fiber	cotton	1	1	1	1	NULL	NULL	NULL	8381	1830	0.00011931750387781887
+ignitable appliance	water heater	2	2	2	1	NULL	NULL	NULL	1171	407	0.0017079419299743809
+ignitable component	hydrocarbon fuel	1	1	1	1	1.000000000000	NULL	NULL	26	20	0.038461538461538464
+ignitable device	power cartridge	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignitable fiber	nylon	1	1	2	2	NULL	NULL	NULL	3721	1063	0.0001343724805159903
+ignitable fiber	cotton	1	1	2	2	NULL	NULL	NULL	8381	1830	0.00005965875193890944
+ignitable fuel	fine sawdust	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+ignitable fuel	diesel oil	1	1	3	3	NULL	NULL	NULL	131	79	0.0025445292620865138
+ignitable fuel	heavy, difficult ignitable fuel	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ignitable liquid	gasoline	3	3	15	12	0.100000000000	NULL	NULL	4631	1181	0.00012956164975167351
+ignitable liquid	Kerosene	2	2	15	12	0.100000000000	NULL	NULL	1639	571	0.00016270083384177343
+ignitable liquid	acetone	1	1	15	12	0.100000000000	NULL	NULL	2962	700	0.000022507314877335133
+ignitable liquid	cooking oil	1	1	15	12	0.100000000000	NULL	NULL	637	249	0.00010465724751439037
+ignitable liquid	specialty industrial solvent	1	0	15	12	0.100000000000	NULL	NULL	1	1	0.06666666666666667
+ignitable liquid	ethyl alcohol	1	1	15	12	0.100000000000	NULL	NULL	278	132	0.00023980815347721823
+ignitable liquid	charcoal lighter fluid	1	1	15	12	0.100000000000	NULL	NULL	29	14	0.0022988505747126436
+ignitable liquid	isopropyl alcohol	1	1	15	12	0.100000000000	NULL	NULL	435	168	0.0001532567049808429
+ignitable liquid	diesel fuel	1	1	15	12	0.100000000000	NULL	NULL	571	227	0.00011675423234092235
+ignitable liquid	specific alcohol	1	1	15	12	0.100000000000	NULL	NULL	1	1	0.06666666666666667
+ignitable liquid	fuel oil	1	1	15	12	0.100000000000	NULL	NULL	423	193	0.00015760441292356187
+ignitable liquid	jet fuel	1	1	15	12	0.100000000000	NULL	NULL	334	147	0.0001996007984031936
+ignitable material	weed	3	2	15	9	0.375000000000	NULL	NULL	699	307	0.0008583690987124465
+ignitable material	evergreen branch	3	3	15	9	0.375000000000	NULL	NULL	10	7	0.06000000000000001
+ignitable material	benzine	2	2	15	9	0.375000000000	NULL	NULL	571	82	0.0004670169293636894
+ignitable material	bough	2	2	15	9	0.375000000000	NULL	NULL	10	8	0.026666666666666665
+ignitable material	gasoline	1	1	15	9	0.375000000000	NULL	NULL	4631	1181	0.000014395738861297056
+ignitable material	fuel oil	1	1	15	9	0.375000000000	NULL	NULL	423	193	0.00015760441292356187
+ignitable material	easily ignitable material	1	1	15	9	0.375000000000	NULL	NULL	2	2	0.03333333333333333
+ignitable material	natural gas	1	1	15	9	0.375000000000	NULL	NULL	3647	920	0.000018279864729001006
+ignitable material	black powder	1	1	15	9	0.375000000000	NULL	NULL	62	42	0.001075268817204301
+ignitable substance	sawdust	1	1	4	4	NULL	NULL	NULL	1239	460	0.00020177562550443906
+ignitable substance	easily ignitable substance	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ignitable substance	paper	1	1	4	4	NULL	NULL	NULL	10357	2799	0.000024138263976054843
+ignitable substance	wood	1	1	4	4	NULL	NULL	NULL	13775	3193	0.000018148820326678767
+ignitable waste	solvent	1	1	5	5	0.400000000000	NULL	NULL	2858	751	0.00006997900629811057
+ignitable waste	certain oil	1	1	5	5	0.400000000000	NULL	NULL	13	12	0.015384615384615385
+ignitable waste	liquid sodium	1	1	5	5	0.400000000000	NULL	NULL	23	16	0.008695652173913044
+ignitable waste	ether	1	1	5	5	0.400000000000	NULL	NULL	1079	388	0.00018535681186283596
+ignitable waste	xylene	1	1	5	5	0.400000000000	NULL	NULL	1360	360	0.00014705882352941178
+Ignited fuel	burning paper	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+igniter	electronic igniter	2	2	3	2	NULL	NULL	NULL	3	2	0.4444444444444444
+igniter	alcohol	1	1	3	2	NULL	NULL	NULL	12820	3081	0.000026001040041601664
+igniter fluid	fuel	2	2	2	1	NULL	NULL	NULL	3530	1145	0.0005665722379603399
+igniter gas	air	1	1	1	1	NULL	NULL	NULL	4803	1359	0.00020820320632937748
+igniter material	igniter compositions based on nitrocellulose	1	1	1	1	NULL	NULL	NULL	1	1	1
+igniter plug	conventional air gap plug	1	1	1	1	NULL	NULL	NULL	1	1	1
+igniter tube	made of steel	1	1	1	1	NULL	NULL	NULL	1	1	1
+igniters	lighter fluid	1	1	1	1	NULL	NULL	NULL	256	92	0.00390625
+ignitible material	plastic	1	1	3	3	NULL	NULL	NULL	10906	2659	0.000030564215416590254
+ignitible material	paper	1	1	3	3	NULL	NULL	NULL	10357	2799	0.000032184351968073124
+ignitible material	wood	1	1	3	3	NULL	NULL	NULL	13775	3193	0.000024198427102238353
+igniting community project	Nutrition Project	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+igniting community project	elementary school-based Health	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igniting device	match	1	1	1	1	NULL	NULL	NULL	810	261	0.0012345679012345679
+ignition	aftermarket electronic ignition	1	1	9	9	0.750000000000	NULL	NULL	2	2	0.05555555555555555
+ignition	MSD	1	1	9	9	0.750000000000	NULL	NULL	71	51	0.0015649452269170577
+ignition	``normal'' breakerless ignition	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ignition	BHR	1	1	9	9	0.750000000000	NULL	NULL	7	7	0.015873015873015872
+ignition	GM HEI unit	1	1	9	9	0.750000000000	NULL	NULL	2	2	0.05555555555555555
+ignition	Crane Fireball	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ignition	aftermarket small cap ignition	1	1	9	9	0.750000000000	NULL	NULL	1	1	0.1111111111111111
+ignition	Electromotive	1	1	9	9	0.750000000000	NULL	NULL	4	4	0.027777777777777776
+ignition	Dyna	1	1	9	9	0.750000000000	NULL	NULL	10	10	0.01111111111111111
+ignition accessory item	wire set	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ignition accessory item	tachometer	1	1	2	2	NULL	NULL	NULL	141	83	0.0035460992907801418
+ignition barrier	plywood	1	1	2	2	NULL	NULL	NULL	1497	580	0.00033400133600534405
+ignition barrier	drywall	1	1	2	2	NULL	NULL	NULL	988	312	0.0005060728744939271
+ignition box	MSD 6A	2	2	3	2	NULL	NULL	NULL	5	4	0.26666666666666666
+ignition box	MSD	1	1	3	2	NULL	NULL	NULL	71	51	0.004694835680751174
+ignition chemical	nitrocellulose-based compound	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignition coil	stick-type ignition coil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition coil	COP ignition coil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition coil related offer	Spark Plug	1	1	2	2	1.000000000000	NULL	NULL	5	14	0.1
+ignition coil related offer	Ignition Module	1	1	2	2	1.000000000000	NULL	NULL	26	22	0.019230769230769232
+ignition component	distributor cap	4	4	35	26	0.333333333333	NULL	NULL	21	17	0.021768707482993196
+ignition component	coil	3	3	35	26	0.333333333333	NULL	NULL	670	312	0.0003837953091684435
+ignition component	distributor	2	2	35	26	0.333333333333	NULL	NULL	510	236	0.00022408963585434174
+ignition component	capacitor	2	1	35	26	0.333333333333	NULL	NULL	2574	633	0.0000444000444000444
+ignition component	plug	2	2	35	26	0.333333333333	NULL	NULL	603	307	0.00018952854773750296
+ignition component	cap	2	2	35	26	0.333333333333	NULL	NULL	1772	770	0.00006449532408900354
+ignition component	high performance coil	1	1	35	26	0.333333333333	NULL	NULL	2	2	0.014285714285714285
+ignition component	distributor rotor	1	1	35	26	0.333333333333	NULL	NULL	7	7	0.004081632653061224
+ignition component	wiring	1	1	35	26	0.333333333333	NULL	NULL	563	238	0.000050748540979446836
+ignition component	rev-limiter for street	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	self-powered timing light	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	main relay	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	kill switch	1	1	35	26	0.333333333333	NULL	NULL	37	24	0.0007722007722007722
+ignition component	lead	1	1	35	26	0.333333333333	NULL	NULL	9600	1602	0.0000029761904761904763
+ignition component	point	1	1	35	26	0.333333333333	NULL	NULL	1043	513	0.000027393507738665934
+ignition component	igniter module	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	ignition coil	1	1	35	26	0.333333333333	NULL	NULL	69	46	0.00041407867494824016
+ignition component	ignition switch	1	1	35	26	0.333333333333	NULL	NULL	40	23	0.0007142857142857143
+ignition component	engine control computer	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	sparks plug	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	MSD's Sports Compact Ignition module	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	cam sensor	1	1	35	26	0.333333333333	NULL	NULL	5	5	0.005714285714285714
+ignition component	ICMs	1	1	35	26	0.333333333333	NULL	NULL	1	1	0.02857142857142857
+ignition component	module	1	1	35	26	0.333333333333	NULL	NULL	346	214	0.00008257638315441784
+ignition component	plug wire	1	1	35	26	0.333333333333	NULL	NULL	17	15	0.001680672268907563
+ignition component	wire	1	1	35	26	0.333333333333	NULL	NULL	2571	1007	0.000011112963271656387
+ignition control	MSD 6-series	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition control	Mallory HyFire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition control module	Mallory Hi-Fire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition control module	MSD	1	1	2	2	NULL	NULL	NULL	71	51	0.007042253521126761
+ignition control system	6AL	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ignition device	electric heater coil	1	1	10	10	0.400000000000	NULL	NULL	1	1	0.1
+ignition device	electric coil igniter	1	1	10	10	0.400000000000	NULL	NULL	1	1	0.1
+ignition device	glow plug	1	1	10	10	0.400000000000	NULL	NULL	34	24	0.0029411764705882353
+ignition device	booster	1	1	10	10	0.400000000000	NULL	NULL	70	49	0.0014285714285714286
+ignition device	detonator	1	1	10	10	0.400000000000	NULL	NULL	54	31	0.001851851851851852
+ignition device	squib	1	1	10	10	0.400000000000	NULL	NULL	12	10	0.008333333333333333
+ignition device	lighter	1	1	10	10	0.400000000000	NULL	NULL	472	190	0.00021186440677966104
+ignition device	match	1	1	10	10	0.400000000000	NULL	NULL	810	261	0.0001234567901234568
+ignition device	primer	1	1	10	10	0.400000000000	NULL	NULL	288	146	0.00034722222222222224
+ignition device	cigarette lighter	1	1	10	10	0.400000000000	NULL	NULL	142	73	0.0007042253521126761
+ignition electric heater	ceramic heater	1	1	1	1	1.000000000000	NULL	NULL	27	21	0.037037037037037035
+ignition element	oil furnace	1	1	2	2	1.000000000000	NULL	NULL	20	11	0.025
+ignition element	AC hot surface ignition element	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ignition engine	petrol	1	1	2	2	NULL	NULL	NULL	978	379	0.0005112474437627812
+ignition engine	LPG	1	1	2	2	NULL	NULL	NULL	426	149	0.0011737089201877935
+ignition explosive	blasting cap	1	1	1	1	1.000000000000	NULL	NULL	29	20	0.034482758620689655
+ignition fuel	dried out grass	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignition gas	argon	1	1	1	1	NULL	NULL	NULL	2635	461	0.0003795066413662239
+ignition hazard	fire	1	1	5	5	0.500000000000	NULL	NULL	9681	2693	0.000020659022828220227
+ignition hazard	Vapor Cloud Explosions	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+ignition hazard	toxic impact	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+ignition hazard	electrical equipment	1	1	5	5	0.500000000000	NULL	NULL	211	102	0.0009478672985781991
+ignition hazard	flash fire	1	1	5	5	0.500000000000	NULL	NULL	6	6	0.03333333333333333
+ignition head	match head	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+ignition helper gas	oxygen	1	1	1	1	NULL	NULL	NULL	4210	1106	0.00023752969121140142
+ignition internal combustion engine	gasoline engine	1	1	1	1	NULL	NULL	NULL	197	135	0.005076142131979695
+ignition issue	fouled plug	1	1	7	7	0.500000000000	NULL	NULL	2	2	0.07142857142857142
+ignition issue	faulty wiring	1	1	7	7	0.500000000000	NULL	NULL	26	21	0.005494505494505494
+ignition issue	coil issue	1	1	7	7	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+ignition issue	wire	1	1	7	7	0.500000000000	NULL	NULL	2571	1007	0.00005556481635828193
+ignition issue	TFI module	1	1	7	7	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+ignition issue	coil boot issue	1	1	7	7	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+ignition issue	bad coil	1	1	7	7	0.500000000000	NULL	NULL	3	3	0.047619047619047616
+ignition item	plug wire	1	1	3	3	0.500000000000	NULL	NULL	17	15	0.0196078431372549
+ignition item	igniton coil	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ignition item	cap	1	1	3	3	0.500000000000	NULL	NULL	1772	770	0.00018811136192626034
+ignition key function	relay	1	1	1	1	NULL	NULL	NULL	910	373	0.001098901098901099
+ignition locking system manufacturer	Ford	1	1	4	4	NULL	NULL	NULL	4256	1161	0.000058740601503759395
+ignition locking system manufacturer	VW	1	1	4	4	NULL	NULL	NULL	375	148	0.0006666666666666666
+ignition locking system manufacturer	GM	1	1	4	4	NULL	NULL	NULL	1326	419	0.0001885369532428356
+ignition locking system manufacturer	Mercedes	1	1	4	4	NULL	NULL	NULL	1181	457	0.00021168501270110075
+ignition material	crumbled up paper	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+ignition material	dry grass	2	2	4	2	1.000000000000	NULL	NULL	81	35	0.012345679012345678
+ignition mean	burner nozzle	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignition mechanism	electrostatic discharge	1	1	1	1	1.000000000000	NULL	NULL	40	25	0.025
+ignition method	helitorch	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ignition method	flame	1	1	2	2	NULL	NULL	NULL	284	161	0.0017605633802816902
+ignition mitigation mean	polyurethane foam	1	1	1	1	NULL	NULL	NULL	153	104	0.006535947712418301
+ignition module	MSD 6AL-2	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignition motor	FROG 175	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignition parameter	ignition time	2	1	3	2	NULL	NULL	NULL	6	5	0.2222222222222222
+ignition parameter	ignition mass flux	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+ignition part	wire	3	3	21	18	0.250000000000	NULL	NULL	2571	1007	0.0001666944490748458
+ignition part	plug	3	3	21	18	0.250000000000	NULL	NULL	603	307	0.0007107320540156361
+ignition part	rotor	2	1	21	18	0.250000000000	NULL	NULL	258	119	0.0007382798080472499
+ignition part	coil	2	2	21	18	0.250000000000	NULL	NULL	670	312	0.00028429282160625445
+ignition part	distributor cap	1	1	21	18	0.250000000000	NULL	NULL	21	17	0.0022675736961451248
+ignition part	plug wire	1	1	21	18	0.250000000000	NULL	NULL	17	15	0.0028011204481792717
+ignition part	CDI	1	1	21	18	0.250000000000	NULL	NULL	11	11	0.004329004329004329
+ignition part	Toyota Celica ignition box	1	1	21	18	0.250000000000	NULL	NULL	1	1	0.047619047619047616
+ignition part	salt water	1	1	21	18	0.250000000000	NULL	NULL	189	105	0.00025195263290501383
+ignition part	ignition modules for Celica	1	1	21	18	0.250000000000	NULL	NULL	1	1	0.047619047619047616
+ignition part	ignition control module	1	1	21	18	0.250000000000	NULL	NULL	1	1	0.047619047619047616
+ignition part	cap	1	1	21	18	0.250000000000	NULL	NULL	1772	770	0.000026873051703751478
+ignition part	new coil	1	1	21	18	0.250000000000	NULL	NULL	3	3	0.015873015873015872
+ignition part	point	1	1	21	18	0.250000000000	NULL	NULL	1043	513	0.000045655846231109894
+ignition part	points Distributor Caps	1	1	21	18	0.250000000000	NULL	NULL	1	1	0.047619047619047616
+ignition point	kitchen appliance	1	1	1	1	NULL	NULL	NULL	287	129	0.003484320557491289
+ignition position	side	1	1	1	1	NULL	NULL	NULL	208	109	0.004807692307692308
+ignition power source	cigarette lighter	1	1	1	1	NULL	NULL	NULL	142	73	0.007042253521126761
+ignition promoter	graphene oxide	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignition property	surface temperature at ignition	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignition requirement	high-boost blown	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition requirement	fuel application	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ignition resistant additive	phosphor	1	1	3	3	NULL	NULL	NULL	108	50	0.0030864197530864196
+ignition resistant additive	halogen	1	1	3	3	NULL	NULL	NULL	731	251	0.00045599635202918376
+ignition resistant additive	sulfur	1	1	3	3	NULL	NULL	NULL	1826	518	0.00018254837531945964
+ignition source	pilot light	91	67	621	193	0.448275862068	NULL	NULL	160	33	0.08334339774557167
+ignition source	open flame	64	48	621	193	0.448275862068	NULL	NULL	105	25	0.06281726861437006
+ignition source	heat	64	34	621	193	0.448275862068	NULL	NULL	4223	1245	0.0015618785708048442
+ignition source	cigarette	31	22	621	193	0.448275862068	NULL	NULL	1789	523	0.0008650106348601986
+ignition source	flame	25	22	621	193	0.448275862068	NULL	NULL	284	161	0.003543807126170874
+ignition source	hot surface	16	15	621	193	0.448275862068	NULL	NULL	47	17	0.008771028197485181
+ignition source	smoking material	15	14	621	193	0.448275862068	NULL	NULL	40	10	0.009057971014492754
+ignition source	smoking	13	8	621	193	0.448275862068	NULL	NULL	12009	2006	0.000022661479467425732
+ignition source	match	9	9	621	193	0.448275862068	NULL	NULL	810	261	0.00016103059581320451
+ignition source	portable electric lamp	8	6	621	193	0.448275862068	NULL	NULL	8	1	0.01288244766505636
+ignition source	static electricity	7	7	621	193	0.448275862068	NULL	NULL	93	41	0.0008484407736394647
+ignition source	fire	6	5	621	193	0.448275862068	NULL	NULL	9681	2693	0.000005988122558904413
+ignition source	naked flame	6	6	621	193	0.448275862068	NULL	NULL	11	6	0.005270092226613965
+ignition source	welding	6	5	621	193	0.448275862068	NULL	NULL	2335	724	0.000024826986934798123
+ignition source	hot plate	5	3	621	193	0.448275862068	NULL	NULL	287	127	0.00014027055384425478
+ignition source	electric motor	5	5	621	193	0.448275862068	NULL	NULL	777	375	0.00005181164601454456
+ignition source	electrical heating element	5	3	621	193	0.448275862068	NULL	NULL	12	7	0.0033548040794417603
+ignition source	flare	5	5	621	193	0.448275862068	NULL	NULL	464	240	0.00008676217446832139
+ignition source	glowing ember	5	4	621	193	0.448275862068	NULL	NULL	8	4	0.005032206119162641
+ignition source	refrigerator	4	4	621	193	0.448275862068	NULL	NULL	5220	1209	0.000004935803703086728
+ignition source	running engine	4	4	621	193	0.448275862068	NULL	NULL	5	2	0.0051529790660225444
+ignition source	water heater	4	4	621	193	0.448275862068	NULL	NULL	1171	407	0.000022002472527850318
+ignition source	heater	3	3	621	193	0.448275862068	NULL	NULL	1368	526	0.000010594118145605558
+ignition source	electric arc from a light switch	3	3	621	193	0.448275862068	NULL	NULL	3	1	0.004830917874396135
+ignition source	cutting	3	2	621	193	0.448275862068	NULL	NULL	1230	512	0.000011782726522917402
+ignition source	electrical connection	3	3	621	193	0.448275862068	NULL	NULL	44	27	0.0003293807641633728
+ignition source	electrical equipment	3	3	621	193	0.448275862068	NULL	NULL	211	102	0.000068686036128855
+ignition source	lighting	3	2	621	193	0.448275862068	NULL	NULL	5506	1914	0.00000263217465005238
+ignition source	Bunsen burner	3	2	621	193	0.448275862068	NULL	NULL	59	26	0.00024563989191844754
+ignition source	motor	3	3	621	193	0.448275862068	NULL	NULL	2780	997	0.000005213220727765613
+ignition source	phone	3	3	621	193	0.448275862068	NULL	NULL	3710	1244	0.000003906402593851322
+ignition source	static arcs from plastic drop cloth	3	3	621	193	0.448275862068	NULL	NULL	3	1	0.004830917874396135
+ignition source	static electricity from plastic drop cloth	3	2	621	193	0.448275862068	NULL	NULL	3	1	0.004830917874396135
+ignition source	space heater	3	3	621	193	0.448275862068	NULL	NULL	333	147	0.00004352178265221743
+ignition source	toaster oven	2	2	621	193	0.448275862068	NULL	NULL	266	97	0.000024215127189955567
+ignition source	switch	2	2	621	193	0.448275862068	NULL	NULL	3437	1190	0.0000018740831633774165
+ignition source	using a cell phone	2	2	621	193	0.448275862068	NULL	NULL	55	16	0.00011711316059142146
+ignition source	electrostatic discharge	2	2	621	193	0.448275862068	NULL	NULL	40	25	0.00016103059581320451
+ignition source	burning	2	2	621	193	0.448275862068	NULL	NULL	1384	533	0.000004654063462809379
+ignition source	incinerator	2	2	621	193	0.448275862068	NULL	NULL	145	99	0.000044422233327780554
+ignition source	lighted match	2	2	621	193	0.448275862068	NULL	NULL	7	5	0.0009201748332183115
+ignition source	lighter	2	2	621	193	0.448275862068	NULL	NULL	472	190	0.000013646660662135975
+ignition source	machinery	2	2	621	193	0.448275862068	NULL	NULL	1729	622	0.000003725404183070087
+ignition source	laser	2	2	621	193	0.448275862068	NULL	NULL	2863	1216	0.0000022498162181376808
+ignition source	radio	2	2	621	193	0.448275862068	NULL	NULL	7280	2387	0.0000008847834934791456
+ignition source	burner	2	2	621	193	0.448275862068	NULL	NULL	169	90	0.00003811375048833243
+ignition source	frying pan	2	2	621	193	0.448275862068	NULL	NULL	141	77	0.000045682438528568656
+ignition source	electrical good	2	2	621	193	0.448275862068	NULL	NULL	149	68	0.00004322969015119584
+ignition source	electric light switch	2	2	621	193	0.448275862068	NULL	NULL	2	1	0.00322061191626409
+ignition source	electrical switch	2	2	621	193	0.448275862068	NULL	NULL	44	33	0.00014639145073927682
+ignition source	alternator AC	2	2	621	193	0.448275862068	NULL	NULL	2	1	0.00322061191626409
+ignition source	coffee pot	2	2	621	193	0.448275862068	NULL	NULL	352	148	0.000018298931342409603
+ignition source	vehicle	2	2	621	193	0.448275862068	NULL	NULL	2848	998	0.0000022616656715337713
+ignition source	stove	2	1	621	193	0.448275862068	NULL	NULL	2143	611	0.000003005704074908157
+ignition source	naked light	2	2	621	193	0.448275862068	NULL	NULL	2	1	0.00322061191626409
+ignition source	electric fence	2	2	621	193	0.448275862068	NULL	NULL	66	47	0.00009759430049285121
+ignition source	electrosurgical unit	2	2	621	193	0.448275862068	NULL	NULL	21	8	0.0003067249444061038
+ignition source	lit cigarette	2	2	621	193	0.448275862068	NULL	NULL	9	6	0.0007156915369475756
+ignition source	ahead of rectifier	2	2	621	193	0.448275862068	NULL	NULL	2	1	0.00322061191626409
+ignition source	Variac controller	2	2	621	193	0.448275862068	NULL	NULL	2	1	0.00322061191626409
+ignition source	heat lamp	2	1	621	193	0.448275862068	NULL	NULL	132	55	0.000048797150246425606
+ignition source	candle	2	2	621	193	0.448275862068	NULL	NULL	2837	1038	0.0000022704349074826157
+ignition source	cell phone	2	2	621	193	0.448275862068	NULL	NULL	8165	2060	0.0000007888822819997771
+ignition source	operation of mechanical	2	2	621	193	0.448275862068	NULL	NULL	2	1	0.00322061191626409
+ignition source	flashlight	1	1	621	193	0.448275862068	NULL	NULL	1264	435	0.0000012739762326994027
+ignition source	chemical	1	1	621	193	0.448275862068	NULL	NULL	5436	1619	0.0000002962299407895594
+ignition source	gas heater	1	1	621	193	0.448275862068	NULL	NULL	52	34	0.0000309674222717701
+ignition source	glowing object	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	glowplug	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	fuel	1	1	621	193	0.448275862068	NULL	NULL	3530	1145	0.0000004561773252498711
+ignition source	heater in the spray area	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	heat gun	1	1	621	193	0.448275862068	NULL	NULL	106	32	0.000015191565642755143
+ignition source	heating element	1	1	621	193	0.448275862068	NULL	NULL	93	54	0.00001731511782937683
+ignition source	low ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	long-stemmed wooden match	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	turbo charger	1	1	621	193	0.448275862068	NULL	NULL	36	30	0.00004473072105922347
+ignition source	temporary electrical wiring	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	sparking tool	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	sparking electric apparatus	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	alit cigarette	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	adiabatic compression	1	1	621	193	0.448275862068	NULL	NULL	3	3	0.0005367686527106817
+ignition source	faulty wiring	1	1	621	193	0.448275862068	NULL	NULL	26	21	0.0000619348445435402
+ignition source	flammable gas	1	1	621	193	0.448275862068	NULL	NULL	17	14	0.0000947238798901203
+ignition source	engine	1	1	621	193	0.448275862068	NULL	NULL	2149	764	0.0000007493280400800582
+ignition source	energized electrical equipment	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	electric equipment	1	1	621	193	0.448275862068	NULL	NULL	16	12	0.00010064412238325282
+ignition source	electrical motor	1	1	621	193	0.448275862068	NULL	NULL	281	241	0.000005730626185523292
+ignition source	electrical ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	electrical	1	1	621	193	0.448275862068	NULL	NULL	2498	865	0.0000006446380937278003
+ignition source	dust	1	1	621	193	0.448275862068	NULL	NULL	4491	1190	0.0000003585628942623124
+ignition source	opening a cab door	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	oil contamination	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	operation of electrical equipment	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	pilot lights by shutting off gas valve	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	pilot lightsshut off gas valve	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	pilot flame of a furnace	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	water heater flame	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	vehicles along carriageways	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	wildfire ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	regulation potential ignition source	1	1	621	193	0.448275862068	NULL	NULL	3	3	0.0005367686527106817
+ignition source	lit burner	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	light	1	1	621	193	0.448275862068	NULL	NULL	6435	2121	0.00000025024179613551595
+ignition source	lit candle	1	1	621	193	0.448275862068	NULL	NULL	27	15	0.00005964096141229796
+ignition source	lit match	1	1	621	193	0.448275862068	NULL	NULL	3	3	0.0005367686527106817
+ignition source	lit smoking material	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	long-neck disposable lighter	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	hot engine part	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	hand-held ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	gas pilot light	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	furnace ash	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	gas vent	1	1	621	193	0.448275862068	NULL	NULL	3	3	0.0005367686527106817
+ignition source	arc	1	1	621	193	0.448275862068	NULL	NULL	205	123	0.000007855151015278269
+ignition source	electrocautery device	1	1	621	193	0.448275862068	NULL	NULL	6	5	0.00026838432635534085
+ignition source	electronic device	1	1	621	193	0.448275862068	NULL	NULL	252	98	0.000006390103008460496
+ignition source	electrically operated fan	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	dwelling	1	1	621	193	0.448275862068	NULL	NULL	74	46	0.000021760891326108717
+ignition source	dry tinder	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	excess heat	1	1	621	193	0.448275862068	NULL	NULL	10	10	0.00016103059581320451
+ignition source	fan	1	1	621	193	0.448275862068	NULL	NULL	2666	1077	0.0000006040157382340754
+ignition source	static electricity from the storage area	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	static electricity generated in clothing by walking	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	starting equipment	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	temporary heating device	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	suitable ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	cooking equipment	1	1	621	193	0.448275862068	NULL	NULL	58	35	0.000027763895829862847
+ignition source	clothes dryer	1	1	621	193	0.448275862068	NULL	NULL	385	128	0.000004182612878265052
+ignition source	resistance coil	1	1	621	193	0.448275862068	NULL	NULL	6	5	0.00026838432635534085
+ignition source	welder	1	1	621	193	0.448275862068	NULL	NULL	355	163	0.0000045360731214987185
+ignition source	welding arc	1	1	621	193	0.448275862068	NULL	NULL	7	5	0.00023004370830457787
+ignition source	water heater pilot	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	voltage	1	1	621	193	0.448275862068	NULL	NULL	1211	512	0.0000013297324179455369
+ignition source	vehicles on Tennessee Valley Road	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	pager	1	1	621	193	0.448275862068	NULL	NULL	1516	404	0.0000010622070963931695
+ignition source	natural ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	mobile telephone	1	1	621	193	0.448275862068	NULL	NULL	737	277	0.0000021849470259593557
+ignition source	spark-producing equipment	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	toaster	1	1	621	193	0.448275862068	NULL	NULL	1444	433	0.0000011151703311163747
+ignition source	stove flare-up	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	flame heater	1	1	621	193	0.448275862068	NULL	NULL	3	2	0.0005367686527106817
+ignition source	excessive heat	1	1	621	193	0.448275862068	NULL	NULL	101	62	0.00001594362334784203
+ignition source	electrical short circuit	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	electric source	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	electric switch	1	1	621	193	0.448275862068	NULL	NULL	21	17	0.00007668123610152595
+ignition source	friction between moving parts of nearby machine	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	burning ember	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	battery	1	1	621	193	0.448275862068	NULL	NULL	5492	1552	0.0000002932093878608968
+ignition source	lit zippo lighter	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	nearby vehicle	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	open flames from Bunsen burner	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	pilot lites	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	portable fire	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	smoldering cigarette	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	leaking header	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	lighters out of reach of child	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	lighting a match	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	hot work	1	1	621	193	0.448275862068	NULL	NULL	34	17	0.00004736193994506015
+ignition source	hot exhaust system of a vehicle parked in dry grass	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	hot ash	1	1	621	193	0.448275862068	NULL	NULL	10	7	0.00016103059581320451
+ignition source	high heat	1	1	621	193	0.448275862068	NULL	NULL	65	38	0.00002477393781741608
+ignition source	butane lighters from pocket	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	glowing carbon	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	furnace	1	1	621	193	0.448275862068	NULL	NULL	994	392	0.0000016200261148209708
+ignition source	flowing ember	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	car engine	1	1	621	193	0.448275862068	NULL	NULL	50	34	0.0000322061191626409
+ignition source	electrical device	1	1	621	193	0.448275862068	NULL	NULL	29	20	0.000055527791659725695
+ignition source	electric discharge	1	1	621	193	0.448275862068	NULL	NULL	5	4	0.00032206119162640903
+ignition source	electrical power	1	1	621	193	0.448275862068	NULL	NULL	185	97	0.000008704356530443488
+ignition source	electricity	1	1	621	193	0.448275862068	NULL	NULL	7822	1808	0.00000020586882614830544
+ignition source	electrical appliance	1	1	621	193	0.448275862068	NULL	NULL	196	110	0.000008215846725163496
+ignition source	cutting torch	1	1	621	193	0.448275862068	NULL	NULL	40	23	0.00004025764895330113
+ignition source	fire source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	flame jet ignition	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	using the phone	1	1	621	193	0.448275862068	NULL	NULL	12	11	0.00013419216317767042
+ignition source	uncovered light bulb	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	sources of electrical	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	static electricity generated in clothing while walking	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	static discharge	1	1	621	193	0.448275862068	NULL	NULL	7	5	0.00023004370830457787
+ignition source	static charge	1	1	621	193	0.448275862068	NULL	NULL	7	5	0.00023004370830457787
+ignition source	static arcs from plastic dropcloths	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	static	1	1	621	193	0.448275862068	NULL	NULL	197	117	0.000008174141919452005
+ignition source	steam bath	1	1	621	193	0.448275862068	NULL	NULL	125	81	0.00001288244766505636
+ignition source	metal gasket	1	1	621	193	0.448275862068	NULL	NULL	161	154	0.000010001900361068604
+ignition source	power cable	1	1	621	193	0.448275862068	NULL	NULL	563	437	0.0000028602237266999025
+ignition source	power supply	1	1	621	193	0.448275862068	NULL	NULL	1150	490	0.0000014002660505496044
+ignition source	pyrotechnic	1	1	621	193	0.448275862068	NULL	NULL	4	4	0.00040257648953301127
+ignition source	portable electrical lamp	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	operating electrical switch	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	site ignition source	1	1	621	193	0.448275862068	NULL	NULL	2	2	0.0008051529790660225
+ignition source	running motor	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	running electrical appliance	1	1	621	193	0.448275862068	NULL	NULL	1	1	0.001610305958132045
+ignition source	welding torch	1	1	621	193	0.448275862068	NULL	NULL	35	31	0.000046008741660915574
+ignition source item	open flame device	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+ignition source item	hot plate	1	1	3	3	NULL	NULL	NULL	287	127	0.0011614401858304297
+ignition source item	controller	1	1	3	3	NULL	NULL	NULL	877	311	0.0003800836183960471
+ignition strategy	HEI	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+ignition switch	pilot light	1	1	1	1	1.000000000000	NULL	NULL	160	33	0.00625
+ignition system	used with internal combustion engine	1	1	13	14	0.500000000000	NULL	NULL	1	1	0.07692307692307693
+ignition system	advanced diesel ignition system	1	1	13	14	0.500000000000	NULL	NULL	2	2	0.038461538461538464
+ignition system	MSD	1	1	13	14	0.500000000000	NULL	NULL	71	51	0.0010834236186348864
+ignition system	quality aftermarket ignition system	1	1	13	14	0.500000000000	NULL	NULL	3	3	0.025641025641025644
+ignition system	piezoelectric unit ignition system known per se	1	1	13	14	0.500000000000	NULL	NULL	1	1	0.07692307692307693
+ignition system	Ford EDIS	1	1	13	14	0.500000000000	NULL	NULL	1	1	0.07692307692307693
+ignition system	coil	1	1	13	14	0.500000000000	NULL	NULL	670	312	0.0001148105625717566
+ignition system	distributor cap	1	1	13	14	0.500000000000	NULL	NULL	21	17	0.003663003663003663
+ignition system	aftermarket ignition system	1	1	13	14	0.500000000000	NULL	NULL	3	3	0.025641025641025644
+ignition system	distributorless ignition system	1	1	13	14	0.500000000000	NULL	NULL	2	2	0.038461538461538464
+ignition system	pilot light	1	1	13	14	0.500000000000	NULL	NULL	160	33	0.0004807692307692308
+ignition system	after-market high performance ignition system	1	1	13	14	0.500000000000	NULL	NULL	2	2	0.038461538461538464
+ignition system	HKS DLI	1	1	13	14	0.500000000000	NULL	NULL	2	2	0.038461538461538464
+ignition system component	coil	4	2	14	7	0.125000000000	NULL	NULL	670	312	0.0017057569296375266
+ignition system component	cable	3	1	14	7	0.125000000000	NULL	NULL	3854	1434	0.00016680257987990212
+ignition system component	connector	3	1	14	7	0.125000000000	NULL	NULL	893	364	0.0007198848184290513
+ignition system component	fuel line	1	1	14	7	0.125000000000	NULL	NULL	81	45	0.0008818342151675485
+ignition system component	fuel pump	1	1	14	7	0.125000000000	NULL	NULL	282	157	0.0002532928064842958
+ignition system component	ignition coil	1	1	14	7	0.125000000000	NULL	NULL	69	46	0.0010351966873706003
+ignition system component	fuel tank	1	1	14	7	0.125000000000	NULL	NULL	315	160	0.00022675736961451246
+ignition system defect	switch	1	1	1	1	0.500000000000	NULL	NULL	3437	1190	0.0002909514111143439
+ignition system part	coil	1	1	1	1	NULL	NULL	NULL	670	312	0.0014925373134328358
+ignition system variable	gap	1	1	3	3	NULL	NULL	NULL	1911	667	0.00017442874585731728
+ignition system variable	plug range	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ignition system variable	ignition type	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ignition technique	aerial ignition by helicopter	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ignition technique	backing fire down slope	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ignition technique	backing fires downslope	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ignition technique	strip firing pattern	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ignition timing issue	improperly set initial timing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition timing issue	missing vacuum advance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignition timing specification	7 degrees BTDC	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignition upgrade	NGK plug	1	1	1	2	NULL	NULL	NULL	1	1	1
+ignition voltage source	ignition transformer	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+ignition wire	spiral core ignition wire	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignition-enhancing-after-market capacitor discharge unit	MSD	1	1	1	1	NULL	NULL	NULL	71	51	0.014084507042253521
+ignition-resistant class A roof covering	concrete tile	2	2	2	1	1.000000000000	NULL	NULL	56	25	0.03571428571428571
+ignition-resistant construction feature	noncombustible roof	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignition-resistant plant material	well-maintained lawn	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ignition-resistant plant material	irrigated	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+ignitor	158 of FIG	3	1	4	2	0.333333333333	NULL	NULL	3	1	0.75
+ignitor	hot surface ignitor	1	1	4	2	0.333333333333	NULL	NULL	1	1	0.25
+ignitor composition	mixtures of potassium perchlorate	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ignitor composition	ammonium perchlorate	1	1	2	2	1.000000000000	NULL	NULL	38	23	0.013157894736842105
+ignobjectsinthe workpiece	wire	1	1	1	1	NULL	NULL	NULL	2571	1007	0.00038895371450797355
+ignoble creator	epitome of a real bastard	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignoble creator	Spanish writer Francisco de Quevedo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ignoble metal	Ni	1	1	1	1	NULL	NULL	NULL	769	254	0.0013003901170351106
+ignoble nickname	Bathroom Dan	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignoble reason	envy	2	2	4	2	NULL	NULL	NULL	604	237	0.0016556291390728477
+ignoble reason	greed	2	2	4	2	NULL	NULL	NULL	1082	419	0.0009242144177449168
+ignominious blemished record	bankruptcy	1	1	6	6	0.166666666666	NULL	NULL	2150	562	0.00007751937984496123
+ignominious blemished record	default	1	1	6	6	0.166666666666	NULL	NULL	756	193	0.0002204585537918871
+ignominious blemished record	foreclosure	1	1	6	6	0.166666666666	NULL	NULL	1096	336	0.00015206812652068127
+ignominious blemished record	insolvency	1	1	6	6	0.166666666666	NULL	NULL	710	145	0.00023474178403755868
+ignominious blemished record	deferred payment	1	1	6	6	0.166666666666	NULL	NULL	20	18	0.008333333333333333
+ignominious blemished record	arrears	1	1	6	6	0.166666666666	NULL	NULL	879	159	0.00018960940462646946
+ignominious case	recent trial in Dover	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignominious character trait	greed	1	1	3	3	0.333333333333	NULL	NULL	1082	419	0.0003080714725816389
+ignominious character trait	dishonesty	1	1	3	3	0.333333333333	NULL	NULL	130	75	0.002564102564102564
+ignominious character trait	unfaithfulness	1	1	3	3	0.333333333333	NULL	NULL	12	12	0.027777777777777776
+ignominious credit holder	arrears	1	1	6	6	NULL	NULL	NULL	879	159	0.00018960940462646946
+ignominious credit holder	CCJ	1	1	6	6	NULL	NULL	NULL	56	21	0.002976190476190476
+ignominious credit holder	insolvency	1	1	6	6	NULL	NULL	NULL	710	145	0.00023474178403755868
+ignominious credit holder	foreclosure	1	1	6	6	NULL	NULL	NULL	1096	336	0.00015206812652068127
+ignominious credit holder	default	1	1	6	6	NULL	NULL	NULL	756	193	0.0002204585537918871
+ignominious credit holder	bankruptcy	1	1	6	6	NULL	NULL	NULL	2150	562	0.00007751937984496123
+ignominious standing	bankruptcy	2	1	12	6	0.166666666666	NULL	NULL	2150	562	0.00015503875968992246
+ignominious standing	default	2	1	12	6	0.166666666666	NULL	NULL	756	193	0.0004409171075837742
+ignominious standing	foreclosure	2	1	12	6	0.166666666666	NULL	NULL	1096	336	0.00030413625304136254
+ignominious standing	insolvency	2	1	12	6	0.166666666666	NULL	NULL	710	145	0.00046948356807511736
+ignominious standing	CCJ	2	1	12	6	0.166666666666	NULL	NULL	56	21	0.005952380952380952
+ignominious standing	arrears	2	1	12	6	0.166666666666	NULL	NULL	879	159	0.0003792188092529389
+Ignorable text	comment	1	1	2	2	NULL	NULL	NULL	876	391	0.0005707762557077625
+Ignorable text	lines containing only whitespace	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ignorables	Zero-Width Joiner	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorami	Sotomayor	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+ignoramus	Christian literalists	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ignoramus	Francis Frost in Stokoe's comboxes	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ignoramus	wing economic ignoramus	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Ignoramusii	Manto Msimang Tshabalala	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorance	type of dribble spouted by the Creationists	1	1	2	2	0.400000000000	NULL	NULL	1	1	0.5
+ignorance	primitive explanations for lightning	1	1	2	2	0.400000000000	NULL	NULL	1	1	0.5
+ignorance powerful and hate group	Moral Majority influential	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorance-based strategy	recognition heuristic	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ignorance-causing element	incapability of the mind	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant and shortsighted policy	Indian legislation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant Australian ex-politica	Pauline Hanson	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+ignorant author	Helle Klein	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant bigot	Kerry Diotte	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant black worker	cashier clerk	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignorant bloviators	Hannity	1	1	1	1	NULL	NULL	NULL	75	54	0.013333333333333334
+ignorant calumny	propagated by benighted monks in small provincial city	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ignorant celebrity	Gisele Budchen	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+ignorant celebrity	Carlos Santana	1	1	4	4	NULL	NULL	NULL	164	70	0.001524390243902439
+ignorant celebrity	Johnny Depp	1	1	4	4	NULL	NULL	NULL	292	98	0.0008561643835616438
+ignorant celebrity	Angelina Jolie	1	1	4	4	NULL	NULL	NULL	752	206	0.0003324468085106383
+ignorant change	moving Patterson from second	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant comment	hangings on 17th street	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ignorant company	HBO	1	1	1	1	NULL	NULL	NULL	827	265	0.0012091898428053204
+ignorant conservative counterpart	Jon Husted	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant eco-zealots	Jubilee	1	1	1	1	NULL	NULL	NULL	50	37	0.02
+ignorant fool	loudmothed money-grubber Sarah Palin	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ignorant idiot	Mayor Street	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+ignorant intellectual celebs	PhD prof	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant liberal	Keith Olberhack	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant nation	Western Civilised nation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant observer	Jacksonville management	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant ontario liberal	Jim Bradley	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+ignorant person	liberal	1	1	11	11	0.250000000000	NULL	NULL	46	21	0.001976284584980237
+ignorant person	Nikhil	1	1	11	11	0.250000000000	NULL	NULL	4	4	0.022727272727272728
+ignorant person	James Dobson	1	1	11	11	0.250000000000	NULL	NULL	92	54	0.0009881422924901185
+ignorant person	Kravitz	1	1	11	11	0.250000000000	NULL	NULL	4	4	0.022727272727272728
+ignorant person	willfully ignorant person	1	1	11	11	0.250000000000	NULL	NULL	2	2	0.045454545454545456
+ignorant person	Jerry Brewer	1	1	11	11	0.250000000000	NULL	NULL	1	1	0.09090909090909091
+ignorant person	petitioner in positions of power	1	1	11	11	0.250000000000	NULL	NULL	1	1	0.09090909090909091
+ignorant person	Russel Crowe	1	1	11	11	0.250000000000	NULL	NULL	7	7	0.012987012987012988
+ignorant person	witchcraft	1	1	11	11	0.250000000000	NULL	NULL	184	98	0.0004940711462450593
+ignorant person	uninformed ignorant person	1	1	11	11	0.250000000000	NULL	NULL	2	2	0.045454545454545456
+ignorant person	spammy	1	1	11	11	0.250000000000	NULL	NULL	2	2	0.045454545454545456
+ignorant post	Junkman	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ignorant racial comment	light skinned	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignorant raving	Mr. Olbermann	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant reality TV show	Flaor Flav	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ignorant reality TV show	Bad Girls	1	1	2	2	1.000000000000	NULL	NULL	10	10	0.05
+ignorant republican	Bachmann	1	1	3	3	0.666666666666	NULL	NULL	98	45	0.003401360544217687
+ignorant republican	McConnell	1	1	3	3	0.666666666666	NULL	NULL	26	17	0.01282051282051282
+ignorant republican	Boehner	1	1	3	3	0.666666666666	NULL	NULL	21	12	0.015873015873015872
+ignorant royal subject	Lord Muck Guinness	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignorant sportswriter	Skip Bayless	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignorant, uncivilized, backwater country	U.K	1	1	1	1	NULL	NULL	NULL	368	82	0.002717391304347826
+ignorant, violent and fanatical group	Salafists	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+ignorant, violent and fanatical group	Wahhabis	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+ignored law	Regulatory Flexibility Act	1	1	1	2	NULL	NULL	NULL	7	5	0.14285714285714285
+ignorediabatic source	evaporation	1	1	1	1	NULL	NULL	NULL	722	319	0.0013850415512465374
+ignoring advance	cell phone	1	1	1	1	NULL	NULL	NULL	8165	2060	0.0001224739742804654
+ignoring age-appropriate preventive exam	pap smear	1	1	1	3	NULL	NULL	NULL	380	169	0.002631578947368421
+ignoring ailment	diabetes	1	1	4	4	0.250000000000	NULL	NULL	23990	3013	0.000010421008753647352
+ignoring ailment	severe asthma	1	1	4	4	0.250000000000	NULL	NULL	47	33	0.005319148936170213
+ignoring ailment	arthritis	1	1	4	4	0.250000000000	NULL	NULL	6085	1050	0.00004108463434675431
+ignoring ailment	heart condition	1	1	4	4	0.250000000000	NULL	NULL	280	99	0.0008928571428571428
+ignoring assumption	independence of observation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignoring defect	blindness	1	1	1	1	NULL	NULL	NULL	999	346	0.001001001001001001
+ignoring degenerate curve	straight line	1	1	1	1	NULL	NULL	NULL	125	94	0.008
+ignoring device	multilayer switch	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ignoring distraction	emptying the cat litter	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignoring electromagnetic disturbance	lightning	1	1	1	1	NULL	NULL	NULL	900	394	0.0011111111111111111
+ignoring extreme	latest position taken by New Zealand	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignoring franchise	Okami	1	1	3	3	1.000000000000	NULL	NULL	46	23	0.007246376811594202
+ignoring franchise	Viewtiful Joe	1	1	3	3	1.000000000000	NULL	NULL	30	16	0.01111111111111111
+ignoring franchise	MegaMan Legends	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+ignoring graphical version	default GNU Emacs under X	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignoring in-kind donation	food aid	1	1	1	1	NULL	NULL	NULL	64	41	0.015625
+ignoring mechanical device	astrolabe	1	1	1	1	1.000000000000	NULL	NULL	52	39	0.019230769230769232
+Ignoring micronutrients	copper	1	1	1	1	NULL	NULL	NULL	15607	2840	0.00006407381303261357
+ignoring non-country specific top-level domain	net	1	1	1	1	NULL	NULL	NULL	892	371	0.0011210762331838565
+ignoring operation	alpha testing	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ignoring option	television	1	1	2	2	NULL	NULL	NULL	8405	2451	0.0000594883997620464
+ignoring option	police car	1	1	2	2	NULL	NULL	NULL	235	69	0.002127659574468085
+ignoring pest	carpenter ant	1	1	1	1	NULL	NULL	NULL	162	44	0.006172839506172839
+ignoring place	Heineken Italia	2	1	2	1	NULL	NULL	NULL	2	1	1
+ignoring project-related file	binary	1	1	1	1	NULL	NULL	NULL	145	93	0.006896551724137931
+ignoring proven treatment option	Rogaine	1	1	1	1	NULL	NULL	NULL	271	100	0.0036900369003690036
+ignoring seemingly small annoyance	hairs in the plughole	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignoring shortcoming	lack of flash support	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+Ignoring stuff	rape	1	1	1	1	NULL	NULL	NULL	4855	976	0.00020597322348094748
+ignoring taboo	restrictions concerning sacred site	1	1	1	1	NULL	NULL	NULL	1	1	1
+ignoring vehicle-based game	Battlezone	1	1	1	1	1.000000000000	NULL	NULL	35	11	0.02857142857142857
+ignoring volume product	SME	1	1	1	1	1.000000000000	NULL	NULL	29	22	0.034482758620689655
+IGNOU's Library eResources	SpringerLINK	1	1	4	4	0.285714285714	NULL	NULL	7	6	0.03571428571428571
+IGNOU's Library eResources	Emerald Insight	1	1	4	4	0.285714285714	NULL	NULL	5	5	0.05
+IGNOU's Library eResources	J-Gate	1	1	4	4	0.285714285714	NULL	NULL	1	1	0.25
+IGNOU's Library eResources	JSTOR	1	1	4	4	0.285714285714	NULL	NULL	167	82	0.0014970059880239522
+igns	traffic signal	1	1	4	4	0.250000000000	NULL	NULL	182	110	0.0013736263736263737
+igns	fever	1	1	4	4	0.250000000000	NULL	NULL	6376	1113	0.00003920953575909661
+igns	vomiting	1	1	4	4	0.250000000000	NULL	NULL	5583	1025	0.00004477879276374709
+igns	product logo	1	1	4	4	0.250000000000	NULL	NULL	10	9	0.025
+igntion system	dist cap cracked	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igntion system	old plug wires shorting	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igoogle gadget	Twitter	1	1	1	1	NULL	NULL	NULL	16193	2280	0.00006175507935527697
+igor control type	ValDisplay control	1	1	1	1	NULL	NULL	NULL	1	1	1
+igorot group	Kalinga	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+IGOs	World Bank	6	6	12	5	0.187500000000	NULL	NULL	5405	899	0.0005550416281221092
+IGOs	North Atlantic Treaty Organization	3	3	12	5	0.187500000000	NULL	NULL	66	35	0.011363636363636364
+IGOs	Central European Initiative	1	1	12	5	0.187500000000	NULL	NULL	8	7	0.010416666666666666
+IGOs	Council of Europe	1	1	12	5	0.187500000000	NULL	NULL	231	71	0.00036075036075036075
+IGOs	Tripartite Commission for the Restitution of Monetary Gold	1	1	12	5	0.187500000000	NULL	NULL	1	1	0.08333333333333333
+IGP	OSPF	9	7	15	4	1.000000000000	NULL	NULL	471	84	0.011464968152866241
+IGP	EIGRP	4	4	15	4	1.000000000000	NULL	NULL	117	23	0.009116809116809116
+IGP	OSPF between the router	1	1	15	4	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+IGP	EIGRP between DMVPN router	1	0	15	4	1.000000000000	NULL	NULL	1	1	0.06666666666666667
+IGP network	OSPF	1	1	1	1	NULL	NULL	NULL	471	84	0.0021231422505307855
+IGP protocol	conventional link-state protocol	5	4	10	5	0.500000000000	NULL	NULL	5	1	0.5
+IGP protocol	OSPF	2	2	10	5	0.500000000000	NULL	NULL	471	84	0.0008492569002123143
+IGP protocol	EIGRP	1	0	10	5	0.500000000000	NULL	NULL	117	23	0.0008547008547008547
+IGP protocol	well-known IS-IS	1	1	10	5	0.500000000000	NULL	NULL	1	1	0.1
+IGP protocol	well-known IS-IS protocol	1	1	10	5	0.500000000000	NULL	NULL	1	1	0.1
+IGP shortcut link-state protocol	IS-IS	1	1	2	2	0.500000000000	NULL	NULL	98	24	0.00510204081632653
+IGP shortcut link-state protocol	OSPF	1	1	2	2	0.500000000000	NULL	NULL	471	84	0.0010615711252653928
+IGPs	OSPF	8	7	18	8	1.000000000000	NULL	NULL	471	84	0.00754895022410946
+IGPs	IS-IS	3	3	18	8	1.000000000000	NULL	NULL	98	24	0.00510204081632653
+IGPs	Routing Information Protocol	2	2	18	8	1.000000000000	NULL	NULL	68	13	0.00326797385620915
+igps	introduction link state igps	1	1	18	8	1.000000000000	NULL	NULL	1	1	0.05555555555555555
+IGPs	EIGRP	1	1	18	8	1.000000000000	NULL	NULL	117	23	0.00047483380816714147
+igps	bgp path selection igps	1	1	18	8	1.000000000000	NULL	NULL	1	1	0.05555555555555555
+IGPs	X3100	1	1	18	8	1.000000000000	NULL	NULL	2	2	0.027777777777777776
+IGPs	X4500	1	1	18	8	1.000000000000	NULL	NULL	1	1	0.05555555555555555
+IGR	Gentrol IGR	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IGR	methoprene	1	1	3	3	1.000000000000	NULL	NULL	54	24	0.006172839506172839
+IGR	Raid Egg Stoppers	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IGR forum	District Co-ordinating Forums	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGR product	methoprene	1	1	1	1	0.666666666666	NULL	NULL	54	24	0.018518518518518517
+IGRA TB test	T-SPOT.TB	1	1	1	1	NULL	NULL	NULL	10	4	0.1
+igrants	Hmong	1	1	1	1	NULL	NULL	NULL	142	67	0.007042253521126761
+IGRAs	T-SPOT.TB test	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+igredients	Country Bobs	1	1	1	1	0.333333333333	NULL	NULL	1	1	1
+igrinya various sem antic role	beneficiary	1	1	1	1	NULL	NULL	NULL	65	39	0.015384615384615385
+IGRs	methoprene	5	5	6	2	0.750000000000	NULL	NULL	54	24	0.0771604938271605
+igrs	topical or oral igrs	1	1	6	2	0.750000000000	NULL	NULL	1	1	0.16666666666666666
+IGRT application	prostate cancer treatment	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+IGRT device	ultrasound	1	1	1	1	NULL	NULL	NULL	4264	1094	0.00023452157598499062
+IGRT technology	megavoltage X-ray imaging	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IGRT technology	kilo- voltage	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+IGRT technology	cone beam CT	1	1	3	3	1.000000000000	NULL	NULL	12	11	0.027777777777777776
+IGs	community service IG	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IGs	Corporation for National	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+IGS final combined product	precise orbit	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+IGS product	precise orbit	2	2	8	6	NULL	NULL	NULL	4	3	0.125
+IGS product	station position	2	2	8	6	NULL	NULL	NULL	2	1	0.25
+IGS product	atmospheric model	1	1	8	6	NULL	NULL	NULL	3	3	0.041666666666666664
+igs product	precise igs product	1	1	8	6	NULL	NULL	NULL	2	2	0.0625
+IGS product	GPS orbit	1	1	8	6	NULL	NULL	NULL	1	1	0.125
+IGS product	ephemerides	1	1	8	6	NULL	NULL	NULL	3	3	0.041666666666666664
+IGS robotics laboratory initiative	Velodyne LIDAR project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IGS robotics laboratory initiative	Segway Robotic Control project	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+igsf family protein	CD152	1	1	1	1	1.000000000000	NULL	NULL	4	3	0.25
+IGT alloy structure	hot stage blade	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGT game	Double Diamond	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+IGT group	Global Utility Connections	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGT penny slot	Wheel of Fortune	1	1	1	1	NULL	NULL	NULL	138	70	0.007246376811594203
+IGT slot	Triple Fortune Dragon	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGT slot game	Star Trek	1	1	3	3	NULL	NULL	NULL	377	178	0.0008841732979664014
+IGT slot game	Cleopatra II	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+IGT slot game	Rainbow Riches Win Big Shindig	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+igttoring complicating effect	spin	1	1	1	1	NULL	NULL	NULL	299	144	0.0033444816053511705
+iguana	Caribbean rock iguana	2	1	6	5	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+iguana	green iguana	1	1	6	5	1.000000000000	NULL	NULL	71	31	0.002347417840375587
+iguana	desert iguana	1	1	6	5	1.000000000000	NULL	NULL	8	5	0.020833333333333332
+iguana	fiji iguana	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+iguana	brown iguana	1	1	6	5	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+iguana favorite	melon	1	1	5	5	NULL	NULL	NULL	1844	542	0.00010845986984815619
+iguana favorite	orchid	1	1	5	5	NULL	NULL	NULL	1177	438	0.00016992353440951574
+iguana favorite	impatiens	1	1	5	5	NULL	NULL	NULL	476	157	0.0004201680672268908
+iguana favorite	garden green	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+iguana favorite	hibiscus	1	1	5	5	NULL	NULL	NULL	518	236	0.0003861003861003861
+iguana product	egg	1	1	2	2	NULL	NULL	NULL	9254	1960	0.00005403068943159715
+iguana product	meat	1	1	2	2	NULL	NULL	NULL	9410	1886	0.00005313496280552604
+iguanian lizard	iguana	1	1	2	2	NULL	NULL	NULL	363	100	0.0013774104683195593
+iguanian lizard	spiny-tailed agamid	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iguanian lizard species	Holbrookia maculata	1	1	1	1	NULL	NULL	NULL	1	1	1
+iguanid lizard	Anolis carolinensis	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+iguanid species	Sceloporus magister	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iguanid species	Urosaurus graciosus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+iguanodontians	Dryosaurus	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iguousconcepts	meeting time	1	1	2	2	0.333333333333	NULL	NULL	70	35	0.007142857142857143
+iguousconcepts	phone number	1	1	2	2	0.333333333333	NULL	NULL	5347	814	0.0000935103796521414
+igurewlan component	access point	1	1	1	1	NULL	NULL	NULL	253	107	0.003952569169960474
+IGW emissioninbaroclinic jet	found near the atmospheric tropopause	1	1	1	1	NULL	NULL	NULL	1	1	1
+IGW source	body force	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+IGW source	jet stream	1	1	2	2	1.000000000000	NULL	NULL	29	23	0.017241379310344827

@@ -1,0 +1,48 @@
+NJ behavioral health service	Capitol Care	1	1	1	1	NULL	NULL	NULL	1	1	1
+NJ BMW dealer	BMW of Morristown offer safety tip	2	2	2	1	NULL	NULL	NULL	2	1	1
+NJ city	Newark	1	1	1	1	NULL	NULL	NULL	366	121	0.00273224043715847
+NJ county	Morris	1	1	2	2	NULL	NULL	NULL	122	59	0.004098360655737705
+NJ county	Burlington	1	1	2	2	NULL	NULL	NULL	183	64	0.00273224043715847
+NJ destination	Satin Dolls aka Bada Bing post-sopranos	1	1	1	1	NULL	NULL	NULL	1	1	1
+NJ family law attorney	New Jersey divorce attorney	1	1	1	1	NULL	NULL	NULL	1	1	1
+NJ internet marketing company	Peerless Media Group	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+NJ landscaper	Lipinski	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NJ medium buying agency	Mary Pomerantz Advertising	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+NJ pest control pest	rat	1	1	1	1	NULL	NULL	NULL	3271	707	0.0003057169061449098
+NJ race	September Splash mentioned by Swimmy	1	1	1	1	NULL	NULL	NULL	1	1	1
+NJ recruitment advertising agency	Mary Pomerantz Advertising	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+NJ school	Rutgers	1	1	1	1	NULL	NULL	NULL	184	57	0.005434782608695652
+NJ shore town	Wildwood	1	1	1	1	NULL	NULL	NULL	34	23	0.029411764705882353
+NJ temporary staffing agency	TPG Staffing	1	1	1	1	NULL	NULL	NULL	1	1	1
+NJ terminal	Kearny	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+NJ thoroughfare	Garden State Parkway	1	1	2	2	1.000000000000	NULL	NULL	21	14	0.023809523809523808
+NJ thoroughfare	I-195	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+nj tiny town	South Orange	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+NJ town	Parsippany	1	1	1	1	1.000000000000	NULL	NULL	12	7	0.08333333333333333
+NJ TRANSIT improvement project	Midtown Direct	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+NJ TRANSIT improvement project	Montclair Connection	2	2	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+NJ TRANSIT improvement project	Secaucus Junction	2	2	6	3	NULL	NULL	NULL	3	2	0.2222222222222222
+NJ web design company	Peerless Media Group	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+NJ-DEP datum layer	stream	1	1	1	1	NULL	NULL	NULL	1227	476	0.0008149959250203749
+NJAC school	Kean	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+NJAC school	Rowan	1	1	2	2	NULL	NULL	NULL	171	81	0.0029239766081871343
+NJB's	Elliot Spitzer	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+NJC job	DCW	2	1	2	1	NULL	NULL	NULL	4	3	0.5
+njcate's student-centered project	RoboRocks high school robotics competition	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+njcate's student-centered project	TechXploration summer camp for teen girl	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NJI partner	Workforce Investment Boards	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+NJIT-specific information	downloadable form	1	1	1	1	1.000000000000	NULL	NULL	16	13	0.0625
+njoy feature	detailed fireplace mantle	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+njoy feature	high ceiling	1	1	5	5	0.500000000000	NULL	NULL	270	117	0.0007407407407407408
+njoy feature	banister	1	1	5	5	0.500000000000	NULL	NULL	32	23	0.00625
+njoy feature	gorgeous skylight	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+njoy feature	hard wood floor	1	1	5	5	0.500000000000	NULL	NULL	21	16	0.009523809523809525
+njoy specialty	latte	1	1	5	5	0.250000000000	NULL	NULL	217	126	0.0009216589861751152
+njoy specialty	espresso	1	1	5	5	0.250000000000	NULL	NULL	290	160	0.0006896551724137932
+njoy specialty	macchiato	1	1	5	5	0.250000000000	NULL	NULL	13	12	0.015384615384615385
+njoy specialty	cappuccino	1	1	5	5	0.250000000000	NULL	NULL	353	168	0.00056657223796034
+njoy specialty	coffee creme	1	1	5	5	0.250000000000	NULL	NULL	3	3	0.06666666666666667
+NJP	Article 15s	1	1	1	1	NULL	NULL	NULL	1	1	1
+njsba-sponsored program	Alliance for Competitive Energy Services	1	1	1	1	NULL	NULL	NULL	1	1	1
+NJT vehicle	bus	1	1	1	1	NULL	NULL	NULL	3095	928	0.00032310177705977385
+njury condition	leading disability	1	1	1	1	NULL	NULL	NULL	1	1	1

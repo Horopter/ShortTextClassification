@@ -1,0 +1,45 @@
+KB article-type information	resolution	1	1	1	1	NULL	NULL	NULL	1240	468	0.0008064516129032258
+kb message	gastric proton pump alpha chain message	1	1	1	1	NULL	NULL	NULL	1	1	1
+KB model	Design	1	1	1	1	NULL	NULL	NULL	4272	1433	0.00023408239700374532
+KB movement	swing	1	1	2	2	NULL	NULL	NULL	961	415	0.0005202913631633715
+KB movement	high pull	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+KB world	Pluto	1	1	1	1	NULL	NULL	NULL	112	55	0.008928571428571428
+kb's amulet	Khun Paen Pluk Hong Prai	1	1	1	1	NULL	NULL	NULL	1	1	1
+KBAs	Lindi Creek	1	1	1	1	NULL	NULL	NULL	1	1	1
+KBC consulting service	unit optimisation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KBC consulting service	assistance with planning	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+KBC consulting service	optimisation assistance	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KBC consulting service	planning	1	1	4	4	NULL	NULL	NULL	3605	1345	0.00006934812760055478
+KBG cultivars	Merion	1	1	1	1	1.000000000000	NULL	NULL	14	14	0.07142857142857142
+KBOs	Quaoar	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+KBOs	Ixion	1	1	2	2	1.000000000000	NULL	NULL	12	9	0.041666666666666664
+kbps modem	TravelPorte FAST	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kbps modem	DeskPorte FAST	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kbrhas many desirable property	good infrared transmittance	1	1	1	1	NULL	NULL	NULL	1	1	1
+KBS award	Best TV Actor of the Year	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KBS award	Best New Actor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KBS award	Best Golden Actor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KBS cleaning store	Target	1	1	3	3	NULL	NULL	NULL	5227	1096	0.00006377144314775843
+KBS cleaning store	K-Mart	1	1	3	3	NULL	NULL	NULL	79	41	0.004219409282700422
+KBS cleaning store	Macy's	1	1	3	3	NULL	NULL	NULL	1817	404	0.000183452577508714
+KBS domain construct	dynamic role	1	1	6	6	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+KBS domain construct	task method	1	1	6	6	0.333333333333	NULL	NULL	3	3	0.05555555555555555
+KBS domain construct	static role	1	1	6	6	0.333333333333	NULL	NULL	2	2	0.08333333333333333
+KBS domain construct	transfer function	1	1	6	6	0.333333333333	NULL	NULL	45	35	0.0037037037037037034
+KBS domain construct	inference	1	1	6	6	0.333333333333	NULL	NULL	119	71	0.0014005602240896359
+KBS domain construct	concept	1	1	6	6	0.333333333333	NULL	NULL	257	161	0.0006485084306095979
+KBS drama genre	historical drama	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+KBS HD documentary	Noodle Road	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KBS HD documentary	Asian Corridor in Heaven	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KBS part-time postgraduate program	MBS in HRM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KBS part-time postgraduate program	MBA	1	1	2	2	NULL	NULL	NULL	398	155	0.001256281407035176
+KBS representative idol	2PM's Jun Su	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KBS representative idol	2AM's Chang Min	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KBS representative idol	SHINee's Jong Hyun	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KBS representative idol	SISTAR's Hyo Rin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+KBS series	God of Study	1	1	1	1	NULL	NULL	NULL	1	1	1
+KBS-3V repository main design component	buffer in the deposition hole	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KBS-3V repository main design component	backfill of the deposition tunnel	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KBS-3V repository main design component	canister	1	1	3	3	NULL	NULL	NULL	125	62	0.0026666666666666666
+KBSA member	Kitchen Design Centre	2	1	2	1	NULL	NULL	NULL	2	1	1
+KBSA technology	DialectTM component in Software RefineryTM	1	1	1	1	NULL	NULL	NULL	1	1	1

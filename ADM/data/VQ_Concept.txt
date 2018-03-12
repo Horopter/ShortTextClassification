@@ -1,0 +1,12 @@
+VQ	pruned TSVQ	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VQ	memorylesstree structured VQ	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VQ codecs	Microsoft's Video-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+VQ technique	direct VQ	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VQ technique	split VQ	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+vq-like algorithm	S3TC	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VQA local wine	Bone Dry Riesling	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VQA local wine	Seyval Blanc & Gamay Rose from Georgian Hills Winery	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vqe service	message request specific vqe service	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VQEG activity	validation test	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+VQs	multistage VQs	1	1	1	1	NULL	NULL	NULL	1	1	1
+vqsoft vqserver store sensitive information	passwords in cleartext in the server.cfg file	1	1	1	1	NULL	NULL	NULL	1	1	1

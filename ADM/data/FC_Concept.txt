@@ -1,0 +1,235 @@
+fc	Tilly Duck	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+fc	Tara the Meercat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+fc	Sapphire the Fox	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FC adapter	Emulex	1	1	1	1	1.000000000000	NULL	NULL	28	17	0.03571428571428571
+FC barcelona star	Lionel Messi	1	1	1	1	NULL	NULL	NULL	122	62	0.00819672131147541
+FC best-practice design	transit VSANs with Inter-VSAN Routing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FC best-practice design	LSANs for fault domain isolation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FC body RX-7	Turbo II	1	1	1	1	NULL	NULL	NULL	1	1	1
+FC car	Toyota	1	1	3	3	NULL	NULL	NULL	4435	1095	0.0000751597143930853
+FC car	Mercedes-Benz	1	1	3	3	NULL	NULL	NULL	687	265	0.00048520135856380397
+FC car	Nissan	1	1	3	3	NULL	NULL	NULL	1465	449	0.00022753128555176336
+FC clone	CentOS	1	1	1	1	NULL	NULL	NULL	83	48	0.012048192771084338
+FC cluster design issue	load balancing	1	1	4	4	NULL	NULL	NULL	459	194	0.0005446623093681918
+FC cluster design issue	data sharing	1	1	4	4	NULL	NULL	NULL	71	44	0.0035211267605633804
+FC cluster design issue	fault tolerance	1	1	4	4	NULL	NULL	NULL	156	87	0.0016025641025641025
+FC cluster design issue	cluster control mechanism	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FC component	gigabit interface converter transceiver	1	1	8	8	NULL	NULL	NULL	3	2	0.041666666666666664
+FC component	cable	1	1	8	8	NULL	NULL	NULL	3854	1434	0.00003243383497664764
+FC component	loose matrix	1	1	8	8	NULL	NULL	NULL	2	2	0.0625
+FC component	dense collagen matrix	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+FC component	calcification	1	1	8	8	NULL	NULL	NULL	129	77	0.0009689922480620155
+FC component	hemorrhage	1	1	8	8	NULL	NULL	NULL	857	329	0.00014585764294049007
+FC component	small form-factor pluggable module	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+FC component	cytolinker plectin	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+fc connector related offer	SC Connector	1	1	2	2	0.500000000000	NULL	NULL	12	12	0.041666666666666664
+fc connector related offer	Optical Fiber	1	1	2	2	0.500000000000	NULL	NULL	405	207	0.0012345679012345679
+fc fusion protein	anti-Fluorescein scFv Fc fusion	1	1	1	1	NULL	NULL	NULL	1	1	1
+FC host bus adapter vendor	Emulex Corp.	1	1	2	2	NULL	NULL	NULL	6	2	0.08333333333333333
+FC host bus adapter vendor	QLogic Corp.	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FC method	methods for antioxidant activity determination	1	1	1	1	NULL	NULL	NULL	1	1	1
+Fc polypeptides	antibody	1	1	1	1	NULL	NULL	NULL	1356	479	0.0007374631268436578
+FC product	timber	1	1	3	3	0.333333333333	NULL	NULL	2191	725	0.00015213753232922562
+FC product	Christmas tree	1	1	3	3	0.333333333333	NULL	NULL	539	275	0.0006184291898577612
+FC product	wooden sign	1	1	3	3	0.333333333333	NULL	NULL	9	9	0.037037037037037035
+FC proponent	Dr. Rosemary Crossley	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FC proponent	Professor Douglas Biklen	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fc r-bearing effector cell	macrophages	1	1	4	4	NULL	NULL	NULL	1468	303	0.00017029972752043596
+fc r-bearing effector cell	neutrophils	1	1	4	4	NULL	NULL	NULL	678	164	0.0003687315634218289
+fc r-bearing effector cell	T cell	1	1	4	4	NULL	NULL	NULL	156	63	0.0016025641025641025
+fc r-bearing effector cell	NK cell	1	1	4	4	NULL	NULL	NULL	65	38	0.0038461538461538464
+fc receptor	Fc gamma receptor	3	2	5	3	NULL	NULL	NULL	3	1	0.6
+fc receptor	FcRn	1	1	5	3	NULL	NULL	NULL	2	2	0.1
+fc receptor	human IgA receptor	1	1	5	3	NULL	NULL	NULL	2	2	0.1
+fc receptor bearing cell	NK cell	1	1	1	1	NULL	NULL	NULL	65	38	0.015384615384615385
+fc receptor-bearing cell	macrophages	1	1	2	2	NULL	NULL	NULL	1468	303	0.0003405994550408719
+fc receptor-bearing cell	NK cell	1	1	2	2	NULL	NULL	NULL	65	38	0.007692307692307693
+fc receptor-positive effector cell	Kupffer cell	1	1	2	2	0.500000000000	NULL	NULL	41	24	0.012195121951219513
+fc receptor-positive effector cell	monocytes	1	1	2	2	0.500000000000	NULL	NULL	463	135	0.0010799136069114472
+FC regular	delightful Trollied Dolly's	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+FC restaurant	Panera Bread Company	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+fc ri-bearing cell	basophils	1	1	2	2	NULL	NULL	NULL	62	27	0.008064516129032258
+fc ri-bearing cell	mast cell	1	1	2	2	NULL	NULL	NULL	210	77	0.002380952380952381
+fc ri-mediated signaling event	receptor component phosphorylation	1	1	1	1	NULL	NULL	NULL	1	1	1
+fc ri-proximal signalling event	Ras-guanine nucleotide exchange factor Vav	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+fc ri-proximal signalling event	phosphorylation of receptor subunits	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FC sector player	Ballard Power Systems	1	1	1	1	1.000000000000	NULL	NULL	35	15	0.02857142857142857
+FC service	name server	2	2	7	6	0.600000000000	NULL	NULL	26	22	0.021978021978021976
+FC service	acceleration	1	0	7	6	0.600000000000	NULL	NULL	881	426	0.00016215339711366953
+FC service	zoning	1	1	7	6	0.600000000000	NULL	NULL	862	389	0.00016572754391779913
+FC service	redirect	1	0	7	6	0.600000000000	NULL	NULL	17	11	0.008403361344537815
+FC service	FC addressing	1	1	7	6	0.600000000000	NULL	NULL	1	1	0.14285714285714285
+FC service	management server	1	1	7	6	0.600000000000	NULL	NULL	14	11	0.01020408163265306
+FC staff member	Jennifer Culver	1	1	1	1	NULL	NULL	NULL	1	1	1
+FC storage area network application	Host Bus Adapter	1	1	2	2	0.500000000000	NULL	NULL	16	10	0.03125
+FC storage area network application	Hard Disk Drive	1	1	2	2	0.500000000000	NULL	NULL	538	227	0.0009293680297397769
+FC switch function	zoning	1	1	1	1	NULL	NULL	NULL	862	389	0.001160092807424594
+FC termination device	switch	1	1	1	1	NULL	NULL	NULL	3437	1190	0.0002909514111143439
+FC user	Sue Rubin	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+fc's heavier flavor	coffee	1	1	3	3	NULL	NULL	NULL	11509	2489	0.000028962840675413443
+fc's heavier flavor	guava	1	1	3	3	NULL	NULL	NULL	828	268	0.00040257648953301127
+fc's heavier flavor	chocolate	1	1	3	3	NULL	NULL	NULL	7342	1984	0.000045400889857441204
+fc's weekly capability	Project Compass	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FC-0208 application	VVT component	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FC-0208 application	connecting rod	1	1	2	2	NULL	NULL	NULL	183	78	0.00273224043715847
+fc-dependent immune component	complement system	1	1	2	2	0.500000000000	NULL	NULL	8	8	0.0625
+fc-dependent immune component	neutrophils	1	1	2	2	0.500000000000	NULL	NULL	678	164	0.0007374631268436578
+fc-effector function	ADCC	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+fc-mjs-compatible technique	time-interval analyzer method	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fc-mjs-compatible technique	real-time oscilloscope jitter software	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Fc-regionFcR mechanism	ADCC in the antitumor activity of rituximab	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+fca's electronic database	internal training site used by examiner	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCAC interactive tool	choosing a credit card	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCAT practice tool	FCAT Explorer	1	1	1	1	1.000000000000	NULL	NULL	39	23	0.02564102564102564
+FCB socket connection	PC-slot type electrical connection	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCBI activity	mentoring	1	1	2	2	0.500000000000	NULL	NULL	1216	504	0.00041118421052631577
+FCBI activity	religious service	1	1	2	2	0.500000000000	NULL	NULL	77	51	0.006493506493506494
+FCBs	Arla	1	1	1	1	1.000000000000	NULL	NULL	15	15	0.06666666666666667
+FCC administrative issue	licensing	1	1	2	2	NULL	NULL	NULL	891	422	0.0005611672278338945
+FCC administrative issue	frequency coordination	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FCC bureau	Cable Services Bureau	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCC commissioner	C. Copps	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCC crystal	Aluminum	2	2	4	3	NULL	NULL	NULL	10290	2216	0.00009718172983479106
+FCC crystal	Copper	1	1	4	3	NULL	NULL	NULL	15607	2840	0.000016018453258153393
+FCC crystal	Nickel	1	1	4	3	NULL	NULL	NULL	5172	1141	0.000048337200309358084
+FCC document	license renewal	1	1	4	4	1.000000000000	NULL	NULL	20	16	0.0125
+FCC document	ownership report	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+FCC document	quarterly public issues report	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+FCC document	employment report	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+FCC family technology	DCC	1	1	2	2	NULL	NULL	NULL	63	30	0.007936507936507936
+FCC family technology	MGG	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FCC identifier	logo	1	1	1	1	NULL	NULL	NULL	2180	879	0.00045871559633027525
+fcc material	Au	2	2	7	6	NULL	NULL	NULL	592	209	0.0009652509652509652
+fcc material	aluminum alloy	1	1	7	6	NULL	NULL	NULL	261	87	0.0005473453749315818
+fcc material	Ag	1	1	7	6	NULL	NULL	NULL	79	35	0.0018083182640144665
+fcc material	Cu	1	1	7	6	NULL	NULL	NULL	124	60	0.001152073732718894
+fcc material	gold	1	1	7	6	NULL	NULL	NULL	10877	2626	0.000013133873573332983
+fcc material	Rene N5 superalloy	1	1	7	6	NULL	NULL	NULL	1	1	0.14285714285714285
+FCC metal	copper	2	1	4	2	NULL	NULL	NULL	15607	2840	0.00006407381303261357
+FCC metal	aluminum	2	2	4	2	NULL	NULL	NULL	10290	2216	0.00009718172983479106
+fcc metal thin film	copper	1	1	4	4	NULL	NULL	NULL	15607	2840	0.000016018453258153393
+fcc metal thin film	silver	1	1	4	4	NULL	NULL	NULL	7631	1889	0.00003276110601493906
+fcc metal thin film	gold	1	1	4	4	NULL	NULL	NULL	10877	2626	0.000022984278753332722
+fcc metal thin film	platinum	1	1	4	4	NULL	NULL	NULL	3270	782	0.0000764525993883792
+FCC might task radio provider	Bandt with enforcement	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCC official	Blair Levin	2	2	2	1	NULL	NULL	NULL	2	1	1
+FCC ownership policy	ownership cap	3	2	4	2	NULL	NULL	NULL	3	1	0.75
+FCC ownership policy	cross-ownership rule	1	0	4	2	NULL	NULL	NULL	1	1	0.25
+FCC petersburg department	Information Technology	1	1	7	7	0.400000000000	NULL	NULL	2132	704	0.00006700616456714018
+FCC petersburg department	Psychology	1	1	7	7	0.400000000000	NULL	NULL	3044	631	0.00004693073024216256
+FCC petersburg department	Employee Services	1	1	7	7	0.400000000000	NULL	NULL	1	1	0.14285714285714285
+FCC petersburg department	Financial Management	1	1	7	7	0.400000000000	NULL	NULL	626	291	0.00022820629849383843
+FCC petersburg department	Facilities	1	1	7	7	0.400000000000	NULL	NULL	59	37	0.0024213075060532684
+FCC petersburg department	Health Services	1	1	7	7	0.400000000000	NULL	NULL	35	37	0.004081632653061224
+FCC petersburg department	Correctional Systems	1	1	7	7	0.400000000000	NULL	NULL	1	1	0.14285714285714285
+FCC process technology advance	improved feed distribution	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCC product	naphtha	1	1	1	1	NULL	NULL	NULL	392	167	0.002551020408163265
+FCC regulation	White Spaces	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+FCC regulation	Fairness Doctrine	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+FCC regulatory and compliance matter	license renewal	1	1	3	3	1.000000000000	NULL	NULL	20	16	0.016666666666666666
+FCC regulatory and compliance matter	children's programming	1	1	3	3	1.000000000000	NULL	NULL	18	13	0.018518518518518517
+FCC regulatory and compliance matter	political broadcasting	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+FCC requirement	Part 68	2	2	2	1	NULL	NULL	NULL	2	1	1
+FCC rule	equal time rule	2	1	9	6	NULL	NULL	NULL	2	1	0.2222222222222222
+FCC rule	broadcasting obscene language over the airwaves	2	1	9	6	NULL	NULL	NULL	2	1	0.2222222222222222
+FCC rule	right of rebuttal	2	1	9	6	NULL	NULL	NULL	2	1	0.2222222222222222
+FCC rule	minimum operating schedule	1	1	9	6	NULL	NULL	NULL	1	1	0.1111111111111111
+FCC rule	political	1	1	9	6	NULL	NULL	NULL	1074	417	0.00010345541071798055
+FCC rule	lottery	1	1	9	6	NULL	NULL	NULL	262	160	0.00042408821034775233
+FCC section	regenerator	1	1	1	1	0.500000000000	NULL	NULL	7	6	0.14285714285714285
+FCC single crystal	aluminum single crystal	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCC specific technical standard	power density	1	1	3	3	0.333333333333	NULL	NULL	71	41	0.004694835680751174
+FCC specific technical standard	operating frequency	1	1	3	3	0.333333333333	NULL	NULL	55	40	0.006060606060606061
+FCC specific technical standard	bandwidth	1	1	3	3	0.333333333333	NULL	NULL	1137	466	0.0002931691586045148
+FCC spectrum utilization decision	channel splitting	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FCC structure metal	copper	1	1	2	2	NULL	NULL	NULL	15607	2840	0.000032036906516306786
+FCC structure metal	stainless steel	1	1	2	2	NULL	NULL	NULL	4816	1280	0.00010382059800664452
+FCC structured material	Ni	1	1	1	1	NULL	NULL	NULL	769	254	0.0013003901170351106
+FCC target internet website	ebay	1	1	1	1	NULL	NULL	NULL	4789	1206	0.00020881186051367718
+FCC telecommunication decision	Triennial Review order	1	1	1	1	NULL	NULL	NULL	1	1	1
+fcc's social medium site	Twitter	1	1	2	2	NULL	NULL	NULL	16193	2280	0.000030877539677638484
+fcc's social medium site	Facebook	1	1	2	2	NULL	NULL	NULL	29637	3798	0.00001687080338765732
+fcc-d magnetic variant coupling layer	NiFe	1	1	1	1	1.000000000000	NULL	NULL	46	30	0.021739130434782608
+FCCJ classic	smoked salmon	1	1	1	1	NULL	NULL	NULL	287	160	0.003484320557491289
+FCCJ official	liberal arts Dean Charles Smires	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCE compatible format	MPG	2	2	9	5	0.250000000000	NULL	NULL	462	86	0.0009620009620009619
+FCE compatible format	DV	2	2	9	5	0.250000000000	NULL	NULL	103	55	0.004314994606256742
+FCE compatible format	MP4	2	2	9	5	0.250000000000	NULL	NULL	1072	197	0.0004145936981757877
+FCE compatible format	MOV	2	2	9	5	0.250000000000	NULL	NULL	770	113	0.0005772005772005772
+FCE compatible format	Apple Intermediate Codec	1	1	9	5	0.250000000000	NULL	NULL	5	5	0.02222222222222222
+FCE quality	objectivity	1	1	1	1	NULL	NULL	NULL	216	116	0.004629629629629629
+FCG abnormality	myocardial infarction	1	1	1	1	NULL	NULL	NULL	930	400	0.001075268817204301
+FCI activity	computational genomics	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+FCI country	Germany	1	1	1	1	NULL	NULL	NULL	19646	2312	0.00005090094675760969
+FCIAC sport	boys soccer	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+FCIAC sport	football	1	1	2	2	0.500000000000	NULL	NULL	10605	1568	0.00004714757190004715
+FCK Editor's functionality	Browser Server	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCM product	tableware	1	1	3	3	NULL	NULL	NULL	253	147	0.0013175230566534913
+FCM product	kitchen appliance	1	1	3	3	NULL	NULL	NULL	287	129	0.0011614401858304297
+FCM product	cookware	1	1	3	3	NULL	NULL	NULL	301	135	0.0011074197120708748
+FCMs	RCG	2	2	4	3	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+FCMs	Farr	1	1	4	3	1.000000000000	NULL	NULL	10	9	0.025
+FCMs	Alaron Trading in Chicago	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+FCO department	Consular Division	1	1	1	1	NULL	NULL	NULL	1	1	1
+fcoe support FC capability	zoning	1	1	1	1	NULL	NULL	NULL	862	389	0.001160092807424594
+fcopolicy document	2006 White Paper	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCP add-ons	filter	1	1	1	1	NULL	NULL	NULL	3205	1326	0.00031201248049921997
+FCP datum	crack length	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+FCP instance information	instance number	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FCP instance information	IP address	1	1	2	2	NULL	NULL	NULL	1561	490	0.00032030749519538755
+fcp's fault-tolerant feature	failover support	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+fcp's fault-tolerant feature	system replication	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FCPA firm	Willkie Farr	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+FCPA firm	Sidley Austin	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+FCPA firm	WilmerHale	1	1	3	3	1.000000000000	NULL	NULL	9	5	0.037037037037037035
+FCPOA function	quarterly gathering	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+FcR-expressing APC	macrophages	1	1	1	1	NULL	NULL	NULL	1468	303	0.0006811989100817438
+fcr-initiated phosphorylation event	formation of phospho-erk	1	1	1	1	NULL	NULL	NULL	1	1	1
+fcr-specific resource	NAND flash	1	1	1	1	1.000000000000	NULL	NULL	26	14	0.038461538461538464
+fcrnin acidic compartment	endosome	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FCrops	corn	1	1	2	2	NULL	NULL	NULL	11029	2454	0.00004533502584096473
+FCrops	potato	1	1	2	2	NULL	NULL	NULL	9600	2035	0.00005208333333333334
+FCs	Legal FC	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+FCs	Industrial FCs	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+FCs	Delaware Information Analysis Center	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+FCs	Social Welfare FC	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+FCs	Health Services FC	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+FCS alternative	platelet lysate	1	1	1	1	NULL	NULL	NULL	1	1	1
+FCS application	Flight Guidance system	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FCS football institution	Ivy Group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FCS football institution	members of the Pioneer League	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FCS president	Ian Grassam	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+FCS program	Villanova	1	1	1	1	1.000000000000	NULL	NULL	90	44	0.011111111111111112
+FCS school	Weber State	1	1	4	4	1.000000000000	NULL	NULL	14	8	0.017857142857142856
+FCS school	Youngstown State	1	1	4	4	1.000000000000	NULL	NULL	8	8	0.03125
+FCS school	Appalachian State	1	1	4	4	1.000000000000	NULL	NULL	16	8	0.015625
+FCS school	Georgia Southern	1	1	4	4	1.000000000000	NULL	NULL	15	5	0.016666666666666666
+FCS system	UGV	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+FCS system	MGV	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+FCS team	Coastal Carolina	1	1	6	6	0.833333333333	NULL	NULL	8	8	0.020833333333333332
+FCS team	Liberty	1	1	6	6	0.833333333333	NULL	NULL	856	360	0.00019470404984423675
+FCS team	Elon	1	1	6	6	0.833333333333	NULL	NULL	10	7	0.016666666666666666
+FCS team	Northern Iowa	1	1	6	6	0.833333333333	NULL	NULL	29	10	0.005747126436781609
+FCS team	Ap State	1	1	6	6	0.833333333333	NULL	NULL	1	1	0.16666666666666666
+fcs team	regional fcs team	1	1	6	6	0.833333333333	NULL	NULL	2	2	0.08333333333333333
+FCS technology	FM radio	1	1	5	5	0.250000000000	NULL	NULL	534	171	0.0003745318352059925
+FCS technology	microwave	1	1	5	5	0.250000000000	NULL	NULL	2708	814	0.00007385524372230429
+fcs technology	advanced fcs technology	1	1	5	5	0.250000000000	NULL	NULL	2	2	0.1
+FCS technology	satellite	1	1	5	5	0.250000000000	NULL	NULL	1242	606	0.00016103059581320451
+FCS technology	cellular radio	1	1	5	5	0.250000000000	NULL	NULL	16	13	0.0125
+FCS upgrade	Texas St.	1	1	1	1	NULL	NULL	NULL	1	1	1
+fcstostudy heme protein	cytochrome c	1	1	4	4	NULL	NULL	NULL	162	71	0.0015432098765432098
+fcstostudy heme protein	myoglobin	1	1	4	4	NULL	NULL	NULL	171	89	0.0014619883040935672
+fcstostudy heme protein	cytochrome P450 CAM	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+fcstostudy heme protein	hemoglobin	1	1	4	4	NULL	NULL	NULL	568	264	0.00044014084507042255
+FCW employee	Extreme Machine	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FCW employee	Greg Anthony	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+FCW employee	Nick Kelly	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FCW employee	Randall Kash	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FCW goal	team work	1	1	2	2	0.666666666666	NULL	NULL	492	187	0.0010162601626016261
+FCW goal	taking initiative	1	1	2	2	0.666666666666	NULL	NULL	26	21	0.019230769230769232
+fcw PSUs	Hindustan Pctrolcum Corporation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+fcw PSUs	Madras Fcrtiliscrs Limited	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+fcw PSUs	lndian Oil Corporation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FCWs	FCWs for thin sheet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FCWs	FCWs for high temperature application	1	1	2	2	NULL	NULL	NULL	1	1	0.5

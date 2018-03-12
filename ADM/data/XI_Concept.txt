@@ -1,0 +1,137 @@
+XI event	labors of Saint Columba	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XI event	ministry of Saint Patrick	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XI event	wars of Elizabeth	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+XI-11 specialty procedure	angiography	1	1	1	1	NULL	NULL	NULL	363	154	0.0027548209366391185
+xi-text feature	font selection	1	1	2	2	1.000000000000	NULL	NULL	37	24	0.013513513513513514
+xi-text feature	print orientation	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+XI4.0 client	Interactive Analysis tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+xiamen exclusive local craft	lacquer thread sculpture	1	1	1	1	NULL	NULL	NULL	1	1	1
+xiamen international exhibition agency	transportation of non-tradable good	1	1	1	1	NULL	NULL	NULL	1	1	1
+Xiamen seafood inspection request	title	1	1	1	1	NULL	NULL	NULL	3119	1050	0.0003206155819172812
+xiamen's favorable natural landscape	massif	1	1	1	1	1.000000000000	NULL	NULL	4	4	0.25
+xian attraction	Bell Tower	4	3	17	9	1.000000000000	NULL	NULL	68	47	0.01384083044982699
+xian attraction	Big Wild Goose Pagoda	2	1	17	9	1.000000000000	NULL	NULL	6	4	0.0392156862745098
+xian attraction	Renmin Square	2	1	17	9	1.000000000000	NULL	NULL	3	2	0.0784313725490196
+xian attraction	Xian City Hall	2	1	17	9	1.000000000000	NULL	NULL	3	2	0.0784313725490196
+xian attraction	Xi'an defensive wall	2	1	17	9	1.000000000000	NULL	NULL	3	2	0.0784313725490196
+xian attraction	Shaanxi History Museum	2	1	17	9	1.000000000000	NULL	NULL	10	6	0.023529411764705882
+xian attraction	Terracotta Army	1	1	17	9	1.000000000000	NULL	NULL	12	11	0.004901960784313725
+xian attraction	Xi'an Jiao Tong University	1	1	17	9	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+xian attraction	Big Goose Pagoda	1	1	17	9	1.000000000000	NULL	NULL	3	3	0.0196078431372549
+xian university	Notre Dame	1	1	2	2	0.500000000000	NULL	NULL	497	185	0.001006036217303823
+xian university	SMU	1	1	2	2	0.500000000000	NULL	NULL	54	24	0.009259259259259259
+xian's historical site	Horses Museum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xian's historical site	8 th World Wonder-Terracotta Warriors	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xiang general	Li Hongzhang	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+xiang general	Zeng Guofan	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+xianheng hotel brand	Century	1	1	1	1	NULL	NULL	NULL	117	65	0.008547008547008548
+xianluodao recreational center recreation	cableway across the sea	1	1	1	1	NULL	NULL	NULL	1	1	1
+Xians	Creationists	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+xiao tong's literary predecessor	Liu Xie	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+xiao tong's literary predecessor	popular idea Shen Yue	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xiaolongbao method	ordinary bun	1	1	1	1	NULL	NULL	NULL	1	1	1
+xic element	lead	1	1	3	3	NULL	NULL	NULL	9600	1602	0.00003472222222222222
+xic element	mercury	1	1	3	3	NULL	NULL	NULL	6018	1029	0.00005538938739337543
+xic element	cadmium	1	1	3	3	NULL	NULL	NULL	4180	633	0.00007974481658692185
+xidants	powerful antio xidants	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xidcminerals	chromite andulvi	1	1	1	1	NULL	NULL	NULL	1	1	1
+xides	silicon carbide	1	1	1	1	NULL	NULL	NULL	821	328	0.001218026796589525
+XIDES intermediate oxide	aluminum	1	1	2	2	NULL	NULL	NULL	10290	2216	0.00004859086491739553
+XIDES intermediate oxide	iron	1	1	2	2	NULL	NULL	NULL	11941	2300	0.00004187253998827569
+Xie	Zhi-Feng Li	1	1	1	1	NULL	NULL	NULL	1	1	1
+xie lixin diagnostic criterion	reference	1	1	1	1	NULL	NULL	NULL	762	299	0.0013123359580052493
+xie ping country	China	1	1	1	1	NULL	NULL	NULL	30422	3640	0.0000328709486555782
+xie xun eye	electricity	1	1	1	1	NULL	NULL	NULL	7822	1808	0.00012784454103809768
+xieshuihushui absence alarm function	industrial	1	1	1	1	NULL	NULL	NULL	1095	481	0.0009132420091324201
+xif information	shutter speed	1	1	1	1	NULL	NULL	NULL	421	152	0.0023752969121140144
+xifeng liquor brand	large number of sub-brands Xifeng in the terminal	1	1	1	1	NULL	NULL	NULL	1	1	1
+xii INTRODUCTION agency	industry upon the progress of America	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xii INTRODUCTION agency	commerce	1	1	2	2	NULL	NULL	NULL	575	240	0.0008695652173913044
+XII INTRODUCTION word	nan south	1	1	1	1	NULL	NULL	NULL	1	1	1
+xiii's mechanic	subtle uses of Optima Change	1	1	1	1	NULL	NULL	NULL	1	1	1
+xikar cigar accessory	cutter	1	1	2	2	NULL	NULL	NULL	385	207	0.0012987012987012987
+xikar cigar accessory	lighter	1	1	2	2	NULL	NULL	NULL	472	190	0.001059322033898305
+xikar product	Xikar cigar cutter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xikar product	Xikar butane cigar lighter	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xikar product	Xikar cigar punch	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+xilinx architecture	Virtex	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+Xilinx FPGAs	Virtex-5	1	1	2	2	NULL	NULL	NULL	7	4	0.07142857142857142
+Xilinx FPGAs	Spartan 3E	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xilinx JTAG cable	Parallel Cable IV	3	2	4	2	NULL	NULL	NULL	3	1	0.75
+xilinx JTAG cable	Platform USB	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+Xilinx low-cost FPGAs	Spartan Series	2	1	2	1	NULL	NULL	NULL	2	1	1
+Xilinx page Fill-in further information	mailing address	1	1	1	1	NULL	NULL	NULL	1160	119	0.0008620689655172414
+xilinx primitive component	DCM	1	1	1	1	1.000000000000	NULL	NULL	41	22	0.024390243902439025
+Xilinx software	ISE Foundation	1	1	1	1	NULL	NULL	NULL	1	1	1
+xilinx software tool	Floorplanner	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xilinx software tool	Constraints Editor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+xilinx tool	Impact	1	1	2	2	NULL	NULL	NULL	407	215	0.0012285012285012285
+xilinx tool	EDK	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+xilinx type	Xuint8	1	1	1	1	NULL	NULL	NULL	1	1	1
+XIMEA camera	PC camera CURRERA	1	1	1	1	NULL	NULL	NULL	1	1	1
+ximeng area	Inner Mongolia	1	1	1	1	NULL	NULL	NULL	96	39	0.010416666666666666
+ximian product	Red Carpet Linux software management tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+ximian property	personal information manager	1	0	2	2	1.000000000000	NULL	NULL	13	17	0.038461538461538464
+ximian property	Evolution email client	1	0	2	2	1.000000000000	NULL	NULL	2	2	0.25
+ximplementations	somet e ximplementations	1	1	1	1	NULL	NULL	NULL	1	1	1
+xin city	San Jose	1	1	1	1	NULL	NULL	NULL	415	128	0.0024096385542168677
+xin tian company	East packet backbone enterprise	1	1	1	1	NULL	NULL	NULL	1	1	1
+xin yunyang's construction site	park	1	1	2	2	NULL	NULL	NULL	5086	1754	0.00009830908375933936
+xin yunyang's construction site	bridge	1	1	2	2	NULL	NULL	NULL	5081	2007	0.000098405825624877
+xinafoate salt	salmeterol xinafoate	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+xincludes personal characteristic	age	1	1	1	1	NULL	NULL	NULL	32703	4368	0.00003057823441274501
+Xindianying zhong de Taiwan jingyan	Xiao Long in the bamboo forest	1	1	1	1	NULL	NULL	NULL	1	1	1
+xinetd service	TFTP	1	1	2	2	0.500000000000	NULL	NULL	54	27	0.009259259259259259
+xinetd service	telnet	1	1	2	2	0.500000000000	NULL	NULL	886	343	0.000564334085778781
+xinfu's new product	EVA film	1	1	4	4	1.000000000000	NULL	NULL	13	9	0.019230769230769232
+xinfu's new product	Red Yeast Rice Powder	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+xinfu's new product	PVB film	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+xinfu's new product	PBS series	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+xing yi quan's basic routine	five elements boxing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xing yi quan's basic routine	12-shaped	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+xing yi weapon	Sword	1	1	3	3	NULL	NULL	NULL	1763	485	0.00018907165815844205
+xing yi weapon	Saber	1	1	3	3	NULL	NULL	NULL	50	31	0.006666666666666666
+xing yi weapon	Spear	1	1	3	3	NULL	NULL	NULL	623	228	0.0005350454788657035
+xingparameters	maximal length of word	1	1	1	1	NULL	NULL	NULL	1	1	1
+xingtone fan	Kathy Schader	1	1	1	1	NULL	NULL	NULL	1	1	1
+xinjia product	Water jug series	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xinjia product	Juicer series	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xinjia product	Bathroom series	1	1	5	5	1.000000000000	NULL	NULL	35	34	0.005714285714285714
+xinjia product	Basket series	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xinjia product	parer series	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+xinjiang activist	Rebiya Kadeer into America	1	1	1	1	NULL	NULL	NULL	1	1	1
+xinjiang famous and speciality fruit	Kuerle fragrant pear	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+xinjiang famous and speciality fruit	date	2	1	6	3	NULL	NULL	NULL	5860	1522	0.00011376564277588168
+xinjiang famous and speciality fruit	pomegranate	2	1	6	3	NULL	NULL	NULL	1001	366	0.000666000666000666
+xinjiang minority	Kazakhs	1	1	1	1	1.000000000000	NULL	NULL	29	17	0.034482758620689655
+Xinjiang Uygur medicine	Trinidad chase Lien Chan	1	1	1	1	NULL	NULL	NULL	1	1	1
+xinjiang's natural condition	light	1	1	3	3	NULL	NULL	NULL	6435	2121	0.000051800051800051795
+xinjiang's natural condition	water	1	1	3	3	NULL	NULL	NULL	25348	6311	0.000013150281416022302
+xinjiang's natural condition	heat	1	1	3	3	NULL	NULL	NULL	4223	1245	0.00007893282816323308
+xinjiang's neighboring country	Turkmenistan	1	1	4	4	NULL	NULL	NULL	233	72	0.001072961373390558
+xinjiang's neighboring country	Kazakhstan	1	1	4	4	NULL	NULL	NULL	773	202	0.0003234152652005175
+xinjiang's neighboring country	Uzbekistan	1	1	4	4	NULL	NULL	NULL	482	137	0.0005186721991701245
+xinjiang's neighboring country	Russia	1	1	4	4	NULL	NULL	NULL	8825	1448	0.000028328611898016997
+xinjiang's urban area	capital Urumachi	1	1	1	1	NULL	NULL	NULL	1	1	1
+xins	alcohol	1	1	1	1	NULL	NULL	NULL	12820	3081	0.00007800312012480499
+xio-lytic agent	benzodiazepines	1	1	1	1	NULL	NULL	NULL	1057	245	0.000946073793755913
+xiotech storage system innovation	Application VDisk Cache	1	1	1	1	NULL	NULL	NULL	1	1	1
+xiph project	Tarkin	2	2	4	2	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+xiph project	Vorbis	2	2	4	2	1.000000000000	NULL	NULL	40	17	0.025
+xiph.org foundation codec project	Vorbis	2	1	4	2	1.000000000000	NULL	NULL	40	17	0.025
+xiph.org foundation codec project	Tarkin	2	1	4	2	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+Xiphophorus species	platies	1	1	1	1	NULL	NULL	NULL	123	33	0.008130081300813009
+Xiphorhynchus woodcreepers	ivory-billed woodcreeper of Central America	1	1	1	1	NULL	NULL	NULL	1	1	1
+Xirrus technology	XN8 Wi-Fi Array	1	1	1	1	NULL	NULL	NULL	1	1	1
+xirrus tool	Wi-Fi Designer	1	1	1	1	NULL	NULL	NULL	1	1	1
+xisico's latest gun	B21	1	1	2	2	1.000000000000	NULL	NULL	11	11	0.045454545454545456
+xisico's latest gun	B18	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+xisting activity module	Forum	1	1	3	4	NULL	NULL	NULL	2019	808	0.00016509823344890208
+xisting activity module	Poll	1	1	3	4	NULL	NULL	NULL	406	175	0.0008210180623973727
+xisting activity module	Lesson	1	1	3	4	NULL	NULL	NULL	173	101	0.0019267822736030828
+xisting network transport protocol	introduction xisting network transport protocol	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+xisting network transport protocol	ntroduction xisting network transport protocol	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+xisymmetric fiber	Polarization Maintaining fiber	2	1	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+XIV system's database resiliency feature	mailbox resiliency	1	1	1	1	NULL	NULL	NULL	1	1	1
+XIX century famous character	Soult	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+XIX century neurophysiologists	Thomas Laycock	1	1	1	1	NULL	NULL	NULL	1	1	1

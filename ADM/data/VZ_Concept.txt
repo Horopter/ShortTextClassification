@@ -1,0 +1,3 @@
+vzv-related complication	meningoencephalitis	1	1	2	2	1.000000000000	NULL	NULL	33	19	0.015151515151515152
+vzv-related complication	small-vessel encephalitis	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+VZW market	Carolinas	1	1	1	1	1.000000000000	NULL	NULL	88	38	0.011363636363636364

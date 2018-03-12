@@ -1,0 +1,63 @@
+BG element	energy storage element	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+BG faves	Pili Pala	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+BG faves	Happy Hopperz	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+BG faves	Little Legs Company	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+BG luminary	Justin Pierce	1	1	1	1	NULL	NULL	NULL	1	1	1
+BG maintenance service	transmission flushs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BG maintenance service	cooling system	1	1	2	2	NULL	NULL	NULL	209	129	0.0023923444976076554
+BG piece	Chest	1	1	2	2	0.500000000000	NULL	NULL	727	289	0.000687757909215956
+BG piece	Helm	1	1	2	2	0.500000000000	NULL	NULL	28	18	0.017857142857142856
+BG resource	Core Proficiency Award Scheme	1	1	1	1	NULL	NULL	NULL	1	1	1
+bg stat	healing done	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+BG's	WSG	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGA component	wafer level CSPs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BGA component	flip chip BGAs	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+BGA material	copper	1	1	2	2	0.500000000000	NULL	NULL	15607	2840	0.000032036906516306786
+BGA material	FR-4	1	1	2	2	0.500000000000	NULL	NULL	24	19	0.020833333333333332
+BGA option	fine pitch BGA	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+BGA option	chip scale BGA	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+bga rework accessory	bga reballing station	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bga rework accessory	bga reballing stencil	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bga rework accessory	solder ball	1	1	3	3	NULL	NULL	NULL	140	68	0.0023809523809523807
+bga's artist	LuLu Roman	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+bga's provider	Salsa-Wired for Change	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+bga's provider	Americaneagle.com	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+bgas provider	Americaneagle.com	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+bgas provider	Salsa-Wired for Change	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+BGB principle	constitutum possesorum	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGC partner	trade logs.a.	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGCH program	Career Launch	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+BGCH program	Smart Moves	1	1	2	2	NULL	NULL	NULL	14	5	0.03571428571428571
+BGCI publication	regular Botanic Gardens Conservation News	3	3	4	2	NULL	NULL	NULL	3	1	0.75
+BGCI publication	education review Roots	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+BGCT titan	B. H. Carroll	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+BGES operating cost	billing & cash collection	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BGES operating cost	call center	1	1	3	3	NULL	NULL	NULL	535	310	0.0006230529595015575
+BGES operating cost	related overhead	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BGG photo	BGG Picture Museum Project	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGG standard joke	Busen Memo appearing on every humourous Geeklist	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGI design feature	invocation method	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGI practitioner	Dr. Michael	1	1	1	1	NULL	NULL	NULL	1	1	1
+bgl type	AFCD2 file	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGLOs	Zeta Phi Beta Sorority	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Bgms	Flew Over	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGP attribute	local preference	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+BGP attribute	Multi Exist Discriminators	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+BGP datum source	looking glass	1	1	3	3	1.000000000000	NULL	NULL	22	11	0.01515151515151515
+BGP datum source	Internet Routing Register	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+BGP datum source	route severs	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+BGP instance	server	1	1	1	1	0.500000000000	NULL	NULL	1779	715	0.0005621135469364812
+BGP mechanism	Route Reflectors	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+BGP monitoring project	RouteViewsand RIPE	1	1	1	1	NULL	NULL	NULL	1	1	1
+BGP multihoming technology	Intelligent Routing	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+BGP Path Selection IGPs	EIGRP	1	1	2	2	0.500000000000	NULL	NULL	117	23	0.004273504273504274
+BGP Path Selection IGPs	OSPF	1	1	2	2	0.500000000000	NULL	NULL	471	84	0.0010615711252653928
+BGP requirement	logical architecture	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+BGP scalability issue	multihomed connection	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+BGP scalability issue	redundancy	1	1	4	4	NULL	NULL	NULL	561	253	0.000445632798573975
+BGP scalability issue	load balancing	1	1	4	4	NULL	NULL	NULL	459	194	0.0005446623093681918
+BGP scalability issue	route redistribution	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+BGPfeatures	route flap damping	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+BGPMMIO device	tree	1	1	2	2	0.333333333333	NULL	NULL	6423	2236	0.00007784524365561264
+BGPMMIO device	lockbox	1	1	2	2	0.333333333333	NULL	NULL	13	13	0.038461538461538464
+BGS project	projects in the Groundwater Management Programme	1	1	1	1	NULL	NULL	NULL	1	1	1

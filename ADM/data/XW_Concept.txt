@@ -1,0 +1,18 @@
+xW30 oil	German Castrol 0W30	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+xwhile cost-effective strategy	disseminating information through school	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+XWIN-NMR command	acbdisp	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+XWIN-NMR command	search	1	1	4	4	NULL	NULL	NULL	1516	675	0.00016490765171503957
+XWIN-NMR command	pulsdisp	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+XWIN-NMR command	view	1	1	4	4	NULL	NULL	NULL	972	403	0.000257201646090535
+xwindow s individual setting	Windows Decorations	1	1	1	3	NULL	NULL	NULL	1	1	1
+Xwindows interface	Linux	1	1	1	1	NULL	NULL	NULL	2525	679	0.00039603960396039607
+xwindows resource	display	1	1	1	1	NULL	NULL	NULL	1313	584	0.0007616146230007616
+xwindowsgraphics application	database status	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+xwindowsgraphics application	displaying business graphic	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+xwindowsgraphics application	activity for securities trading	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+xwindowsgraphics application	CASE tool	1	1	4	4	1.000000000000	NULL	NULL	28	21	0.008928571428571428
+xwire infrastructure equipment community	apartment complex	1	1	4	4	NULL	NULL	NULL	296	158	0.0008445945945945946
+xwire infrastructure equipment community	town	1	1	4	4	NULL	NULL	NULL	709	370	0.0003526093088857546
+xwire infrastructure equipment community	condo	1	1	4	4	NULL	NULL	NULL	3736	199	0.00006691648822269808
+xwire infrastructure equipment community	hotel	1	1	4	4	NULL	NULL	NULL	7730	2372	0.00003234152652005175
+xws-security sample	simple sample	1	1	1	1	NULL	NULL	NULL	1	1	1

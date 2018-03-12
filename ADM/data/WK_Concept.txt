@@ -1,0 +1,9 @@
+WKAR purchase NPR programming	Morning Edition	1	1	1	1	1.000000000000	NULL	NULL	18	12	0.05555555555555555
+wkb-3100ub's snazzy feature	softwareless installation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+wkb-3100ub's snazzy feature	broad wireless range	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+wkb-3100ub's snazzy feature	built-in trackball	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+WKCR hand	Papper	1	1	1	1	NULL	NULL	NULL	1	1	1
+WKU community initiative	Girls in Science Day	1	1	1	1	NULL	NULL	NULL	1	1	1
+WKU resource	Faculty Center for Excellence in Teaching	1	1	1	1	NULL	NULL	NULL	1	1	1
+WKW movie	Happy Together	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+WKW movie	Ashes of Time	1	1	2	2	1.000000000000	NULL	NULL	9	3	0.05555555555555555

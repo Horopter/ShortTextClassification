@@ -1,0 +1,10 @@
+xn denomination	Charismatics	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+XNA aspect	template	1	1	1	1	NULL	NULL	NULL	701	328	0.0014265335235378032
+XNA product	Game Studio Express	1	1	1	1	NULL	NULL	NULL	1	1	1
+XNA version	Serialization DLLs	1	1	1	1	NULL	NULL	NULL	1	1	1
+XNA workshop	Microsoft Game Developers Hands On Workshop on Wednesday	1	1	1	1	NULL	NULL	NULL	1	1	1
+xndo natural flavored drink	Zesty Orange	1	1	1	1	NULL	NULL	NULL	1	1	1
+xne important official	chamberlain	1	1	2	2	0.500000000000	NULL	NULL	31	18	0.016129032258064516
+xne important official	recorder	1	1	2	2	0.500000000000	NULL	NULL	411	190	0.0012165450121654502
+xngiogenesis model	matrigel	1	1	1	1	1.000000000000	NULL	NULL	20	18	0.05
+xnilike crystalloids	inorganic salt	1	1	1	1	NULL	NULL	NULL	146	86	0.00684931506849315

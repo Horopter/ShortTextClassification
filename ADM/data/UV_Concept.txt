@@ -1,0 +1,405 @@
+UV & IR equipment	UV varnish roller coater	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UV & IR equipment	UV lamp assembly	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UV & IR equipment	IR lamp assembly	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UV absorbent	humic acid	1	1	1	1	NULL	NULL	NULL	150	93	0.006666666666666667
+UV absorber	benzophenones	2	1	8	5	1.000000000000	NULL	NULL	28	25	0.017857142857142856
+UV absorber	Ciba-Geigy	2	1	8	5	1.000000000000	NULL	NULL	23	13	0.021739130434782608
+UV absorber	benzotriazole	2	2	8	5	1.000000000000	NULL	NULL	58	40	0.008620689655172414
+UV absorber	Tinuvin 328 a substituted hydroxyphenyl benzotriazole	2	1	8	5	1.000000000000	NULL	NULL	2	1	0.25
+UV absorbers	benzophenones	6	4	16	9	0.500000000000	NULL	NULL	28	25	0.08035714285714286
+UV absorbers	octyl methoxycinnamate	2	1	16	9	0.500000000000	NULL	NULL	30	16	0.008333333333333333
+UV absorbers	substituted hydroxyphenyl-benzotriazoles	2	2	16	9	0.500000000000	NULL	NULL	2	1	0.125
+UV absorbers	titanium dioxide	1	1	16	9	0.500000000000	NULL	NULL	1274	421	0.00004905808477237049
+uv absorbers	inorganic uv absorbers	1	1	16	9	0.500000000000	NULL	NULL	2	2	0.03125
+uv absorbers	p-aminobenzoic acid type uv absorbers	1	1	16	9	0.500000000000	NULL	NULL	2	2	0.03125
+uv absorbers	labile uv absorbers	1	1	16	9	0.500000000000	NULL	NULL	2	2	0.03125
+uv absorbers	traditional uv absorbers	1	1	16	9	0.500000000000	NULL	NULL	2	2	0.03125
+uv absorbers	pigmentary uv absorbers	1	1	16	9	0.500000000000	NULL	NULL	2	2	0.03125
+UV absorbing organic coating company	Ferro	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+UV active	titanium dioxide	1	1	2	2	0.750000000000	NULL	NULL	1274	421	0.0003924646781789639
+UV active	octyl methoxycinnamate	1	1	2	2	0.750000000000	NULL	NULL	30	16	0.016666666666666666
+UV additive	carbon black	1	1	2	2	0.666666666666	NULL	NULL	1191	337	0.00041981528127623844
+UV additive	hindered amines	1	1	2	2	0.666666666666	NULL	NULL	13	8	0.038461538461538464
+UV air purifier	Multi-Tech XJ-3000C from Surround Air	4	3	10	7	NULL	NULL	NULL	4	1	0.4
+UV air purifier	Ultra-PureTM Air Purifiers	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+UV air purifier	Ultra-Pure TM Air Purifiers	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+UV air purifier	Multi-Tech XJ-3000C from Ambiance Air	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+UV air purifier	Multi-Tech XJ-3000C from Setting Air	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+UV air purifier	Multi-Tech XJ-3000C from Enclose Air	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+UV air purifier	Multi-Tech XJ-3000C from Heaven Fresh	1	1	10	7	NULL	NULL	NULL	1	1	0.1
+uv application	curing	1	1	4	4	NULL	NULL	NULL	83	52	0.0030120481927710845
+uv application	deposition	1	1	4	4	NULL	NULL	NULL	383	203	0.0006527415143603133
+uv application	etching	1	1	4	4	NULL	NULL	NULL	802	301	0.0003117206982543641
+uv application	gluing	1	1	4	4	NULL	NULL	NULL	227	91	0.0011013215859030838
+UV area purifier	Multi-Tech XJ-3000C out of Surround Air	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV blacklight	Funfairs	1	1	3	3	NULL	NULL	NULL	6	11	0.05555555555555555
+UV blacklight	used in Night club	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UV blacklight	Raves	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+uv blocker	typical uv blocker	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UV blocker	avobenzone	1	1	3	3	1.000000000000	NULL	NULL	91	29	0.003663003663003663
+uv blocker	inorganic uv blocker	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UV blocking filter	Schott glasswg-370	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UV blocking filter	Schott glass WG-370	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UV blue ornament	blue feather	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UV characteristic	ionizing spectrum	5	1	7	3	NULL	NULL	NULL	5	1	0.7142857142857143
+UV characteristic	colored	1	1	7	3	NULL	NULL	NULL	70	50	0.002040816326530612
+UV characteristic	security	1	1	7	3	NULL	NULL	NULL	8153	2525	0.00001752203395770181
+UV coating machine related offer	Heat Machine	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+UV coating machine related offer	Screen Machine	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+UV coating machine related offer	Plate Machine	1	1	3	3	1.000000000000	NULL	NULL	21	5	0.015873015873015872
+uv color	green	1	1	2	2	NULL	NULL	NULL	6694	1904	0.00007469375560203167
+uv color	deeper blue	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UV company	atg UV Technology	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+UV company	Trojan Technologies	1	1	4	3	NULL	NULL	NULL	4	4	0.0625
+UV company	ETS	1	1	4	3	NULL	NULL	NULL	61	46	0.004098360655737705
+UV consumable	ink	1	1	1	1	NULL	NULL	NULL	1492	512	0.0006702412868632708
+UV curable cement	Acrifix 192	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV curable intermediate transfer medium	belt	2	1	2	1	NULL	NULL	NULL	3587	1043	0.0005575689991636465
+UV curable liquid molding material	resin	1	1	2	2	NULL	NULL	NULL	1240	509	0.0004032258064516129
+UV curable liquid molding material	fiber	1	1	2	2	NULL	NULL	NULL	1880	746	0.00026595744680851064
+UV curable material	photoemulsion	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV curable resin	solventless epoxy resin	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV curable system p hotoinitiators	Irgacure 907	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UV curable system photoinitiators	Irgacure 907	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+uv curing equipment	uv curing machine	1	1	1	1	1.000000000000	NULL	NULL	20	7	0.05
+UV disinfection system	system disclosed in FIG	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UV excitable compound	fluorescent compound	2	2	2	1	1.000000000000	NULL	NULL	8	5	0.25
+UV excitable DNA dye	DAPI	1	1	1	1	1.000000000000	NULL	NULL	41	25	0.024390243902439025
+UV excitation source	HeCd laser	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV filter	benzophenone	8	6	13	6	0.666666666666	NULL	NULL	164	83	0.0300187617260788
+UV filter	Tiffen's Haze 2A	2	2	13	6	0.666666666666	NULL	NULL	2	1	0.15384615384615385
+UV filter	titanium dioxide	1	1	13	6	0.666666666666	NULL	NULL	1274	421	0.00006037918125830214
+UV filter	benz ophenones	1	1	13	6	0.666666666666	NULL	NULL	1	1	0.07692307692307693
+uv filter	physical uv filter	1	1	13	6	0.666666666666	NULL	NULL	2	2	0.038461538461538464
+UV finishing effect	spot coating	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UV finishing effect	high-gloss UV coating	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV forensic dye	SmartWater	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+UV gas laser	nitrogen	1	1	1	1	NULL	NULL	NULL	6796	1291	0.00014714537963507945
+UV generator	UV generator shown in FIG	2	2	2	1	NULL	NULL	NULL	2	1	1
+UV guard	Weatherall	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UV hardcoats	SDC-1175 for thermoplastic lens	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+UV illumination source	standard LED UV illumination	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV illumination source	mercury illumination	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV inhibitor	UV Tech	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV interactive product	UV reactive toy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV interactive product	tube	1	1	2	2	NULL	NULL	NULL	1226	603	0.0004078303425774878
+uv irradiation	acute uv irradiation	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UV irradiation strong oxidizer	ozone	1	1	1	1	NULL	NULL	NULL	1944	568	0.00051440329218107
+UV lamp	ultra-high stable xenon mercury	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV lamp related offer	Fog Lamp	1	1	2	2	0.500000000000	NULL	NULL	90	57	0.005555555555555556
+UV lamp related offer	Nail UV Lamp	1	1	2	2	0.500000000000	NULL	NULL	20	16	0.025
+UV laser	excimer laser	2	2	6	5	NULL	NULL	NULL	110	47	0.006060606060606061
+UV laser	nitrogen	1	1	6	5	NULL	NULL	NULL	6796	1291	0.000024524229939179907
+UV laser	XeCl laser	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+UV laser	diode	1	1	6	5	NULL	NULL	NULL	1209	405	0.00013785497656465398
+uv laser	deep uv laser	1	1	6	5	NULL	NULL	NULL	3	3	0.05555555555555555
+UV light	tanning salon	3	3	7	4	0.500000000000	NULL	NULL	47	23	0.027355623100303948
+UV light	sunlight	2	2	7	4	0.500000000000	NULL	NULL	1231	402	0.00046419867703377044
+UV light	high pressure mercury lamp	1	1	7	4	0.500000000000	NULL	NULL	32	16	0.004464285714285714
+UV light	laser	1	1	7	4	0.500000000000	NULL	NULL	2863	1216	0.000049897709695124994
+UV light absorber	benzatriazole UV light absorber	3	3	3	1	1.000000000000	NULL	NULL	3	1	1
+UV light damage micro-organisms	germ	1	1	1	1	NULL	NULL	NULL	103	69	0.009708737864077669
+UV light disinfection unit	UV Waterworks.TM	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV light related offer	UV Lamp	1	1	2	2	1.000000000000	NULL	NULL	54	38	0.009259259259259259
+UV light related offer	Nail Gel	1	1	2	2	1.000000000000	NULL	NULL	5	4	0.1
+UV light source	germicidal lamp	6	4	43	30	0.588235294117	NULL	NULL	13	8	0.06440071556350625
+UV light source	xenon lamp	3	2	43	30	0.588235294117	NULL	NULL	120	58	0.0017441860465116277
+UV light source	UV light emitting diode	2	2	43	30	0.588235294117	NULL	NULL	3	2	0.031007751937984496
+UV light source	germicidal UVC wavelength	2	2	43	30	0.588235294117	NULL	NULL	2	1	0.046511627906976744
+UV light source	arc lamp	2	2	43	30	0.588235294117	NULL	NULL	87	43	0.0010692328254477412
+UV light source	halogen	2	2	43	30	0.588235294117	NULL	NULL	731	251	0.00012725479591512104
+UV light source	black light fluorescent	2	2	43	30	0.588235294117	NULL	NULL	2	1	0.046511627906976744
+UV light source	black-light UVA wavelength	2	2	43	30	0.588235294117	NULL	NULL	2	1	0.046511627906976744
+UV light source	bright sunshine	1	1	43	30	0.588235294117	NULL	NULL	9	6	0.002583979328165375
+UV light source	gas discharge lamp	1	1	43	30	0.588235294117	NULL	NULL	14	10	0.0016611295681063123
+UV light source	high pressure mercury lamp	1	1	43	30	0.588235294117	NULL	NULL	32	16	0.0007267441860465116
+uv light source	high-wattage uv light source	1	1	43	30	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+uv light source	deep uv light source	1	1	43	30	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+UV light source	metal halide lamp	1	1	43	30	0.588235294117	NULL	NULL	134	59	0.00017355085039916696
+uv light source	semiconductor uv light source	1	1	43	30	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+UV light source	bulb	1	1	43	30	0.588235294117	NULL	NULL	454	233	0.00005122425980944575
+UV light source	flashlight	1	1	43	30	0.588235294117	NULL	NULL	1264	435	0.000018398586988519283
+UV light source	natural sunlight	1	1	43	30	0.588235294117	NULL	NULL	18	12	0.0012919896640826874
+UV light source	UV emitting artifical source	1	1	43	30	0.588235294117	NULL	NULL	1	1	0.023255813953488372
+UV light source	UV lightemitting diode	1	1	43	30	0.588235294117	NULL	NULL	1	1	0.023255813953488372
+UV light source	mercury vapor lamp	1	1	43	30	0.588235294117	NULL	NULL	55	33	0.00042283298097251583
+UV light source	UV laser	1	1	43	30	0.588235294117	NULL	NULL	7	6	0.0033222591362126247
+uv light source	conventional uv light source	1	1	43	30	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+UV light source	deuterium	1	1	43	30	0.588235294117	NULL	NULL	68	33	0.0003419972640218878
+UV light source	laser	1	1	43	30	0.588235294117	NULL	NULL	2863	1216	0.000008122882973624998
+UV light source	low pressure mercury lamp	1	1	43	30	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+UV light source	low-pressure mercury lamp	1	1	43	30	0.588235294117	NULL	NULL	4	3	0.005813953488372093
+UV light source	high-pressure mercury lamp	1	1	43	30	0.588235294117	NULL	NULL	26	15	0.0008944543828264759
+UV light source	fluorescent light	1	1	43	30	0.588235294117	NULL	NULL	203	111	0.00011456065986940085
+uv light source	on-off uv light source	1	1	43	30	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+UV light therapy	Ultraviolet Blood Irradiation	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UV light-induced DNA lesion	pyrimidine pyrimidone photoproducts	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UV lighting	fluorescent bulb	1	1	1	1	NULL	NULL	NULL	89	45	0.011235955056179775
+UV mapping	Planar Mapping	3	3	3	1	NULL	NULL	NULL	5	2	0.6
+UV mapping program	Steve Cox's UVMapper	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV mapping tool	Cylindrical mapping	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+UV mapping tool	Planar mapping	2	2	4	2	NULL	NULL	NULL	5	2	0.2
+UV measuring instrument	UV radiometer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV measuring instrument	UV energy meter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV mimetic compound	psoralen	1	1	3	3	0.500000000000	NULL	NULL	37	30	0.009009009009009009
+UV mimetic compound	benzopyrene	1	1	3	3	0.500000000000	NULL	NULL	239	85	0.001394700139470014
+UV mimetic compound	cisplatin	1	1	3	3	0.500000000000	NULL	NULL	772	229	0.0004317789291882556
+UV object	sphere	1	1	1	1	NULL	NULL	NULL	972	459	0.00102880658436214
+UV part	UV unit	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UV part	replacement bulb	1	1	2	2	1.000000000000	NULL	NULL	14	9	0.03571428571428571
+UV party fancy dress item	UV tutu	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV photoproducts	cyclobutane pyrimidine dimers	1	1	1	1	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+UV polarizers	Glan Thompson Alpha BBO	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV polymerization initiator	Darocure	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV polymerization initiator	Irgacure-184	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV process	curing of coating	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+UV process	surface disinfection	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+UV protection	sunglasses	1	1	1	1	0.333333333333	NULL	NULL	1222	408	0.0008183306055646482
+UV protection product	specially designed sun glass	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UV protection product	Phyto Protective Beach Spray	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UV protection product	sunscreen	1	1	4	4	NULL	NULL	NULL	721	296	0.00034674063800277393
+UV protection product	Redken Color Extend Sun Shield	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+UV protective device	hat	3	1	3	1	NULL	NULL	NULL	4593	1302	0.0006531678641410843
+UV protective lens	welder's helmet	2	1	2	1	NULL	NULL	NULL	10	5	0.2
+UV protective lotion	sunscreen	1	1	1	1	NULL	NULL	NULL	721	296	0.0013869625520110957
+UV radiation absorbers	titanium dioxide	1	1	1	1	NULL	NULL	NULL	1274	421	0.0007849293563579278
+UV radiation source	arc welding	1	1	3	3	NULL	NULL	NULL	82	53	0.004065040650406504
+UV radiation source	lightning	1	1	3	3	NULL	NULL	NULL	900	394	0.00037037037037037035
+UV radiation source	xenon radiation source	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UV radiation-absorbing agent	triazines	1	1	1	1	1.000000000000	NULL	NULL	47	16	0.02127659574468085
+UV radiation-responsive disease	eczema	1	1	2	2	0.500000000000	NULL	NULL	3167	533	0.00015787811809283233
+UV radiation-responsive disease	mycosis fungoides	1	1	2	2	0.500000000000	NULL	NULL	31	17	0.016129032258064516
+UV raman sample	protein	1	1	2	2	NULL	NULL	NULL	5809	1696	0.00008607333448097779
+UV raman sample	semiconductor	1	1	2	2	NULL	NULL	NULL	981	357	0.0005096839959225281
+UV ray	glass container sitting in the sun	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+UV ray	tanning bed	1	1	5	5	0.500000000000	NULL	NULL	120	48	0.0016666666666666668
+UV ray	UV-A	1	1	5	5	0.500000000000	NULL	NULL	3	3	0.06666666666666667
+UV ray	direct sunlight	1	1	5	5	0.500000000000	NULL	NULL	153	71	0.0013071895424836603
+UV ray	found in sunlight	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+UV reflective lamina	aluminum foil sheet	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UV resistant coating	urethane	1	1	1	1	NULL	NULL	NULL	368	199	0.002717391304347826
+UV resistant color	yellow	1	1	2	2	NULL	NULL	NULL	5611	1380	0.00008911067545891998
+UV resistant color	brown	1	1	2	2	NULL	NULL	NULL	4244	1139	0.000117813383600377
+UV resistant material	zinc oxide	1	1	1	1	NULL	NULL	NULL	1245	447	0.0008032128514056225
+UV satellite observatory	IUE	2	1	6	3	1.000000000000	NULL	NULL	9	7	0.07407407407407407
+UV satellite observatory	OAO-2	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+UV satellite observatory	OAO-3	2	1	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+UV satellite sensor	Total Ozone Mapping Spectrometer	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+UV sensitive formulation	hair spray	1	1	2	2	NULL	NULL	NULL	600	192	0.0008333333333333334
+UV sensitive formulation	facial toning lotion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV sensitive material	photochromic ink	2	2	2	1	NULL	NULL	NULL	2	1	1
+UV source	mercury microwave arc lamp	3	2	17	12	0.400000000000	NULL	NULL	3	1	0.17647058823529413
+UV source	UV lamp	2	2	17	12	0.400000000000	NULL	NULL	54	38	0.004357298474945533
+UV source	sun	2	2	17	12	0.400000000000	NULL	NULL	2604	964	0.00009035872413481521
+UV source	utilizing elements comprising mercury gas	2	2	17	12	0.400000000000	NULL	NULL	2	1	0.11764705882352941
+uv source	traditional cw uv source	1	1	17	12	0.400000000000	NULL	NULL	2	2	0.029411764705882353
+uv source	common uv source	1	1	17	12	0.400000000000	NULL	NULL	2	2	0.029411764705882353
+UV source	high pressure mercury lamp	1	1	17	12	0.400000000000	NULL	NULL	32	16	0.001838235294117647
+UV source	excimer laser	1	1	17	12	0.400000000000	NULL	NULL	110	47	0.0005347593582887701
+uv source	strong uv source	1	1	17	12	0.400000000000	NULL	NULL	2	2	0.029411764705882353
+UV source	mercury	1	1	17	12	0.400000000000	NULL	NULL	6018	1029	0.000009774597775301547
+UV source	various germicidal light	1	1	17	12	0.400000000000	NULL	NULL	1	1	0.058823529411764705
+uv source	deep uv source	1	1	17	12	0.400000000000	NULL	NULL	2	2	0.029411764705882353
+UV stabilizer	benzophenone	2	2	12	11	0.200000000000	NULL	NULL	164	83	0.002032520325203252
+UV stabilizer	benzophenone s	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+UV stabilizer	benzoate-type quencher	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+UV stabilizer	2	1	1	12	11	0.200000000000	NULL	NULL	1172	663	0.00007110352673492605
+UV stabilizer	hydrolysis stabilizer	1	1	12	11	0.200000000000	NULL	NULL	2	2	0.041666666666666664
+UV stabilizer	nickel bissulfide	1	1	12	11	0.200000000000	NULL	NULL	1	1	0.08333333333333333
+uv stabilizer	typical organic uv stabilizer	1	1	12	11	0.200000000000	NULL	NULL	2	2	0.041666666666666664
+UV stabilizer	hindered amine light stabilizer	1	1	12	11	0.200000000000	NULL	NULL	22	4	0.0037878787878787876
+UV stabilizer	hindered amines	1	1	12	11	0.200000000000	NULL	NULL	13	8	0.00641025641025641
+UV stabilizer	hindered phenol	1	1	12	11	0.200000000000	NULL	NULL	55	24	0.0015151515151515152
+UV stabilizer	UV absorbers	1	1	12	11	0.200000000000	NULL	NULL	150	33	0.0005555555555555556
+UV stable topcoat	urethane	1	1	1	1	NULL	NULL	NULL	368	199	0.002717391304347826
+uv substance	laundry detergent	1	1	1	1	NULL	NULL	NULL	455	214	0.002197802197802198
+UV sunscreen agent	PABA	2	1	2	1	1.000000000000	NULL	NULL	29	17	0.06896551724137931
+UV supply	Quartz Sleeves	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV system	Hallett 15xs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV system	general industrial coating	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV tanning	spray tan	1	1	1	1	NULL	NULL	NULL	46	20	0.021739130434782608
+UV tanning device	tanning bed	1	1	1	1	NULL	NULL	NULL	120	48	0.008333333333333333
+UV tanning product	spray tan	1	1	1	1	NULL	NULL	NULL	46	20	0.021739130434782608
+UV tool	deepuv	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV transparent cation	cesium salt	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+UV transparent cation	tetraethylammonium ion	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+UV transparent cation	tetramethylammonium ion	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+UV transparent eluent	sodium methanesulfonate	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV transparent material	BaF 2	1	1	3	3	0.333333333333	NULL	NULL	19	17	0.017543859649122806
+UV transparent material	NaF	1	1	3	3	0.333333333333	NULL	NULL	42	25	0.007936507936507936
+UV transparent material	quartz	1	1	3	3	0.333333333333	NULL	NULL	2011	716	0.00016575501408917618
+UV transparent polymer	dextran	1	1	2	2	NULL	NULL	NULL	372	154	0.0013440860215053765
+UV transparent polymer	poly	1	1	2	2	NULL	NULL	NULL	1279	538	0.00039093041438623924
+UV varnish	Golden's MSA Varnish with UVLS	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV wavelength	200 nm	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-absorbable matter	rare earth materials lanthanide phosphate	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-absorbent aryl ballast group	benzene	1	1	1	1	NULL	NULL	NULL	4065	919	0.0002460024600246002
+UV-absorbers	UV-9 supplied by the Cyanamid Corporation	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-absorbing agent	p-aminobenzoic acid	1	1	1	1	1.000000000000	NULL	NULL	13	8	0.07692307692307693
+UV-absorbing cationic surfactant	benzethonium chloride	1	1	1	1	NULL	NULL	NULL	39	19	0.02564102564102564
+uv-absorbing cell component	nucleic acid	2	2	4	2	0.500000000000	NULL	NULL	758	277	0.0013192612137203166
+uv-absorbing cell component	aromatic amino acid	2	2	4	2	0.500000000000	NULL	NULL	14	12	0.07142857142857142
+uv-absorbing chemical additive	substituted benzophenones	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+uv-absorbing component	color component	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+uv-absorbing component	fragrance	1	1	2	2	NULL	NULL	NULL	900	314	0.0005555555555555556
+uv-absorbing compound	benzophenone	2	1	7	4	0.500000000000	NULL	NULL	164	83	0.003484320557491289
+uv-absorbing compound	flavonoids	2	2	7	4	0.500000000000	NULL	NULL	812	259	0.0007037297677691766
+uv-absorbing compound	oxybenzone	2	1	7	4	0.500000000000	NULL	NULL	82	26	0.006968641114982578
+uv-absorbing compound	mycosporine-like amino acid	1	1	7	4	0.500000000000	NULL	NULL	11	6	0.012987012987012986
+UV-absorbing ophthalmic biomaterials	intraocular lens	1	1	2	2	0.500000000000	NULL	NULL	48	30	0.010416666666666666
+UV-absorbing ophthalmic biomaterials	contact lens	1	1	2	2	0.500000000000	NULL	NULL	394	177	0.0012690355329949238
+uv-absorbing substance	mycosporine-like amino acid	1	1	1	1	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+UV-assisted NIL process	step-and flash imprint lithography	3	2	3	1	NULL	NULL	NULL	3	1	1
+UV-B chromophores	aromatic amino acid	1	1	2	2	0.500000000000	NULL	NULL	14	12	0.03571428571428571
+UV-B chromophores	NADH	1	1	2	2	0.500000000000	NULL	NULL	111	54	0.0045045045045045045
+UV-B lamp	20 watt Westinghouse FS-20 lamp	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-based therapy	PUVA	1	1	1	1	1.000000000000	NULL	NULL	40	27	0.025
+UV-blocking layer	UV-absorbable layer	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-blocking material	polycarbonate	1	1	1	1	NULL	NULL	NULL	1335	404	0.000749063670411985
+UV-C generator	bank of mercury bulb	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-C light product	UV-C Miracle Wand	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-curable coating	clear matte tint base varnish	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UV-curable coating	hot stampable coating	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uv-curable material	adhesive	1	1	3	3	NULL	NULL	NULL	1897	624	0.00017571604287471446
+uv-curable material	ink	1	1	3	3	NULL	NULL	NULL	1492	512	0.00022341376228775692
+uv-curable material	coating	1	1	3	3	NULL	NULL	NULL	1038	404	0.0003211303789338471
+uv-curable system	printing ink	1	1	3	3	NULL	NULL	NULL	469	387	0.0007107320540156361
+uv-curable system	lacquer	1	1	3	3	NULL	NULL	NULL	503	235	0.0006626905235255136
+uv-curable system	varnish	1	1	3	3	NULL	NULL	NULL	679	285	0.0004909180166912126
+uv-curing condition	cur ingvoltage	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-curing oven	oven provided by Dubois Equipment Co.	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-drying product	Standox UV Stopper	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-effects	mutagenesis	2	2	2	1	0.500000000000	NULL	NULL	57	31	0.03508771929824561
+uv-emitting light	incandescent lamp	1	1	2	2	NULL	NULL	NULL	170	91	0.0029411764705882353
+uv-emitting light	mercury lamp	1	1	2	2	NULL	NULL	NULL	82	43	0.006097560975609756
+uv-excited dye	Indo-1	1	1	3	3	1.000000000000	NULL	NULL	12	9	0.027777777777777776
+uv-excited dye	Hoechst 33342	1	1	3	3	1.000000000000	NULL	NULL	9	6	0.037037037037037035
+uv-excited dye	DAPI	1	1	3	3	1.000000000000	NULL	NULL	41	25	0.008130081300813007
+UV-free light	tungsten light	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+UV-free spray product	Mystic Tan	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+UV-illuminated catalyst	titanium dioxide	2	2	2	1	NULL	NULL	NULL	1274	421	0.0015698587127158557
+uv-induced damage	premature aging	1	1	2	2	NULL	NULL	NULL	67	37	0.007462686567164179
+uv-induced damage	inflammation	1	1	2	2	NULL	NULL	NULL	1587	567	0.000315059861373661
+uv-induced dark spot	freckle	1	1	1	1	NULL	NULL	NULL	333	131	0.003003003003003003
+uv-induced DNA lesion	thymine dimers	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+uv-induced intracellular mediator	ceramide	1	1	1	1	NULL	NULL	NULL	134	55	0.007462686567164179
+uv-induced process	edema formation	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UV-induced pyrimidine dimers	cyclobutane pyrimidine dimers	1	1	1	1	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+uv-induced reaction	oxidation	1	1	2	2	NULL	NULL	NULL	631	261	0.000792393026941363
+uv-induced reaction	redness	1	1	2	2	NULL	NULL	NULL	1133	320	0.000441306266548985
+uv-induced skin damage	skin aging	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+UV-inhibiting finish	penetrating oil finish	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uv-lamp	print page uv-lamp	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-light active photocatalytic inorganic nanomaterials	titania	1	1	1	1	NULL	NULL	NULL	248	117	0.004032258064516129
+uv-mimetic agent	cisplatin	1	1	1	1	NULL	NULL	NULL	772	229	0.0012953367875647669
+uv-protective product	sun-blocking clothing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uv-protective product	wide-brimmed sun hat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uv-radiating source	arc lamp	1	1	3	3	NULL	NULL	NULL	87	43	0.0038314176245210726
+uv-radiating source	welding flame	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uv-radiating source	special type lamp	1	1	3	3	NULL	NULL	NULL	6	2	0.05555555555555555
+uv-reflective plumage part	violet-UV colored cheek feather	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-related skin cancer	Merkel cell carcinoma	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+uv-related skin disorder	premature aging of the skin	1	1	2	2	0.500000000000	NULL	NULL	5	4	0.1
+uv-related skin disorder	Actinic Keratosis	1	1	2	2	0.500000000000	NULL	NULL	65	31	0.007692307692307693
+UV-resistant coating	bitumen	2	2	2	1	0.500000000000	NULL	NULL	259	145	0.007722007722007722
+uv-resistant pipette	pipette	1	1	1	1	NULL	NULL	NULL	137	71	0.0072992700729927005
+UV-screening glass	TruVue Museum Glass	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-sensitive component	opto-electronic sensor	1	1	1	1	NULL	NULL	NULL	1	1	1
+uv-sensitive molecule	DNA	1	1	2	2	NULL	NULL	NULL	1687	590	0.0002963841138114997
+uv-sensitive molecule	protein	1	1	2	2	NULL	NULL	NULL	5809	1696	0.00008607333448097779
+uv-sensitive substrate	frequently found in microelectronics	1	1	1	1	NULL	NULL	NULL	1	1	1
+UV-stabilisers	substituted benzophenones	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+uv-stabilized step growth polymer	polyurethane	2	2	4	3	NULL	NULL	NULL	1701	670	0.0005878894767783657
+uv-stabilized step growth polymer	polyester	2	2	4	3	NULL	NULL	NULL	3517	980	0.0002843332385555871
+uv-transparent material	NaF	1	1	2	2	0.500000000000	NULL	NULL	42	25	0.011904761904761904
+uv-transparent material	BaF 2	1	1	2	2	0.500000000000	NULL	NULL	19	17	0.02631578947368421
+uv-transparent substrate	quartz	1	1	1	1	NULL	NULL	NULL	2011	716	0.0004972650422675286
+UV-visible photon conversion layer	phosphor layer	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+UV-visible spectrometry	reflectance UV-visible spectrometry	1	1	1	1	NULL	NULL	NULL	1	1	1
+UVA blocker	avobenzone	1	1	3	3	0.333333333333	NULL	NULL	91	29	0.003663003663003663
+UVA blocker	zinc oxide	1	1	3	3	0.333333333333	NULL	NULL	1245	447	0.0002677376171352075
+UVA blocker	titanium oxide	1	1	3	3	0.333333333333	NULL	NULL	532	193	0.0006265664160401002
+UVA blocking compound	avobenzone	1	1	1	1	1.000000000000	NULL	NULL	91	29	0.01098901098901099
+UVA bulb	regular light bulb	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UVA community event	Trick	1	1	2	2	NULL	NULL	NULL	90	58	0.005555555555555556
+UVA community event	Treating on the Lawn	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UVA exposure reactive oxygen species	singlet oxygen	1	1	1	1	NULL	NULL	NULL	112	38	0.008928571428571428
+UVA filter	avobenzone	2	2	7	5	0.500000000000	NULL	NULL	91	29	0.006279434850863422
+UVA filter	zinc oxide	2	2	7	5	0.500000000000	NULL	NULL	1245	447	0.00045897877223178424
+UVA filter	octocrylene	1	1	7	5	0.500000000000	NULL	NULL	15	12	0.009523809523809523
+UVA filter	titanium dioxide	1	1	7	5	0.500000000000	NULL	NULL	1274	421	0.00011213276519398968
+UVA filter	ecamsule	1	1	7	5	0.500000000000	NULL	NULL	6	2	0.023809523809523808
+uva great	Anthony Poindexter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uva great	Shawn Moore	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UVA hospital & department	Surgery	1	1	13	13	0.111111111111	NULL	NULL	3491	1070	0.000022034682590397287
+UVA hospital & department	Forest Lakes Health Center	1	1	13	13	0.111111111111	NULL	NULL	1	1	0.07692307692307693
+UVA hospital & department	Breast Care	1	1	13	13	0.111111111111	NULL	NULL	9	8	0.008547008547008548
+UVA hospital & department	Physical Medicine & Rehabilitation	1	1	13	13	0.111111111111	NULL	NULL	1	1	0.07692307692307693
+UVA hospital & department	Nephrology	1	1	13	13	0.111111111111	NULL	NULL	71	35	0.0010834236186348864
+UVA hospital & department	Internal Medicine at Lake Monticello	1	1	13	13	0.111111111111	NULL	NULL	1	1	0.07692307692307693
+UVA hospital & department	Gastroenterology	1	1	13	13	0.111111111111	NULL	NULL	150	73	0.0005128205128205128
+UVA hospital & department	Dermatology	1	1	13	13	0.111111111111	NULL	NULL	311	121	0.0002473410833539451
+UVA hospital & department	Family Medicine	1	1	13	13	0.111111111111	NULL	NULL	92	39	0.0008361204013377927
+UVA hospital & department	Aesthetic Center	1	1	13	13	0.111111111111	NULL	NULL	1	1	0.07692307692307693
+UVA hospital & department	Urology	1	1	13	13	0.111111111111	NULL	NULL	154	73	0.0004995004995004995
+UVA hospital & department	Nutrition	1	1	13	13	0.111111111111	NULL	NULL	3736	954	0.0000205896886839071
+UVA hospital & department	Psychiatry	1	1	13	13	0.111111111111	NULL	NULL	352	113	0.00021853146853146853
+uva lamp supplier	Phillips	1	1	2	2	NULL	NULL	NULL	336	144	0.001488095238095238
+uva lamp supplier	General Electric	1	1	2	2	NULL	NULL	NULL	2514	682	0.0001988862370723946
+uva player	Richard Morgan	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+UVA protection ingredient	Avobenzone	1	1	2	2	1.000000000000	NULL	NULL	91	29	0.005494505494505495
+UVA protection ingredient	Mexoryl	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+UVA sport	cycling	1	1	1	1	NULL	NULL	NULL	5412	1129	0.00018477457501847746
+uva's digital facility	Digital Library	1	1	1	1	NULL	NULL	NULL	142	88	0.007042253521126761
+uva's online resource	full-text journal	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+uva's online resource	MD Consult	1	1	3	3	0.500000000000	NULL	NULL	15	12	0.02222222222222222
+uva's online resource	MEDLINE	1	1	3	3	0.500000000000	NULL	NULL	183	76	0.0018214936247723133
+uva-absorbing ingredient	avobenzone	1	1	3	3	0.333333333333	NULL	NULL	91	29	0.003663003663003663
+uva-absorbing ingredient	zinc oxide	1	1	3	3	0.333333333333	NULL	NULL	1245	447	0.0002677376171352075
+uva-absorbing ingredient	titanium dioxide	1	1	3	3	0.333333333333	NULL	NULL	1274	421	0.0002616431187859759
+uva-absorbing or uva-reflecting chemical	titanium dioxide	1	1	3	3	0.333333333333	NULL	NULL	1274	421	0.0002616431187859759
+uva-absorbing or uva-reflecting chemical	avobenzone	1	1	3	3	0.333333333333	NULL	NULL	91	29	0.003663003663003663
+uva-absorbing or uva-reflecting chemical	zinc oxide	1	1	3	3	0.333333333333	NULL	NULL	1245	447	0.0002677376171352075
+UVA-Q author	Carlos Barral	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uvalde hotel's amenity	complimentary breakfast bar	2	2	4	2	NULL	NULL	NULL	5	2	0.2
+uvalde hotel's amenity	onsite Business Center	2	2	4	2	NULL	NULL	NULL	6	3	0.16666666666666666
+uvaldean cowboy	Chris Kelly	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+uvandirspectroscopy spectroscopic method	UV	1	1	1	1	NULL	NULL	NULL	347	203	0.002881844380403458
+UVB bulb	Reptisun 5.0	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UVB endpoint	sunburn used in SPF testing	1	1	1	1	NULL	NULL	NULL	1	1	1
+uvb lamp	quality uvb lamp	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UVB light	Reptisun 10 tube bulb	1	1	1	1	NULL	NULL	NULL	1	1	1
+UVB linear bulb	ReptiSun 5.0	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+UVB source	fluorescent Reptosun	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UVB source	mercury vapor bulb	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UVB UVA light	Reptisun 5.0	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+uvb-induced change	erythema	1	1	1	1	NULL	NULL	NULL	384	174	0.0026041666666666665
+UVC resistant polymer	polyetheretherketone	1	1	2	2	NULL	NULL	NULL	47	32	0.010638297872340425
+UVC resistant polymer	polyvinylidene fluoride	1	1	2	2	NULL	NULL	NULL	119	62	0.004201680672268907
+UVC source	low	1	1	1	1	NULL	NULL	NULL	388	237	0.002577319587628866
+UVC usb webcam	Logitech QuickCam Vision Pro	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+UVC usb webcam	Creative LifeCam Optia	1	0	2	2	NULL	NULL	NULL	1	1	0.5
+uvc-induced apoptotic symptom	Bcl-2	2	2	4	2	0.666666666666	NULL	NULL	444	154	0.0022522522522522522
+uvc-induced apoptotic symptom	DNA fragmentation	2	2	4	2	0.666666666666	NULL	NULL	44	31	0.022727272727272728
+UVCB substance	complex reaction compound	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UVCB substance	extract	1	1	2	2	NULL	NULL	NULL	172	104	0.0029069767441860465
+uveitis	human endogenous uveitis	1	1	1	1	NULL	NULL	NULL	1	1	1
+uvex model	Uvex Slate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uvex model	Uvex Ignite	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uvex model	Uvex Polarized	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UVGI lamp manufacturer	Philips plc.	1	1	1	1	NULL	NULL	NULL	1	1	1
+uvic ceremony	Convocation	1	1	2	2	NULL	NULL	NULL	82	45	0.006097560975609756
+uvic ceremony	occasional wedding reception	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UVM alumnus	Tim Thomas	1	1	2	2	1.000000000000	NULL	NULL	12	6	0.041666666666666664
+UVM alumnus	Marty St. Louis	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+UVM department	Risk Management	1	1	1	1	NULL	NULL	NULL	1241	478	0.0008058017727639
+UVM specific feature	simulation log recognition	1	1	1	1	NULL	NULL	NULL	1	1	1
+UVR absorbing compound	melanin	1	1	1	1	NULL	NULL	NULL	79	42	0.012658227848101266
+uvr gene	uvra	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+UVR-1 technology	DATA Logging	1	1	2	2	NULL	NULL	NULL	98	45	0.00510204081632653
+UVR-1 technology	Tap Changer Contact Logging	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uvr-induced epigenetic change	alterations in DNA methylation pattern	1	1	1	1	NULL	NULL	NULL	1	1	1
+uvs-blocking ingredient	zinc oxide	1	1	2	2	NULL	NULL	NULL	1245	447	0.00040160642570281126
+uvs-blocking ingredient	titanium dioxide	1	1	2	2	NULL	NULL	NULL	1274	421	0.0003924646781789639
+UVSC department	building construction	1	1	1	1	NULL	NULL	NULL	167	95	0.005988023952095809
+uvtronics in-duct system	Sapphire Residential System	1	1	1	1	NULL	NULL	NULL	1	1	1

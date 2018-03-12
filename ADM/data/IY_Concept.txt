@@ -1,0 +1,20 @@
+IYA committee	Executive	1	1	2	2	NULL	NULL	NULL	355	214	0.0014084507042253522
+IYA committee	Youth	1	1	2	2	NULL	NULL	NULL	896	334	0.0005580357142857143
+iyashikei franchise	Yokohama Kaidashi Kikou	1	1	1	1	NULL	NULL	NULL	1	1	1
+iyengar teacher	senior iyengar teacher	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iyengar tradition prop	strap	1	1	2	2	NULL	NULL	NULL	846	291	0.000591016548463357
+iyengar tradition prop	block	1	1	2	2	NULL	NULL	NULL	1922	703	0.00026014568158168577
+iyengar wood prop	backbender bench	1	1	1	1	NULL	NULL	NULL	1	1	1
+iyengar yoga prop	strap	1	1	4	4	NULL	NULL	NULL	846	291	0.0002955082742316785
+iyengar yoga prop	sandbag	1	1	4	4	NULL	NULL	NULL	205	100	0.0012195121951219512
+iyengar yoga prop	block	1	1	4	4	NULL	NULL	NULL	1922	703	0.00013007284079084288
+iyengar yoga prop	blanket	1	1	4	4	NULL	NULL	NULL	3502	1014	0.00007138777841233581
+iyengar yoga tradition prop	block	1	1	2	2	NULL	NULL	NULL	1922	703	0.00026014568158168577
+iyengar yoga tradition prop	strap	1	1	2	2	NULL	NULL	NULL	846	291	0.000591016548463357
+iymphoproliferative disease	multiple myeloma	1	1	1	1	NULL	NULL	NULL	341	132	0.002932551319648094
+iyo's signature product	Blended coffee	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+iyo's signature product	Frozen Yogurt	1	1	2	2	0.500000000000	NULL	NULL	113	56	0.004424778761061947
+iyogi's US partner	Dell	1	1	2	2	NULL	NULL	NULL	6439	1426	0.00007765180928715639
+iyogi's US partner	IBM	1	1	2	2	NULL	NULL	NULL	11151	2595	0.00004483902788987535
+Iysimeters	200 literdrums	1	1	1	1	NULL	NULL	NULL	1	1	1
+IYV partner	Countrywide Indigenous Pilipinos Foundation Inc. in the Philippines	1	1	1	1	NULL	NULL	NULL	1	1	1

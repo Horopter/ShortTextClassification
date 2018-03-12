@@ -1,0 +1,37 @@
+MX application	ColdFusion MX	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+MX application	Fireworks MX	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+MX item	helmet	1	1	3	3	NULL	NULL	NULL	1237	402	0.00026946914578280785
+MX item	bike	1	1	3	3	NULL	NULL	NULL	787	350	0.00042354934349851756
+MX item	boot	1	1	3	3	NULL	NULL	NULL	1194	523	0.00027917364600781687
+MX navigator container	Tab Navigator	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+MX navigator container	Accordion	1	1	2	2	NULL	NULL	NULL	249	89	0.002008032128514056
+MX on-line dealer	LocoX	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MX on-line dealer	motorcyclesuperstore	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MX on-line dealer	competition Accessories	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+mx option	Thor carbon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mx option	fox carbon v3's	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mx option	Troy lee air	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MX part	exhaust	1	1	2	2	NULL	NULL	NULL	521	217	0.0009596928982725527
+MX part	ignition	1	1	2	2	NULL	NULL	NULL	151	91	0.0033112582781456954
+mx protein	human MxB protein	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+mx protein	duck Mx	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+mx protein	human MxB protein with no demonstrable antiviral activity	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+mx protein	rat Mx3 protein	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MX related item	dirt bike	1	1	2	2	NULL	NULL	NULL	132	201	0.003787878787878788
+MX related item	dirt bike accessory	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MX rider	Jeremy Mcgrath	1	1	5	5	1.000000000000	NULL	NULL	23	11	0.008695652173913044
+MX rider	Jermeny Stenberg	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+MX rider	Chad Reed	1	1	5	5	1.000000000000	NULL	NULL	23	12	0.008695652173913044
+MX rider	Josh Coppins	1	1	5	5	1.000000000000	NULL	NULL	8	4	0.025
+MX rider	Travis Pastrana	1	1	5	5	1.000000000000	NULL	NULL	35	22	0.005714285714285714
+MX Series router	Router PE3	1	1	1	1	NULL	NULL	NULL	1	1	1
+MX template feature	optional region	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MX template feature	repeating region	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MX text control	MX Label in mobile application	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MX text control	MX Text	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MXM4s	Pilot HX	1	1	1	1	NULL	NULL	NULL	1	1	1
+mxml file	canvasLogin . mxml	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mxml file	canvasSearch . mxml	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MXO2-supported QuickTime video application	Final Cut Pro	2	2	2	1	NULL	NULL	NULL	274	143	0.0072992700729927005
+MXPW star	Chaz	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+MXtreme functionality	embedded PostX encryption	1	1	1	1	NULL	NULL	NULL	1	1	1

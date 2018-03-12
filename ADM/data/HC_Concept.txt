@@ -1,0 +1,303 @@
+HC	SPA in Kuantan Plaza	1	1	1	1	0.250000000000	NULL	NULL	1	1	1
+HC algorithm hill climbing technique	gradient descent	1	1	1	1	NULL	NULL	NULL	90	61	0.011111111111111112
+HC fuel	diesel	1	1	3	3	NULL	NULL	NULL	1767	655	0.00018864365214110544
+HC fuel	methanol	1	1	3	3	NULL	NULL	NULL	4016	908	0.00008300132802124833
+HC fuel	petrol	1	1	3	3	NULL	NULL	NULL	978	379	0.0003408316291751874
+HC grad	Jon Landry	1	1	1	1	NULL	NULL	NULL	1	1	1
+Hc Hsps	Hsp70	2	2	2	1	1.000000000000	NULL	NULL	109	31	0.01834862385321101
+HC refrigerant	propane	5	2	15	3	0.333333333333	NULL	NULL	1936	597	0.0008608815426997244
+HC refrigerant	butane	5	2	15	3	0.333333333333	NULL	NULL	790	270	0.002109704641350211
+HC refrigerant	isobutene	5	2	15	3	0.333333333333	NULL	NULL	20	12	0.08333333333333333
+HC service	LASIK	1	1	1	1	NULL	NULL	NULL	328	107	0.003048780487804878
+HC situation	academic text making	1	1	1	1	NULL	NULL	NULL	1	1	1
+HC&S partner	Maui Cattle Co.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HC&S partner	Maui Energy Co.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HC12 reset	COP watchdog Reset	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HC12 reset	clock monitor Reset	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HC2 destination	farm	1	1	3	3	NULL	NULL	NULL	688	347	0.00048449612403100775
+HC2 destination	firetower	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HC2 destination	ski resort	1	1	3	3	NULL	NULL	NULL	124	71	0.0026881720430107525
+HC900 controller function block	PID	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+HCA compound	potassium HCA	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCA hospital	Cartersville Medical Center	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HCA hospital	Emory	1	1	2	2	1.000000000000	NULL	NULL	88	41	0.005681818181818182
+HCA partner	council	1	1	2	2	NULL	NULL	NULL	471	200	0.0010615711252653928
+HCA partner	local authority	1	1	2	2	NULL	NULL	NULL	810	241	0.0006172839506172839
+HCA program	Carbon Challenge	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+HCAABC team	basketball	1	1	2	2	NULL	NULL	NULL	10932	1509	0.000045737285034760334
+HCAABC team	softball	1	1	2	2	NULL	NULL	NULL	2536	392	0.0001971608832807571
+hcacfsofsome material	germanium structure	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hcacfsofsome material	silica structure	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hcandpmandair -toxic	benzene	1	1	2	2	NULL	NULL	NULL	4065	919	0.0001230012300123001
+hcandpmandair -toxic	aldehydes	1	1	2	2	NULL	NULL	NULL	554	261	0.0009025270758122744
+hcaof derivative	currency	1	1	1	1	NULL	NULL	NULL	807	355	0.0012391573729863693
+HCAs	PhIP	2	1	2	1	NULL	NULL	NULL	5	4	0.4
+HCBS service	respite care	1	1	2	2	NULL	NULL	NULL	302	96	0.0016556291390728477
+HCBS service	adult day health service	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+HCBS waiver program	nation's largest personal assistance program	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+HCBS waiver program	California's In-Home Supportive Services Program	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+HCBS waiver service	personal care	1	1	1	1	NULL	NULL	NULL	562	185	0.0017793594306049821
+HCC cell line	HepG2 andhuh-7	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HCC cell line	HepG2	1	1	2	2	1.000000000000	NULL	NULL	39	18	0.01282051282051282
+HCC detection index	AFP	1	1	2	2	NULL	NULL	NULL	134	78	0.0037313432835820895
+HCC detection index	CEA	1	1	2	2	NULL	NULL	NULL	174	64	0.0028735632183908046
+HCC marker	alkaline phosphatase	2	1	2	1	NULL	NULL	NULL	275	122	0.007272727272727273
+HCC produceproinflammatory cytokines	IL-8 by autocrineorparacrine	1	1	1	1	NULL	NULL	NULL	1	1	1
+hcc-associated protein	alpha 1-antitrypsin	2	2	8	6	1.000000000000	NULL	NULL	7	4	0.07142857142857142
+hcc-associated protein	rho-GDP dissociation inhibitor-beta	2	2	8	6	1.000000000000	NULL	NULL	2	1	0.25
+hcc-associated protein	proliferating cell nuclear antigen	2	1	8	6	1.000000000000	NULL	NULL	20	14	0.025
+hcc-associated protein	b-type hcc-associated protein	1	1	8	6	1.000000000000	NULL	NULL	2	2	0.0625
+hcc-associated protein	annexin V	1	1	8	6	1.000000000000	NULL	NULL	12	8	0.010416666666666666
+hcc-related pathologic condition	retroperitoneal seeding metastasis	1	1	1	1	NULL	NULL	NULL	1	1	1
+hccf's social event	annual Christmas party	1	1	1	1	1.000000000000	NULL	NULL	24	14	0.041666666666666664
+HCD artifact	storyboard	1	1	2	2	NULL	NULL	NULL	123	89	0.0040650406504065045
+HCD artifact	scenario	1	1	2	2	NULL	NULL	NULL	162	106	0.0030864197530864196
+HCD initiatedcontrol information	OPR	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+HCDP's	TRICARE Plus	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HCE expression	brah	3	3	5	2	1.000000000000	NULL	NULL	8	6	0.22499999999999998
+HCE expression	da kine	2	2	5	2	1.000000000000	NULL	NULL	6	3	0.13333333333333333
+HCE word	Brah	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+HCEA file	legislative session record	1	1	1	1	NULL	NULL	NULL	1	1	1
+Hcensed immorality	polygamy	1	1	1	1	NULL	NULL	NULL	321	122	0.003115264797507788
+HCF activity	sharing health insurance practice	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCFA regional office	San Francisco	1	1	1	1	NULL	NULL	NULL	3664	789	0.0002729257641921397
+HCFC producer	China	1	1	1	1	NULL	NULL	NULL	30422	3640	0.0000328709486555782
+HCFC refrigerant	R-22	4	3	9	4	1.000000000000	NULL	NULL	66	33	0.026936026936026935
+HCFC refrigerant	R22	3	3	9	4	1.000000000000	NULL	NULL	59	30	0.01694915254237288
+HCFC refrigerant	R-123	1	1	9	4	1.000000000000	NULL	NULL	4	4	0.027777777777777776
+hcfc refrigerant	non-ozone depleting hcfc refrigerant	1	1	9	4	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+hcfc-based refrigerant	R22	3	3	4	2	1.000000000000	NULL	NULL	59	30	0.038135593220338986
+hcfc-based refrigerant	R-22	1	1	4	2	1.000000000000	NULL	NULL	66	33	0.003787878787878788
+HCFCs	HCFC-141b	6	6	26	11	0.833333333333	NULL	NULL	17	8	0.08144796380090498
+HCFCs	R-22	4	4	26	11	0.833333333333	NULL	NULL	66	33	0.009324009324009324
+HCFCs	HCFC-22	3	3	26	11	0.833333333333	NULL	NULL	13	7	0.026627218934911243
+HCFCs	R22	3	3	26	11	0.833333333333	NULL	NULL	59	30	0.005867014341590613
+HCFCs	HCFC-123	2	2	26	11	0.833333333333	NULL	NULL	17	11	0.00904977375565611
+HCFCs	HCFC-142b	2	2	26	11	0.833333333333	NULL	NULL	5	4	0.03076923076923077
+HCFCs	HCFC-124	2	2	26	11	0.833333333333	NULL	NULL	4	3	0.038461538461538464
+hcfcs	low ozone depletion potential hcfcs	1	1	26	11	0.833333333333	NULL	NULL	1	1	0.038461538461538464
+HCFCs	carbon dioxide emissions into the troposphere	1	1	26	11	0.833333333333	NULL	NULL	1	1	0.038461538461538464
+HCFCs	R-124	1	1	26	11	0.833333333333	NULL	NULL	1	1	0.038461538461538464
+HCFCs	R-123	1	1	26	11	0.833333333333	NULL	NULL	4	4	0.009615384615384616
+HCFs	Bugiri Hospital	1	1	1	1	NULL	NULL	NULL	1	1	1
+hcg diet product	hcg clear	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+hcg diet product	hcg platinum	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+HCG diet recipe	cabbage	1	1	1	1	NULL	NULL	NULL	6090	1120	0.00016420361247947455
+hCG diet recipe cookbook	hCG Diet Gourmet Cookbook	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCG fertility medication	Pregnyl	2	2	4	2	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+HCG fertility medication	Novarel	2	2	4	2	1.000000000000	NULL	NULL	7	5	0.14285714285714285
+HCG fertility prescribed drug	Novarel	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+HCG fertility prescribed drug	Pregnyl	1	1	2	2	1.000000000000	NULL	NULL	14	10	0.03571428571428571
+HCG internet-based diet provider	Healthy HCG	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCG internet-based diet provider	Coco's HCG	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCG platinum's high quality product	HCG Platinum 60-day supply	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HCG platinum's high quality product	HCG Platinum X-14	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HCG platinum's high quality product	meal replacement	1	1	5	5	1.000000000000	NULL	NULL	32	17	0.00625
+HCG platinum's high quality product	buddy pack	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HCG platinum's high quality product	30-day supply	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+HCG product	cream	1	1	2	3	0.500000000000	NULL	NULL	4329	1449	0.0001155001155001155
+HCG product	Ovidrel	1	1	2	3	0.500000000000	NULL	NULL	9	7	0.05555555555555555
+hcg side effect	mood swing	2	1	4	3	NULL	NULL	NULL	1016	265	0.000984251968503937
+hcg side effect	irritability	1	1	4	3	NULL	NULL	NULL	2260	625	0.00011061946902654867
+hcg side effect	breast tenderness	1	1	4	3	NULL	NULL	NULL	441	101	0.0005668934240362812
+hCg trigger	Ovidrel	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+HCG weight drop light exercise	taking a walk	1	1	1	1	NULL	NULL	NULL	107	56	0.009345794392523364
+hcg-induced hormone	estrogen	1	1	2	2	NULL	NULL	NULL	1734	324	0.0002883506343713956
+hcg-induced hormone	progesterone	1	1	2	2	NULL	NULL	NULL	811	185	0.0006165228113440197
+HCH project	Lincoln Community Health Center's clinic at Urban Ministries	1	1	1	1	NULL	NULL	NULL	1	1	1
+hch-degrading microorganism	anaerobic	1	1	3	3	0.333333333333	NULL	NULL	10	10	0.03333333333333333
+hch-degrading microorganism	cyanobacteria	1	1	3	3	0.333333333333	NULL	NULL	242	102	0.001377410468319559
+hch-degrading microorganism	fungus	1	1	3	3	0.333333333333	NULL	NULL	2632	699	0.0001266464032421479
+HCI approach	interaction design	1	1	2	2	0.500000000000	NULL	NULL	42	28	0.011904761904761904
+HCI approach	virtual reality	1	1	2	2	0.500000000000	NULL	NULL	350	156	0.0014285714285714286
+HCI aspect	screen display	4	4	15	6	0.285714285714	NULL	NULL	24	16	0.044444444444444446
+HCI aspect	color	3	3	15	6	0.285714285714	NULL	NULL	11347	3399	0.000052877412531946776
+HCI aspect	font	3	3	15	6	0.285714285714	NULL	NULL	1507	559	0.0003981420039814201
+HCI aspect	background	3	3	15	6	0.285714285714	NULL	NULL	923	394	0.0006500541711809318
+HCI aspect	interaction design	1	1	15	6	0.285714285714	NULL	NULL	42	28	0.0015873015873015873
+HCI aspect	ergonomics	1	1	15	6	0.285714285714	NULL	NULL	365	140	0.00018264840182648402
+HCI concept	user-centered design	1	1	2	2	1.000000000000	NULL	NULL	21	16	0.023809523809523808
+HCI concept	usability engineering	1	1	2	2	1.000000000000	NULL	NULL	17	13	0.029411764705882353
+HCI conference	ergonomically oriented Work With Display Units	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HCI conference	Symposium on Human Interface in Japan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HCI conference	HCI in England	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+HCI design rule	standard	1	1	1	1	0.500000000000	NULL	NULL	1207	561	0.0008285004142502071
+HCI evaluation method	task analysis	1	1	1	1	NULL	NULL	NULL	76	47	0.013157894736842105
+HCI hardware	USB	1	1	1	1	NULL	NULL	NULL	993	441	0.0010070493454179255
+HCI issue	interaction technique	1	1	6	6	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+HCI issue	influencing student expectation	1	1	6	6	0.500000000000	NULL	NULL	3	2	0.05555555555555555
+HCI issue	motivation	1	1	6	6	0.500000000000	NULL	NULL	2639	716	0.00006315523556902867
+HCI issue	designing for specialized	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+HCI issue	user attention	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+HCI issue	information visualization of ambiguous datum	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+HCI method	usability evaluation	1	1	6	6	0.750000000000	NULL	NULL	5	5	0.03333333333333333
+HCI method	cognitive walkthrough	1	1	6	6	0.750000000000	NULL	NULL	22	10	0.007575757575757575
+HCI method	testing	1	1	6	6	0.750000000000	NULL	NULL	1639	662	0.00010168802115110839
+hci method	formal hci method	1	1	6	6	0.750000000000	NULL	NULL	2	2	0.08333333333333333
+HCI method	user evaluation	1	1	6	6	0.750000000000	NULL	NULL	3	3	0.05555555555555555
+HCI method	think-aloud protocol	1	1	6	6	0.750000000000	NULL	NULL	22	15	0.007575757575757575
+HCI object	menu	1	1	1	1	NULL	NULL	NULL	1327	581	0.0007535795026375283
+HCI paradigm	ubiquitous computing	1	1	1	1	NULL	NULL	NULL	88	51	0.011363636363636364
+HCI partner	Microsoft	1	1	1	1	NULL	NULL	NULL	11308	2573	0.00008843296781039972
+HCI professional method	usability testing	1	1	1	1	NULL	NULL	NULL	77	59	0.012987012987012988
+HCI providesvalue-added capability	time-outs	1	1	2	2	1.000000000000	NULL	NULL	44	48	0.011363636363636364
+HCI providesvalue-added capability	data access prioritization	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+HCI technique	task analysis focus on the human interface issues for individual users of a system	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCI technology	speaker verification	1	1	5	5	0.333333333333	NULL	NULL	14	12	0.014285714285714287
+HCI technology	speech recognition	1	1	5	5	0.333333333333	NULL	NULL	447	187	0.00044742729306487697
+HCI technology	voice-based interaction	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+HCI technology	face detection	1	1	5	5	0.333333333333	NULL	NULL	470	148	0.00042553191489361707
+HCI technology	vision-based interaction	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+HCI textbook	Shneiderman	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+HCI textbook	Preece et al.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCI topic	usability engineering	1	1	4	4	0.750000000000	NULL	NULL	17	13	0.014705882352941176
+HCI topic	large display	1	1	4	4	0.750000000000	NULL	NULL	21	10	0.011904761904761904
+HCI topic	accessibility	1	1	4	4	0.750000000000	NULL	NULL	1196	319	0.00020903010033444816
+HCI topic	user-centered design	1	1	4	4	0.750000000000	NULL	NULL	21	16	0.011904761904761904
+HCI vocabulary term	conceptual model	1	1	4	4	0.500000000000	NULL	NULL	15	12	0.016666666666666666
+HCI vocabulary term	feedback	1	1	4	4	0.500000000000	NULL	NULL	477	262	0.0005241090146750524
+HCI vocabulary term	affordance	1	1	4	4	0.500000000000	NULL	NULL	9	7	0.027777777777777776
+HCI vocabulary term	metaphor	1	1	4	4	0.500000000000	NULL	NULL	884	285	0.0002828054298642534
+hci's subsidiary board	Midi TV	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hci's subsidiary board	Mettle	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+hci-related concept	prototype	1	1	2	2	NULL	NULL	NULL	380	146	0.0013157894736842105
+hci-related concept	design	1	1	2	2	NULL	NULL	NULL	4272	1433	0.00011704119850187266
+hcial measure	surety	1	1	2	2	1.000000000000	NULL	NULL	30	25	0.016666666666666666
+hcial measure	provision of loan	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+HCL communication system	telephone	1	1	1	1	NULL	NULL	NULL	6660	1994	0.00015015015015015014
+hcl pill	Betaine Hydrochloride	2	1	2	1	1.000000000000	NULL	NULL	12	6	0.16666666666666666
+hcl's excellent imaging capability	Lane departure warning	1	1	2	2	0.500000000000	NULL	NULL	92	41	0.005434782608695652
+hcl's excellent imaging capability	panoramic rear view aid system	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+hclpedwith task	labeling	1	1	2	2	NULL	NULL	NULL	599	263	0.0008347245409015025
+hclpedwith task	mailing of the Mennonite Historian	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HClubs	Power Kids Gym	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCM area	training	1	1	5	5	0.250000000000	NULL	NULL	7685	2537	0.00002602472348731295
+HCM area	Human Resource Management Solution	1	1	5	5	0.250000000000	NULL	NULL	1	1	0.2
+HCM area	self-service	1	1	5	5	0.250000000000	NULL	NULL	42	29	0.004761904761904762
+HCM area	recruitment	1	1	5	5	0.250000000000	NULL	NULL	1488	522	0.00013440860215053763
+HCM area	performance management	1	1	5	5	0.250000000000	NULL	NULL	518	288	0.0003861003861003861
+HCM city television music program	Golden Album	3	3	3	1	NULL	NULL	NULL	3	1	1
+HCM city's gas firm	Sai Gon Petro	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HCM city's main street	Hai Ba Trung	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+HCM city's main street	Nam Ky Khoi Nghia	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCM city's wholesale market	Thu Duc	2	2	4	2	NULL	NULL	NULL	4	3	0.25
+HCM city's wholesale market	Tam Binh	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+HCM disease feature	LV outflow tract obstruction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCM disease feature	atrial fibrillation	1	1	2	2	NULL	NULL	NULL	552	206	0.0009057971014492754
+HCM issue	gender pay	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+HCM issue	workplace stress	1	1	2	2	1.000000000000	NULL	NULL	26	15	0.019230769230769232
+HCM process	onboarding	1	1	3	3	0.666666666666	NULL	NULL	16	13	0.020833333333333332
+HCM process	competency management	1	1	3	3	0.666666666666	NULL	NULL	10	10	0.03333333333333333
+HCM process	career development	1	1	3	3	0.666666666666	NULL	NULL	270	119	0.0012345679012345679
+HCM risk factor	hypotension on upright exercise	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+HCM risk factor	severe LVH	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+HCM risk factor	nonsustained ventricular tachycardia on Holter monitoring	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+HCM tool	dashboard	1	1	1	1	NULL	NULL	NULL	357	206	0.0028011204481792717
+hcm's value-added service	installation	1	1	2	2	NULL	NULL	NULL	1804	562	0.0002771618625277162
+hcm's value-added service	engineering	1	1	2	2	NULL	NULL	NULL	5664	1535	0.00008827683615819209
+hcmc's major department store	Diamond Plaza	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+hcmc's major department store	Parkson	1	1	2	2	1.000000000000	NULL	NULL	14	13	0.03571428571428571
+HCMV genotyping method	traditional Sanger DNA sequencing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCMV genotyping method	restriction fragment length polymorphism of PCR product	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCMV polymorphisms	glycoprotein B genotypes	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCMV prophylaxis	acyclovir	1	1	2	2	NULL	NULL	NULL	450	122	0.0011111111111111111
+HCMV prophylaxis	ganciclovir	1	1	2	2	NULL	NULL	NULL	132	44	0.003787878787878788
+HCMV protein	IE1 protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCMV secretome factor	Thrombospondin-1	2	1	2	1	1.000000000000	NULL	NULL	17	10	0.11764705882352941
+hcmv-associated disease	atherosclerotic lesion	1	1	3	3	0.666666666666	NULL	NULL	18	13	0.018518518518518517
+hcmv-associated disease	pneumonitis	1	1	3	3	0.666666666666	NULL	NULL	92	59	0.003623188405797101
+hcmv-associated disease	retinitis	1	1	3	3	0.666666666666	NULL	NULL	35	16	0.009523809523809523
+HCMV-prophylaxis	ganciclovir	1	1	2	2	NULL	NULL	NULL	132	44	0.003787878787878788
+HCMV-prophylaxis	acyclovir	1	1	2	2	NULL	NULL	NULL	450	122	0.0011111111111111111
+hcn-releasing agent	acetone cyanohydrin	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCOs	Partners Healthcare System in Boston	1	1	1	1	NULL	NULL	NULL	1	1	1
+Hcouldannouncea bright-line rule	55 m.p.h.	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HCP committee	works council	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+HCP conservation measure	construction site erosion control	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+HCP conservation measure	timber harvest best management practice	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCP invertebrate species	giant Columbia River limpet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCP invertebrate species	great Columbia River spire snail	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCP metal	CP Ti	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+HCP metal	magnesium	1	1	4	4	NULL	NULL	NULL	6625	1232	0.000037735849056603776
+HCP metal	titanium	1	1	4	4	NULL	NULL	NULL	3772	993	0.0000662778366914104
+HCP metal	Mg alloy	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+hcp participant	voluntary hcp participant	1	1	3	3	0.800000000000	NULL	NULL	2	2	0.16666666666666666
+HCP participant	private landowner	1	1	3	3	0.800000000000	NULL	NULL	15	11	0.02222222222222222
+HCP participant	conservation organization	1	1	3	3	0.800000000000	NULL	NULL	39	24	0.008547008547008546
+HCP partner	American Utility Company	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCP species	bull trout	1	1	5	5	0.200000000000	NULL	NULL	96	48	0.0020833333333333333
+HCP species	sturgeon	1	1	5	5	0.200000000000	NULL	NULL	273	104	0.0007326007326007326
+HCP species	char	1	1	5	5	0.200000000000	NULL	NULL	191	96	0.0010471204188481676
+HCP species	salmonids	1	1	5	5	0.200000000000	NULL	NULL	125	68	0.0016
+HCP species	freshwater mussel	1	1	5	5	0.200000000000	NULL	NULL	22	15	0.009090909090909092
+HCPC dominant species	prairie cordgrass	3	1	4	2	0.500000000000	NULL	NULL	20	9	0.1125
+HCPC dominant species	switchgrass	1	1	4	2	0.500000000000	NULL	NULL	765	268	0.000326797385620915
+HCPI import model	Jazz	1	1	1	1	NULL	NULL	NULL	1810	522	0.0005524861878453039
+HCPs	Murray Pacific	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+HCPs	Weyerhaeuser Millacoma HCPs	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+HCPs	Weyerhaeuser Willamette HCPs	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+HCPs	civilian contract HCPs	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+HCPs	Coast Range Conifers	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+HCPs	Washington DNR	1	1	8	8	0.250000000000	NULL	NULL	2	2	0.0625
+HCPs	Regli Estate	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+HCPs	scarce medical specialists hired at a fixed annual sum	1	1	8	8	0.250000000000	NULL	NULL	1	1	0.125
+hcps drug	depo provera	1	1	1	1	1.000000000000	NULL	NULL	45	29	0.022222222222222223
+hcpt's disadvantage	poor solubility	2	2	4	2	1.000000000000	NULL	NULL	5	4	0.2
+hcpt's disadvantage	short half-life	2	2	4	2	1.000000000000	NULL	NULL	10	8	0.1
+HCR datum	real-time waveforms	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+HCR datum	alarm	1	1	2	2	0.500000000000	NULL	NULL	1762	665	0.00028376844494892167
+hcs	short chain aliphatic hcs	1	1	2	2	0.111111111111	NULL	NULL	1	1	0.5
+HCs	Spring Spa	1	1	2	2	0.111111111111	NULL	NULL	2	2	0.25
+HCS assay	nuclear-cytoplasmic shuttling of ERK	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+hcs refrigerant	R290	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+hcs-interacting protein	histone deacetylases	1	1	2	2	0.500000000000	NULL	NULL	25	12	0.02
+hcs-interacting protein	kinases	1	1	2	2	0.500000000000	NULL	NULL	99	53	0.005050505050505051
+HCS12 subsystem	communication port	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+HCS402 feature	dual heating	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+hcse product	sauerkraut	1	1	2	2	NULL	NULL	NULL	556	185	0.0008992805755395684
+hcse product	silage	1	1	2	2	NULL	NULL	NULL	108	73	0.004629629629629629
+hcsnet-specific resource	logo	1	1	1	1	NULL	NULL	NULL	2180	879	0.00045871559633027525
+HCT mode	light rail	2	2	4	3	NULL	NULL	NULL	170	107	0.0058823529411764705
+HCT mode	rail convertible bus rapid transit	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+HCT mode	rail convertible BRT	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+hctionally related system	corticospinal tract	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+HCUP database	National Inpatient Sample	3	3	5	2	NULL	NULL	NULL	4	2	0.44999999999999996
+HCUP database	area sub-sample of the SID datum	2	2	5	2	NULL	NULL	NULL	2	1	0.4
+HCV antigen	viral capsid	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+HCV antigen	non-structural 3 protein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCV complication	end-stage liver disease	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+HCV fusion protein	core fusion protein	2	2	2	1	NULL	NULL	NULL	2	1	1
+HCV genotypes	1c	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+HCV genotyping method	automated reverse hybridization	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCV genotyping method	semiautomated sequencing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCV immunotherapies	interferon	1	1	1	1	NULL	NULL	NULL	643	222	0.0015552099533437014
+HCV kinetic parameter	quantity	1	1	2	2	NULL	NULL	NULL	884	324	0.0005656108597285068
+HCV kinetic parameter	ratio of decline	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCV molecular assay	polymerase chain reaction	2	2	2	1	NULL	NULL	NULL	808	247	0.0024752475247524753
+HCV nonstructural protein	NS3	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+HCV protease inhibitor	boceprevir	3	3	6	2	1.000000000000	NULL	NULL	10	7	0.15
+HCV protease inhibitor	telaprevir	3	3	6	2	1.000000000000	NULL	NULL	10	7	0.15
+HCV protein	core	4	4	18	9	0.666666666666	NULL	NULL	258	171	0.0034453057708871662
+HCV protein	core protein	3	3	18	9	0.666666666666	NULL	NULL	5	2	0.1
+HCV protein	NS3	3	2	18	9	0.666666666666	NULL	NULL	13	9	0.038461538461538464
+HCV protein	NS2	2	1	18	9	0.666666666666	NULL	NULL	15	10	0.014814814814814814
+HCV protein	nonstructural NS3	2	1	18	9	0.666666666666	NULL	NULL	2	1	0.1111111111111111
+HCV protein	nonstructural protein 5A	1	1	18	9	0.666666666666	NULL	NULL	4	2	0.013888888888888888
+HCV protein	HCV protein core	1	1	18	9	0.666666666666	NULL	NULL	1	1	0.05555555555555555
+HCV protein	HCV core	1	1	18	9	0.666666666666	NULL	NULL	1	1	0.05555555555555555
+HCV protein	viral core	1	1	18	9	0.666666666666	NULL	NULL	1	1	0.05555555555555555
+hcv related symptom	arthritis like ache	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+hcv related symptom	fatigue	1	1	2	2	NULL	NULL	NULL	7827	1619	0.00006388143605468251
+HCV risk behavior	frequent injection	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+HCV RNA detection test	polymerase chain reaction test	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+HCV specific inhibitor	prot ease inhibitor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+HCV specific inhibitor	protease inhibitor	1	1	2	2	NULL	NULL	NULL	167	72	0.0029940119760479044
+HCV symptom	fatigue	1	1	1	1	NULL	NULL	NULL	7827	1619	0.00012776287210936502
+HCV test	HCV RIBA	1	1	1	1	NULL	NULL	NULL	1	1	1
+HCV therapy	protease	1	1	3	3	0.500000000000	NULL	NULL	86	58	0.003875968992248062
+hcv therapy	promising new hcv therapy	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+HCV therapy	polymerase inhibitor	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+hcv-dependent feature	HCV load	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+hcv-encoded protein	envelope protein E2	4	3	9	3	NULL	NULL	NULL	4	1	0.4444444444444444
+hcv-encoded protein	nonstructural protein 5A	3	2	9	3	NULL	NULL	NULL	4	2	0.25
+hcv-encoded protein	core protein	2	1	9	3	NULL	NULL	NULL	5	2	0.08888888888888888

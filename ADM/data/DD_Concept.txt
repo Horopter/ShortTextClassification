@@ -1,0 +1,291 @@
+DD	Pioneer PL550 within budget	1	1	3	3	0.250000000000	NULL	NULL	1	1	0.3333333333333333
+DD	4runner	1	1	3	3	0.250000000000	NULL	NULL	13	9	0.02564102564102564
+dd	round bridge fletcher class dd	1	1	3	3	0.250000000000	NULL	NULL	1	1	0.3333333333333333
+DD company	Groupon	1	1	1	1	NULL	NULL	NULL	890	281	0.0011235955056179776
+DD decoder	Yamaha DDP-2	1	1	1	1	NULL	NULL	NULL	1	1	1
+DD function	analysis of the Guava geological block model	1	1	1	1	NULL	NULL	NULL	1	1	1
+DD game	Modern Warfare	1	1	1	1	1.000000000000	NULL	NULL	63	25	0.015873015873015872
+dd item	Minutes	1	1	2	3	1.000000000000	NULL	NULL	9	10	0.05555555555555555
+dd item	Meeting Flyers	1	1	2	3	1.000000000000	NULL	NULL	1	1	0.5
+DD plant	citronella grass	1	1	1	1	NULL	NULL	NULL	10	5	0.1
+DD Pokemon	Tyranitar	1	1	1	1	1.000000000000	NULL	NULL	48	25	0.020833333333333332
+DD service	Adult Foster Care	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+DD soundtrack	Saving Private Ryan	1	1	1	1	NULL	NULL	NULL	215	66	0.004651162790697674
+DD southern crop	rice	1	1	1	1	NULL	NULL	NULL	11473	2640	0.00008716116098666435
+DD TV serial	Stone Boy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DD TV serial	Alif Laila	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+dd's top supporter	Steve Lester	1	1	1	1	NULL	NULL	NULL	1	1	1
+dd-based iterative solver	FETI-DP	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+dd-containing adaptor protein	TRADD	1	1	2	2	1.000000000000	NULL	NULL	7	5	0.07142857142857142
+dd-containing adaptor protein	FADD	1	1	2	2	1.000000000000	NULL	NULL	18	11	0.027777777777777776
+dd-containing extracellular protein	VIII	1	1	2	2	1.000000000000	NULL	NULL	13	11	0.038461538461538464
+dd-containing extracellular protein	clotting factors V	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+dd-containing protein	ankyrin	2	2	2	1	1.000000000000	NULL	NULL	22	14	0.09090909090909091
+dd-containing receptor	tumor necrosis factor receptor I	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDA A bank account	checking account	2	2	2	1	NULL	NULL	NULL	315	126	0.006349206349206349
+DDA design consideration	door positioning	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDA design consideration	identification of the door	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDA element	ground floor disabled toilet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDA element	vision panel door	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDA initiative	Downtown Ambassadors	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+DDA initiative	advocating for the creation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+DDA initiative	Downtown Enhancement Team	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+DDA technique	Markov cycle tree	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDA technique	stochastic tree	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+dda-based circuit	amplifier	1	1	2	2	NULL	NULL	NULL	784	368	0.0006377551020408163
+dda-based circuit	MOS grounded resistor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ddalam business mind feature	built-in viewers for spreadsheet	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+DDancers	Gyarados	1	1	2	2	1.000000000000	NULL	NULL	40	24	0.0125
+DDancers	Kingdras without Subs	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+DDAs	East Lansing's	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDB case	panic	1	1	1	1	NULL	NULL	NULL	325	158	0.003076923076923077
+DDB client	McDonald's	1	1	3	3	NULL	NULL	NULL	3099	848	0.00010756157900397977
+DDB client	Volkswagen	1	1	3	3	NULL	NULL	NULL	1560	382	0.00021367521367521368
+DDB client	Philips	1	1	3	3	NULL	NULL	NULL	1532	517	0.0002175805047867711
+ddb's nearly century-old brand	Morton	1	1	2	2	0.500000000000	NULL	NULL	25	18	0.02
+ddb's nearly century-old brand	State Farm	1	1	2	2	0.500000000000	NULL	NULL	478	139	0.0010460251046025104
+ddb2-deficient cell	rodent	1	1	2	2	NULL	NULL	NULL	1475	371	0.00033898305084745765
+ddb2-deficient cell	human XP-E cell	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDC inhibitor	benserazide	2	2	5	4	1.000000000000	NULL	NULL	11	6	0.07272727272727274
+DDC inhibitor	LDOPA products carbidopa	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+DDC inhibitor	carbidopa	1	1	5	4	1.000000000000	NULL	NULL	38	18	0.005263157894736842
+ddc inhibitor	selective ddc inhibitor	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+DDC program	Job Order Contracting System	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+DDC project	Queens Botanical Garden shown on the next page	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDC service	report bibliography	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDC system	DSC-8500 series controller	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDC system component	damper actuator	1	1	2	2	0.500000000000	NULL	NULL	18	17	0.027777777777777776
+DDC system component	relay	1	1	2	2	0.500000000000	NULL	NULL	910	373	0.0005494505494505495
+ddce's initiative	Neighborhood Longhorns Program	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ddce's initiative	University Outreach Centers	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ddce's initiative	School Partnerships	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+DDCM program	Job Order Contracting System	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+DDCs	Kaski	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+DDCs	Kabhre	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+DDCs	Lalitpur	1	1	4	4	1.000000000000	NULL	NULL	9	8	0.027777777777777776
+DDCs	DDCs of Bajura	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+DDD technique	Annotations	1	1	1	1	NULL	NULL	NULL	2	4	0.5
+dddevice	mandrel	1	1	2	2	1.000000000000	NULL	NULL	39	26	0.01282051282051282
+dddevice	product forming machine through guided rolls into the oven chamber	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ddditional feature	CD-ROMs	1	0	4	4	NULL	NULL	NULL	471	267	0.0005307855626326964
+ddditional feature	chart	1	0	4	4	NULL	NULL	NULL	2668	849	0.0000937031484257871
+ddditional feature	poster	1	0	4	4	NULL	NULL	NULL	4712	1695	0.00005305602716468591
+ddditional feature	glossary	1	0	4	4	NULL	NULL	NULL	448	168	0.0005580357142857143
+DDDs	particular drug divided by the total consumption of the DDD value of the drug	1	1	1	1	NULL	NULL	NULL	1	1	1
+dddsforcertain drug	antineoplastic agent	1	1	3	4	0.500000000000	NULL	NULL	15	10	0.02222222222222222
+dddsforcertain drug	topical product	1	1	3	4	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+dddsforcertain drug	serum	1	1	3	4	0.500000000000	NULL	NULL	608	270	0.0005482456140350877
+DDE client	Microsoft Excel	1	1	1	1	0.500000000000	NULL	NULL	1206	355	0.0008291873963515755
+DDE client application	Microsoft Excel	1	1	1	1	NULL	NULL	NULL	1206	355	0.0008291873963515755
+DDE server application	Excel	1	1	1	1	NULL	NULL	NULL	3682	936	0.00027159152634437803
+DDEC feature	Variable Speed Governor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDEC feature	cruise VSG	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDF account	Fixed Term Deposit	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+DDF account	Cash Management	1	1	2	2	NULL	NULL	NULL	230	144	0.002173913043478261
+DDG	Arleigh Burke class Destroyers	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDH many conservative treatment method	traction	1	1	3	3	0.500000000000	NULL	NULL	185	76	0.0018018018018018016
+DDH many conservative treatment method	fixed brace	1	1	3	3	0.500000000000	NULL	NULL	6	4	0.05555555555555555
+DDH many conservative treatment method	Pavlik harness	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+ddhh's publication	Monthly Communicator	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDI bathroom supply	toilet bowl brush	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+ddi's adverse effect	pancreatitis	1	1	1	1	NULL	NULL	NULL	524	206	0.0019083969465648854
+ddi-specific tool	Nesstar Publisher	3	3	3	1	NULL	NULL	NULL	3	1	1
+DDIC object	data element	1	1	2	2	0.500000000000	NULL	NULL	28	18	0.017857142857142856
+DDIC object	domain	1	1	2	2	0.500000000000	NULL	NULL	315	174	0.0015873015873015873
+ddictive behavior	binging on food	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+ddictive behavior	compulsively gambling	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+ddictive behavior	drinking alcohol	1	1	3	3	0.500000000000	NULL	NULL	416	143	0.0008012820512820513
+ddifferent setting	cinema	1	1	3	3	NULL	NULL	NULL	1149	481	0.0002901073397156948
+ddifferent setting	sport	1	1	3	3	NULL	NULL	NULL	7765	2042	0.000042927666881305
+ddifferent setting	flat	1	1	3	3	NULL	NULL	NULL	544	303	0.0006127450980392157
+dding organic matter	crop residue	1	1	1	1	NULL	NULL	NULL	195	101	0.005128205128205128
+DDIs	AChEIs with antipsychotics	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDIS diesel engine car model	Swift	1	1	2	2	NULL	NULL	NULL	313	143	0.001597444089456869
+DDIS diesel engine car model	Ritz	1	1	2	2	NULL	NULL	NULL	125	82	0.004
+dditional accessory	EMI backshells	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+dditional activity	boat tour	1	1	3	3	0.666666666666	NULL	NULL	58	34	0.005747126436781609
+dditional activity	kayaking	1	1	3	3	0.666666666666	NULL	NULL	3147	661	0.00010592098294672174
+dditional activity	helicopter tour	1	1	3	3	0.666666666666	NULL	NULL	36	24	0.009259259259259259
+dditional circumstantial evidence	proof of proper use	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+dditional com plexities	w eak zones on the edge of the continent	1	1	1	1	NULL	NULL	NULL	1	1	1
+dditional concept	critical section	1	1	2	2	0.500000000000	NULL	NULL	26	19	0.019230769230769232
+dditional concept	semaphore	1	1	2	2	0.500000000000	NULL	NULL	192	118	0.0026041666666666665
+dditional cost	renting cars for White House staff	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+dditional device	laptop computer	1	1	2	2	NULL	NULL	NULL	1695	551	0.0002949852507374631
+dditional device	hand-held communicator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+dditional diagnostic procedure	bronchoalveolar lavage	1	1	1	1	NULL	NULL	NULL	65	34	0.015384615384615385
+dditional document	prospectus	1	1	4	4	NULL	NULL	NULL	140	64	0.0017857142857142857
+dditional document	professional consent	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+dditional document	stock specimen	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+dditional document	financial statement	1	1	4	4	NULL	NULL	NULL	415	181	0.0006024096385542169
+dditional equity tool	m ath	1	1	1	1	NULL	NULL	NULL	1	1	1
+dditional feature	hydrophilation station	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+dditional feature	monitoring sensor	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+dditional functionality	C R C checksum calculation	1	1	1	1	NULL	NULL	NULL	1	1	1
+dditional information	estimate d blood loss	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+dditional information	equipment information	1	1	5	5	NULL	NULL	NULL	5	3	0.04
+dditional information	inventory	1	1	5	5	NULL	NULL	NULL	1655	718	0.00012084592145015107
+dditional information	cycle time	1	1	5	5	NULL	NULL	NULL	249	140	0.0008032128514056225
+dditional information	list of certified Ohio Master Loggers	1	1	5	5	NULL	NULL	NULL	4	2	0.05
+dditional issue	inadequate living condition	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+dditional issue	unclaimed benefit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+dditional material	facilitator's guide	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+dditional option	application server maintenance	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+dditional recycling opportunity	silage wrap	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+dditional room charge	restaurant	1	1	5	5	0.400000000000	NULL	NULL	11422	2864	0.000017510068289266328
+dditional room charge	mini bar	1	1	5	5	0.400000000000	NULL	NULL	509	119	0.00039292730844793717
+dditional room charge	room service	1	1	5	5	0.400000000000	NULL	NULL	1395	167	0.00014336917562724014
+dditional room charge	gym fee	1	1	5	5	0.400000000000	NULL	NULL	9	8	0.022222222222222223
+dditional room charge	pay movie	1	1	5	5	0.400000000000	NULL	NULL	7	5	0.028571428571428574
+DDITIONAL S ERVICES item	obituary	1	1	1	1	NULL	NULL	NULL	203	86	0.0049261083743842365
+DDITIONAL service	diagnostic testing	1	1	2	2	0.500000000000	NULL	NULL	60	38	0.008333333333333333
+DDITIONAL service	lab	1	1	2	2	0.500000000000	NULL	NULL	689	296	0.000725689404934688
+dditionally, different genre	fiction	1	1	3	3	NULL	NULL	NULL	213	105	0.0015649452269170577
+dditionally, different genre	song	1	1	3	3	NULL	NULL	NULL	1441	662	0.0002313208420078649
+dditionally, different genre	poetry	1	1	3	3	NULL	NULL	NULL	1427	537	0.000233590282644242
+dditionalsteps	testing	1	1	2	2	NULL	NULL	NULL	1639	662	0.0003050640634533252
+dditionalsteps	monitoring	1	1	2	2	NULL	NULL	NULL	1507	705	0.00033178500331785003
+dditives	antioxidant	1	1	5	5	0.200000000000	NULL	NULL	2637	532	0.0000758437618505878
+dditives	anti-oxidants	1	1	5	5	0.200000000000	NULL	NULL	376	104	0.0005319148936170213
+dditives	stabilizer	1	1	5	5	0.200000000000	NULL	NULL	1387	220	0.00014419610670511897
+dditives	antistatic agent	1	1	5	5	0.200000000000	NULL	NULL	425	58	0.00047058823529411766
+dditives	flavourings	1	1	5	5	0.200000000000	NULL	NULL	56	31	0.0035714285714285718
+DDKs	Microsoft Windows 2000 DDK	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDL command	CREATE TABLE command	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDL operation	drop table	2	2	6	5	1.000000000000	NULL	NULL	13	11	0.05128205128205128
+DDL operation	creating table	1	1	6	5	1.000000000000	NULL	NULL	26	18	0.00641025641025641
+DDL operation	dropping a table	1	1	6	5	1.000000000000	NULL	NULL	5	4	0.03333333333333333
+DDL operation	dropping table	1	1	6	5	1.000000000000	NULL	NULL	4	4	0.041666666666666664
+DDL operation	index creation	1	1	6	5	1.000000000000	NULL	NULL	18	15	0.009259259259259259
+DDL statement	table alteration statement	3	3	10	5	0.750000000000	NULL	NULL	3	1	0.3
+DDL statement	CREATE	3	3	10	5	0.750000000000	NULL	NULL	7	5	0.12857142857142856
+DDL statement	CREATE TABLE statement	2	2	10	5	0.750000000000	NULL	NULL	3	2	0.13333333333333333
+DDL statement	drop table	1	1	10	5	0.750000000000	NULL	NULL	13	11	0.007692307692307693
+ddl statement	table related ddl statement	1	1	10	5	0.750000000000	NULL	NULL	2	2	0.05
+DDLs	Xerox Interpress	2	2	2	1	NULL	NULL	NULL	2	1	1
+DDM attribute	alignment	1	1	2	2	NULL	NULL	NULL	566	311	0.0008833922261484099
+DDM attribute	length	1	1	2	2	NULL	NULL	NULL	2515	997	0.00019880715705765408
+DDM parameter	selecting areas of the image	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDM parameter	non-default detector geometry	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDM task	WPP simulation	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDM-application-areas	large-scale distributed scientific data mining	2	2	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+DDM-application-areas	mining over wireless network	2	2	6	4	NULL	NULL	NULL	2	1	0.3333333333333333
+DDM-application-areas	privacy-sensitive multi-party data mining	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+DDM-application-areas	privacy sensitive multi-party data mining	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+DDMBC member	Charlie Means	1	1	1	1	NULL	NULL	NULL	1	1	1
+ddn compound	AZT	2	1	2	1	NULL	NULL	NULL	232	90	0.008620689655172414
+ddNs	AZT	1	1	1	1	NULL	NULL	NULL	232	90	0.004310344827586207
+DDNS provider	Dyndns.org	7	6	7	1	1.000000000000	NULL	NULL	19	8	0.3684210526315789
+DDNS service	DynDNS	2	2	2	1	1.000000000000	NULL	NULL	32	13	0.0625
+ddos attack	smurf	3	3	9	4	1.000000000000	NULL	NULL	13	5	0.07692307692307693
+ddos attack	SYN flood	3	3	9	4	1.000000000000	NULL	NULL	32	17	0.03125
+ddos attack	TFN	2	2	9	4	1.000000000000	NULL	NULL	12	9	0.037037037037037035
+ddos attack	Stacheldraht	1	1	9	4	1.000000000000	NULL	NULL	6	6	0.018518518518518517
+ddos attack tool	TFN	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+ddos detection technique	anomaly-based detection	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ddos detection technique	wavelet-based signal analysis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ddos detection technique	signature-based detection	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ddos mitigation device	IntruGuard	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ddos mitigation device	CISCO Guard	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+ddos mitigation device	RioRey	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ddos program	Trinoo	1	1	2	2	1.000000000000	NULL	NULL	15	9	0.03333333333333333
+ddos program	Tribe Flood Network	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+ddos tool	Sub7Server	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ddos tool	TFN2K	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ddos tool	Trinoo	1	1	5	5	1.000000000000	NULL	NULL	15	9	0.013333333333333334
+ddos tool	Tribal Flood Network	1	1	5	5	1.000000000000	NULL	NULL	4	3	0.05
+ddos tool	Trin00	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+ddos zombie	Stacheldraht	1	1	2	2	0.750000000000	NULL	NULL	6	6	0.08333333333333333
+ddos zombie	TFN	1	1	2	2	0.750000000000	NULL	NULL	12	9	0.041666666666666664
+ddosing site	Facebook	1	1	3	3	NULL	NULL	NULL	29637	3798	0.000011247202258438213
+ddosing site	Google	1	1	3	3	NULL	NULL	NULL	18060	3284	0.000018456995201181248
+ddosing site	Runescape	1	1	3	3	NULL	NULL	NULL	60	22	0.005555555555555555
+DDP printer feature	duplex	1	1	1	1	NULL	NULL	NULL	284	183	0.0035211267605633804
+DDP resource	socket	1	1	1	1	NULL	NULL	NULL	481	246	0.002079002079002079
+DDR activity	security of the DDR participant	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+DDR activity	overall DDR process	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+DDR activity	administration	1	1	3	3	NULL	NULL	NULL	1728	671	0.00019290123456790122
+DDR factor	ATM	1	1	3	3	0.666666666666	NULL	NULL	776	410	0.000429553264604811
+DDR factor	53BP1	1	1	3	3	0.666666666666	NULL	NULL	15	10	0.02222222222222222
+DDR factor	MDC1	1	1	3	3	0.666666666666	NULL	NULL	12	7	0.027777777777777776
+DDR framework zeolites	Sigma-1	2	2	2	1	NULL	NULL	NULL	2	1	1
+DDR memory module	200 Pin SO DIMMs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDR memory module	184 Pin DIMMs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDR program	United Nations Mission in Liberia's DDR Action Plan	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDR ram	PC3200	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+DDR ram related offer	Ram	1	1	2	2	NULL	NULL	NULL	280	135	0.0017857142857142857
+DDR ram related offer	Memory Card	1	1	2	2	NULL	NULL	NULL	584	281	0.0008561643835616438
+DDR related offer	Memory	1	1	1	1	NULL	NULL	NULL	3739	1244	0.0002674511901577962
+ddr sdram	good quality pc2700 ddr sdram	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+DDR SDRAM command	ACTIVE	2	2	4	2	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+DDR SDRAM command	NOPS PRECHARGE	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+DDR semiconductor memory device	DDR3 SDRAM	2	2	4	2	1.000000000000	NULL	NULL	5	3	0.2
+DDR semiconductor memory device	DDR2 SDRAM	2	2	4	2	1.000000000000	NULL	NULL	11	6	0.09090909090909091
+ddr-related process	identification	1	1	4	4	0.250000000000	NULL	NULL	541	251	0.0004621072088724584
+ddr-related process	disarmament	1	1	4	4	0.250000000000	NULL	NULL	132	68	0.001893939393939394
+ddr-related process	internment	1	1	4	4	0.250000000000	NULL	NULL	12	11	0.020833333333333332
+ddr-related process	separation	1	1	4	4	0.250000000000	NULL	NULL	593	303	0.00042158516020236085
+ddr-related survey	small arms baseline survey	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ddr-related survey	mapping of economic opportunity	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ddr-related survey	beneficiary	1	1	3	3	NULL	NULL	NULL	65	39	0.005128205128205128
+ddr2	1066 MHz	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ddr2	Corsair dominators	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+DDR2 memory timing tweak	CAS Latency	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+ddr3's built-in power-conservation feature	partial refresh	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDR3-1600 SDRAM kit	OCZ Reaper	1	1	1	1	NULL	NULL	NULL	1	1	1
+ddress industr y-wide issue	ordinance	1	1	4	4	NULL	NULL	NULL	97	68	0.002577319587628866
+ddress industr y-wide issue	legislation	1	1	4	4	NULL	NULL	NULL	626	257	0.00039936102236421724
+ddress industr y-wide issue	guideline	1	1	4	4	NULL	NULL	NULL	364	199	0.0006868131868131869
+ddress industr y-wide issue	regulation	1	1	4	4	NULL	NULL	NULL	1465	546	0.00017064846416382253
+DDRR on-fighting group	woman	1	1	1	1	NULL	NULL	NULL	2038	592	0.0004906771344455348
+ddrrelated process	separation	1	1	4	4	0.250000000000	NULL	NULL	593	303	0.00042158516020236085
+ddrrelated process	internment	1	1	4	4	0.250000000000	NULL	NULL	12	11	0.020833333333333332
+ddrrelated process	disarmament	1	1	4	4	0.250000000000	NULL	NULL	132	68	0.001893939393939394
+ddrrelated process	identification	1	1	4	4	0.250000000000	NULL	NULL	541	251	0.0004621072088724584
+ddrrelated survey	beneficiary	1	1	3	3	NULL	NULL	NULL	65	39	0.005128205128205128
+ddrrelated survey	mapping of economic opportunity	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ddrrelated survey	small arms baseline survey	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+DDs	DD 410	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+DDs	DD 435	2	1	5	3	NULL	NULL	NULL	2	1	0.4
+DDs	lipid micelles	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+DDS -metric	frequency resolution	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+DDS -metric	SFDR	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+DDS based system	radar	1	1	1	1	NULL	NULL	NULL	1240	569	0.0008064516129032258
+DDS digital datum service	ACCUNET Spectrum of Digital Services	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+DDS digital datum service	DATAPHONE Digital Service	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+DDS doctor	De Bui	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDS doctor	Pitr Conroy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDS ic	AD9850 from Analog device	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDS location	Leeuwarden	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+DDS record	personnel record	1	0	1	1	NULL	NULL	NULL	79	46	0.012658227848101266
+DDS tape format's compelling feature	greater media capacity	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+DDS tape format's compelling feature	fast speed	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+DDS transaction	obtaining a copy of driving history	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+DDS transaction	changing an address	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+DDS transaction	replacing a lost license	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+DDSD state-funded service	community integrated employment service	4	2	14	4	NULL	NULL	NULL	4	1	0.2857142857142857
+DDSD state-funded service	sheltered workshop service	4	2	14	4	NULL	NULL	NULL	4	1	0.2857142857142857
+DDSD state-funded service	Family Support Assistance Payment	4	2	14	4	NULL	NULL	NULL	4	1	0.2857142857142857
+DDSD state-funded service	Respite Voucher Program	2	2	14	4	NULL	NULL	NULL	2	1	0.14285714285714285
+DDSN tool	event demand	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDSs	DDS in the Analog Devices series 98XX	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDT acceleration method	varying the initial fill pressure	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDT ban idea	Steve Milloy of junkscience	1	1	1	1	NULL	NULL	NULL	1	1	1
+DDT material	bookmark	1	1	5	5	NULL	NULL	NULL	1028	421	0.0001945525291828794
+DDT material	postcard	1	1	5	5	NULL	NULL	NULL	1183	502	0.000169061707523246
+DDT material	sticker	1	1	5	5	NULL	NULL	NULL	1721	593	0.00011621150493898897
+DDT material	poster	1	1	5	5	NULL	NULL	NULL	4712	1695	0.00004244482173174873
+DDT material	brochure	1	1	5	5	NULL	NULL	NULL	5215	1605	0.00003835091083413231
+DDT waste material	contaminated soil	1	1	2	2	NULL	NULL	NULL	64	36	0.0078125
+DDT waste material	clothes	1	1	2	2	NULL	NULL	NULL	3774	1059	0.00013248542660307367
+ddtn's backer	Vint Cerf	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+ddtn's backer	NASA's Jet Propulsion Laboratory	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+DDTs	Krystal Kwik	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDTs	Juicy Lucy's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+DDV-LDV plant	Pogostemon cablin	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+DDV-LDV plant	common morningglory	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+DDV-LDV plant	velvetleaf	1	1	5	5	NULL	NULL	NULL	43	19	0.004651162790697674
+DDV-LDV plant	cucumber	1	1	5	5	NULL	NULL	NULL	3938	1031	0.000050787201625190454
+DDV-LDV plant	prickly sida	1	1	5	5	NULL	NULL	NULL	8	4	0.025
+DDV-LDV-LDDV plant species	cucumber	1	1	1	1	NULL	NULL	NULL	3938	1031	0.00025393600812595224
+DDx	Sinding-Larsen Johansson Disease	1	1	1	1	NULL	NULL	NULL	1	1	1

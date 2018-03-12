@@ -1,0 +1,255 @@
+VM	VirtualBox	2	2	3	2	0.500000000000	NULL	NULL	107	53	0.012461059190031152
+VM	changing bootloaders	1	1	3	2	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+VM agility feature	XenMotion live migration	1	1	1	1	NULL	NULL	NULL	1	1	1
+VM alternative	Clojure	1	1	1	1	1.000000000000	NULL	NULL	27	14	0.037037037037037035
+VM capability	snapshot	1	1	1	1	NULL	NULL	NULL	213	126	0.004694835680751174
+VM condition	disk size	1	1	3	3	1.000000000000	NULL	NULL	13	13	0.02564102564102564
+VM condition	memory amount	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+VM condition	power state	1	1	3	3	1.000000000000	NULL	NULL	11	4	0.0303030303030303
+VM datum	event datum	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+VM document	Varian's famous paper	1	1	1	1	NULL	NULL	NULL	1	1	1
+VM entity	related information	1	1	2	2	0.500000000000	NULL	NULL	14	9	0.03571428571428571
+VM entity	painting	1	1	2	2	0.500000000000	NULL	NULL	8042	2413	0.00006217358865953743
+vm environment	high performance vm environment	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+VM environment	PlanetLab	1	1	3	3	0.500000000000	NULL	NULL	34	22	0.00980392156862745
+VM environment	VMware	1	1	3	3	0.500000000000	NULL	NULL	583	219	0.0005717552887364208
+VM feature	isolation	2	2	6	4	NULL	NULL	NULL	904	395	0.0007374631268436578
+VM feature	compatibility	2	2	6	4	NULL	NULL	NULL	279	133	0.0023894862604540022
+vm feature	core vm feature	1	1	6	4	NULL	NULL	NULL	2	2	0.08333333333333333
+VM feature	protected address space	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+VM file type	vhd	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+VM identity information	VM name	1	1	1	1	NULL	NULL	NULL	1	1	1
+VM interface	VMware's Virtual Infrastructure Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+VM internal thread	finalizing thread	1	1	1	1	NULL	NULL	NULL	1	1	1
+VM inventory information	IP address	1	1	1	1	NULL	NULL	NULL	1561	490	0.0006406149903907751
+VM machine	Java VM	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+VM management task	garbage collection	1	1	1	1	NULL	NULL	NULL	328	164	0.003048780487804878
+VM manager	Microsoft System Center Virtual Machine Manager	1	1	3	3	NULL	NULL	NULL	4	2	0.08333333333333333
+VM manager	VMware DRA	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VM manager	Platform VM Orchestrator	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VM monitor	Microsoft Virtual Server	1	1	1	1	1.000000000000	NULL	NULL	26	18	0.038461538461538464
+VM monitor configuration	pinning techniques in Xenplatforms	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VM operating system	Windows Server 2003	1	1	1	1	1.000000000000	NULL	NULL	73	38	0.0136986301369863
+VM operation	yield function	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VM operation	virtual-to-physical translation	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VM operation	upgrade of the VMware tool	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VM platform	Virtual PC	3	2	8	4	0.333333333333	NULL	NULL	67	35	0.016791044776119403
+VM platform	Xen	3	2	8	4	0.333333333333	NULL	NULL	167	93	0.006736526946107785
+VM platform	VMware	1	1	8	4	0.333333333333	NULL	NULL	583	219	0.0002144082332761578
+VM platform	User-Mode Linux	1	1	8	4	0.333333333333	NULL	NULL	5	4	0.025
+VM product	Parallels	1	1	2	2	NULL	NULL	NULL	161	66	0.003105590062111801
+VM product	VmWare's namesake	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VM program	Equipment Account	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+VM program	Parallels	1	0	5	5	NULL	NULL	NULL	161	66	0.0012422360248447205
+VM program	Haz-Mat	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+VM program	PMEL	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+VM program	Building Custodian	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+VM proper concept	animation	1	1	2	2	NULL	NULL	NULL	1866	795	0.0002679528403001072
+VM proper concept	link	1	1	2	2	NULL	NULL	NULL	958	477	0.0005219206680584551
+VM related concept	mistake proofing	1	1	4	4	0.333333333333	NULL	NULL	14	9	0.017857142857142856
+VM related concept	sampling	1	1	4	4	0.333333333333	NULL	NULL	558	277	0.00044802867383512545
+VM related concept	transparency through design	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+VM related concept	prototyping	1	1	4	4	0.333333333333	NULL	NULL	308	122	0.0008116883116883117
+VM server	Proxmox	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+VM server	ESXi	1	1	2	2	0.500000000000	NULL	NULL	11	8	0.045454545454545456
+VM service	garbage collection	2	2	8	7	0.600000000000	NULL	NULL	328	164	0.001524390243902439
+VM service	garbage collector	1	1	8	7	0.600000000000	NULL	NULL	32	23	0.00390625
+VM service	memory allocation	1	1	8	7	0.600000000000	NULL	NULL	60	39	0.0020833333333333333
+VM service	thread scheduling	1	1	8	7	0.600000000000	NULL	NULL	7	7	0.017857142857142856
+VM service	JIT compilation	1	1	8	7	0.600000000000	NULL	NULL	4	4	0.03125
+VM service	dynamic compilation	1	1	8	7	0.600000000000	NULL	NULL	6	3	0.020833333333333332
+VM service	object model	1	1	8	7	0.600000000000	NULL	NULL	13	12	0.009615384615384616
+VM setting	Processors	1	1	6	6	0.250000000000	NULL	NULL	5	11	0.03333333333333333
+VM setting	ram	1	1	6	6	0.250000000000	NULL	NULL	280	135	0.0005952380952380952
+VM setting	swappiness	1	1	6	6	0.250000000000	NULL	NULL	2	2	0.08333333333333333
+VM setting	Memory	1	1	6	6	0.250000000000	NULL	NULL	3739	1244	0.0000445751983596327
+VM setting	heap size	1	1	6	6	0.250000000000	NULL	NULL	7	7	0.023809523809523808
+VM setting	Network Interfaces	1	1	6	6	0.250000000000	NULL	NULL	1	1	0.16666666666666666
+VM setup	XEN domain specific setup	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vm setup	collectsa vm setup	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VM software	VirtualBox	2	2	7	6	0.250000000000	NULL	NULL	107	53	0.0053404539385847796
+VM software	VMware	1	1	7	6	0.250000000000	NULL	NULL	583	219	0.0002450379808870375
+vm software	nice vm software	1	1	7	6	0.250000000000	NULL	NULL	2	2	0.07142857142857142
+VM software	Parallels	1	1	7	6	0.250000000000	NULL	NULL	161	66	0.0008873114463176574
+vm software	free vm software	1	1	7	6	0.250000000000	NULL	NULL	2	2	0.07142857142857142
+VM software	Parallels Desktop	1	1	7	6	0.250000000000	NULL	NULL	40	25	0.0035714285714285713
+VM solution	Parallels	1	1	2	2	NULL	NULL	NULL	161	66	0.003105590062111801
+VM solution	VMware	1	1	2	2	NULL	NULL	NULL	583	219	0.0008576329331046312
+VM summary information	memory	1	1	2	2	NULL	NULL	NULL	3739	1244	0.0001337255950788981
+VM summary information	processor	1	1	2	2	NULL	NULL	NULL	942	359	0.0005307855626326964
+VM tool	Telelogic CM Synergy	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+VM tool	CVS	1	1	3	3	0.500000000000	NULL	NULL	1379	371	0.000241721053903795
+VM tool	PVCS	1	1	3	3	0.500000000000	NULL	NULL	16	13	0.020833333333333332
+VM tosupportqos parameter	fairness	1	1	1	1	NULL	NULL	NULL	1066	349	0.0009380863039399625
+VM vendor	IBM	1	1	2	2	NULL	NULL	NULL	11151	2595	0.00004483902788987535
+VM vendor	Insignia Solutions	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VM's	BEA's JRockit	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vm-50ycistypically used fors-video source	camera	1	1	2	2	0.500000000000	NULL	NULL	5789	1712	0.00008637070305752289
+vm-50ycistypically used fors-video source	VCR's	1	1	2	2	0.500000000000	NULL	NULL	45	34	0.011111111111111112
+vm-aware technology	policy-based provisioning	1	1	1	1	NULL	NULL	NULL	1	1	1
+vm-based cloud service	EC2	1	1	1	1	1.000000000000	NULL	NULL	27	23	0.037037037037037035
+vm-based language	Smalltalk	1	1	3	3	NULL	NULL	NULL	270	69	0.0012345679012345679
+vm-based language	UCSD Pascal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vm-based language	Ruby	1	1	3	3	NULL	NULL	NULL	1844	539	0.00018076644974692697
+vm-based virtualization solution	Xen	1	1	1	1	NULL	NULL	NULL	167	93	0.005988023952095809
+vm-basedvirtualization solution	Xen	1	1	1	1	NULL	NULL	NULL	167	93	0.005988023952095809
+vm-specific backup product	PHD Virtual Technologies esxpress	4	4	4	1	NULL	NULL	NULL	4	1	1
+vm-specific item	uuid	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+vm-specific item	MAC address	1	1	2	2	NULL	NULL	NULL	156	78	0.003205128205128205
+VM4 function	TIS-B	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+VM4 function	ADS-B	1	1	2	2	1.000000000000	NULL	NULL	43	30	0.011627906976744186
+VMBA chapter	Fellowship of the Wheel	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmbus device	network	2	2	4	2	NULL	NULL	NULL	1218	591	0.0008210180623973727
+vmbus device	display	2	2	4	2	NULL	NULL	NULL	1313	584	0.0007616146230007616
+vmcontrol function	capture	1	0	2	2	0.500000000000	NULL	NULL	109	77	0.0045871559633027525
+vmcontrol function	deploy	1	0	2	2	0.500000000000	NULL	NULL	10	9	0.05
+VME board supplier	CSPI in Billerica	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VME board supplier	Calif.	1	1	4	4	NULL	NULL	NULL	458	225	0.0005458515283842794
+VME board supplier	DY4 Systems Inc. in Kanata	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VME board supplier	Themis Computer of Fremont	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VME cycle	D08	3	1	3	1	NULL	NULL	NULL	3	1	1
+VME embedded application	large data acquisition	1	1	1	1	NULL	NULL	NULL	1	1	1
+VME master	68000 CPU	1	1	1	1	NULL	NULL	NULL	1	1	1
+VME module	ADC	1	1	1	1	0.500000000000	NULL	NULL	103	58	0.009708737864077669
+VME standard	VITA 41	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VME standard	VITA 46	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+VME TDP system product	2220V TDP	1	1	1	1	NULL	NULL	NULL	1	1	1
+VME64x compatible backplanes	5-row backplanes	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmguest operating system	Linux	1	1	1	1	NULL	NULL	NULL	2525	679	0.00039603960396039607
+VMI dealer	Better Life Mobility	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMI event	summer leadership sessions at the Grafton Institute	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMI framework inexistence	publicly availablexenaccess	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmi's biggest proponent	Tindell's in Knoxville	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vmi's biggest proponent	Chinook Lumber in Monroe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vmk network	Service Consoles	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMM	VMware's Workstation	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMM application	Register Abstraction Layer	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMM client	Administrator Console ora Windows PowerShellcmdlet	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMM component	self-service Web server	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VMM component	VMM server	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+VMM component	library server	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+VMM console operation	powering on a virtual machine	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMM feature	cross language option setting	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VMM feature	communicating transactions in a language agnostic way between source	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VMM feature	target components using TLM	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VMM metadata structure	software page table	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMM project	Microsoft's NGSCB architecture	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VMM project	Microsoft sNGSCB architecture	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vmm-level approach	VMwareHA andeverRun VM from Marathon Technologies	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMMs	hybrid VMM	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+VMMs	Xen	1	1	5	4	NULL	NULL	NULL	167	93	0.0011976047904191617
+vmms	promising research vmms	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+VMMs	Hyper-V	1	1	5	4	NULL	NULL	NULL	65	43	0.003076923076923077
+VMMSSP pool datacenter infrastructure resource	virtual machine template	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+VMMSSP pool datacenter infrastructure resource	network	1	1	4	4	NULL	NULL	NULL	1218	591	0.00020525451559934318
+VMMSSP pool datacenter infrastructure resource	load balancers	1	1	4	4	NULL	NULL	NULL	72	44	0.003472222222222222
+VMMSSP pool datacenter infrastructure resource	storage	1	1	4	4	NULL	NULL	NULL	2511	1000	0.00009956192751891676
+vmr's wheel	VMR VB3	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+vmr's wheel	VMR V710	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+vmr's wheel	VMR V713	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+VMRO revolutionary	Karev	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VMRO revolutionary	Delchev	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VMs	Jeode EVM	2	1	10	9	0.166666666666	NULL	NULL	2	1	0.2
+VMs	VMs of the rectum	1	1	10	9	0.166666666666	NULL	NULL	1	1	0.1
+vms	open source vm's	1	1	10	9	0.166666666666	NULL	NULL	1	1	0.1
+VMs	earlier versions of HotSpot	1	1	10	9	0.166666666666	NULL	NULL	1	1	0.1
+VMs	stackless Python	1	1	10	9	0.166666666666	NULL	NULL	2	2	0.05
+VMs	Jikes RVM	1	1	10	9	0.166666666666	NULL	NULL	3	3	0.03333333333333333
+VMs	Azul VM	1	1	10	9	0.166666666666	NULL	NULL	1	1	0.1
+VMs	Active Directory Domain Controller	1	1	10	9	0.166666666666	NULL	NULL	2	2	0.05
+VMs	VirtualBox	1	0	10	9	0.166666666666	NULL	NULL	107	53	0.0009345794392523365
+VMS application	Horde	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+VMS application	Smarter Mail	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+VMS challenge	stunts on a half-pipe	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VMS feature	active monitoring	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+VMS mining camp	Flin Flon	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+VMS prosperous greenstone-granite sub-provinces	Abitibi	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+VMS tool	Fieldglass	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMS vendor	Milestone Systems	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+vmscluster component	lock manager	1	1	2	2	0.500000000000	NULL	NULL	4	3	0.125
+vmscluster component	connection manager	1	1	2	2	0.500000000000	NULL	NULL	10	9	0.05
+vmsfromsharing many OS abstraction	process	1	1	1	1	NULL	NULL	NULL	875	406	0.001142857142857143
+VMT reduction strategy	pricing	1	1	1	1	NULL	NULL	NULL	1404	497	0.0007122507122507123
+VMU challenge	stunts on a half-pipe	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vmware alternative	VirtualBox by Innotek	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmware capability	cloning	1	1	3	3	NULL	NULL	NULL	718	283	0.0004642525533890436
+vmware capability	rapid environment provisioning	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vmware capability	snapshot	1	1	3	3	NULL	NULL	NULL	213	126	0.0015649452269170577
+vmware competitor	Microsoft	1	1	1	1	NULL	NULL	NULL	11308	2573	0.00008843296781039972
+vmware complimentary product	VMware vCenter Operations	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vmware complimentary product	VMware Orchestrator	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vmware complimentary product	VMware vCloud Connector	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vmware customer	JPMorgan Chase	1	1	5	5	0.200000000000	NULL	NULL	441	144	0.00045351473922902497
+vmware customer	Bank of America	1	1	5	5	0.200000000000	NULL	NULL	2632	637	0.00007598784194528876
+vmware customer	H&R Block	1	1	5	5	0.200000000000	NULL	NULL	240	100	0.0008333333333333334
+vmware customer	Bristol-Myers Squibb	1	1	5	5	0.200000000000	NULL	NULL	154	59	0.0012987012987012987
+vmware customer	Nationwide Insurance	1	1	5	5	0.200000000000	NULL	NULL	57	29	0.0035087719298245615
+vmware desktop application	VMware Player	1	1	1	1	1.000000000000	NULL	NULL	24	17	0.041666666666666664
+vmware desktop product	Workstation	1	1	3	3	NULL	NULL	NULL	466	226	0.000715307582260372
+vmware desktop product	VMware Workstation	1	1	3	3	NULL	NULL	NULL	59	28	0.005649717514124294
+vmware desktop product	Fusion	1	1	3	3	NULL	NULL	NULL	448	235	0.000744047619047619
+vmware environment	VMware Server	1	1	1	1	1.000000000000	NULL	NULL	39	27	0.02564102564102564
+vmware feature	VMotion	2	2	4	3	1.000000000000	NULL	NULL	76	33	0.013157894736842105
+vmware feature	Distributed Resource Scheduling	1	1	4	3	1.000000000000	NULL	NULL	6	5	0.041666666666666664
+vmware feature	critical vmware feature	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+vmware file format	virtual VMDK disk	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmware infrastructure capability	VMware VMotion	3	3	6	3	1.000000000000	NULL	NULL	16	13	0.09375
+vmware infrastructure capability	VMware HA	2	2	6	3	1.000000000000	NULL	NULL	13	10	0.05128205128205128
+vmware infrastructure capability	VMware High Availability	1	1	6	3	1.000000000000	NULL	NULL	14	9	0.011904761904761904
+vmware management product	vmotion	1	1	1	1	NULL	NULL	NULL	76	33	0.013157894736842105
+vmware partner	Cisco	1	1	3	3	NULL	NULL	NULL	3596	1015	0.00009269558769002595
+vmware partner	NetApp	1	1	3	3	NULL	NULL	NULL	141	63	0.002364066193853428
+vmware partner	telcos	1	1	3	3	NULL	NULL	NULL	64	41	0.005208333333333333
+vmware private cloud product	vCloud Director	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+vmware product	Workstation	4	3	27	17	0.750000000000	NULL	NULL	466	226	0.001271657924018439
+vmware product	VMware Player	3	3	27	17	0.750000000000	NULL	NULL	24	17	0.013888888888888888
+vmware product	VMware Workstation	3	3	27	17	0.750000000000	NULL	NULL	59	28	0.005649717514124294
+vmware product	GSX Server	2	2	27	17	0.750000000000	NULL	NULL	4	3	0.037037037037037035
+vmware product	ESXi Server	2	1	27	17	0.750000000000	NULL	NULL	3	2	0.04938271604938271
+vmware product	ESX	2	2	27	17	0.750000000000	NULL	NULL	10	8	0.014814814814814814
+vmware product	VMotion	2	2	27	17	0.750000000000	NULL	NULL	76	33	0.001949317738791423
+vmware product	VMware Server	1	1	27	17	0.750000000000	NULL	NULL	39	27	0.0009496676163342829
+vmware product	vCloud Director	1	1	27	17	0.750000000000	NULL	NULL	5	5	0.007407407407407407
+vmware product	Lab Manager	1	1	27	17	0.750000000000	NULL	NULL	13	12	0.0028490028490028487
+vmware product	VMware Server vcenter	1	1	27	17	0.750000000000	NULL	NULL	1	1	0.037037037037037035
+vmware product	VMware server line	1	1	27	17	0.750000000000	NULL	NULL	1	1	0.037037037037037035
+vmware product	View	1	1	27	17	0.750000000000	NULL	NULL	972	403	0.000038103947568968146
+vmware product	Virtual Center	1	1	27	17	0.750000000000	NULL	NULL	6	4	0.006172839506172839
+vmware product	Site Recovery Manager	1	1	27	17	0.750000000000	NULL	NULL	6	5	0.006172839506172839
+vmware product	vsphere	1	1	27	17	0.750000000000	NULL	NULL	6	4	0.006172839506172839
+VMware software	Virtual SMP	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmware solution	VMotion	2	2	7	4	0.500000000000	NULL	NULL	76	33	0.007518796992481203
+vmware solution	VMWare Consolidated Backup	2	2	7	4	0.500000000000	NULL	NULL	3	2	0.19047619047619047
+vmware solution	High Availability	2	2	7	4	0.500000000000	NULL	NULL	213	106	0.0026827632461435278
+vmware solution	vCloud Director	1	1	7	4	0.500000000000	NULL	NULL	5	5	0.02857142857142857
+VMware storage plug-ins	EMC's Storage Viewer	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmware storage-related product	VMware Storage VMotion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vmware storage-related product	VMware vStorage VMFS	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vmware technique	ballooning	1	1	2	2	NULL	NULL	NULL	73	40	0.00684931506849315
+vmware technique	page sharing	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+vmware tool	advanced vmware tool	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+vmware tool category	migration tool	1	1	2	2	0.500000000000	NULL	NULL	11	5	0.045454545454545456
+vmware tool category	player	1	1	2	2	0.500000000000	NULL	NULL	167	111	0.0029940119760479044
+vmware value partner	Dimension Data	1	1	1	1	1.000000000000	NULL	NULL	45	28	0.022222222222222223
+vmware vcloud director configuration component	vapps	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+vmware vcloud director configuration component	Virtual Datacenters	1	1	4	5	1.000000000000	NULL	NULL	2	2	0.125
+vmware vcloud director configuration component	VMs	1	1	4	5	1.000000000000	NULL	NULL	83	42	0.0030120481927710845
+vmware vcloud director configuration component	Networks Pools	1	1	4	5	1.000000000000	NULL	NULL	1	1	0.25
+vmware virtualization product	VMWare Workstation	2	2	5	4	1.000000000000	NULL	NULL	59	28	0.013559322033898306
+vmware virtualization product	VMWare Player	1	1	5	4	1.000000000000	NULL	NULL	24	17	0.008333333333333333
+vmware virtualization product	GSX Server	1	1	5	4	1.000000000000	NULL	NULL	4	3	0.05
+vmware virtualization product	VMWare Server	1	1	5	4	1.000000000000	NULL	NULL	39	27	0.005128205128205128
+vmware virtualization technology	VMware vsphere	1	1	1	1	1.000000000000	NULL	NULL	17	10	0.058823529411764705
+vmware's advanced feature	Fault Tolerence	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+vmware's advanced feature	vmotion	1	1	2	2	NULL	NULL	NULL	76	33	0.006578947368421052
+vmware's certification	VMware Certified Professional	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+vmware's competitor	SWSoft CEO Sergeui Beloussov	1	1	1	1	NULL	NULL	NULL	1	1	1
+vmware's enterprise-class management technology	VMotion	1	1	1	1	NULL	NULL	NULL	76	33	0.013157894736842105
+vmware's latest product	VMware Infrastructure 3	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VMware's technology	vdisk standard	1	1	1	1	NULL	NULL	NULL	1	1	1
+VMware-provided hypervisor	VMware Fusion	1	1	1	1	NULL	NULL	NULL	71	43	0.014084507042253521
+vmware-related entity	hypervisors	1	1	2	2	0.500000000000	NULL	NULL	14	9	0.03571428571428571
+vmware-related entity	virtual machine	1	1	2	2	0.500000000000	NULL	NULL	64	49	0.0078125
+VMwareproducts	VMware Workstation	1	1	1	1	NULL	NULL	NULL	59	28	0.01694915254237288
+vmwares enterprise product	ESX Server	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+vmwares enterprise product	VirtualCenter management software	1	1	2	2	NULL	NULL	NULL	1	1	0.5

@@ -1,0 +1,85 @@
+NZ abbreviation	PMV	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+NZ artist	Josh Leys	2	2	21	12	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+NZ artist	Savage	2	2	21	12	0.500000000000	NULL	NULL	73	41	0.002609262883235486
+NZ artist	Annabel Fay	2	2	21	12	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+NZ artist	Anika Moa	2	2	21	12	0.500000000000	NULL	NULL	10	9	0.019047619047619046
+NZ artist	King Kapisi	2	2	21	12	0.500000000000	NULL	NULL	7	5	0.027210884353741496
+NZ artist	Sons of Zion	2	2	21	12	0.500000000000	NULL	NULL	5	3	0.03809523809523809
+NZ artist	Che Fu	2	2	21	12	0.500000000000	NULL	NULL	5	3	0.03809523809523809
+NZ artist	Vince Harder	2	2	21	12	0.500000000000	NULL	NULL	5	3	0.03809523809523809
+NZ artist	Nesian Mystic	2	2	21	12	0.500000000000	NULL	NULL	4	3	0.047619047619047616
+NZ artist	Ben Lumis	1	1	21	12	0.500000000000	NULL	NULL	1	1	0.047619047619047616
+nz artist	top nz artist	1	1	21	12	0.500000000000	NULL	NULL	2	2	0.023809523809523808
+NZ artist	Ben Lummis	1	1	21	12	0.500000000000	NULL	NULL	2	2	0.023809523809523808
+NZ band	Crocodiles	2	2	4	3	1.000000000000	NULL	NULL	8	11	0.125
+NZ band	Checks	1	1	4	3	1.000000000000	NULL	NULL	3	8	0.08333333333333333
+NZ band	Windy City Strugglers	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+NZ brand	yachting's Team New Zealand	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ brand dog food	Ultra	1	1	2	2	NULL	NULL	NULL	36	26	0.013888888888888888
+NZ brand dog food	Mighty Mix	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NZ bull	Glenmead Bell Legion	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ cheese	Whitestone Windsor Blue	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ christmas song	Te ara nui	1	1	1	1	NULL	NULL	NULL	1	1	1
+nz client	top nz client	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ cold beverage	iced water	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+nz element	secondary Nz frequency	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ film	River Queen	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NZ finance company	Hanover	1	1	1	1	NULL	NULL	NULL	76	43	0.013157894736842105
+NZ fjord	Milford Sound	1	1	1	1	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+NZ fringe sport	ice hockey	1	1	1	1	NULL	NULL	NULL	620	160	0.0016129032258064516
+NZ herald kiwi icon	Billy T James	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+NZ herald learning complex task	speaking Latin	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ herald marrying skill	engineering	1	1	1	1	NULL	NULL	NULL	5664	1535	0.00017655367231638418
+NZ herald unlikely employer	bride	2	1	2	1	1.000000000000	NULL	NULL	76	56	0.02631578947368421
+NZ high commission activity	Prime Minister Key's visit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+NZ high commission activity	Forum	1	1	2	2	NULL	NULL	NULL	2019	808	0.00024764735017335313
+NZ legal matter	Civil Litigation	1	1	3	4	0.333333333333	NULL	NULL	40	30	0.008333333333333333
+NZ legal matter	Wills	1	1	3	4	0.333333333333	NULL	NULL	139	58	0.002398081534772182
+NZ legal matter	Conveyancing	1	1	3	4	0.333333333333	NULL	NULL	97	52	0.003436426116838488
+NZ marine mammal	NZ sea lion	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+NZ marine reserve	Poor Knights Islands Marine Reserve	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ native	kereru	1	1	4	4	0.800000000000	NULL	NULL	32	11	0.0078125
+NZ native	Kotuku Ngutu Papa	1	1	4	4	0.800000000000	NULL	NULL	2	2	0.125
+NZ native	teal	1	1	4	4	0.800000000000	NULL	NULL	384	155	0.0006510416666666666
+NZ native	keas	1	1	4	4	0.800000000000	NULL	NULL	7	5	0.03571428571428571
+NZ politician	Pansy Wong	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZ politician	David Parker	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+NZ politician	Maurice Williamson	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZ sailing's own manufactured product	Rooster DS layering system clothing range	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+NZ store	Palmerston's Native Soup	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ tourist attraction	Bay of Islands	2	2	4	2	1.000000000000	NULL	NULL	16	11	0.0625
+NZ tourist attraction	Rotorua	2	2	4	2	1.000000000000	NULL	NULL	44	31	0.022727272727272728
+NZ treatment service	counsellor	1	1	1	1	NULL	NULL	NULL	140	86	0.007142857142857143
+nz's finest artist	Julia Deans Tiki Taane	1	1	1	1	NULL	NULL	NULL	1	1	1
+nz's labor market institution	industrial relations law	2	1	2	1	NULL	NULL	NULL	5	3	0.4
+nz's main fishing related organization	Anglers	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+nz's main fishing related organization	NZ SportFishing Council	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+nz's main market	EU	1	1	1	1	NULL	NULL	NULL	1380	540	0.0007246376811594203
+nz's most prominent company	PGG Wrightson	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+nz's top act	Olmecha Supreme	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+nz's top cyclist	Hayden Roulston	2	2	2	1	NULL	NULL	NULL	5	4	0.4
+nz's top designer	Karen Walker	2	2	2	1	1.000000000000	NULL	NULL	30	16	0.06666666666666667
+nz-based zabeel son	Don Eduardo	1	1	1	1	NULL	NULL	NULL	1	1	1
+nz-based, garden related children's product	junior gardening kit	1	1	1	1	NULL	NULL	NULL	1	1	1
+nz-day event	kiwi band	1	1	1	1	NULL	NULL	NULL	1	1	1
+NZ-DS fiber	Corning LEAF fiber with large effective area	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZ-DS fiber	Corning SMF-LS fiber	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZ-DS fiber	Lucent Truewave fiber	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZ-ETS eligible project	renewable energy	1	1	1	1	NULL	NULL	NULL	776	308	0.001288659793814433
+NZ-UK shipping line	New Zealand Shipping Company	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+NZ-UK shipping line	Blue Star Line	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+NZ-UK shipping line	Port Line	1	1	4	4	NULL	NULL	NULL	4	4	0.0625
+NZ-UK shipping line	Shaw Savill & Albion	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+NZB search engine	FindNZB	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZB search engine	Binsearch	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZB search engine	NZBIndex	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+NZSE market heavyweight	Warehouse Group	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+NZSE market heavyweight	Carter Holt Harvey	1	1	2	2	0.500000000000	NULL	NULL	10	6	0.05
+NZTE program	Better by Design	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+nzte's rugby world cup activity	hosting international businessperson	3	2	3	1	NULL	NULL	NULL	4	2	0.75
+Nzungsmittel	B-3 B-6	1	1	2	2	0.375000000000	NULL	NULL	1	1	0.5
+Nzungsmittel	B-50	1	1	2	2	0.375000000000	NULL	NULL	10	7	0.05
+nzyme-specific, irreversible MAOIs	phenelzine	1	1	2	2	0.500000000000	NULL	NULL	186	45	0.002688172043010753
+nzyme-specific, irreversible MAOIs	tranylcypromine	1	1	2	2	0.500000000000	NULL	NULL	90	22	0.005555555555555556
+nzymes	glutathione peroxidase	1	1	2	2	0.333333333333	NULL	NULL	288	92	0.001736111111111111
+nzymes	superoxide dismutase	1	1	2	2	0.333333333333	NULL	NULL	607	170	0.0008237232289950577

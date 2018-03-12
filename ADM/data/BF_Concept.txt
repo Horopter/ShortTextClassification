@@ -1,0 +1,36 @@
+BF	Oak Square Liquors	1	1	1	1	NULL	NULL	NULL	1	1	1
+BF composite component	menu	1	1	3	3	NULL	NULL	NULL	1327	581	0.00025119316754584274
+BF composite component	BF menu	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BF composite component	accumulator list box	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+bf filter	Graphic Plus	1	1	1	1	NULL	NULL	NULL	1	1	1
+BF kit	Froth Pak	1	1	1	1	NULL	NULL	NULL	1	1	1
+BF top component	charging bell	1	1	1	1	NULL	NULL	NULL	1	1	1
+BF typhoon feature	Brembo Brakes	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+BF typhoon feature	Premium Sound System	1	1	2	2	1.000000000000	NULL	NULL	14	9	0.03571428571428571
+BF-exclusive weapon	UMP45	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+BF1942 forum	BF1942Files Forums	2	2	2	1	NULL	NULL	NULL	2	1	1
+BFA & government organization	NSPCC	1	1	2	2	NULL	NULL	NULL	88	33	0.005681818181818182
+BFA & government organization	Child Protection in Sport Unit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+BFA club	Huntly	1	1	1	1	1.000000000000	NULL	NULL	15	11	0.06666666666666667
+bfand-new infrastructure	dedicated cabling	1	1	1	1	NULL	NULL	NULL	1	1	1
+BFC system	ethylenediaminetetraacetic acid	4	4	8	2	1.000000000000	NULL	NULL	133	45	0.015037593984962405
+BFC system	diethylenetriaminepetaacetic acid	4	4	8	2	1.000000000000	NULL	NULL	4	1	0.5
+bfc's food production initiative	rooftop garden	1	1	1	1	1.000000000000	NULL	NULL	35	28	0.02857142857142857
+BFD client	OSPFv3	1	1	1	1	NULL	NULL	NULL	10	3	0.1
+BFFs	Liz Lemon	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+BFFs	Rachel Barry	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+BFFs	Nancy Botwin	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+BFFs	Pam Beasley	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+bfgf-supplemented E material	Restylane	1	1	2	2	NULL	NULL	NULL	1325	289	0.0003773584905660377
+bfgf-supplemented E material	Juvederm	1	1	2	2	NULL	NULL	NULL	877	189	0.0005701254275940707
+bfinish	brushing finish	1	1	1	1	NULL	NULL	NULL	1	1	1
+BFMs	Synopsys PCI Source Models	1	1	1	1	NULL	NULL	NULL	1	1	1
+bfoq-defences	sex being decisive	1	1	1	1	NULL	NULL	NULL	1	1	1
+BFRBs	compulsive nail biting	1	1	1	1	NULL	NULL	NULL	1	1	1
+BFRs	tetrabromobisphenol-a	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+BFRs	penta-	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+BFST concept	triangle	1	1	3	3	NULL	NULL	NULL	1711	617	0.0001948178453146308
+BFST concept	differentiation	1	1	3	3	NULL	NULL	NULL	570	239	0.0005847953216374269
+BFST concept	fusion	1	1	3	3	NULL	NULL	NULL	448	235	0.000744047619047619
+BFTB measurement	throttle response	1	1	1	1	0.500000000000	NULL	NULL	8	6	0.125
+bftp-funded venture capital group	Penn Venture Partners	1	1	1	1	NULL	NULL	NULL	1	1	1

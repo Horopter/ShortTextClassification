@@ -1,0 +1,71 @@
+JP domain extension	co.jp	1	1	1	1	NULL	NULL	NULL	1	1	1
+JP item	700 HP Wand	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JP item	700 JP Relic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JP nonprofit	Spontaneous Celebrations	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JP nonprofit	Hyde Square Task Force	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+JP poet	Emrani	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPA annotated instance	instance of the User class	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPA capability	embeddable class	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JPA capability	inheritance	1	1	3	3	NULL	NULL	NULL	1033	400	0.00032268473701193933
+JPA capability	entity relationship	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+JPA compliant technology	Hibernate	1	1	1	1	NULL	NULL	NULL	229	116	0.004366812227074236
+JPA feature	validation	1	1	6	6	0.600000000000	NULL	NULL	307	169	0.0005428881650380021
+JPA feature	auto completion	1	1	6	6	0.600000000000	NULL	NULL	7	6	0.023809523809523808
+JPA feature	lazy loading	1	1	6	6	0.600000000000	NULL	NULL	14	11	0.011904761904761904
+JPA feature	ManyToOne	1	1	6	6	0.600000000000	NULL	NULL	1	1	0.16666666666666666
+JPA feature	reverse engineering	1	1	6	6	0.600000000000	NULL	NULL	101	55	0.00165016501650165
+JPA feature	OneToMany	1	1	6	6	0.600000000000	NULL	NULL	1	1	0.16666666666666666
+JPA implementation	OpenJPA	3	2	5	3	1.000000000000	NULL	NULL	5	3	0.36
+JPA implementation	Hibernate for a code project	1	1	5	3	1.000000000000	NULL	NULL	1	1	0.2
+jpa implementation	alternate jpa implementation	1	1	5	3	1.000000000000	NULL	NULL	2	2	0.1
+JPA need	increasing the number of beneficiaries from a housing project	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPA provider	EclipseLink	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+JPA tool	Oracle JDeveloper	1	1	1	1	1.000000000000	NULL	NULL	26	14	0.038461538461538464
+JPA-compliant object relational mapper	OpenJPA	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+jpeg animation	waving flag	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+JPEG based compression	MJPEG	1	1	1	1	1.000000000000	NULL	NULL	27	17	0.037037037037037035
+JPEG decoder	OPB	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+JPEG estimation method	use of neural network	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+JPEG file	photo	1	1	2	2	NULL	NULL	NULL	4315	1298	0.00011587485515643106
+JPEG file	imag0001.jpg	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JPEG format	gray scale	2	1	4	2	0.500000000000	NULL	NULL	39	27	0.02564102564102564
+JPEG format	RGB	2	1	4	2	0.500000000000	NULL	NULL	184	79	0.005434782608695652
+jpeg graphic	background	2	2	2	1	NULL	NULL	NULL	923	394	0.0021668472372697724
+jpeg image	album art	1	1	3	3	0.500000000000	NULL	NULL	29	12	0.011494252873563218
+jpeg image	presentation	1	1	3	3	0.500000000000	NULL	NULL	2118	886	0.00015738117721120554
+jpeg image	Ultrasound single view	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+JPEG medium option	Microsoft Word	1	1	2	2	0.500000000000	NULL	NULL	2872	653	0.00017409470752089137
+JPEG medium option	Excel file	1	1	2	2	0.500000000000	NULL	NULL	62	37	0.008064516129032258
+jpeg-based file format	JNG	4	3	4	1	NULL	NULL	NULL	5	2	0.8
+JPEG2000 target application	adaptive image transmission	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JPEG2000 target application	adaptive image trans-mission	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+jpeg2000 viewer	irfanview with it's plugins	1	1	1	1	NULL	NULL	NULL	1	1	1
+jpg	file york minster close jpg	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPG background map	aerial photo	1	1	1	1	NULL	NULL	NULL	95	52	0.010526315789473684
+jpg compression option	smoothing	1	1	2	2	NULL	NULL	NULL	187	117	0.00267379679144385
+jpg compression option	quality	1	1	2	2	NULL	NULL	NULL	3355	1064	0.00014903129657228018
+JPI formula component	Weight	1	1	2	2	NULL	NULL	NULL	8102	1947	0.00006171315724512466
+JPI formula component	CS	1	1	2	2	NULL	NULL	NULL	48	57	0.010416666666666666
+JPK related course	induction course	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+JPL internal tool	visualization programs Dview	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPL mission	Mars Reconnaissance Orbiter	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+JPL project	Cassini	2	2	6	3	0.666666666666	NULL	NULL	49	31	0.013605442176870748
+JPL project	Galileo	2	2	6	3	0.666666666666	NULL	NULL	507	199	0.0013149243918474686
+JPL project	Mars Pathfinder	2	2	6	3	0.666666666666	NULL	NULL	16	13	0.041666666666666664
+JPL service	JPL Portal	1	0	1	1	NULL	NULL	NULL	1	1	1
+JPL space mission	Deep Space1	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPL space project	Galileo	1	1	1	1	NULL	NULL	NULL	507	199	0.0019723865877712033
+JPL staffer	Linda Robeck	1	1	1	1	NULL	NULL	NULL	1	1	1
+JPMS product	Foaming Pommade	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JPMS product	Paul Mitchell Super Sculpt	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JPMS product	Slick Works	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JPMS product	Fast Drying Sculpting Spray	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JPMS product	Sculpting Foam	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+Jpop	Mika Nakashima	1	1	2	2	0.666666666666	NULL	NULL	1	1	0.5
+Jpop	Miyavi	1	1	2	2	0.666666666666	NULL	NULL	8	8	0.0625
+JPRGs	Eternal Sonata	1	1	1	1	1.000000000000	NULL	NULL	13	4	0.07692307692307693
+jprofessions	teaching	1	1	3	3	NULL	NULL	NULL	1999	645	0.00016675004168751042
+jprofessions	law	1	1	3	3	NULL	NULL	NULL	5118	1346	0.00006512960791976031
+jprofessions	medicine	1	1	3	3	NULL	NULL	NULL	6368	1503	0.000052345058626465656
+JPS initiative	educational subsidy	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+JPS initiative	special loan program for poor community	1	1	2	2	NULL	NULL	NULL	1	1	0.5

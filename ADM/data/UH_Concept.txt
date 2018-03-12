@@ -1,0 +1,70 @@
+UH campus	UH Manoa	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UH campus	UH Hilo	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+UH gridders	Colin Chock	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UH gridders	Charley Araki	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UH gridders	assistant coach Jimmy Asato	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UH policy information	accommodations for students with disability	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+UH policy information	religious holiday	1	1	2	2	1.000000000000	NULL	NULL	50	31	0.01
+UH program	Marine Bioproducts Engineering Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+UH student	junior Lauren Sponberg	1	1	1	1	NULL	NULL	NULL	1	1	1
+uh's own faculty award	Esther Farfel Award	2	1	2	1	NULL	NULL	NULL	2	1	1
+uh-manoa student	Ashley Diaz	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uh-maui college academic department	Sustainable Construction Technology	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+uh-maui college academic department	Maui Culinary Academy	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+uh-maui college academic department	Hospitality & Tour-ism	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UHCAN ohio activity	media event	1	1	2	2	0.500000000000	NULL	NULL	18	13	0.027777777777777776
+UHCAN ohio activity	research	1	1	2	2	0.500000000000	NULL	NULL	3399	1283	0.00014710208884966165
+UHCL web service	e-mail	1	1	1	1	NULL	NULL	NULL	4959	1772	0.00020165355918531962
+UHE particle	proton	2	2	2	1	NULL	NULL	NULL	678	207	0.0029498525073746312
+UHF airway radio aid	code-of-silence marker	1	1	1	1	NULL	NULL	NULL	1	1	1
+UHF antenna	Silver Sensor	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+UHF application	broadcast aerial amplifier	4	1	10	4	NULL	NULL	NULL	4	1	0.4
+UHF application	broadband aerial amplifier	3	3	10	4	NULL	NULL	NULL	3	1	0.3
+UHF application	broadband	2	2	10	4	NULL	NULL	NULL	496	230	0.0008064516129032258
+UHF application	broadband aerial	1	1	10	4	NULL	NULL	NULL	1	1	0.1
+UHF channel	WB	1	1	2	2	NULL	NULL	NULL	150	71	0.0033333333333333335
+UHF channel	Fox	1	1	2	2	NULL	NULL	NULL	3360	860	0.00014880952380952382
+UHF chip manufacturer	NXP	1	1	1	1	NULL	NULL	NULL	48	30	0.020833333333333332
+UHF component	loop	1	1	1	1	NULL	NULL	NULL	677	421	0.0014771048744460858
+UHF connector	PL-259	3	3	3	1	NULL	NULL	NULL	4	2	0.75
+UHF DT station	ones in Milwaukee	1	1	1	1	NULL	NULL	NULL	1	1	1
+UHF frequency	Cambria County	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UHF frequency	433 MHz	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+UHF frequency	Boston PD	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+UHF horizontally-polarized wave	terrestrial digital broadcast wave	4	3	4	1	NULL	NULL	NULL	4	1	1
+UHF radio	TriSquare radio	1	1	1	1	NULL	NULL	NULL	1	1	1
+uhf rfid application	conveyor-belt-based uhf rfid application	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+UHF RFID application	warehouse inventory control	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+UHF RFID application	airport baggage handling	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+UHF RFID tag protocol	EPCglobal Class1 Gen2	2	1	2	1	NULL	NULL	NULL	2	1	1
+UHG company	UnitedHealthcare	1	0	1	1	NULL	NULL	NULL	46	25	0.021739130434782608
+UHI countermeasure	rooftop greening	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uhiquitous allergen	nickel	1	1	2	2	NULL	NULL	NULL	5172	1141	0.00009667440061871617
+uhiquitous allergen	rubber	1	1	2	2	NULL	NULL	NULL	4143	1304	0.00012068549360366884
+uhl's cornerstone franchise	Flint Generals	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uhl's cornerstone franchise	Quad City Mallards	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UHMWPE fiber related offer	Polyester Staple Fiber	1	1	2	2	0.333333333333	NULL	NULL	22	19	0.022727272727272728
+UHMWPE fiber related offer	Polyester Fiber	1	1	2	2	0.333333333333	NULL	NULL	91	58	0.005494505494505495
+UHMWPE prosthetic component	articulating surface of the patella	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UHMWPE prosthetic component	tibial poly insert	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uhn's workplace practice	benefit	1	1	1	1	NULL	NULL	NULL	1487	552	0.0006724949562878278
+UHP association	Dora Mairaunit	1	1	1	1	NULL	NULL	NULL	1	1	1
+UHP cell-damaging event	enzyme inactivation	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+UHP cell-damaging event	protein denaturation	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+UHP cell-damaging event	ribosome conformational change	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+UHP metamorphic evidence	quartz pseudomorphs after coesite from eclogites	1	1	1	1	NULL	NULL	NULL	1	1	1
+UHPLC system	Agilent 1290 Infinity LC system	2	1	2	1	NULL	NULL	NULL	2	1	1
+UHS benefit	HPV	1	1	1	1	NULL	NULL	NULL	285	64	0.0035087719298245615
+UHS service	X-rays	1	1	1	1	NULL	NULL	NULL	3587	832	0.00027878449958182325
+UHSP's	KHB's rod	1	1	1	1	NULL	NULL	NULL	1	1	1
+UHV compatible angle encoder	RON 905	1	1	1	1	NULL	NULL	NULL	1	1	1
+UHV compatible material	metal	1	1	1	1	NULL	NULL	NULL	11430	2556	0.00008748906386701662
+UHV course material	textbook	1	1	1	1	NULL	NULL	NULL	1426	509	0.0007012622720897616
+UHV technique	XPS	1	1	2	2	NULL	NULL	NULL	181	95	0.0027624309392265192
+UHV technique	MS	1	1	2	2	NULL	NULL	NULL	624	235	0.0008012820512820513
+UHV transmission line OPGW accident	hydrogen discharge	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+UHV transmission line OPGW accident	tube perforation	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+UHV transmission line OPGW accident	oil leak	1	1	4	4	1.000000000000	NULL	NULL	35	32	0.007142857142857143
+UHV transmission line OPGW accident	water leakage	1	1	4	4	1.000000000000	NULL	NULL	19	17	0.013157894736842105
+UHW official	John Borsos from Sacramento	1	1	1	1	NULL	NULL	NULL	1	1	1
+uhze concept	traffic circle	1	1	1	1	NULL	NULL	NULL	106	49	0.009433962264150943

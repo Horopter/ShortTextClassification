@@ -1,0 +1,41 @@
+tx	computerised slave tx	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+tx	Turnigy 9x	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+TX & borderline city	Washington	1	1	1	1	NULL	NULL	NULL	4211	716	0.00023747328425552126
+TX defensive driving school	Speed Relief Defensive driving school	1	1	1	1	NULL	NULL	NULL	1	1	1
+Tx diversity	STTD	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+tx many digital mode	P25	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+TX musical artist	Bowling for Soup	1	1	1	1	1.000000000000	NULL	NULL	32	13	0.03125
+TX river	Guadalupe	2	1	8	4	0.500000000000	NULL	NULL	29	18	0.017241379310344827
+TX river	Colorado	2	1	8	4	0.500000000000	NULL	NULL	2800	379	0.00017857142857142857
+TX river	Sabine	2	1	8	4	0.500000000000	NULL	NULL	13	9	0.038461538461538464
+TX river	Trinity	2	1	8	4	0.500000000000	NULL	NULL	489	197	0.0010224948875255625
+TX state license	Asbestos Inspector	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+TX state license	Air Monitor	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+TX unit page	Firmware Upgrades	2	2	4	2	NULL	NULL	NULL	4	2	0.25
+TX unit page	System Messages	2	2	4	2	NULL	NULL	NULL	5	3	0.2
+TX-L32DT30'S IPS alpha panel feature	inherently fast response	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+TX-L37DT30'S IPS alpha panel feature	inherently fast response	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+txdm band	devourment	1	1	1	1	NULL	NULL	NULL	8	5	0.125
+txdot district	Houston	1	1	1	1	NULL	NULL	NULL	1688	394	0.0005924170616113745
+txdot official	Owen Whitworth-TxDOT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+txdot official	head of the internal autit section	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+txdot official credit safety improvement	cable barriers in divided highway median	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+txdot official credit safety improvement	concrete	1	1	2	2	NULL	NULL	NULL	5791	1660	0.00008634087376964255
+txdot project	construction of roadside park	1	0	1	1	NULL	NULL	NULL	1	1	1
+txdot's non-roadway related project	litter pickup	2	2	6	3	1.000000000000	NULL	NULL	5	4	0.13333333333333333
+txdot's non-roadway related project	landscape maintenance	2	2	6	3	1.000000000000	NULL	NULL	43	32	0.015503875968992248
+txdot's non-roadway related project	janitorial contract	2	2	6	3	1.000000000000	NULL	NULL	3	2	0.2222222222222222
+txdot-maintained road	FM 812	1	1	1	1	NULL	NULL	NULL	1	1	1
+txhima product	pen	1	1	3	3	NULL	NULL	NULL	5345	1399	0.00006236357966947302
+txhima product	cap	1	1	3	3	NULL	NULL	NULL	1772	770	0.00018811136192626034
+txhima product	shirt	1	1	3	3	NULL	NULL	NULL	1604	647	0.0002078137988362427
+TXP tag	category	1	1	1	1	NULL	NULL	NULL	587	194	0.0017035775127768314
+TXs	Emley Moor	1	1	1	1	NULL	NULL	NULL	1	1	1
+txt document	notepad	1	1	1	1	NULL	NULL	NULL	2063	315	0.0004847309743092584
+txt file	statelist . txt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+txt file	Notepad	1	1	4	4	NULL	NULL	NULL	2063	315	0.0001211827435773146
+txt file	currency . txt	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+txt file	Word	1	1	4	4	NULL	NULL	NULL	4363	1194	0.00005730002292000917
+txt service	ChaCha	2	1	2	1	1.000000000000	NULL	NULL	29	20	0.06896551724137931
+txt-speak	gr8	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+txtbooks	history book	1	1	1	1	1.000000000000	NULL	NULL	30	20	0.03333333333333333

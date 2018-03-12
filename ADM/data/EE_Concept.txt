@@ -1,0 +1,361 @@
+EE certificate	ones from universitywebsites	1	1	1	1	NULL	NULL	NULL	1	1	1
+ee country	small ee country	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EE economy	Poland	1	1	1	1	NULL	NULL	NULL	4250	680	0.00023529411764705883
+EE good	Pensonic	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+EE indicator	energy consumption	1	1	1	1	NULL	NULL	NULL	352	165	0.002840909090909091
+EE integration technology	XML	1	1	1	1	NULL	NULL	NULL	1998	697	0.0005005005005005005
+EE material	newsletter	1	1	1	1	NULL	NULL	NULL	3095	1282	0.00032310177705977385
+EE measure	lighting	1	1	2	2	0.333333333333	NULL	NULL	5506	1914	0.00009081002542680712
+EE measure	HVAC	1	1	2	2	0.333333333333	NULL	NULL	558	279	0.0008960573476702509
+EE organization	National Association for Environmental Education	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+EE organization	nature center	1	1	2	2	1.000000000000	NULL	NULL	65	46	0.007692307692307693
+EE program	Refrigerator Replacement	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ee r ich company datum	size	2	1	2	1	NULL	NULL	NULL	44267	2716	0.00004518038267784128
+ee tional industry	car	1	1	1	1	NULL	NULL	NULL	7866	2381	0.0001271294177472667
+EE view user department	purchasing	1	1	2	2	NULL	NULL	NULL	1164	474	0.000429553264604811
+EE view user department	sale	1	1	2	2	NULL	NULL	NULL	4152	1482	0.00012042389210019268
+EE&C activity	community information program	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+EE&C activity	school education program	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+EE&C activity	education program	1	1	3	3	0.500000000000	NULL	NULL	121	78	0.002754820936639118
+ee-through, pale-colored or reflective accessory	EcoFlames Glass Ethanol Fireplace	1	1	1	1	NULL	NULL	NULL	1	1	1
+EEA area maritime country	Norway	1	1	2	2	NULL	NULL	NULL	4592	676	0.00010888501742160279
+EEA area maritime country	Iceland	1	1	2	2	NULL	NULL	NULL	1282	253	0.000390015600624025
+EEA country	Portugal	1	1	4	4	NULL	NULL	NULL	3395	556	0.00007363770250368188
+EEA country	Denmark	1	1	4	4	NULL	NULL	NULL	5591	623	0.00004471472008585226
+EEA country	Slovenia	1	1	4	4	NULL	NULL	NULL	785	169	0.0003184713375796178
+EEA country	Norway	1	1	4	4	NULL	NULL	NULL	4592	676	0.000054442508710801394
+EEA member state	France	1	1	2	2	NULL	NULL	NULL	18997	2318	0.00002631994525451387
+EEA member state	Austria	1	1	2	2	NULL	NULL	NULL	3941	521	0.0001268713524486171
+EEA requirement	staff time	1	1	3	3	NULL	NULL	NULL	119	54	0.0028011204481792717
+EEA requirement	translation	1	1	3	3	NULL	NULL	NULL	2226	437	0.00014974543276430067
+EEA requirement	publication cost	1	1	3	3	NULL	NULL	NULL	6	3	0.05555555555555555
+EEA state	Italy	1	1	4	4	NULL	NULL	NULL	10580	1406	0.000023629489603024576
+EEA state	United Kingdom	1	1	4	4	NULL	NULL	NULL	7133	767	0.00003504836674610963
+EEA state	Netherlands	1	1	4	4	NULL	NULL	NULL	7061	827	0.00003540574989378275
+EEA state	Germany	1	1	4	4	NULL	NULL	NULL	19646	2312	0.000012725236689402423
+EEA web-tailored product	briefing	1	1	1	1	NULL	NULL	NULL	101	65	0.009900990099009901
+eearlier phonetician	Bell	1	1	1	1	NULL	NULL	NULL	1388	594	0.0007204610951008645
+eearlier project	last year's campaign against the creation of an additional industrial plant along the Chester Waterf	1	1	1	1	NULL	NULL	NULL	1	1	1
+EEC country	France	3	3	7	3	NULL	NULL	NULL	18997	2318	0.0000676798592258928
+EEC country	Spain	2	2	7	3	NULL	NULL	NULL	9967	1404	0.00005733205291748484
+EEC country	Italy	2	2	7	3	NULL	NULL	NULL	10580	1406	0.000054010261949770455
+EEC dirt bike related offer	EEC ATV	1	1	3	3	0.666666666666	NULL	NULL	36	35	0.009259259259259259
+EEC dirt bike related offer	EEC Motorcycle	1	1	3	3	0.666666666666	NULL	NULL	11	11	0.0303030303030303
+EEC dirt bike related offer	Dirt Bike	1	1	3	3	0.666666666666	NULL	NULL	132	201	0.002525252525252525
+EEC extensive techological program	ESPRIT	1	1	1	1	1.000000000000	NULL	NULL	50	34	0.02
+EEC gas scooter related offer	Kick Scooter	1	1	2	2	0.500000000000	NULL	NULL	105	98	0.004761904761904762
+EEC gas scooter related offer	Electric Scooter	1	1	2	2	0.500000000000	NULL	NULL	60	52	0.008333333333333333
+EEC go kart related offer	ATV	1	1	1	1	NULL	NULL	NULL	105	94	0.009523809523809525
+EEC leader	Dan Schuttler	1	1	1	1	NULL	NULL	NULL	1	1	1
+EEC product	Go Kart	1	1	3	3	0.333333333333	NULL	NULL	23	12	0.014492753623188404
+EEC product	scooter	1	1	3	3	0.333333333333	NULL	NULL	799	439	0.00041718815185648727
+EEC product	ATV	1	1	3	3	0.333333333333	NULL	NULL	105	94	0.0031746031746031746
+EEC program	Npower Fridge Freezer scheme	1	1	1	1	NULL	NULL	NULL	1	1	1
+EECBG program fund project	commercial	1	1	3	3	NULL	NULL	NULL	1308	631	0.000254841997961264
+EECBG program fund project	residential	1	1	3	3	NULL	NULL	NULL	678	308	0.0004916420845624385
+EECBG program fund project	municipal energy efficiency retrofit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EECCA country	Belarus	2	1	10	8	0.125000000000	NULL	NULL	535	135	0.0007476635514018692
+EECCA country	Russia	2	1	10	8	0.125000000000	NULL	NULL	8825	1448	0.0000453257790368272
+EECCA country	Azerbaijan	1	1	10	8	0.125000000000	NULL	NULL	452	142	0.00022123893805309737
+EECCA country	Kyrgyzstan	1	1	10	8	0.125000000000	NULL	NULL	271	61	0.0003690036900369004
+EECCA country	Tajikistan	1	1	10	8	0.125000000000	NULL	NULL	321	81	0.00031152647975077883
+EECCA country	Ukraine	1	1	10	8	0.125000000000	NULL	NULL	1691	356	0.00005913660555884092
+EECCA country	Turkmenistan	1	1	10	8	0.125000000000	NULL	NULL	233	72	0.0004291845493562232
+EECCA country	Republic of Moldova	1	1	10	8	0.125000000000	NULL	NULL	38	9	0.002631578947368421
+eeco's feature	air-conditioning	2	2	2	1	NULL	NULL	NULL	620	217	0.0032258064516129032
+eeconomic and social factor	persistence of a regressive social structure	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+eeconomic and social factor	slowdown in GDP growth in the last decade	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+EECS lower div course	EE 20N	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EECS lower div course	CS 61A	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eect	Grayscale	1	1	1	1	0.500000000000	NULL	NULL	69	28	0.014492753623188406
+eect ofdierent parameter	adsorption strength	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eect ofdierent parameter	polymer concentration on the size	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eect ofdierent parameter	particle size	1	1	3	3	NULL	NULL	NULL	742	225	0.00044923629829290204
+eective neural network	human brain	1	1	2	2	1.000000000000	NULL	NULL	28	23	0.017857142857142856
+eective neural network	ahuman brain	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eective parameter	dynamic permeability	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eective parameter	porosity	1	1	2	2	NULL	NULL	NULL	1317	476	0.00037965072133637056
+eective power scavenging method	solar cell	1	1	1	1	NULL	NULL	NULL	550	258	0.0018181818181818182
+eective sorting algorithm	usedierent moves while progressing with the sorting	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eective sorting algorithm	quick sort	1	1	2	2	1.000000000000	NULL	NULL	21	12	0.023809523809523808
+eective, robust commercialmilp solver	CPLEX	1	1	1	1	1.000000000000	NULL	NULL	39	30	0.02564102564102564
+eectivechiral model	linear	1	1	1	1	NULL	NULL	NULL	442	276	0.0022624434389140274
+eectivemedium theory	Maxwell Garnettor Bruggeman model	1	1	1	1	NULL	NULL	NULL	1	1	1
+eectivewithshort, numeric element	course number sorcredits	1	1	1	1	NULL	NULL	NULL	1	1	1
+eectofdierent property	initial prestrain of SMA wire	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eectofdierent property	actuation time	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+eectofdierent property	modes of activating electrical current	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eectoffactors	medium being used for bacterial culture	1	1	1	1	NULL	NULL	NULL	1	1	1
+eects	fading correlation between the antennas	2	1	31	30	0.416666666666	NULL	NULL	3	2	0.04301075268817204
+eects	spontaneous emission	1	1	31	30	0.416666666666	NULL	NULL	8	7	0.004032258064516129
+eects	antenna eciency	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	carrier heating	1	1	31	30	0.416666666666	NULL	NULL	9	8	0.0035842293906810036
+eects	freeplay	1	1	31	30	0.416666666666	NULL	NULL	8	8	0.004032258064516129
+eects	image plane eects	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	heater material	1	1	31	30	0.416666666666	NULL	NULL	2	2	0.016129032258064516
+eects	Hall voltage	1	1	31	30	0.416666666666	NULL	NULL	3	3	0.01075268817204301
+eects	humidity	1	1	31	30	0.416666666666	NULL	NULL	4029	858	0.000008006469227135526
+eects	clear instance of MAO inhibition	1	1	31	30	0.416666666666	NULL	NULL	6	2	0.005376344086021505
+eects	temperature	1	1	31	30	0.416666666666	NULL	NULL	21509	4199	0.0000014997472925812
+eects	air temperature	1	1	31	30	0.416666666666	NULL	NULL	763	256	0.000042277935145647484
+eects	fiber GVD	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	dry friction damping	1	1	31	30	0.416666666666	NULL	NULL	2	2	0.016129032258064516
+eects	band mixing	1	1	31	30	0.416666666666	NULL	NULL	2	2	0.016129032258064516
+eects	initial consonant	1	1	31	30	0.416666666666	NULL	NULL	4	4	0.008064516129032258
+eects	image-based skin rendering eects	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	modication of the velocity prole of the suspension	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	ray detectioneciency	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	RF componentperformance	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	radiation pattern	1	1	31	30	0.416666666666	NULL	NULL	79	30	0.00040832993058391177
+eects	absorption due to deposits upon the the Window surface	1	1	31	30	0.416666666666	NULL	NULL	3	2	0.01075268817204301
+eects	vapor ratio	1	1	31	30	0.416666666666	NULL	NULL	2	2	0.016129032258064516
+eects	length-bias introduced through smoothing	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	barring secondary eects	1	1	31	30	0.416666666666	NULL	NULL	2	2	0.016129032258064516
+eects	atmospheric attenuation eects	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	obscuration by the Window Support Structure	1	1	31	30	0.416666666666	NULL	NULL	3	2	0.01075268817204301
+eects	oblique font	1	1	31	30	0.416666666666	NULL	NULL	2	2	0.016129032258064516
+eects	self occlusion	1	1	31	30	0.416666666666	NULL	NULL	1	1	0.03225806451612903
+eects	voices in the head	1	1	31	30	0.416666666666	NULL	NULL	6	2	0.005376344086021505
+eects feature	clue word	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+eects feature	similarity on performance of the discourse parser	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eects feature	distance	1	1	3	3	NULL	NULL	NULL	1970	638	0.00016920473773265651
+eectsfrom radiation	brosis	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eed eater	Robins	1	1	1	1	1.000000000000	NULL	NULL	7	24	0.14285714285714285
+eed's program	Health Wellness	1	1	1	1	NULL	NULL	NULL	6	2	0.16666666666666666
+eeda's key document	corporate plan	1	1	3	3	1.000000000000	NULL	NULL	25	18	0.013333333333333332
+eeda's key document	regional economic strategy	1	1	3	3	1.000000000000	NULL	NULL	15	9	0.02222222222222222
+eeda's key document	monthly board paper	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+eedforamobilityprotocol	NE MOB asicsupport	1	1	1	1	NULL	NULL	NULL	1	1	1
+eee PC interface	Ethernet	1	1	2	2	NULL	NULL	NULL	1431	598	0.00034940600978336826
+eee PC interface	USB	1	1	2	2	NULL	NULL	NULL	993	441	0.0005035246727089627
+EEE product	flat screen monitor	1	1	2	2	0.500000000000	NULL	NULL	12	12	0.041666666666666664
+EEE product	mobile phone	1	1	2	2	0.500000000000	NULL	NULL	6991	1839	0.00007152052639107424
+EEE relevant product	epoxy-based surface coating	1	1	1	1	NULL	NULL	NULL	1	1	1
+eee tablet	Eee Pad Transformer	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+eeg abnormality	severe eeg abnormality	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+EEG abnormality	burst suppression	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+EEG abnormality	hypsarrhythmia	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+EEG abnormality	low voltage	1	1	4	4	1.000000000000	NULL	NULL	49	38	0.00510204081632653
+EEG bursting characteristic	peak	1	1	2	2	NULL	NULL	NULL	158	116	0.0031645569620253164
+EEG bursting characteristic	rate	1	1	2	2	NULL	NULL	NULL	985	402	0.0005076142131979696
+EEG component	sensorimotor rhythm	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG component	slow cortical potential	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+EEG device	Emotiv's EPOC headset	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+EEG display format	plots of spatial coherence	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG display format	spectral power display	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG feature	beta coma	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+EEG feature	spindle coma	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+EEG feature	overall suppression of amplitude	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+EEG feature	loss of the alpha rhythm	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+EEG feature	Lyapunov Exponents	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+EEG feature	alpha coma	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+EEG finding	posterior slowing	2	1	2	1	1.000000000000	NULL	NULL	2	1	1
+EEG measure	blood flow in the brain	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EEG measure	spectral entropy	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+EEG nonlinear index	Lempel-Ziv complexity	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+EEG parameter	increase in total number of spike	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG parameter	total power of the EEG	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG pattern	focal abnormal fast activity	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+EEG pattern	high amplitude fast rhythm	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+EEG pattern	sleep spindle	1	1	5	5	0.500000000000	NULL	NULL	6	5	0.03333333333333333
+EEG pattern	slow wave	1	1	5	5	0.500000000000	NULL	NULL	4	3	0.05
+EEG pattern	high-voltage EEGs	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+EEG phenomenon	generation of specific frequency band	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+EEG reaction	blocking of alpha wave	1	1	1	1	NULL	NULL	NULL	1	1	1
+EEG signal	P300	1	1	1	1	1.000000000000	NULL	NULL	16	11	0.0625
+EEG signal feature	slow cortical potential	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+EEG singer	Ray Lam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG singer	Twins	1	1	2	2	NULL	NULL	NULL	93	43	0.005376344086021506
+EEG statistic	Cross-Approximate Entropy	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+EEG statistic	Kullback-Leibler Entropy	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+EEG statistic	Shannon Entropy	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+EEG system	GEODESIC EEG SYSTEM 250 FROM ELECTRICAL GEODESICS INC.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG system	Cognitrace system of ANT	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEG technique	sleep EEG	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+EEG technique	sleep EEG spectral analysis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EEG technique	subdual electrode recording	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+EEG technique	depth	1	1	4	4	NULL	NULL	NULL	1227	489	0.00020374898125509371
+EEG variable	spectral edge frequency	2	2	6	4	0.666666666666	NULL	NULL	10	9	0.06666666666666667
+EEG variable	median frequency	2	2	6	4	0.666666666666	NULL	NULL	9	8	0.07407407407407407
+eeg variable	processed eeg variable	1	1	6	4	0.666666666666	NULL	NULL	2	2	0.08333333333333333
+EEG variable	frontal theta	1	1	6	4	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+eeg's singer	Joey Yung	1	1	5	5	0.500000000000	NULL	NULL	8	8	0.025
+eeg's singer	Vincy Chan	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+eeg's singer	William Chan	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+eeg's singer	Twins	1	1	5	5	0.500000000000	NULL	NULL	93	43	0.002150537634408602
+eeg's singer	Sherman Chung	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+eeg-derived variable	bispectral index	1	1	3	3	0.666666666666	NULL	NULL	5	5	0.06666666666666667
+eeg-derived variable	spectral edge frequency	1	1	3	3	0.666666666666	NULL	NULL	10	9	0.03333333333333333
+eeg-derived variable	entropy	1	1	3	3	0.666666666666	NULL	NULL	485	207	0.0006872852233676975
+eeg-enable application	emotional avatar	1	1	5	5	0.250000000000	NULL	NULL	2	2	0.1
+eeg-enable application	music therapy	1	1	5	5	0.250000000000	NULL	NULL	358	161	0.000558659217877095
+eeg-enable application	storytelling	1	1	5	5	0.250000000000	NULL	NULL	662	313	0.00030211480362537764
+eeg-enable application	serious game	1	1	5	5	0.250000000000	NULL	NULL	13	12	0.015384615384615385
+eeg-enable application	music player	1	1	5	5	0.250000000000	NULL	NULL	671	266	0.00029806259314456036
+eegional group	Southern Kegional Education Board	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eegional group	Western Interstate Commission on Higher Education	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Eegularly-occurring species	scale insect	1	1	2	2	1.000000000000	NULL	NULL	97	45	0.005154639175257732
+Eegularly-occurring species	various common aphid	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eei's subsidiary	Walsh Environmental	1	1	1	1	NULL	NULL	NULL	1	1	1
+eekly event	Rock N Golf	1	1	1	1	NULL	NULL	NULL	1	1	1
+eekly magazine	Shukan Asahi	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+eekly magazine	Shukan Shincho	2	1	4	2	NULL	NULL	NULL	4	3	0.25
+eel	honeycomb moray	1	1	9	9	0.400000000000	NULL	NULL	1	1	0.1111111111111111
+eel	snake eel	1	1	9	9	0.400000000000	NULL	NULL	2	2	0.05555555555555555
+eel	American eel	1	1	9	9	0.400000000000	NULL	NULL	49	21	0.0022675736961451248
+eel	tyretrack	1	1	9	9	0.400000000000	NULL	NULL	1	1	0.1111111111111111
+eel	t ool s t eel	1	1	9	9	0.400000000000	NULL	NULL	1	1	0.1111111111111111
+eel	European eel	1	1	9	9	0.400000000000	NULL	NULL	15	11	0.007407407407407407
+eel	gulper eel	1	1	9	9	0.400000000000	NULL	NULL	8	7	0.013888888888888888
+eel	Green	1	1	9	9	0.400000000000	NULL	NULL	6694	1904	0.000016598612356007036
+eel	fire	1	1	9	9	0.400000000000	NULL	NULL	9681	2693	0.000011477234904566792
+eel freshwater feeder fish	goldfish	2	2	2	1	NULL	NULL	NULL	465	190	0.004301075268817204
+eel grade	SUS430	1	1	5	5	NULL	NULL	NULL	4	3	0.05
+eel grade	SUS316L	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+eel grade	SUS321	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+eel grade	SUS304	1	1	5	5	NULL	NULL	NULL	4	3	0.05
+eel grade	SUS310S	1	1	5	5	NULL	NULL	NULL	3	2	0.06666666666666667
+eel habitat	Lake Windermere	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+Eel Rig	Sidley Rig on a spare rod	1	1	1	1	NULL	NULL	NULL	1	1	1
+eel-like character	mythical monster Taniwha	1	1	1	1	NULL	NULL	NULL	1	1	1
+eel-like fish	lamprey	1	1	2	2	0.500000000000	NULL	NULL	140	59	0.0035714285714285713
+eel-like fish	Fire eel	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+eelam group	ENDLF	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eelam group	EPRLF	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+eelamweb's special service	on-line store	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+eelectronics	Nintendo DS	1	1	1	1	NULL	NULL	NULL	176	89	0.005681818181818182
+eelektross's counter	Rhydon	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+eelgrass meadow	Samish Bay	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+eelgrass meadow	portions of the former delta of Whatcom Creek	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+eeligious sect	Koman Catholics	1	1	1	1	NULL	NULL	NULL	1	1	1
+eelings	confusion	1	1	5	5	NULL	NULL	NULL	1535	484	0.00013029315960912054
+eelings	anxiety	1	1	5	5	NULL	NULL	NULL	10807	2261	0.000018506523549551218
+eelings	anger	1	1	5	5	NULL	NULL	NULL	7439	1466	0.000026885334050275577
+eelings	guilt	1	1	5	5	NULL	NULL	NULL	1903	454	0.00010509721492380453
+eelings	grief	1	1	5	5	NULL	NULL	NULL	1260	360	0.00015873015873015873
+EEMBC member	IBM	2	1	2	1	NULL	NULL	NULL	11151	2595	0.0001793561115595014
+eemingly private dispute	tort	1	1	2	2	NULL	NULL	NULL	112	62	0.004464285714285714
+eemingly private dispute	divorce	1	1	2	2	NULL	NULL	NULL	5143	1237	0.00009721952167995334
+Eemotions	fear	1	1	1	1	NULL	NULL	NULL	5762	1341	0.00017355085039916696
+eempact sale automation sale tool	activity tracking	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+EEN technique	subset PHY	1	1	1	1	NULL	NULL	NULL	1	1	1
+een terrestrial object	eagle	1	1	2	2	NULL	NULL	NULL	1202	418	0.00041597337770382697
+een terrestrial object	bear	1	1	2	2	NULL	NULL	NULL	2588	668	0.00019319938176197836
+EEN transaction	data rate transition	1	1	1	1	NULL	NULL	NULL	1	1	1
+eendogenous opiate	endorphens adn enkephalens	1	1	1	1	NULL	NULL	NULL	1	1	1
+eenth century novel	Tom Jones	1	1	1	1	NULL	NULL	NULL	171	73	0.005847953216374269
+eenthand nineteenth century feminist philosopher	John Stuart Mill	1	1	2	2	0.500000000000	NULL	NULL	214	89	0.002336448598130841
+eenthand nineteenth century feminist philosopher	Mary Wollstonecraft	1	1	2	2	0.500000000000	NULL	NULL	46	25	0.010869565217391304
+eenventlcncl automotive electrical device	radio	1	1	2	2	NULL	NULL	NULL	7280	2387	0.00006868131868131868
+eenventlcncl automotive electrical device	headlight	1	1	2	2	NULL	NULL	NULL	456	240	0.0010964912280701754
+EEO community group	Macarthur Migrant Resource Centre	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEO community group	Australian Arabic Welfare Council	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEO consideration	ADA requirement	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+EEO information	poster	1	1	3	3	NULL	NULL	NULL	4712	1695	0.00007074136955291453
+EEO information	manual	1	1	3	3	NULL	NULL	NULL	1348	559	0.0002472799208704253
+EEO information	poster supplement	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EEO official	EEO officer	1	1	2	2	0.250000000000	NULL	NULL	2	2	0.25
+EEO official	Director	1	1	2	2	0.250000000000	NULL	NULL	941	367	0.0005313496280552603
+EEO principle	merit selection	4	4	4	1	NULL	NULL	NULL	7	4	0.5714285714285714
+EEO representative group	Spokeswomen's Network	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EEO representative group	Multicultural Education Coordinators	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EEO representative group	Staff with Disabilities Network	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+EEO-related information	ethnic background	1	1	3	3	NULL	NULL	NULL	268	88	0.0012437810945273632
+EEO-related information	age	1	1	3	3	NULL	NULL	NULL	32703	4368	0.000010192744804248336
+EEO-related information	race	1	1	3	3	NULL	NULL	NULL	8280	1787	0.00004025764895330112
+EEOC employee	investigator	1	1	3	3	NULL	NULL	NULL	95	50	0.003508771929824561
+EEOC employee	receptionist	1	1	3	3	NULL	NULL	NULL	403	199	0.0008271298593879239
+EEOC employee	attorney	1	1	3	3	NULL	NULL	NULL	1809	527	0.00018426386585590566
+EEOC issue	age	1	1	3	3	NULL	NULL	NULL	32703	4368	0.000010192744804248336
+EEOC issue	gender	1	1	3	3	NULL	NULL	NULL	16818	2908	0.000019820034090458636
+EEOC issue	ethnicity	1	1	3	3	NULL	NULL	NULL	4022	933	0.00008287750704458809
+EEOC policy material	proposed regulation	4	2	8	2	NULL	NULL	NULL	7	4	0.2857142857142857
+EEOC policy material	enforcement guidance drafted by the Commission's Office of Legal Counsel	4	2	8	2	NULL	NULL	NULL	4	1	0.5
+eep-sky object	star cluster	1	1	4	4	0.500000000000	NULL	NULL	82	24	0.003048780487804878
+eep-sky object	dust cloud	1	1	4	4	0.500000000000	NULL	NULL	14	13	0.017857142857142856
+eep-sky object	nebula	1	1	4	4	0.500000000000	NULL	NULL	147	58	0.0017006802721088435
+eep-sky object	galaxy	1	1	4	4	0.500000000000	NULL	NULL	343	182	0.0007288629737609329
+EEPROM	Microchip 93LC66	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+EEPROM	disclosed in Japanese Patent Laid-open No.	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+EEPROM	RAMTRON FRAM EEPROM	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+EEPROM cell	FLOTOX cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+eeprom device	conventional eeprom device	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+EEPROM device	devices with different doping polarity	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEPROM error stored datum	total time	1	1	2	2	0.500000000000	NULL	NULL	25	18	0.02
+EEPROM error stored datum	user preference	1	1	2	2	0.500000000000	NULL	NULL	98	41	0.00510204081632653
+eeprom feature	high endurance	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+EEPROM special bit	configuration bit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEPROM special bit	condition bit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEPROM store datum	total number of pages passed	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EEPROM store datum	various setting	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+EEPROM store information	account identification	1	1	1	1	NULL	NULL	NULL	1	1	1
+EEPROMs	flash memory	1	1	1	1	0.500000000000	NULL	NULL	594	246	0.0016835016835016834
+eer-to-peer network	Napster	1	1	3	3	NULL	NULL	NULL	858	356	0.0003885003885003885
+eer-to-peer network	BitTorrent	1	1	3	3	NULL	NULL	NULL	425	195	0.000784313725490196
+eer-to-peer network	Gnutella	1	1	3	3	NULL	NULL	NULL	479	200	0.0006958942240779401
+Eerdmans Publishing Company	wood for the altar	1	1	1	1	NULL	NULL	NULL	1	1	1
+eereddrainage system	stormwater sewer pipe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eereddrainage system	open channel ditch	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+eerie abandoned holiday resort	Varosha in Famagusta	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie and otherworldly element	gravestone	1	1	2	2	1.000000000000	NULL	NULL	30	24	0.016666666666666666
+eerie and otherworldly element	rain of blood	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eerie building	chapel	1	1	2	2	NULL	NULL	NULL	276	134	0.0018115942028985507
+eerie building	post office	1	1	2	2	NULL	NULL	NULL	1482	526	0.00033738191632928474
+eerie color	green	1	1	3	3	NULL	NULL	NULL	6694	1904	0.00004979583706802111
+eerie color	blue	1	1	3	3	NULL	NULL	NULL	7681	1817	0.000043397127110185304
+eerie color	silver	1	1	3	3	NULL	NULL	NULL	7631	1889	0.00004368147468658542
+eerie dungeon	Shadow Temple	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eerie effect	food being taken	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eerie effect	shaving cream sprayed on the bathroom wall	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eerie effect	unclaimed dirty dishes being found	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+eerie experience	large handprint captured by the thermal camera	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie landmark	Chambers Pillar	4	3	4	1	NULL	NULL	NULL	5	2	0.8
+eerie location	Mountain View Cemetery	3	3	3	1	NULL	NULL	NULL	3	1	1
+eerie music	music from catspaw	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie name	Jacko Wako	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie noise	white noise strobe light	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie or lonely location	ruined castle	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+eerie outdoor decoration	levitating ghost	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie site	Burying Point	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+eerie site	House of Seven Gables	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+eerie sound	squeak	1	1	1	1	0.500000000000	NULL	NULL	51	22	0.0196078431372549
+eerie underground stronghold	Fort Doom & the Enclave of the Penguins	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerie, edge-of-your-seat bestseller	Cypress House	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eerily effective sound	detuned lower strings of the viola	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerily exotic ailment	Morgellon's Disease	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eerily fascinating prehistoric site	oldest dwellings at Scorba	1	1	1	1	NULL	NULL	NULL	1	1	1
+eerily quiet tourist destination	Victoria Falls	1	1	1	1	NULL	NULL	NULL	56	35	0.017857142857142856
+eerily scary character	Wicked Witch of the West	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+eerily scary character	flying monkey	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+eeringenzyme property	catalytic activity	1	1	2	2	1.000000000000	NULL	NULL	21	14	0.023809523809523808
+eeringenzyme property	thermostability	1	1	2	2	1.000000000000	NULL	NULL	21	14	0.023809523809523808
+eerp's TEN-T project	Maastricht tunnel	3	3	3	1	NULL	NULL	NULL	3	1	1
+eers	peace corps volunt eers	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+eery string technique	pizzicato	1	1	1	1	1.000000000000	NULL	NULL	28	16	0.03571428571428571
+EES activity	operation	1	1	1	1	NULL	NULL	NULL	1210	470	0.0008264462809917355
+ees item	drill book	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+EES skill	drawing cross section	1	1	1	1	NULL	NULL	NULL	1	1	1
+ees-compatible trunk type	Central Office	1	1	1	1	1.000000000000	NULL	NULL	18	18	0.05555555555555555
+ees-excavated object	Amenhotep from Abydos	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ees-excavated object	statue of the steward of Memphis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+EESC publication	brochure	1	1	1	1	NULL	NULL	NULL	5215	1605	0.00019175455417066154
+EESI report harmful algal bloom	red	1	1	1	1	NULL	NULL	NULL	9245	2185	0.00010816657652785289
+eessential mineral	iron	1	1	2	2	NULL	NULL	NULL	11941	2300	0.00004187253998827569
+eessential mineral	zinc	1	1	2	2	NULL	NULL	NULL	8418	1394	0.000059396531242575434
+EET analog	episulfide	1	1	1	1	NULL	NULL	NULL	1	1	1
+eet industrial physical examination	hearing	1	1	4	4	NULL	NULL	NULL	954	391	0.0002620545073375262
+eet industrial physical examination	pulmonary	1	1	4	4	NULL	NULL	NULL	123	85	0.0020325203252032522
+eet industrial physical examination	sight	1	1	4	4	NULL	NULL	NULL	606	232	0.00041254125412541255
+eet industrial physical examination	cardiovascular	1	1	4	4	NULL	NULL	NULL	352	168	0.0007102272727272727
+eetingwasheld and key issue	security	1	1	1	1	NULL	NULL	NULL	8153	2525	0.00012265423770391266
+EETs	release calculations based on mass balance of solvent consumption	1	1	1	1	NULL	NULL	NULL	1	1	1
+eevee evolution	hs-undaunted feature eevee evolution	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+eevee evolution	Glaceon	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+eevee vitamin	Protein	3	2	8	5	0.200000000000	NULL	NULL	5809	1696	0.00019366500258220003
+eevee vitamin	Carbos	2	1	8	5	0.200000000000	NULL	NULL	26	8	0.019230769230769232
+eevee vitamin	Zinc	1	1	8	5	0.200000000000	NULL	NULL	8418	1394	0.000014849132810643859
+eevee vitamin	Iron	1	1	8	5	0.200000000000	NULL	NULL	11941	2300	0.000010468134997068922
+eevee vitamin	Calcium	1	1	8	5	0.200000000000	NULL	NULL	7449	1348	0.000016780775943079608
+eevees stupid name	Foxy	1	1	2	2	0.666666666666	NULL	NULL	11	9	0.045454545454545456
+eevees stupid name	Miles	1	1	2	2	0.666666666666	NULL	NULL	44	36	0.011363636363636364
+EEW message	cellular phone	1	1	1	1	NULL	NULL	NULL	2660	748	0.00037593984962406017

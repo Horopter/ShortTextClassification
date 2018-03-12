@@ -1,0 +1,24 @@
+uz taboo	wielding of fire	1	1	1	1	NULL	NULL	NULL	1	1	1
+uzbek artist	well-known anti- official artist	1	1	1	1	NULL	NULL	NULL	1	1	1
+uzbek city	ancient uzbek city	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+uzbek city	Bukhara	1	1	2	2	1.000000000000	NULL	NULL	56	27	0.008928571428571428
+uzbek dish	palov	1	1	1	1	NULL	NULL	NULL	1	1	1
+Uzbek NGOs	Tashkent Business Club	1	1	1	1	NULL	NULL	NULL	1	1	1
+uzbek ruler	Mukhammad Shaybani Khan	1	1	1	1	NULL	NULL	NULL	1	1	1
+uzbek state-owned entity	bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+uzbek-language newspaper	Diydor in Jalal-Abad	1	1	1	1	NULL	NULL	NULL	1	1	1
+uzbekistan fruit	apple	1	1	5	5	NULL	NULL	NULL	15894	3432	0.000012583364791745313
+uzbekistan fruit	grape	1	1	5	5	NULL	NULL	NULL	4192	1036	0.00004770992366412214
+uzbekistan fruit	apricot	1	1	5	5	NULL	NULL	NULL	2525	579	0.00007920792079207921
+uzbekistan fruit	pear	1	1	5	5	NULL	NULL	NULL	3815	883	0.00005242463958060289
+uzbekistan fruit	peach	1	1	5	5	NULL	NULL	NULL	4595	1115	0.000043525571273122965
+uzbekistan's historic city	Bukhara	1	1	2	2	0.500000000000	NULL	NULL	56	27	0.008928571428571428
+uzbekistan's historic city	Samarkand	1	1	2	2	0.500000000000	NULL	NULL	66	32	0.007575757575757576
+uzbekistan's main tourist center	Samarkand	1	1	1	1	NULL	NULL	NULL	66	32	0.015151515151515152
+uzbekistan's primary city	Bukhara	1	1	1	1	1.000000000000	NULL	NULL	56	27	0.017857142857142856
+uzbekistan's significant city	Bukhara	1	1	1	1	1.000000000000	NULL	NULL	56	27	0.017857142857142856
+UZMANLAR crane	gantry crane	1	1	2	2	1.000000000000	NULL	NULL	67	26	0.007462686567164179
+UZMANLAR crane	portal crane	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+UZR favor certain premium position	SS	1	1	1	1	NULL	NULL	NULL	105	74	0.009523809523809525
+uzu barley feature	stiff culms	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+uzu barley feature	dark leaf color	1	1	2	2	NULL	NULL	NULL	1	1	0.5

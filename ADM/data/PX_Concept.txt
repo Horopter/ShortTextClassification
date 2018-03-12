@@ -1,0 +1,24 @@
+PX domain	PX domains of the sorting nexins	1	1	1	1	NULL	NULL	NULL	1	1	1
+PX end-users	Oriental Petrochemical	1	1	1	1	NULL	NULL	NULL	1	1	1
+PX item	cigarette	1	1	6	6	0.166666666666	NULL	NULL	1789	523	0.0000931619154089808
+PX item	pipe tobacco	1	1	6	6	0.166666666666	NULL	NULL	44	14	0.0037878787878787876
+PX item	tooth paste	1	1	6	6	0.166666666666	NULL	NULL	130	65	0.001282051282051282
+PX item	cigarette lighter	1	1	6	6	0.166666666666	NULL	NULL	142	73	0.0011737089201877935
+PX item	flint	1	1	6	6	0.166666666666	NULL	NULL	304	159	0.0005482456140350877
+PX item	razor blade	1	1	6	6	0.166666666666	NULL	NULL	325	130	0.0005128205128205128
+px's song	Dog Boots	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+px's song	Atlantis	1	1	2	2	NULL	NULL	NULL	121	81	0.004132231404958678
+PXDLS motif-containing transcription factor	BKLF	1	1	1	1	NULL	NULL	NULL	1	1	1
+PXE component	PXE Manager	1	1	1	1	NULL	NULL	NULL	1	1	1
+PXE Server	Altiris Deployment Solution	1	1	1	1	NULL	NULL	NULL	11	5	0.09090909090909091
+PXE-compliant boot ROM	Argon's Managed PC Boot Agent	1	1	1	1	NULL	NULL	NULL	1	1	1
+PXI device	PXI switch	1	1	1	1	NULL	NULL	NULL	1	1	1
+PXI instrument	PXI Chassis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PXI instrument	PXI Counters	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+PXR activator	phenobarbital	2	2	2	1	NULL	NULL	NULL	723	191	0.0027662517289073307
+PXR agonists	rifampicin	4	4	8	3	NULL	NULL	NULL	259	75	0.007722007722007722
+PXR agonists	dexamethasone	2	2	8	3	NULL	NULL	NULL	780	212	0.000641025641025641
+PXR agonists	glucocorticoids	2	2	8	3	NULL	NULL	NULL	398	134	0.001256281407035176
+PXR ligands	cyclophosphamide	1	1	1	1	NULL	NULL	NULL	962	220	0.0010395010395010396
+pxrandrelated nuclear receptor	constitutiveandrostane receptor	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+pxrandrelated nuclear receptor	retinoid X receptor	1	1	2	2	1.000000000000	NULL	NULL	13	10	0.038461538461538464

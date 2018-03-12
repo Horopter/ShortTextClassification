@@ -1,0 +1,486 @@
+SR activity	training	1	1	1	1	NULL	NULL	NULL	7685	2537	0.00013012361743656474
+SR andotherassociated reaction	PROX in the micro-channel reactor	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+SR andotherassociated reaction	WGS	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+SR co-ordinate system	bi-oblique co-ordinate system	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+SR committee	Technical Assessment Program Committee	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SR committee	FR Council	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SR committee	Nuclear Safety Council	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SR effect	time dilation	1	1	1	1	1.000000000000	NULL	NULL	30	15	0.03333333333333333
+SR handling protein	RyR2	1	1	1	1	NULL	NULL	NULL	1	1	1
+SR image reconstruction technique	maximum a posteriori	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+SR method	sharpened interpolation	1	1	1	1	NULL	NULL	NULL	1	1	1
+SR mobile service	Sirius	1	1	1	1	NULL	NULL	NULL	133	70	0.007518796992481203
+SR motor system	illustrated in FIG	1	1	1	1	NULL	NULL	NULL	1506	674	0.0006640106241699867
+SR number	SR12	1	1	1	1	NULL	NULL	NULL	1	1	1
+SR opioids	SR morphine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SR opioids	SR oxycodone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sr prized gem variety	kunzite	1	1	1	1	1.000000000000	NULL	NULL	53	22	0.018867924528301886
+SR product	wool	1	1	1	1	NULL	NULL	NULL	3859	1003	0.0002591344908007256
+SR protein	SFRS1	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+SR protein	ryanine receptor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SR protein kinases	SRPK1	1	1	1	1	NULL	NULL	NULL	1	1	1
+SR technique	absorption	1	0	3	3	NULL	NULL	NULL	522	249	0.0006385696040868454
+SR technique	diffraction	1	0	3	3	NULL	NULL	NULL	167	78	0.001996007984031936
+SR technique	scattering	1	0	3	3	NULL	NULL	NULL	146	86	0.00228310502283105
+SR type	IPSec SR	1	1	1	1	NULL	NULL	NULL	1	1	1
+SR-A ligands	fucoidan	1	1	1	1	1.000000000000	NULL	NULL	22	12	0.045454545454545456
+sr-based technique	X-ray absorption spectroscopy	1	0	1	1	1.000000000000	NULL	NULL	31	18	0.03225806451612903
+SR-BI ligands	HDL	1	1	1	1	NULL	NULL	NULL	73	38	0.0136986301369863
+sr-s's superior characteristic	low resilience	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+sr-s's superior characteristic	thinness	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+SR1's	Saleen sponsored by the television show Home Improvement	1	1	1	1	NULL	NULL	NULL	1	1	1
+SR10 Woody debris	branch	1	1	2	2	NULL	NULL	NULL	1003	460	0.0004985044865403788
+SR10 Woody debris	stump	1	1	2	2	NULL	NULL	NULL	313	128	0.001597444089456869
+SR2 character	Troy	1	1	2	2	0.500000000000	NULL	NULL	195	81	0.002564102564102564
+SR2 character	Gat	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+sr22's formidable tool	TKS anti-ice system	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+sr22's formidable tool	XM satellite weather	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+sr22's formidable tool	long range	1	1	3	3	1.000000000000	NULL	NULL	15	10	0.02222222222222222
+sr22's popular feature	all-glass cockpit with the Avidyne FlightMax Entegra PFD	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sr22's popular feature	MFD	1	1	2	2	NULL	NULL	NULL	8	6	0.0625
+sr80is feature interior improvement	better cable	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+SRA element	food quality	1	1	1	1	NULL	NULL	NULL	104	43	0.009615384615384616
+SRA event	annual conference	1	1	1	1	1.000000000000	NULL	NULL	80	59	0.0125
+SRA myth conspiracy theorist	American trained assassin Neil Brick	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRA power	granting of franchise	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRA system characteristic activity	ice removal	1	1	4	4	0.333333333333	NULL	NULL	8	8	0.03125
+SRA system characteristic activity	snow	1	1	4	4	0.333333333333	NULL	NULL	2306	735	0.00010841283607979184
+SRA system characteristic activity	roadway related maintenance	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+SRA system characteristic activity	signage	1	1	4	4	0.333333333333	NULL	NULL	975	489	0.0002564102564102564
+sradicalright party	Front National	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+Sraffians	Bharadwaj	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Sraffians	Carlo Panico	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRAM	4 kB USB FIFO	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRAM	Intel Strata Flash Memory of 32mbyte	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRAM	4kB USB FIFO	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRAM -metric	WLWM	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+SRAM -metric	SNM	1	1	2	2	1.000000000000	NULL	NULL	14	14	0.03571428571428571
+SRAM bit	SRAM bit shown in FIG	4	2	4	1	NULL	NULL	NULL	4	1	1
+SRAM cell architecture	8T SRAM cell architecture	4	3	5	2	1.000000000000	NULL	NULL	4	1	0.8
+SRAM cell architecture	7T	1	1	5	2	1.000000000000	NULL	NULL	13	9	0.015384615384615385
+SRAM component document	user's manual s	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRAM design	full CMOS SRAMS	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRAM design parameter	Static Noise Margin	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+SRAM design parameter	Access time	1	1	2	2	NULL	NULL	NULL	70	37	0.007142857142857143
+SRAM functionality	trip voltage	3	2	3	1	NULL	NULL	NULL	3	1	1
+SRAM manufacturer	Motorola	1	1	3	3	NULL	NULL	NULL	4547	1131	0.00007330840847445201
+SRAM manufacturer	IBM	1	1	3	3	NULL	NULL	NULL	11151	2595	0.000029892685259916896
+SRAM manufacturer	Sony	1	1	3	3	NULL	NULL	NULL	6122	1647	0.00005444843732984863
+SRAM memory cell	SRAM cell 1502B of FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRAM product circuit	bit decode	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+SRAM product circuit	timing circuit	2	2	8	4	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+SRAM product circuit	sense amplifier	2	2	8	4	1.000000000000	NULL	NULL	25	18	0.02
+SRAM product circuit	word decode	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+SRAM structure	register file	2	2	4	3	0.500000000000	NULL	NULL	43	35	0.023255813953488372
+SRAM structure	cache	1	1	4	3	0.500000000000	NULL	NULL	310	182	0.0008064516129032258
+SRAM structure	I- cache	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+sram's star rider	Carlos Sastre	1	1	2	2	0.500000000000	NULL	NULL	7	6	0.07142857142857142
+sram's star rider	Lance Armstrong	1	1	2	2	0.500000000000	NULL	NULL	173	72	0.002890173410404624
+sram-based device	Cyclone FPGAs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sram-based device	Cyclone device	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sram-based FPGA device	Virtex Xilinx FPGAs	1	1	1	1	NULL	NULL	NULL	1	1	1
+sram-based programmable logic device	FPGAs	1	1	1	1	NULL	NULL	NULL	171	105	0.005847953216374269
+sras certain social amenity	bore-holes for drinking water	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+sras certain social amenity	school	1	1	3	3	NULL	NULL	NULL	16053	4303	0.00002076455075894433
+sras certain social amenity	community centre	1	1	3	3	NULL	NULL	NULL	304	144	0.0010964912280701754
+srauta sacrifice	Gavamayana	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+srauta sacrifice	Sataratra	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+srauta sacrifice	Trayodasaratra	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+srauta sacrifice	Aptoryama	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+srauta sacrifice	Agnyadheya	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+srauta sacrifice	Angirasa-triratra	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+SRB	Desulfotomaculum acetoxidans	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRB lack important respiratory complex	complex I	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+SRB lack important respiratory complex	bc 1 complex	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRB species	Desulfotomaculum	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+SRBC inspector	Andrew J. Orsborn	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SRBM system	Russian SS-X-26	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRBMs	CASC's DF-15	1	1	1	1	NULL	NULL	NULL	1	1	1
+src activator	phosphorylated RTKs	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRC control method	frequency	1	1	2	2	NULL	NULL	NULL	2547	871	0.00019630938358853554
+SRC control method	phase	1	1	2	2	NULL	NULL	NULL	318	157	0.0015723270440251573
+SRC crop	willow	1	1	1	1	NULL	NULL	NULL	1548	511	0.0006459948320413437
+Src family kinases	Lyn	9	8	20	3	1.000000000000	NULL	NULL	23	10	0.1760869565217391
+Src family kinases	Src	8	5	20	3	1.000000000000	NULL	NULL	124	51	0.025806451612903226
+Src family kinases	Lck	3	2	20	3	1.000000000000	NULL	NULL	32	17	0.014062499999999999
+src family member	Syk kinase	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+src family member	Lck	1	1	2	2	1.000000000000	NULL	NULL	32	17	0.015625
+Src family PTKs	Src	1	1	1	1	NULL	NULL	NULL	124	51	0.008064516129032258
+src family tyrosine kinases	Src	2	2	2	1	NULL	NULL	NULL	124	51	0.016129032258064516
+src inhibitor	dasatinib	1	1	2	2	0.500000000000	NULL	NULL	89	48	0.0056179775280898875
+src inhibitor	bosutinib	1	1	2	2	0.500000000000	NULL	NULL	15	12	0.03333333333333333
+src kinase inhibitor	PP2	3	3	12	10	0.666666666666	NULL	NULL	10	8	0.075
+src kinase inhibitor	AP23846	1	1	12	10	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+src kinase inhibitor	AZD05230	1	1	12	10	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+src kinase inhibitor	AZM475271	1	1	12	10	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+src kinase inhibitor	geldanamycin	1	1	12	10	0.666666666666	NULL	NULL	85	29	0.000980392156862745
+src kinase inhibitor	Genistein	1	1	12	10	0.666666666666	NULL	NULL	372	126	0.00022401433691756272
+src kinase inhibitor	radicicol	1	1	12	10	0.666666666666	NULL	NULL	16	8	0.005208333333333333
+src kinase inhibitor	pyrazolopyrimidines	1	1	12	10	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+src kinase inhibitor	sirna	1	1	12	10	0.666666666666	NULL	NULL	102	59	0.0008169934640522875
+src kinase inhibitor	SKI-606	1	1	12	10	0.666666666666	NULL	NULL	1	1	0.08333333333333333
+Src kinases	Lyn	1	1	4	4	0.500000000000	NULL	NULL	23	10	0.010869565217391304
+Src kinases	p56 lck	1	1	4	4	0.500000000000	NULL	NULL	6	4	0.041666666666666664
+Src kinases	Src	1	1	4	4	0.500000000000	NULL	NULL	124	51	0.0020161290322580645
+Src kinases	p59 fyn in T cell	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+SRC member	IBM	1	1	1	1	NULL	NULL	NULL	11151	2595	0.0000896780557797507
+SRC program activity	demonstration	1	1	2	2	0.500000000000	NULL	NULL	703	337	0.0007112375533428165
+SRC program activity	trade facilitation	1	1	2	2	0.500000000000	NULL	NULL	38	20	0.013157894736842105
+src string	CRC value	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+src's long-running survey	Survey of Consumer Attitudes	1	1	4	4	0.500000000000	NULL	NULL	3	3	0.08333333333333333
+src's long-running survey	Health	1	1	4	4	0.500000000000	NULL	NULL	12226	3162	0.000020448225094061837
+src's long-running survey	Panel Study of Income Dynamics	1	1	4	4	0.500000000000	NULL	NULL	31	22	0.008064516129032258
+src's long-running survey	Monitoring the Future Study	1	1	4	4	0.500000000000	NULL	NULL	5	4	0.05
+src-family member	Lck	1	1	1	1	1.000000000000	NULL	NULL	32	17	0.03125
+Src-family protein tyrosine kinases	Lck	2	1	4	3	0.666666666666	NULL	NULL	32	17	0.03125
+Src-family protein tyrosine kinases	Src	1	1	4	3	0.666666666666	NULL	NULL	124	51	0.0020161290322580645
+Src-family protein tyrosine kinases	Lyn	1	1	4	3	0.666666666666	NULL	NULL	23	10	0.010869565217391304
+Src-family tyrosine kinases	Lyn	3	2	6	2	0.500000000000	NULL	NULL	23	10	0.06521739130434782
+Src-family tyrosine kinases	Src	3	2	6	2	0.500000000000	NULL	NULL	124	51	0.012096774193548387
+src-homology-3 domain-containing protein	amphiphysin	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+SRCD practice	coaching	1	1	5	5	0.200000000000	NULL	NULL	942	434	0.00021231422505307856
+SRCD practice	mentoring	1	1	5	5	0.200000000000	NULL	NULL	1216	504	0.0001644736842105263
+SRCD practice	skills training	1	1	5	5	0.200000000000	NULL	NULL	145	90	0.0013793103448275863
+SRCD practice	role modeling	1	1	5	5	0.200000000000	NULL	NULL	32	24	0.00625
+SRCD practice	career counseling	1	1	5	5	0.200000000000	NULL	NULL	166	76	0.0012048192771084338
+Srcfamilykinases	Lynphosphorylate cytoplasmic domains of CD19	1	1	1	1	NULL	NULL	NULL	1	1	1
+Srcfamilymembers	Lck	1	1	1	1	1.000000000000	NULL	NULL	32	17	0.03125
+Srckinases	Lyn	1	1	1	1	1.000000000000	NULL	NULL	23	10	0.043478260869565216
+srcml source-code transformation	refactoring	1	1	1	1	NULL	NULL	NULL	115	65	0.008695652173913044
+Srcompounds	strontium carbonate	2	1	2	1	1.000000000000	NULL	NULL	17	11	0.11764705882352941
+SRCPs	Super Cop	2	2	2	1	NULL	NULL	NULL	2	1	1
+SRCs	Izotope RX	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SRD activity	Collaborative I-Bond initiative	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRD operation	deleting an SRD	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRD staff	wildlife biologist	1	1	2	2	0.500000000000	NULL	NULL	34	24	0.014705882352941176
+SRD staff	forest officer	1	1	2	2	0.500000000000	NULL	NULL	4	4	0.125
+srd's energy activity	right of entry	1	1	4	4	0.500000000000	NULL	NULL	10	8	0.025
+srd's energy activity	issuing of public land disposition	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+srd's energy activity	geophysical authorization	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+srd's energy activity	reclamation	1	1	4	4	0.500000000000	NULL	NULL	100	62	0.0025
+SRE developer	Chauncey Starr	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRE taxa	earthworm	1	1	1	1	0.500000000000	NULL	NULL	784	231	0.0012755102040816326
+SREB program	popular Academic Common Market	1	1	1	1	NULL	NULL	NULL	1	1	1
+SREB state	Louisiana	1	1	2	2	NULL	NULL	NULL	1436	171	0.00034818941504178273
+SREB state	Maryland	1	1	2	2	NULL	NULL	NULL	2188	228	0.00022851919561243144
+SREBP-1 target gene	FAS	1	1	1	1	NULL	NULL	NULL	142	64	0.007042253521126761
+SREBP-1ctargetgenes	FAS	1	1	1	1	NULL	NULL	NULL	142	64	0.007042253521126761
+srecommendedto purchase commercial anti-virus software	Norton Antivirus	1	1	1	1	NULL	NULL	NULL	180	84	0.005555555555555556
+sreetech's application delivery solution	Load Balancing	1	1	2	2	0.500000000000	NULL	NULL	459	194	0.0010893246187363835
+sreetech's application delivery solution	WAN optimization	1	1	2	2	0.500000000000	NULL	NULL	24	15	0.020833333333333332
+srehs	Excluder II	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+srehs	WDC	1	1	3	3	1.000000000000	NULL	NULL	8	8	0.041666666666666664
+srehs	Modified Excluder	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+SREs	pathologic fracture	1	1	1	1	0.666666666666	NULL	NULL	20	13	0.05
+sress hormone	cortisol	1	1	1	1	NULL	NULL	NULL	958	199	0.0010438413361169101
+SRGCE team	Japan	1	1	1	1	NULL	NULL	NULL	17472	2459	0.000057234432234432234
+SRH service	family planning	1	1	3	3	NULL	NULL	NULL	431	191	0.0007733952049497292
+SRH service	STI screening	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+SRH service	prenatal care	1	1	3	3	NULL	NULL	NULL	156	89	0.0021367521367521365
+SRI	Mahesh Banskota	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRI	going with a HighFlow cat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRI	former deputy director-general of the International Centre for Integrated Mountain Development	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRI asset	hedge fund	4	3	10	4	0.666666666666	NULL	NULL	1414	501	0.0011315417256011317
+SRI asset	structured product	2	2	10	4	0.666666666666	NULL	NULL	68	35	0.0058823529411764705
+SRI asset	Exchange Trades Funds	2	2	10	4	0.666666666666	NULL	NULL	2	1	0.2
+SRI asset	ETFs	2	2	10	4	0.666666666666	NULL	NULL	90	51	0.0044444444444444444
+sri aurobindo disciple	Anie Nunnally	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+sri aurobindo disciple	Kailas Jhaveri	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+sri aurobindo disciple	Ann Harrison	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+SRI backer	Dr. Ritchie Lowry	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRI client	software company	1	1	1	1	NULL	NULL	NULL	60	38	0.016666666666666666
+sri extra	great alloy	1	1	7	7	0.500000000000	NULL	NULL	1	1	0.14285714285714285
+sri extra	electric	1	1	7	7	0.500000000000	NULL	NULL	1353	506	0.00010558547143912998
+sri extra	trip computer	1	1	7	7	0.500000000000	NULL	NULL	51	30	0.0028011204481792717
+sri extra	front window	1	1	7	7	0.500000000000	NULL	NULL	7	7	0.02040816326530612
+sri extra	air bag	1	1	7	7	0.500000000000	NULL	NULL	462	193	0.0003092145949288806
+sri extra	traction control	1	1	7	7	0.500000000000	NULL	NULL	590	178	0.00024213075060532685
+sri extra	sports seat	1	1	7	7	0.500000000000	NULL	NULL	25	17	0.005714285714285714
+SRI firm	Trillium Asset Management	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+SRI firm	Pax World Funds	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+SRI fund	Hermes	2	2	7	4	0.200000000000	NULL	NULL	564	247	0.0010131712259371832
+SRI fund	Barclays	2	2	7	4	0.200000000000	NULL	NULL	927	279	0.0006164278008938202
+SRI fund	Calvert	2	2	7	4	0.200000000000	NULL	NULL	47	31	0.0121580547112462
+SRI fund	Domini 400 Social Index	1	1	7	4	0.200000000000	NULL	NULL	3	3	0.047619047619047616
+SRI fund family	Domini	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+SRI fund family	Calvert	1	1	2	2	1.000000000000	NULL	NULL	47	31	0.010638297872340425
+SRI index	KDL Research	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRI issue	corporate engagement	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+SRI issue	marketing	1	1	3	3	NULL	NULL	NULL	6527	1892	0.00005106991471324243
+SRI issue	screening	1	1	3	3	NULL	NULL	NULL	671	357	0.0004967709885742673
+sri lanka crick's superstar	Sanath Jayasuriya	1	1	2	2	1.000000000000	NULL	NULL	14	10	0.03571428571428571
+sri lanka crick's superstar	Muttiah Muralitharan	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+sri lanka cricket's superstar	Muttiah Muralitharan	2	2	4	2	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+sri lanka cricket's superstar	Sanath Jayasuriya	2	2	4	2	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+sri lanka ELT academic	Professors Thiru Kandiah	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lanka ELT academic	Siromi Fernando	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lanka organization	Theatre Action Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lanka rich natural resource	graphite	1	1	2	2	NULL	NULL	NULL	1564	575	0.00031969309462915604
+sri lanka rich natural resource	titanium	1	1	2	2	NULL	NULL	NULL	3772	993	0.0001325556733828208
+sri lanka solution	cetrimide solution	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lanka tourism stalwart	George Ondaatje	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lanka's boutique hotel	Horathapola Coconut Estate	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lanka's competitor destination	Thailand	1	1	1	1	NULL	NULL	NULL	6705	938	0.00014914243102162565
+sri lanka's cricket coach	John Dyson	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lanka's cultural attraction	Golden Dambulla Rock Temple	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lanka's cultural attraction	Lion Rock Sigiriya Citadel	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lanka's health indicator	Mortality Rates	2	2	4	2	1.000000000000	NULL	NULL	2	1	0.5
+sri lanka's health indicator	Life Expectancy at birth	2	2	4	2	1.000000000000	NULL	NULL	62	34	0.016129032258064516
+sri lanka's industrial export	clothes	1	1	1	1	NULL	NULL	NULL	3774	1059	0.00026497085320614734
+sri lanka's key bilateral partner	Japan	1	1	3	3	NULL	NULL	NULL	17472	2459	0.000019078144078144078
+sri lanka's key bilateral partner	India	1	1	3	3	NULL	NULL	NULL	24660	2730	0.000013517166801838334
+sri lanka's key bilateral partner	United States	1	1	3	3	NULL	NULL	NULL	15613	2250	0.000021349729925916437
+sri lanka's key donor	World Bank	1	1	1	1	NULL	NULL	NULL	5405	899	0.00018501387604070305
+sri lanka's main export sector	garment	1	1	1	1	NULL	NULL	NULL	737	371	0.0013568521031207597
+sri lanka's major export	garment	1	1	1	1	NULL	NULL	NULL	737	371	0.0013568521031207597
+sri lanka's major export product	rubber	1	1	3	3	NULL	NULL	NULL	4143	1304	0.00008045699573577922
+sri lanka's major export product	tea	1	1	3	3	NULL	NULL	NULL	7608	1710	0.00004381352961794602
+sri lanka's major export product	coconut	1	1	3	3	NULL	NULL	NULL	2264	766	0.00014723203769140164
+sri lanka's monthly journal	World Buddhism	2	2	2	1	NULL	NULL	NULL	2	1	1
+sri lanka's neighbor	India	3	3	3	1	NULL	NULL	NULL	24660	2730	0.00012165450121654502
+sri lanka's social indicator	life expectancy	5	5	11	3	NULL	NULL	NULL	710	238	0.003201024327784891
+sri lanka's social indicator	literacy	4	4	11	3	NULL	NULL	NULL	1202	465	0.001210104371502042
+sri lanka's social indicator	mortality rate	2	2	11	3	NULL	NULL	NULL	169	94	0.0021516944593867673
+sri lanka's top business conglomerate	John Keells	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+sri lanka-based online travel agency	Go Lanka	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan agricultural product	tea	2	2	6	3	0.333333333333	NULL	NULL	7608	1710	0.00008762705923589204
+sri lankan agricultural product	rubber product	2	2	6	3	0.333333333333	NULL	NULL	44	25	0.01515151515151515
+sri lankan agricultural product	spice	2	2	6	3	0.333333333333	NULL	NULL	2055	721	0.00032441200324412003
+sri lankan artist	Cyril Dharmawardena	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan artist	Sujeewa Kumari	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan buddhist chronology	Dipavamsa	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+sri lankan buddhist chronology	Mahavamsa	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+sri lankan buddhist chronology	Rajavaliya	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+sri lankan buddhists frequent place	Lumbini	1	1	1	1	1.000000000000	NULL	NULL	14	13	0.07142857142857142
+sri lankan business institution	MAS Holdings	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+sri lankan case	David	1	1	2	2	NULL	NULL	NULL	552	236	0.0009057971014492754
+sri lankan case	Abdul Cader	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan celebrity	Upeksha Swarnamali	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+sri lankan celebrity	Chula	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+sri lankan celebrity	Nehara Peris	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+sri lankan company	MAS	1	1	2	2	1.000000000000	NULL	NULL	52	33	0.009615384615384616
+sri lankan company	Ramco	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+sri lankan cuisine specialty	Beef Bun	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+sri lankan cuisine specialty	Meat Rotti	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+sri lankan cuisine specialty	Crock Buns	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+sri lankan cuisine specialty	Fish Bun	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+sri lankan cuisine specialty	Kottu Roti	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+sri lankan cultural entity	Sandakada pahana	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan cultural entity	Madol Doova	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan custom-made piece	stainless steel four-poster bed	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+sri lankan custom-made piece	wooden work desk	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan dish	mutton kothu parotta	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan drama	Nari Bena	2	2	2	1	NULL	NULL	NULL	2	1	1
+sri lankan elephant	Sheba at Chester	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan event	New Year celebration	1	1	2	2	1.000000000000	NULL	NULL	24	17	0.020833333333333332
+sri lankan event	land settlement policy	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+sri lankan export product	gem	1	1	2	2	NULL	NULL	NULL	379	165	0.0013192612137203166
+sri lankan export product	spice	1	1	2	2	NULL	NULL	NULL	2055	721	0.00024330900243309004
+Sri Lankan Favourites	String Hoppers	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan firm favorite	hopper	1	1	1	1	NULL	NULL	NULL	192	104	0.005208333333333333
+sri lankan government document	Passport Application Forms	1	1	1	4	NULL	NULL	NULL	1	1	1
+sri lankan government institution	foreign mission	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+sri lankan great	Ruchira Perera	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan hotelier	Aitken Spence	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+sri lankan king	Mana Vamma	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan king	Sigiri Kasyappa	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan organization	Millennium Information Technologies	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan park	beautiful	1	1	1	1	NULL	NULL	NULL	224	103	0.004464285714285714
+sri lankan personality	Owen de Abrew	7	7	7	1	NULL	NULL	NULL	7	1	1
+sri lankan player	Mahela Jayawardene	2	2	2	1	1.000000000000	NULL	NULL	10	7	0.2
+sri lankan playwright	John Silva	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+sri lankan product	Tea	1	1	1	1	NULL	NULL	NULL	7608	1710	0.00013144058885383806
+sri lankan professional society	Energy Systems club	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+sri lankan professional society	Institution of Engineering Technology	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+sri lankan professional society	Institution of Engineers Sri Lanka	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+sri lankan short story writer	Martin Wickremasinghe	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+sri lankan staple	Kottu Rotti	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+sri lankan staple	red rice	1	1	5	5	1.000000000000	NULL	NULL	30	22	0.006666666666666667
+sri lankan staple	Buriyani	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+sri lankan staple	Lamprise	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+sri lankan staple	snake gourd	1	1	5	5	1.000000000000	NULL	NULL	20	6	0.01
+sri lankan tea exporter	Imperial Tea Export Ltd	1	1	1	1	NULL	NULL	NULL	1	1	1
+Sri Lankan teledramas	TB Illangarathna's Abha Yaluwo	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan television channel	Swarnavahini	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan traditional herbal drink	Ranawara	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan traditional herbal drink	Belimal	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+sri lankan veteran	Lester James Pieris	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri lankan writer	Michael Ondaatje	1	1	3	3	1.000000000000	NULL	NULL	25	12	0.013333333333333332
+sri lankan writer	Salam Selvadorai	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+sri lankan writer	Romesh Gunasekara	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Sri Lankans	Ranjan Abayasekara	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+Sri Lankans	Gerald Perera	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+Sri Lankans	Charles Sarvan	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+sri lankantextile producer	Brandix Lanka	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRI mutual fund	Dreyfus Third Century Fund	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SRI mutual fund company	Meritas	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+SRI network	Association for Sustainable	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRI practice	timing	1	1	3	3	NULL	NULL	NULL	1339	517	0.00024894199651481205
+SRI practice	planting young seedlings at shallow depth	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRI practice	spacing	1	1	3	3	NULL	NULL	NULL	377	189	0.0008841732979664014
+SRI research organization	KLD	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+SRI research organization	Innovest	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+SRI research organization	Sustainable Asset Management	1	1	3	3	1.000000000000	NULL	NULL	5	3	0.06666666666666667
+SRI strategy	community development investment	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+sri's client	owners of Land based oil rig	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+sri's service responsibility	domain name registration	1	1	1	1	NULL	NULL	NULL	153	56	0.006535947712418301
+sri-lanka production technique	increasing packing density	1	1	1	1	NULL	NULL	NULL	1	1	1
+sri-lanka's new friend	Iran	1	1	2	2	NULL	NULL	NULL	4782	970	0.00010455876202425763
+sri-lanka's new friend	China	1	1	2	2	NULL	NULL	NULL	30422	3640	0.0000164354743277891
+sri-related initiative	Carbon Disclosure Project	1	1	1	1	NULL	NULL	NULL	60	32	0.016666666666666666
+sri-specific datum	sustainability index	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+sridevi film	Chandni	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+sridevi film	Lamhe	1	1	2	2	NULL	NULL	NULL	8	2	0.0625
+SRIF analog	octreotide	2	1	4	3	NULL	NULL	NULL	154	46	0.006493506493506494
+SRIF analog	octreotide an lanreotide	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+srif analog	synthetic octapeptide srif analog	1	1	4	3	NULL	NULL	NULL	2	2	0.125
+SRIG asset	Marine All-source Fusion Center	1	1	1	1	NULL	NULL	NULL	1	1	1
+sriji jeweler jewelry glass bead	designer Glass Beads	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+sriji jeweler jewelry glass bead	Indian Glass Beads	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+sriji jeweler jewelry glass bead	fashion Glass Beads	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+sriji jeweler jewelry glass bead	decorative Glass Beads	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+srila rupa gosvami's literature	Sri Bhakti-rasamrta-sindhu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+srila rupa gosvami's literature	Sri Ujjvala-nilamani	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+srilanka's hidden treasure	atmospheric alley	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+srilanka's hidden treasure	hidden garden	1	1	3	3	NULL	NULL	NULL	4	3	0.08333333333333333
+srilanka's hidden treasure	unique beach	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+srilankan spice	clove	1	1	4	4	NULL	NULL	NULL	1577	372	0.0001585288522511097
+srilankan spice	nutmeg	1	1	4	4	NULL	NULL	NULL	1088	257	0.00022977941176470588
+srilankan spice	cinnamon	1	1	4	4	NULL	NULL	NULL	3347	776	0.00007469375560203167
+srilankan spice	Black pepper	1	1	4	4	NULL	NULL	NULL	723	208	0.00034578146611341634
+Srilankans	Stanley Jayasinghe	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Srilankans	Clive Inman	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Srilankans	Gamini Goonesena	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+srinivasarao mention polymer	cellulose acetate	1	1	1	1	NULL	NULL	NULL	306	161	0.0032679738562091504
+sriperumbudur region house company	Nokia	2	2	11	7	0.285714285714	NULL	NULL	3672	1047	0.00009902951079421667
+sriperumbudur region house company	Foxconn	2	2	11	7	0.285714285714	NULL	NULL	103	59	0.00353045013239188
+sriperumbudur region house company	Hyundai	2	2	11	7	0.285714285714	NULL	NULL	966	379	0.0003764351590438547
+sriperumbudur region house company	Saint-Gobain	2	2	11	7	0.285714285714	NULL	NULL	16	11	0.022727272727272728
+sriperumbudur region house company	Dell	1	1	11	7	0.285714285714	NULL	NULL	6439	1426	0.00001411851077948298
+sriperumbudur region house company	Motorola	1	1	11	7	0.285714285714	NULL	NULL	4547	1131	0.000019993202311214188
+sriperumbudur region house company	Samsung	1	1	11	7	0.285714285714	NULL	NULL	5309	1487	0.000017123580883234304
+SRIs	Prozac	5	5	31	12	0.100000000000	NULL	NULL	2041	325	0.00039512572900697
+SRIs	Zoloft	5	5	31	12	0.100000000000	NULL	NULL	1173	180	0.0006875120314605506
+SRIs	Effexor	4	4	31	12	0.100000000000	NULL	NULL	367	78	0.001406346136942955
+SRIs	Paxil	4	4	31	12	0.100000000000	NULL	NULL	1091	177	0.0004730788563318648
+SRIs	Luvox	3	3	31	12	0.100000000000	NULL	NULL	105	33	0.002764976958525345
+SRIs	Celexa	3	3	31	12	0.100000000000	NULL	NULL	303	76	0.0009581603321622483
+SRIs	fluoxetine	2	2	31	12	0.100000000000	NULL	NULL	1057	164	0.00012207403790398877
+SRIs	Cipramil	1	1	31	12	0.100000000000	NULL	NULL	7	3	0.004608294930875576
+SRIs	fluvoxamine	1	1	31	12	0.100000000000	NULL	NULL	195	46	0.00016542597187758478
+SRIs	Aropax	1	1	31	12	0.100000000000	NULL	NULL	5	5	0.0064516129032258064
+SRIs	citalopram	1	1	31	12	0.100000000000	NULL	NULL	238	53	0.0001355380862022228
+SRIs	paroxetine	1	1	31	12	0.100000000000	NULL	NULL	646	105	0.00004993508439029262
+SRISTI collaborator	SEVA at Madurai	1	1	1	1	NULL	NULL	NULL	1	1	1
+srit's telehealth system	telepathology	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+srixon soft feel golf ball	Srixon Soft Feel Lady	1	1	1	1	NULL	NULL	NULL	1	1	1
+srjiall paper ooM	n pillbox ooror	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRL method	HCI method	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRM feature	DR testing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRM feature	DR failover	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRM method	stratospheric aerosol removal	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRM object	RFx	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+SRM object	contract	1	1	2	2	NULL	NULL	NULL	2172	811	0.00023020257826887662
+SRM power meter	track	1	1	1	1	NULL	NULL	NULL	1719	449	0.0005817335660267597
+SRM role	SRM Protection Administrator	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRM software vendor	Microsoft with an open playing field	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRM tool	CommandCentral from Symantec	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRM tool	IBM's TotalStorage Productivity Center	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRM tool	capture current device configurations for help with recovery if a storage resource crash	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRM vendor	EMC	1	1	3	3	NULL	NULL	NULL	638	251	0.000522466039707419
+SRM vendor	Hewlett-Packard	1	1	3	3	NULL	NULL	NULL	2176	578	0.00015318627450980392
+SRM vendor	IBM	1	1	3	3	NULL	NULL	NULL	11151	2595	0.000029892685259916896
+SRmotor system	illustrated in FIG	1	1	1	1	NULL	NULL	NULL	1506	674	0.0006640106241699867
+SRMs	asbestos SRMs	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRMs	SRM 900 Antiepilepsy Drug Level Assay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+srmtoarangeof network characteristic	number of receiver	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+srmtoarangeof network characteristic	load	1	1	3	3	NULL	NULL	NULL	713	306	0.00046750818139317435
+srmtoarangeof network characteristic	mobility	1	1	3	3	NULL	NULL	NULL	1163	459	0.00028661507595299513
+SRN partner	Klaipeda	1	1	1	1	1.000000000000	NULL	NULL	7	5	0.14285714285714285
+srnail particle	yeast	1	1	1	1	NULL	NULL	NULL	2502	570	0.0003996802557953637
+srnall salars	Laguna Lejia	1	1	1	1	NULL	NULL	NULL	1	1	1
+Srnices	Direct Broadcasting by Satellite OBS	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRO building	Pender Hotel	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRO hotel	Burns Block	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SRO option	YWCA	1	1	1	1	NULL	NULL	NULL	240	109	0.004166666666666667
+SROI	Full Salary	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+SROI	Acquired Payment	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+SROI	Change in Benefit Type	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+SROI	Change in Benefit Amount	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+SROI	Initial Payment	2	1	12	6	NULL	NULL	NULL	3	2	0.1111111111111111
+SROI	Reinstatement of Benefit	2	1	12	6	NULL	NULL	NULL	2	1	0.16666666666666666
+srong setting	overclock setting	1	1	1	1	NULL	NULL	NULL	1	1	1
+SROs	NASD	11	8	13	2	0.666666666666	NULL	NULL	53	22	0.1756168359941945
+SROs	International Primary Market Association	2	2	13	2	0.666666666666	NULL	NULL	2	1	0.15384615384615385
+srp	deep-sea thermophilic srp	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRPGs	Disgaea	3	3	11	8	1.000000000000	NULL	NULL	24	12	0.03409090909090909
+SRPGs	Fire Emblem	2	2	11	8	1.000000000000	NULL	NULL	35	18	0.01038961038961039
+SRPGs	FF Tactics	1	1	11	8	1.000000000000	NULL	NULL	3	3	0.030303030303030304
+SRPGs	Ogre Battle	1	1	11	8	1.000000000000	NULL	NULL	12	8	0.007575757575757576
+SRPGs	Front Mission	1	1	11	8	1.000000000000	NULL	NULL	4	4	0.022727272727272728
+SRPGs	Advanced Wars	1	1	11	8	1.000000000000	NULL	NULL	6	6	0.015151515151515152
+srpgs	nippon ichi srpgs	1	1	11	8	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+SRPGs	Final Fantasy Tactics	1	1	11	8	1.000000000000	NULL	NULL	44	15	0.002066115702479339
+SRPKs	SRPK2	2	1	2	1	NULL	NULL	NULL	2	1	1
+SRPL project component	laydown area	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+SRPT procedure	oscillation-free computation	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRRA input parameter	nominal pipe size	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SRS	H-3	1	1	5	5	0.666666666666	NULL	NULL	36	18	0.005555555555555556
+SRS	anki for cramming	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+SRS	CD-36	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+SRS	Ra-226	1	1	5	5	0.666666666666	NULL	NULL	6	5	0.03333333333333333
+SRS	Anki	1	1	5	5	0.666666666666	NULL	NULL	13	12	0.015384615384615385
+SRS component	impact sensor	30	12	109	4	1.000000000000	NULL	NULL	46	7	0.17949740725967295
+SRS component	air bag module	30	12	109	4	1.000000000000	NULL	NULL	44	3	0.1876563803169308
+SRS component	steering column	25	12	109	4	1.000000000000	NULL	NULL	85	31	0.06745817593092283
+SRS component	instrument panel	24	12	109	4	1.000000000000	NULL	NULL	184	94	0.028719585161547666
+SRS database event	domain name insert	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRS device	airbag	1	1	1	1	NULL	NULL	NULL	622	237	0.001607717041800643
+SRS methodology	Business Plan Development Methodology	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRS office	Coffeyville	1	1	4	4	0.800000000000	NULL	NULL	7	7	0.03571428571428571
+SRS office	Lyndon	1	1	4	4	0.800000000000	NULL	NULL	5	5	0.05
+SRS office	Marysville	1	1	4	4	0.800000000000	NULL	NULL	50	18	0.005
+SRS office	Fort Scott	1	1	4	4	0.800000000000	NULL	NULL	4	4	0.0625
+SRS program	Anki	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+SRS reading technique	ad hoc	1	1	2	2	1.000000000000	NULL	NULL	28	25	0.017857142857142856
+SRS reading technique	checklist-based reading technique	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+SRS related component	airbag	1	1	1	1	NULL	NULL	NULL	622	237	0.001607717041800643
+SRS shuttercontrollers	SR470 Shutter Controller	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+SRS shuttercontrollers	theSR474 Four-Channel Shutter Driver	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+SRS solution	SRS TruSurround HD	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+SRS solution	SRS TruSurround XT	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+SRS transmission parameter	frequency hopping parameter	1	1	1	1	NULL	NULL	NULL	1	1	1
+srs's superior characteristic	thinness	1	1	2	2	1.000000000000	NULL	NULL	13	9	0.038461538461538464
+srs's superior characteristic	slow rebound	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+SRSA document	Annual Report	1	1	1	1	NULL	NULL	NULL	1058	467	0.000945179584120983
+SRST security feature	integrity	1	1	3	3	NULL	NULL	NULL	2785	714	0.00011968880909634949
+SRST security feature	media encryption	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+SRST security feature	authentication	1	1	3	3	NULL	NULL	NULL	1169	500	0.000285143997718848
+SRT event	puppet show	1	1	2	2	0.500000000000	NULL	NULL	195	97	0.002564102564102564
+SRT event	animal show	1	1	2	2	0.500000000000	NULL	NULL	17	9	0.029411764705882353
+SRT series SLR camera	X700	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRT series SLR camera	X370	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRT series SLR camera	SRT101	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRT vehicle	Dodge Ram SRT10	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+SRT vehicle	Chrysler 300C SRT8	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRT vehicle	hot Chrysler Crossfire SRT6	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+SRT-8 vehicle	Dodge Magnum SRT-8	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRT-8 vehicle	Chrysler 300 SRT-8	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRTM source	Global Land Cover Facility	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+SRTP packet attribute	header	1	1	3	3	NULL	NULL	NULL	764	383	0.00043630017452006976
+SRTP packet attribute	content	1	1	3	3	NULL	NULL	NULL	857	338	0.00038895371450797355
+SRTP packet attribute	authentication tag	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+SRTS activity	Bike Trains	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+SRTS activity	Walking School Buses	1	1	2	2	NULL	NULL	NULL	3	4	0.16666666666666666
+SRTS objective	health	1	1	1	1	0.500000000000	NULL	NULL	12226	3162	0.00008179290037624735
+srubbing cleanser	ajax	1	1	1	1	NULL	NULL	NULL	420	171	0.002380952380952381
+srudies	conformational	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+sruggs tune	Randy Lynn Rag	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+sruti	Narasimha-tapani upanishad	1	1	1	1	NULL	NULL	NULL	1	1	1
+sruti statement	Brhadaranyaka 4.3.7	1	1	1	1	NULL	NULL	NULL	1	1	1
+srvergil group	Organic Seed Alliarice	1	1	1	1	NULL	NULL	NULL	1	1	1
+srving church	St. Paul in Philadelphia	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRW driver	LW2	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRW installment	Super Robot Wars R	1	1	1	1	NULL	NULL	NULL	1	1	1
+SRWCs	hybrid poplar	1	1	1	1	NULL	NULL	NULL	61	35	0.01639344262295082
+SRX crossover's many standard amenity	automatic dual-zone climate control	1	1	1	1	NULL	NULL	NULL	5	5	0.2

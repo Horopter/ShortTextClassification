@@ -1,0 +1,167 @@
+TT accessory	Last Stylus cleaner	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TT accessory	adjustment tool	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TT accessory	Michell clamp	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TT accessory	Audioquest brush	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TT area	Truk	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+TT bike	Shiv	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+TT broader service	banking	1	1	4	4	NULL	NULL	NULL	4474	1123	0.00005587840858292356
+TT broader service	medical	1	1	4	4	NULL	NULL	NULL	3750	1210	0.00006666666666666667
+TT broader service	child care	1	1	4	4	NULL	NULL	NULL	1658	553	0.00015078407720144752
+TT broader service	food service	1	1	4	4	NULL	NULL	NULL	652	288	0.0003834355828220859
+TT catholic organization	Living Water Community	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+tt esports product	keyboard	1	1	2	2	NULL	NULL	NULL	4202	1048	0.00011899095668729176
+tt esports product	mouse	1	1	2	2	NULL	NULL	NULL	3242	739	0.00015422578655151142
+TT gene	TT12	1	1	1	1	NULL	NULL	NULL	1	1	1
+TT preschool	Hollingworth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TT preschool	Episcopal	1	1	2	2	NULL	NULL	NULL	80	38	0.00625
+TT shaft	TT Steel	1	1	1	1	NULL	NULL	NULL	1	1	1
+TT star	Ian Lougher	1	1	4	4	NULL	NULL	NULL	4	3	0.0625
+TT star	Michael Dunlop	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+TT star	Chris Palmer	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+TT star	Ryan Farquar	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TT training resource	new urban village	1	1	1	1	NULL	NULL	NULL	1	1	1
+tt's component	instrument panel's cross-car beam	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTA group	Travel Agencies	1	1	2	2	NULL	NULL	NULL	1	4	0.5
+TTA group	Transportation Rental	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ttach supporting document	medical report	1	1	1	1	NULL	NULL	NULL	115	58	0.008695652173913044
+ttachments	image	1	1	2	2	NULL	NULL	NULL	4950	1682	0.00010101010101010101
+ttachments	PDF file	1	1	2	2	NULL	NULL	NULL	200	95	0.0025
+ttaditional method	auction	1	1	2	2	NULL	NULL	NULL	698	260	0.0007163323782234957
+ttaditional method	bake sale	1	1	2	2	NULL	NULL	NULL	474	137	0.0010548523206751054
+TTB labeling requirement	Government Health Warning Statement under the Alcoholic Beverage Labeling Act	2	2	4	3	NULL	NULL	NULL	2	1	0.5
+TTB labeling requirement	certain marking requirements under the Internal Revenue Code	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+TTB labeling requirement	certain marking requirements under the IRC	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+TTC	Center of Excellence for pastoralists at Jigjiga	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTC authorized ticket agent	Shoppers Drug Marts	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTC device	cone	1	1	2	2	NULL	NULL	NULL	837	384	0.0005973715651135006
+TTC device	drum	1	1	2	2	NULL	NULL	NULL	1733	552	0.00028851702250432774
+TTC email communication	TTC e-newsletters	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTC member company	Marconi	1	1	2	2	NULL	NULL	NULL	71	44	0.007042253521126761
+TTC member company	Tyco	1	1	2	2	NULL	NULL	NULL	251	104	0.00199203187250996
+TTC regular	Paul Kazalski	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TTC regular	Clara Barton Green	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TTC regular	Christopher Ben Comeaux	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+TTC regular	Jennifer Connor	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+ttc term	luteal phase	1	1	1	1	0.500000000000	NULL	NULL	5	4	0.2
+TTC zone feature	barrier	1	1	3	3	0.333333333333	NULL	NULL	508	291	0.0006561679790026247
+TTC zone feature	sign	1	1	3	3	0.333333333333	NULL	NULL	2050	905	0.00016260162601626016
+TTC zone feature	lane marking	1	1	3	3	0.333333333333	NULL	NULL	15	10	0.02222222222222222
+ttc's student success initiative	college's Quality Enhancement Plan	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ttc's student success initiative	Achieving the Dream	1	1	2	2	1.000000000000	NULL	NULL	15	7	0.03333333333333333
+TTCN simulation tool	MATLAB	1	1	3	3	0.500000000000	NULL	NULL	361	185	0.0009233610341643582
+TTCN simulation tool	Glomosim	1	1	3	3	0.500000000000	NULL	NULL	7	5	0.047619047619047616
+TTCN simulation tool	NS-2	1	1	3	3	0.500000000000	NULL	NULL	16	11	0.020833333333333332
+TTCN-3 feature	interface mapping	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+TTCN-3 feature	regular expression	1	1	3	3	0.500000000000	NULL	NULL	66	46	0.00505050505050505
+TTCN-3 feature	interleaving	1	1	3	3	0.500000000000	NULL	NULL	59	30	0.005649717514124294
+TTCN-3 tool set vendor	Danet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTCN-3 tool set vendor	Testing Tech	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+TTCN-3 tool set vendor	Telelogic	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+ttechnical skill	dribbling	1	1	4	4	NULL	NULL	NULL	342	89	0.0007309941520467836
+ttechnical skill	shooting	1	1	4	4	NULL	NULL	NULL	999	345	0.00025025025025025025
+ttechnical skill	passing	1	1	4	4	NULL	NULL	NULL	498	142	0.000502008032128514
+ttechnical skill	shipping	1	1	4	4	NULL	NULL	NULL	1599	570	0.00015634771732332708
+ttedbyasimple elastic polymer model	WLC model	1	1	1	1	NULL	NULL	NULL	1	1	1
+ttedstatistical distribution	wrapped Cauchy distribution for turning angle	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ttedstatistical distribution	gamma distribution for step length	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ttend leisure activity group	evening class	1	1	1	1	1.000000000000	NULL	NULL	31	23	0.03225806451612903
+ttention-related skill	persistence	1	1	1	1	NULL	NULL	NULL	674	270	0.001483679525222552
+TTF derivative	mono-	1	1	2	2	NULL	NULL	NULL	256	130	0.001953125
+TTF derivative	poly-carboxylic acid derivative	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ttf font	unicode ttf font	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+TTFC flagship project	upcoming Secondary Schools Short Film Festival	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTG feature	gallery indexing	1	1	1	1	NULL	NULL	NULL	1	1	1
+tthe aid agency	MSF	1	1	2	2	NULL	NULL	NULL	114	51	0.0043859649122807015
+tthe aid agency	ICRC spared from bomb attack	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tthequalityof public service	cultural service	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+tthequalityof public service	health	1	1	3	3	NULL	NULL	NULL	12226	3162	0.00002726430012541578
+tthequalityof public service	education	1	1	3	3	NULL	NULL	NULL	21642	5033	0.000015402150140159565
+tthose item	TVs DVD	1	1	1	3	NULL	NULL	NULL	1	1	1
+TTI	2 ms TTI	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTI program	Seed	2	2	2	1	NULL	NULL	NULL	2759	988	0.0007249003262051468
+tti's additional service	research	1	1	2	2	NULL	NULL	NULL	3399	1283	0.00014710208884966165
+tti's additional service	development	1	1	2	2	NULL	NULL	NULL	2392	933	0.00020903010033444816
+tti-made lightweight upright	Hoover Clean & Light	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tti-made lightweight upright	Lux Lite	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ttiles	Back in the Game	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Ttiles	Assasins Creed	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+tting function	ones of Buzzoni	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+tting function	Man tegazza&gariboldi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ttings	touch switch	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+ttir welding condition	lamp power	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+ttir welding condition	heating time	1	1	2	2	1.000000000000	NULL	NULL	31	17	0.016129032258064516
+TTK file operation	insertion of file	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+TTK file operation	exports of section	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+TTL capability	Pocket Wizard minitt1	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTL capable flash	Hasselblad D-40	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTL circuit	output devices having dual transistor elements coupled in current mirror configuration	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTL circuit	TTL buffer circuit	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTL cord	Nikon SC-17	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+TTL device	tri-state buffer	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+TTL integrated circuit	7400 series	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+TTL level RS232 device	Starrett 721 caliper	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTL level signal	1PPS signal from GPS receiver	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTL programming buffer	buffer 24-a	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTL signal	clock on the DAQ device	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTL-RS232 adapter	ones sold at CompSys	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTLLs	mouse TTLL7 E-ligase	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTM component	decisional balance	1	1	2	2	0.500000000000	NULL	NULL	10	8	0.05
+TTM component	self-efficacy	1	1	2	2	0.500000000000	NULL	NULL	396	160	0.0012626262626262627
+ttnet's customer next-generation service	pausing live TV	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+tto different discipline	geology	1	1	1	1	NULL	NULL	NULL	1288	403	0.0007763975155279503
+tto new chip application	consumer electronics	5	4	15	6	NULL	NULL	NULL	590	213	0.0028248587570621464
+tto new chip application	cell phone	3	3	15	6	NULL	NULL	NULL	8165	2060	0.00007348438456827926
+tto new chip application	personal digital assistant	3	3	15	6	NULL	NULL	NULL	2666	540	0.00022505626406601654
+tto new chip application	PDAs	2	1	15	6	NULL	NULL	NULL	3267	824	0.00008162432404856647
+tto new chip application	cellphone	1	1	15	6	NULL	NULL	NULL	621	268	0.00010735373054213633
+tto new chip application	cellular phone	1	1	15	6	NULL	NULL	NULL	2660	748	0.00002506265664160401
+ttoapplytorare object	cluster	1	1	1	1	NULL	NULL	NULL	332	213	0.0030120481927710845
+Ttopics	commitment	1	1	2	2	NULL	NULL	NULL	1077	384	0.00046425255338904364
+Ttopics	project governance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTOs	Stanford University's Technology Licensing Office	1	1	1	1	NULL	NULL	NULL	1	1	1
+ttouch tool	calming band	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTP commander	Tariq Afridi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTP commander	Hafiz Daulat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTP commander	Mullah Toofan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTP militant	Qari Zafar from Karachi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTP militant	Rana Afzal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTP militant	Noor Khan	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+TTP protocol service	time synchronization by means of the corresponding TTP tool	1	1	1	1	NULL	NULL	NULL	1	1	1
+ttps target	VEGF	1	1	1	1	NULL	NULL	NULL	385	130	0.0025974025974025974
+ttractions	Ventnor Botanic Gardens	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+ttractions	Eden Project	1	1	6	6	NULL	NULL	NULL	138	58	0.0012077294685990338
+ttractions	Camel Valley Vineyard	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+ttractions	National Trust's Llanhydrock House	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ttractions	Isle of Wight Glass	1	1	6	6	NULL	NULL	NULL	7	3	0.023809523809523808
+ttractions	St Catherine's Lighthouse	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+Ttraditional tapas	tortilla	1	1	2	2	NULL	NULL	NULL	344	198	0.0014534883720930232
+Ttraditional tapas	pork in tomato	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ttraditional therapy	Speech	1	1	1	1	NULL	NULL	NULL	2248	1003	0.00044483985765124553
+ttreat inorganic filler	barium sulfate	1	1	2	2	NULL	NULL	NULL	326	131	0.0015337423312883436
+ttreat inorganic filler	calcium carbonate	1	1	2	2	NULL	NULL	NULL	1603	522	0.00031191515907673113
+ttribute	length	1	1	1	1	0.500000000000	NULL	NULL	2515	997	0.00039761431411530816
+TTS court case	Todd	2	2	2	1	1.000000000000	NULL	NULL	37	25	0.05405405405405406
+TTS engine	capela	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTS food project	successful Farmers Market	2	2	2	1	NULL	NULL	NULL	2	1	1
+TTS module	automatic segmentation with experimental result	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTS module	utomatic segme ntation with expe riment al result	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTS officer	President-Elect Francis Delmonico	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTS officer	Immediate Past President Jeremy Chapman	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+TTS program	TextAloud	2	2	2	1	NULL	NULL	NULL	2	1	1
+TTS system	small-corpus concatenative TTS system	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+TTS system	formant	2	2	5	3	NULL	NULL	NULL	6	6	0.13333333333333333
+TTS system	Kindle	1	1	5	3	NULL	NULL	NULL	878	239	0.00022779043280182233
+TTSPs	TMPRSS2	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+ttss-defective mutant	mxiH mutant	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTT also effect growth factor	TGF-beta	1	1	1	1	1.000000000000	NULL	NULL	41	17	0.024390243902439025
+TTT site	South Carolina	1	1	1	1	NULL	NULL	NULL	1256	169	0.0007961783439490446
+Ttus structure	aircraft fuqelage	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ttus structure	wing	1	1	2	2	NULL	NULL	NULL	835	425	0.0005988023952095808
+TTUSD structure	Tahoe Lake Elementary	1	1	1	1	NULL	NULL	NULL	1	1	1
+ttw-related effort	Disability Control File	1	1	1	1	NULL	NULL	NULL	1	1	1
+TTY cell phone	Sanyo SCP-3810	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTY cell phone	LG VX5400	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+TTY cell phone	Verizon Wireless Escapade	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+TTY device	telecommunications device for the deaf	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+tty equipment	keyboard	1	1	1	1	NULL	NULL	NULL	4202	1048	0.00023798191337458352
+TTY-compatible device	serial port	1	1	1	1	NULL	NULL	NULL	132	69	0.007575757575757576

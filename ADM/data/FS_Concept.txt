@@ -1,0 +1,233 @@
+FS	peal easier	1	1	8	8	0.750000000000	NULL	NULL	1	1	0.125
+FS	Tips for Teaching	1	1	8	8	0.750000000000	NULL	NULL	1	1	0.125
+FS	MetaSAN	1	1	8	8	0.750000000000	NULL	NULL	1	1	0.125
+FS	reiserfs	1	1	8	8	0.750000000000	NULL	NULL	50	22	0.0025
+FS	cassava	1	1	8	8	0.750000000000	NULL	NULL	1112	315	0.00011241007194244605
+FS	GFS2	1	1	8	8	0.750000000000	NULL	NULL	2	2	0.0625
+FS	fat32	1	1	8	8	0.750000000000	NULL	NULL	13	7	0.009615384615384616
+FS	OCFS2	1	1	8	8	0.750000000000	NULL	NULL	2	2	0.0625
+FS algorithm	Branch	1	1	1	1	NULL	NULL	NULL	1003	460	0.0009970089730807576
+FS laminate	FS 6055B	2	2	2	1	NULL	NULL	NULL	2	1	1
+FS public site	Avsim	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FS Regional Office's	Intermountain Region	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FS style projectile	Yoshi's fireball	1	1	1	1	NULL	NULL	NULL	1	1	1
+FS technique	Information Gain	1	1	4	4	0.666666666666	NULL	NULL	39	26	0.00641025641025641
+FS technique	Chi-Square Statistic	1	1	4	4	0.666666666666	NULL	NULL	9	7	0.027777777777777776
+FS technique	GSS Coefficient	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+FS technique	Mutual Information	1	1	4	4	0.666666666666	NULL	NULL	133	87	0.0018796992481203006
+FS website	PNW website	1	1	1	1	NULL	NULL	NULL	1	1	1
+FS- gnostic tool	ntfsresize	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+fs-related clinical feature	irritable bowel symptom	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+fs-related clinical feature	fatigue	1	1	3	3	NULL	NULL	NULL	7827	1619	0.000042587624036455
+fs-related clinical feature	personal history of depression	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+fs-vdsl-specific requirement	NE-level VDSL configuration	1	1	1	1	NULL	NULL	NULL	1	1	1
+FS100 s canon exclusive feature	Canon 48x Advanced Zoom	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FS100 s canon exclusive feature	DIGIC DV II Image Processor	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+fs300's canon exclusive feature	DIGIC DV II Image Processor	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+fs300's canon exclusive feature	Canon 41x Advanced Zoom	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+FSA administrator	Aetna	1	1	1	1	NULL	NULL	NULL	787	249	0.0012706480304955528
+FSA covered procedure	LASIK	2	2	2	1	NULL	NULL	NULL	328	107	0.006097560975609756
+FSA disaster program	Supplemental Revenue Assistance Payments Program	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+FSA federal loan program	Direct Farm Ownership Loans	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSA photographer	Walker Evans	2	2	3	2	1.000000000000	NULL	NULL	60	23	0.02222222222222222
+FSA photographer	Dorothea Lange	1	1	3	2	1.000000000000	NULL	NULL	63	28	0.005291005291005291
+FSA product	FSA Cantilevers	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSA program	Conservation Reserve Program	1	1	1	1	NULL	NULL	NULL	165	64	0.006060606060606061
+FSA proposal	compulsory re-registration	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSA purpose	determining dependency status	1	1	1	1	NULL	NULL	NULL	12	2	0.08333333333333333
+FSA regulated entity	bank	1	1	1	1	NULL	NULL	NULL	11524	2789	0.00008677542519958348
+FSA regulated firm	EuroDekania Management	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSA regulatory form	BSD3 for Capital Adequacy	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSA request document	tax record	1	1	2	2	NULL	NULL	NULL	132	72	0.003787878787878788
+FSA request document	financial statement	1	1	2	2	NULL	NULL	NULL	415	181	0.0012048192771084338
+FSA sponsor	Third Party Administrators	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+FSA sponsor	employer	1	1	2	2	NULL	NULL	NULL	865	305	0.0005780346820809249
+FSA system	Product Sales Data system	1	1	1	1	NULL	NULL	NULL	1	1	1
+fsa's view strategy	payment holiday	1	1	3	3	1.000000000000	NULL	NULL	19	16	0.017543859649122806
+fsa's view strategy	temporarily lowering interest rate	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+fsa's view strategy	extending loan term	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+fsa-regulated firm	bank	1	1	2	2	NULL	NULL	NULL	11524	2789	0.00004338771259979174
+fsa-regulated firm	insurer	1	1	2	2	NULL	NULL	NULL	350	155	0.0014285714285714286
+FSAL information	Anchored fish aggregating device	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSAP measure	Prospectus Directive	1	1	1	1	NULL	NULL	NULL	3	5	0.3333333333333333
+FSB consideration	honesty	1	1	2	2	NULL	NULL	NULL	3593	780	0.00013915947676036738
+FSB consideration	integrity	1	1	2	2	NULL	NULL	NULL	2785	714	0.00017953321364452425
+FSB initiative	regulatory standard	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+FSB subject	service provider	1	1	2	2	NULL	NULL	NULL	237	116	0.002109704641350211
+FSB subject	recruitment	1	1	2	2	NULL	NULL	NULL	1488	522	0.0003360215053763441
+FSB unit	Alpha equipped with Accuracy International sniper rifle	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSBO	deciding on a MLS listing service	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSBO site	FSBO local com	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSBO site	FSBO world com	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSC chain-of-custody company	Kimberly-Clark Professional	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSC contextual effect	delineation of forestry	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSC feature	autopilot control	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+FSC feature	overlay of AI	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+FSC feature	moving map	1	1	3	3	1.000000000000	NULL	NULL	13	10	0.02564102564102564
+FSC key service	literacy	1	1	4	4	NULL	NULL	NULL	1202	465	0.00020798668885191348
+FSC key service	case management	1	1	4	4	NULL	NULL	NULL	641	251	0.000390015600624025
+FSC key service	substance abuse	1	1	4	4	NULL	NULL	NULL	1924	667	0.00012993762993762994
+FSC key service	employment	1	1	4	4	NULL	NULL	NULL	3769	1201	0.00006633059166887768
+FSC partner	NWF	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+FSC requirement	appropriateness	1	1	1	1	1.000000000000	NULL	NULL	44	27	0.022727272727272728
+FSC tool	High Conservation Value Forest assessment	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSC tool	pre-industrial condition analysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fsc-approved substrate	MDF	1	1	1	1	NULL	NULL	NULL	317	161	0.0031545741324921135
+fsc-certified product	paper	3	3	9	6	0.166666666666	NULL	NULL	10357	2799	0.00009655305590421937
+fsc-certified product	building material	2	2	9	6	0.166666666666	NULL	NULL	749	268	0.0005933837709538644
+fsc-certified product	furniture	1	1	9	6	0.166666666666	NULL	NULL	8749	2264	0.000012699864111454006
+fsc-certified product	wedding gift	1	1	9	6	0.166666666666	NULL	NULL	46	37	0.0024154589371980675
+fsc-certified product	cake topper	1	1	9	6	0.166666666666	NULL	NULL	65	31	0.0017094017094017094
+fsc-certified product	cosmetic	1	1	9	6	0.166666666666	NULL	NULL	3165	1375	0.000035106196243637
+fsc-certified wood product	furniture	1	1	3	3	NULL	NULL	NULL	8749	2264	0.00003809959233436202
+fsc-certified wood product	paper	1	1	3	3	NULL	NULL	NULL	10357	2799	0.000032184351968073124
+fsc-certified wood product	lumber	1	1	3	3	NULL	NULL	NULL	1284	427	0.00025960539979231567
+FSC-certified, no-VOC sheathing	economical asphalt-shingle Energy Star Cool Roof	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSC-Pure tonewoods	North American Sitka Spruce	2	2	2	1	NULL	NULL	NULL	2	1	1
+FSCL activity	forensic examination	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+FSCMs	RFL	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+FSCs	Jet Airways Ltd	1	1	2	2	1.000000000000	NULL	NULL	11	8	0.045454545454545456
+FSCs	state-owned incumbent	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+FSCS statistical datum	visits per capita	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+FSCT intervention	diversion program	1	1	2	2	1.000000000000	NULL	NULL	20	15	0.025
+FSCT intervention	family preservation	1	1	2	2	1.000000000000	NULL	NULL	26	17	0.019230769230769232
+fsctors	hydrophile of nonionic surfactants	1	1	1	1	NULL	NULL	NULL	1	1	1
+fse-type sequence	FSE	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+FSF core development tool	compiler	1	1	1	1	NULL	NULL	NULL	414	187	0.0024154589371980675
+FSFL facility	poured cement open bunker silo	1	1	1	1	NULL	NULL	NULL	1	1	1
+fsfl matrix-vector product	J 1	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FSG member	Red Hat	1	1	1	1	NULL	NULL	NULL	639	195	0.001564945226917058
+fsh	Gonal F	1	1	1	1	0.500000000000	NULL	NULL	7	6	0.14285714285714285
+FSH fertility drug	Repronex	1	1	3	3	1.000000000000	NULL	NULL	13	9	0.02564102564102564
+FSH fertility drug	Follistim	1	1	3	3	1.000000000000	NULL	NULL	25	17	0.013333333333333332
+FSH fertility drug	Menopur	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+FSHD symptom	tingling	1	1	2	2	NULL	NULL	NULL	637	168	0.0007849293563579278
+FSHD symptom	weakness	1	1	2	2	NULL	NULL	NULL	1608	408	0.0003109452736318408
+fshore oil producer	ConocoPhillips	1	1	1	1	NULL	NULL	NULL	359	116	0.002785515320334262
+FSI scholar	Andrew Walder	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FSILGs	Delta Kappa Epsilon	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSIN executive member	Eleanor Brass	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FSIN executive member	Gladys Dreaver	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+FSIN executive member	Cathy Merasty	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+fsinn bit	radio bar	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+fsinn extract pilot information	altitude	1	1	1	1	NULL	NULL	NULL	999	326	0.001001001001001001
+FSIS implementation aid	model HACCP plan	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSIS implementation aid	computer training aid	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSIS implementation aid	video	1	1	4	4	NULL	NULL	NULL	10816	3555	0.000023113905325443786
+FSIS implementation aid	audio	1	1	4	4	NULL	NULL	NULL	2864	1159	0.00008729050279329609
+FSJ application	J20	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+FSJ application	Wagoneer	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+FSK demodulation	used in Bluetooth	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSK modem	DATA-LINC MDL500 Dedicated-Wire FSK Modem	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSK parameter	channel seizure bits length	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+FSK parameter	baud rate	2	2	4	2	NULL	NULL	NULL	265	112	0.0037735849056603774
+FSK receiver	pager	1	1	1	1	NULL	NULL	NULL	1516	404	0.0006596306068601583
+FSK rule	maximuminterval between tone toggling	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSK rule	maximum interval between tone toggling	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSK transceiver ICs	Chipcon CC1000	1	1	1	1	NULL	NULL	NULL	1	1	1
+fslic-insured institution	Lincoln Savings	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSLs	Petri net	1	1	1	1	NULL	NULL	NULL	98	58	0.01020408163265306
+FSM attribute	number of state	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+FSM guidance document	Accommodations Manual	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSM guidance document	AA-AAS Teacher's Guide	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSM-18S fusion splicer new feature	user-selectable clamping method	1	1	3	3	NULL	NULL	NULL	19	2	0.017543859649122806
+FSM-18S fusion splicer new feature	automatic tube heater operation	1	1	3	3	NULL	NULL	NULL	19	2	0.017543859649122806
+FSM-18S fusion splicer new feature	automated monitor image orientation	1	1	3	3	NULL	NULL	NULL	17	2	0.0196078431372549
+FSMO role	schema master	1	1	1	1	NULL	NULL	NULL	8	3	0.125
+FSMS standard	BRC	1	1	4	4	NULL	NULL	NULL	49	33	0.00510204081632653
+FSMS standard	FSSC	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+FSMS standard	SQF	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+FSMS standard	IFS	1	1	4	4	NULL	NULL	NULL	49	31	0.00510204081632653
+FSN affiliate	Sun Network	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+FSN affiliate	FSN Northwest	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FSN affiliate	Fox Sports Southeast	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FSN affiliate	FSN West	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FSN affiliate	FSN Arizona	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+FSN studio show	FSN Final Score	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+FSN studio show	Best Damn Sports Show Period	1	1	2	2	NULL	NULL	NULL	5	3	0.1
+FSO country	Honduras	1	1	3	3	NULL	NULL	NULL	805	126	0.00041407867494824016
+FSO country	Nicaragua	1	1	3	3	NULL	NULL	NULL	856	141	0.0003894080996884735
+FSO country	Bolivia	1	1	3	3	NULL	NULL	NULL	1363	192	0.00024455857177794083
+FSO product	CableFree Gigabit	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSO product	CableFree 622	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSO product	CableFree Access	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSO product	associated network management tool	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSO system	FlightTransport line of products from LightPointe	2	2	2	1	NULL	NULL	NULL	2	1	1
+FSOC representative	Mr. Goldstein	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FSOL album	Lifeforms	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FSP support service	housing	1	0	4	4	NULL	NULL	NULL	6378	1909	0.000039197240514267794
+FSP support service	education	1	0	4	4	NULL	NULL	NULL	21642	5033	0.000011551612605119674
+FSP support service	employment	1	0	4	4	NULL	NULL	NULL	3769	1201	0.00006633059166887768
+FSP support service	transportation	1	0	4	4	NULL	NULL	NULL	8378	2254	0.000029840057292910002
+FSP truck datum	incident information	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+FSPs	financial adviser	2	2	3	2	0.250000000000	NULL	NULL	93	42	0.014336917562724014
+FSPs	Breakaway Solutions	1	1	3	2	0.250000000000	NULL	NULL	3	3	0.1111111111111111
+fsps marketing database system	marketing data mart	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fsps marketing database system	marketing customer information file	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+fsq-k93 function	r&s fsq-k93 function	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSR contributor	John A. Keel	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+FSR member company	Citigroup	1	1	1	1	NULL	NULL	NULL	1543	444	0.0006480881399870382
+FSR platform's module	SSSON monitor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSR platform's module	SPCE	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fsrm's learning & development activity	training	1	1	2	2	NULL	NULL	NULL	7685	2537	0.00006506180871828237
+fsrm's learning & development activity	EY web based learning	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSRQs	3C 454.3	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSS operator	SES Global	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+FSS service	weather	1	1	4	4	NULL	NULL	NULL	6139	1357	0.000040723244828147904
+FSS service	PIREPS	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSS service	filing flight plans by radio	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSS service	pilot briefing	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+FSSA caseworker	Holly Bower	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSSI partner	Tumandok Crafts	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FSSI partner	KAAKBAY Entre-Worker Cooperative	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FSSI partner	CDO Handmade Paper Inc.	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FSSI partner	KAPATAGAN Multi-Purpose Cooperative	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FSSI partner	Soriano Fibers Multi-Purpose Corp	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FSSI partner	People's Global Exchange Philippines	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+FSSO system	Liberty ID-FF	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+FSSO system	SAML	1	1	2	2	NULL	NULL	NULL	106	48	0.0047169811320754715
+FSSproviders	Inmarsat	1	1	4	4	0.333333333333	NULL	NULL	58	41	0.004310344827586207
+FSSproviders	Eutelsat	1	1	4	4	0.333333333333	NULL	NULL	24	17	0.010416666666666666
+FSSproviders	Intelsat	1	1	4	4	0.333333333333	NULL	NULL	49	31	0.00510204081632653
+FSSproviders	SES Worldskies	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+FSSW parameter	plunge depth	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+FSSW parameter	tool rotational speed	1	1	3	3	NULL	NULL	NULL	25	5	0.013333333333333332
+FSSW parameter	plunge rate	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+FST op erations	composition	1	1	1	1	NULL	NULL	NULL	1555	612	0.0006430868167202572
+FST operation	composition	2	2	2	1	NULL	NULL	NULL	1555	612	0.0012861736334405145
+FSTD feature	Diagnostics	1	1	2	3	1.000000000000	NULL	NULL	16	15	0.03125
+FSTD feature	Instructor Operating Station	1	1	2	3	1.000000000000	NULL	NULL	1	1	0.5
+FSTD safety feature	emergency stop	1	1	1	1	NULL	NULL	NULL	68	38	0.014705882352941176
+fstream function	seekg	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSU ALERT emergency message	severe weather warning	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+FSU country	Kyrgyzstan	1	1	2	2	NULL	NULL	NULL	271	61	0.0018450184501845018
+fsu country	western fsu country	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FSU fan	Bob Booth	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSU firm	Ukraine's steel group Metinvest	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSU item	barretts with feather	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSU item	FSU infant gown	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fsu's perimeter player	Luke Loucks	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSV system	SMV 5,6	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSV technique	model checking	1	1	1	1	NULL	NULL	NULL	128	58	0.0078125
+FSW inspection procedure	eddy-current array	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSW inspection procedure	ultrasonic attenuation measurement	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSW process condition	tool contact pressure	2	2	2	1	NULL	NULL	NULL	2	1	1
+FSW process parameter	welding speed	8	4	32	10	0.666666666666	NULL	NULL	48	17	0.041666666666666664
+FSW process parameter	axial force	8	3	32	10	0.666666666666	NULL	NULL	34	13	0.058823529411764705
+FSW process parameter	tool rotational speed	7	4	32	10	0.666666666666	NULL	NULL	25	5	0.06125
+FSW process parameter	tool rotation speed	3	2	32	10	0.666666666666	NULL	NULL	6	4	0.046875
+FSW process parameter	tool traverse speed	1	1	32	10	0.666666666666	NULL	NULL	1	1	0.03125
+FSW process parameter	rotational speed	1	1	32	10	0.666666666666	NULL	NULL	81	47	0.00038580246913580245
+FSW process parameter	heat input	1	1	32	10	0.666666666666	NULL	NULL	34	19	0.0009191176470588235
+FSW process parameter	feed rate	1	1	32	10	0.666666666666	NULL	NULL	186	62	0.00016801075268817206
+FSW process parameter	weld ing speed	1	1	32	10	0.666666666666	NULL	NULL	2	2	0.015625
+FSW process parameter	tool diameter	1	1	32	10	0.666666666666	NULL	NULL	10	8	0.003125
+FSX add-ons	CLS A330	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+FSX environment addon	Flight Ennvironment	1	1	1	1	NULL	NULL	NULL	1	1	1
+FSX feature	reflective texture	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+FSX feature	specular bloom	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FSX specific behavior	animation	1	1	1	1	NULL	NULL	NULL	1866	795	0.0005359056806002144
+FSX specific feature	self-shadowing	2	1	8	4	1.000000000000	NULL	NULL	10	8	0.05
+FSX specific feature	FSX style wingflex	2	1	8	4	1.000000000000	NULL	NULL	2	1	0.25
+FSX specific feature	bump map	2	1	8	4	1.000000000000	NULL	NULL	24	13	0.020833333333333332
+FSX specific feature	bloom lighting	2	1	8	4	1.000000000000	NULL	NULL	8	7	0.0625

@@ -1,0 +1,33 @@
+JH analog	methoprene	1	1	1	1	1.000000000000	NULL	NULL	54	24	0.018518518518518517
+JH mimic	methoprene	1	1	1	1	1.000000000000	NULL	NULL	54	24	0.018518518518518517
+JH2 group inc. online service	Celebrity Fastcard	1	1	1	1	NULL	NULL	NULL	1	1	1
+JHA external element	fight against organized crime	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+jhala princely state	Jhalawar	3	3	10	5	NULL	NULL	NULL	4	2	0.22499999999999998
+jhala princely state	Sayla	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+jhala princely state	Limbdi	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+jhala princely state	Wankaner	2	2	10	5	NULL	NULL	NULL	2	1	0.2
+jhala princely state	Wadhwan	1	1	10	5	NULL	NULL	NULL	1	1	0.1
+jharkhand filmmaker	AK Pankaj	1	1	1	1	NULL	NULL	NULL	1	1	1
+JHAs	methoprene andhydroprene	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+JHD indicator	Corporate Health Index	1	1	1	1	NULL	NULL	NULL	1	1	1
+JHI variety	Livet	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Jhoto region pokemons	shellos	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Jhoto region pokemons	stantler	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+jhoto's historical landmark	Bell Towe Tin Tower	1	1	1	1	NULL	NULL	NULL	1	1	1
+JHP	Federal Tactical	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JHP bullet	Speer Gold Dots	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+JHP bullet	Federal HST	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+JHP's	Speer Gold dot	1	1	1	1	1.000000000000	NULL	NULL	14	14	0.07142857142857142
+JHPIEGO material	video	1	1	3	3	0.333333333333	NULL	NULL	10816	3555	0.00003081854043392505
+JHPIEGO material	notebook	1	1	3	3	0.333333333333	NULL	NULL	1896	679	0.00017580872011251758
+JHPIEGO material	reference manual	1	1	3	3	0.333333333333	NULL	NULL	44	25	0.007575757575757575
+JHPs	Federal Hydra-Shoks	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JHPs	Speer Gold Dots	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+JHPs	Golden Saber BJHPs	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JHU communication network	newspaper	1	1	3	3	NULL	NULL	NULL	5708	1864	0.0000583975706610605
+JHU communication network	Green Office Reps	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+JHU communication network	newsletter	1	1	3	3	NULL	NULL	NULL	3095	1282	0.00010770059235325793
+JHW product	QSTONE engineered stone	1	1	1	1	NULL	NULL	NULL	1	1	1
+jhymn extract song information	album name	1	1	3	3	0.333333333333	NULL	NULL	39	24	0.008547008547008546
+jhymn extract song information	song title	1	1	3	3	0.333333333333	NULL	NULL	111	57	0.003003003003003003
+jhymn extract song information	artist	1	1	3	3	0.333333333333	NULL	NULL	1020	402	0.000326797385620915

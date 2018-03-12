@@ -1,0 +1,8 @@
+fz gene	human fz5	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+fz gene	Drosophila frizzled2	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+FZ series bike	Yamaha FZS	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+FZ series bike	Yamaha FZ16	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+FZ100 feature	full HD movie in AVCHD format	4	4	11	4	NULL	NULL	NULL	6	2	0.24242424242424243
+FZ100 feature	24x optical zoom LEICA DC lens	3	3	11	4	NULL	NULL	NULL	3	1	0.2727272727272727
+FZ100 feature	free angle LCD	3	3	11	4	NULL	NULL	NULL	3	1	0.2727272727272727
+FZ100 feature	full HD movie	1	1	11	4	NULL	NULL	NULL	2	2	0.045454545454545456

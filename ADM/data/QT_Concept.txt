@@ -1,0 +1,39 @@
+qt application	VLC	1	1	1	1	NULL	NULL	NULL	303	108	0.0033003300330033004
+QT codec	Animation	1	1	1	1	NULL	NULL	NULL	1866	795	0.0005359056806002144
+qt component	flip4mac with no luck	1	0	2	2	1.000000000000	NULL	NULL	1	1	0.5
+qt component	Perian	1	0	2	2	1.000000000000	NULL	NULL	15	14	0.03333333333333333
+qt heavy pan	dutch oven	1	1	1	1	NULL	NULL	NULL	100	64	0.01
+QT particle	neutron	1	1	3	3	NULL	NULL	NULL	394	143	0.0008460236886632825
+QT particle	proton	1	1	3	3	NULL	NULL	NULL	678	207	0.0004916420845624385
+QT particle	electron	1	1	3	3	NULL	NULL	NULL	993	284	0.0003356831151393085
+QT syndrome	congestive heart failure	1	1	1	1	NULL	NULL	NULL	1066	305	0.0009380863039399625
+qt tool	qmake	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+QT UI idea	QLauncer for launching application	1	1	1	1	NULL	NULL	NULL	1	1	1
+qt-correcting formula	Bazett's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qt-correcting formula	Fredericia's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+qt-prolonging drug	amiodarone	1	1	4	4	0.500000000000	NULL	NULL	358	78	0.0006983240223463687
+qt-prolonging drug	methadone	1	1	4	4	0.500000000000	NULL	NULL	931	291	0.0002685284640171858
+qt-prolonging drug	alfuzosin	1	1	4	4	0.500000000000	NULL	NULL	43	18	0.005813953488372093
+qt-prolonging drug	sertindole	1	1	4	4	0.500000000000	NULL	NULL	27	14	0.009259259259259259
+qtbnsextend temporal reasoning approach	time net	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+QTCB proposal	America Fast Forward initiative supported by the American Public Transportation Association	1	1	1	1	NULL	NULL	NULL	1	1	1
+qtel channel	Retail Branches	1	1	1	1	NULL	NULL	NULL	1	1	1
+QTEMP store temporary object	work file	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+qtest support software package	Siebel	1	1	2	2	NULL	NULL	NULL	160	102	0.003125
+qtest support software package	PeopleSoft	1	1	2	2	NULL	NULL	NULL	321	146	0.001557632398753894
+QTI feature	question	1	1	1	1	NULL	NULL	NULL	359	193	0.002785515320334262
+QTL analysis trait	length	1	1	1	1	NULL	NULL	NULL	2515	997	0.00039761431411530816
+QTL dataforspecies	Atlantic salmon	1	1	2	2	NULL	NULL	NULL	199	85	0.002512562814070352
+QTL dataforspecies	tilapia	1	1	2	2	NULL	NULL	NULL	740	278	0.0006756756756756757
+QTL mapping method	single mark er analysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QTL mapping method	standard IM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+QTL object house information	trait study	1	1	1	1	NULL	NULL	NULL	1	1	1
+QTL program	QTL Cartographer	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+QTLprograms	QTL Cartographer	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+qtlsfor constitutive primary trait	deep root	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+qtlsformany drought-resistance trait	deep root	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+qtlsforplant-type trait	tiller number	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+qtlsforseveral important trait	growth	1	1	1	1	NULL	NULL	NULL	1594	663	0.0006273525721455458
+QTP resource	function library	2	2	4	2	NULL	NULL	NULL	6	4	0.16666666666666666
+QTP resource	shared object repository	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+QTPs	X 1	1	1	1	1	1.000000000000	NULL	NULL	20	15	0.05

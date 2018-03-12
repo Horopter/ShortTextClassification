@@ -1,0 +1,675 @@
+ax	parent	4	4	67	52	0.194444444444	NULL	NULL	2187	688	0.00010919340198868484
+ax	ancestor	3	3	67	52	0.194444444444	NULL	NULL	34	21	0.003950834064969272
+ax	race	3	3	67	52	0.194444444444	NULL	NULL	8280	1787	0.000016223231667748214
+ax	gender	3	3	67	52	0.194444444444	NULL	NULL	16818	2908	0.000007987177917050496
+ax	social class	3	3	67	52	0.194444444444	NULL	NULL	738	246	0.00018201674554058973
+ax	reliability	2	2	67	52	0.194444444444	NULL	NULL	3181	964	0.00001876815232232425
+ax	Camping Equipment	2	2	67	52	0.194444444444	NULL	NULL	63	37	0.0009476427386875148
+ax	child	2	2	67	52	0.194444444444	NULL	NULL	3515	1021	0.000016984777393261288
+ax	francisca	2	2	67	52	0.194444444444	NULL	NULL	7	6	0.008528784648187633
+ax	battle axe	1	1	67	52	0.194444444444	NULL	NULL	15	12	0.0009950248756218905
+ax	Instinct	1	1	67	52	0.194444444444	NULL	NULL	80	54	0.00018656716417910448
+ax	M11 in Cambridgeshire	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	etiology	1	1	67	52	0.194444444444	NULL	NULL	51	24	0.000292654375182909
+ax	Dark Temptation	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	cutting ax	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	dorsal border of the tibia	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	difficult non-linear ax	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	Taylor Baby	1	1	67	52	0.194444444444	NULL	NULL	2	2	0.007462686567164179
+ax	Processing instruction ax	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	regional power structure	1	1	67	52	0.194444444444	NULL	NULL	2	2	0.007462686567164179
+ax	rotary C-column	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	shape	1	1	67	52	0.194444444444	NULL	NULL	3964	1303	0.0000037652303567932285
+ax	size	1	1	67	52	0.194444444444	NULL	NULL	44267	2716	0.0000003371670349092633
+ax	francisca for use against armored opponent	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	continuous niche ax	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	social	1	1	67	52	0.194444444444	NULL	NULL	2306	802	0.000006472408124166677
+ax	toll & RTO tax	1	1	67	52	0.194444444444	NULL	NULL	2	2	0.007462686567164179
+ax	education	1	1	67	52	0.194444444444	NULL	NULL	21642	5033	0.000000689648513738488
+ax	cultural	1	1	67	52	0.194444444444	NULL	NULL	968	387	0.000015418773899099542
+ax	ones for calibration	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	morphology	1	1	67	52	0.194444444444	NULL	NULL	423	217	0.00003528457005751385
+ax	mold clampingaxis for mold clamping	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	diplomatic power structure at the UN	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	economic	1	1	67	52	0.194444444444	NULL	NULL	1328	488	0.000011238985793921956
+ax	mutually orthogonal ax	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	right y-axis	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	Simond Aneto	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	service tax	1	1	67	52	0.194444444444	NULL	NULL	91	35	0.0001640150893882237
+ax	Attribute	1	1	67	52	0.194444444444	NULL	NULL	282	154	0.00005292685508627077
+ax	major axis C seen in FIG	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	A34 in Oxfordshire	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	fast-spreading ridge ax	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	employed in 5-axis mill	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	type	1	1	67	52	0.194444444444	NULL	NULL	1901	750	0.000007851327266874465
+ax	tomahawk for use against unarmored opponent	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	symmetry	1	1	67	52	0.194444444444	NULL	NULL	419	218	0.00003562141559505575
+ax	religion	1	1	67	52	0.194444444444	NULL	NULL	6231	1572	0.0000023953415397734484
+ax	polled tomahawk	1	1	67	52	0.194444444444	NULL	NULL	1	1	0.014925373134328358
+ax	Paraffin Wax	1	1	67	52	0.194444444444	NULL	NULL	200	85	0.00007462686567164179
+ax	personal	1	1	67	52	0.194444444444	NULL	NULL	664	309	0.000022477971587843913
+ax	pitch	1	1	67	52	0.194444444444	NULL	NULL	891	427	0.000016751260532355058
+ax	site	1	1	67	52	0.194444444444	NULL	NULL	374	190	0.00003990741479766941
+ax accessory	dog cage for traveling	1	1	1	1	NULL	NULL	NULL	1	1	1
+ax different name	Price	1	1	1	1	NULL	NULL	NULL	4341	1098	0.000230361667818475
+ax entitlement	social security	1	1	4	4	NULL	NULL	NULL	3475	1022	0.00007194244604316547
+ax entitlement	medical	1	1	4	4	NULL	NULL	NULL	3750	1210	0.00006666666666666667
+ax entitlement	welfare	1	1	4	4	NULL	NULL	NULL	1226	479	0.0002039151712887439
+ax entitlement	food stamp	1	1	4	4	NULL	NULL	NULL	1426	385	0.0001753155680224404
+ax factor	Jan Zelezny	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ax feature	exemption	1	1	3	3	NULL	NULL	NULL	92	39	0.003623188405797101
+ax feature	microsoft dynamic ax feature	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+ax feature	dynamic ax feature	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ax incentive	development tax credit	1	1	3	3	1.000000000000	NULL	NULL	6	5	0.05555555555555555
+ax incentive	financial instruments of science	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+ax incentive	corporate research	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+ax preparation software package	TaxACT	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+ax preparation software package	TurboTax	1	1	3	3	0.500000000000	NULL	NULL	171	81	0.001949317738791423
+ax preparation software package	H&R Block At Home	1	1	3	3	0.500000000000	NULL	NULL	3	3	0.1111111111111111
+AX prodcuts	MassFX between a test booster	1	1	1	1	NULL	NULL	NULL	1	1	1
+ax provision	home mortgage interest deduction	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+ax type	fire ax	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+ax type	adz	1	1	2	2	1.000000000000	NULL	NULL	55	35	0.00909090909090909
+AX100 engine part	AX100 crankshaft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AX100 engine part	AX100 cylinder block	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+AX100 motorcycle part	AX100 side cover	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+AX100 motorcycle part	AX100 speedometer	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+AX100 motorcycle part	AX100 fuel tank	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+axation technique	hypnosis	1	1	2	2	NULL	NULL	NULL	1113	364	0.0004492362982929021
+axation technique	biofeedback	1	1	2	2	NULL	NULL	NULL	1193	364	0.00041911148365465214
+axcess downloadable application	game	2	2	4	3	NULL	NULL	NULL	6673	2313	0.0001498576352465158
+axcess downloadable application	graphic	1	1	4	3	NULL	NULL	NULL	2365	915	0.00010570824524312896
+axcess downloadable application	wallpaper	1	1	4	3	NULL	NULL	NULL	894	399	0.0002796420581655481
+axe	carving axe	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+axe	Danish axe	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+axe	great axe	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+axe	carpenters axe	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+axe head related offer	Cutter	1	1	3	3	NULL	NULL	NULL	385	207	0.0008658008658008658
+axe head related offer	Hardware	1	1	3	3	NULL	NULL	NULL	1574	625	0.00021177467174925878
+axe head related offer	Hammer	1	1	3	3	NULL	NULL	NULL	1820	510	0.00018315018315018315
+axe murderer	Raskolnikov	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+AXE platform	control system	1	1	1	1	NULL	NULL	NULL	293	146	0.0034129692832764505
+axe shop	Bob's Brilliant Axes in Lumbridge	1	1	1	1	NULL	NULL	NULL	1	1	1
+axe type weapon	hatchet	1	1	2	2	0.500000000000	NULL	NULL	115	50	0.004347826086956522
+axe type weapon	fire axe	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+axed brand	Pontiac	1	1	2	2	NULL	NULL	NULL	187	92	0.00267379679144385
+axed brand	Saturn	1	1	2	2	NULL	NULL	NULL	263	107	0.0019011406844106464
+axed route	PMI	1	1	1	1	NULL	NULL	NULL	104	71	0.009615384615384616
+axel-mounted rack	OMM Cold Springs	1	1	1	1	NULL	NULL	NULL	1	1	1
+axemen	Jim Alexander	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+axemen	Jason Wynyard	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axent's security product	Intruder Alert	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+axent's security product	Defender	1	1	2	2	NULL	NULL	NULL	69	47	0.007246376811594203
+axi-symmetric device	coaxial connector	1	1	1	1	1.000000000000	NULL	NULL	22	18	0.045454545454545456
+axi-symmetric, closed structure	cylinder	1	1	1	1	NULL	NULL	NULL	1169	518	0.000855431993156544
+axial aberration	astigmatism	1	1	2	2	NULL	NULL	NULL	355	126	0.0014084507042253522
+axial aberration	coma	1	1	2	2	NULL	NULL	NULL	443	197	0.001128668171557562
+axial age greek philosopher	Thales	1	1	3	3	0.333333333333	NULL	NULL	132	73	0.002525252525252525
+axial age greek philosopher	Xenophanes	1	1	3	3	0.333333333333	NULL	NULL	21	13	0.015873015873015872
+axial age greek philosopher	Heraclitus	1	1	3	3	0.333333333333	NULL	NULL	44	15	0.007575757575757575
+axial air-gap machine	disc-type three phase machine	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial and radial leaded component	capacitor	1	1	2	2	NULL	NULL	NULL	2574	633	0.00019425019425019425
+axial and radial leaded component	resistor	1	1	2	2	NULL	NULL	NULL	2199	452	0.00022737608003638017
+axial bearing load	occurring with helical gear	1	1	1	1	NULL	NULL	NULL	1	1	1
+Axial blower apparatus	propeller fan	1	1	1	1	NULL	NULL	NULL	9	4	0.1111111111111111
+axial bone	rib	1	1	2	2	NULL	NULL	NULL	762	389	0.0006561679790026247
+axial bone	head	1	1	2	2	NULL	NULL	NULL	1061	534	0.000471253534401508
+axial civilisation	ancient Israel	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+axial component	resistor	5	5	9	3	NULL	NULL	NULL	2199	452	0.0012632004446465565
+axial component	diode	2	2	9	3	NULL	NULL	NULL	1209	405	0.00036761327083907727
+axial component	capacitor	2	2	9	3	NULL	NULL	NULL	2574	633	0.000172666839333506
+axial compression spring	helical compression spring	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+axial crack	stress corrosion cracking	1	1	1	1	1.000000000000	NULL	NULL	25	20	0.04
+axial deformity	valgus	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+axial deviation	coxa valga	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+axial deviation	coxa vara	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+Axial dystonias	camptocormia	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial fan	mild steel axial fan	1	1	11	11	0.500000000000	NULL	NULL	2	2	0.045454545454545456
+axial fan	office axial fan	1	1	11	11	0.500000000000	NULL	NULL	2	2	0.045454545454545456
+axial fan	Axial Fan with Flt Grill	1	1	11	11	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+axial fan	Axial Fan with round & square Housing	1	1	11	11	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+axial fan	axial flow fan	1	1	11	11	0.500000000000	NULL	NULL	10	7	0.00909090909090909
+axial fan	axial fan with basket grill	1	1	11	11	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+axial fan	axial fan with Exhaust frame	1	1	11	11	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+axial fan	ceiling fan	1	1	11	11	0.500000000000	NULL	NULL	411	192	0.00022119000221190003
+axial fan	impeller axial fan	1	1	11	11	0.500000000000	NULL	NULL	2	2	0.045454545454545456
+axial fan	aluminum axial fan	1	1	11	11	0.500000000000	NULL	NULL	1	1	0.09090909090909091
+axial fan	ventilation axial fan	1	1	11	11	0.500000000000	NULL	NULL	2	2	0.045454545454545456
+axial fan related offer	Cooling Fan	1	1	2	2	0.500000000000	NULL	NULL	156	97	0.003205128205128205
+axial fan related offer	Fan Blower	1	1	2	2	0.500000000000	NULL	NULL	13	6	0.038461538461538464
+axial feature	gait disturbance	2	2	7	5	0.500000000000	NULL	NULL	36	25	0.015873015873015872
+axial feature	postural instability	2	2	7	5	0.500000000000	NULL	NULL	34	23	0.01680672268907563
+axial feature	neck rigidity	1	1	7	5	0.500000000000	NULL	NULL	3	2	0.047619047619047616
+axial feature	Cylinder	1	1	7	5	0.500000000000	NULL	NULL	1169	518	0.00012220457045093486
+axial feature	dysarthria	1	1	7	5	0.500000000000	NULL	NULL	121	67	0.0011806375442739079
+axial flap	paramedian forehead flap	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+axial flap	forehead flap	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+axial flap	nasolabial interpolation flap	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+axial flap	free flap	1	1	5	5	1.000000000000	NULL	NULL	10	10	0.02
+axial flap	pectoralis major	1	1	5	5	1.000000000000	NULL	NULL	18	8	0.011111111111111112
+axial flaw	stress corrosion cracking	1	1	4	4	1.000000000000	NULL	NULL	25	20	0.01
+axial flaw	long narrow axial corrosion	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+axial flaw	selective seam corrosion	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+axial flaw	longitudinal seam cracking	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+axial flexibility	caused by a slight bend in the finger	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial flow compressor	gas turbine compressor	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+axial flow device	gas turbine	1	1	5	5	NULL	NULL	NULL	294	162	0.0006802721088435375
+axial flow device	high-efficiency impeller	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+axial flow device	fan	1	1	5	5	NULL	NULL	NULL	2666	1077	0.00007501875468867217
+axial flow device	compressor	1	1	5	5	NULL	NULL	NULL	1160	512	0.0001724137931034483
+axial flow device	DeBakey VAD	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+axial flow elastic fluid turbine	axial flow steam turbine	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial flow fan	mild steel axial fan	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+axial flow fan	office axial fan	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+axial flow fan	pressure axial fan	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+axial flow fan	ventilation axial fan	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+axial flow fan	impeller axial fan	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+axial flow fluid apparatus	turbine	1	1	2	2	NULL	NULL	NULL	487	280	0.001026694045174538
+axial flow fluid apparatus	compressor	1	1	2	2	NULL	NULL	NULL	1160	512	0.0004310344827586207
+axial flow fluid device	fan	1	1	2	2	NULL	NULL	NULL	2666	1077	0.00018754688672168043
+axial flow fluid device	pump	1	1	2	2	NULL	NULL	NULL	3215	1354	0.00015552099533437013
+axial flow fluid turbine apparatus	high pressure steam turbine	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial flow gas turbine engine	type used on aircraft	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial flow impeller	fixed blade turbine	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axial flow impeller	pitched paddle impeller	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axial flow impeller	pitched blade turbine	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+axial flow positive displacement engine	positive displacement axial flow gas generator	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial flow rotary machine	gas turbine engine for an aircraft	5	4	13	7	0.500000000000	NULL	NULL	7	3	0.27472527472527475
+axial flow rotary machine	gas turbine engine	2	2	13	7	0.500000000000	NULL	NULL	83	46	0.0037071362372567192
+axial flow rotary machine	steam turbine used in a thermal power station	2	2	13	7	0.500000000000	NULL	NULL	2	1	0.15384615384615385
+axial flow rotary machine	aircraft jet engine	1	1	13	7	0.500000000000	NULL	NULL	14	5	0.005494505494505495
+axial flow rotary machine	gas turbine	1	1	13	7	0.500000000000	NULL	NULL	294	162	0.00026164311878597594
+axial flow rotary machine	gas turbine engines used for the propulsion of aircraft	1	1	13	7	0.500000000000	NULL	NULL	1	1	0.07692307692307693
+axial flow rotary machine	aircraft fan engine	1	1	13	7	0.500000000000	NULL	NULL	1	1	0.07692307692307693
+axial flow seal	59 shown in FIG	1	1	1	1	NULL	NULL	NULL	1	1	1
+Axial flow turbomachines	gas turbine engine	1	1	1	1	NULL	NULL	NULL	83	46	0.012048192771084338
+axial fluid flow turbine	steam turbine	1	1	1	1	NULL	NULL	NULL	128	78	0.0078125
+axial flux interior PM application	traction drive	1	1	2	2	0.500000000000	NULL	NULL	9	5	0.05555555555555555
+axial flux interior PM application	washing machine	1	1	2	2	0.500000000000	NULL	NULL	2743	702	0.0001822821728034998
+axial force	controllable axial force	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+axial force member	machine screw	1	1	2	2	NULL	NULL	NULL	93	56	0.005376344086021506
+axial force member	stiffening girder	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axial forcing member	girder	1	1	1	1	NULL	NULL	NULL	107	63	0.009345794392523364
+axial group	halogen	1	1	1	1	NULL	NULL	NULL	731	251	0.0013679890560875513
+axial high	Cudi anticlinorium	1	1	1	1	NULL	NULL	NULL	1	1	1
+Axial imaging	computed tomography scan	1	1	2	2	NULL	NULL	NULL	174	73	0.0028735632183908046
+Axial imaging	CT myelograms	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axial imaging modalities	computed tomography	1	1	1	1	NULL	NULL	NULL	1780	560	0.0005617977528089888
+axial imaging technique	sonography	1	1	1	1	NULL	NULL	NULL	165	97	0.006060606060606061
+axial impairment	freezing of gait	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+axial impeller	hydrofoils A310	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axial impeller	Lightnin A310	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axial impeller	pitched-blade turbine	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axial joint	shoulder	1	1	3	3	0.333333333333	NULL	NULL	1076	399	0.0003097893432465923
+axial joint	sternoclavicular joint	1	1	3	3	0.333333333333	NULL	NULL	6	6	0.05555555555555555
+axial joint	hip	1	1	3	3	0.333333333333	NULL	NULL	1346	408	0.00024764735017335313
+axial lead component	resistor	2	2	4	2	NULL	NULL	NULL	2199	452	0.00045475216007276033
+axial lead component	tubular capacitor	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+axial lead device	resistor	2	1	4	2	NULL	NULL	NULL	2199	452	0.00045475216007276033
+axial lead device	diode	2	1	4	2	NULL	NULL	NULL	1209	405	0.0008271298593879239
+axial lead electronic component	resistor	1	1	2	2	NULL	NULL	NULL	2199	452	0.00022737608003638017
+axial lead electronic component	capacitor	1	1	2	2	NULL	NULL	NULL	2574	633	0.00019425019425019425
+axial ligands	triflate anion	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+axial ligands	water	2	2	5	4	NULL	NULL	NULL	25348	6311	0.00003156067539845353
+axial ligands	basic axial ligands	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+axial load	floor	1	1	1	1	0.333333333333	NULL	NULL	1705	703	0.0005865102639296188
+axial load application	elevator	1	1	4	4	NULL	NULL	NULL	1023	378	0.00024437927663734115
+axial load application	carrier	1	1	4	4	NULL	NULL	NULL	794	249	0.00031486146095717883
+axial load application	barrier	1	1	4	4	NULL	NULL	NULL	508	291	0.0004921259842519685
+axial load application	train	1	1	4	4	NULL	NULL	NULL	1369	590	0.00018261504747991235
+axial loading force	fall from a height	1	1	2	2	0.500000000000	NULL	NULL	15	11	0.03333333333333333
+axial loading force	wall	1	1	2	2	0.500000000000	NULL	NULL	4117	1506	0.00012144765606023804
+axial lock	shearable pin	2	2	2	1	NULL	NULL	NULL	2	1	1
+Axial magnetic coupling	exemplified by Dorman	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial management study	University of Alberta in loading	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial measurement	macular hole depth	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axial measurement	volume	1	1	2	2	NULL	NULL	NULL	2436	1012	0.00020525451559934318
+axial motor	submersible pump motor	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial neck symptom	neck pain	2	2	4	2	NULL	NULL	NULL	351	128	0.002849002849002849
+axial neck symptom	stiffness	2	2	4	2	NULL	NULL	NULL	753	279	0.0013280212483399733
+axial neuropils	mushroom body	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+axial opacity	corneal scar	1	1	1	1	1.000000000000	NULL	NULL	14	9	0.07142857142857142
+axial operational force	vibration	1	1	1	1	NULL	NULL	NULL	1544	606	0.0006476683937823834
+axial organ	root	1	1	1	1	NULL	NULL	NULL	988	442	0.0010121457489878543
+axial part	resistor	1	1	1	1	NULL	NULL	NULL	2199	452	0.00045475216007276033
+axial pattern flap	caudal auricular	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial pattern skin flap	groin flap	2	2	2	1	NULL	NULL	NULL	6	5	0.3333333333333333
+axial patterning system	Wnt gene	2	2	2	1	NULL	NULL	NULL	2	1	1
+axial piston machine	hydraulic pump	1	1	4	4	NULL	NULL	NULL	141	87	0.0017730496453900709
+axial piston machine	pump	1	1	4	4	NULL	NULL	NULL	3215	1354	0.00007776049766718506
+axial piston machine	engine	1	1	4	4	NULL	NULL	NULL	2149	764	0.00011633317822242904
+axial piston machine	motor	1	1	4	4	NULL	NULL	NULL	2780	997	0.00008992805755395684
+axial position adjusting device	screw nut type adjusting device	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial position sensor	inductive proximity sensor	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+axial prestress element	axle nut	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+axial proj ection	sunrise	1	1	2	2	NULL	NULL	NULL	116	83	0.004310344827586207
+axial proj ection	Merchant view	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+axial projection	Merchant view	2	2	2	1	0.500000000000	NULL	NULL	3	2	0.6666666666666666
+axial pump related offer	Water Pump	1	1	1	1	0.500000000000	NULL	NULL	655	307	0.0015267175572519084
+axial restraint mean	welding	1	1	2	2	0.500000000000	NULL	NULL	2335	724	0.00021413276231263382
+axial restraint mean	staking	1	1	2	2	0.500000000000	NULL	NULL	36	27	0.013888888888888888
+axial retainment member	washer	1	1	1	1	NULL	NULL	NULL	2166	460	0.0004616805170821791
+axial seal mechanism	glove	1	1	1	1	NULL	NULL	NULL	4008	1201	0.000249500998003992
+axial semi-straight leg exercise	deadlift	1	1	1	1	NULL	NULL	NULL	300	89	0.0033333333333333335
+axial site	scapula	2	2	8	4	0.250000000000	NULL	NULL	47	19	0.010638297872340425
+axial site	pelvis	2	2	8	4	0.250000000000	NULL	NULL	127	57	0.003937007874015748
+axial site	spine	2	2	8	4	0.250000000000	NULL	NULL	392	189	0.0012755102040816326
+axial site	rib	2	2	8	4	0.250000000000	NULL	NULL	762	389	0.0006561679790026247
+axial skeletal fracture	fracture of the sacral alae	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axial skeletal fracture	pubic rami	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Axial skeletal pain	back pain	1	1	1	1	NULL	NULL	NULL	1248	377	0.0008012820512820513
+axial spacing part	cover	1	1	1	1	NULL	NULL	NULL	734	361	0.0013623978201634877
+axial stop mean	washer	1	1	1	1	NULL	NULL	NULL	2166	460	0.0004616805170821791
+axial structure	neural tube	2	1	7	6	0.750000000000	NULL	NULL	8	7	0.07142857142857142
+axial structure	vimana	1	1	7	6	0.750000000000	NULL	NULL	3	3	0.047619047619047616
+axial structure	notochord	1	1	7	6	0.750000000000	NULL	NULL	39	23	0.003663003663003663
+axial structure	notocord	1	1	7	6	0.750000000000	NULL	NULL	2	2	0.07142857142857142
+axial structure	disk	1	1	7	6	0.750000000000	NULL	NULL	759	403	0.00018821757952192734
+axial structure	interspinous ligament	1	1	7	6	0.750000000000	NULL	NULL	2	2	0.07142857142857142
+axial support	pin	1	1	1	1	NULL	NULL	NULL	2022	726	0.0004945598417408506
+axial symptom	balance impairment	1	1	3	3	1.000000000000	NULL	NULL	5	3	0.06666666666666667
+axial symptom	axial pain	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+axial symptom	severe axial symptom	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+axial turbine	steam turbine	2	2	4	2	NULL	NULL	NULL	128	78	0.0078125
+axial turbine	gas turbine	2	2	4	2	NULL	NULL	NULL	294	162	0.003401360544217687
+Axial undulators	worm	1	1	3	3	NULL	NULL	NULL	2308	714	0.00014442518775274407
+Axial undulators	alligator	1	1	3	3	NULL	NULL	NULL	603	224	0.000552791597567717
+Axial undulators	snake	1	1	3	3	NULL	NULL	NULL	2991	757	0.00011144544745347152
+axial vector operator	spin angular momentum	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+axial vessel	aorta	2	2	2	1	NULL	NULL	NULL	199	67	0.010050251256281407
+axial view	Fig	1	1	1	1	NULL	NULL	NULL	1329	490	0.0007524454477050414
+Axial viscometers	falling rod viscometers	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial weapon	side-firing machine gun	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axial weapon	20-mm gun	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axial weapon	pod-mounted rocket launcher	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axial weapon	gun	1	1	4	4	NULL	NULL	NULL	1652	515	0.0001513317191283293
+axial-flow impeller	pitched-blade turbines shown in Fig	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial-flow LVADs	HeartMate II	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+axial-flow LVADs	Jarvik 2000	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+axial-lead device	capacitor	1	1	5	5	NULL	NULL	NULL	2574	633	0.0000777000777000777
+axial-lead device	diode	1	1	5	5	NULL	NULL	NULL	1209	405	0.00016542597187758478
+axial-lead device	inductors	1	1	5	5	NULL	NULL	NULL	738	231	0.00027100271002710027
+axial-lead device	transistor	1	1	5	5	NULL	NULL	NULL	1688	469	0.00011848341232227489
+axial-lead device	resistor	1	1	5	5	NULL	NULL	NULL	2199	452	0.00009095043201455208
+axial-piston hydraulic motor	Danfoss Nessie	1	1	1	1	NULL	NULL	NULL	1	1	1
+axial-piston machine	axial-piston pump	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+axial-piston machine	axial-piston motor	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+axial@flow LVADs	Jarvik 2000	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+axial@flow LVADs	HeartMate II	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+Axially chiral ligands	BINAP	1	1	1	1	1.000000000000	NULL	NULL	15	9	0.06666666666666667
+axially flow elastic fluid turbine	axially flow steam turbine	1	1	1	1	NULL	NULL	NULL	1	1	1
+axially long object	torso	1	1	1	1	1.000000000000	NULL	NULL	51	33	0.0196078431372549
+axially long structure	cable	1	1	2	2	NULL	NULL	NULL	3854	1434	0.00012973533990659055
+axially long structure	piping	1	1	2	2	NULL	NULL	NULL	483	259	0.0010351966873706005
+axially movable element	pin	1	1	1	1	NULL	NULL	NULL	2022	726	0.0004945598417408506
+axially movable steering element	cable	1	1	1	1	NULL	NULL	NULL	3854	1434	0.0002594706798131811
+axially screwable threaded shaft	25a	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+axially symmetric component	TO-can laser package	1	1	1	1	NULL	NULL	NULL	1	1	1
+axially symmetric dyon solution	monopole-antimonopole pair dyon	1	1	1	1	NULL	NULL	NULL	1	1	1
+axially symmetric interaction	dipolar splitting of a CF3-group	1	1	1	1	NULL	NULL	NULL	1	1	1
+axially symmetric power combiner	conical line combiner	1	1	1	1	NULL	NULL	NULL	1	1	1
+axially symmetric shape	cylinder	2	1	2	1	NULL	NULL	NULL	1169	518	0.001710863986313088
+axially symmetrical component	axle	1	1	1	1	NULL	NULL	NULL	346	150	0.002890173410404624
+axially symmetrical part	disc	1	1	2	2	NULL	NULL	NULL	416	217	0.001201923076923077
+axially symmetrical part	impeller	1	1	2	2	NULL	NULL	NULL	122	64	0.004098360655737705
+axially-oriented flaw	stress corrosion cracking	1	1	2	2	1.000000000000	NULL	NULL	25	20	0.02
+axially-oriented flaw	selective seam corrosion	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+axially-symmetrical shape	tube	1	1	1	1	NULL	NULL	NULL	1226	603	0.0008156606851549756
+axile root	shoot-borne roots in monocotyledonous plant	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+axillary project	iPad application design	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axillary project	implementation	1	1	2	2	NULL	NULL	NULL	509	224	0.0009823182711198428
+axillary support	pillow	1	1	1	1	NULL	NULL	NULL	2414	760	0.00041425020712510354
+axin fusion protein	Axin-Renilla	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axin fusion protein	Axin-Luciferase	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axin fusion protein	Axin GFP	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axing efficient unit	Delta ER	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axing efficient unit	VGH Surgical Short-Stay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axing fringe benefit	bonus	1	1	2	2	NULL	NULL	NULL	902	356	0.0005543237250554324
+axing fringe benefit	company car	1	1	2	2	NULL	NULL	NULL	234	77	0.002136752136752137
+axing program	Babes Going Crazy	1	1	1	1	NULL	NULL	NULL	1	1	1
+Axiological antirealists	van Fraassen	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+axiom	completeness	2	2	27	24	0.562500000000	NULL	NULL	185	92	0.0008008008008008007
+axiom	transitivity	2	1	27	24	0.562500000000	NULL	NULL	52	39	0.0028490028490028487
+axiom	monotonicity	2	2	27	24	0.562500000000	NULL	NULL	41	28	0.0036133694670280035
+axiom	basic rationality axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	associativity	1	1	27	24	0.562500000000	NULL	NULL	39	23	0.0009496676163342829
+axiom	choice axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Extensionality	1	0	27	24	0.562500000000	NULL	NULL	3	3	0.012345679012345678
+axiom	use of closed operator	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	transitivity of preference	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	more-familiar Euclidean axioms for geometry	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Reflection Princzple	1	0	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	axioms for Hilbert space	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	long-standing basic axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	operation satisfyasetof axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Power Set Axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Peano Axioms for number theory	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	commutativity	1	1	27	24	0.562500000000	NULL	NULL	34	15	0.0010893246187363833
+axiom	Banach space	1	1	27	24	0.562500000000	NULL	NULL	4	3	0.009259259259259259
+axiom	Chang's Conjecture	1	0	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Martin's axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	distributivity	1	1	27	24	0.562500000000	NULL	NULL	9	7	0.004115226337448559
+axiom	Zermelo-Frankel axioms for set theory	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Proper Forcing Axiom	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom	Preparationv Recipe	1	1	27	24	0.562500000000	NULL	NULL	1	1	0.037037037037037035
+axiom system	Peano's axioms for number theory	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+axiom system	Zermelo's axioms for set theory	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+axiom's client	Euroclear	1	1	2	2	0.500000000000	NULL	NULL	25	17	0.02
+axiom's client	UBS	1	1	2	2	0.500000000000	NULL	NULL	626	245	0.0007987220447284345
+axiom's enterprise-level program	Global Workspace Manager boost production	1	1	1	1	NULL	NULL	NULL	1	1	1
+axiom's unique posi-tion bentley innovation	MicroStation V8	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axiom's unique posi-tion bentley innovation	V8 versions of Bentley discipline-specific application	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axiomatic algebraic system	ring	1	1	3	3	NULL	NULL	NULL	2378	930	0.00014017381553125876
+axiomatic algebraic system	group	1	1	3	3	NULL	NULL	NULL	1049	514	0.0003177629488401652
+axiomatic algebraic system	fi elds	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+axiomatic concept	Life	1	1	1	1	NULL	NULL	NULL	1540	626	0.0006493506493506494
+axiomatic conclusion	Arrow's Theorem	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axiomatic conclusion	Arrow s Theorem	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axiomatic framework	construction of inequality measure	1	1	1	1	NULL	NULL	NULL	1	1	1
+axiomatic principle	unitarity	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+axiomatic principle	analyticity	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+axiomatic set theory	Nelson's IST	1	1	1	1	NULL	NULL	NULL	1	1	1
+axiomatic statement	goal	1	1	1	1	NULL	NULL	NULL	609	292	0.0016420361247947454
+axiomatic system	field	1	1	4	4	NULL	NULL	NULL	844	421	0.0002962085308056872
+axiomatic system	ring	1	1	4	4	NULL	NULL	NULL	2378	930	0.00010513036164844407
+axiomatic system	group	1	1	4	4	NULL	NULL	NULL	1049	514	0.00023832221163012392
+axiomatic system	arithmetic	1	1	4	4	NULL	NULL	NULL	282	139	0.0008865248226950354
+axiomatized field	mathematics	1	1	1	1	NULL	NULL	NULL	3159	796	0.00031655587211142766
+axion's marine product	piling	1	1	1	1	1.000000000000	NULL	NULL	48	33	0.020833333333333332
+axis	spinal axis	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	sagital axis	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	z-axis	1	1	10	10	0.166666666666	NULL	NULL	4	4	0.025
+axis	coronal axis with a single	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	main axis	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	gravity axis	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	axis of a limb	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	transverse axis	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	frontal axis	1	1	10	10	0.166666666666	NULL	NULL	1	1	0.1
+axis	x-axis	1	1	10	10	0.166666666666	NULL	NULL	3	2	0.03333333333333333
+axis aircraft	Messerschmitt Bf-109	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Axis Allies	Italians	1	1	1	1	NULL	NULL	NULL	294	96	0.003401360544217687
+axis ally	Italy	2	2	6	5	0.200000000000	NULL	NULL	10580	1406	0.0000630119722747322
+axis ally	Hungary	1	1	6	5	0.200000000000	NULL	NULL	2851	449	0.000058459020226820995
+axis ally	Rumania	1	1	6	5	0.200000000000	NULL	NULL	63	29	0.0026455026455026454
+axis ally	Croatia	1	1	6	5	0.200000000000	NULL	NULL	895	207	0.00018621973929236498
+axis ally	Romania	1	1	6	5	0.200000000000	NULL	NULL	1893	323	0.00008804366966015142
+axis annotation attribute	format	1	1	1	1	NULL	NULL	NULL	534	245	0.0018726591760299626
+axis application	moving optical filter	2	1	2	1	NULL	NULL	NULL	2	1	1
+Axis application software	AXIS Camera Recorder for advanced recording functionalities	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Axis application software	AXIS Camera Station	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+axis attribute	range	1	1	2	2	NULL	NULL	NULL	1208	453	0.0004139072847682119
+axis attribute	scale	1	1	2	2	NULL	NULL	NULL	1777	757	0.0002813731007315701
+axis controller	66 in FIG	2	2	2	1	NULL	NULL	NULL	5	4	0.4
+axis country	Germany	13	12	42	6	NULL	NULL	NULL	19646	2312	0.00020481571433419136
+axis country	Romania	13	12	42	6	NULL	NULL	NULL	1893	323	0.0021256257389379416
+axis country	Hungary	13	12	42	6	NULL	NULL	NULL	2851	449	0.0014113677740475354
+axis country	Algeria	1	1	42	6	NULL	NULL	NULL	1222	258	0.000019484062037253527
+axis country	Angola	1	1	42	6	NULL	NULL	NULL	1247	262	0.000019093443311566806
+axis country	eastern european axis country	1	1	42	6	NULL	NULL	NULL	2	2	0.011904761904761904
+Axis cutting	waterjets	1	1	1	1	1.000000000000	NULL	NULL	11	11	0.09090909090909091
+axis datum	voltage	3	1	3	1	NULL	NULL	NULL	1211	512	0.002477291494632535
+axis defensive measure	flak	1	1	3	3	0.500000000000	NULL	NULL	11	9	0.0303030303030303
+axis defensive measure	radar	1	1	3	3	0.500000000000	NULL	NULL	1240	569	0.00026881720430107527
+axis defensive measure	large numbers of tactical aircraft	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+axis device	241Q Video Server	1	1	1	1	NULL	NULL	NULL	1	1	1
+axis element	gas pedal	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+axis element	grid line	1	1	2	2	1.000000000000	NULL	NULL	20	19	0.025
+axis feature	view port	1	1	4	4	0.666666666666	NULL	NULL	9	8	0.027777777777777776
+axis feature	offset	1	1	4	4	0.666666666666	NULL	NULL	106	68	0.0023584905660377358
+axis feature	grid line	1	1	4	4	0.666666666666	NULL	NULL	20	19	0.0125
+axis feature	automatic axis label sizing	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+axis fighter	Fw 190	2	1	2	1	1.000000000000	NULL	NULL	7	6	0.2857142857142857
+Axis fighter aircraft	M-109	1	1	1	1	NULL	NULL	NULL	1	1	1
+axis I anxiety disorder	social phobia	1	1	2	2	NULL	NULL	NULL	193	58	0.0025906735751295338
+axis I anxiety disorder	obsessive-compulsive disorder	1	1	2	2	NULL	NULL	NULL	390	107	0.001282051282051282
+axis I component	anxiety	1	1	2	2	NULL	NULL	NULL	10807	2261	0.00004626630887387804
+axis I component	depression	1	1	2	2	NULL	NULL	NULL	15330	3151	0.000032615786040443576
+axis I condition	affective dysregulation disorder	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+axis I condition	substance use	1	1	5	5	NULL	NULL	NULL	248	128	0.0008064516129032258
+axis I condition	eating disorder	1	1	5	5	NULL	NULL	NULL	906	296	0.0002207505518763797
+axis I condition	PTSD	1	1	5	5	NULL	NULL	NULL	394	148	0.0005076142131979696
+axis I condition	mood	1	1	5	5	NULL	NULL	NULL	627	258	0.0003189792663476874
+Axis I diagnosis	bipolar disorder	1	1	3	3	0.500000000000	NULL	NULL	1442	318	0.0002311604253351826
+Axis I diagnosis	episodes of severe depression	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+Axis I diagnosis	dysthymia	1	1	3	3	0.500000000000	NULL	NULL	65	29	0.005128205128205128
+axis I disorder	schizophrenia	7	7	33	15	0.153846153846	NULL	NULL	3232	609	0.00045942094209420944
+axis I disorder	depression	6	5	33	15	0.153846153846	NULL	NULL	15330	3151	0.00007116171499733143
+axis I disorder	anxiety	4	3	33	15	0.153846153846	NULL	NULL	10807	2261	0.00004486429951406356
+axis I disorder	Depressive Disorder	3	3	33	15	0.153846153846	NULL	NULL	62	32	0.00439882697947214
+axis I disorder	bipolar disorder	2	2	33	15	0.153846153846	NULL	NULL	1442	318	0.00008405833648552095
+axis I disorder	Major Depression	2	2	33	15	0.153846153846	NULL	NULL	354	133	0.00034240712206813905
+axis I disorder	severe obsessive compulsive disorder	1	1	33	15	0.153846153846	NULL	NULL	1	1	0.030303030303030304
+axis I disorder	Social Phobia	1	1	33	15	0.153846153846	NULL	NULL	193	58	0.00015701051970482024
+axis I disorder	post-traumatic stress disorder	1	1	33	15	0.153846153846	NULL	NULL	419	136	0.00007232226802632531
+axis I disorder	panic disorder	1	1	33	15	0.153846153846	NULL	NULL	417	101	0.00007266913741733885
+axis I disorder	bipolar	1	1	33	15	0.153846153846	NULL	NULL	311	107	0.00009743739647276625
+axis I disorder	generalized anxiety disorder	1	1	33	15	0.153846153846	NULL	NULL	180	50	0.00016835016835016836
+axis I disorder	severe anxiety disorder	1	1	33	15	0.153846153846	NULL	NULL	7	5	0.004329004329004329
+axis I disorder	severe depressive	1	1	33	15	0.153846153846	NULL	NULL	1	1	0.030303030303030304
+axis I disorder	major depressive disorder	1	1	33	15	0.153846153846	NULL	NULL	122	49	0.00024838549428713363
+Axis I psychia-tricdisorders	Panic Disorder	1	1	3	3	NULL	NULL	NULL	417	101	0.0007993605115907274
+Axis I psychia-tricdisorders	Major Depression	1	1	3	3	NULL	NULL	NULL	354	133	0.0009416195856873823
+Axis I psychia-tricdisorders	Generalized Anxiety Disorder	1	1	3	3	NULL	NULL	NULL	180	50	0.0018518518518518517
+axis I psychiatric disorder	anxiety disorder	2	1	10	7	0.285714285714	NULL	NULL	650	188	0.0006153846153846154
+axis I psychiatric disorder	depressive disorder	2	1	10	7	0.285714285714	NULL	NULL	62	32	0.0064516129032258064
+axis I psychiatric disorder	adjustment disorder	2	1	10	7	0.285714285714	NULL	NULL	46	32	0.008695652173913044
+axis I psychiatric disorder	schizophrenia	1	1	10	7	0.285714285714	NULL	NULL	3232	609	0.00003094059405940594
+axis I psychiatric disorder	bipolar disorder	1	1	10	7	0.285714285714	NULL	NULL	1442	318	0.00006934812760055478
+axis I psychiatric disorder	attention deficit hyperactivity disorder	1	1	10	7	0.285714285714	NULL	NULL	289	105	0.0003460207612456748
+axis I psychiatric disorder	depression	1	1	10	7	0.285714285714	NULL	NULL	15330	3151	0.000006523157208088715
+Axis Idisorders	substance-related disorder	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+Axis Idisorders	sleep disorder	1	1	4	4	NULL	NULL	NULL	259	104	0.0009652509652509653
+Axis Idisorders	depression	1	1	4	4	NULL	NULL	NULL	15330	3151	0.000016307893020221788
+Axis Idisorders	major depression	1	1	4	4	NULL	NULL	NULL	354	133	0.0007062146892655367
+axis II condition	borderline intellectual functioning	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+axis II condition	mental retardation	1	1	2	3	NULL	NULL	NULL	548	229	0.0009124087591240876
+axis II diagnosis	Borderline Personality Disorders	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+axis II diagnosis	Antisocial Personality Disorders	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axis II diagnosis	Paranoid Personality Disorders	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+axis II disorder	borderline personality disorder	1	1	2	2	0.500000000000	NULL	NULL	135	53	0.003703703703703704
+axis II disorder	borderline	1	1	2	2	0.500000000000	NULL	NULL	74	29	0.006756756756756757
+axis II personality disorder	narcissism	1	1	4	4	0.500000000000	NULL	NULL	105	55	0.002380952380952381
+axis II personality disorder	narcissistic	1	1	4	4	0.500000000000	NULL	NULL	25	5	0.01
+axis II personality disorder	paranoia	1	1	4	4	0.500000000000	NULL	NULL	427	199	0.000585480093676815
+axis II personality disorder	paranoid personality	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+axis integration method	OAI	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+axis integration method	OAI andtdi	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+axis KUKA robot product	apple	1	1	2	2	NULL	NULL	NULL	15894	3432	0.00003145841197936328
+axis KUKA robot product	carrot	1	1	2	2	NULL	NULL	NULL	10459	2027	0.00004780571756382063
+axis leader	Adolf Hitler	1	1	1	1	NULL	NULL	NULL	107	56	0.009345794392523364
+axis member	Hungary	2	2	10	9	0.200000000000	NULL	NULL	2851	449	0.0001403016485443704
+axis member	loyal axis member	1	1	10	9	0.200000000000	NULL	NULL	2	2	0.05
+axis member	Finland	1	1	10	9	0.200000000000	NULL	NULL	4109	491	0.000024336821611097593
+axis member	Bulgaria	1	1	10	9	0.200000000000	NULL	NULL	1831	329	0.00005461496450027308
+axis member	Brazil	1	1	10	9	0.200000000000	NULL	NULL	12719	1532	0.000007862253321802029
+axis member	Japan	1	1	10	9	0.200000000000	NULL	NULL	17472	2459	0.0000057234432234432234
+axis member	Croatia	1	1	10	9	0.200000000000	NULL	NULL	895	207	0.000111731843575419
+axis member	Slovakia	1	1	10	9	0.200000000000	NULL	NULL	934	178	0.00010706638115631693
+axis member	Romania	1	1	10	9	0.200000000000	NULL	NULL	1893	323	0.00005282620179609086
+axis method	Content	2	1	4	2	0.500000000000	NULL	NULL	857	338	0.0011668611435239206
+axis method	Element	2	1	4	2	0.500000000000	NULL	NULL	324	170	0.0030864197530864196
+axis military system	U-boat Enigma traffic	1	1	1	1	NULL	NULL	NULL	1	1	1
+axis motion component	motor	1	1	1	1	NULL	NULL	NULL	2780	997	0.00035971223021582735
+axis movement	roll	1	1	1	1	NULL	NULL	NULL	662	341	0.0015105740181268882
+axis nation	Romania	1	1	4	4	NULL	NULL	NULL	1893	323	0.00013206550449022716
+axis nation	Austria	1	1	4	4	NULL	NULL	NULL	3941	521	0.00006343567622430856
+axis nation	Hungary	1	1	4	4	NULL	NULL	NULL	2851	449	0.00008768853034023149
+axis nation	Yugoslavia	1	1	4	4	NULL	NULL	NULL	285	75	0.0008771929824561404
+axis occupied territory	Albania	1	1	3	3	NULL	NULL	NULL	571	130	0.0005837711617046118
+axis occupied territory	Greece	1	1	3	3	NULL	NULL	NULL	4688	768	0.00007110352673492605
+axis occupied territory	France	1	1	3	3	NULL	NULL	NULL	18997	2318	0.000017546630169675913
+axis option	no option for having an inverted y axis	3	3	3	1	NULL	NULL	NULL	3	1	1
+axis organ	root	1	1	1	1	NULL	NULL	NULL	988	442	0.0010121457489878543
+axis parameter	acceleration	1	1	4	4	NULL	NULL	NULL	881	426	0.00028376844494892167
+axis parameter	inching speed parameter	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axis parameter	slew speed	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axis parameter	move distance	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+axis petroleum engineering project	asset evaluation	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+axis petroleum engineering project	field development	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+axis power	Italy	2	2	7	6	NULL	NULL	NULL	10580	1406	0.000054010261949770455
+axis power	Hungary	1	1	7	6	NULL	NULL	NULL	2851	449	0.000050107731622989425
+axis power	Austria	1	1	7	6	NULL	NULL	NULL	3941	521	0.000036248957842462026
+axis power	Spain	1	1	7	6	NULL	NULL	NULL	9967	1404	0.00001433301322937121
+axis power	Germany	1	1	7	6	NULL	NULL	NULL	19646	2312	0.00000727156382251567
+axis power	Romania	1	1	7	6	NULL	NULL	NULL	1893	323	0.00007546600256584409
+axis procedure	keeping the nose low while ground rolling in a cross wind	1	1	1	1	NULL	NULL	NULL	1	1	1
+axis property	Decimals	4	1	20	10	0.111111111111	NULL	NULL	4	2	0.2
+axis property	Format	4	1	20	10	0.111111111111	NULL	NULL	534	245	0.00149812734082397
+axis property	range	4	3	20	10	0.111111111111	NULL	NULL	1208	453	0.0006622516556291391
+axis property	Grid	2	2	20	10	0.111111111111	NULL	NULL	539	313	0.0003710575139146568
+axis property	label interval	1	1	20	10	0.111111111111	NULL	NULL	1	1	0.05
+axis property	legend	1	1	20	10	0.111111111111	NULL	NULL	325	215	0.00015384615384615385
+axis property	title	1	1	20	10	0.111111111111	NULL	NULL	3119	1050	0.00001603077909586406
+axis property	color	1	1	20	10	0.111111111111	NULL	NULL	11347	3399	0.000004406451044328898
+axis property	axis location	1	1	20	10	0.111111111111	NULL	NULL	1	1	0.05
+axis property	axis label	1	1	20	10	0.111111111111	NULL	NULL	18	13	0.002777777777777778
+AXIS service	AXIS News	1	1	1	1	NULL	NULL	NULL	1	1	1
+axis setting	Maximum	2	2	4	2	NULL	NULL	NULL	472	229	0.00211864406779661
+axis setting	Minimum	2	2	4	2	NULL	NULL	NULL	521	251	0.0019193857965451055
+axis song	smooth	1	1	1	1	NULL	NULL	NULL	217	102	0.004608294930875576
+axis symmetric fruit	apple	1	1	1	1	NULL	NULL	NULL	15894	3432	0.00006291682395872656
+axis symmetric type valve	ball	1	1	2	2	NULL	NULL	NULL	1998	808	0.00025025025025025025
+axis symmetric type valve	butterfly	1	1	2	2	NULL	NULL	NULL	1656	673	0.00030193236714975844
+axis toolpath method	3-D Offset pocketing	1	1	1	1	NULL	NULL	NULL	1	1	1
+axis variable	position	2	2	7	4	NULL	NULL	NULL	1508	681	0.00037893141341417203
+axis variable	speed	2	2	7	4	NULL	NULL	NULL	4847	1571	0.00011789324766424002
+axis variable	acceleration	2	2	7	4	NULL	NULL	NULL	881	426	0.0006486135884546781
+axis variable	jerk	1	1	7	4	NULL	NULL	NULL	62	40	0.002304147465437788
+Axis video management software	AXIS Camera Recorder for advanced recording functionalities	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Axis video management software	AXIS Camera Station	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+axis-aligned filter	bilinear filter	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+axis-based load	centrifugal load	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+axis-created state	Croatia	1	1	3	3	NULL	NULL	NULL	895	207	0.00037243947858472997
+axis-created state	Vichy France	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+axis-created state	Slovakia	1	1	3	3	NULL	NULL	NULL	934	178	0.00035688793718772306
+axis-ii disorder	avoidant	1	1	3	3	0.500000000000	NULL	NULL	14	6	0.023809523809523808
+axis-ii disorder	dependent	1	1	3	3	0.500000000000	NULL	NULL	68	32	0.004901960784313725
+axis-ii disorder	histrionic personality disorder	1	1	3	3	0.500000000000	NULL	NULL	4	3	0.08333333333333333
+axis-kinematic parameter	gap radius	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axis-kinematic parameter	steering offset	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axis-of-evil state	Iran	1	1	2	2	NULL	NULL	NULL	4782	970	0.00010455876202425763
+axis-of-evil state	North Korea	1	1	2	2	NULL	NULL	NULL	1505	406	0.0003322259136212625
+axis-related tool	Axis Tools	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axis-related tool	Axis Definitions	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axis-related value	Range	1	1	4	4	NULL	NULL	NULL	1208	453	0.00020695364238410596
+axis-related value	Axis Length	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+axis-related value	Unit Values	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axis-related value	Number of Divisions	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+axistore online service	AxiStore Online Store	1	1	1	1	NULL	NULL	NULL	1	1	1
+axisym-metric part	storage tank	1	1	2	2	NULL	NULL	NULL	267	140	0.0018726591760299626
+axisym-metric part	pipe	1	1	2	2	NULL	NULL	NULL	2486	1047	0.00020112630732099757
+axisymmetric component	lens	1	1	3	4	NULL	NULL	NULL	1167	446	0.00028563267637817766
+axisymmetric component	ring	1	1	3	4	NULL	NULL	NULL	2378	930	0.00014017381553125876
+axisymmetric component	return channel	1	1	3	4	NULL	NULL	NULL	6	3	0.05555555555555555
+axisymmetric configuration	tokamak	3	1	3	1	1.000000000000	NULL	NULL	22	15	0.13636363636363635
+axisymmetric entry probe	Huygens	1	1	1	1	1.000000000000	NULL	NULL	16	15	0.0625
+axisymmetric material	human bone	1	1	1	1	1.000000000000	NULL	NULL	19	13	0.05263157894736842
+axisymmetric nozzle	annular plug nozzle	1	1	1	1	NULL	NULL	NULL	1	1	1
+axisymmetric object	cone	3	3	6	2	NULL	NULL	NULL	837	384	0.0017921146953405018
+axisymmetric object	sphere	3	3	6	2	NULL	NULL	NULL	972	459	0.0015432098765432098
+axisymmetric radial basis function	thin plate splines	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+axisymmetric structure	steel containment vessel	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+axisymmetric structure	shield building roof structure	2	2	5	3	NULL	NULL	NULL	2	1	0.4
+axisymmetric structure	large cylinder	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+axisymmetric tool	vacuum gripper	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+axisymmetric waveguide	typical optical fiber	1	1	1	1	NULL	NULL	NULL	1	1	1
+axium power function	5-axis tool offset	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axium power function	polynomial interpolation	1	1	3	4	1.000000000000	NULL	NULL	9	9	0.037037037037037035
+axium power function	interpolation of up to 9 ax	1	1	3	4	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+AXJ country	Malaysia	1	1	2	2	NULL	NULL	NULL	6168	917	0.00008106355382619974
+AXJ country	Singapore	1	1	2	2	NULL	NULL	NULL	7135	1325	0.0000700770847932726
+axl receptor	mammalian axl receptor protein	1	1	1	1	NULL	NULL	NULL	1	1	1
+axl's pal	Scott Ian	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+axle	drive axle shown	2	2	10	9	0.142857142857	NULL	NULL	2	1	0.2
+axle	Dana 44	1	1	10	9	0.142857142857	NULL	NULL	2	2	0.05
+axle	Dexter 8K	1	1	10	9	0.142857142857	NULL	NULL	1	1	0.1
+axle	9K axle	1	1	10	9	0.142857142857	NULL	NULL	1	1	0.1
+axle	immunity plethora axle	1	1	10	9	0.142857142857	NULL	NULL	1	1	0.1
+axle	chevy van axle	1	1	10	9	0.142857142857	NULL	NULL	1	1	0.1
+axle	toyota 8in rear solid axle	1	1	10	9	0.142857142857	NULL	NULL	1	1	0.1
+axle	cutting the inner c's	1	1	10	9	0.142857142857	NULL	NULL	1	1	0.1
+axle	front shaft	1	1	10	9	0.142857142857	NULL	NULL	2	2	0.05
+axle arm assembly	I-beam axle arm assembly	3	3	3	1	NULL	NULL	NULL	3	1	1
+axle builder	Currie	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+axle component	seal	1	1	8	8	0.142857142857	NULL	NULL	1274	416	0.00009811616954474098
+axle component	transmission	1	1	8	8	0.142857142857	NULL	NULL	1215	475	0.00010288065843621399
+axle component	transaxle	1	1	8	8	0.142857142857	NULL	NULL	11	3	0.011363636363636364
+axle component	dash	1	1	8	8	0.142857142857	NULL	NULL	341	121	0.00036656891495601173
+axle component	seat	1	1	8	8	0.142857142857	NULL	NULL	485	235	0.0002577319587628866
+axle component	engine	1	1	8	8	0.142857142857	NULL	NULL	2149	764	0.00005816658911121452
+axle component	Interior component	1	1	8	8	0.142857142857	NULL	NULL	3	3	0.041666666666666664
+axle component	bearing	1	1	8	8	0.142857142857	NULL	NULL	1447	550	0.00008638562543192812
+axle group	tandem	2	2	3	2	1.000000000000	NULL	NULL	66	39	0.0202020202020202
+axle group	vi-3 axle group	1	1	3	2	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+axle load	low axle load	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+axle loading	maximum axle loading	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+axle machine	Area 3 Tyre True	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axle machine	Tire Razor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axle member	pin	1	1	1	1	NULL	NULL	NULL	2022	726	0.0004945598417408506
+axle parameter	differences in tire rolling radius	1	1	1	1	NULL	NULL	NULL	1	1	1
+axle part	expanders	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+axle part	brake drum	1	1	2	2	1.000000000000	NULL	NULL	63	41	0.007936507936507936
+axle plate option	double slot	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+axle rotational mean	hydraulic ram	1	1	1	1	1.000000000000	NULL	NULL	25	21	0.04
+axle shaft	industrial axle shaft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axle shaft	automotive axle shaft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axle truck	EMD SD Flexicoil	1	1	1	1	NULL	NULL	NULL	1	1	1
+axle upgrade	limited slip	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+axle-back system	S-Type	1	1	1	1	NULL	NULL	NULL	1	1	1
+axle-driven vehicle	Tucker Snow Cat	1	1	1	1	NULL	NULL	NULL	1	1	1
+axogenic disorder	spinal cord injury	1	1	1	1	NULL	NULL	NULL	599	183	0.001669449081803005
+axolotl process	embossing	1	1	1	1	NULL	NULL	NULL	411	163	0.0024330900243309003
+axon	axon 306a	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+axon -metric	average axon length	1	1	1	1	NULL	NULL	NULL	1	1	1
+axon guidance cue	Netrin	3	2	6	5	1.000000000000	NULL	NULL	13	8	0.11538461538461539
+axon guidance cue	ephrins	1	1	6	5	1.000000000000	NULL	NULL	27	21	0.006172839506172839
+axon guidance cue	semaphorins	1	1	6	5	1.000000000000	NULL	NULL	32	20	0.005208333333333333
+axon guidance cue	Slits	1	1	6	5	1.000000000000	NULL	NULL	25	12	0.006666666666666666
+axon guidance molecule	netrins	3	3	9	7	1.000000000000	NULL	NULL	18	22	0.05555555555555555
+axon guidance molecule	Slits	2	1	9	7	1.000000000000	NULL	NULL	25	12	0.017777777777777778
+axon guidance molecule	ephrins	1	1	9	7	1.000000000000	NULL	NULL	27	21	0.004115226337448559
+axon guidance molecule	myelin-associated inhibitor	1	1	9	7	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+axon guidance molecule	semaphorins	1	1	9	7	1.000000000000	NULL	NULL	32	20	0.003472222222222222
+axon guidance molecule	Semaphorin 3A	1	1	9	7	1.000000000000	NULL	NULL	4	2	0.027777777777777776
+axon reflex, whereby sensory neuropeptides	Substance P	2	2	2	1	NULL	NULL	NULL	377	117	0.005305039787798408
+axon trajectory	posterior commissure in the head	1	1	1	1	NULL	NULL	NULL	1	1	1
+axon-associated factor	NRG1	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+axon-associated factor	autocrine signal	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axon-associated factor	basal lamina component	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axon-degrading enzyme	xylanase	1	1	1	1	1.000000000000	NULL	NULL	42	17	0.023809523809523808
+axon-derived neurotrophins	BDNF	1	1	1	1	NULL	NULL	NULL	166	40	0.006024096385542169
+axon-guidance molecule	semaphorins	1	1	1	1	1.000000000000	NULL	NULL	32	20	0.03125
+axon-regeneration inhibitor	Nogo	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+axon-specific mechanism	restricted localization of a specific kinesin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axon-specific mechanism	kinesin related protein	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axonal abnormality	thickening	1	1	1	1	1.000000000000	NULL	NULL	11	8	0.09090909090909091
+axonal component	microtubules	2	2	2	1	1.000000000000	NULL	NULL	85	53	0.023529411764705882
+axonal GPCRs	CB1 cannabinoid	1	1	1	1	NULL	NULL	NULL	1	1	1
+axonal growth inhibitor	Nogo	1	1	1	1	1.000000000000	NULL	NULL	15	12	0.06666666666666667
+axonal growth inhibitory protein	MAG	1	1	1	1	NULL	NULL	NULL	68	44	0.014705882352941176
+axonal guidance molecule	netrins	2	2	7	5	1.000000000000	NULL	NULL	18	22	0.031746031746031744
+axonal guidance molecule	Ephrins	2	2	7	5	1.000000000000	NULL	NULL	27	21	0.021164021164021163
+axonal guidance molecule	semaphorins	2	2	7	5	1.000000000000	NULL	NULL	32	20	0.017857142857142856
+axonal guidance molecule	cell adhesion molecule	1	1	7	5	1.000000000000	NULL	NULL	24	16	0.005952380952380952
+axonal injury	axotomy	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+axonal injury	nerve crush	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+axonal polyneuropathies	diabetic neuropathy	1	1	1	1	NULL	NULL	NULL	118	57	0.00847457627118644
+axonal tract	fornix	1	1	4	4	1.000000000000	NULL	NULL	15	13	0.016666666666666666
+axonal tract	dorsoventral diencephalic tract	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+axonal tract	habenulo-peduncular tract in the dorsal thalamus	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+axonal tract	internal capsule	1	1	4	4	1.000000000000	NULL	NULL	29	21	0.008620689655172414
+axonemal abnormality	axis disorientation	1	1	1	1	NULL	NULL	NULL	1	1	1
+axonemal component	radial spoke	2	1	2	1	1.000000000000	NULL	NULL	8	6	0.25
+axonemal substructure	central pair complex	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axonemal substructure	dynein arm	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axonemal substructure	radial spoke	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+axonometric view	isometric view	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+axostylates	hypermastigid mutualists in the gut of termite	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+axostylates	wood roaches	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+axotomy, adult neuron	spinal neuron	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+axotomy, adult neuron	dorsal root ganglion	1	1	3	3	1.000000000000	NULL	NULL	10	5	0.03333333333333333
+axotomy, adult neuron	retinal ganglion cell	1	1	3	3	1.000000000000	NULL	NULL	10	9	0.03333333333333333
+axt's rival supplier	Freiberger	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+axtra part	shock absorbers	1	1	2	2	NULL	NULL	NULL	202	103	0.0024752475247524753
+axtra part	break shoe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Axxess equipment	Intertel Axxess DSS Console for Decision Support System use	1	1	1	1	NULL	NULL	NULL	1	1	1

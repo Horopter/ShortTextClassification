@@ -1,0 +1,453 @@
+IV aminoglycoside	streptomycin	1	1	1	1	NULL	NULL	NULL	435	80	0.0022988505747126436
+iv antibiotic	broad spectrum iv antibiotic	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IV Beta-blocker	propranolol	1	1	1	1	NULL	NULL	NULL	741	155	0.001349527665317139
+iv bisphosphonates	pamidronate	2	1	5	4	0.333333333333	NULL	NULL	144	41	0.005555555555555556
+iv bisphosphonates	Reclast	1	1	5	4	0.333333333333	NULL	NULL	21	10	0.009523809523809525
+iv bisphosphonates	zoledronate	1	1	5	4	0.333333333333	NULL	NULL	37	15	0.005405405405405406
+iv bisphosphonates	nitrogen-based iv bisphosphonates	1	1	5	4	0.333333333333	NULL	NULL	2	2	0.1
+IV BOLUS INJECTION electrolyte disturbance	hypokalemia	3	2	3	1	NULL	NULL	NULL	248	75	0.012096774193548387
+iv catheter	lasting iv catheter	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iv chelating agent	EDTA	1	1	1	1	NULL	NULL	NULL	900	218	0.0011111111111111111
+IV estimator	GMM	1	1	2	2	1.000000000000	NULL	NULL	27	23	0.018518518518518517
+IV estimator	TSLS	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+iv fluid	isotonic or hypotonic iv fluid	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IV food	cheese	1	1	2	2	NULL	NULL	NULL	9373	2034	0.0000533447135388883
+IV food	yogurt	1	1	2	2	NULL	NULL	NULL	5394	1123	0.00009269558769002595
+IV G. CLASSROOM disruption	hate speech	1	1	2	2	1.000000000000	NULL	NULL	58	39	0.008620689655172414
+IV G. CLASSROOM disruption	off-task talking	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+IV hurricane	Katrina	1	1	1	1	NULL	NULL	NULL	388	130	0.002577319587628866
+iv idaho condition	fibromyalgia	1	1	1	1	NULL	NULL	NULL	1483	361	0.0006743088334457181
+IV injection	Adequan	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IV injection	tranqs	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+IV injection	antibiotic	1	1	3	3	0.500000000000	NULL	NULL	3419	824	0.00009749439407234084
+iv medication	oral or iv medication	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iv opiate	strong iv opiate	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IV Pioneer species	moss	1	1	1	1	NULL	NULL	NULL	811	325	0.0012330456226880395
+iv protonix case	great speed	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+iv SLRs	Nikon D90	1	1	1	1	1.000000000000	NULL	NULL	31	18	0.03225806451612903
+IV third-generation cephalosporin	cefotaxime	1	1	1	1	NULL	NULL	NULL	138	46	0.007246376811594203
+IV&V activity	MMIS Business Rules validation	1	1	1	1	NULL	NULL	NULL	1	1	1
+IV-10 process	mating	1	1	2	2	NULL	NULL	NULL	157	84	0.0031847133757961785
+IV-10 process	pupping	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+IV-25 intensive grazing system	rest rotation	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+iv-based encryption scheme	CBC	2	2	2	1	NULL	NULL	NULL	330	158	0.006060606060606061
+iv-based traffic management architecture	Auto21 CDS	2	2	2	1	NULL	NULL	NULL	2	1	1
+IV-D dedicated expenditure	service of process cost	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IV-D dedicated expenditure	genetic testing cost	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IV-group element	Si	1	1	1	1	NULL	NULL	NULL	667	280	0.0014992503748125937
+IV-group metal	Ti	1	1	1	1	NULL	NULL	NULL	584	229	0.0017123287671232876
+iv-group semiconductor	Si	1	1	2	2	NULL	NULL	NULL	667	280	0.0007496251874062968
+iv-group semiconductor	Ge	1	1	2	2	NULL	NULL	NULL	306	150	0.0016339869281045752
+iv-group semiconductor thin film	Ge	1	1	2	2	NULL	NULL	NULL	306	150	0.0016339869281045752
+iv-group semiconductor thin film	Si	1	1	2	2	NULL	NULL	NULL	667	280	0.0007496251874062968
+IV-VI compound	lead sulfide	1	1	2	2	1.000000000000	NULL	NULL	19	17	0.02631578947368421
+IV-VI compound	sulphides	1	1	2	2	1.000000000000	NULL	NULL	55	34	0.00909090909090909
+IV.H-5 A temporary noise barrier	acoustical blanket	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IVA group element	zirconium	1	1	1	1	NULL	NULL	NULL	653	231	0.0015313935681470138
+ivals	Bentley	1	1	1	1	NULL	NULL	NULL	464	213	0.0021551724137931034
+Ivan Rodriguez rookie card	1991 Bowman	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Ivan Rodriguez rookie card	Donruss	1	1	2	2	1.000000000000	NULL	NULL	12	10	0.041666666666666664
+ivangancedo.com online service	Ivangancedo.com Online Store	1	1	1	1	NULL	NULL	NULL	1	1	1
+IvanLanin	IS-IS	1	1	1	1	0.500000000000	NULL	NULL	98	24	0.01020408163265306
+IVAR method	Three Way Junction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVAR method	Rolling Circle	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+IVAs	recent French development Skaaz	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivate information	email	1	1	1	1	NULL	NULL	NULL	8680	2858	0.0001152073732718894
+ivationofgshandgsh-regulating enzyme	glutathione peroxidase	1	1	1	1	NULL	NULL	NULL	288	92	0.003472222222222222
+ivbisphosphonates	pamidronate	1	1	1	1	NULL	NULL	NULL	144	41	0.006944444444444444
+IVC application	collision avoidance	1	1	1	1	NULL	NULL	NULL	88	62	0.011363636363636364
+IVC bed component	Universal Bed End	18	15	22	3	1.000000000000	NULL	NULL	26	7	0.5664335664335665
+IVC bed component	head spring	2	2	22	3	1.000000000000	NULL	NULL	3	2	0.06060606060606061
+IVC bed component	Universal Bed End headspring	2	2	22	3	1.000000000000	NULL	NULL	2	1	0.09090909090909091
+IVC component	Universal Bed End	1	1	1	1	1.000000000000	NULL	NULL	26	7	0.038461538461538464
+IVC department head	Roy Bauer	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVC hospital bed component	Universal Bed End	2	2	3	2	1.000000000000	NULL	NULL	26	7	0.05128205128205128
+IVC hospital bed component	head spring	1	1	3	2	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+IVCs	IVC for the entire document	2	2	2	1	NULL	NULL	NULL	2	1	1
+IVCS tool	Voting Utility	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivd company	small and medium-sized ivd company	1	1	4	4	1.000000000000	NULL	NULL	2	2	0.125
+IVD company	Cepheid	1	1	4	4	1.000000000000	NULL	NULL	9	10	0.027777777777777776
+IVD company	Siemens Healthcare Diagnostics Inc.	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+IVD company	Roche Diagnostics	1	1	4	4	1.000000000000	NULL	NULL	36	22	0.006944444444444444
+IVD injury	puncture	1	1	1	1	NULL	NULL	NULL	99	53	0.010101010101010102
+IVD segment	critical care	1	1	2	2	NULL	NULL	NULL	122	67	0.004098360655737705
+IVD segment	hematology	1	1	2	2	NULL	NULL	NULL	151	86	0.0033112582781456954
+IVD specific growth factor	IGF	1	1	1	1	1.000000000000	NULL	NULL	65	21	0.015384615384615385
+IVDAS device	LDS-Nicolet's Liberty data acquisition system	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVDDs	heparin analysers	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivdr application product	recorder	1	1	1	1	NULL	NULL	NULL	411	190	0.0024330900243309003
+IVDs	assays used in blood-banking	1	1	1	1	NULL	NULL	NULL	1	1	1
+ive achievement	free breakfast program for poor child	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ive action	restricting development in hazard area	1	1	1	1	NULL	NULL	NULL	1	1	1
+ive animal	bear	1	1	2	2	NULL	NULL	NULL	2588	668	0.00019319938176197836
+ive animal	deer	1	1	2	2	NULL	NULL	NULL	4037	801	0.00012385434728758978
+IVE application	augmented reality	1	1	3	3	0.500000000000	NULL	NULL	196	95	0.0017006802721088435
+IVE application	surgical training simulator	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+IVE application	robot control	1	1	3	3	0.500000000000	NULL	NULL	24	17	0.013888888888888888
+ive CDs	Puppy	1	1	1	1	NULL	NULL	NULL	239	92	0.0041841004184100415
+IVE client component	Network Connect	1	1	1	1	NULL	NULL	NULL	1	1	1
+ive committed offence	Break	1	1	1	1	NULL	NULL	NULL	426	206	0.002347417840375587
+ive conduct	throwing food	1	1	1	1	1.000000000000	NULL	NULL	16	11	0.0625
+ive device	assistive communicat ive device	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ive device	special uten sils	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ive device	dish	1	1	3	3	NULL	NULL	NULL	1090	457	0.0003058103975535168
+ive immunosuppressants	azathioprine	1	1	1	1	NULL	NULL	NULL	1042	210	0.0009596928982725527
+ive impurity	fructose	1	1	2	2	NULL	NULL	NULL	1239	234	0.0004035512510088781
+ive impurity	glucose	1	1	2	2	NULL	NULL	NULL	3031	839	0.0001649620587264929
+ive installed route	bakerloo	1	1	1	1	NULL	NULL	NULL	5	2	0.2
+ive league school	Oxford	1	1	4	4	NULL	NULL	NULL	937	364	0.00026680896478121667
+ive league school	Harvard	1	1	4	4	NULL	NULL	NULL	2040	544	0.00012254901960784314
+ive league school	Yale	1	1	4	4	NULL	NULL	NULL	1077	279	0.00023212627669452182
+ive league school	Princeton	1	1	4	4	NULL	NULL	NULL	630	199	0.0003968253968253968
+ive loved luxury brand	LV	1	1	2	2	NULL	NULL	NULL	212	126	0.0023584905660377358
+ive loved luxury brand	Chanel	1	1	2	2	NULL	NULL	NULL	1978	746	0.0002527805864509606
+ive measure	RSV vaccine	1	1	2	2	NULL	NULL	NULL	4	2	0.125
+ive measure	large investments in backfitting	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+ive noticed game	prototype	2	1	2	1	NULL	NULL	NULL	380	146	0.005263157894736842
+ive short grass	buffalograss	1	1	1	1	NULL	NULL	NULL	85	42	0.011764705882352941
+ive system	bumper	1	1	2	2	NULL	NULL	NULL	677	292	0.0007385524372230429
+ive system	prot ective bar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ive tried memory trick	associating the person with an object	1	1	1	1	NULL	NULL	NULL	4	2	0.25
+ive use pain pill	Lorcet	1	1	2	2	0.500000000000	NULL	NULL	42	23	0.011904761904761904
+ive use pain pill	Vicodin	1	1	2	2	0.500000000000	NULL	NULL	768	190	0.0006510416666666666
+iveco daily part	injector	1	1	9	10	NULL	NULL	NULL	198	94	0.0005611672278338944
+iveco daily part	starter motor	1	1	9	10	NULL	NULL	NULL	119	76	0.0009337068160597572
+iveco daily part	oil pump	1	1	9	10	NULL	NULL	NULL	137	90	0.0008110300081103
+iveco daily part	headlight	1	1	9	10	NULL	NULL	NULL	456	240	0.00024366471734892786
+iveco daily part	alternator	1	1	9	10	NULL	NULL	NULL	663	269	0.0001675884028825205
+iveco daily part	spring	1	1	9	10	NULL	NULL	NULL	2397	949	0.000046354239095165254
+iveco daily part	oil seal	1	1	9	10	NULL	NULL	NULL	219	171	0.0005073566717402334
+iveco daily part	wheel bearing	1	1	9	10	NULL	NULL	NULL	106	61	0.0010482180293501047
+iveco daily part	anti roll bar	1	1	9	10	NULL	NULL	NULL	8	4	0.013888888888888888
+Iveco power steering box	ZF	1	1	1	1	1.000000000000	NULL	NULL	39	30	0.02564102564102564
+ivecontour algorithm	level-set based one	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+iveforbs	common yarrow	1	1	2	2	1.000000000000	NULL	NULL	10	6	0.05
+iveforbs	silky lupine	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ively large predator	marsh hawk	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+ivelypublished innumerous field	taxation	1	1	3	3	0.250000000000	NULL	NULL	1201	413	0.00027754648903691365
+ivelypublished innumerous field	law	1	1	3	3	0.250000000000	NULL	NULL	5118	1346	0.00006512960791976031
+ivelypublished innumerous field	accounting	1	1	3	3	0.250000000000	NULL	NULL	5188	1624	0.00006425083526085839
+Iver Platform Small portable AUVs	Iver2 AUV	1	1	1	1	NULL	NULL	NULL	1	1	1
+iver-sifytoother sector	manufacturing	1	1	1	1	NULL	NULL	NULL	4573	1084	0.00021867483052700635
+ivermectin analog	doramectin	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+ivermectin related offer	Pest Control	1	1	2	2	NULL	NULL	NULL	390	183	0.001282051282051282
+ivermectin related offer	Black Mosquito Coil	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivermectin-sensitive dog	herding dog	1	1	1	1	1.000000000000	NULL	NULL	23	11	0.043478260869565216
+iversefunctions	structural support	1	1	1	1	1.000000000000	NULL	NULL	50	28	0.02
+iversified economy	Alberta	1	1	1	1	NULL	NULL	NULL	730	99	0.0013698630136986301
+IVEs	architecture walkthroughs	2	2	14	13	NULL	NULL	NULL	2	1	0.14285714285714285
+ives	key environmental initiat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	higher-value mineral addit ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	social object ives	1	1	14	13	NULL	NULL	NULL	1	1	0.07142857142857142
+ives	powerful stimulant laxat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	higher-cost, higher-intensity initiat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	economic development incent ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	quality initiat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	financial incent ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	pioneering community mobilization initiat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	council initiat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	electronic alternat ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives	name specific incent ives	1	1	14	13	NULL	NULL	NULL	2	2	0.03571428571428571
+ives's first major work	cantata Celestial city	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivestream cipher	RC4	1	1	1	1	NULL	NULL	NULL	70	30	0.014285714285714285
+ivesubstances	FTF	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+iveswereinitiallyrestrictedtovisualdisplaysandusedhandheld interaction device	joystick	1	1	1	1	NULL	NULL	NULL	674	262	0.001483679525222552
+ivetechnical advance	systematic functionalgenomics studies in model organism	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivetoothertime domain approach	Maximum Likelihood estimation	1	1	1	1	1.000000000000	NULL	NULL	48	28	0.020833333333333332
+IVF	problems of embryo implantation	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVF drug	Bravelle 75iu	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVF factor	number of ampoules of human menopausal gonadotrophin used	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVF patient	patients with increased uterine artery vascular resistance on the day of embryo transfer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVF patient	poor responders with thin endometrium	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVF pre-treatment step	reading the IVF manual	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVF pre-treatment step	performing pre-cycle testing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVF procedure	egg retrieval	1	1	3	3	0.500000000000	NULL	NULL	8	5	0.041666666666666664
+IVF procedure	Egg Donation	1	1	3	3	0.500000000000	NULL	NULL	42	25	0.007936507936507936
+IVF procedure	Sperm Donation	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+IVF program	Finland	1	1	3	3	NULL	NULL	NULL	4109	491	0.00008112273870365863
+IVF program	Sweden	1	1	3	3	NULL	NULL	NULL	7737	882	0.00004308302098143121
+IVF program	Australia	1	1	3	3	NULL	NULL	NULL	16600	2128	0.000020080321285140562
+IVF protocol	low-dose Lupron flare protocol	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivf's pioneer	late Jean Cohen	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ivhs technology	generation ivhs technology	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+IVI function	display map	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+IVI function	music play	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+IVI function	movie play	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+IVI name	logical name	2	1	4	3	1.000000000000	NULL	NULL	5	4	0.2
+IVI name	channel name	1	1	4	3	1.000000000000	NULL	NULL	20	16	0.0125
+IVI name	virtual name	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+IVI related info	Logical Name	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+IVI technology	lane keeping	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+ivi's advanced feature	Component Object Model interface	2	2	2	1	NULL	NULL	NULL	2	1	1
+IVI-C function	init	2	2	6	3	0.666666666666	NULL	NULL	29	19	0.022988505747126436
+IVI-C function	reset	2	2	6	3	0.666666666666	NULL	NULL	118	61	0.005649717514124294
+IVI-C function	close	2	2	6	3	0.666666666666	NULL	NULL	136	86	0.004901960784313725
+ividly green vegetable	broccoli	1	1	3	3	NULL	NULL	NULL	10232	1548	0.000032577534532186604
+ividly green vegetable	cucumber	1	1	3	3	NULL	NULL	NULL	3938	1031	0.00008464533604198409
+ividly green vegetable	green bean	1	1	3	3	NULL	NULL	NULL	1720	467	0.0001937984496124031
+ividual requirement	medical appointment	1	1	2	2	NULL	NULL	NULL	69	40	0.007246376811594203
+ividual requirement	leave	1	1	2	2	NULL	NULL	NULL	198	100	0.0025252525252525255
+ividuals	daughter	1	1	2	2	NULL	NULL	NULL	79	38	0.006329113924050633
+ividuals	father	1	1	2	2	NULL	NULL	NULL	292	145	0.0017123287671232876
+ivig-responsive disorder	CIDP	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+ivil society organization	trade union	1	1	1	1	NULL	NULL	NULL	780	301	0.001282051282051282
+ivillage tool	pregnancy calendar	3	2	5	2	1.000000000000	NULL	NULL	5	2	0.36
+ivillage tool	baby name finder	2	2	5	2	1.000000000000	NULL	NULL	11	7	0.07272727272727274
+ivision function	Bluetooth	1	1	1	1	NULL	NULL	NULL	2836	910	0.0003526093088857546
+ivisions	Champlain Park	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ivisions	Back River Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivisions	Ahuntsic Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivisive position issue	abortion	1	1	1	1	NULL	NULL	NULL	3496	808	0.0002860411899313501
+ivist culture	Hong Kong	1	1	1	1	NULL	NULL	NULL	4024	955	0.00024850894632206757
+ivist group	Focus on the Family	1	1	2	2	NULL	NULL	NULL	232	88	0.0021551724137931034
+ivist group	Institute for American Values	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivities	everyday act ivities	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ivities	kinesthetic response act ivities	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ivities	simple daily act ivities	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ivities	twent ieth-century act ivities	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ivities	traditional water-related act ivities	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+ivities	operating childcare centers for the girls child	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+IVLE tool	discussion forum	1	1	1	1	NULL	NULL	NULL	508	257	0.001968503937007874
+IVM s analytical capability	Horner plot	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+IVM s analytical capability	XY plot	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+IVM s analytical capability	advanced trending	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ivm's analytical capability	advanced trending	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ivm's analytical capability	Horner plot	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+ivm's analytical capability	XY plot	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+IVO cutlery's product line	Chefs Essential	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVOA standard	Simple Image Access	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivobit service	Ivobit Newsletter	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVOCs	aliphatic aldehydes	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+ivoipcallerinfodb store caller-specific information	friendly name	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+ivoipcallerinfodb store caller-specific information	specialized ring tone	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivoipcallerinfodb store caller-specific information	speed dial index	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivoirian musician	Tiken Jah Fakoly	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivoirian musician	Alpha Blondy	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+ivores	red deer	1	1	2	2	NULL	NULL	NULL	198	80	0.0025252525252525255
+ivores	roe deer	1	1	2	2	NULL	NULL	NULL	110	49	0.004545454545454545
+ivorian economist	Nicholas Agbohou	2	2	2	1	NULL	NULL	NULL	2	1	1
+ivorian student	N'Guessan	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivorous word	insectivorous	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ivory	fossilized mammoth ivory	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+ivory	fossilized walrus ivory	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ivory	endless sandy beach clear, ivory	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+ivory animal figure	bird	1	1	1	1	NULL	NULL	NULL	6020	1468	0.00016611295681063124
+Ivory autographed memorabilia	inscription	1	1	1	1	NULL	NULL	NULL	98	82	0.01020408163265306
+ivory carver	Stephan Zick	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivory coast's neighbor	Ghana	1	1	2	2	NULL	NULL	NULL	2163	290	0.0002311604253351826
+ivory coast's neighbor	Liberia	1	1	2	2	NULL	NULL	NULL	792	142	0.0006313131313131314
+ivory dress	Flutter Ashley Dress by Trashy Diva	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivory item	chopstick	1	1	6	6	0.400000000000	NULL	NULL	146	87	0.001141552511415525
+ivory item	trinket	1	1	6	6	0.400000000000	NULL	NULL	147	90	0.0011337868480725624
+ivory item	small lamp with the pretty lace shade	1	1	6	6	0.400000000000	NULL	NULL	1	1	0.16666666666666666
+ivory item	souvenir	1	1	6	6	0.400000000000	NULL	NULL	301	153	0.0005537098560354374
+ivory item	scrimshaw	1	1	6	6	0.400000000000	NULL	NULL	15	14	0.01111111111111111
+ivory item	small sculpture	1	1	6	6	0.400000000000	NULL	NULL	20	20	0.008333333333333333
+ivory league university	Princeton	1	1	1	1	NULL	NULL	NULL	630	199	0.0015873015873015873
+ivory object	seal	1	1	1	1	0.500000000000	NULL	NULL	1274	416	0.0007849293563579278
+ivory piece	Japanese Netsuki	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivory product	walking stick	1	1	3	3	NULL	NULL	NULL	199	88	0.001675041876046901
+ivory product	bangle	1	1	3	3	NULL	NULL	NULL	234	118	0.0014245014245014244
+ivory product	comb	1	1	3	3	NULL	NULL	NULL	1008	287	0.00033068783068783067
+Ivory spray paint	Krylon	1	1	1	1	1.000000000000	NULL	NULL	44	27	0.022727272727272728
+ivory ticklers	Ann Budd	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ivory ticklers	Michael Jack	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivory tower	U. Chi	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivory tower critic	Reich	1	1	2	2	1.000000000000	NULL	NULL	28	14	0.017857142857142856
+ivory tower critic	Piero Scaruffi	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+ivory tower liberal	Senator Leahy	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivory-colored sauce	veloute	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ivory-tower academic	Hans Klein from the Georgia Institute of Technology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivory-tower academic	Milton Meuller from Syracuse University	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivory-tower medium company	News Networks	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivory-tower medium company	Emap Online	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivory-tower medium company	Associated Newspapers	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+ivory-tower solution	Guttler-Rossman transformation	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivr	information delivery ivr	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVR application	Unity Call Handler	1	0	5	5	NULL	NULL	NULL	1	1	0.2
+IVR application	account management	1	1	5	5	NULL	NULL	NULL	155	105	0.0012903225806451613
+IVR application	telephone banking application	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+ivr application	traditional ivr application	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+IVR application	information	1	1	5	5	NULL	NULL	NULL	1615	616	0.0001238390092879257
+IVR function	claim status	2	1	5	4	1.000000000000	NULL	NULL	14	6	0.05714285714285715
+IVR function	prompt playing	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+IVR function	digit collection	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+IVR function	messaging recording	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+IVR initiative	Global Adjuvant Development Initiative	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVR parameter	menu sequence	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVR parameter	sentence framing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVR product	call group	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+IVR solution	Automated ordering solution	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVR solution	appointment scheduling	1	1	2	2	NULL	NULL	NULL	104	70	0.004807692307692308
+IVR system	banking	2	2	6	5	0.333333333333	NULL	NULL	4474	1123	0.00014900908955446283
+IVR system	phone customer service	1	1	6	5	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+IVR system	company phone directory	1	1	6	5	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+IVR system	telephone banking	1	1	6	5	0.333333333333	NULL	NULL	88	54	0.0018939393939393938
+IVR system	dictation software	1	1	6	5	0.333333333333	NULL	NULL	11	6	0.01515151515151515
+IVR technology	synthetic speech	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+IVR vendor	Nortel	1	1	1	1	NULL	NULL	NULL	603	265	0.001658374792703151
+ivritigating circumstance	extreme provocation	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+ivritigating circumstance	no threat of bodily harm	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVRs	IVR 1022	4	2	4	1	NULL	NULL	NULL	4	1	1
+ivs	oak species ivs	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+IVS option	cover charge	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+IVUS study	Stent Treatment Region Assessed by Ultrasound Tomography	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVUS system	iLab Ultrasound Imaging System from Boston Scientific	2	1	3	2	0.500000000000	NULL	NULL	2	1	0.6666666666666666
+IVUS system	Mass	1	1	3	2	0.500000000000	NULL	NULL	1301	515	0.00025621316935690495
+IVUS technology	computer-assisted gray-scale value analysis	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IVUS technology	virtual histology	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivus-based technique	elastography	1	1	1	1	1.000000000000	NULL	NULL	29	20	0.034482758620689655
+IVUS-detected adverse vessel response	late-acquired incomplete apposition	1	1	1	1	NULL	NULL	NULL	1	1	1
+IVWs	Second Life	1	1	1	1	NULL	NULL	NULL	1066	348	0.0009380863039399625
+ivy	English ivy	6	6	37	22	0.454545454545	NULL	NULL	406	129	0.0023964851551058447
+ivy	Harvard	4	4	37	22	0.454545454545	NULL	NULL	2040	544	0.00021197668256491787
+ivy	Cornell	4	2	37	22	0.454545454545	NULL	NULL	380	129	0.0011379800853485065
+ivy	Dartmouth	3	1	37	22	0.454545454545	NULL	NULL	226	89	0.0010762975364745277
+ivy	Princeton	2	2	37	22	0.454545454545	NULL	NULL	630	199	0.0001716001716001716
+ivy	Boston ivy	2	2	37	22	0.454545454545	NULL	NULL	51	26	0.0021197668256491787
+ivy	HYP	1	1	37	22	0.454545454545	NULL	NULL	12	7	0.0022522522522522522
+ivy	large leaved ivy	1	1	37	22	0.454545454545	NULL	NULL	1	1	0.02702702702702703
+ivy	Algerian Ivy	1	1	37	22	0.454545454545	NULL	NULL	9	8	0.003003003003003003
+ivy	U Penn's Wharton school	1	1	37	22	0.454545454545	NULL	NULL	1	1	0.02702702702702703
+ivy	Middlebury	1	1	37	22	0.454545454545	NULL	NULL	65	34	0.0004158004158004158
+ivy	Penn	1	1	37	22	0.454545454545	NULL	NULL	137	49	0.00019727756954034326
+ivy	Sulphur Heart	1	1	37	22	0.454545454545	NULL	NULL	1	1	0.02702702702702703
+ivy	Wesleyan	1	1	37	22	0.454545454545	NULL	NULL	44	22	0.0006142506142506142
+ivy	America Ivy	1	1	37	22	0.454545454545	NULL	NULL	1	1	0.02702702702702703
+ivy	Swarthmore	1	1	37	22	0.454545454545	NULL	NULL	70	35	0.0003861003861003861
+ivy	Wellesley	1	1	37	22	0.454545454545	NULL	NULL	80	42	0.00033783783783783786
+ivy	Amherst	1	1	37	22	0.454545454545	NULL	NULL	148	57	0.00018261504747991235
+ivy	Columbia	1	1	37	22	0.454545454545	NULL	NULL	1145	374	0.000023604390416617492
+ivy	climbing euonymus	1	1	37	22	0.454545454545	NULL	NULL	2	2	0.013513513513513514
+ivy	invasive species called English ivy	1	1	37	22	0.454545454545	NULL	NULL	1	1	0.02702702702702703
+ivy	Virginia creeper	1	1	37	22	0.454545454545	NULL	NULL	136	48	0.0001987281399046105
+ivy design	heart	1	1	2	2	NULL	NULL	NULL	4575	1258	0.0001092896174863388
+ivy design	spiral	1	1	2	2	NULL	NULL	NULL	432	233	0.0011574074074074073
+ivy flowering plant	traffic light	1	1	1	1	NULL	NULL	NULL	285	189	0.0035087719298245615
+ivy league	Harvard	6	6	25	13	0.333333333333	NULL	NULL	2040	544	0.0007058823529411764
+ivy league	Brown	2	1	25	13	0.333333333333	NULL	NULL	4244	1139	0.00003770028275212064
+ivy league	Dartmouth	2	2	25	13	0.333333333333	NULL	NULL	226	89	0.0007079646017699115
+ivy league	Stanford University	2	2	25	13	0.333333333333	NULL	NULL	189	80	0.0008465608465608466
+ivy league	London Business School	2	2	25	13	0.333333333333	NULL	NULL	72	44	0.0022222222222222222
+ivy league	Wharton School	2	2	25	13	0.333333333333	NULL	NULL	16	12	0.01
+ivy league	Cornell	2	1	25	13	0.333333333333	NULL	NULL	380	129	0.0004210526315789474
+ivy league	Kellogg School of Management	2	2	25	13	0.333333333333	NULL	NULL	6	4	0.02666666666666667
+ivy league	rich ivy league	1	1	25	13	0.333333333333	NULL	NULL	2	2	0.02
+ivy league	University of Pennsylvania	1	1	25	13	0.333333333333	NULL	NULL	180	66	0.00022222222222222223
+ivy league	MIT	1	1	25	13	0.333333333333	NULL	NULL	52	30	0.0007692307692307692
+ivy league	Yale	1	1	25	13	0.333333333333	NULL	NULL	1077	279	0.000037140204271123495
+ivy league	Columbia	1	1	25	13	0.333333333333	NULL	NULL	1145	374	0.000034934497816593884
+ivy league actress	Jennifer Beals	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+ivy league actress	Yale's Jodie Foster	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ivy league b-schools	Harvard	1	1	1	1	NULL	NULL	NULL	2040	544	0.0004901960784313725
+ivy league college	Harvard	12	11	40	12	0.181818181818	NULL	NULL	2040	544	0.001764705882352941
+ivy league college	Yale	10	9	40	12	0.181818181818	NULL	NULL	1077	279	0.002321262766945218
+ivy league college	Princeton	5	5	40	12	0.181818181818	NULL	NULL	630	199	0.000992063492063492
+ivy league college	Stanford	3	3	40	12	0.181818181818	NULL	NULL	1098	332	0.00020491803278688522
+ivy league college	UPenn	2	1	40	12	0.181818181818	NULL	NULL	31	16	0.0032258064516129032
+ivy league college	Dartmouth	2	2	40	12	0.181818181818	NULL	NULL	226	89	0.00044247787610619474
+ivy league college	Columbia	1	1	40	12	0.181818181818	NULL	NULL	1145	374	0.00002183406113537118
+ivy league college	Harvard University	1	1	40	12	0.181818181818	NULL	NULL	228	97	0.00010964912280701755
+ivy league college	Brown	1	1	40	12	0.181818181818	NULL	NULL	4244	1139	0.0000058906691800188505
+ivy league college	prestigious ivy league college	1	1	40	12	0.181818181818	NULL	NULL	2	2	0.0125
+ivy league college	Wharton school	1	1	40	12	0.181818181818	NULL	NULL	16	12	0.0015625
+ivy league college	Cornell	1	1	40	12	0.181818181818	NULL	NULL	380	129	0.00006578947368421052
+Ivy League college campus	Yale	1	1	1	1	NULL	NULL	NULL	1077	279	0.0009285051067780873
+ivy league counterpart	Harvard	2	2	2	1	NULL	NULL	NULL	2040	544	0.000980392156862745
+ivy league educational institution	india's ivy league educational institution	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ivy league heroes	Nandamuri Balakrishna	1	1	1	1	1.000000000000	NULL	NULL	15	3	0.06666666666666667
+ivy league institution	Harvard	10	10	34	16	0.214285714285	NULL	NULL	2040	544	0.0014417531718569781
+ivy league institution	Yale	7	7	34	16	0.214285714285	NULL	NULL	1077	279	0.0013381397127095963
+ivy league institution	Princeton	3	3	34	16	0.214285714285	NULL	NULL	630	199	0.0004201680672268908
+ivy league institution	Dartmouth	2	2	34	16	0.214285714285	NULL	NULL	226	89	0.0005205622071837585
+ivy league institution	Columbia	1	1	34	16	0.214285714285	NULL	NULL	1145	374	0.000025687130747495506
+ivy league institution	M.I.T	1	1	34	16	0.214285714285	NULL	NULL	11	10	0.00267379679144385
+ivy league institution	Brown University	1	1	34	16	0.214285714285	NULL	NULL	64	24	0.00045955882352941176
+ivy league institution	Stanford University	1	1	34	16	0.214285714285	NULL	NULL	189	80	0.0001556178026766262
+ivy league institution	Yale University	1	1	34	16	0.214285714285	NULL	NULL	121	54	0.00024307243558580456
+ivy league institution	year ivy league institution	1	1	34	16	0.214285714285	NULL	NULL	2	2	0.014705882352941176
+ivy league institution	american ivy league institution	1	1	34	16	0.214285714285	NULL	NULL	2	2	0.014705882352941176
+ivy league institution	Dartmouth College	1	1	34	16	0.214285714285	NULL	NULL	56	22	0.0005252100840336134
+ivy league institution	Cornell University	1	1	34	16	0.214285714285	NULL	NULL	143	56	0.00020567667626491154
+ivy league institution	Cornell	1	1	34	16	0.214285714285	NULL	NULL	380	129	0.00007739938080495357
+ivy league institution	Stanford	1	1	34	16	0.214285714285	NULL	NULL	1098	332	0.000026786670952534018
+ivy league institution	Oxford	1	1	34	16	0.214285714285	NULL	NULL	937	364	0.000031389289974260783
+Ivy League marquee school	Cornell	1	1	1	1	NULL	NULL	NULL	380	129	0.002631578947368421
+ivy league program	Cornell	1	1	1	1	NULL	NULL	NULL	380	129	0.002631578947368421
+ivy league school	Harvard	63	57	240	30	0.714285714285	NULL	NULL	2040	544	0.008106617647058825
+ivy league school	Yale	40	35	240	30	0.714285714285	NULL	NULL	1077	279	0.006190034045187248
+ivy league school	Princeton	27	23	240	30	0.714285714285	NULL	NULL	630	199	0.004821428571428572
+ivy league school	Columbia	18	18	240	30	0.714285714285	NULL	NULL	1145	374	0.0011790393013100435
+ivy league school	Cornell	15	15	240	30	0.714285714285	NULL	NULL	380	129	0.0024671052631578946
+ivy league school	Brown	12	11	240	30	0.714285714285	NULL	NULL	4244	1139	0.00014137606032045243
+ivy league school	Harvard University	8	8	240	30	0.714285714285	NULL	NULL	228	97	0.0011695906432748538
+ivy league school	University of Pennsylvania	8	7	240	30	0.714285714285	NULL	NULL	180	66	0.0014814814814814814
+ivy league school	Dartmouth	7	7	240	30	0.714285714285	NULL	NULL	226	89	0.0009033923303834808
+ivy league school	Princeton University	6	6	240	30	0.714285714285	NULL	NULL	80	34	0.0018750000000000004
+ivy league school	Penn	5	5	240	30	0.714285714285	NULL	NULL	137	49	0.0007603406326034063
+ivy league school	Stanford	4	4	240	30	0.714285714285	NULL	NULL	1098	332	0.00006071645415907711
+ivy league school	Yale University	4	4	240	30	0.714285714285	NULL	NULL	121	54	0.0005509641873278236
+ivy league school	Brown University	4	4	240	30	0.714285714285	NULL	NULL	64	24	0.0010416666666666667
+ivy league school	Cornell University	3	3	240	30	0.714285714285	NULL	NULL	143	56	0.0002622377622377623
+ivy league school	U of P	2	2	240	30	0.714285714285	NULL	NULL	8	4	0.0020833333333333333
+ivy league school	Columbia University	1	1	240	30	0.714285714285	NULL	NULL	156	64	0.00002670940170940171
+ivy league school	Dartmouth College	1	1	240	30	0.714285714285	NULL	NULL	56	22	0.0000744047619047619
+ivy league school	american ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	fbs school ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	Oxford and Cambridge	1	1	240	30	0.714285714285	NULL	NULL	1	1	0.004166666666666667
+ivy league school	Duke	1	1	240	30	0.714285714285	NULL	NULL	737	278	0.000005653550429669833
+ivy league school	IIT	1	1	240	30	0.714285714285	NULL	NULL	26	29	0.00016025641025641026
+ivy league school	elite ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	weak ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	prestigious and ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	Colombia	1	1	240	30	0.714285714285	NULL	NULL	2272	330	0.0000018339201877934272
+ivy league school	top ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	america's ivy league school	1	1	240	30	0.714285714285	NULL	NULL	2	2	0.0020833333333333333
+ivy league school	Boston University	1	1	240	30	0.714285714285	NULL	NULL	155	62	0.000026881720430107527
+ivy league sport	golf	1	1	2	2	NULL	NULL	NULL	6842	1226	0.00007307804735457468
+ivy league sport	rowing	1	1	2	2	NULL	NULL	NULL	1029	309	0.00048590864917395527
+ivy league team	Harvard	1	1	1	1	NULL	NULL	NULL	2040	544	0.0004901960784313725
+ivy league university	Harvard	15	15	55	16	0.200000000000	NULL	NULL	2040	544	0.0020053475935828875
+ivy league university	Yale	13	12	55	16	0.200000000000	NULL	NULL	1077	279	0.0028530429644635772
+ivy league university	Princeton	9	9	55	16	0.200000000000	NULL	NULL	630	199	0.0023376623376623377
+ivy league university	MIT Sloan	2	1	55	16	0.200000000000	NULL	NULL	9	4	0.00808080808080808
+ivy league university	Columbia	2	2	55	16	0.200000000000	NULL	NULL	1145	374	0.00006351726875744343
+ivy league university	Dartmouth	2	2	55	16	0.200000000000	NULL	NULL	226	89	0.00032180209171359613
+ivy league university	Cornell	2	2	55	16	0.200000000000	NULL	NULL	380	129	0.00019138755980861242
+ivy league university	University of Pennsylvania	2	2	55	16	0.200000000000	NULL	NULL	180	66	0.00040404040404040404
+ivy league university	respected ivy league university	1	1	55	16	0.200000000000	NULL	NULL	2	2	0.00909090909090909
+ivy league university	private american ivy league university	1	1	55	16	0.200000000000	NULL	NULL	2	2	0.00909090909090909
+ivy league university	Pennsylvania	1	1	55	16	0.200000000000	NULL	NULL	2814	276	0.000006461200491051237
+ivy league university	big us ``ivy league'' university	1	1	55	16	0.200000000000	NULL	NULL	2	2	0.00909090909090909
+ivy league university	Carnegie Mellon	1	1	55	16	0.200000000000	NULL	NULL	118	49	0.00015408320493066256
+ivy league university	Harvard Univ.	1	1	55	16	0.200000000000	NULL	NULL	1	1	0.01818181818181818
+ivy league university	Yale university	1	1	55	16	0.200000000000	NULL	NULL	121	54	0.00015026296018031554
+ivy league university	Yale Univ.	1	1	55	16	0.200000000000	NULL	NULL	1	1	0.01818181818181818
+ivy league-affiliated institution	Yale-New Haven Hospital	2	2	2	1	1.000000000000	NULL	NULL	10	7	0.2
+ivy leagueandthe major state university	UC Berkeley	1	1	2	2	NULL	NULL	NULL	139	61	0.0035971223021582736
+ivy leagueandthe major state university	Michigan	1	1	2	2	NULL	NULL	NULL	2908	432	0.000171939477303989
+ivy leauge school	Harvard	1	1	1	1	NULL	NULL	NULL	2040	544	0.0004901960784313725
+ivy plant	wisteria	1	1	5	5	0.500000000000	NULL	NULL	298	115	0.0006711409395973155
+ivy plant	pothos at the top	1	1	5	5	0.500000000000	NULL	NULL	1	1	0.2
+ivy plant	morning glory	1	1	5	5	0.500000000000	NULL	NULL	346	143	0.0005780346820809249
+ivy plant	Algerian ivy	1	1	5	5	0.500000000000	NULL	NULL	9	8	0.022222222222222223
+ivy plant	pathos	1	1	5	5	0.500000000000	NULL	NULL	36	28	0.005555555555555556
+ivy school	top tier ivy school	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ivy team	Harvard	1	1	2	3	NULL	NULL	NULL	2040	544	0.00024509803921568627
+ivy team	Yale	1	1	2	3	NULL	NULL	NULL	1077	279	0.00046425255338904364
+ivy type league	University Athletic League	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivy vine	English Ivy	1	1	2	2	0.500000000000	NULL	NULL	406	129	0.0012315270935960591
+ivy vine	Boston Ivy	1	1	2	2	0.500000000000	NULL	NULL	51	26	0.00980392156862745
+ivy's accessory	local jewelry	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+ivy's accessory	belt buckle	1	1	3	3	NULL	NULL	NULL	195	91	0.0017094017094017094
+ivy's accessory	scarf	1	1	3	3	NULL	NULL	NULL	2821	751	0.00011816140848398913
+ivy's simpler move	normal Biting Raven	1	1	1	1	NULL	NULL	NULL	1	1	1
+ivy-league school	Harvard	3	3	5	3	NULL	NULL	NULL	2040	544	0.0008823529411764705
+ivy-league school	Yale	1	1	5	3	NULL	NULL	NULL	1077	279	0.00018570102135561747
+ivy-league school	Princeton	1	1	5	3	NULL	NULL	NULL	630	199	0.00031746031746031746
+ivy-league university	Columbia	1	1	4	4	NULL	NULL	NULL	1145	374	0.0002183406113537118
+ivy-league university	Harvard	1	1	4	4	NULL	NULL	NULL	2040	544	0.00012254901960784314
+ivy-league university	Harvard University	1	1	4	4	NULL	NULL	NULL	228	97	0.0010964912280701754
+ivy-league university	Columbia University	1	1	4	4	NULL	NULL	NULL	156	64	0.0016025641025641025
+ivy-like plant	Boston ivy	1	1	1	1	1.000000000000	NULL	NULL	51	26	0.0196078431372549
+Ivye jokesters	Daniel Leybman	1	1	1	1	NULL	NULL	NULL	1	1	1

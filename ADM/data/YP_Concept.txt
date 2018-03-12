@@ -1,0 +1,33 @@
+YP member	Yellow Pages Group	1	1	1	1	NULL	NULL	NULL	9	3	0.1111111111111111
+YPbPr output device	PS2	1	1	1	1	NULL	NULL	NULL	90	44	0.011111111111111112
+YPD constituent	vitamin	1	1	2	2	NULL	NULL	NULL	4349	1094	0.00011496895838123707
+YPD constituent	single amino acid	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+ype action	replacement	1	1	1	1	NULL	NULL	NULL	292	176	0.003424657534246575
+ype antagonist	diazoxide	1	1	1	1	1.000000000000	NULL	NULL	73	28	0.0136986301369863
+ype code	ECG abnormality NOS	2	2	2	1	NULL	NULL	NULL	7	3	0.2857142857142857
+ype dopant ion	boron	2	2	2	1	NULL	NULL	NULL	1758	430	0.0011376564277588168
+ype dopants	arsenic	1	1	2	2	NULL	NULL	NULL	3806	732	0.00013137151865475564
+ype dopants	phosphorous	1	1	2	2	NULL	NULL	NULL	937	245	0.0005336179295624333
+ype galaxy	M32	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ype school	parental school	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ype school	day school for the oral instruction of the deaf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yped film	Kambakhht Ishq	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+yped film	Main Aurr Mrs Khanna	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ypes	DC-6	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+ypes	DC-8	1	1	2	2	1.000000000000	NULL	NULL	13	7	0.038461538461538464
+ypesof progressive dementia	Alzheimer disease	1	1	1	1	NULL	NULL	NULL	177	69	0.005649717514124294
+ypical maltese delicacy	Maltese olive	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+ypical maltese delicacy	goat's cheese	1	1	4	4	0.500000000000	NULL	NULL	37	27	0.006756756756756757
+ypical maltese delicacy	Maltese honey	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+ypical maltese delicacy	sun-dried tomato	1	1	4	4	0.500000000000	NULL	NULL	109	74	0.0022935779816513763
+ypical nonlinear effect	selection effect	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+ypical out-of-hours time	overnight	1	1	1	1	NULL	NULL	NULL	201	85	0.004975124378109453
+ypical technique	hazard identification	1	1	1	1	1.000000000000	NULL	NULL	38	30	0.02631578947368421
+yping method	VNTR	1	1	1	1	1.000000000000	NULL	NULL	12	9	0.08333333333333333
+ypma's recommendation	Le Mas de la Coutettaz in Morzine	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ypma's recommendation	Champ des Oiseaux in Troyes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+YPN activity	quarterly luncheon	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+YPN activity	monthly mixer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ypsi great	Beezy's Cafe	1	1	1	1	NULL	NULL	NULL	1	1	1
+ypt's ongoing program	Great Wazoo Drama Club	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ypt's ongoing program	Young People's Theatre Holiday Choir	1	1	2	2	NULL	NULL	NULL	1	1	0.5

@@ -1,0 +1,176 @@
+vs MC variable	torsions rotating methyl group	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vs MC variable	NH2 group	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+vs. institution situation	medical	2	1	2	1	NULL	NULL	NULL	3750	1210	0.0005333333333333334
+vs. Y combination	Ro vs. depth	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+vs2's setting	ring tone	1	1	1	1	NULL	NULL	NULL	152	94	0.006578947368421052
+VS2003 asp control	label	1	1	1	1	NULL	NULL	NULL	1519	641	0.0006583278472679394
+vs2005 environment	MultiThread Debug DLL	2	1	2	1	NULL	NULL	NULL	2	1	1
+vs3's setting	ring tone	1	1	1	1	NULL	NULL	NULL	152	94	0.006578947368421052
+VSA event	cultural dances in the Winter show	1	1	1	1	NULL	NULL	NULL	1	1	1
+vsa's activity	Mid-Autumn	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VSAC web tool	VT Guidance Central	1	0	1	1	NULL	NULL	NULL	1	1	1
+vsac's outreach program	Talent Search	1	1	1	1	1.000000000000	NULL	NULL	23	13	0.043478260869565216
+VSAM file error	no available space	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSAs	Drake University	1	1	2	2	0.500000000000	NULL	NULL	6	5	0.08333333333333333
+VSAs	Binary Splatter Codes	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+VSAT outdoor unit	transceiver electronics	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VSAT outdoor unit	antennas	1	1	2	2	NULL	NULL	NULL	540	234	0.000925925925925926
+VSAT provider	Spacenet	1	0	1	1	NULL	NULL	NULL	5	4	0.2
+VSAT satellite com-municationshave many advantage	low cost	1	1	3	3	NULL	NULL	NULL	437	113	0.0007627765064836002
+VSAT satellite com-municationshave many advantage	high reliability	1	1	3	3	NULL	NULL	NULL	103	33	0.0032362459546925564
+VSAT satellite com-municationshave many advantage	high quality of transmission	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VSAT Sub-Systems	ODU	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+VSAT Sub-Systems	covering C Enhanced C	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vsat system	optus	1	1	2	2	NULL	NULL	NULL	185	85	0.002702702702702703
+vsat system	Personal Earth Station by Hughes Network Systems	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VSB digital library resource	Ebsco	1	1	2	2	NULL	NULL	NULL	95	53	0.005263157894736842
+VSB digital library resource	Biography in Context	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VSC characteristic	impermanence	1	1	1	1	1.000000000000	NULL	NULL	24	15	0.041666666666666664
+VSC converter topologies	two-level VSC	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSC offer additional benefit	rental coverage	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+VSCC event	Prescott Wiscombe	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSCs	UPFC	1	1	2	2	0.500000000000	NULL	NULL	8	7	0.0625
+VSCs	Virtual Money Makers	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+VSD group	VSD group1	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSD manufacturer	ABB	2	2	2	1	NULL	NULL	NULL	510	223	0.00392156862745098
+VSD material	Shocking Technologies XStatic	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSD technology	Switched reluctance drive	1	1	1	1	NULL	NULL	NULL	1	1	1
+vsd-related complication	endocarditis	1	1	1	1	NULL	NULL	NULL	354	144	0.002824858757062147
+VSDs	muscular VSDs	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VSE base function	console command	1	1	3	3	NULL	NULL	NULL	8	4	0.041666666666666664
+VSE base function	job	1	1	3	3	NULL	NULL	NULL	1446	571	0.0002305209774089442
+VSE base function	CICS transaction	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VSE power voice-automated application	automated carrier directory assistance	1	1	1	1	NULL	NULL	NULL	1	1	1
+vsextremelywet area	Pacific Northwest	1	1	1	1	NULL	NULL	NULL	192	75	0.005208333333333333
+VSFA member	Castleton Crackers	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSG service program	Angel Tree	1	1	2	2	1.000000000000	NULL	NULL	40	21	0.0125
+VSG service program	strengthening the Dismas House Project	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+vshield edge network setting	default gateway	1	1	2	2	NULL	NULL	NULL	58	27	0.008620689655172414
+vshield edge network setting	subnet mask	1	1	2	2	NULL	NULL	NULL	123	52	0.0040650406504065045
+VSI controller	MPLS controller	4	1	8	3	1.000000000000	NULL	NULL	4	1	0.5
+VSI controller	PNNI controller by using the addshelf command with the VSI option	2	1	8	3	1.000000000000	NULL	NULL	2	1	0.25
+VSI controller	PNNI controller	2	1	8	3	1.000000000000	NULL	NULL	2	1	0.25
+VSI propulsion system	electric plasma thruster	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSIA member company	Motorola	1	1	2	2	NULL	NULL	NULL	4547	1131	0.00010996261271167803
+VSIA member company	Nokia	1	1	2	2	NULL	NULL	NULL	3672	1047	0.00013616557734204794
+vskitematerials	SrTiO 3	1	1	1	1	1.000000000000	NULL	NULL	42	31	0.023809523809523808
+VSL collection	Opus I	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+vsl's legacy product	First Edition	2	2	2	1	1.000000000000	NULL	NULL	15	11	0.13333333333333333
+VSM feature	rounded cabinet corner	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VSM feature	edge	1	1	3	3	NULL	NULL	NULL	708	364	0.00047080979284369113
+VSM feature	Pseudo Devices	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+VSM receptor	PDGF	1	1	1	1	NULL	NULL	NULL	235	65	0.00425531914893617
+VSM researcher	Espejo	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+VSM willneedprocess datum	changeover	1	1	4	4	1.000000000000	NULL	NULL	7	7	0.03571428571428571
+VSM willneedprocess datum	setup time	1	1	4	4	1.000000000000	NULL	NULL	33	20	0.007575757575757576
+VSM willneedprocess datum	process time	1	1	4	4	1.000000000000	NULL	NULL	36	19	0.006944444444444444
+VSM willneedprocess datum	line clearance time	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+VSMC differentiation marker gene	SM alpha-actin	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+VSMC mitogens	platelet-derived growth factor	1	1	1	1	NULL	NULL	NULL	306	82	0.0032679738562091504
+VSN management function	detecting multiple VSNs	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSNS program	Wavy's World	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSO	VFW	2	2	4	3	0.500000000000	NULL	NULL	206	84	0.0048543689320388345
+VSO	MOPH	1	1	4	3	0.500000000000	NULL	NULL	2	2	0.125
+VSO	American Legion	1	1	4	3	0.500000000000	NULL	NULL	464	134	0.0005387931034482759
+VSO activity	holding national office	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+VSO activity	skills competition	1	1	3	3	1.000000000000	NULL	NULL	9	7	0.037037037037037035
+VSO activity	leadership conference	1	1	3	3	1.000000000000	NULL	NULL	26	16	0.01282051282051282
+VSO critic	Jim Strickland	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSO language	Welsh	3	3	6	4	0.333333333333	NULL	NULL	143	67	0.01048951048951049
+VSO language	Hebrew	1	1	6	4	0.333333333333	NULL	NULL	682	160	0.00024437927663734115
+VSO language	formal Arabic	1	1	6	4	0.333333333333	NULL	NULL	1	1	0.16666666666666666
+VSO language	Arabic	1	1	6	4	0.333333333333	NULL	NULL	1361	284	0.0001224589762429586
+VSO volunteer	nurse	2	2	4	2	NULL	NULL	NULL	4227	1158	0.0002365744026496333
+VSO volunteer	preventative health specialist	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+VSOs	American Legion	3	3	5	3	0.625000000000	NULL	NULL	464	134	0.0038793103448275857
+VSOs	Marine Corps League	1	1	5	3	0.625000000000	NULL	NULL	15	10	0.013333333333333334
+VSOs	VFW	1	1	5	3	0.625000000000	NULL	NULL	206	84	0.0009708737864077671
+vsp	sip compatible vsp	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+VSP	Engin	1	1	2	2	1.000000000000	NULL	NULL	10	9	0.05
+VSP -metric	productivity	1	1	1	1	NULL	NULL	NULL	1123	481	0.0008904719501335708
+VSP diversity datum	entry timing	2	1	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+VSP diversity datum	length	2	1	4	2	NULL	NULL	NULL	2515	997	0.00039761431411530816
+VSP employee	Bev Thorn	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSP parameter	returns per spawner	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSPackages	Projects	1	1	1	1	1.000000000000	NULL	NULL	25	42	0.04
+vspapers	Detroit Free Press	1	1	2	2	1.000000000000	NULL	NULL	35	15	0.014285714285714285
+vspapers	Detroit News	1	1	2	2	1.000000000000	NULL	NULL	15	11	0.03333333333333333
+vspecial condition	accessible fixture	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+vsphere feature	template	1	1	2	2	NULL	NULL	NULL	701	328	0.0007132667617689016
+vsphere feature	cloning	1	1	2	2	NULL	NULL	NULL	718	283	0.0006963788300835655
+vsphere object	virtual machine	2	0	4	2	0.500000000000	NULL	NULL	64	49	0.015625
+vsphere object	template	2	0	4	2	0.500000000000	NULL	NULL	701	328	0.0014265335235378032
+vsphere task	cloning	1	1	3	3	NULL	NULL	NULL	718	283	0.0004642525533890436
+vsphere task	Storage vmotion	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+vsphere task	provisioning new virtual machine	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+vsphere's advanced feature	vmotion	1	1	3	3	NULL	NULL	NULL	76	33	0.0043859649122807015
+vsphere's advanced feature	Fault Tolerance	1	1	3	3	NULL	NULL	NULL	156	87	0.0021367521367521365
+vsphere's advanced feature	Distributed Resource Scheduler	1	1	3	3	NULL	NULL	NULL	8	3	0.041666666666666664
+vsphere's built-in resource control	share	1	1	1	1	NULL	NULL	NULL	794	241	0.0012594458438287153
+VSPs	Pennytel	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VSPs	WDP	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+VSPs	Sipme	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+VSPX form control	text	1	1	3	3	NULL	NULL	NULL	3231	1203	0.00010316723408645414
+VSPX form control	form	1	1	3	3	NULL	NULL	NULL	2051	857	0.00016252234682268812
+VSPX form control	button	1	1	3	3	NULL	NULL	NULL	4383	1440	0.00007605141075366947
+VSRs	P19 from CymRSV	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+VSS application	SQL Server	1	1	3	3	NULL	NULL	NULL	862	354	0.0003866976024748646
+VSS application	Exchange Server	1	1	3	3	NULL	NULL	NULL	123	65	0.0027100271002710027
+VSS application	SharePoint	1	1	3	3	NULL	NULL	NULL	344	154	0.0009689922480620155
+VSS aware application	MS Exchange	1	1	1	1	1.000000000000	NULL	NULL	48	35	0.020833333333333332
+VSS database setting	certain srcsafe.ini setting	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSS forest	Yerragunta	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSS remote add-on tool	SourceAnywhere for VSS	1	1	1	1	NULL	NULL	NULL	1	1	1
+vss-aware application	SQL	1	1	2	2	NULL	NULL	NULL	598	274	0.0008361204013377926
+vss-aware application	Exchange	1	1	2	2	NULL	NULL	NULL	715	396	0.0006993006993006993
+VSS2004 CORE enhancement core model	variable gain amplifier	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+VSS2004 CORE enhancement core model	lookup table	1	1	2	2	1.000000000000	NULL	NULL	50	37	0.01
+vst	guitar rig	1	1	1	1	0.500000000000	NULL	NULL	14	12	0.07142857142857142
+VST 2-compatible host environment	Cubase	1	1	2	2	NULL	NULL	NULL	273	136	0.0018315018315018315
+VST 2-compatible host environment	Logic	1	1	2	2	NULL	NULL	NULL	782	380	0.0006393861892583121
+VST compatible sequencer	Logic	1	1	2	2	NULL	NULL	NULL	782	380	0.0006393861892583121
+VST compatible sequencer	Cubase	1	1	2	2	NULL	NULL	NULL	273	136	0.0018315018315018315
+VST distributor	Dell	1	1	1	1	NULL	NULL	NULL	6439	1426	0.00015530361857431278
+VST effect	compression	2	2	6	5	NULL	NULL	NULL	1079	472	0.0006178560395427865
+VST effect	chorus	1	1	6	5	NULL	NULL	NULL	842	277	0.0001979414093428345
+VST effect	Glitch	1	1	6	5	NULL	NULL	NULL	53	34	0.003144654088050314
+VST effect	reverb	1	1	6	5	NULL	NULL	NULL	736	213	0.00022644927536231882
+VST effect	eq	1	1	6	5	NULL	NULL	NULL	228	98	0.0007309941520467836
+vst host	freeware vst host	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VST host	Audacity	1	1	2	2	NULL	NULL	NULL	501	193	0.000998003992015968
+VST host application	Sonar	1	1	3	3	NULL	NULL	NULL	364	210	0.0009157509157509158
+VST host application	Cubase	1	1	3	3	NULL	NULL	NULL	273	136	0.001221001221001221
+VST host application	Reaper	1	1	3	3	NULL	NULL	NULL	92	63	0.003623188405797101
+VST instrument	Native Instruments FM7	9	6	14	6	NULL	NULL	NULL	10	2	0.5785714285714286
+VST instrument	GST Mellotron	1	1	14	6	NULL	NULL	NULL	1	1	0.07142857142857142
+VST instrument	Native Instruments B4	1	1	14	6	NULL	NULL	NULL	1	1	0.07142857142857142
+VST instrument	Imake Sytrus	1	1	14	6	NULL	NULL	NULL	1	1	0.07142857142857142
+VST instrument	vb1 in the vst instruments menu	1	1	14	6	NULL	NULL	NULL	1	1	0.07142857142857142
+VST instrument	Waldorf PPG Wave	1	1	14	6	NULL	NULL	NULL	1	1	0.07142857142857142
+VST menu option	PDA-based Mobile Menu Selection System	1	1	1	1	NULL	NULL	NULL	1	1	1
+VST MIDI window	Arpeggiator	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+VST s	Pod Farm	1	1	1	1	NULL	NULL	NULL	1	1	1
+VST-compatible host software	Sonar	1	1	1	1	NULL	NULL	NULL	364	210	0.0027472527472527475
+VST-to-DirectX adapter	Cakewalk's adapter	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSTi	Spectrasonics	1	1	3	3	0.500000000000	NULL	NULL	5	5	0.06666666666666667
+VSTi	EastWest	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+VSTi	Lounge Lizard	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+VSTi AU	Akoustik Piano	1	0	1	1	NULL	NULL	NULL	2	2	0.5
+VSTi soft synth emulation	Arturia Mini Moog	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSTO resource	video	1	1	3	3	0.333333333333	NULL	NULL	10816	3555	0.00003081854043392505
+VSTO resource	technical article	1	1	3	3	0.333333333333	NULL	NULL	17	16	0.0196078431372549
+VSTO resource	blogs	1	1	3	3	0.333333333333	NULL	NULL	5290	1636	0.0000630119722747322
+VSTs	EZ Drummer	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+VSTs	Sawer	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+VSTS service	application lifecycle management assessment	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSU event	annual chili cook-off	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+VSV-derived APLs	antagonist VSV-E6 andvsv-i1e6	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+VSV-derived APLs	null ligand VSV-R6	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+vswitch property	number of available port	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+vswitch property	uplink configuration	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+VSWR control technique	shaping the hypotenuse of the planar surface	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VSWR controltechniques	shaping the hypotenuse of the planar surface	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+VSX accessory	license key for multi-point	1	1	1	1	NULL	NULL	NULL	1	1	1
+VSX setting	badge ID number	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+VSX setting	commodity information	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+VSX setting	driver information	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555

@@ -1,0 +1,42 @@
+LW attack	Assault Step	1	1	1	1	NULL	NULL	NULL	1	1	1
+lw I. INTRODUCTION direct reaction	one-nucleon transfer reaction	1	1	1	1	NULL	NULL	NULL	1	1	1
+LW scientific product	Zip Centrifuges	1	1	1	1	NULL	NULL	NULL	1	1	1
+LW sideman	Freddy Robinson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+LW sideman	Fred Below	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+lw-r grade fuel	heavy residual fuel	1	1	1	1	NULL	NULL	NULL	1	1	1
+lwa	Erzulie Freda	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lwa	Maman Brigitte	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lwa	Erzulie Dantor	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lwa	Papa Loko	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+lwa	Baron Samedi	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+LWB related publication	Compass	1	1	1	1	NULL	NULL	NULL	820	362	0.0012195121951219512
+LWB van	Mercedes Sprinter	1	1	1	1	NULL	NULL	NULL	7	9	0.14285714285714285
+lwc-related datum source	prior wilderness inventory	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+lwc-related datum source	new externally proposed LWCs	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+LWCF program	Forest Legacy	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+LWD datum	electromagnetic	1	1	1	1	NULL	NULL	NULL	112	74	0.008928571428571428
+LWD structure	bank protection log	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+LWD structure	wing deflector	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+LWD technique	resistivity-at-the-bit log	1	1	1	1	NULL	NULL	NULL	1	1	1
+LWD tool	ADN	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+LWDAQ Driver	LWDAQ Driver with Ethernet Interface A2037E	1	1	1	1	NULL	NULL	NULL	1	1	1
+LWE memo name group	Earth Liberation Front	1	1	3	3	1.000000000000	NULL	NULL	57	25	0.005847953216374269
+LWE memo name group	Stop Huntingdon Animal Cruelty	1	1	3	3	1.000000000000	NULL	NULL	5	3	0.06666666666666667
+LWE memo name group	Animal Liberation Front	1	1	3	3	1.000000000000	NULL	NULL	77	33	0.004329004329004329
+LWF communication document	memorandum	1	1	2	2	NULL	NULL	NULL	280	127	0.0017857142857142857
+LWF communication document	report	1	1	2	2	NULL	NULL	NULL	2947	1093	0.00016966406515100103
+LWF nepal's relevant document	policy of employment	1	1	1	1	NULL	NULL	NULL	1	1	1
+LWG circuit	filter	1	1	2	2	NULL	NULL	NULL	3205	1326	0.00015600624024960998
+LWG circuit	couplers	1	1	2	2	NULL	NULL	NULL	280	123	0.0017857142857142857
+LWIA's	program operated by the County of Los Angeles	1	1	1	1	NULL	NULL	NULL	1	1	1
+lwipwithbluetoothlan access capability	Dial-Up Networking profile	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+lwipwithbluetoothlan access capability	LAN Access Point	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+LWP recommendation	citizen education	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+LWP recommendation	trash removal	1	1	2	2	NULL	NULL	NULL	110	69	0.004545454545454545
+lwpolylines	created with the PLINE command	1	1	1	1	NULL	NULL	NULL	1	1	1
+LWPS heavyweight	Chris Lai	1	1	1	1	NULL	NULL	NULL	1	1	1
+LWRC firearm	LWRC M6A2 rifle	1	1	1	1	NULL	NULL	NULL	1	1	1
+LWRs	General Electric Economic Simplified Boiling Water Reactor	2	1	3	2	NULL	NULL	NULL	4	2	0.3333333333333333
+LWRs	KPNS	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+LWUs	Wyong	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+LWUs	Richmond Valley	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25

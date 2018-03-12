@@ -1,0 +1,711 @@
+OA apparatus	personal computer	1	1	1	1	NULL	NULL	NULL	2291	756	0.00043649061545176777
+OA apparatuses	printer	2	1	9	8	NULL	NULL	NULL	6991	1667	0.00006357380123651043
+OA apparatuses	personal computer	1	1	9	8	NULL	NULL	NULL	2291	756	0.000048498957272418644
+OA apparatuses	telephone with an advanced function	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+OA apparatuses	facsimile	1	1	9	8	NULL	NULL	NULL	389	213	0.00028563267637817766
+OA apparatuses	image scanner	1	1	9	8	NULL	NULL	NULL	83	48	0.0013386880856760374
+OA apparatuses	copying machine	1	1	9	8	NULL	NULL	NULL	275	120	0.00040404040404040404
+OA apparatuses	PPC s	1	1	9	8	NULL	NULL	NULL	1	1	0.1111111111111111
+OA apparatuses	word processor	1	1	9	8	NULL	NULL	NULL	1259	462	0.00008825346394845997
+OA component	meal	1	1	1	1	NULL	NULL	NULL	2138	635	0.0004677268475210477
+OA derivative	diol ester	1	1	1	1	NULL	NULL	NULL	1	1	1
+OA device	personal computer	1	1	3	4	NULL	NULL	NULL	2291	756	0.00014549687181725592
+OA device	printer	1	1	3	4	NULL	NULL	NULL	6991	1667	0.00004768035092738282
+OA device	copier	1	1	3	4	NULL	NULL	NULL	1675	419	0.0001990049751243781
+OA equipment	copier	1	1	2	2	NULL	NULL	NULL	1675	419	0.00029850746268656717
+OA equipment	word processor	1	1	2	2	NULL	NULL	NULL	1259	462	0.0003971405877680699
+OA equipmentcomputer printer	multifunctional peripheral	1	1	7	7	0.666666666666	NULL	NULL	5	4	0.02857142857142857
+OA equipmentcomputer printer	check writer Machine s	1	1	7	7	0.666666666666	NULL	NULL	1	1	0.14285714285714285
+OA equipmentcomputer printer	laser printer	1	1	7	7	0.666666666666	NULL	NULL	515	250	0.00027739251040221914
+OA equipmentcomputer printer	ink-jet printer	1	1	7	7	0.666666666666	NULL	NULL	66	39	0.0021645021645021645
+OA equipmentcomputer printer	bar-code Machine s	1	1	7	7	0.666666666666	NULL	NULL	1	1	0.14285714285714285
+OA equipmentcomputer printer	dot-matrix printer	1	1	7	7	0.666666666666	NULL	NULL	10	9	0.014285714285714285
+OA equipmentcomputer printer	fax Machine s	1	1	7	7	0.666666666666	NULL	NULL	3	3	0.047619047619047616
+OA event	marathon	1	1	3	3	NULL	NULL	NULL	669	243	0.0004982561036372695
+OA event	retreat	1	1	3	3	NULL	NULL	NULL	534	213	0.0006242197253433209
+OA event	Spring	1	1	3	3	NULL	NULL	NULL	2397	949	0.00013906271728549575
+OA form	current Quality Lodge petition	1	1	1	1	NULL	NULL	NULL	1	1	1
+OA framework internal URL parameter	retainam	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OA framework internal URL parameter	bcrumb	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OA initiative	BioMed Central	1	1	1	1	1.000000000000	NULL	NULL	19	14	0.05263157894736842
+OA instrument	personal computer	2	2	3	2	NULL	NULL	NULL	2291	756	0.0005819874872690237
+OA instrument	fourslectrode probe	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+OA issue	economic impact	1	1	3	3	1.000000000000	NULL	NULL	48	23	0.006944444444444444
+OA issue	future trend	1	1	3	3	1.000000000000	NULL	NULL	8	6	0.041666666666666664
+OA issue	quality control consideration	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+OA journal	Earth Systems Science	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+oa journal	electronic oa journal	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OA journal publisher	non-profit Public Library of Science	2	2	2	1	NULL	NULL	NULL	2	1	1
+OA material	PET film	1	1	2	2	0.500000000000	NULL	NULL	47	40	0.010638297872340425
+OA material	animal manure	1	1	2	2	0.500000000000	NULL	NULL	230	102	0.002173913043478261
+OA office automation application	word processor	1	1	2	2	NULL	NULL	NULL	1259	462	0.0003971405877680699
+OA office automation application	personal computer	1	1	2	2	NULL	NULL	NULL	2291	756	0.00021824530772588389
+OA policy	recent Harvard OA policy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OA policy	NIH policy	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OA practice	refraining from eating certain kinds of food	1	1	1	1	NULL	NULL	NULL	1	1	1
+OA protection philosophy	foldover current limiting	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+OA protection philosophy	TSD	1	1	3	3	1.000000000000	NULL	NULL	14	14	0.023809523809523808
+OA protection philosophy	constant current limiting	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+OA publisher	BioMed Central	3	3	6	3	0.666666666666	NULL	NULL	19	14	0.07894736842105263
+OA publisher	Public Library of Science	2	2	6	3	0.666666666666	NULL	NULL	38	23	0.017543859649122806
+OA publisher	BMC	1	1	6	3	0.666666666666	NULL	NULL	135	82	0.0012345679012345679
+OA resource	ceremony	1	1	1	1	NULL	NULL	NULL	265	123	0.0037735849056603774
+oa risk factor	traditional oa risk factor	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+OA subject-related repository	arxiv	1	1	2	2	1.000000000000	NULL	NULL	25	23	0.02
+OA subject-related repository	RePEc	1	1	2	2	1.000000000000	NULL	NULL	4	3	0.125
+OA supporting organization	SPARC	1	1	1	1	NULL	NULL	NULL	91	43	0.01098901098901099
+OA symptom	joint pain	1	1	1	1	NULL	NULL	NULL	712	226	0.0014044943820224719
+OA trial usually short-acting analgesic	paracetamol	1	1	1	1	NULL	NULL	NULL	1812	372	0.0005518763796909492
+OA vehicle	blogs	1	1	2	2	0.200000000000	NULL	NULL	5290	1636	0.0000945179584120983
+OA vehicle	wikis	1	1	2	2	0.200000000000	NULL	NULL	1882	537	0.00026567481402763017
+OA vendor	National Academy of Press	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAA activity	caving	1	1	5	5	0.200000000000	NULL	NULL	251	79	0.0007968127490039841
+OAA activity	raft building	1	1	5	5	0.200000000000	NULL	NULL	55	24	0.0036363636363636364
+OAA activity	orienteering	1	1	5	5	0.200000000000	NULL	NULL	314	101	0.0006369426751592357
+OAA activity	rock climbing	1	1	5	5	0.200000000000	NULL	NULL	1821	481	0.0001098297638660077
+OAA activity	archery	1	1	5	5	0.200000000000	NULL	NULL	1568	415	0.00012755102040816328
+OAA program	Home Delivered Meals	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+OAA program	Title III Supportive Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAA title III service	case management	1	1	2	2	0.500000000000	NULL	NULL	641	251	0.00078003120124805
+OAA title III service	home-delivered meal	1	1	2	2	0.500000000000	NULL	NULL	38	19	0.013157894736842105
+oaa-funded service	meal	4	1	8	2	NULL	NULL	NULL	2138	635	0.0009354536950420954
+oaa-funded service	transportation	4	1	8	2	NULL	NULL	NULL	8378	2254	0.00023872045834328001
+OAB function	annual Convention	1	1	2	4	1.000000000000	NULL	NULL	9	11	0.05555555555555555
+OAB function	Summer Golf Tournament	1	1	2	4	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+OAB meta-data	properties included in the OAB data records along with the OAB meta-data record	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAB symptom	urgency	2	2	3	2	NULL	NULL	NULL	302	93	0.004415011037527594
+OAB symptom	frequency	1	1	3	2	NULL	NULL	NULL	2547	871	0.00013087292239235702
+OAB treatment	oxybutynin	1	1	1	1	NULL	NULL	NULL	125	34	0.008
+OAC related project	Japanese American Relocation Digital Archives	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+OAC tool	Odyssey Access Client Administrator	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+oac-related project	Japanese American Relocation Digital Archives	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+OACE team recommendation	increased supervision	1	1	1	1	1.000000000000	NULL	NULL	6	5	0.16666666666666666
+oad firm	Vanguard	1	1	1	1	NULL	NULL	NULL	454	214	0.0022026431718061676
+oad hazard	poor traction	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oad hazard	visibility	1	1	2	2	NULL	NULL	NULL	491	203	0.0010183299389002036
+oad track	desert	1	1	1	1	NULL	NULL	NULL	980	421	0.0010204081632653062
+oad vehicle	snowmobile	1	1	4	4	NULL	NULL	NULL	401	162	0.0006234413965087282
+oad vehicle	scooter	1	1	4	4	NULL	NULL	NULL	799	439	0.00031289111389236547
+oad vehicle	electric vehicle	1	1	4	4	NULL	NULL	NULL	237	119	0.0010548523206751054
+oad vehicle	golf cart	1	1	4	4	NULL	NULL	NULL	243	315	0.00102880658436214
+OADM technology	acousto-optic tunable filter	1	1	1	1	1.000000000000	NULL	NULL	7	3	0.14285714285714285
+OAE probe microphone	Etymotic ER-10C	1	1	1	1	NULL	NULL	NULL	1	1	1
+oafterdrivingon coastal road owhen contaminant	soot	1	1	2	2	NULL	NULL	NULL	443	192	0.001128668171557562
+oafterdrivingon coastal road owhen contaminant	bird droppings	1	1	2	2	NULL	NULL	NULL	115	61	0.004347826086956522
+OAH committee	Committee on Community Colleges	1	1	1	1	NULL	NULL	NULL	1	1	1
+oahu activity	luau	1	1	1	1	1.000000000000	NULL	NULL	70	24	0.014285714285714285
+oahu area	breakfast homes on the beach front	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+oahu area	has 43 % illegal bed	2	1	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+oahu area	Waimanalo	2	1	6	3	NULL	NULL	NULL	5	4	0.13333333333333333
+oahu bakery	Liliha Bakery	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+oahu golfing & resort destination	Turtle Bay Resort	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oahu landmark	Honolulu Zoo	1	1	1	1	1.000000000000	NULL	NULL	25	13	0.04
+oahu north shore beach	Sunset Beach	1	1	2	2	1.000000000000	NULL	NULL	25	22	0.02
+oahu north shore beach	Waimea Bay	1	1	2	2	1.000000000000	NULL	NULL	15	13	0.03333333333333333
+oahu private hospital	Straub Clinic & Hospital	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oahu private hospital	Kapiolani Medical Center For Women & Children	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oahu private hospital	Pali Momi	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oahu private school	Maryknoll high school	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oahu private school	Maryknoll Convent School	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oahu private school	Kamehameha School	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oahu south shore surf spot	Kaisers	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+oahu south shore surf spot	Lighthouse	1	1	4	4	NULL	NULL	NULL	271	172	0.0009225092250922509
+oahu south shore surf spot	Ala Moana Bowls	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+oahu south shore surf spot	Queens	1	1	4	4	NULL	NULL	NULL	80	47	0.003125
+oahu's best surfing location	Concessions	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+oahu's best surfing location	Big Rights	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+oahu's biggest attraction	Polynesian Cultural Center	1	1	1	1	1.000000000000	NULL	NULL	16	13	0.0625
+oahu's famous sight	Kailua Town	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+oahu's famous sight	Manoa Falls	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+oahu's famous sight	Haunama Bay	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+oahu's famous sight	Diamond Head	1	1	4	4	1.000000000000	NULL	NULL	31	21	0.008064516129032258
+oahu's impressive natural feature	Diamond	1	1	2	2	NULL	NULL	NULL	2545	954	0.00019646365422396856
+oahu's impressive natural feature	Koko Head	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+OAI application	Attendant Console	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+OAI harvester	OAIster	1	1	1	1	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+oai-compliant search engine	University of Michigan's OAIster	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAI-PMH concept	set	1	1	1	1	NULL	NULL	NULL	381	203	0.0026246719160104987
+OAI-Rights	DCMI	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAII science project	SHEBA project	1	0	1	1	NULL	NULL	NULL	1	1	1
+OAIS functional entity	Access	1	1	2	2	NULL	NULL	NULL	2308	763	0.0002166377816291161
+OAIS functional entity	Data Management	1	1	2	2	NULL	NULL	NULL	316	172	0.0015822784810126582
+oak	white oak	7	6	118	62	0.604166666666	NULL	NULL	275	125	0.001510015408320493
+oak	northern red oak	6	5	118	62	0.604166666666	NULL	NULL	70	36	0.004358353510895884
+oak	live oak	6	5	118	62	0.604166666666	NULL	NULL	184	75	0.0016580692704495211
+oak	valley oak	5	5	118	62	0.604166666666	NULL	NULL	32	16	0.0066207627118644065
+oak	water oak	4	4	118	62	0.604166666666	NULL	NULL	43	21	0.0031533307055577452
+oak	chestnut oak	4	3	118	62	0.604166666666	NULL	NULL	36	16	0.003766478342749529
+oak	southern red	4	3	118	62	0.604166666666	NULL	NULL	8	4	0.01694915254237288
+oak	scarlet oak	4	3	118	62	0.604166666666	NULL	NULL	22	13	0.0061633281972265025
+oak	red oak	4	4	118	62	0.604166666666	NULL	NULL	328	161	0.00041339396444811904
+oak	overcup oak	3	3	118	62	0.604166666666	NULL	NULL	12	9	0.006355932203389831
+oak	black oak	3	3	118	62	0.604166666666	NULL	NULL	67	41	0.0011383759170250443
+oak	willow oak	3	3	118	62	0.604166666666	NULL	NULL	20	17	0.0038135593220338985
+oak	Shumard Oak	3	3	118	62	0.604166666666	NULL	NULL	12	9	0.006355932203389831
+oak	pin oak	3	3	118	62	0.604166666666	NULL	NULL	86	34	0.0008868742609381159
+oak	southern red oak	3	3	118	62	0.604166666666	NULL	NULL	12	8	0.006355932203389831
+oak	bur oak	3	3	118	62	0.604166666666	NULL	NULL	96	48	0.0007944915254237289
+oak	cherrybark oak	3	1	118	62	0.604166666666	NULL	NULL	7	5	0.01089588377723971
+oak	black	2	2	118	62	0.604166666666	NULL	NULL	7897	1968	0.000004292554778364666
+oak	Nuttall	2	2	118	62	0.604166666666	NULL	NULL	9	8	0.003766478342749529
+oak	coast live oak	2	2	118	62	0.604166666666	NULL	NULL	33	17	0.001027221366204417
+oak	Interior Live Oaks	2	1	118	62	0.604166666666	NULL	NULL	2	1	0.01694915254237288
+oak	Post oak	2	2	118	62	0.604166666666	NULL	NULL	48	20	0.0007062146892655367
+oak	red	2	2	118	62	0.604166666666	NULL	NULL	9245	2185	0.0000036666636111136572
+oak	Herne's Oak in Windsor Great Park	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	Carya texana	1	1	118	62	0.604166666666	NULL	NULL	7	4	0.0012106537530266344
+oak	scarlett oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	sand post oak	1	1	118	62	0.604166666666	NULL	NULL	3	3	0.002824858757062147
+oak	common native oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	fence post	1	1	118	62	0.604166666666	NULL	NULL	171	96	0.000049558925562493803
+oak	elm	1	1	118	62	0.604166666666	NULL	NULL	764	263	0.00001109237731830686
+oak	Blackjack Oak Quercus marilandica	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	bluejack oak	1	1	118	62	0.604166666666	NULL	NULL	3	3	0.002824858757062147
+oak	Georgia oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	good foreign oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	California white oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	Kellogg oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	laural oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	white	1	1	118	62	0.604166666666	NULL	NULL	6155	1632	0.0000013768604827272853
+oak	White Red Willow N	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	originated in the swamplands of the southern United States	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	Quercus alba	1	1	118	62	0.604166666666	NULL	NULL	6	6	0.0014124293785310734
+oak	Quercus arizonica	1	1	118	62	0.604166666666	NULL	NULL	8	2	0.001059322033898305
+oak	Quercus ilex	1	1	118	62	0.604166666666	NULL	NULL	6	4	0.0014124293785310734
+oak	Quercus lobata	1	1	118	62	0.604166666666	NULL	NULL	2	2	0.00423728813559322
+oak	Quercus virginiana	1	1	118	62	0.604166666666	NULL	NULL	4	3	0.00211864406779661
+oak	Quercus emoryi	1	1	118	62	0.604166666666	NULL	NULL	7	2	0.0012106537530266344
+oak	live oaks in the deep South	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	California black oak	1	1	118	62	0.604166666666	NULL	NULL	11	8	0.0007704160246533128
+oak	blackjack oak	1	1	118	62	0.604166666666	NULL	NULL	13	7	0.000651890482398957
+oak	Nuttall Oak	1	1	118	62	0.604166666666	NULL	NULL	3	3	0.002824858757062147
+oak	Quercus grisea	1	1	118	62	0.604166666666	NULL	NULL	7	2	0.0012106537530266344
+oak	Quercus velutina	1	1	118	62	0.604166666666	NULL	NULL	3	3	0.002824858757062147
+oak	Quercus suber L.	1	1	118	62	0.604166666666	NULL	NULL	2	2	0.00423728813559322
+oak	Quercus falcata	1	1	118	62	0.604166666666	NULL	NULL	6	6	0.0014124293785310734
+oak	Quercus coccinea	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	Quercus stellata	1	1	118	62	0.604166666666	NULL	NULL	9	7	0.0009416195856873823
+oak	Quercus rubra	1	1	118	62	0.604166666666	NULL	NULL	12	7	0.0007062146892655367
+oak	california native oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	Stone Mountain oak near Atlanta	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	dry site oak	1	1	118	62	0.604166666666	NULL	NULL	1	1	0.00847457627118644
+oak	scarlet	1	1	118	62	0.604166666666	NULL	NULL	72	44	0.00011770244821092278
+oak accessory	fireplace mantel	1	1	3	3	0.750000000000	NULL	NULL	40	34	0.008333333333333333
+oak accessory	wall shelf	1	1	3	3	0.750000000000	NULL	NULL	28	22	0.011904761904761904
+oak accessory	baseboard	1	1	3	3	0.750000000000	NULL	NULL	133	85	0.002506265664160401
+oak advance reproduction disturbance	fire	1	1	1	1	NULL	NULL	NULL	9681	2693	0.00010329511414110113
+oak alternative	toasted oak sawdust	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak barrel	Hogshead Barrel	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak bathroom fixture	bathroom decorative mirror	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+oak bathroom fixture	side cabinet	1	1	4	4	0.666666666666	NULL	NULL	14	13	0.017857142857142856
+oak bathroom fixture	bathroom sink cabinet	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+oak bathroom fixture	medicine cabinet	1	1	4	4	0.666666666666	NULL	NULL	54	41	0.004629629629629629
+oak bedroom furniture	wardrobe	1	1	1	1	NULL	NULL	NULL	327	153	0.0030581039755351682
+oak california record storage service	self-storage	1	1	2	2	1.000000000000	NULL	NULL	170	167	0.0029411764705882353
+oak california record storage service	records storage	1	1	2	2	1.000000000000	NULL	NULL	163	161	0.003067484662576687
+oak christian prospect	Marshall Jones	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak companion plant	milkweed	1	1	1	1	NULL	NULL	NULL	178	69	0.0056179775280898875
+oak constituent	Ernest Pacheco	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak cosmetic surgery procedure	liposuction	1	1	2	2	NULL	NULL	NULL	990	244	0.000505050505050505
+oak cosmetic surgery procedure	breast augmentation	1	1	2	2	NULL	NULL	NULL	573	140	0.0008726003490401396
+oak finish	door	1	1	2	2	NULL	NULL	NULL	4440	1565	0.00011261261261261261
+oak finish	case molding	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak foundation's partner	Emmanuel Development Association	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak foundation's partner	Mario Project in Europe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak furniture	oak glass coffee table	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+oak furniture	side table	1	1	5	4	NULL	NULL	NULL	111	61	0.0018018018018018018
+oak furniture	bookshelf	1	1	5	4	NULL	NULL	NULL	189	126	0.0010582010582010583
+oak furniture	oak corner TV stand in a huge range of finish	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+oak furniture piece	desk	1	1	3	3	NULL	NULL	NULL	1351	521	0.0002467308166790032
+oak furniture piece	barrister bookcase	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oak furniture piece	artesian dining table	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oak hardwood	white oak	1	1	2	2	NULL	NULL	NULL	275	125	0.0018181818181818182
+oak hardwood	red oak	1	1	2	2	NULL	NULL	NULL	328	161	0.001524390243902439
+oak hill's policy	dress code	1	1	1	1	NULL	NULL	NULL	249	101	0.004016064257028112
+Oak iDSP design-wins	Hewlett-Packard Co. s Mopier series high-speed monochrome laser MFP	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak item	table	1	1	2	2	0.500000000000	NULL	NULL	6328	2130	0.00007901390644753477
+oak item	antique table	1	1	2	2	0.500000000000	NULL	NULL	8	8	0.0625
+oak joinery product	door	1	1	1	1	NULL	NULL	NULL	4440	1565	0.00022522522522522523
+oak leaf youngster	James Kielt	1	1	1	1	NULL	NULL	NULL	1	1	1
+Oak living species	Ganoderma resinaceum	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Oak living species	Inonotus dryadeus	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Oak living species	Ox tongue Fistulina hepatica	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Oak living species	Hen of the Woods Grifola frondosa	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oak log	laurel oak	1	1	1	1	1.000000000000	NULL	NULL	30	22	0.03333333333333333
+oak material	oak meal	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak mixed deciduous broad-leaved species	Acer	1	1	3	3	NULL	NULL	NULL	1180	399	0.0002824858757062147
+oak mixed deciduous broad-leaved species	Michelia	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+oak mixed deciduous broad-leaved species	Betula	1	1	3	3	NULL	NULL	NULL	40	30	0.008333333333333333
+oak native tree	bur	1	1	1	1	1.000000000000	NULL	NULL	43	22	0.023255813953488372
+oak object	bench	1	1	2	2	NULL	NULL	NULL	2012	772	0.00024850894632206757
+oak object	bookcase	1	1	2	2	NULL	NULL	NULL	455	215	0.001098901098901099
+oak pallet	used with forklift	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak parasite	mistletoe	1	1	1	1	NULL	NULL	NULL	415	113	0.0024096385542168677
+oak park elementary school	Holmes Elementary School	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak park elemetry school	Holmes Elementry School	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak park elemetry school	Emerson Middle School	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak park issue	need for a ZIP code	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak park store	Scents n Stuff	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak park store	Green Home Experts	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak pest	oak pit scale	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak piece	dining room sideboard	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak product	oak boxes	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oak product	oak barrel	1	1	3	3	1.000000000000	NULL	NULL	6	6	0.05555555555555555
+oak product	wooden oak liquor boxes	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oak regeneration driver	fire	1	1	1	1	NULL	NULL	NULL	9681	2693	0.00010329511414110113
+oak ridge hospital	York Central Hospital	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oak ridge technique	MAP program	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+oak ridge technique	psychological indoctrination	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak savanna	Oak Ridge Marsh	1	1	1	1	NULL	NULL	NULL	1	1	1
+Oak savanna species	eastern kingbird	1	1	3	3	0.666666666666	NULL	NULL	30	12	0.01111111111111111
+Oak savanna species	red-headed woodpecker	1	1	3	3	0.666666666666	NULL	NULL	37	15	0.009009009009009009
+Oak savanna species	American kestrel	1	1	3	3	0.666666666666	NULL	NULL	128	36	0.0026041666666666665
+oak school	Victory	1	1	5	5	NULL	NULL	NULL	94	66	0.002127659574468085
+oak school	Forest Park School	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oak school	James Nisbet	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oak school	Constable Edward Finney	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oak school	Margaret Park	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+oak site	Mendocino Co.-Etsel Ridge	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oak site	El Dorado Co.-Folsom Lake	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oak site	Santa Clara Co.-Coe St. Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oak species	pin	3	2	43	27	0.588235294117	NULL	NULL	2022	726	0.00010351252501552687
+oak species	water oak	3	3	43	27	0.588235294117	NULL	NULL	43	21	0.00486749594375338
+oak species	Flowering Ash	2	2	43	27	0.588235294117	NULL	NULL	4	2	0.023255813953488372
+oak species	Quercus stellata	2	2	43	27	0.588235294117	NULL	NULL	9	7	0.0103359173126615
+oak species	Oriental ornbeam	2	2	43	27	0.588235294117	NULL	NULL	2	1	0.046511627906976744
+oak species	pin oak	2	2	43	27	0.588235294117	NULL	NULL	86	34	0.001081665765278529
+oak species	Oregon white oak	2	2	43	27	0.588235294117	NULL	NULL	17	10	0.005471956224350205
+oak species	black	2	1	43	27	0.588235294117	NULL	NULL	7897	1968	0.000011779568926675128
+oak species	Pubescent Oak	2	2	43	27	0.588235294117	NULL	NULL	2	1	0.046511627906976744
+oak species	scarlet	2	1	43	27	0.588235294117	NULL	NULL	72	44	0.0012919896640826874
+oak species	Hungarian oak	2	2	43	27	0.588235294117	NULL	NULL	2	1	0.046511627906976744
+oak species	southern red	2	1	43	27	0.588235294117	NULL	NULL	8	4	0.011627906976744186
+oak species	laurel oak	2	2	43	27	0.588235294117	NULL	NULL	30	22	0.0031007751937984496
+oak species	scrub	2	1	43	27	0.588235294117	NULL	NULL	279	158	0.0003334166875052096
+oak species	fire-scarred stands of good species	1	1	43	27	0.588235294117	NULL	NULL	1	1	0.023255813953488372
+oak species	Easte rn black oak	1	1	43	27	0.588235294117	NULL	NULL	1	1	0.023255813953488372
+oak species	white	1	1	43	27	0.588235294117	NULL	NULL	6155	1632	0.0000037783613246934803
+oak species	Quercus marilandica	1	1	43	27	0.588235294117	NULL	NULL	3	3	0.007751937984496124
+oak species	Quercus turbinella	1	1	43	27	0.588235294117	NULL	NULL	1	1	0.023255813953488372
+oak species	tree oak species	1	1	43	27	0.588235294117	NULL	NULL	2	2	0.011627906976744186
+oak species	common oak species	1	1	43	27	0.588235294117	NULL	NULL	2	2	0.011627906976744186
+oak species	chestnut oak	1	1	43	27	0.588235294117	NULL	NULL	36	16	0.0006459948320413437
+oak species	post oak	1	1	43	27	0.588235294117	NULL	NULL	48	20	0.00048449612403100775
+oak species	red oak	1	1	43	27	0.588235294117	NULL	NULL	328	161	0.00007090187180941577
+oak species	cherrybark oak	1	1	43	27	0.588235294117	NULL	NULL	7	5	0.0033222591362126247
+oak species	valley oak	1	1	43	27	0.588235294117	NULL	NULL	32	16	0.0007267441860465116
+oak species	prairie oak species	1	1	43	27	0.588235294117	NULL	NULL	2	2	0.011627906976744186
+oak staircase feature	hand rail	1	1	4	4	0.500000000000	NULL	NULL	119	74	0.0021008403361344537
+oak staircase feature	oak hand rail	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+oak staircase feature	oak newel	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+oak staircase feature	newel	1	1	4	4	0.500000000000	NULL	NULL	13	12	0.019230769230769232
+oak treatment	barrel fermenting	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+oak tree	Royal Oak in Britain	3	3	23	17	0.500000000000	NULL	NULL	3	1	0.13043478260869565
+oak tree	Charter Oak in the United States	3	3	23	17	0.500000000000	NULL	NULL	3	1	0.13043478260869565
+oak tree	white oak	2	1	23	17	0.500000000000	NULL	NULL	275	125	0.0006324110671936759
+oak tree	coast live oak	2	2	23	17	0.500000000000	NULL	NULL	33	17	0.005270092226613966
+oak tree	turkey	1	1	23	17	0.500000000000	NULL	NULL	7587	1715	0.000005730626185523292
+oak tree	black oak	1	1	23	17	0.500000000000	NULL	NULL	67	41	0.0006489292667099286
+oak tree	white	1	1	23	17	0.500000000000	NULL	NULL	6155	1632	0.000007063892911383463
+oak tree	Live Oak	1	1	23	17	0.500000000000	NULL	NULL	184	75	0.00023629489603024575
+oak tree	red oak	1	1	23	17	0.500000000000	NULL	NULL	328	161	0.00013255567338282077
+oak tree	blue jack oak	1	1	23	17	0.500000000000	NULL	NULL	1	1	0.043478260869565216
+oak tree	Evergreen Oak	1	1	23	17	0.500000000000	NULL	NULL	13	11	0.0033444816053511705
+oak tree	northern oak tree	1	1	23	17	0.500000000000	NULL	NULL	2	2	0.021739130434782608
+oak tree	Quercus robur	1	1	23	17	0.500000000000	NULL	NULL	8	5	0.005434782608695652
+oak tree	indigenous oak tree	1	1	23	17	0.500000000000	NULL	NULL	2	2	0.021739130434782608
+oak tree	valley oak	1	1	23	17	0.500000000000	NULL	NULL	32	16	0.001358695652173913
+oak tree	Cork Oak	1	1	23	17	0.500000000000	NULL	NULL	17	11	0.002557544757033248
+oak tree	sawtooth oak	1	1	23	17	0.500000000000	NULL	NULL	7	6	0.006211180124223602
+oak wood accessory	clock	1	1	3	3	0.333333333333	NULL	NULL	1980	872	0.00016835016835016833
+oak wood accessory	screen	1	1	3	3	0.333333333333	NULL	NULL	1171	551	0.00028465698832906344
+oak wood accessory	room divider	1	1	3	3	0.333333333333	NULL	NULL	39	30	0.008547008547008546
+Oak wood furnishings	writing desk	1	1	1	1	NULL	NULL	NULL	60	42	0.016666666666666666
+oak wood product	woodchips	1	1	2	2	NULL	NULL	NULL	98	60	0.00510204081632653
+oak wood product	log	1	1	2	2	NULL	NULL	NULL	1307	602	0.00038255547054322876
+oak wood-smoked meat	beef brisket	1	1	2	2	0.500000000000	NULL	NULL	53	36	0.009433962264150943
+oak wood-smoked meat	pulled pork	1	1	2	2	0.500000000000	NULL	NULL	56	42	0.008928571428571428
+oak woodland	found in Landscape Units B	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak-aged red wine	Cabernet Franc Reserve	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak-aged red wine	Fenn Valley Meritage	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak-aged spanish red	lemon tagine	1	1	1	1	NULL	NULL	NULL	1	1	1
+oak-aged white	Chardonnay	1	1	1	1	NULL	NULL	NULL	890	316	0.0011235955056179776
+oak-aged white wine	Chardonnay	2	1	4	4	0.500000000000	NULL	NULL	890	316	0.0011235955056179776
+oak-aged white wine	Pinot Blanc	1	1	4	4	0.500000000000	NULL	NULL	47	28	0.005319148936170213
+oak-aged white wine	White Burgundies	1	1	4	4	0.500000000000	NULL	NULL	6	3	0.041666666666666664
+oak-leaf or salad-bowl variety	Royal Oak Leaf	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak-leaf or salad-bowl variety	Solsun Red Frill	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak-specific fungal species	Abundisporus pubertatis Parmasto	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oak-specific fungal species	Phellinus setifer T. Hatt.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakbrook student	Jake Milewski	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakbrook student	second graders Paige Daniels	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oaked Chardonnay	Kendal Jackson	1	1	1	1	NULL	NULL	NULL	1	1	1
+oaked wine	Chardonnay	1	1	1	1	NULL	NULL	NULL	890	316	0.0011235955056179776
+oaken item	bungle	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oakland a's event	Little League Day	1	1	1	1	NULL	NULL	NULL	1	1	1
+Oakland A's memorabilia	plaque	1	1	2	2	NULL	NULL	NULL	499	260	0.001002004008016032
+Oakland A's memorabilia	pennant	1	1	2	2	NULL	NULL	NULL	99	69	0.005050505050505051
+oakland attraction	Children's Fairyland	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+oakland ballet alumnus	Jenna McClintock	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oakland ballet favorite	Ikolo Griffin	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oakland ballet favorite	Gabriel Williams	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oakland ballet favorite	Jenna McClintock	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+oakland ballet favorite	Amanda McGovern	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oakland big-money addition	Kwame Harris	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+oakland big-money addition	Gibril Wilson	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+oakland big-money addition	Tommy Kelly	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+oakland big-money addition	Javon Walker	1	1	4	4	1.000000000000	NULL	NULL	7	5	0.03571428571428571
+oakland bookstore	Second Edition	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+oakland california record storage service	self-storage	1	1	2	2	1.000000000000	NULL	NULL	170	167	0.0029411764705882353
+oakland california record storage service	records storage	1	1	2	2	1.000000000000	NULL	NULL	163	161	0.003067484662576687
+oakland company	Union Machine Works	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakland company	Bay City iron	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakland county city	Troy	1	1	1	1	NULL	NULL	NULL	195	81	0.005128205128205128
+oakland county community asset	faith-based Pontiac charitable organization	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oakland county community asset	Baldwin Center	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+oakland county community asset	Arts & Scraps of Detroit	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oakland county legislator	Lisa Brown	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+oakland county official	Executive L. Brooks Patterson	1	1	1	1	NULL	NULL	NULL	1	1	1
+Oakland County school dist ricts	Clarkston	1	1	1	1	0.500000000000	NULL	NULL	8	7	0.125
+oakland emergency service	Fire	1	1	2	2	NULL	NULL	NULL	9681	2693	0.000051647557070550566
+oakland emergency service	Police	1	1	2	2	NULL	NULL	NULL	6527	1820	0.00007660487206986364
+oakland foreclosure home	repo home	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+oakland foreclosure home	foreclosed condo	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+oakland hill area	Piedmont	1	1	1	1	NULL	NULL	NULL	90	43	0.011111111111111112
+oakland icon	Mellon Institute	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakland icon	Cathedral of Learning	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oakland institution	Mills College	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+oakland institutional space	studio	1	1	4	4	NULL	NULL	NULL	341	198	0.0007331378299120235
+oakland institutional space	school	1	1	4	4	NULL	NULL	NULL	16053	4303	0.000015573413069208248
+oakland institutional space	park	1	1	4	4	NULL	NULL	NULL	5086	1754	0.00004915454187966968
+oakland institutional space	community center	1	1	4	4	NULL	NULL	NULL	686	296	0.00036443148688046647
+oakland manufacturer	Owens Illinois Glass	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakland municipal code regulation	Planning Code	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oakland municipal code regulation	Administrative Penalty Ordinance	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oakland municipal code regulation	Fire Code	1	1	3	3	1.000000000000	NULL	NULL	40	27	0.008333333333333333
+oakland non-profit organization	Oakland Youth Chorus	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+oakland non-profit organization	San Francisco Foundation	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+oakland non-profit organization	West Oakland Intergenerational Services	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+oakland official	Oakland City Council	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakland organization	Athletics	1	1	2	2	NULL	NULL	NULL	1396	380	0.00035816618911174784
+oakland organization	People's Grocery	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+oakland place	Pizzaiolo	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oakland player	Bill Romanowski	3	3	3	1	1.000000000000	NULL	NULL	9	6	0.3333333333333333
+oakland politician	East Oakland Councilmember Larry Reid	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakland raider party supply	paper towel	1	1	4	4	NULL	NULL	NULL	1491	469	0.00016767270288397049
+oakland raider party supply	paper plate	1	1	4	4	NULL	NULL	NULL	399	188	0.0006265664160401002
+oakland raider party supply	toilet paper	1	1	4	4	NULL	NULL	NULL	1133	366	0.0002206531332744925
+oakland raider party supply	napkin	1	1	4	4	NULL	NULL	NULL	934	402	0.0002676659528907923
+oakland residential program	Gymnastics	1	1	1	1	NULL	NULL	NULL	1891	425	0.0005288207297726071
+oakland tribune garden columnist	George Roeding	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakland tribune garden columnist	President of the California Nursery Company in Niles	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakland's area	Montclair	1	1	2	2	0.500000000000	NULL	NULL	43	29	0.011627906976744186
+oakland's area	Piedmont	1	1	2	2	0.500000000000	NULL	NULL	90	43	0.005555555555555556
+oakland's most prestigious neighborhood	Rockridge	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+oakland's most prestigious neighborhood	Claremont	1	1	2	2	1.000000000000	NULL	NULL	47	30	0.010638297872340425
+oakland's official	Vice Mayor Henry Chang Jr.	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakland's responsible dispensary	Harborside	2	1	2	1	NULL	NULL	NULL	4	2	0.5
+oakland's southeastern city	Oak Park	1	1	2	2	0.500000000000	NULL	NULL	74	38	0.006756756756756757
+oakland's southeastern city	Southfield	1	1	2	2	0.500000000000	NULL	NULL	23	12	0.021739130434782608
+oakland's woe	steep unemployment	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakland's younger star	Brett Anderson	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+oakland-ish location	Alameda	1	1	2	2	0.500000000000	NULL	NULL	84	40	0.005952380952380952
+oakland-ish location	ones in Temescal	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+oakleaf variety	Harmony	1	1	1	1	NULL	NULL	NULL	480	235	0.0020833333333333333
+oakleigh attraction	Chadstone Shopping Mall	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakley accessory	case	1	1	2	2	NULL	NULL	NULL	1324	675	0.00037764350453172205
+oakley accessory	lens cleaning product	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oakley eyeglass	Enduring Pace	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+oakley eyeglass	Half Jacket	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+oakley eyewear	woman's oakley eyewear	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oakley handbag summer sight	children riding bike	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+oakley handbag summer sight	parade	1	1	2	2	NULL	NULL	NULL	930	307	0.0005376344086021505
+oakley high tech feature	HD Polarized lens	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakley lens technology	High Definition Optics	2	1	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+oakley product	snowboarding goggle	1	1	1	1	NULL	NULL	NULL	1	1	1
+oakley spare part	lens	1	1	1	1	NULL	NULL	NULL	1167	446	0.000856898029134533
+Oakley sunglasses	Polarized Juliet	2	2	5	4	NULL	NULL	NULL	2	1	0.4
+oakley sunglasses	premium oakley sunglasses	1	1	5	4	NULL	NULL	NULL	2	2	0.1
+Oakley sunglasses	M Frame Heater	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+Oakley sunglasses	M Frame Polar	1	1	5	4	NULL	NULL	NULL	1	1	0.2
+oakley sunglasses special effect	shiny effect	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+oakley winter sport jacket	high end Fensa	1	1	1	1	NULL	NULL	NULL	1	1	1
+Oakley's memorabilia	program	1	1	1	1	NULL	NULL	NULL	1312	601	0.0007621951219512195
+oakley's patented optic technology feature	High Definition Optics	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+oakmont business	Kwik Fill	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oakmont business	Oakmont Country Club	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+oakmont member	Pohl	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+Oakton event	speaker	1	1	1	1	NULL	NULL	NULL	1706	596	0.0005861664712778429
+Oakton gear	sweatshirt	1	1	1	1	NULL	NULL	NULL	390	171	0.002564102564102564
+oakville club service	information package program	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+oakville newcomer	Emilio's Terrace	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+oakville newcomer	Gargiulo	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+oakwood bird species	wood warbler	1	1	1	1	1.000000000000	NULL	NULL	41	24	0.024390243902439025
+oaky Chardonnay	Cakebread from California	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oaky Chardonnay	Louis Jadot Puligny-Montrachet from France	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oalarmwarning device	bell	1	1	2	2	NULL	NULL	NULL	1388	594	0.00036023054755043225
+oalarmwarning device	siren	1	1	2	2	NULL	NULL	NULL	424	216	0.0011792452830188679
+OAM cell	VP AIS	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAM component	Identity server	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+OAM element	forked CGHs	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAM feature	alarm indication signal	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+OAM feature	continuity check	1	1	3	3	1.000000000000	NULL	NULL	4	4	0.08333333333333333
+OAM feature	loopback	1	1	3	3	1.000000000000	NULL	NULL	12	12	0.027777777777777776
+OAM function	standard management interface	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+OAM function	Web-EMT with easy maintenance	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+OAM function	stable online software upgrade	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+OAM function	convenient inventory management	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+oam function	enhanced oam function	1	1	7	7	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+OAM function	easy accessibility	1	1	7	7	1.000000000000	NULL	NULL	16	10	0.008928571428571428
+OAM function	real-time performance data monitoring	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+OAM functionalities	performance data collection for post processing system	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+OAM functionalities	fault management	1	1	3	3	0.500000000000	NULL	NULL	41	26	0.008130081300813007
+OAM functionalities	configuration management	1	1	3	3	0.500000000000	NULL	NULL	237	128	0.0014064697609001407
+oam grip	Titec Pork Rinds	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAM method	IEEE 802.1ag CFM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAM method	IEEE 802.3ah EFM	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAM object	webgate profile	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAM procedure	loopback testing	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+OAM process	SMACMon 210	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAM process	SMACTalk 212	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAM product	cube	1	1	2	2	0.500000000000	NULL	NULL	733	371	0.0006821282401091405
+OAM product	soy candle	1	1	2	2	0.500000000000	NULL	NULL	49	30	0.01020408163265306
+oam-related component	authorization provider	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+oam-related component	SSO provider	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+oam-related component	identity asserters	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+OAMC student	Walker Stone	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OAMC student	eventual editor-in-chief of Scripps-Howard newspaper	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OAMC student	Paul Miller	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+oamodeloffers additional multimedia benefit	video	1	1	1	1	NULL	NULL	NULL	10816	3555	0.00009245562130177515
+OAN-L exhaust air grille	OAN with opposed blade volume control damper	1	1	1	1	NULL	NULL	NULL	1	1	1
+oando's business specific stakeholder	financial institution	1	1	1	1	NULL	NULL	NULL	849	343	0.001177856301531213
+OANHSS group program	gas bulk purchasing	1	1	1	1	NULL	NULL	NULL	1	1	1
+oantifibrinolytic agent	tranexamic acid	1	1	1	1	NULL	NULL	NULL	103	42	0.009708737864077669
+Oantigens	O157	1	1	1	1	NULL	NULL	NULL	9	5	0.1111111111111111
+OAP freebie	Travel	1	1	1	1	0.666666666666	NULL	NULL	4528	1282	0.00022084805653710247
+oap-forming water-channel protein	lens Aquaporin-0	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oap-forming water-channel protein	insect Aquaporin-cic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAPS function	historical data of the process	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OAPS function	maintaining SKU demand trend line	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oar	optic nerve	5	1	17	5	0.615384615384	NULL	NULL	67	31	0.021949078138718176
+oar	optic chiasm	5	1	17	5	0.615384615384	NULL	NULL	15	7	0.09803921568627452
+oar	parotid glands in head	5	1	17	5	0.615384615384	NULL	NULL	5	1	0.29411764705882354
+oar	contralateral parotid	1	1	17	5	0.615384615384	NULL	NULL	1	1	0.058823529411764705
+oar	lachrymal gland	1	1	17	5	0.615384615384	NULL	NULL	2	2	0.029411764705882353
+oar principal station	Isle of May	1	1	1	1	NULL	NULL	NULL	7	5	0.14285714285714285
+oar-driven warship	Greek trireme	1	1	1	1	NULL	NULL	NULL	1	1	1
+oared vessel	navis actuaria	2	2	2	1	NULL	NULL	NULL	2	1	1
+oarse sediment	sand	1	1	2	2	NULL	NULL	NULL	6541	2043	0.00007644091117566121
+oarse sediment	gravel	1	1	2	2	NULL	NULL	NULL	2636	901	0.00018968133535660092
+oas	large and hydrophobic oas	1	1	2	2	0.250000000000	NULL	NULL	1	1	0.5
+oas	small and hydrophilic oas	1	1	2	2	0.250000000000	NULL	NULL	1	1	0.5
+OAS action	tightened economic sanction	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAS agency	CICAD	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+OAS agency	Pan American Health Organization	1	1	2	2	1.000000000000	NULL	NULL	23	12	0.021739130434782608
+OAS component	link	1	1	3	3	NULL	NULL	NULL	958	477	0.00034794711203897004
+OAS component	interface	1	1	3	3	NULL	NULL	NULL	490	242	0.0006802721088435374
+OAS component	actuator	1	1	3	3	NULL	NULL	NULL	434	204	0.0007680491551459293
+OAS cultural organization institution	Institute on Children	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAS initiative	model law on cooperation between state	1	1	1	1	NULL	NULL	NULL	1	1	1
+OAS member	Mexico	1	1	2	2	NULL	NULL	NULL	7263	1033	0.00006884207627702051
+oas member	key oas member	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OAS member nation	El Salvador	1	1	1	1	NULL	NULL	NULL	746	107	0.0013404825737265416
+OAS symptom	rash	1	1	1	1	NULL	NULL	NULL	2111	538	0.0004737091425864519
+OAS technical cooperation project	community resource center	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+Oases-cities	Khotan	1	1	1	1	0.500000000000	NULL	NULL	11	8	0.09090909090909091
+oasic aniline dye	gentian violet	1	1	2	2	1.000000000000	NULL	NULL	40	23	0.0125
+oasic aniline dye	methyl violet	1	1	2	2	1.000000000000	NULL	NULL	21	15	0.023809523809523808
+oasis	Al-Hasa	2	2	18	17	0.750000000000	NULL	NULL	2	1	0.1111111111111111
+oasis	Al-Qatif	1	1	18	17	0.750000000000	NULL	NULL	4	3	0.013888888888888888
+oasis	Taghaza	1	1	18	17	0.750000000000	NULL	NULL	1	1	0.05555555555555555
+oasis	Hotan	1	1	18	17	0.750000000000	NULL	NULL	4	4	0.013888888888888888
+oasis	Grak's Pool	1	1	18	17	0.750000000000	NULL	NULL	1	1	0.05555555555555555
+oasis	Augila in the Eastern Sahara	1	1	18	17	0.750000000000	NULL	NULL	1	1	0.05555555555555555
+oasis	Turfan	1	1	18	17	0.750000000000	NULL	NULL	4	3	0.013888888888888888
+oasis	Siwa	1	1	18	17	0.750000000000	NULL	NULL	9	9	0.006172839506172839
+oasis	Kashgar	1	1	18	17	0.750000000000	NULL	NULL	15	11	0.0037037037037037034
+oasis	Fort Walton Beach	1	1	18	17	0.750000000000	NULL	NULL	15	14	0.0037037037037037034
+oasis	Aqsu	1	1	18	17	0.750000000000	NULL	NULL	1	1	0.05555555555555555
+oasis	RSPB Rainham Marshes	1	1	18	17	0.750000000000	NULL	NULL	1	1	0.05555555555555555
+oasis	City's major park	1	1	18	17	0.750000000000	NULL	NULL	1	1	0.05555555555555555
+oasis	Central Park	1	1	18	17	0.750000000000	NULL	NULL	261	134	0.00021285653469561513
+oasis	Kucha	1	1	18	17	0.750000000000	NULL	NULL	3	3	0.018518518518518517
+oasis	Panama City	1	1	18	17	0.750000000000	NULL	NULL	38	22	0.0014619883040935672
+oasis	Yarkand	1	1	18	17	0.750000000000	NULL	NULL	5	4	0.01111111111111111
+OASIS access control standard	XACML	1	1	2	2	0.500000000000	NULL	NULL	55	31	0.00909090909090909
+OASIS access control standard	XrML	1	1	2	2	0.500000000000	NULL	NULL	12	10	0.041666666666666664
+oasis city	Tozeur	1	1	4	4	NULL	NULL	NULL	3	2	0.08333333333333333
+oasis city	Douz	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oasis city	Nefta	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oasis city	Samarkand	1	1	4	4	NULL	NULL	NULL	66	32	0.003787878787878788
+oasis class ship's feature	DreamWorks Experience	1	1	1	1	NULL	NULL	NULL	1	1	1
+OASIS committee	WS-CAF	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+OASIS connection class	Intro to the Internet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+OASIS connection class	Intro to Computers	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oasis crop	barley	1	1	5	5	NULL	NULL	NULL	4066	900	0.00004918839153959666
+oasis crop	citrus fruit	1	1	5	5	NULL	NULL	NULL	978	252	0.00020449897750511248
+oasis crop	date	1	1	5	5	NULL	NULL	NULL	5860	1522	0.000034129692832764505
+oasis crop	olive	1	1	5	5	NULL	NULL	NULL	3387	1028	0.0000590493061706525
+oasis crop	peanut	1	1	5	5	NULL	NULL	NULL	3307	885	0.000060477774417901426
+oasis drink	guideline daily amount	1	1	3	3	0.500000000000	NULL	NULL	2	2	0.16666666666666666
+oasis drink	ingredient	1	1	3	3	0.500000000000	NULL	NULL	202	87	0.00165016501650165
+oasis drink	nutritional information	1	1	3	3	0.500000000000	NULL	NULL	33	20	0.0101010101010101
+OASIS member	IBM	1	1	1	1	NULL	NULL	NULL	11151	2595	0.0000896780557797507
+oasis modification	Oasis WAX	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oasis modification	Oasis MAX	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oasis modification	Oasis MCX	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oasis modification	Oasis WCX	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oasis module	business intelligence module nvision	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oasis module	powerful new media platform ncompass	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oasis neighborhood	Central Park	1	1	1	1	NULL	NULL	NULL	261	134	0.0038314176245210726
+oasis offering spa facility	Steam Bath	1	1	3	3	NULL	NULL	NULL	125	81	0.0026666666666666666
+oasis offering spa facility	Sauna	1	1	3	3	NULL	NULL	NULL	1717	509	0.00019413706076490002
+oasis offering spa facility	Aromatherapy Grotto	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OASIS open standard	XACML	1	1	3	3	NULL	NULL	NULL	55	31	0.006060606060606061
+OASIS open standard	specifications in progress	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+OASIS open standard	SAML	1	1	3	3	NULL	NULL	NULL	106	48	0.003144654088050314
+oasis person	Mzabites of Ghardaia	1	1	1	1	NULL	NULL	NULL	1	1	1
+oasis product	fig	1	0	2	2	NULL	NULL	NULL	1329	490	0.0003762227238525207
+oasis product	date	1	0	2	2	NULL	NULL	NULL	5860	1522	0.00008532423208191126
+OASIS project	Willow	1	1	1	1	NULL	NULL	NULL	1548	511	0.0006459948320413437
+oasis pulmonary symptom	intense bronchitis	1	1	1	1	NULL	NULL	NULL	1	1	1
+oasis relaxing hydrotherapy service	Lavender Salt Scrubs	1	1	1	1	NULL	NULL	NULL	1	1	1
+OASIS relieson standard redirection mechanism	DNS	1	1	1	1	NULL	NULL	NULL	650	272	0.0015384615384615385
+Oasis species	low-intensity fire	2	2	2	1	NULL	NULL	NULL	4	3	0.5
+oasis town	Ghadames	1	1	7	7	1.000000000000	NULL	NULL	9	5	0.015873015873015872
+oasis town	Kashgar	1	1	7	7	1.000000000000	NULL	NULL	15	11	0.009523809523809523
+oasis town	Dunhuang	1	1	7	7	1.000000000000	NULL	NULL	11	9	0.012987012987012986
+oasis town	Al Ain on the Omani border	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+oasis town	Turpan	1	1	7	7	1.000000000000	NULL	NULL	8	6	0.017857142857142856
+oasis town	al-Cain on the Omani border	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+oasis town	Khotan	1	1	7	7	1.000000000000	NULL	NULL	11	8	0.012987012987012986
+oasis village	Pica	1	1	1	1	NULL	NULL	NULL	54	28	0.018518518518518517
+oasis-class and freedom-class ship	Freedom of the Seas	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+oasting classic feature	open log fire	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+oastro-intestinal symptom	nausea	1	1	2	2	NULL	NULL	NULL	10577	1695	0.00004727238347357474
+oastro-intestinal symptom	vomiting	1	1	2	2	NULL	NULL	NULL	5583	1025	0.00008955758552749418
+oat	Quinoa	3	3	20	17	0.461538461538	NULL	NULL	1651	413	0.0002725620835857056
+oat	porridge	2	2	20	17	0.461538461538	NULL	NULL	316	170	0.0006329113924050633
+oat	oat flake	1	1	20	17	0.461538461538	NULL	NULL	12	10	0.004166666666666667
+oat	oat flour	1	1	20	17	0.461538461538	NULL	NULL	46	29	0.0010869565217391304
+oat	Scott s	1	1	20	17	0.461538461538	NULL	NULL	2	2	0.025
+oat	brown rice	1	1	20	17	0.461538461538	NULL	NULL	3838	654	0.000013027618551328817
+oat	ready brek	1	1	20	17	0.461538461538	NULL	NULL	5	5	0.01
+oat	old fashioned oat	1	1	20	17	0.461538461538	NULL	NULL	4	3	0.0125
+oat	toasted oat	1	1	20	17	0.461538461538	NULL	NULL	3	3	0.016666666666666666
+oat	oatmeal	1	1	20	17	0.461538461538	NULL	NULL	3108	810	0.00001608751608751609
+oat	oat bran	1	1	20	17	0.461538461538	NULL	NULL	339	102	0.00014749262536873156
+oat	organic porridge oat	1	1	20	17	0.461538461538	NULL	NULL	1	1	0.05
+oat	certified gluten-free oat	1	1	20	17	0.461538461538	NULL	NULL	1	1	0.05
+oat	steel-cut oatmeal	1	1	20	17	0.461538461538	NULL	NULL	16	11	0.003125
+oat	McCann's oatmeal	1	1	20	17	0.461538461538	NULL	NULL	1	1	0.05
+oat	whole-grain pasta	1	1	20	17	0.461538461538	NULL	NULL	65	39	0.0007692307692307692
+oat	quick cooking oat	1	1	20	17	0.461538461538	NULL	NULL	3	3	0.016666666666666666
+oat activity	swimming	1	1	1	1	NULL	NULL	NULL	15629	2556	0.00006398362019323054
+OAT based coolant	Halford's Advanced Antifreeze	1	1	1	1	NULL	NULL	NULL	1	1	1
+oat bran fiber	oatmeal	2	2	2	1	NULL	NULL	NULL	3108	810	0.0006435006435006435
+oat cereal	Cheerios	1	1	1	1	NULL	NULL	NULL	214	80	0.004672897196261682
+oat component	hydrolysed oat protein	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+oat component	oat oil	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+oat component	protein	1	1	4	4	NULL	NULL	NULL	5809	1696	0.000043036667240488894
+oat component	gluten	1	1	4	4	NULL	NULL	NULL	333	132	0.0007507507507507507
+oat derivative	hydrolysed oat protein	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+oat derivative	oat starch	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+oat fiber product	hardness	1	1	1	1	NULL	NULL	NULL	1719	456	0.0005817335660267597
+oat flour	flours prepared by grinding rolled oat	1	1	1	1	NULL	NULL	NULL	1	1	1
+oat ingredient	feeding oat meal	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+oat ingredient	oat flour	1	1	3	3	0.500000000000	NULL	NULL	46	29	0.007246376811594202
+oat ingredient	oat bran	1	1	3	3	0.500000000000	NULL	NULL	339	102	0.000983284169124877
+oat leaf disease	crown rust	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+oat pathogen	Drechslera avenae	2	1	2	1	NULL	NULL	NULL	2	1	1
+oat product	oatmeal	2	2	22	21	0.312500000000	NULL	NULL	3108	810	0.0000585000585000585
+oat product	instant	1	1	22	21	0.312500000000	NULL	NULL	24	18	0.001893939393939394
+oat product	flapjack	1	1	22	21	0.312500000000	NULL	NULL	33	26	0.0013774104683195593
+oat product	5	1	1	22	21	0.312500000000	NULL	NULL	311	195	0.00014615609470914936
+oat product	oat porridge	1	1	22	21	0.312500000000	NULL	NULL	4	4	0.011363636363636364
+oat product	oat bran	1	1	22	21	0.312500000000	NULL	NULL	339	102	0.00013408420488066506
+oat product	cake	1	1	22	21	0.312500000000	NULL	NULL	4260	1150	0.000010670081092616305
+oat product	1 minute	1	1	22	21	0.312500000000	NULL	NULL	11	11	0.004132231404958678
+oat product	commercial oat product	1	1	22	21	0.312500000000	NULL	NULL	2	2	0.022727272727272728
+oat product	pasta	1	1	22	21	0.312500000000	NULL	NULL	7372	1634	0.0000061658363340403495
+oat product	breakfast cereal	1	1	22	21	0.312500000000	NULL	NULL	634	200	0.00007169486664754803
+oat product	cereal bar	1	1	22	21	0.312500000000	NULL	NULL	185	89	0.0002457002457002457
+oat product	cereal	1	1	22	21	0.312500000000	NULL	NULL	5131	1307	0.000008858808313105721
+oat product	chappathi	1	1	22	21	0.312500000000	NULL	NULL	1	1	0.045454545454545456
+oat product	ready-to-eat breakfast cereal	1	1	22	21	0.312500000000	NULL	NULL	22	13	0.002066115702479339
+oat product	nature's path oat product	1	1	22	21	0.312500000000	NULL	NULL	2	2	0.022727272727272728
+oat product	Halfords Advanced Antifreeze	1	1	22	21	0.312500000000	NULL	NULL	1	1	0.045454545454545456
+oat product	bread	1	1	22	21	0.312500000000	NULL	NULL	8969	1867	0.000005067961361862577
+oat product	extruded product	1	1	22	21	0.312500000000	NULL	NULL	3	3	0.015151515151515152
+oat product	porridge	1	1	22	21	0.312500000000	NULL	NULL	316	170	0.00014384349827387802
+oat product	rolled oat	1	1	22	21	0.312500000000	NULL	NULL	151	69	0.00030102347983142685
+oat soluble fiber	beta glucan	1	1	1	1	1.000000000000	NULL	NULL	59	27	0.01694915254237288
+Oat species	Avena sativa	2	2	2	1	1.000000000000	NULL	NULL	65	27	0.03076923076923077
+oat variety	CDC Dancer	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+oat variety	CDC Orrin	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+oat-based cereal	oatmeal	1	1	2	2	NULL	NULL	NULL	3108	810	0.00016087516087516087
+oat-based cereal	muesli	1	1	2	2	NULL	NULL	NULL	162	95	0.0030864197530864196
+oat-based dish	muesli	1	1	2	2	NULL	NULL	NULL	162	95	0.0030864197530864196
+oat-based dish	oatmeal	1	1	2	2	NULL	NULL	NULL	3108	810	0.00016087516087516087
+oat-based food	wheat bread	1	1	4	4	0.250000000000	NULL	NULL	183	74	0.001366120218579235
+oat-based food	spelt bread	1	1	4	4	0.250000000000	NULL	NULL	9	8	0.027777777777777776
+oat-based food	porridge	1	1	4	4	0.250000000000	NULL	NULL	316	170	0.0007911392405063291
+oat-based food	cereal	1	1	4	4	0.250000000000	NULL	NULL	5131	1307	0.000048723445722081464
+oat-based medium	oat bran broth	1	1	1	1	NULL	NULL	NULL	1	1	1
+oatesof additional management practice	disease	1	1	4	4	0.500000000000	NULL	NULL	2698	868	0.00009266123054114158
+oatesof additional management practice	spiking	1	1	4	4	0.500000000000	NULL	NULL	36	24	0.006944444444444444
+oatesof additional management practice	topdressing	1	1	4	4	0.500000000000	NULL	NULL	44	22	0.005681818181818182
+oatesof additional management practice	brushing	1	1	4	4	0.500000000000	NULL	NULL	456	226	0.0005482456140350877
+oath	oaths of office sworn by military officer	2	1	13	11	0.333333333333	NULL	NULL	2	1	0.15384615384615385
+oath	Oath of Maimonides	2	1	13	11	0.333333333333	NULL	NULL	3	2	0.10256410256410257
+oath	eisenhower-era loyalty oath	1	1	13	11	0.333333333333	NULL	NULL	2	2	0.038461538461538464
+oath	oath of Lasagna	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+oath	Nightingale Pledge	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+oath	modern hippocratic oath	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+oath	Declaration of Geneva	1	1	13	11	0.333333333333	NULL	NULL	7	6	0.01098901098901099
+oath	citizenship oath	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+oath	police oath	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+oath	Islamic oath	1	1	13	11	0.333333333333	NULL	NULL	1	1	0.07692307692307693
+oath	cutting ones throat	1	1	13	11	0.333333333333	NULL	NULL	2	2	0.038461538461538464
+oath-swearing or ecclesiastic ordeal	eucharist ordeal	2	2	2	1	NULL	NULL	NULL	2	1	1
+oating point benchmark	art andwupwise	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+oatings	acrylic	1	1	1	1	NULL	NULL	NULL	2269	706	0.00044072278536800354
+oatmeal	Goose Island	1	1	3	3	0.500000000000	NULL	NULL	13	13	0.02564102564102564
+oatmeal	low fat yogurt	1	1	3	3	0.500000000000	NULL	NULL	64	37	0.005208333333333333
+oatmeal	fruit	1	1	3	3	0.500000000000	NULL	NULL	15318	3376	0.000021760891326108717
+Oatmeal & fish	talapia	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+oatmeal bath	Aveeno	3	2	5	3	1.000000000000	NULL	NULL	129	76	0.013953488372093021
+oatmeal bath	Aveeno Colloidal Oatmeal bath	1	1	5	3	1.000000000000	NULL	NULL	6	5	0.03333333333333333
+oatmeal bath	oatmeal bath by Aveeno	1	1	5	3	1.000000000000	NULL	NULL	1	1	0.2
+oatmeal bath product	Aveeno	6	6	8	3	1.000000000000	NULL	NULL	129	76	0.03488372093023256
+oatmeal bath product	Aveeno Natural Colloidal Oatmeal Bath Treatment	1	0	8	3	1.000000000000	NULL	NULL	1	1	0.125
+oatmeal bath product	specialty oatmeal bath product	1	1	8	3	1.000000000000	NULL	NULL	3	3	0.041666666666666664
+oatmeal body lotion	Aveeno	1	1	1	1	NULL	NULL	NULL	129	76	0.007751937984496124
+oatmeal cereal	Quaker Oats	1	1	1	1	NULL	NULL	NULL	83	35	0.012048192771084338
+oatmeal cream	Aveeno	1	1	1	1	NULL	NULL	NULL	129	76	0.007751937984496124
+oatmeal function	exfoliant	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+oatmeal grain	rye	1	1	2	2	NULL	NULL	NULL	1762	458	0.00028376844494892167
+oatmeal grain	brown rice	1	1	2	2	NULL	NULL	NULL	3838	654	0.00013027618551328816
+oatmeal hip bath	Aveeno Colloidal Oatmeal bath	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+oatmeal lotion	over-the-counter hydrocortisone cream	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+oatmeal lotion	Nature's Gate Colloidal Oatmeal Moisturizing Lotion	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oatmeal lotion	Aveeno	1	1	3	3	NULL	NULL	NULL	129	76	0.0025839793281653744
+oatmeal product	Aveeno Soothing Bath Treatment for Itchy	2	2	3	2	1.000000000000	NULL	NULL	2	1	0.6666666666666666
+oatmeal product	Irritated Skin	1	1	3	2	1.000000000000	NULL	NULL	18	14	0.018518518518518517
+oatmeal recipe	oatmeal scone	1	1	1	1	NULL	NULL	NULL	1	1	1
+oatmeal wash	Aveeno	1	1	1	1	NULL	NULL	NULL	129	76	0.007751937984496124
+oaty cereal	porridge	1	1	1	1	NULL	NULL	NULL	316	170	0.0031645569620253164
+OAU member state	Angola	1	1	1	1	NULL	NULL	NULL	1247	262	0.0008019246190858059
+OAuth information	client identifier	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+OAuth information	Consumer Key	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oaxaca food	homemade ice cream	1	1	1	1	1.000000000000	NULL	NULL	19	16	0.05263157894736842
+oaxaca market	Juarez Market	1	1	1	1	NULL	NULL	NULL	1	1	1
+oaxaca's indigenous language	Mixtec	1	1	1	1	1.000000000000	NULL	NULL	14	16	0.07142857142857142
+oaxacan attraction	magnificent mountain top pyramids of Monte Alban	2	2	2	1	NULL	NULL	NULL	2	1	1
+oaxacan chile	pasilla de Oaxaca	1	1	1	1	NULL	NULL	NULL	1	1	1
+Oaxacan place	ones in Los Angeles	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+oaxacan product	chapulines	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+oaxacan product	mole paste	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+oaxacan specialty	barbacoa de chivo	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+oaxacan specialty	clayuda	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+oaxacan specialty	mole negro chicken	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333

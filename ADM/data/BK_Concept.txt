@@ -1,0 +1,6 @@
+BK channel inhibitor	slotoxin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+BK channel inhibitor	iberiotoxin	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+BK channel inhibitor	charybdotoxin	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+BK model	importance of geometrically induced heterogeneity	1	1	1	1	NULL	NULL	NULL	1	1	1
+bk-mediated inflammatory process	mucous hypersecretion	1	1	1	1	NULL	NULL	NULL	1	1	1
+BKU leader	Mr Ramphal Kandela	1	1	1	1	NULL	NULL	NULL	1	1	1

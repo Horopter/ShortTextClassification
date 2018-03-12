@@ -1,0 +1,2135 @@
+KO attack	Horn Drill	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+ko lanta activity	Kayaking	2	2	10	6	NULL	NULL	NULL	3147	661	0.0001271051795360661
+ko lanta activity	Trekking	2	2	10	6	NULL	NULL	NULL	666	176	0.0006006006006006007
+ko lanta activity	Canoeing	2	2	10	6	NULL	NULL	NULL	2791	584	0.00014331780723754928
+ko lanta activity	Diving	2	2	10	6	NULL	NULL	NULL	1835	440	0.00021798365122615806
+ko lanta activity	Snorkelling	1	1	10	6	NULL	NULL	NULL	429	122	0.0002331002331002331
+ko lanta activity	Snorkeling	1	1	10	6	NULL	NULL	NULL	1764	357	0.00005668934240362812
+KO move	Metacheap's Shuttle Loop	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KO move	T.Link's Smashes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KO prime fighter	dela Hoya	1	1	5	5	1.000000000000	NULL	NULL	4	3	0.05
+KO prime fighter	Morales	1	1	5	5	1.000000000000	NULL	NULL	19	14	0.010526315789473684
+KO prime fighter	Barrera	1	1	5	5	1.000000000000	NULL	NULL	13	11	0.015384615384615385
+KO prime fighter	Marquez	1	1	5	5	1.000000000000	NULL	NULL	17	15	0.011764705882352941
+KO prime fighter	Cotto	1	1	5	5	1.000000000000	NULL	NULL	8	5	0.025
+KO scene	Nakajima VS spring water	1	1	1	1	NULL	NULL	NULL	1	1	1
+Ko special lighting	black light	1	1	1	1	1.000000000000	NULL	NULL	47	33	0.02127659574468085
+KO specialist	Bobby Chacon	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+KO specialist	Ruben Olivares	1	1	7	7	NULL	NULL	NULL	3	2	0.047619047619047616
+KO specialist	Jesus Pimentel	1	1	7	7	NULL	NULL	NULL	4	3	0.03571428571428571
+KO specialist	Ricardo Moreno	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+KO specialist	Rodolfo El Gato Gonzalez	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+KO specialist	Alfonso Zamora	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+KO specialist	Carlos Zarate	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+KO work	task ontology	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+KO work	classification	1	1	4	4	NULL	NULL	NULL	785	365	0.0003184713375796178
+KO work	domain	1	1	4	4	NULL	NULL	NULL	315	174	0.0007936507936507937
+KO work	thesauri	1	1	4	4	NULL	NULL	NULL	134	73	0.0018656716417910447
+ko's new product	Dasani	1	1	1	1	1.000000000000	NULL	NULL	54	26	0.018518518518518517
+KO-ing method	drugged drink	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+KO-ing method	injection	1	1	2	2	NULL	NULL	NULL	858	378	0.0005827505827505828
+koala food tree	Grey Gum	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+koala sanctuary	lone Pine Koala Sanctuary on the western coast of Australia	1	1	1	1	NULL	NULL	NULL	1	1	1
+koaloha-sponsored musician	Daniel Ho	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+koaloha-sponsored musician	Herb Ohta Jr.	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+koan-like work	Yoko Ono's Tape Piece I	1	1	1	1	NULL	NULL	NULL	1	1	1
+KOAs	West Glacier KOA	1	1	1	1	NULL	NULL	NULL	1	1	1
+KOB activity	craft	1	1	1	1	NULL	NULL	NULL	2199	663	0.00045475216007276033
+kobe	player other then kobe	1	1	1	1	NULL	NULL	NULL	1	1	1
+kobe park & garden	Sumaura Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kobe park & garden	Meriken Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kobe park & garden	Kobe Municipal Fruit & Flower Park	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kobe restaurant	Gaylords for Indian food	1	1	1	1	NULL	NULL	NULL	1	1	1
+KOBELCO EXCAVATOR SPARE part	components in the TRAVEL DEVICE	2	2	2	1	NULL	NULL	NULL	6	3	0.3333333333333333
+kobertson smith pantheon	Greek	1	1	1	1	NULL	NULL	NULL	809	339	0.0012360939431396785
+kobo run background task	book indexing	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kobold character	Pittiplatsch	1	1	1	1	NULL	NULL	NULL	1	1	1
+kobudo style	Kobujitsu	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kobudo style	Matayoshi style	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kocaniymode.com personal and sensitive information	credit card number	1	1	2	2	NULL	NULL	NULL	2312	323	0.00021626297577854672
+kocaniymode.com personal and sensitive information	expiration date	1	1	2	2	NULL	NULL	NULL	362	148	0.0013812154696132596
+koch's consumer brand	Lycra fiber	2	2	2	1	NULL	NULL	NULL	2	1	1
+koch-funded institute	Heritage Foundation	1	1	1	1	NULL	NULL	NULL	246	100	0.0040650406504065045
+kochi tuskers player	Mathew Klinger	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kochi tuskers player	Australia's Steven Smith	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kochi tuskers player	John Hastings	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+kochi tuskers player	Brad Hodge	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+kochi's many covered arcade	Ohashi dori	1	1	1	1	NULL	NULL	NULL	1	1	1
+kochi's natural and scenic retreat	Muroto Geopark	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kochi's natural and scenic retreat	Shimanto River	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kochi's popular tourist attraction	Hill Palace Museum	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+Kochwursts	headcheese	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+kodaikanal's cheap hotel	Hotel Mount View	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kodak camcorder	Kodak Zi6	2	2	9	6	1.000000000000	NULL	NULL	4	3	0.1111111111111111
+kodak camcorder	Kodak Zi8	2	2	9	6	1.000000000000	NULL	NULL	17	12	0.0261437908496732
+kodak camcorder	Kodak PLAYSPORT	2	2	9	6	1.000000000000	NULL	NULL	6	4	0.07407407407407407
+kodak camcorder	Kodak Zx1	1	1	9	6	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+kodak camcorder	Kodak Playtouch	1	1	9	6	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+kodak camcorder	Kodak ZxD	1	1	9	6	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+kodak camera	Kodak zi8	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+kodak digital camera	Easy Share LS 743	1	1	1	1	NULL	NULL	NULL	1	1	1
+KODAK document imaging product	Kodak CAPTURE Pro	1	1	1	1	NULL	NULL	NULL	1	1	1
+kodak facility	laboratory space	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+kodak pocket video camera	Kodak Zi8	1	1	1	1	1.000000000000	NULL	NULL	17	12	0.058823529411764705
+kodak product	film	1	1	4	4	NULL	NULL	NULL	3681	1439	0.00006791632708503124
+kodak product	Kodak EasyShare printer dock	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+kodak product	camera	1	1	4	4	NULL	NULL	NULL	5789	1712	0.00004318535152876144
+kodak product	Maximum Resolution Plate IA with good result	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kodak retina folding rangefinder camera	Retina II	1	1	1	1	NULL	NULL	NULL	1	1	1
+kodak service	Cine Kodak magazine	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kodak service	Kodascope Library News	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kodak service	Kodascope library	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KODAK unified workflow solution	KODAK PRINERGY POWERPACK Workflow System	1	1	1	1	NULL	NULL	NULL	1	1	1
+KODAK Unified Workflowproducts	PR IN ER GY	1	1	1	1	NULL	NULL	NULL	1	1	1
+kodak USA model	Bantam Special	1	1	1	1	NULL	NULL	NULL	1	1	1
+kodak video camera	Kodak Zi8	4	4	5	2	1.000000000000	NULL	NULL	17	12	0.18823529411764706
+kodak video camera	Kodak Playsort	1	1	5	2	1.000000000000	NULL	NULL	1	1	0.2
+kodak's IT product	digital camera	1	1	1	1	NULL	NULL	NULL	3926	1175	0.00025471217524197657
+kodak's pro film	Ektachrome e100vs	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kodaka's later series	Border	1	1	1	1	NULL	NULL	NULL	740	366	0.0013513513513513514
+kodakbrandpoint-n-shoot camera	Kodak Disk Camera	1	1	1	1	0.666666666666	NULL	NULL	1	1	1
+Kodaks	Kodak Easy Share	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+kodaly teaching principle	singing the melody	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Kodansha content	manga character	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kodes	Zombie Kombat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kodes	Headless Kombat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kodes	Armless Kombat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kodiak's rural community	Old Harbor	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+koebnerizing disease	lichen planus	1	1	2	2	NULL	NULL	NULL	130	59	0.0038461538461538464
+koebnerizing disease	psoriasis	1	1	2	2	NULL	NULL	NULL	2886	491	0.00017325017325017325
+koei classic	Romance of the Three Kingdoms	1	1	3	3	1.000000000000	NULL	NULL	23	13	0.014492753623188404
+koei classic	Nobunaga's Ambition	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+koei classic	Winning Post	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+koei game	Dynasty Warriors	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+koei game	Romance of the Three Kingdoms	1	1	2	2	1.000000000000	NULL	NULL	23	13	0.021739130434782608
+koei's game	kessen	1	1	5	5	1.000000000000	NULL	NULL	8	7	0.025
+koei's game	dynasty warrirors	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+koei's game	romance of three kingdom	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+koei's game	samuari warrior	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+koei's game	gemfires	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+koenigsegg model	CCR	1	1	1	1	1.000000000000	NULL	NULL	46	25	0.021739130434782608
+KOF fighting staple	short	1	1	1	1	NULL	NULL	NULL	1061	499	0.000942507068803016
+KOF stalwart	Kyo Kusanagi	1	1	2	2	1.000000000000	NULL	NULL	9	9	0.05555555555555555
+KOF stalwart	Iori	1	1	2	2	1.000000000000	NULL	NULL	8	8	0.0625
+KOF veteran	Ralf from the Ikari team	1	1	1	1	NULL	NULL	NULL	1	1	1
+kofax ascent capture module	Recognition	1	1	1	1	NULL	NULL	NULL	640	273	0.0015625
+kofax product	Ascent Capture	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kofax product	Advanced Forms	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Kofe Swamp species	wattled Crane	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+kofifi's colorful character	late Trevor Huddleston	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kofujin's beef	Saga beef	1	1	1	1	NULL	NULL	NULL	1	1	1
+kogawa's novel	Rain Ascends	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kogawa's novel	Itsuka	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kogawa's novel	Obasan	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+koge donbo's character	Dejiko	1	1	1	1	NULL	NULL	NULL	1	1	1
+koguryo buddhist monastery site	Kumgang Temple	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koguryo buddhist monastery site	Jongrung Temple	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koguryo buddhist monastery site	Thosong-ri Temple in Pongsan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koh samet various optional excursion	boat trips around the island	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+koh samui attraction	Bang Rak Pier	2	1	13	12	0.375000000000	NULL	NULL	3	2	0.10256410256410257
+koh samui attraction	Siam Paragon mall	1	1	13	12	0.375000000000	NULL	NULL	2	2	0.038461538461538464
+koh samui attraction	Mae Nam Pier	1	1	13	12	0.375000000000	NULL	NULL	1	1	0.07692307692307693
+koh samui attraction	Nikki Beach	1	1	13	12	0.375000000000	NULL	NULL	17	15	0.004524886877828055
+koh samui attraction	Thai Boxing Stadium	1	1	13	12	0.375000000000	NULL	NULL	3	2	0.025641025641025644
+koh samui attraction	Big Buddha	1	1	13	12	0.375000000000	NULL	NULL	22	9	0.0034965034965034965
+koh samui attraction	golf	1	1	13	12	0.375000000000	NULL	NULL	6842	1226	0.000011242776516088414
+koh samui attraction	Central World Plaza	1	1	13	12	0.375000000000	NULL	NULL	11	8	0.006993006993006993
+koh samui attraction	rock climbing	1	1	13	12	0.375000000000	NULL	NULL	1821	481	0.00004224221687154142
+koh samui attraction	restaurant	1	1	13	12	0.375000000000	NULL	NULL	11422	2864	0.0000067346416497178186
+koh samui attraction	Fisherman's Village	1	1	13	12	0.375000000000	NULL	NULL	4	3	0.019230769230769232
+koh samui attraction	shopping	1	1	13	12	0.375000000000	NULL	NULL	3213	983	0.00002394120041178865
+koh thanks long-serving member	Dr Kwok Kian Woon	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koh thanks long-serving member	Dr Noor Aisha	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koh thanks long-serving member	Mr Alfred Wong	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koh-incompatible element	aluminum lead pattern	1	1	1	1	NULL	NULL	NULL	1	1	1
+Koha Open source software	Koha	1	1	1	1	1.000000000000	NULL	NULL	12	8	0.08333333333333333
+kohala coast locale	Hualalai	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kohala coast locale	Mauna Lani	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+kohala coast locale	Waikoloa	1	1	3	3	NULL	NULL	NULL	5	5	0.06666666666666667
+koharu's solo song	Koi Kana	1	1	1	1	NULL	NULL	NULL	1	1	1
+kohathite gershonite reference construct	ibid	1	1	1	1	1.000000000000	NULL	NULL	69	32	0.014492753623188406
+kohl liner	Laura Mercier's Kohl Eye Pencil	1	1	1	1	NULL	NULL	NULL	1	1	1
+kohl's feature exclusive brand	Simply Vera Vera Wang clothing	1	1	1	1	NULL	NULL	NULL	1	1	1
+kohl's store brand	Simply Vera Vera Wang	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+Kohler bathtub	Kohler corner bathtub	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kohler bathtub	Kohler leg tub	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kohler bathtub	Kohler oval bathtub	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kohler engine part	head gasket	1	1	1	1	NULL	NULL	NULL	58	38	0.017241379310344827
+kohler part	oil filter	3	3	12	4	NULL	NULL	NULL	261	138	0.0028735632183908046
+kohler part	air filter	3	3	12	4	NULL	NULL	NULL	446	226	0.0016816143497757848
+kohler part	cylinder	3	3	12	4	NULL	NULL	NULL	1169	518	0.0006415739948674081
+kohler part	valve	3	3	12	4	NULL	NULL	NULL	2401	900	0.0003123698458975427
+KOHLER pinstripe accessory	towel bar	1	1	1	1	NULL	NULL	NULL	183	72	0.00546448087431694
+kohler product	Kohler Epicure faucet	1	1	3	4	NULL	NULL	NULL	1	1	0.3333333333333333
+kohler product	Kohler Avatar faucet	1	1	3	4	NULL	NULL	NULL	1	1	0.3333333333333333
+kohler product	toilet	1	1	3	4	NULL	NULL	NULL	2369	753	0.0001407063458561981
+kohler toilet	Reve K3797	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kohler tub	Kohler Clawfoot tub	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kohler tub	Kohler apron tub	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kohler's DTV shower system	smart thermostat intimate love	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kohls	Great Mall	1	1	1	1	NULL	NULL	NULL	1	1	1
+koi fish information	koi fish variety	1	1	1	1	NULL	NULL	NULL	1	1	1
+koi fish predator	muskrat	1	1	2	2	NULL	NULL	NULL	460	121	0.0010869565217391304
+koi fish predator	otter	1	1	2	2	NULL	NULL	NULL	715	212	0.0006993006993006993
+koi fish therapy	topical	1	1	1	1	NULL	NULL	NULL	45	34	0.022222222222222223
+koi frozen food	brine shrimp	1	1	1	1	NULL	NULL	NULL	337	108	0.002967359050445104
+koi lounge's valentine's day special	Screaming Orgasm roll	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koi lounge's valentine's day special	heart-shaped sushi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koi medical uniform pant	cargo	1	1	2	2	0.500000000000	NULL	NULL	164	102	0.003048780487804878
+koi medical uniform pant	drawstring	1	1	2	2	0.500000000000	NULL	NULL	22	16	0.022727272727272728
+koi related item	filter medium	1	1	5	5	0.200000000000	NULL	NULL	34	24	0.0058823529411764705
+koi related item	filter	1	1	5	5	0.200000000000	NULL	NULL	3205	1326	0.000062402496099844
+koi related item	food	1	1	5	5	0.200000000000	NULL	NULL	18353	4439	0.000010897400969868686
+koi related item	net	1	1	5	5	0.200000000000	NULL	NULL	892	371	0.0002242152466367713
+koi related item	pump	1	1	5	5	0.200000000000	NULL	NULL	3215	1354	0.00006220839813374805
+koi specific medication	Metronidazole	1	1	1	1	NULL	NULL	NULL	490	120	0.0020408163265306124
+koi supply	overhang	1	1	3	3	NULL	NULL	NULL	198	98	0.0016835016835016834
+koi supply	water device like a fountain	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koi supply	water tool like a fountain	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koi variety	Asagi	4	4	5	2	NULL	NULL	NULL	6	3	0.5333333333333333
+koi variety	koi history other koi variety	1	1	5	2	NULL	NULL	NULL	2	2	0.1
+koi whole food	frozen	1	1	1	1	NULL	NULL	NULL	117	56	0.008547008547008548
+koi's chinese-american specialty	Mongolian Beef	1	1	3	3	1.000000000000	NULL	NULL	43	27	0.007751937984496124
+koi's chinese-american specialty	Lemon Chicken	1	1	3	3	1.000000000000	NULL	NULL	36	26	0.009259259259259259
+koi's chinese-american specialty	Sesame Chicken	1	1	3	3	1.000000000000	NULL	NULL	63	41	0.005291005291005291
+koi's cold signature dish	seared tuna jalapeno with garlic chip	1	1	1	1	NULL	NULL	NULL	1	1	1
+koine-centered material	Mounce's book	1	1	1	1	NULL	NULL	NULL	1	1	1
+koineisation process	levelling	1	1	3	3	0.666666666666	NULL	NULL	24	21	0.013888888888888888
+koineisation process	reallocation	1	1	3	3	0.666666666666	NULL	NULL	13	13	0.02564102564102564
+koineisation process	simplification	1	1	3	3	0.666666666666	NULL	NULL	68	52	0.004901960784313725
+koinobionts	campoplegines in the current study	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koinobionts	M. parvulus	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koizumi's economic change	reductions in public work	1	1	1	1	NULL	NULL	NULL	1	1	1
+kojic acid related offer	Rosin	1	1	3	3	NULL	NULL	NULL	147	74	0.0022675736961451248
+kojic acid related offer	Antioxidant	1	1	3	3	NULL	NULL	NULL	2637	532	0.00012640626975097963
+kojic acid related offer	Aspartic Acid	1	1	3	3	NULL	NULL	NULL	117	48	0.0028490028490028487
+kojima detailed various measure	tax reduction	1	1	2	2	NULL	NULL	NULL	82	44	0.006097560975609756
+kojima detailed various measure	blending mandate	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kokama breed domestic animal	chicken	1	1	3	3	NULL	NULL	NULL	8933	2087	0.00003731482518004403
+kokama breed domestic animal	duck	1	1	3	3	NULL	NULL	NULL	2517	714	0.00013243279035889284
+kokama breed domestic animal	pigs for consumption	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+koke lure	Wedding Rings	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+kokoda track battle site	Kokoda	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+Kokoity's extra-parliamentary opposition	Vyacheslav Gobozov of the Fatherland Party	1	1	1	1	NULL	NULL	NULL	1	1	1
+kokugaku scholar	Kurasawa Yoshiyuki in nearby Ina	1	1	1	1	NULL	NULL	NULL	1	1	1
+kokumi compound	calcium	2	2	6	3	0.666666666666	NULL	NULL	7449	1348	0.00008949747169642457
+kokumi compound	L-histidine	2	2	6	3	0.666666666666	NULL	NULL	10	8	0.06666666666666667
+kokumi compound	protamine	2	2	6	3	0.666666666666	NULL	NULL	36	25	0.018518518518518517
+kolagena product	Natural Collagen	1	1	1	1	NULL	NULL	NULL	1	1	1
+kolakenda preparation	Gotukola	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kolbe student	Ernst von Meyer	1	1	1	1	NULL	NULL	NULL	1	1	1
+koleos's competitor	Citroen C-Crosser	1	1	1	1	NULL	NULL	NULL	1	1	1
+kolkata hotel	Hyatt Regency	1	1	10	10	1.000000000000	NULL	NULL	54	31	0.001851851851851852
+kolkata hotel	ITC The Sonar	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata hotel	Lytton Hotel	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata hotel	Upper Wood Street Hotel	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata hotel	Kenilworth Hotel	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata hotel	Hotel the Park	1	1	10	10	1.000000000000	NULL	NULL	2	2	0.05
+kolkata hotel	Vedic Village Spa Resort	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata hotel	Peerless Inn	1	1	10	10	1.000000000000	NULL	NULL	2	2	0.05
+kolkata hotel	Rajarhat Hotel	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata hotel	Quality Inn Golden Park	1	1	10	10	1.000000000000	NULL	NULL	1	1	0.1
+kolkata landmark	Metro Station	1	1	1	1	1.000000000000	NULL	NULL	46	30	0.021739130434782608
+kolkata latest bangla film song	challenge	1	1	2	2	NULL	NULL	NULL	193	107	0.0025906735751295338
+kolkata latest bangla film song	Prem Amar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kolkata's astounding architectural feat	Dakshineswar Kali Temple	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kolkata-bound train	Saraighat Exp	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kolkata-bound train	Kamrup Exp	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kollel run program	Saturday Night Learning	1	1	1	1	NULL	NULL	NULL	1	1	1
+kollmann's follower	Samuel Wesley	1	1	1	1	NULL	NULL	NULL	1	1	1
+kollywood actress	Sona	2	2	8	4	1.000000000000	NULL	NULL	12	7	0.041666666666666664
+kollywood actress	Sonia agarwal	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+kollywood actress	Namitha	2	2	8	4	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+kollywood actress	Ramya Krishnan	2	2	8	4	1.000000000000	NULL	NULL	2	1	0.25
+kollywood celebrity	Rajinikanth	1	1	2	2	1.000000000000	NULL	NULL	14	12	0.03571428571428571
+kollywood celebrity	Kamal	1	1	2	2	1.000000000000	NULL	NULL	13	13	0.038461538461538464
+kollywood film hit	Yamadonga	1	1	4	4	1.000000000000	NULL	NULL	6	6	0.041666666666666664
+kollywood film hit	Thirakkatha	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+kollywood film hit	Paruthi Veeran	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+kollywood film hit	Malaikottai	1	1	4	4	1.000000000000	NULL	NULL	4	4	0.0625
+Kollywood heroes	Suriya	3	3	9	3	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+Kollywood heroes	Vijay	3	3	9	3	1.000000000000	NULL	NULL	21	14	0.047619047619047616
+Kollywood heroes	Vikram	3	3	9	3	1.000000000000	NULL	NULL	17	7	0.058823529411764705
+kollywood hot girl	Mumtaj	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+kollywood hot girl	Namitha	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+kollywood hot girl	Kiran	1	1	4	4	NULL	NULL	NULL	6	5	0.041666666666666664
+kollywood hot girl	Reema Sen	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+kollywood personality	Sanyukta Timalsina	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kollywood personality	Karishma Manandhar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kollywood star	Arjun	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+kollywood star	Suriya	1	1	2	2	1.000000000000	NULL	NULL	9	6	0.05555555555555555
+Kolos	Neda Grivne	1	1	1	1	NULL	NULL	NULL	1	1	1
+Koman municipal iQstitutions	duumviri	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Koman municipal iQstitutions	curia	1	1	2	2	1.000000000000	NULL	NULL	9	8	0.05555555555555555
+Komans	Caesar	1	1	1	1	NULL	NULL	NULL	188	96	0.005319148936170213
+komatiitic nickel-copper deposit	Kambalda nickel-copper deposit	1	1	1	1	NULL	NULL	NULL	1	1	1
+komatsu component	differential	1	1	3	3	NULL	NULL	NULL	179	102	0.00186219739292365
+komatsu component	cylinder	1	1	3	3	NULL	NULL	NULL	1169	518	0.000285143997718848
+komatsu component	strut	1	1	3	3	NULL	NULL	NULL	171	89	0.001949317738791423
+komatsu excavator SPARE part	components in the TRAVEL DEVICE	2	2	2	1	NULL	NULL	NULL	6	3	0.3333333333333333
+komatsu's important committee	Compliance	3	3	6	2	NULL	NULL	NULL	806	371	0.0018610421836228288
+komatsu's important committee	Risk Management	3	3	6	2	NULL	NULL	NULL	1241	478	0.0012087026591458502
+komatsu-designed electronic component	connector	1	1	4	4	NULL	NULL	NULL	893	364	0.0002799552071668533
+komatsu-designed electronic component	controller	1	1	4	4	NULL	NULL	NULL	877	311	0.00028506271379703536
+komatsu-designed electronic component	wiring	1	1	4	4	NULL	NULL	NULL	563	238	0.0004440497335701599
+komatsu-designed electronic component	sensor	1	1	4	4	NULL	NULL	NULL	1753	737	0.0001426126640045636
+komax sale document	prospect	1	1	1	1	NULL	NULL	NULL	67	48	0.014925373134328358
+kombatants	Shao Khan	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kombisign feature	modular assembly	1	1	2	2	NULL	NULL	NULL	7	5	0.07142857142857142
+kombisign feature	practical bayonet fixing system facilitating simple operation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kombucha	ones made in Healdsburg	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+komen fundraiser	recent Dance for the Cure	1	1	1	1	NULL	NULL	NULL	1	1	1
+komen volunteer event	Race for the Cure	1	1	1	1	1.000000000000	NULL	NULL	50	32	0.02
+komen-friendly celebrity	Christie Brinkley	2	2	2	1	1.000000000000	NULL	NULL	38	17	0.05263157894736842
+Komets	Joe Kastelic	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Komets	Dave Allison	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Komets	Bruce Racine	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Komets	Scott Gruhl	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+komiks character	superheroine Darna	6	6	12	2	NULL	NULL	NULL	6	1	0.5
+komiks character	mermaid Dyesebel	6	6	12	2	NULL	NULL	NULL	6	1	0.5
+komiks writer	Clod del Mundo	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+komiks writer	Mars Ravelo	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+komiks writer	Pablo Gomez	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kommandos	S III	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+Kommandos	S 111	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+komo margarima name	Francis Potabe	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+komo margarima name	Edward Alina	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+komodo style ceramic grill	Saffire	1	1	1	1	1.000000000000	NULL	NULL	8	6	0.125
+Komono	amigurumi	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+kompan's fact	revenue	1	1	2	2	NULL	NULL	NULL	35842	375	0.000013950114390938006
+kompan's fact	number of employees under Fast Facts	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+komsomol propaganda organ	Pioner Bielarusii	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+komsomol propaganda organ	newspapers Cyrvonaja Zmiena	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+komsomol propaganda organ	Stalinskaya Molodozh	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kon's animated film	Millennium Actress	2	1	4	2	1.000000000000	NULL	NULL	4	3	0.25
+kon's animated film	Perfect Blue	2	1	4	2	1.000000000000	NULL	NULL	11	10	0.09090909090909091
+kon's directorial work	Perfect Blue	1	1	2	2	0.500000000000	NULL	NULL	11	10	0.045454545454545456
+kon's directorial work	Paprika	1	1	2	2	0.500000000000	NULL	NULL	541	158	0.0009242144177449168
+Kona caffeine	Peaberry Kona	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kona typical ingredient	Hamakua mushroom	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+kona typical ingredient	cold Kona lobster	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kona typical ingredient	organic honey from the volcano	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kona typical ingredient	Waimea tomato	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+kona typical ingredient	goat cheese	1	1	6	6	NULL	NULL	NULL	191	100	0.0008726003490401395
+kona typical ingredient	avocado	1	1	6	6	NULL	NULL	NULL	3431	888	0.0000485767026134266
+KONA unique design component	Handle Grips	1	1	3	4	NULL	NULL	NULL	12	2	0.027777777777777776
+KONA unique design component	Handle Stems	1	1	3	4	NULL	NULL	NULL	1	1	0.3333333333333333
+KONA unique design component	Seat Posts	1	1	3	4	NULL	NULL	NULL	1	1	0.3333333333333333
+KONAD product	Image plate	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+KONAD product	Special polish	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+konami franchise	Darkstalkers	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+konami franchise	Castlevania	1	1	2	2	1.000000000000	NULL	NULL	51	29	0.00980392156862745
+konami game	Guitar Freaks	1	1	3	3	NULL	NULL	NULL	5	4	0.06666666666666667
+konami game	Beat Mania	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+konami game	Drum Mania	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+konami game retro classic	Turtles in Time	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+konami game retro classic	Simpsons	1	1	2	2	NULL	NULL	NULL	533	194	0.0009380863039399625
+konami hit	Frogger	1	1	1	1	NULL	NULL	NULL	92	30	0.010869565217391304
+konami NES game	Contra	1	1	1	1	1.000000000000	NULL	NULL	55	30	0.01818181818181818
+konami title	Rock Revolution	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+konbini stock item	toothpaste	1	1	3	3	NULL	NULL	NULL	2421	610	0.00013768415255404102
+konbini stock item	razor	1	1	3	3	NULL	NULL	NULL	1534	336	0.00021729682746631898
+konbini stock item	toothbrush	1	1	3	3	NULL	NULL	NULL	1735	447	0.00019212295869356388
+konbini store	Lawson	1	1	2	2	0.500000000000	NULL	NULL	78	52	0.00641025641025641
+konbini store	Seven-Eleven	1	1	2	2	0.500000000000	NULL	NULL	9	7	0.05555555555555555
+konchalovsky's own russian film	Asya's Happiness	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+konchalovsky's own russian film	Romance for Lovers	3	3	6	2	NULL	NULL	NULL	3	1	0.5
+kondo danji special tube	small electron tube	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kondo effect INTRODUCTION One-dimensional nanostructures	carbon nanotubes	1	1	2	2	NULL	NULL	NULL	660	275	0.0007575757575757576
+Kondo effect INTRODUCTION One-dimensional nanostructures	nanowires	1	1	2	2	NULL	NULL	NULL	457	193	0.0010940919037199124
+kong character	Cranky	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+kong filling	lunch meat	1	1	3	3	NULL	NULL	NULL	224	57	0.001488095238095238
+kong filling	peanut butter	1	1	3	3	NULL	NULL	NULL	2014	659	0.00016550810989738495
+kong filling	canned doggy Kong filling	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kong toy shape	dog ball	1	1	3	3	1.000000000000	NULL	NULL	7	7	0.047619047619047616
+kong toy shape	Kong dog bone shape	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kong toy shape	dog dental stick	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Kongs	Cranky	1	1	1	1	1.000000000000	NULL	NULL	10	10	0.1
+kongs collectible	Banana Bunches	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kongs collectible	Bear Coins	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kongskilde fan guard system crop	soybean	1	1	1	1	NULL	NULL	NULL	4228	1073	0.00023651844843897824
+koni product	Koni Adjustable Shocks	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+koni product	Koni Yellows	2	2	8	4	NULL	NULL	NULL	6	5	0.08333333333333333
+koni product	Koni Reds	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+koni product	Koni Sport	2	2	8	4	NULL	NULL	NULL	2	1	0.25
+konica minolta software solution	workflow	1	1	1	1	NULL	NULL	NULL	359	181	0.002785515320334262
+konjac fiber	PGX	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+konjac noodle recipe	Pasta salad	1	1	3	3	0.500000000000	NULL	NULL	105	65	0.0031746031746031746
+konjac noodle recipe	Low Carb Pasta	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+konjac noodle recipe	Shirataki Noodles	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+Konka's new network	sharp LED TV	2	2	2	1	NULL	NULL	NULL	2	1	1
+konkan town	Ratnagiri	1	1	3	3	1.000000000000	NULL	NULL	12	7	0.027777777777777776
+konkan town	Kashid	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+konkan town	Alibag	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+konkani book	Tufan	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+konkani book	Tiatrancho Zhelo Bhag I & II	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+konkani book	published by Goa Konkani Akademi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Konoha Medical Field Ninja	Ino Yamanaka	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+Konoha Medical Field Ninja	Sakura Haruno	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+konoha spot	Yamanaka's Flower Shop	3	3	3	1	NULL	NULL	NULL	3	1	1
+konrad zuse's later machine	Z5	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+Konrad's partners-in-crime	warrior Wolf	1	1	1	1	NULL	NULL	NULL	1	1	1
+konso artisan	blacksmith	1	1	1	1	NULL	NULL	NULL	372	162	0.002688172043010753
+Kontrol Freeks	FPS Freek	1	1	1	1	NULL	NULL	NULL	1	1	1
+kontron advancedmc processor module	Kontron AM4010	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kontron advancedmc processor module	Kontron AM4011	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kontron's quality feature	sophisticated board layout	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kontron's quality feature	long-term stable solid capacitor	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+kontron's quality feature	high-quality selection of component	2	2	6	3	NULL	NULL	NULL	2	1	0.3333333333333333
+Koobface	distributed among users of Facebook friends list	1	1	1	1	NULL	NULL	NULL	1	1	1
+kooblekar part	rear Notek light	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kooblekar part	rifle rack	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+kooday's competitor	Google	1	1	3	3	NULL	NULL	NULL	18060	3284	0.000018456995201181248
+kooday's competitor	Yahoo	1	1	3	3	NULL	NULL	NULL	8994	2110	0.00003706174486694834
+kooday's competitor	Bing	1	1	3	3	NULL	NULL	NULL	1145	226	0.00029112081513828236
+koodiyattam veteran	late Guru Ammannur Madhava Chakyar	1	1	1	1	NULL	NULL	NULL	1	1	1
+kook	compulsive conspiracy monger	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+kook	birthers	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+kookiest element	Nazis	1	1	1	1	NULL	NULL	NULL	67	54	0.014925373134328358
+kooky , funny video	Shaolin Soccer	1	1	2	2	1.000000000000	NULL	NULL	28	6	0.017857142857142856
+kooky , funny video	Kung Pow	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+kooky animal character	Wally Gator	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kooky animal character	Quick Draw McGraw	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+kooky group	Raelians	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+kooky group	persons interested in replacing pet	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kooky luminary	Ross Perot	1	1	1	1	1.000000000000	NULL	NULL	41	26	0.024390243902439025
+kooky sect	evangelical Christians on the rise	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kooky sect	Mormons	1	1	2	2	NULL	NULL	NULL	424	126	0.0011792452830188679
+kooky sound	baby's cry	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+kooky time-consuming hobby	sculpting	1	1	1	1	NULL	NULL	NULL	234	125	0.004273504273504274
+kooky, ignorant, uneducated actor	Chevy Chase	1	1	1	1	NULL	NULL	NULL	56	32	0.017857142857142856
+kool frend	kamil	1	1	1	1	0.666666666666	NULL	NULL	2	2	0.5
+kool spell	killing blow	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kool upgrade	marine	1	1	1	1	0.500000000000	NULL	NULL	523	223	0.0019120458891013384
+kool-aid band	FOB	1	1	2	2	0.500000000000	NULL	NULL	64	25	0.0078125
+kool-aid band	MCR	1	1	2	2	0.500000000000	NULL	NULL	27	11	0.018518518518518517
+kool-aid color	orange	1	1	3	3	NULL	NULL	NULL	12312	2565	0.000027073857483214208
+kool-aid color	pink	1	1	3	3	NULL	NULL	NULL	4262	1062	0.0000782105427811669
+kool-aid color	blue	1	1	3	3	NULL	NULL	NULL	7681	1817	0.000043397127110185304
+kool-aid flavor	strawberry	1	1	2	2	NULL	NULL	NULL	6216	1333	0.00008043758043758043
+kool-aid flavor	orange & tropical punch	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koolance product	hard drive	1	1	1	2	0.500000000000	NULL	NULL	1268	435	0.0007886435331230284
+Koolkuts	Sawtry Cabinets KK21S	1	1	1	1	NULL	NULL	NULL	1	1	1
+kooning's most famous painting	Pink Angels	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+koons addition	bulbous noses of the puppy	2	1	2	1	NULL	NULL	NULL	2	1	1
+koontz masterpiece	Phantoms	1	1	1	1	1.000000000000	NULL	NULL	6	7	0.16666666666666666
+koontz's earlier work	Watchers	2	2	2	1	1.000000000000	NULL	NULL	14	9	0.14285714285714285
+KOOP program	Commercial Suicide	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+koopa cousin	Susan B. Koopa	1	1	1	1	NULL	NULL	NULL	1	1	1
+koopa troop soldier	Koopa Troopas	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+koori artist	Wendy Nicholson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koori artist	Buster Thomas	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koori-specific accessibility aid	literature	1	1	1	1	NULL	NULL	NULL	1820	591	0.0005494505494505495
+kootenai practice	bison hunting on the plains east of the Lewis Mountains	1	1	1	1	NULL	NULL	NULL	1	1	1
+kootenay location	Nelson	1	1	1	1	NULL	NULL	NULL	172	86	0.005813953488372093
+kootenay region lake	Kootenay	1	1	1	1	0.500000000000	NULL	NULL	8	7	0.125
+Kootenays	New Denver	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+koozie service	advertising package	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+koozie service	customization	1	1	2	2	NULL	NULL	NULL	217	102	0.002304147465437788
+koozie usually material	foam	1	1	1	1	NULL	NULL	NULL	1379	580	0.0007251631617113851
+kop icon	Bruce Grobbelaar	2	2	6	3	1.000000000000	NULL	NULL	6	4	0.1111111111111111
+kop icon	Jan Molby	2	2	6	3	1.000000000000	NULL	NULL	5	4	0.13333333333333333
+kop icon	Alan Kennedy	2	2	6	3	1.000000000000	NULL	NULL	10	7	0.06666666666666667
+kopenhagen fur's many initiative	sorting course	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kopenhagen fur's many initiative	internet-based service	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+kopi luwak coffee blend	liberica	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+kopitiam place	Teh Tarik Place	1	1	1	1	NULL	NULL	NULL	1	1	1
+kopitiam style cafe	Kopi	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+kopitiams	Old Town Kopitiamm	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kor	Shaman en-kor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kor	Nomads en-kor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Kor	Outrider en-kor	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korail's representative railway facility	Guro CTC center	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korail's representative railway facility	Goyang KTX depot	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+koran biblical personage	Abraham	1	1	1	1	NULL	NULL	NULL	514	162	0.0019455252918287938
+koranic pedagogic technique	rote citation	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korans	accidental dropping of a Koran	1	1	1	1	NULL	NULL	NULL	1	1	1
+korat spa favorite	Thai	1	1	2	2	NULL	NULL	NULL	792	259	0.0006313131313131314
+korat spa favorite	Swedish	1	1	2	2	NULL	NULL	NULL	700	207	0.0007142857142857143
+korbanos offering	asham	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korbanos offering	chatos	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korbanos offering	olah	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korbanos offering	shelamim	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korda angler	Adam Penning	1	1	6	6	1.000000000000	NULL	NULL	2	2	0.08333333333333333
+korda angler	Danny Fairbrass	1	1	6	6	1.000000000000	NULL	NULL	7	7	0.023809523809523808
+korda angler	Ali Hamidi	1	1	6	6	1.000000000000	NULL	NULL	5	5	0.03333333333333333
+korda angler	Ernesto Kamminga	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+korda angler	Etienne Gebel	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+korda angler	Damian Clarke	1	1	6	6	1.000000000000	NULL	NULL	1	1	0.16666666666666666
+kordofanian language	Masakin	1	1	1	1	NULL	NULL	NULL	1	1	1
+kore	Auxerre Kore at the Louvre Museum in Paris	1	1	1	1	NULL	NULL	NULL	1	1	1
+KORE-BANK application	foreign exchange	1	1	1	1	NULL	NULL	NULL	291	127	0.003436426116838488
+korea cosmetic	skin care product	1	1	1	1	NULL	NULL	NULL	117	66	0.008547008547008548
+korea dietary supplement	traditional high-nutrition diet	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea dietary supplement	ginseng	1	1	2	2	NULL	NULL	NULL	1623	447	0.00030807147258163895
+korea football boot	nike	1	1	1	1	NULL	NULL	NULL	4837	1186	0.0002067397146991937
+korea ginseng product	red ginseng	3	1	15	6	0.666666666666	NULL	NULL	20	10	0.030000000000000006
+korea ginseng product	white ginseng	3	1	15	6	0.666666666666	NULL	NULL	12	7	0.05000000000000001
+korea ginseng product	ginseng powder	3	1	15	6	0.666666666666	NULL	NULL	9	6	0.06666666666666668
+korea ginseng product	capsule	2	1	15	6	0.666666666666	NULL	NULL	1123	310	0.00023745918670228555
+korea ginseng product	tea	2	1	15	6	0.666666666666	NULL	NULL	7608	1710	0.00003505082369435682
+korea ginseng product	extract	2	1	15	6	0.666666666666	NULL	NULL	172	104	0.0015503875968992248
+korea KOR metric sitraditional unit	Ri	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+Korea large chaebol	Hyundai	1	1	1	1	NULL	NULL	NULL	966	379	0.0010351966873706005
+korea manufacturer	LG	1	1	1	1	NULL	NULL	NULL	2334	691	0.0004284490145672665
+korea national project	URC	1	1	2	2	1.000000000000	NULL	NULL	12	12	0.041666666666666664
+korea national project	Intelligent Robotics Frontier Research Program for 21st Century	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korea plaza activity	Korean Language Classes	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea plaza activity	volunteering in KTO event	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Korea product	Mama	1	1	1	1	1.000000000000	NULL	NULL	60	25	0.016666666666666666
+korea s cultural content	film	1	1	3	3	0.666666666666	NULL	NULL	3681	1439	0.00009055510278004166
+korea s cultural content	TV drama	1	1	3	3	0.666666666666	NULL	NULL	14	11	0.023809523809523808
+korea s cultural content	K-pop	1	1	3	3	0.666666666666	NULL	NULL	5	5	0.06666666666666667
+korea s material export	chemical	1	1	1	1	NULL	NULL	NULL	5436	1619	0.0001839587932303164
+korea s well-known shopping mall	New World Department Store	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+korea s well-known shopping mall	Doosan Tower	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+korea specific entitlement	Cost of Living Allowance	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+korea tv channel	SBS KBC Korea	2	1	4	3	NULL	NULL	NULL	2	1	0.5
+korea tv channel	KCTV Live TV	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+korea tv channel	KCTV Ch	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+korea vineger product	persimmon vinegar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea vineger product	bokbunja vinegar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's best cultural content	fashion	1	1	2	2	NULL	NULL	NULL	1376	491	0.0003633720930232558
+korea's best cultural content	music	1	1	2	2	NULL	NULL	NULL	14153	3857	0.00003532819896841659
+korea's best musician	Hwang Chan Hee	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korea's best musician	producer Han Jin Woo	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korea's best musician	Ahn Jung Hoon	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korea's best musician	Kim Gun Woo	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+korea's best musician	Yoo Jung Yeon	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korea's best musician	songwriters Lee Seung Ho	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korea's best musician	composer Park Hae Woon	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korea's big shipping firm	Hanjin Shipping	2	1	4	2	NULL	NULL	NULL	5	3	0.2
+korea's big shipping firm	STX Corporation	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+korea's biggest star	Song Seung-hun	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korea's biggest star	Jang Dong-gun	1	1	3	3	1.000000000000	NULL	NULL	10	6	0.03333333333333333
+korea's biggest star	Kwon Sang-woo	1	1	3	3	1.000000000000	NULL	NULL	10	4	0.03333333333333333
+korea's case sector	tech	2	2	4	2	0.500000000000	NULL	NULL	100	62	0.01
+korea's case sector	technology	2	1	4	2	0.500000000000	NULL	NULL	4468	1409	0.00022381378692927484
+korea's corporate giant	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korea's cultural content	film	1	1	3	3	0.666666666666	NULL	NULL	3681	1439	0.00009055510278004166
+korea's cultural content	TV drama	1	1	3	3	0.666666666666	NULL	NULL	14	11	0.023809523809523808
+korea's cultural content	K-pop	1	1	3	3	0.666666666666	NULL	NULL	5	5	0.06666666666666667
+korea's current economic issue	unemployment	1	1	2	2	NULL	NULL	NULL	3368	1052	0.0001484560570071259
+korea's current economic issue	high prices for consumer product	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's famous golf star	Seri Pak	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korea's famous jazz artist	Lee Jeong Sik	1	1	1	1	NULL	NULL	NULL	1	1	1
+korea's fashion magazine	Vogue	2	1	2	1	NULL	NULL	NULL	1131	265	0.0017683465959328027
+korea's flagship electronics company	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korea's giant conglomerate	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korea's global brand	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+Korea's great showbiz icon	Song Hye Gyo	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+korea's greatest western supporter	Percival Lowell	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+korea's greatest western supporter	James Gale	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korea's greatest western supporter	Edward Morse	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+korea's heavy industry	electronics	1	1	3	3	NULL	NULL	NULL	4365	1223	0.00007636502481863306
+korea's heavy industry	steel	1	1	3	3	NULL	NULL	NULL	7816	1994	0.00004264756055953599
+korea's heavy industry	passenger car	1	1	3	3	NULL	NULL	NULL	152	55	0.0021929824561403508
+korea's high mountain	Taebaek Mountains	1	1	1	1	NULL	NULL	NULL	1	1	1
+korea's key export item	semiconductor	1	1	2	2	NULL	NULL	NULL	981	357	0.0005096839959225281
+korea's key export item	car	1	1	2	2	NULL	NULL	NULL	7866	2381	0.00006356470887363335
+korea's key industry	electronics	1	1	1	1	NULL	NULL	NULL	4365	1223	0.0002290950744558992
+korea's large electronics firm	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korea's largest conglomerate	Hyundai	1	1	1	1	NULL	NULL	NULL	966	379	0.0010351966873706005
+korea's leading export product	semiconductor	1	1	4	4	NULL	NULL	NULL	981	357	0.00025484199796126404
+korea's leading export product	automobile	1	1	4	4	NULL	NULL	NULL	4192	1164	0.00005963740458015267
+korea's leading export product	computer	1	1	4	4	NULL	NULL	NULL	13729	3711	0.00001820962925194843
+korea's leading export product	telecommunications equipment	1	1	4	4	NULL	NULL	NULL	77	45	0.003246753246753247
+korea's low-price beauty label	Face Shop	2	2	3	2	1.000000000000	NULL	NULL	23	14	0.05797101449275362
+korea's low-price beauty label	Face Emporium	1	1	3	2	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korea's main export item	memory semiconductor	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korea's mainstream product	semiconductor	1	1	2	2	NULL	NULL	NULL	981	357	0.0005096839959225281
+korea's mainstream product	electronics appliance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's major company	Hyundai-Kia Motor Group	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+korea's major company	Samsung Electronics	1	1	6	6	NULL	NULL	NULL	263	138	0.0006337135614702154
+korea's major company	LG Electronics	1	1	6	6	NULL	NULL	NULL	261	142	0.0006385696040868454
+korea's major company	Samsung	1	1	6	6	NULL	NULL	NULL	5309	1487	0.00003139323161926289
+korea's major company	Hynix Semiconductors	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+korea's major company	LG	1	1	6	6	NULL	NULL	NULL	2334	691	0.00007140816909454442
+korea's major export industry	electronics	2	2	8	4	NULL	NULL	NULL	4365	1223	0.0001145475372279496
+korea's major export industry	shipbuilding	2	2	8	4	NULL	NULL	NULL	506	178	0.0009881422924901185
+korea's major export industry	automobile	2	2	8	4	NULL	NULL	NULL	4192	1164	0.00011927480916030534
+korea's major export industry	semiconductor	2	2	8	4	NULL	NULL	NULL	981	357	0.0005096839959225281
+korea's major export item	mobile phone	1	1	1	1	NULL	NULL	NULL	6991	1839	0.00014304105278214847
+korea's major export product	textile	1	1	3	3	NULL	NULL	NULL	3810	1081	0.00008748906386701662
+korea's major export product	toy	1	1	3	3	NULL	NULL	NULL	5414	1538	0.00006156877231867996
+korea's major export product	footwear	1	1	3	3	NULL	NULL	NULL	826	328	0.0004035512510088781
+korea's major holiday	Chuseok	1	1	2	2	1.000000000000	NULL	NULL	20	12	0.025
+korea's major holiday	Seollal	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+korea's major industry	automobile	3	3	3	1	NULL	NULL	NULL	4192	1164	0.0007156488549618321
+korea's major partner country	China	1	1	2	2	NULL	NULL	NULL	30422	3640	0.0000164354743277891
+korea's major partner country	Japan	1	1	2	2	NULL	NULL	NULL	17472	2459	0.000028617216117216117
+korea's major strategic industry	semiconductor	1	1	4	4	NULL	NULL	NULL	981	357	0.00025484199796126404
+korea's major strategic industry	car	1	1	4	4	NULL	NULL	NULL	7866	2381	0.000031782354436816676
+korea's major strategic industry	shipbuilding	1	1	4	4	NULL	NULL	NULL	506	178	0.0004940711462450593
+korea's major strategic industry	steel	1	1	4	4	NULL	NULL	NULL	7816	1994	0.000031985670419651997
+korea's manufacturer	Samsung	2	2	2	1	NULL	NULL	NULL	5309	1487	0.00037671877943115466
+korea's most popular singer	Girls Generation	2	2	4	2	1.000000000000	NULL	NULL	71	34	0.014084507042253521
+korea's most popular singer	TVXQ	2	2	4	2	1.000000000000	NULL	NULL	84	35	0.011904761904761904
+korea's native martial art	Taek Kyon	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korea's popular song	Son Dam Bi's Saturday Night	1	1	1	1	NULL	NULL	NULL	1	1	1
+korea's renowned art gallery	Gana Art	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's renowned art gallery	Gallery Hyundai	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's representative beauty	Song Hyegyo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's representative beauty	Lim Soojung	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's superstar	TVXQ	1	1	1	1	NULL	NULL	NULL	84	35	0.011904761904761904
+korea's talented artist	Monday Kiz	1	1	1	1	NULL	NULL	NULL	1	1	1
+korea's technological vanguard field	electronics	1	1	1	1	NULL	NULL	NULL	4365	1223	0.0002290950744558992
+korea's top artist	Lim Jung Hee	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+korea's top artist	Tei	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+korea's top artist	B2ST	1	1	3	3	1.000000000000	NULL	NULL	19	10	0.017543859649122806
+korea's top celebrity	Gong Yoo	2	2	21	12	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+korea's top celebrity	Kim Hee Sun	2	2	21	12	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+korea's top celebrity	Ha Ji Won	2	2	21	12	0.500000000000	NULL	NULL	6	4	0.031746031746031744
+korea's top celebrity	U-Know Yunho	2	2	21	12	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+korea's top celebrity	Ji Jin Hee	2	2	21	12	0.500000000000	NULL	NULL	2	1	0.09523809523809523
+korea's top celebrity	Yoona	2	2	21	12	0.500000000000	NULL	NULL	3	2	0.06349206349206349
+korea's top celebrity	Kim Hyun Joong	2	2	21	12	0.500000000000	NULL	NULL	10	9	0.019047619047619046
+korea's top celebrity	Son Ye Jin	2	2	21	12	0.500000000000	NULL	NULL	3	2	0.06349206349206349
+korea's top celebrity	Rain	2	2	21	12	0.500000000000	NULL	NULL	2930	823	0.00006500893872907524
+korea's top celebrity	Super Junior	1	1	21	12	0.500000000000	NULL	NULL	124	53	0.00038402457757296467
+korea's top celebrity	2AM	1	1	21	12	0.500000000000	NULL	NULL	17	9	0.0028011204481792717
+korea's top celebrity	2NE1	1	1	21	12	0.500000000000	NULL	NULL	48	24	0.000992063492063492
+korea's top filmmaker	Bong Joon-ho	2	2	6	3	1.000000000000	NULL	NULL	6	3	0.1111111111111111
+korea's top filmmaker	Kim Ki-duk	2	2	6	3	1.000000000000	NULL	NULL	12	6	0.05555555555555555
+korea's top filmmaker	Park Chan-wook	2	2	6	3	1.000000000000	NULL	NULL	17	11	0.0392156862745098
+korea's top singer	4men	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korea's top singer	Baek Ji Young	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+Korea's top singer-songwriters	Lee Juck	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korea's top vocalist	Baek Ji Young	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+korea's traditional food	kimchi	1	1	5	5	0.600000000000	NULL	NULL	249	92	0.0008032128514056225
+korea's traditional food	rice wine	1	1	5	5	0.600000000000	NULL	NULL	29	21	0.006896551724137932
+korea's traditional food	soy sauce	1	1	5	5	0.600000000000	NULL	NULL	892	258	0.0002242152466367713
+korea's traditional food	bean paste	1	1	5	5	0.600000000000	NULL	NULL	77	73	0.0025974025974025974
+korea's traditional food	salted fish	1	1	5	5	0.600000000000	NULL	NULL	46	26	0.004347826086956522
+korea's traditional industry	steel	1	1	2	2	NULL	NULL	NULL	7816	1994	0.00006397134083930399
+korea's traditional industry	petrochemical	1	1	2	2	NULL	NULL	NULL	715	241	0.0006993006993006993
+korea's typical fashion shopping arcade	Kangnam	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+korea's various traditional ceramic	pottery ware	1	1	1	1	NULL	NULL	NULL	1	1	1
+korea's world-renowned company	Samsung Heavy Industries	1	1	1	1	1.000000000000	NULL	NULL	15	10	0.06666666666666667
+korea-based global player	Samsung Electronics	1	1	1	1	NULL	NULL	NULL	263	138	0.0038022813688212928
+korea-japan cultural exchange event	exhibition	1	1	1	1	NULL	NULL	NULL	1210	460	0.0008264462809917355
+Korea-related information	cultural	1	1	2	2	NULL	NULL	NULL	968	387	0.0005165289256198347
+Korea-related information	language resource	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+korea-related scene	soju	2	2	4	2	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+korea-related scene	Korean restaurant	2	2	4	2	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+Korean A-listers	Won Bin	1	1	2	2	1.000000000000	NULL	NULL	14	8	0.03571428571428571
+Korean A-listers	Hyun Bin	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+korean accessory	earring	1	1	2	2	NULL	NULL	NULL	1525	531	0.0003278688524590164
+korean accessory	necklace	1	1	2	2	NULL	NULL	NULL	2291	723	0.00021824530772588389
+korean acclaimed music group	Seoul Philharmonic Orchestra	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+korean acclaimed music group	Suwon Philharmonic Orchestra	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean acclaimed music group	Seoul Symphony Orchestra	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+korean act	Lee Han-chul	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+korean act	boyband	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+korean act	Bobby Kim	1	1	8	8	NULL	NULL	NULL	4	3	0.03125
+korean act	Lee Sang-eun	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+korean act	Mario	1	1	8	8	NULL	NULL	NULL	498	208	0.000251004016064257
+korean act	Super Kid	1	1	8	8	NULL	NULL	NULL	2	2	0.0625
+korean act	Bigbang	1	1	8	8	NULL	NULL	NULL	9	4	0.013888888888888888
+korean act	Deli Spice	1	1	8	8	NULL	NULL	NULL	1	1	0.125
+korean activity	CF filming	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean actor	Choi Jiwoo	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+korean actor	Shin Seunghun	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+korean actor	Bae Yong Jun	1	1	9	9	1.000000000000	NULL	NULL	2	2	0.05555555555555555
+korean actor	Bae Yongjun	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+korean actor	Choi Ji Woo	1	1	9	9	1.000000000000	NULL	NULL	6	5	0.018518518518518517
+korean actor	Kang Dong Won	1	1	9	9	1.000000000000	NULL	NULL	3	3	0.037037037037037035
+korean actor	Ryu Shiwon	1	1	9	9	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+korean actor	Lee Byung-hun	1	1	9	9	1.000000000000	NULL	NULL	10	4	0.01111111111111111
+korean actor	Won Bin	1	1	9	9	1.000000000000	NULL	NULL	14	8	0.007936507936507936
+korean american actor	Leonardo Nam for breaking down barrier	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean american actor	John Cho	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+korean american organization	Korean American Leaders Association	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean Americans	Marcia Choo	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean and chinese program	Pimsleur	1	1	1	1	1.000000000000	NULL	NULL	25	17	0.04
+korean and domestic car brand	Kia	1	1	3	3	NULL	NULL	NULL	301	131	0.0011074197120708748
+korean and domestic car brand	Hyndai	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+korean and domestic car brand	Ford	1	1	3	3	NULL	NULL	NULL	4256	1161	0.00007832080200501253
+korean and foreign bank	Citi Bank	1	1	1	1	1.000000000000	NULL	NULL	42	26	0.023809523809523808
+korean and french artist	Lee Doo-Ho	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean and french artist	Vanyda	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean and french artist	Park Heung-yong	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean and international product	Chanel	1	1	3	3	NULL	NULL	NULL	1978	746	0.00016852039096730702
+korean and international product	Shiseido	1	1	3	3	NULL	NULL	NULL	117	65	0.0028490028490028487
+korean and international product	Clinique	1	1	3	3	NULL	NULL	NULL	364	155	0.0009157509157509158
+korean and japanese dish	Korean BBQ dish	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean and japanese dish	teriyaki	1	1	4	4	NULL	NULL	NULL	152	93	0.001644736842105263
+korean and japanese dish	sushi	1	1	4	4	NULL	NULL	NULL	672	286	0.0003720238095238095
+korean and japanese dish	tempura	1	1	4	4	NULL	NULL	NULL	228	118	0.0010964912280701754
+korean and japanese fare	sushi	1	1	1	1	NULL	NULL	NULL	672	286	0.001488095238095238
+korean and japanese female artist	Ham Youn-joo	2	1	8	5	NULL	NULL	NULL	2	1	0.25
+korean and japanese female artist	Seo Hyo-jung	2	1	8	5	NULL	NULL	NULL	2	1	0.25
+korean and japanese female artist	Ishiuchi Miyako	2	1	8	5	NULL	NULL	NULL	2	1	0.25
+korean and japanese female artist	Jeong Soyoun	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+korean and japanese female artist	Jeong So-youn	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+korean and japanese item	barbecued short rib	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean and japanese major	Hyundai	1	1	1	1	NULL	NULL	NULL	966	379	0.0010351966873706005
+korean and japanese manufacturer	Hitachi	1	1	4	4	0.250000000000	NULL	NULL	997	379	0.00025075225677031093
+korean and japanese manufacturer	Samsung	1	1	4	4	0.250000000000	NULL	NULL	5309	1487	0.00004708984742889433
+korean and japanese manufacturer	Komatsu	1	1	4	4	0.250000000000	NULL	NULL	156	81	0.0016025641025641025
+korean and japanese manufacturer	Kobelco	1	1	4	4	0.250000000000	NULL	NULL	25	17	0.01
+korean and japanese stock	Samsung Electronics	1	1	1	1	NULL	NULL	NULL	263	138	0.0038022813688212928
+korean and korean-american medium outlet	Korea Times	2	2	2	1	1.000000000000	NULL	NULL	11	6	0.18181818181818182
+korean and korean-american merchant	Chung	1	1	1	1	1.000000000000	NULL	NULL	15	13	0.06666666666666667
+korean and taiwanese brand	Kymco	2	2	3	2	1.000000000000	NULL	NULL	22	12	0.0606060606060606
+korean and taiwanese brand	SYM	1	1	3	2	1.000000000000	NULL	NULL	13	11	0.02564102564102564
+korean and taiwanese semiconductor firm	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean and vietnamese specialty	chap chye	1	1	1	1	1.000000000000	NULL	NULL	3	3	0.3333333333333333
+korean antique	dish	1	1	5	5	0.142857142857	NULL	NULL	1090	457	0.0001834862385321101
+korean antique	vase	1	1	5	5	0.142857142857	NULL	NULL	1492	643	0.00013404825737265417
+korean antique	chest	1	1	5	5	0.142857142857	NULL	NULL	727	289	0.0002751031636863824
+korean antique	stove	1	1	5	5	0.142857142857	NULL	NULL	2143	611	0.00009332711152589828
+korean antique	pottery	1	1	5	5	0.142857142857	NULL	NULL	1931	710	0.0001035732780942517
+korean art	Taekwondo	2	2	8	7	0.333333333333	NULL	NULL	239	90	0.0020920502092050207
+korean art	Tae Kwon Do	1	1	8	7	0.333333333333	NULL	NULL	192	70	0.0006510416666666666
+korean art	Tang Soo Do	1	1	8	7	0.333333333333	NULL	NULL	18	9	0.006944444444444444
+korean art	Kuk Sool Won	1	1	8	7	0.333333333333	NULL	NULL	2	2	0.0625
+korean art	Hwarang Do	1	1	8	7	0.333333333333	NULL	NULL	1	1	0.125
+korean art	Kumdo	1	1	8	7	0.333333333333	NULL	NULL	5	4	0.025
+korean art	circular korean art	1	1	8	7	0.333333333333	NULL	NULL	2	2	0.0625
+korean art school	Hongik University's	2	2	2	1	NULL	NULL	NULL	2	1	1
+korean artifact	authentic drum	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean artist	SNSD	4	4	45	37	0.550000000000	NULL	NULL	111	47	0.0032032032032032033
+korean artist	Big Bang	3	3	45	37	0.550000000000	NULL	NULL	223	82	0.0008968609865470852
+korean artist	BoA	3	3	45	37	0.550000000000	NULL	NULL	238	83	0.0008403361344537816
+korean artist	Super Junior	2	2	45	37	0.550000000000	NULL	NULL	124	53	0.0007168458781362007
+korean artist	Tohoshinki	1	1	45	37	0.550000000000	NULL	NULL	5	4	0.0044444444444444444
+korean artist	TVXQ	1	1	45	37	0.550000000000	NULL	NULL	84	35	0.00026455026455026457
+korean artist	fine artist	1	1	45	37	0.550000000000	NULL	NULL	5	5	0.0044444444444444444
+korean artist	2PM	1	1	45	37	0.550000000000	NULL	NULL	58	24	0.0003831417624521073
+korean artist	BEAST	1	1	45	37	0.550000000000	NULL	NULL	161	92	0.00013802622498274673
+korean artist	Kang Saneh	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	Younha	1	1	45	37	0.550000000000	NULL	NULL	2	2	0.011111111111111112
+korean artist	Lee Hyun	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	Lee Seung Gi	1	1	45	37	0.550000000000	NULL	NULL	8	4	0.002777777777777778
+korean artist	Kim C	1	1	45	37	0.550000000000	NULL	NULL	2	2	0.011111111111111112
+korean artist	Jaurim	1	1	45	37	0.550000000000	NULL	NULL	2	2	0.011111111111111112
+korean artist	Dong Bang Shin Ki	1	1	45	37	0.550000000000	NULL	NULL	6	6	0.003703703703703704
+korean artist	MBLAQ	1	1	45	37	0.550000000000	NULL	NULL	17	11	0.0013071895424836603
+korean artist	Yoon Do Hyun	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	singer Lim Jung-heui	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	Rain	1	1	45	37	0.550000000000	NULL	NULL	2930	823	0.000007584376185058779
+korean artist	Rapper Mina Joo	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	B2ST	1	1	45	37	0.550000000000	NULL	NULL	19	10	0.0011695906432748538
+korean artist	Bae Yong Joon	1	1	45	37	0.550000000000	NULL	NULL	6	6	0.003703703703703704
+korean artist	Jong Hoan Choi	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	Ji Hye Weon	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	JOO	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	non-verbal performance team	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	San E	1	1	45	37	0.550000000000	NULL	NULL	2	2	0.011111111111111112
+korean artist	SHINee	1	1	45	37	0.550000000000	NULL	NULL	15	10	0.0014814814814814816
+korean artist	Wonder Girls	1	1	45	37	0.550000000000	NULL	NULL	59	26	0.0003766478342749529
+korean artist	Cho Yong Pil	1	1	45	37	0.550000000000	NULL	NULL	1	1	0.022222222222222223
+korean artist	Kara	1	1	45	37	0.550000000000	NULL	NULL	43	21	0.000516795865633075
+korean artist	dancer	1	1	45	37	0.550000000000	NULL	NULL	303	131	0.00007334066740007334
+korean artist	Drunken Tiger	1	1	45	37	0.550000000000	NULL	NULL	17	9	0.0013071895424836603
+korean artist	2AM	1	1	45	37	0.550000000000	NULL	NULL	17	9	0.0013071895424836603
+korean artist	successful korean artist	1	1	45	37	0.550000000000	NULL	NULL	2	2	0.011111111111111112
+korean artist	south korean artist	1	1	45	37	0.550000000000	NULL	NULL	2	2	0.011111111111111112
+Korean auteurs	Park Kwang-su	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean author	Shin Kyung-sook	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean auto body part	front bumper	8	2	46	8	0.833333333333	NULL	NULL	91	38	0.015289058767319636
+korean auto body part	mirror	8	2	46	8	0.833333333333	NULL	NULL	718	359	0.001937749788058617
+korean auto body part	side lamp	8	2	46	8	0.833333333333	NULL	NULL	16	8	0.08695652173913043
+korean auto body part	head lamp	8	2	46	8	0.833333333333	NULL	NULL	66	48	0.021080368906455864
+korean auto body part	fog lamp	8	2	46	8	0.833333333333	NULL	NULL	90	57	0.015458937198067632
+korean auto body part	grille	6	2	46	8	0.833333333333	NULL	NULL	179	95	0.004372115618168569
+korean auto maker	Kia	1	1	2	2	0.333333333333	NULL	NULL	301	131	0.0016611295681063123
+korean auto maker	Hyundai	1	1	2	2	0.333333333333	NULL	NULL	966	379	0.0005175983436853002
+korean automaker	Hyundai	5	5	7	3	0.333333333333	NULL	NULL	966	379	0.0036971310263235733
+korean automaker	south korean automaker	1	1	7	3	0.333333333333	NULL	NULL	2	2	0.07142857142857142
+korean automaker	Kia	1	1	7	3	0.333333333333	NULL	NULL	301	131	0.0004746084480303749
+korean band	Girls Generation	2	2	5	4	1.000000000000	NULL	NULL	71	34	0.011267605633802818
+korean band	Sogyumo Acasia Band	1	1	5	4	1.000000000000	NULL	NULL	1	1	0.2
+korean band	Humming Urban Stereo	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+korean band	Han Geng	1	1	5	4	1.000000000000	NULL	NULL	2	2	0.1
+korean bank	KB Kookmin	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korean bank	Korean Exchange Bank	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean bank	Hana Bank	1	1	4	4	NULL	NULL	NULL	5	5	0.05
+korean bank	dog korean bank	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korean barbeque offering	short ribs bulgogi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean barbeque offering	beef bulgogi	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean baseball team	Samsung Lions	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean baseball team	Lotte Giants	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean based company	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean beauty	Han Chae Young	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean beauty	Shin Min Ah	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+korean beauty brand	Laneige	1	1	1	1	NULL	NULL	NULL	11	5	0.09090909090909091
+korean beauty skin care product	snail essence	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean beer	OB Lager	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+korean big company	Lotte	1	1	3	3	0.666666666666	NULL	NULL	26	19	0.01282051282051282
+korean big company	Hyundai	1	1	3	3	0.666666666666	NULL	NULL	966	379	0.0003450655624568668
+korean big company	CJ	1	1	3	3	0.666666666666	NULL	NULL	32	24	0.010416666666666666
+Korean blockbuster auteurs	Park Chan-Wook	1	1	2	2	1.000000000000	NULL	NULL	17	11	0.029411764705882353
+Korean blockbuster auteurs	Bong Jun-Ho	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean brand	Samsung	9	9	50	23	0.529411764705	NULL	NULL	5309	1487	0.00030514221133923523
+korean brand	Hyundai	8	8	50	23	0.529411764705	NULL	NULL	966	379	0.0013250517598343687
+korean brand	LG	5	5	50	23	0.529411764705	NULL	NULL	2334	691	0.00021422450728363326
+korean brand	Missha	4	4	50	23	0.529411764705	NULL	NULL	16	8	0.02
+korean brand	Kia	3	3	50	23	0.529411764705	NULL	NULL	301	131	0.0005980066445182724
+korean brand	Face Shop	3	3	50	23	0.529411764705	NULL	NULL	23	14	0.007826086956521738
+korean brand	Skin Food	2	2	50	23	0.529411764705	NULL	NULL	13	12	0.006153846153846154
+korean brand	GEO EOS Bescon	1	1	50	23	0.529411764705	NULL	NULL	1	1	0.02
+korean brand	Tony Moly	1	1	50	23	0.529411764705	NULL	NULL	7	7	0.002857142857142857
+korean brand	tier korean brand	1	1	50	23	0.529411764705	NULL	NULL	2	2	0.01
+korean brand	daewoo	1	1	50	23	0.529411764705	NULL	NULL	169	101	0.00011834319526627219
+korean brand	Etude	1	1	50	23	0.529411764705	NULL	NULL	8	11	0.0025
+korean brand	Nokia	1	1	50	23	0.529411764705	NULL	NULL	3672	1047	0.000005446623093681918
+korean brand	Leader Clinic & Bidanpo	1	1	50	23	0.529411764705	NULL	NULL	1	1	0.02
+korean brand	Indian company	1	1	50	23	0.529411764705	NULL	NULL	1	1	0.02
+korean brand	Etude House	1	1	50	23	0.529411764705	NULL	NULL	13	9	0.0015384615384615385
+korean brand	Fila	1	1	50	23	0.529411764705	NULL	NULL	122	54	0.0001639344262295082
+korean brand	CNB	1	1	50	23	0.529411764705	NULL	NULL	9	9	0.0022222222222222222
+korean brand	Young Chang	1	1	50	23	0.529411764705	NULL	NULL	11	7	0.0018181818181818182
+korean brand	dr. jart	1	1	50	23	0.529411764705	NULL	NULL	1	1	0.02
+korean brand	Samick	1	1	50	23	0.529411764705	NULL	NULL	9	8	0.0022222222222222222
+korean brand	Weber	1	1	50	23	0.529411764705	NULL	NULL	226	105	0.00008849557522123894
+korean brand	japanese and korean brand	1	1	50	23	0.529411764705	NULL	NULL	2	2	0.01
+korean brand machine tool	machining center	2	1	2	1	1.000000000000	NULL	NULL	46	23	0.043478260869565216
+korean broadcast company	KBS	1	1	2	2	0.500000000000	NULL	NULL	14	11	0.03571428571428571
+korean broadcast company	SBS	1	1	2	2	0.500000000000	NULL	NULL	88	58	0.005681818181818182
+korean broadcasting channel	MBC	1	1	2	2	0.500000000000	NULL	NULL	40	31	0.0125
+korean broadcasting channel	SBS	1	1	2	2	0.500000000000	NULL	NULL	88	58	0.005681818181818182
+korean business	big korean business	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean business	cleaner	1	1	2	2	NULL	NULL	NULL	1041	373	0.0004803073967339097
+korean business conglomerate	Hyundai	4	4	12	3	0.250000000000	NULL	NULL	966	379	0.0013802622498274672
+korean business conglomerate	Samsung	4	4	12	3	0.250000000000	NULL	NULL	5309	1487	0.0002511458529541031
+korean business conglomerate	LG	4	4	12	3	0.250000000000	NULL	NULL	2334	691	0.0005712653527563553
+korean business establishment	restaurant	1	1	1	1	NULL	NULL	NULL	11422	2864	0.00008755034144633164
+korean candy bar	Red Fox	1	1	2	2	0.500000000000	NULL	NULL	350	105	0.0014285714285714286
+korean candy bar	Black Joe	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+korean car	Hyundai	5	5	17	9	0.285714285714	NULL	NULL	966	379	0.0015223480696626478
+korean car	Kia	5	5	17	9	0.285714285714	NULL	NULL	301	131	0.004885675200312684
+korean car	Kia Magentis	1	1	17	9	0.285714285714	NULL	NULL	1	1	0.058823529411764705
+korean car	BMW	1	1	17	9	0.285714285714	NULL	NULL	3327	977	0.000017680652062448063
+korean car	Suzuki	1	1	17	9	0.285714285714	NULL	NULL	504	212	0.00011671335200746965
+korean car	Daewoo	1	1	17	9	0.285714285714	NULL	NULL	169	101	0.00034806822137138876
+korean car	Samsung	1	1	17	9	0.285714285714	NULL	NULL	5309	1487	0.000011079964100916312
+korean car	Hyundai Sonata	1	1	17	9	0.285714285714	NULL	NULL	31	19	0.0018975332068311196
+korean car	Dawoo	1	1	17	9	0.285714285714	NULL	NULL	1	1	0.058823529411764705
+korean car company	Hyundai	2	2	2	1	NULL	NULL	NULL	966	379	0.002070393374741201
+korean car maker	Kia	1	1	2	2	NULL	NULL	NULL	301	131	0.0016611295681063123
+korean car maker	Hyundai	1	1	2	2	NULL	NULL	NULL	966	379	0.0005175983436853002
+korean car manufacturer	Daewoo Motor Co.	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Korean carmakers	Hyundai	3	3	4	2	0.500000000000	NULL	NULL	966	379	0.002329192546583851
+korean carmakers	south korean carmakers	1	1	4	2	0.500000000000	NULL	NULL	2	2	0.125
+korean case phenomenon	Stacking	2	2	6	3	0.666666666666	NULL	NULL	8	7	0.08333333333333333
+korean case phenomenon	Multiple Case Constructions	2	2	6	3	0.666666666666	NULL	NULL	2	1	0.3333333333333333
+korean case phenomenon	Deletion	2	2	6	3	0.666666666666	NULL	NULL	695	333	0.0009592326139088728
+korean celebrity	Ha Ji-won	2	2	20	18	0.428571428571	NULL	NULL	7	4	0.028571428571428574
+korean celebrity	boy band Super Junior	2	2	20	18	0.428571428571	NULL	NULL	2	1	0.1
+korean celebrity	Block B's Taeil	1	1	20	18	0.428571428571	NULL	NULL	2	2	0.025
+korean celebrity	Song Yoon-ah	1	1	20	18	0.428571428571	NULL	NULL	1	1	0.05
+korean celebrity	Super Junior	1	1	20	18	0.428571428571	NULL	NULL	124	53	0.0004032258064516129
+korean celebrity	famous korean celebrity	1	1	20	18	0.428571428571	NULL	NULL	2	2	0.025
+korean celebrity	Kim Tae-hee	1	1	20	18	0.428571428571	NULL	NULL	4	3	0.0125
+korean celebrity	MBLAQ's Thunder	1	1	20	18	0.428571428571	NULL	NULL	1	1	0.05
+korean celebrity	world figure skater Yuna Kim	1	1	20	18	0.428571428571	NULL	NULL	1	1	0.05
+korean celebrity	Ayumi Hamasaki	1	1	20	18	0.428571428571	NULL	NULL	34	23	0.0014705882352941176
+korean celebrity	Brian Joo	1	1	20	18	0.428571428571	NULL	NULL	2	2	0.025
+korean celebrity	Kim Heechul from Super Junior	1	1	20	18	0.428571428571	NULL	NULL	1	1	0.05
+korean celebrity	KIm Ki Bum	1	1	20	18	0.428571428571	NULL	NULL	1	1	0.05
+korean celebrity	Yoon Eun-hye	1	1	20	18	0.428571428571	NULL	NULL	7	3	0.0071428571428571435
+korean celebrity	Song Hye-kyo	1	1	20	18	0.428571428571	NULL	NULL	7	3	0.0071428571428571435
+korean celebrity	BoA	1	1	20	18	0.428571428571	NULL	NULL	238	83	0.0002100840336134454
+korean celebrity	Han Ga-in	1	1	20	18	0.428571428571	NULL	NULL	2	2	0.025
+korean celebrity	Super Junior's Si Won	1	1	20	18	0.428571428571	NULL	NULL	1	1	0.05
+Korean celebs	Kim Tae-hee	1	1	2	2	0.500000000000	NULL	NULL	4	3	0.125
+Korean celebs	2NE1	1	1	2	2	0.500000000000	NULL	NULL	48	24	0.010416666666666666
+korean cell	LG	1	1	1	1	NULL	NULL	NULL	2334	691	0.0004284490145672665
+korean ceramic artist	Human Cultural Treasure Park Byung Teak	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean chaeb firm	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+korean chaeb firm	Hyundai	1	1	2	2	NULL	NULL	NULL	966	379	0.0005175983436853002
+Korean chaebol	Samsung	2	2	5	4	0.250000000000	NULL	NULL	5309	1487	0.00015068751177246185
+Korean chaebol	LG	1	1	5	4	0.250000000000	NULL	NULL	2334	691	0.0000856898029134533
+Korean chaebol	Lucky Goldstar	1	1	5	4	0.250000000000	NULL	NULL	9	9	0.022222222222222223
+Korean chaebol	Hyundai	1	1	5	4	0.250000000000	NULL	NULL	966	379	0.00020703933747412008
+Korean Chaebols	Samsung	4	4	17	13	0.142857142857	NULL	NULL	5309	1487	0.000177279425614661
+Korean Chaebols	LG	2	2	17	13	0.142857142857	NULL	NULL	2334	691	0.00010081153283935682
+Korean Chaebols	Kumho Petrochemical	1	1	17	13	0.142857142857	NULL	NULL	1	1	0.058823529411764705
+Korean Chaebols	Honam Petrochemical	1	1	17	13	0.142857142857	NULL	NULL	1	1	0.058823529411764705
+Korean Chaebols	Daewoo	1	1	17	13	0.142857142857	NULL	NULL	169	101	0.00034806822137138876
+Korean Chaebols	STX Group	1	1	17	13	0.142857142857	NULL	NULL	1	1	0.058823529411764705
+korean chaebols	south korean chaebols	1	1	17	13	0.142857142857	NULL	NULL	2	2	0.029411764705882353
+Korean Chaebols	Lotte Group	1	1	17	13	0.142857142857	NULL	NULL	1	1	0.058823529411764705
+Korean Chaebols	Kiswire Group	1	1	17	13	0.142857142857	NULL	NULL	1	1	0.058823529411764705
+Korean Chaebols	Lucky Goldstar	1	1	17	13	0.142857142857	NULL	NULL	9	9	0.006535947712418301
+Korean Chaebols	Korean Air	1	1	17	13	0.142857142857	NULL	NULL	60	26	0.000980392156862745
+Korean Chaebols	Halla Energy	1	1	17	13	0.142857142857	NULL	NULL	1	1	0.058823529411764705
+Korean Chaebols	Hyundai	1	1	17	13	0.142857142857	NULL	NULL	966	379	0.00006089392278650591
+korean chain	Jardin	1	1	2	2	0.500000000000	NULL	NULL	2	2	0.25
+korean chain	Falling in Coffee	1	1	2	2	0.500000000000	NULL	NULL	1	1	0.5
+korean character	John Haw	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean cigarette company	Woori Tobacco	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean cinematic exposts	Host in recent year	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+korean city	Seoul	2	2	7	6	0.750000000000	NULL	NULL	342	91	0.001670843776106934
+korean city	Busan	1	1	7	6	0.750000000000	NULL	NULL	50	20	0.002857142857142857
+korean city	Incheon	1	1	7	6	0.750000000000	NULL	NULL	17	13	0.008403361344537815
+korean city	Pyeongtaek	1	1	7	6	0.750000000000	NULL	NULL	2	2	0.07142857142857142
+korean city	Suwon	1	1	7	6	0.750000000000	NULL	NULL	6	4	0.023809523809523808
+korean city	Daejeon	1	1	7	6	0.750000000000	NULL	NULL	17	8	0.008403361344537815
+korean classic	mandu	1	1	1	1	1.000000000000	NULL	NULL	8	8	0.125
+korean classic literary work	Story of Hong	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean classical musician	conductor Myung Whun Chung	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean classical musician	composer Isang Yun	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean classical musician	violinist Kyung Wha Chung	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean classical musician	pianist Kun Woo Paik	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean client	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+korean client	LG	1	1	2	2	NULL	NULL	NULL	2334	691	0.00021422450728363326
+korean climber	Eun-Sun Oh	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean company	Samsung	34	32	173	68	0.861111111111	NULL	NULL	5309	1487	0.0012586326850358809
+korean company	LG	26	24	173	68	0.861111111111	NULL	NULL	2334	691	0.0016741707158813418
+korean company	Hyundai	19	17	173	68	0.861111111111	NULL	NULL	966	379	0.0021601503129525246
+korean company	Samsung Electronics	5	5	173	68	0.861111111111	NULL	NULL	263	138	0.0005494626255522099
+korean company	Hyundai Motors	5	3	173	68	0.861111111111	NULL	NULL	26	20	0.005558025789239662
+korean company	Daewoo	5	5	173	68	0.861111111111	NULL	NULL	169	101	0.0008550808906522556
+korean company	Kia	4	4	173	68	0.861111111111	NULL	NULL	301	131	0.000307260960574578
+korean company	SK	4	3	173	68	0.861111111111	NULL	NULL	45	35	0.0020552344251766217
+korean company	GS	4	3	173	68	0.861111111111	NULL	NULL	67	44	0.001380381330342507
+korean company	LG Chem	3	3	173	68	0.861111111111	NULL	NULL	16	8	0.003251445086705202
+korean company	POSCO	3	3	173	68	0.861111111111	NULL	NULL	66	37	0.0007882291119285338
+korean company	Hyundai Heavy Industries	2	1	173	68	0.861111111111	NULL	NULL	31	21	0.0007458512026850643
+korean company	KIA Motors	2	2	173	68	0.861111111111	NULL	NULL	20	15	0.0011560693641618496
+korean company	Hyosung	2	2	173	68	0.861111111111	NULL	NULL	15	14	0.0015414258188824663
+korean company	SK Chemicals	2	2	173	68	0.861111111111	NULL	NULL	3	2	0.007707129094412331
+korean company	Korean Air	2	2	173	68	0.861111111111	NULL	NULL	60	26	0.0003853564547206166
+korean company	SK Energy	2	2	173	68	0.861111111111	NULL	NULL	9	7	0.002569043031470777
+korean company	Korea Telecom	1	1	173	68	0.861111111111	NULL	NULL	16	12	0.000361271676300578
+korean company	Hyundai Motor Company	1	1	173	68	0.861111111111	NULL	NULL	7	7	0.0008257638315441783
+korean company	Hanjin Heavy	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	global korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	big korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	CJ	1	1	173	68	0.861111111111	NULL	NULL	32	24	0.000180635838150289
+korean company	Toray Saehan	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	top korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	DSME	1	1	173	68	0.861111111111	NULL	NULL	3	3	0.0019267822736030828
+korean company	Showbox	1	1	173	68	0.861111111111	NULL	NULL	3	3	0.0019267822736030828
+korean company	Winners Korea	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	GS Construction	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	Hanjin Heavy Industries & Construction Co.	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	Korean Oil Company	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	Korean automaker giant	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	LG Electronics	1	1	173	68	0.861111111111	NULL	NULL	261	142	0.000022146922685092906
+korean company	LG telecom	1	1	173	68	0.861111111111	NULL	NULL	13	9	0.00044464206313917296
+korean company	LUTS	1	1	173	68	0.861111111111	NULL	NULL	9	7	0.0006422607578676942
+korean company	globally active korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	Construction	1	1	173	68	0.861111111111	NULL	NULL	6231	1679	0.0000009276756252301794
+korean company	currently south korean company	1	1	173	68	0.861111111111	NULL	NULL	3	3	0.0019267822736030828
+korean company	cost-conscious korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	SK Corporation	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	POSCO purchase	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	prominent korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	Hyundai Industries Co.	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	Kumho Tires	1	1	173	68	0.861111111111	NULL	NULL	7	6	0.0008257638315441783
+korean company	JYP	1	1	173	68	0.861111111111	NULL	NULL	14	12	0.00041288191577208916
+korean company	large korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	large south korean company	1	1	173	68	0.861111111111	NULL	NULL	3	3	0.0019267822736030828
+korean company	BASIC HOUSE	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	today korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	technology-oriented korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	Fila	1	1	173	68	0.861111111111	NULL	NULL	122	54	0.000047379891973846294
+korean company	Daewoo Shipbuilding & Marine Engineering Co.	1	1	173	68	0.861111111111	NULL	NULL	3	3	0.0019267822736030828
+korean company	Daewoo E&C	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	Doosan	1	1	173	68	0.861111111111	NULL	NULL	28	22	0.00020644095788604458
+korean company	MBC	1	1	173	68	0.861111111111	NULL	NULL	40	31	0.0001445086705202312
+korean company	shipbuilder	1	1	173	68	0.861111111111	NULL	NULL	14	14	0.00041288191577208916
+korean company	SM Entertainment	1	1	173	68	0.861111111111	NULL	NULL	11	8	0.0005254860746190226
+korean company	Shinsegae	1	1	173	68	0.861111111111	NULL	NULL	12	11	0.0004816955684007707
+korean company	YG	1	1	173	68	0.861111111111	NULL	NULL	14	12	0.00041288191577208916
+korean company	Dusan	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	IRe Chemical	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	japanese and korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	leading korean company	1	1	173	68	0.861111111111	NULL	NULL	2	2	0.002890173410404624
+korean company	Namkwang Engineering	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean company	SKT	1	1	173	68	0.861111111111	NULL	NULL	11	11	0.0005254860746190226
+korean company	SBS KPOP STAR	1	1	173	68	0.861111111111	NULL	NULL	1	1	0.005780346820809248
+korean competitor	Samsung	1	1	2	2	0.500000000000	NULL	NULL	5309	1487	0.00009417969485778867
+korean competitor	LGE	1	1	2	2	0.500000000000	NULL	NULL	13	11	0.038461538461538464
+Korean conflict	Leslie Shaw	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean conglomerate	Samsung	9	9	31	15	0.500000000000	NULL	NULL	5309	1487	0.0004921648569987666
+korean conglomerate	LG	4	4	31	15	0.500000000000	NULL	NULL	2334	691	0.00022113497526052463
+korean conglomerate	Hyundai	3	3	31	15	0.500000000000	NULL	NULL	966	379	0.00030054097375275494
+korean conglomerate	LG Electronics	3	3	31	15	0.500000000000	NULL	NULL	261	142	0.0011123470522803112
+korean conglomerate	Hyundai Motors	2	2	31	15	0.500000000000	NULL	NULL	26	20	0.004962779156327543
+korean conglomerate	giant korean conglomerate	1	1	31	15	0.500000000000	NULL	NULL	2	2	0.016129032258064516
+korean conglomerate	SK Group	1	1	31	15	0.500000000000	NULL	NULL	3	3	0.01075268817204301
+korean conglomerate	Samsung Electronics	1	1	31	15	0.500000000000	NULL	NULL	263	138	0.00012265423770391266
+korean conglomerate	Hyundai Heavy Industries	1	1	31	15	0.500000000000	NULL	NULL	31	21	0.0010405827263267429
+korean conglomerate	SK	1	1	31	15	0.500000000000	NULL	NULL	45	35	0.0007168458781362007
+korean conglomerate	globally well-known south korean conglomerate	1	1	31	15	0.500000000000	NULL	NULL	3	3	0.01075268817204301
+korean conglomerate	big korean conglomerate	1	1	31	15	0.500000000000	NULL	NULL	2	2	0.016129032258064516
+korean conglomerate	Lucky Gold Star	1	1	31	15	0.500000000000	NULL	NULL	1	1	0.03225806451612903
+korean conglomerate	Lotte	1	1	31	15	0.500000000000	NULL	NULL	26	19	0.0012406947890818859
+korean conglomerate	large korean conglomerate	1	1	31	15	0.500000000000	NULL	NULL	2	2	0.016129032258064516
+korean construction company	Daelim	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+korean construction company	Daewoo Engineering & Construction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean consumer name	cosmetics company Amorepacific	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean consumer name	Fila Korea	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean consumer name	tobacco stock KT&G	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean content	Animation	1	1	4	4	0.250000000000	NULL	NULL	1866	795	0.0001339764201500536
+korean content	TV drama	1	1	4	4	0.250000000000	NULL	NULL	14	11	0.017857142857142856
+korean content	Character	1	1	4	4	0.250000000000	NULL	NULL	1526	541	0.000163826998689384
+korean content	Cartoon	1	1	4	4	0.250000000000	NULL	NULL	508	290	0.0004921259842519685
+korean corporation	Samsung	3	3	6	3	NULL	NULL	NULL	5309	1487	0.000282539084573366
+korean corporation	LG	2	2	6	3	NULL	NULL	NULL	2334	691	0.00028563267637817766
+korean corporation	Hyundai	1	1	6	3	NULL	NULL	NULL	966	379	0.0001725327812284334
+korean cosmetic	Laneige	3	3	20	14	1.000000000000	NULL	NULL	11	5	0.0409090909090909
+korean cosmetic	Etude House	2	2	20	14	1.000000000000	NULL	NULL	13	9	0.015384615384615385
+korean cosmetic	Sulwhasoo	2	2	20	14	1.000000000000	NULL	NULL	2	1	0.1
+korean cosmetic	Skinfood	2	2	20	14	1.000000000000	NULL	NULL	4	3	0.05
+korean cosmetic	Face Shop	2	2	20	14	1.000000000000	NULL	NULL	23	14	0.008695652173913044
+korean cosmetic	BB Creams	1	1	20	14	1.000000000000	NULL	NULL	1	1	0.05
+korean cosmetic	Rojukiss	1	1	20	14	1.000000000000	NULL	NULL	1	1	0.05
+korean cosmetic	authentic korean cosmetic	1	1	20	14	1.000000000000	NULL	NULL	2	2	0.025
+korean cosmetic	Baviphat	1	1	20	14	1.000000000000	NULL	NULL	3	2	0.016666666666666666
+korean cosmetic	Skin Lotions	1	1	20	14	1.000000000000	NULL	NULL	1	1	0.05
+korean cosmetic	Tony Moly	1	1	20	14	1.000000000000	NULL	NULL	7	7	0.0071428571428571435
+korean cosmetic	Mask Packs	1	1	20	14	1.000000000000	NULL	NULL	1	1	0.05
+korean cosmetic	OHUI	1	1	20	14	1.000000000000	NULL	NULL	1	1	0.05
+korean cosmetic	Univera	1	1	20	14	1.000000000000	NULL	NULL	1	1	0.05
+korean cosmetic brand	Etude House	1	1	6	6	1.000000000000	NULL	NULL	13	9	0.01282051282051282
+korean cosmetic brand	top korean cosmetic brand	1	1	6	6	1.000000000000	NULL	NULL	3	3	0.05555555555555555
+korean cosmetic brand	Missha	1	1	6	6	1.000000000000	NULL	NULL	16	8	0.010416666666666666
+korean cosmetic brand	Tony Moly	1	1	6	6	1.000000000000	NULL	NULL	7	7	0.023809523809523808
+korean cosmetic brand	Skinfood	1	1	6	6	1.000000000000	NULL	NULL	4	3	0.041666666666666664
+korean cosmetic brand	Face Shop	1	1	6	6	1.000000000000	NULL	NULL	23	14	0.007246376811594202
+korean cosmetic company	Amore Pacific	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+korean cosmetic shop	Tony Moly	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+Korean cosmetices	Skin Food	1	1	2	2	1.000000000000	NULL	NULL	13	12	0.038461538461538464
+Korean cosmetices	Face Shop	1	1	2	2	1.000000000000	NULL	NULL	23	14	0.021739130434782608
+korean culinary tour	Korean night tour	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean cultural association	Korean American Society in Houston	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Korean cultural association	Korean Students Association at Rice University	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean cultural event	traditional game	1	1	1	1	1.000000000000	NULL	NULL	19	16	0.05263157894736842
+korean cultural performance	Nanta	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean cultural product	movie	2	2	6	5	0.250000000000	NULL	NULL	4206	1513	0.00015850372483753366
+korean cultural product	television soap opera	1	1	6	5	0.250000000000	NULL	NULL	3	3	0.05555555555555555
+korean cultural product	TV series	1	1	6	5	0.250000000000	NULL	NULL	47	30	0.0035460992907801418
+korean cultural product	popular music	1	1	6	5	0.250000000000	NULL	NULL	70	53	0.0023809523809523807
+korean cultural product	music	1	1	6	5	0.250000000000	NULL	NULL	14153	3857	0.00001177606632280553
+korean custom	language	1	1	3	3	NULL	NULL	NULL	4932	1475	0.00006758583400919168
+korean custom	food	1	1	3	3	NULL	NULL	NULL	18353	4439	0.000018162334949781144
+korean custom	etiquette	1	1	3	3	NULL	NULL	NULL	164	76	0.002032520325203252
+korean dance	Buchaechum	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean delicacy	makguksu	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean designer	Woo Young Mi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean designer	Y & Kei	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean designer	Si-young Choi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean developer	Estsoft	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean developer	Com2us	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean director	Song Il-gon	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean dish	bulgogi	6	6	46	34	0.666666666666	NULL	NULL	104	37	0.007525083612040133
+korean dish	bibimbap	4	4	46	34	0.666666666666	NULL	NULL	80	21	0.004347826086956522
+korean dish	spicy tteokbokki	2	2	46	34	0.666666666666	NULL	NULL	2	1	0.043478260869565216
+korean dish	kimchi	2	1	46	34	0.666666666666	NULL	NULL	249	92	0.00034922297887200976
+korean dish	Samgyetang	2	2	46	34	0.666666666666	NULL	NULL	48	2	0.0018115942028985507
+korean dish	skewered tteok sanjeok	2	2	46	34	0.666666666666	NULL	NULL	2	1	0.043478260869565216
+korean dish	soup	1	1	46	34	0.666666666666	NULL	NULL	3408	1059	0.0000063788528271075725
+korean dish	tasty korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	prepared korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	bibimbop	1	1	46	34	0.666666666666	NULL	NULL	4	4	0.005434782608695652
+korean dish	Bibimbap meal	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	bibim bap	1	1	46	34	0.666666666666	NULL	NULL	3	3	0.007246376811594203
+korean dish	dumpling	1	1	46	34	0.666666666666	NULL	NULL	202	127	0.00010761945759793371
+korean dish	north korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	kim-chee tofu	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	mandu	1	1	46	34	0.666666666666	NULL	NULL	8	8	0.002717391304347826
+korean dish	bokkeum	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	Tofu Jjigae	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	tofu stew	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	traditional korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	famous korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	short rib soup	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	simple korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	Pork Bul Go Gi	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	spicy buckwheat cold noodles with organic sprout	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	common korean dish	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	common popular korean dish	1	1	46	34	0.666666666666	NULL	NULL	3	3	0.007246376811594203
+korean dish	bi bim bop	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	Galbi	1	1	46	34	0.666666666666	NULL	NULL	9	9	0.0024154589371980675
+korean dish	mandoo	1	1	46	34	0.666666666666	NULL	NULL	2	2	0.010869565217391304
+korean dish	kalbi beef	1	1	46	34	0.666666666666	NULL	NULL	1	1	0.021739130434782608
+korean dish	Korean Barbeque	1	1	46	34	0.666666666666	NULL	NULL	3	2	0.007246376811594203
+korean dish	kalbi	1	1	46	34	0.666666666666	NULL	NULL	14	10	0.0015527950310559005
+korean dish	kimchi jjigae	1	1	46	34	0.666666666666	NULL	NULL	3	3	0.007246376811594203
+Korean DJs	House Rulez	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean document	Korean family census register	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean domestic name	Daegu Bank	1	1	4	4	1.000000000000	NULL	NULL	6	3	0.041666666666666664
+korean domestic name	Shinsegae	1	1	4	4	1.000000000000	NULL	NULL	12	11	0.020833333333333332
+korean domestic name	KB Financial	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+korean domestic name	Hyundai Department Store	1	1	4	4	1.000000000000	NULL	NULL	3	2	0.08333333333333333
+korean domestic RTS game	Kingdom Under Fire	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean domestic telecom service provider	Sunkyung Telecom	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean drama	Winter Sonata	3	3	28	24	0.857142857142	NULL	NULL	15	11	0.021428571428571425
+korean drama	Boys Over Flowers	2	2	28	24	0.857142857142	NULL	NULL	5	4	0.02857142857142857
+korean drama	Princess Hours	2	1	28	24	0.857142857142	NULL	NULL	3	2	0.047619047619047616
+korean drama	Dae Jang Geum	2	2	28	24	0.857142857142	NULL	NULL	11	9	0.012987012987012986
+korean drama	air cantonese and korean drama	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	Jumong	1	1	28	24	0.857142857142	NULL	NULL	13	7	0.002747252747252747
+korean drama	Yi San	1	1	28	24	0.857142857142	NULL	NULL	3	2	0.011904761904761904
+korean drama	Beethoven Virus	1	1	28	24	0.857142857142	NULL	NULL	4	4	0.008928571428571428
+korean drama	full house	1	1	28	24	0.857142857142	NULL	NULL	67	42	0.0005330490405117271
+korean drama	Hong Gil Dong	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	Hwang Jin Yi	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	Iris	1	1	28	24	0.857142857142	NULL	NULL	646	338	0.000055285272003538254
+korean drama	Rainbow Romance	1	1	28	24	0.857142857142	NULL	NULL	1	1	0.03571428571428571
+korean drama	Winter's Sonata	1	1	28	24	0.857142857142	NULL	NULL	1	1	0.03571428571428571
+korean drama	sitcom Orange	1	1	28	24	0.857142857142	NULL	NULL	1	1	0.03571428571428571
+korean drama	Story of a Man	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	popular korean drama	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	Romance Town	1	1	28	24	0.857142857142	NULL	NULL	1	1	0.03571428571428571
+korean drama	Boys Before Flowers	1	1	28	24	0.857142857142	NULL	NULL	3	3	0.011904761904761904
+korean drama	historical korean drama	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	Korean pop singers like Wonder Girls	1	1	28	24	0.857142857142	NULL	NULL	1	1	0.03571428571428571
+korean drama	south korean drama	1	1	28	24	0.857142857142	NULL	NULL	2	2	0.017857142857142856
+korean drama	East of Eden	1	1	28	24	0.857142857142	NULL	NULL	24	18	0.001488095238095238
+korean elders personal characteristic	gender	1	1	3	3	NULL	NULL	NULL	16818	2908	0.000019820034090458636
+korean elders personal characteristic	age	1	1	3	3	NULL	NULL	NULL	32703	4368	0.000010192744804248336
+korean elders personal characteristic	education	1	1	3	3	NULL	NULL	NULL	21642	5033	0.000015402150140159565
+korean electric car	BlueOn of Hyundai Motor	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean electric company	LG	1	1	1	1	NULL	NULL	NULL	2334	691	0.0004284490145672665
+korean electric power related organization	Electric Power Corporation	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean electric power related organization	power plant	1	1	2	2	NULL	NULL	NULL	981	466	0.0005096839959225281
+korean electronic company	Samsung Electronics Group	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean electronic product	DVD player	1	1	2	2	NULL	NULL	NULL	2332	772	0.0002144082332761578
+korean electronic product	monitor	1	1	2	2	NULL	NULL	NULL	1940	652	0.0002577319587628866
+Korean electronics	LG	1	1	1	1	NULL	NULL	NULL	2334	691	0.0004284490145672665
+korean electronics firm	Hyundaiand LG	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean electronics firm	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+korean electronics manufacturer	Samsung Electronics Co.	1	1	1	1	NULL	NULL	NULL	78	45	0.01282051282051282
+korean element	wide array of banchan	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean engine	China Diesel	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+Korean engine	Naver	1	1	2	2	1.000000000000	NULL	NULL	23	19	0.021739130434782608
+korean enterprise	Hyundai	2	2	10	8	0.333333333333	NULL	NULL	966	379	0.00041407867494824016
+korean enterprise	Samsung	2	2	10	8	0.333333333333	NULL	NULL	5309	1487	0.00007534375588623093
+korean enterprise	Daewoo	1	1	10	8	0.333333333333	NULL	NULL	169	101	0.000591715976331361
+korean enterprise	Korea Eximbank	1	1	10	8	0.333333333333	NULL	NULL	1	1	0.1
+korean enterprise	LG	1	1	10	8	0.333333333333	NULL	NULL	2334	691	0.00004284490145672665
+korean enterprise	Hanjin	1	1	10	8	0.333333333333	NULL	NULL	18	13	0.005555555555555556
+korean enterprise	LG International	1	1	10	8	0.333333333333	NULL	NULL	1	1	0.1
+korean enterprise	Lucky Goldstar	1	1	10	8	0.333333333333	NULL	NULL	9	9	0.011111111111111112
+korean entertainment	SM & JYP	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean entertainment agency	JYP	2	2	4	2	1.000000000000	NULL	NULL	14	12	0.07142857142857142
+korean entertainment agency	SM	2	2	4	2	1.000000000000	NULL	NULL	43	39	0.023255813953488372
+korean entertainment company	SM Entertainment	2	2	6	5	0.500000000000	NULL	NULL	11	8	0.0606060606060606
+korean entertainment company	Cube	1	1	6	5	0.500000000000	NULL	NULL	733	371	0.00022737608003638017
+korean entertainment company	JYP	1	1	6	5	0.500000000000	NULL	NULL	14	12	0.011904761904761904
+korean entertainment company	DSP	1	1	6	5	0.500000000000	NULL	NULL	139	97	0.001199040767386091
+korean entertainment company	YG Entertainment	1	1	6	5	0.500000000000	NULL	NULL	2	2	0.08333333333333333
+korean establishment	restaurant	1	1	1	1	NULL	NULL	NULL	11422	2864	0.00008755034144633164
+korean event	Korean film showing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean event	Korean Conversation Club	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean everything feature	Korean afternoon rule	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean everything feature	Korean alphabet	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+korean export	automobile	2	2	2	1	0.250000000000	NULL	NULL	4192	1164	0.00047709923664122136
+korean export company	Hyundai motor	1	1	1	1	1.000000000000	NULL	NULL	43	23	0.023255813953488372
+korean export industry	automobile	2	2	2	1	NULL	NULL	NULL	4192	1164	0.00047709923664122136
+korean fashion accessory	necklace	3	2	5	2	NULL	NULL	NULL	2291	723	0.0007856831078131819
+korean fashion accessory	bracelet	2	2	5	2	NULL	NULL	NULL	2125	765	0.00037647058823529414
+korean fashion dress	gown	1	1	5	5	0.200000000000	NULL	NULL	343	180	0.0005830903790087463
+korean fashion dress	cotton hat	1	1	5	5	0.200000000000	NULL	NULL	6	6	0.03333333333333333
+korean fashion dress	jacket	1	1	5	5	0.200000000000	NULL	NULL	1820	757	0.00010989010989010989
+korean fashion dress	chiffon	1	1	5	5	0.200000000000	NULL	NULL	747	214	0.0002677376171352075
+korean fashion dress	blouse	1	1	5	5	0.200000000000	NULL	NULL	192	102	0.0010416666666666667
+korean favorite	Daktoritang	4	2	19	12	0.800000000000	NULL	NULL	4	1	0.21052631578947367
+korean favorite	Kimchi Japchae	2	1	19	12	0.800000000000	NULL	NULL	2	1	0.10526315789473684
+korean favorite	Bibimbap	2	2	19	12	0.800000000000	NULL	NULL	80	21	0.002631578947368421
+korean favorite	Japchae	2	2	19	12	0.800000000000	NULL	NULL	10	8	0.021052631578947368
+korean favorite	Sundubu throughout the 2-month course	2	1	19	12	0.800000000000	NULL	NULL	2	1	0.10526315789473684
+korean favorite	stew	1	1	19	12	0.800000000000	NULL	NULL	714	310	0.00007371369600471768
+korean favorite	beef aspara-gyu	1	1	19	12	0.800000000000	NULL	NULL	1	1	0.05263157894736842
+korean favorite	scallion pancake	1	1	19	12	0.800000000000	NULL	NULL	7	7	0.007518796992481203
+korean favorite	tradition korean favorite	1	1	19	12	0.800000000000	NULL	NULL	2	2	0.02631578947368421
+korean favorite	amazing korean favorite	1	1	19	12	0.800000000000	NULL	NULL	2	2	0.02631578947368421
+korean favorite	bulgogi	1	1	19	12	0.800000000000	NULL	NULL	104	37	0.0005060728744939271
+korean favorite	Park Ji Sung	1	1	19	12	0.800000000000	NULL	NULL	5	4	0.010526315789473684
+korean feature	indentment under the eye	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+korean feature	push-button start	1	1	4	4	1.000000000000	NULL	NULL	19	14	0.013157894736842105
+korean feature	high cheek bone	1	1	4	4	1.000000000000	NULL	NULL	14	12	0.017857142857142856
+korean feature	automatic climate control	1	1	4	4	1.000000000000	NULL	NULL	88	37	0.002840909090909091
+Korean female gamers	Lee Jong-mi	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Korean female gamers	Choi An-na	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean fermented food	gochujang	1	1	1	1	1.000000000000	NULL	NULL	9	9	0.1111111111111111
+korean fermented soybean product	doenjang	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+korean fermented soybean product	kochujang	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+korean festival	Chuseok	2	2	2	1	1.000000000000	NULL	NULL	20	12	0.1
+korean film	Oldboy	7	7	24	13	0.666666666666	NULL	NULL	19	7	0.10745614035087721
+korean film	Money's Warfare	3	3	24	13	0.666666666666	NULL	NULL	3	1	0.125
+korean film	Old Boy	3	3	24	13	0.666666666666	NULL	NULL	18	7	0.020833333333333332
+korean film	Host	2	2	24	13	0.666666666666	NULL	NULL	283	158	0.0005889281507656066
+korean film	Joint Security Area	1	1	24	13	0.666666666666	NULL	NULL	2	2	0.020833333333333332
+korean film	April Snow	1	1	24	13	0.666666666666	NULL	NULL	3	3	0.013888888888888888
+korean film	Shiri	1	1	24	13	0.666666666666	NULL	NULL	10	7	0.004166666666666667
+korean film	Silmido	1	1	24	13	0.666666666666	NULL	NULL	4	3	0.010416666666666666
+korean film	Warrior	1	1	24	13	0.666666666666	NULL	NULL	235	131	0.00017730496453900708
+korean film	Tae Guk Gi	1	1	24	13	0.666666666666	NULL	NULL	2	2	0.020833333333333332
+korean film	Christmas in August	1	1	24	13	0.666666666666	NULL	NULL	4	4	0.010416666666666666
+korean film	Funny Movie	1	1	24	13	0.666666666666	NULL	NULL	5	5	0.008333333333333333
+korean film	Windstruck	1	1	24	13	0.666666666666	NULL	NULL	1	1	0.041666666666666664
+korean film company	CJ Entertainment	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean film company	current market leader in the country	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean filmmaker	lighting director Lee Kang-san	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean filmmaker	movie director Kim Hyung-ku	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Korean financial sector	security	1	1	2	2	0.333333333333	NULL	NULL	8153	2525	0.00006132711885195633
+Korean financial sector	banking	1	1	2	2	0.333333333333	NULL	NULL	4474	1123	0.00011175681716584712
+korean firm	Samsung	10	10	47	26	0.733333333333	NULL	NULL	5309	1487	0.00040076465896931343
+korean firm	Samsung Electronics	6	5	47	26	0.733333333333	NULL	NULL	263	138	0.0029123857293099262
+korean firm	LG Electronics	4	4	47	26	0.733333333333	NULL	NULL	261	142	0.0013043123828156843
+korean firm	LG.Philips LCD	3	3	47	26	0.733333333333	NULL	NULL	11	8	0.017408123791102514
+korean firm	SK Innovation	2	2	47	26	0.733333333333	NULL	NULL	4	3	0.02127659574468085
+korean firm	POSCO	2	2	47	26	0.733333333333	NULL	NULL	66	37	0.0012894906511927789
+korean firm	Daewoo International	2	2	47	26	0.733333333333	NULL	NULL	6	5	0.014184397163120567
+korean firm	Daelim Industry	1	1	47	26	0.733333333333	NULL	NULL	1	1	0.02127659574468085
+korean firm	Telson	1	1	47	26	0.733333333333	NULL	NULL	3	3	0.0070921985815602835
+korean firm	LG	1	1	47	26	0.733333333333	NULL	NULL	2334	691	0.000009115936480154606
+korean firm	large indigenous korean firm	1	1	47	26	0.733333333333	NULL	NULL	2	2	0.010638297872340425
+korean firm	big korean firm	1	1	47	26	0.733333333333	NULL	NULL	2	2	0.010638297872340425
+korean firm	SK Telecom	1	1	47	26	0.733333333333	NULL	NULL	42	30	0.0005065856129685917
+korean firm	Daewoo	1	1	47	26	0.733333333333	NULL	NULL	169	101	0.0001258970162407151
+korean firm	STX	1	1	47	26	0.733333333333	NULL	NULL	15	12	0.0014184397163120566
+korean firm	japanese and korean firm	1	1	47	26	0.733333333333	NULL	NULL	2	2	0.010638297872340425
+korean firm	japanese and south korean firm	1	1	47	26	0.733333333333	NULL	NULL	3	3	0.0070921985815602835
+korean firm	Hyundai Motor	1	1	47	26	0.733333333333	NULL	NULL	43	23	0.0004948045522018802
+korean firm	Hyundai Motor Company	1	1	47	26	0.733333333333	NULL	NULL	7	7	0.00303951367781155
+korean firm	Hyundai	1	1	47	26	0.733333333333	NULL	NULL	966	379	0.00002202546143341703
+korean firm	Hanjin	1	1	47	26	0.733333333333	NULL	NULL	18	13	0.001182033096926714
+korean firm	KT	1	1	47	26	0.733333333333	NULL	NULL	26	24	0.000818330605564648
+korean firm	south korean firm	1	1	47	26	0.733333333333	NULL	NULL	2	2	0.010638297872340425
+korean firm	POSTECH	1	1	47	26	0.733333333333	NULL	NULL	3	3	0.0070921985815602835
+korean firm	world's No. 1 maker of semiconductor chip	1	1	47	26	0.733333333333	NULL	NULL	1	1	0.02127659574468085
+korean first-string construction company	POSCO E & C	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean first-string construction company	GS E & C	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean first-string construction company	HYUNDAI E & C	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Korean fixins	Kimchi	1	1	1	1	NULL	NULL	NULL	249	92	0.004016064257028112
+korean folk song	Arirang	1	1	5	5	1.000000000000	NULL	NULL	6	6	0.03333333333333333
+korean folk song	Mogunghwa	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+korean folk song	Sanwuaesu	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+korean folk song	San Toki	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+korean folk song	Aegukga	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+korean folksinger	Hyeong-ju Yoon	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean folksinger	Heui-eun Yang	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean folksinger	Chang-sik Song	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean food	kimchi	8	8	34	23	0.692307692307	NULL	NULL	249	92	0.007559650366170565
+korean food	Korean barbeque	2	2	34	23	0.692307692307	NULL	NULL	3	2	0.0392156862745098
+korean food	Bulgogi	2	2	34	23	0.692307692307	NULL	NULL	104	37	0.0011312217194570135
+korean food	Gimchi	2	1	34	23	0.692307692307	NULL	NULL	2	1	0.058823529411764705
+korean food	Sundae	2	2	34	23	0.692307692307	NULL	NULL	27	17	0.004357298474945533
+korean food	steamed beef rib	1	1	34	23	0.692307692307	NULL	NULL	1	1	0.029411764705882353
+korean food	typical korean food	1	1	34	23	0.692307692307	NULL	NULL	2	2	0.014705882352941176
+korean food	fermented korean food	1	1	34	23	0.692307692307	NULL	NULL	2	2	0.014705882352941176
+korean food	Bi Bim Bap	1	1	34	23	0.692307692307	NULL	NULL	5	5	0.0058823529411764705
+korean food	Korean BBQ	1	1	34	23	0.692307692307	NULL	NULL	6	6	0.004901960784313725
+korean food	kimchee	1	1	34	23	0.692307692307	NULL	NULL	45	25	0.00065359477124183
+korean food	marinated barbecue beef	1	1	34	23	0.692307692307	NULL	NULL	1	1	0.029411764705882353
+korean food	galbi	1	1	34	23	0.692307692307	NULL	NULL	9	9	0.0032679738562091504
+korean food	fried rice	1	1	34	23	0.692307692307	NULL	NULL	178	109	0.00016523463317911433
+korean food	bibimbap	1	1	34	23	0.692307692307	NULL	NULL	80	21	0.0003676470588235294
+korean food	Kalbi on the taco	1	1	34	23	0.692307692307	NULL	NULL	1	1	0.029411764705882353
+korean food	rice	1	1	34	23	0.692307692307	NULL	NULL	11473	2640	0.000002563563558431304
+korean food	native korean food	1	1	34	23	0.692307692307	NULL	NULL	2	2	0.014705882352941176
+korean food	Japchae	1	1	34	23	0.692307692307	NULL	NULL	10	8	0.0029411764705882353
+korean food	green onion	1	1	34	23	0.692307692307	NULL	NULL	304	134	0.00009674922600619194
+korean food	garlic	1	1	34	23	0.692307692307	NULL	NULL	6018	1376	0.000004887298887650773
+korean food	distinctive garlic	1	1	34	23	0.692307692307	NULL	NULL	1	1	0.029411764705882353
+korean food	almost-as-convenient korean food	1	1	34	23	0.692307692307	NULL	NULL	2	2	0.014705882352941176
+korean food option	kalgi	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+korean food product	Chap Chae	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean food product	Bibimbab	1	1	2	2	1.000000000000	NULL	NULL	10	7	0.05
+korean food staple	Kimchi	1	1	3	3	NULL	NULL	NULL	249	92	0.0013386880856760374
+korean food staple	cooked rice	1	1	3	3	NULL	NULL	NULL	74	31	0.0045045045045045045
+korean food staple	seaweed	1	1	3	3	NULL	NULL	NULL	820	342	0.0004065040650406504
+korean game	King Game	2	2	13	12	0.750000000000	NULL	NULL	2	1	0.15384615384615385
+korean game	Maple Story from Nexon	1	1	13	12	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+korean game	Im-Jin Rok	1	1	13	12	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+korean game	MapleStory	1	1	13	12	0.750000000000	NULL	NULL	37	21	0.002079002079002079
+korean game	RF Online	1	1	13	12	0.750000000000	NULL	NULL	8	6	0.009615384615384616
+korean game	NHN Games Dungeon & Fighter	1	1	13	12	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+korean game	Ragnarok Online	1	1	13	12	0.750000000000	NULL	NULL	28	9	0.0027472527472527475
+korean game	Seal Online	1	1	13	12	0.750000000000	NULL	NULL	2	2	0.038461538461538464
+korean game	Titanic	1	1	13	12	0.750000000000	NULL	NULL	282	131	0.0002727768685215494
+korean game	Kingdom Underfighter	1	1	13	12	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+korean game	Lineage from NCsoft	1	1	13	12	0.750000000000	NULL	NULL	1	1	0.07692307692307693
+korean game	neolttwigi	1	1	13	12	0.750000000000	NULL	NULL	5	4	0.015384615384615385
+korean genre film	Oldboy	1	1	1	1	1.000000000000	NULL	NULL	19	7	0.05263157894736842
+korean giant	LG	1	1	2	2	NULL	NULL	NULL	2334	691	0.00021422450728363326
+korean giant	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+korean girl girl sex characteristic	development	1	1	1	1	NULL	NULL	NULL	2392	933	0.0004180602006688963
+korean grilled meat	bulgogi	1	1	1	1	1.000000000000	NULL	NULL	104	37	0.009615384615384616
+korean grocery	soju	1	1	5	5	0.333333333333	NULL	NULL	14	12	0.014285714285714287
+korean grocery	Korea Rice Wine	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+korean grocery	Korean Ginseng Essence	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+korean grocery	Organic Chips	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+korean grocery	Super H	1	1	5	5	0.333333333333	NULL	NULL	1	1	0.2
+korean grocery shop	New Mart on Queen St	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean grocery store	Han Ah Rheum	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean group	Super Junior	3	3	17	12	0.700000000000	NULL	NULL	124	53	0.004269449715370019
+korean group	TVXQ	2	2	17	12	0.700000000000	NULL	NULL	84	35	0.0028011204481792717
+korean group	Brown Eyed Girls	2	2	17	12	0.700000000000	NULL	NULL	22	6	0.0106951871657754
+korean group	2NE1	2	2	17	12	0.700000000000	NULL	NULL	48	24	0.004901960784313725
+korean group	KARA	1	1	17	12	0.700000000000	NULL	NULL	43	21	0.0013679890560875513
+korean group	Daewoo	1	1	17	12	0.700000000000	NULL	NULL	169	101	0.00034806822137138876
+korean group	Crying Nut	1	1	17	12	0.700000000000	NULL	NULL	4	3	0.014705882352941176
+korean group	BEAST	1	1	17	12	0.700000000000	NULL	NULL	161	92	0.00036536353671903543
+korean group	SNSD	1	1	17	12	0.700000000000	NULL	NULL	111	47	0.0005299417064122947
+korean group	Boohwal	1	1	17	12	0.700000000000	NULL	NULL	2	2	0.029411764705882353
+korean group	Epik High	1	1	17	12	0.700000000000	NULL	NULL	19	10	0.003095975232198142
+korean group	MBLAQ	1	1	17	12	0.700000000000	NULL	NULL	17	11	0.0034602076124567475
+korean handicraft	pottery	1	1	1	1	NULL	NULL	NULL	1931	710	0.0005178663904712584
+korean handset maker	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean heartthrob	Rain	5	5	15	5	0.750000000000	NULL	NULL	2930	823	0.0005688282138794084
+korean heartthrob	Kim Hyun-joong	4	4	15	5	0.750000000000	NULL	NULL	9	4	0.11851851851851852
+korean heartthrob	Lee Seung-gi	4	4	15	5	0.750000000000	NULL	NULL	4	1	0.26666666666666666
+korean heartthrob	Lee Seung Gi	1	1	15	5	0.750000000000	NULL	NULL	8	4	0.008333333333333333
+korean heartthrob	Kim Hyun Joong	1	1	15	5	0.750000000000	NULL	NULL	10	9	0.006666666666666666
+korean heavy equipment part	Hyundai	1	1	3	3	0.333333333333	NULL	NULL	966	379	0.0003450655624568668
+korean heavy equipment part	Volvo	1	1	3	3	0.333333333333	NULL	NULL	916	354	0.00036390101892285295
+korean heavy equipment part	Doosan	1	1	3	3	0.333333333333	NULL	NULL	28	22	0.011904761904761904
+korean heavy manufacturer	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+korean heavy manufacturer	Hyundai	1	1	2	2	NULL	NULL	NULL	966	379	0.0005175983436853002
+korean heavyweight	Hyundai	1	1	2	2	NULL	NULL	NULL	966	379	0.0005175983436853002
+korean heavyweight	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+Korean herbal market	Har Bin Deer Antler Trading Company on Western	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean hip hop group	Epik High	1	1	4	4	0.750000000000	NULL	NULL	19	10	0.013157894736842105
+korean hip hop group	G-Dragon	1	1	4	4	0.750000000000	NULL	NULL	12	8	0.020833333333333332
+korean hip hop group	Shinee	1	1	4	4	0.750000000000	NULL	NULL	15	10	0.016666666666666666
+korean hip hop group	Big Bang	1	1	4	4	0.750000000000	NULL	NULL	223	82	0.0011210762331838565
+korean historical drama	Jumong	2	2	7	5	1.000000000000	NULL	NULL	13	7	0.04395604395604395
+korean historical drama	Yi San	2	2	7	5	1.000000000000	NULL	NULL	3	2	0.19047619047619047
+korean historical drama	Hong Gil-dong	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+korean historical drama	Dae Jang Geum	1	1	7	5	1.000000000000	NULL	NULL	11	9	0.012987012987012986
+korean historical drama	Jewel in the Palace	1	1	7	5	1.000000000000	NULL	NULL	3	3	0.047619047619047616
+korean holiday	Chuseok	2	2	9	8	0.666666666666	NULL	NULL	20	12	0.02222222222222222
+korean holiday	Chusok	2	2	9	8	0.666666666666	NULL	NULL	7	5	0.06349206349206349
+korean holiday	Korean New Year	1	1	9	8	0.666666666666	NULL	NULL	2	2	0.05555555555555555
+korean holiday	New Year's day	1	1	9	8	0.666666666666	NULL	NULL	116	40	0.0009578544061302681
+korean holiday	Korean Thanksgiving in the fall	1	1	9	8	0.666666666666	NULL	NULL	1	1	0.1111111111111111
+korean holiday	Lunar New Year	1	1	9	8	0.666666666666	NULL	NULL	58	37	0.0019157088122605363
+korean holiday	seollal	1	1	9	8	0.666666666666	NULL	NULL	4	4	0.027777777777777776
+Korean hostas	Hosta venusta collected from Korea	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Korean hostas	Hosta tsushimensis	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Korean hostas	Hosta clausa	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Korean hostas	Hosta yingeri	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+Korean hypermarkets	Emart	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean idol	Jaejoong	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+korean idol	Yoochun	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean idol star	Son Dam Bi	1	1	7	7	0.333333333333	NULL	NULL	1	1	0.14285714285714285
+korean idol star	Wonder Girls	1	1	7	7	0.333333333333	NULL	NULL	59	26	0.0024213075060532684
+korean idol star	SG Wannabe	1	1	7	7	0.333333333333	NULL	NULL	7	6	0.02040816326530612
+korean idol star	2PM	1	1	7	7	0.333333333333	NULL	NULL	58	24	0.0024630541871921183
+korean idol star	TVXQ	1	1	7	7	0.333333333333	NULL	NULL	84	35	0.0017006802721088435
+korean idol star	T-ara	1	1	7	7	0.333333333333	NULL	NULL	22	16	0.006493506493506493
+korean idol star	SNSD	1	1	7	7	0.333333333333	NULL	NULL	111	47	0.001287001287001287
+korean image	Hangul	1	1	1	1	1.000000000000	NULL	NULL	10	8	0.1
+korean immigrant own small business	grocer	1	1	5	5	NULL	NULL	NULL	131	76	0.0015267175572519084
+korean immigrant own small business	nail salon	1	1	5	5	NULL	NULL	NULL	60	36	0.0033333333333333335
+korean immigrant own small business	bakery	1	1	5	5	NULL	NULL	NULL	866	386	0.0002309468822170901
+korean immigrant own small business	laundry	1	1	5	5	NULL	NULL	NULL	3193	875	0.00006263701847792045
+korean immigrant own small business	garment store	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+korean importer	Korea Roshu	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean importer	Sewon Trading	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean importer	Saengbo Trading	1	0	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean industrial giant	LG	1	0	2	2	NULL	NULL	NULL	2334	691	0.00021422450728363326
+korean industrial giant	POSCO	1	1	2	2	NULL	NULL	NULL	66	37	0.007575757575757576
+korean industrial product	Hyundai	1	1	4	4	NULL	NULL	NULL	966	379	0.0002587991718426501
+korean industrial product	LG	1	1	4	4	NULL	NULL	NULL	2334	691	0.00010711225364181663
+korean industrial product	Daewoo	1	1	4	4	NULL	NULL	NULL	169	101	0.0014792899408284023
+korean industrial product	Samsung	1	1	4	4	NULL	NULL	NULL	5309	1487	0.00004708984742889433
+korean industry	distribution	1	1	8	8	NULL	NULL	NULL	1800	744	0.00006944444444444444
+korean industry	memory chip	1	1	8	8	NULL	NULL	NULL	143	73	0.0008741258741258741
+korean industry	construction	1	1	8	8	NULL	NULL	NULL	6231	1679	0.00002006098539560263
+korean industry	shipbuilding	1	1	8	8	NULL	NULL	NULL	506	178	0.00024703557312252963
+korean industry	transport	1	1	8	8	NULL	NULL	NULL	4212	1268	0.000029677113010446345
+korean industry	display	1	1	8	8	NULL	NULL	NULL	1313	584	0.0000952018278750952
+korean industry	electricity	1	1	8	8	NULL	NULL	NULL	7822	1808	0.00001598056762976221
+korean industry	mobile phone	1	1	8	8	NULL	NULL	NULL	6991	1839	0.00001788013159776856
+korean influence	wide-brimmed hat	1	1	4	4	0.666666666666	NULL	NULL	29	14	0.008620689655172414
+korean influence	onion	1	1	4	4	0.666666666666	NULL	NULL	7041	1523	0.00003550632012498225
+korean influence	obi-style belt	1	1	4	4	0.666666666666	NULL	NULL	2	2	0.125
+korean influence	botanical print	1	1	4	4	0.666666666666	NULL	NULL	8	6	0.03125
+korean initiative	G-20 Summit	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean institution	Korea Electric Power Corporation	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+korean institution	Korea Water Resources Corporation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean institution	Koreana Market	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean institution	Korean Trade-Investment Promotion Agency	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean instrument	Janggo	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+korean instrument	Yanggeum	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+korean instrument	traditional korean instrument	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+korean instrument	Gayageum	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+korean instrument	Buk	1	1	5	5	NULL	NULL	NULL	3	3	0.06666666666666667
+korean intellectual	Yu Kil-chun	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean intellectual tradition	Tonghak	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean intellectual tradition	Sirhak	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean intellectual tradition	Ki Philosophy	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean intellectual tradition	Ch'ondogyo	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean ionizer	Life Ionizers	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+korean issue	Spies from North Korea	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean issue	family matter	1	1	3	3	1.000000000000	NULL	NULL	37	25	0.009009009009009009
+korean issue	international marriage	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+korean IT firm	LG Electronics	1	1	1	1	NULL	NULL	NULL	261	142	0.0038314176245210726
+KOREAN item	Idol Stage Accessories	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KOREAN item	Branded Clothings	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+KOREAN item	famous japchae mixture of vegetable	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean jazz performer	Missing Island	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean jewelry	bracelet	3	3	18	7	0.285714285714	NULL	NULL	2125	765	0.00023529411764705883
+korean jewelry	engagement ring	3	3	18	7	0.285714285714	NULL	NULL	115	67	0.004347826086956522
+korean jewelry	necklace	3	3	18	7	0.285714285714	NULL	NULL	2291	723	0.00021824530772588389
+korean jewelry	earring	3	3	18	7	0.285714285714	NULL	NULL	1525	531	0.0003278688524590164
+korean jewelry	watch	3	3	18	7	0.285714285714	NULL	NULL	3163	899	0.00015807777426493836
+korean jewelry	sun shade	2	2	18	7	0.285714285714	NULL	NULL	59	42	0.003766478342749529
+korean jewelry	sunglasses	1	1	18	7	0.285714285714	NULL	NULL	1222	408	0.00004546281142025823
+korean k-pop music group	Big Bang	1	1	1	1	NULL	NULL	NULL	223	82	0.004484304932735426
+korean kingdom	Gojoseon	3	3	9	3	NULL	NULL	NULL	3	1	0.3333333333333333
+korean kingdom	Buyeo	3	3	9	3	NULL	NULL	NULL	4	2	0.25
+korean kingdom	Goguryeo	3	3	9	3	NULL	NULL	NULL	8	4	0.125
+korean lacquer	featured table	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean lady apparel	dress	2	2	2	1	NULL	NULL	NULL	1218	546	0.0016420361247947454
+korean language class	small group Korean classes offered by Language Trainers in Houston	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean language class	private	1	1	2	2	NULL	NULL	NULL	338	206	0.0014792899408284023
+korean language feature	Korean alphabet	2	2	4	3	NULL	NULL	NULL	4	3	0.25
+korean language feature	Korean pronunciation rule	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+korean language feature	Korean grammar	1	1	4	3	NULL	NULL	NULL	1	1	0.25
+Korean language learning software	Declan	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+Korean language learning software	Rosetta Stone	1	1	2	2	0.500000000000	NULL	NULL	216	111	0.0023148148148148147
+korean language scholar	Choi Hyeon-bae	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean law firm	Lee & Ko	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean leader	Jeong Il Kwon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean leader	Lee Byung Chul	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean leader	Park Tae Joon	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean leader	Park Chung Hee	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korean leading brand	Samsung Imaging for social media marketing	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean liquor	dong-dong ju	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean local food retailer	Shinsegae	1	1	2	2	0.666666666666	NULL	NULL	12	11	0.041666666666666664
+korean local food retailer	Lotte	1	1	2	2	0.666666666666	NULL	NULL	26	19	0.019230769230769232
+korean lunch special offering	fried squid with veggie	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean lunch special offering	Gal Bi	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+korean lunch special offering	Bi Bim Bap	1	1	3	3	1.000000000000	NULL	NULL	5	5	0.06666666666666667
+korean major	LG	3	3	4	2	NULL	NULL	NULL	2334	691	0.0009640102827763496
+korean major	Samsung	1	1	4	2	NULL	NULL	NULL	5309	1487	0.00004708984742889433
+korean major company	Samsung Electronics	1	1	1	1	NULL	NULL	NULL	263	138	0.0038022813688212928
+korean major electrical good company	samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean maker	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean makeup brand	Tony Moly	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+korean male top star	Won Bin	2	2	4	3	1.000000000000	NULL	NULL	14	8	0.07142857142857142
+korean male top star	Bae Yong-joon	1	1	4	3	1.000000000000	NULL	NULL	6	4	0.041666666666666664
+korean male top star	Bae Yong-jun	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+korean manager	Lee Kun Hee	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean manufactured export	automobile	1	1	2	2	NULL	NULL	NULL	4192	1164	0.00011927480916030534
+korean manufactured export	electronics	1	1	2	2	NULL	NULL	NULL	4365	1223	0.0001145475372279496
+korean manufacturer	Samsung	7	7	19	8	0.166666666666	NULL	NULL	5309	1487	0.00048576895242438364
+korean manufacturer	Kia	4	4	19	8	0.166666666666	NULL	NULL	301	131	0.002797691904179052
+korean manufacturer	LG	3	3	19	8	0.166666666666	NULL	NULL	2334	691	0.0002029495332160736
+korean manufacturer	south korean manufacturer	1	1	19	8	0.166666666666	NULL	NULL	2	2	0.02631578947368421
+korean manufacturer	Hyundai Motors	1	1	19	8	0.166666666666	NULL	NULL	26	20	0.0020242914979757085
+korean manufacturer	Goldstar Co.	1	1	19	8	0.166666666666	NULL	NULL	1	1	0.05263157894736842
+korean manufacturer	Hyundai	1	1	19	8	0.166666666666	NULL	NULL	966	379	0.00005448403617740002
+korean manufacturer	Samsung Electronics	1	1	19	8	0.166666666666	NULL	NULL	263	138	0.00020012007204322593
+korean map	Kangnido	7	7	8	2	NULL	NULL	NULL	13	3	0.47115384615384615
+korean map	Islamic map	1	1	8	2	NULL	NULL	NULL	1	1	0.125
+korean marque	Hyundai	2	2	2	1	NULL	NULL	NULL	966	379	0.002070393374741201
+korean martial art	taekwondo	11	8	25	9	0.750000000000	NULL	NULL	239	90	0.0202510460251046
+korean martial art	tangsudo	5	5	25	9	0.750000000000	NULL	NULL	5	1	0.2
+korean martial art	Tae Kwon Do	2	2	25	9	0.750000000000	NULL	NULL	192	70	0.0008333333333333334
+korean martial art	Hapkido	2	2	25	9	0.750000000000	NULL	NULL	79	26	0.0020253164556962027
+korean martial art	Tang Soo Do	1	1	25	9	0.750000000000	NULL	NULL	18	9	0.0022222222222222222
+korean martial art	Tao Kwan Do	1	1	25	9	0.750000000000	NULL	NULL	1	1	0.04
+korean martial art	Kumdo	1	1	25	9	0.750000000000	NULL	NULL	5	4	0.008
+korean martial art	japanese and korean martial art	1	1	25	9	0.750000000000	NULL	NULL	3	3	0.013333333333333334
+korean martial art	Hwa Rang Do	1	1	25	9	0.750000000000	NULL	NULL	2	2	0.02
+korean martial art athlete	wrestler	1	1	1	1	NULL	NULL	NULL	125	33	0.008
+korean martial art group	Hwal Moo Do	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean martial art group	Tae Kwon Do	1	1	2	2	NULL	NULL	NULL	192	70	0.0026041666666666665
+korean martial name	Yudo	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean master	Grandmaster Suh	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean master	Master Baird's teacher	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean meal	variuous korean meal	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+korean medical drama	Surgeon Bong Dal Hee	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean medical drama	New Heart	1	1	2	2	NULL	NULL	NULL	5	4	0.1
+korean medical service	health checkup	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+korean medicinal extract	cnidium officinale root extract	2	2	2	1	NULL	NULL	NULL	2	1	1
+korean medicinal herbal ingredient	oldenlandia diffusa	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean medicinal ingredient	pomegranate tranquilizes	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean medium-sized firm	Medison Co.	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean medium-sized firm	KSS Shipping	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean medium-sized firm	Yuhan Corporation	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean medium-sized firm	Mirae Corporation	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+korean members name	Kim	1	1	3	3	0.750000000000	NULL	NULL	20	12	0.016666666666666666
+korean members name	Lee	1	1	3	3	0.750000000000	NULL	NULL	46	24	0.007246376811594202
+korean members name	Park	1	1	3	3	0.750000000000	NULL	NULL	5086	1754	0.00006553938917289291
+korean metal band	Crazy for Crash	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean missile	Nodong-1	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean missionary	Kwang Lim	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean MNEs	Lucky Goldstar	1	1	2	2	0.500000000000	NULL	NULL	9	9	0.05555555555555555
+Korean MNEs	Samsung	1	1	2	2	0.500000000000	NULL	NULL	5309	1487	0.00009417969485778867
+korean mobile phone company	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean mobile phone maker	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean mobile service provider	SKT	1	1	2	2	1.000000000000	NULL	NULL	11	11	0.045454545454545456
+korean mobile service provider	KTF	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+korean mobile-game developer	Gamevil	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean mobile-game developer	Gamevil Inc.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean model	Kia Sportage	1	1	4	4	0.666666666666	NULL	NULL	17	13	0.014705882352941176
+korean model	Hyundai Tucson	1	1	4	4	0.666666666666	NULL	NULL	23	11	0.010869565217391304
+korean model	2004 Hyundai Sonata with V6	1	1	4	4	0.666666666666	NULL	NULL	1	1	0.25
+korean model	Kia	1	1	4	4	0.666666666666	NULL	NULL	301	131	0.0008305647840531562
+korean monk	Korean monks Hyon-cho	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean monster film	Dragon Wars	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean monster film	Host	1	1	2	2	NULL	NULL	NULL	283	158	0.0017667844522968198
+korean movie	Park Chan-wook's award-winning thirst''	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+korean movie	popular korean movie	1	1	5	5	0.666666666666	NULL	NULL	2	2	0.1
+korean movie	JSA	1	1	5	5	0.666666666666	NULL	NULL	28	14	0.0071428571428571435
+korean movie	Mapado	1	1	5	5	0.666666666666	NULL	NULL	1	1	0.2
+korean movie	Shiri	1	1	5	5	0.666666666666	NULL	NULL	10	7	0.02
+korean movie director	Sang Soo Hong	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean movie director	Jun Ho Bong	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean multinational	Samsung	3	3	10	7	NULL	NULL	NULL	5309	1487	0.00016952345074401957
+korean multinational	Hyundai	2	2	10	7	NULL	NULL	NULL	966	379	0.00041407867494824016
+korean multinational	hi-tech korean multinational	1	1	10	7	NULL	NULL	NULL	2	2	0.05
+korean multinational	LG Electronics	1	1	10	7	NULL	NULL	NULL	261	142	0.0003831417624521073
+korean multinational	hi-tech  korean multinational	1	1	10	7	NULL	NULL	NULL	2	2	0.05
+korean multinational	LG	1	1	10	7	NULL	NULL	NULL	2334	691	0.00004284490145672665
+korean multinational	Kia	1	1	10	7	NULL	NULL	NULL	301	131	0.0003322259136212625
+korean multinational company	LG	1	1	4	4	NULL	NULL	NULL	2334	691	0.00010711225364181663
+korean multinational company	Samsung	1	1	4	4	NULL	NULL	NULL	5309	1487	0.00004708984742889433
+korean multinational company	famous korean multinational company	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+korean multinational company	Hyundai	1	1	4	4	NULL	NULL	NULL	966	379	0.0002587991718426501
+korean music	SNSD	1	1	1	1	NULL	NULL	NULL	111	47	0.009009009009009009
+korean music award	Golden Disk Award	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean music distributor	Soribada	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+korean music maker	Brown Eyed Soul	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean music site	Soribada	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+korean music website	Daum Music	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+korean music website	Naver Music	1	1	5	5	1.000000000000	NULL	NULL	2	2	0.1
+korean music website	Mnet Music	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+korean music website	Bugs	1	1	5	5	1.000000000000	NULL	NULL	8	10	0.025
+korean music website	Soribada	1	1	5	5	1.000000000000	NULL	NULL	5	5	0.04
+korean nail polish brand	Etude House	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+korean name	LG	1	1	2	2	NULL	NULL	NULL	2334	691	0.00021422450728363326
+korean name	Samsung in electrical good	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean nationalist	Syngman Rhee	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+korean nationalistic value	history	1	1	3	3	NULL	NULL	NULL	5002	1197	0.0000666400106624017
+korean nationalistic value	culture	1	1	3	3	NULL	NULL	NULL	4206	1109	0.00007925186241876683
+korean nationalistic value	ethnicity	1	1	3	3	NULL	NULL	NULL	4022	933	0.00008287750704458809
+korean native scholar	Nam-Sun Choi	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean natural herb	Angelica Acutiloba	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+korean natural herb	Portulaca Oleracea	1	1	2	2	1.000000000000	NULL	NULL	12	8	0.041666666666666664
+korean new site	Naver	1	1	1	1	1.000000000000	NULL	NULL	23	19	0.043478260869565216
+Korean newpapers	Korea Tribune	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Korean newpapers	Korea Daily	1	1	3	3	NULL	NULL	NULL	6	3	0.05555555555555555
+Korean newpapers	Dong A Daily	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean newspaper	Yonhap	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Korean NGO's	Database Center for North Korean Human Rights	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Korean NGO's	Korean Bar Association	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean noodle dish	japchae	1	1	2	2	1.000000000000	NULL	NULL	10	8	0.05
+korean noodle dish	guksu	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean offering	Korean BBQ	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+korean operation	Keangnam Enterprise	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean operation	Samsung Electronics	1	1	2	2	NULL	NULL	NULL	263	138	0.0019011406844106464
+korean operator	KT	1	1	1	1	1.000000000000	NULL	NULL	26	24	0.038461538461538464
+korean organization	Korea Leadership Center	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+korean organization	Korean Management Association	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+korean organization	Invest Korea	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+korean organization	Samsung	1	1	4	4	0.500000000000	NULL	NULL	5309	1487	0.00004708984742889433
+korean organized crime group	Asian Town Koreans	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean original musical	Jewel in the Palace	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+korean panel maker	Samsung Electronics	1	1	1	1	0.500000000000	NULL	NULL	263	138	0.0038022813688212928
+korean party agency	SM	1	1	1	1	NULL	NULL	NULL	43	39	0.023255813953488372
+korean performance	Tosca in Seoul	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+korean performance	Tricks of Scapin	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+korean piano	Young Chang	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+korean pitcher	Koo Dae-sung	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean pitcher	Lee Sang-hoon	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean player	Cho Hunhyun	3	3	16	9	NULL	NULL	NULL	3	1	0.1875
+korean player	Lee Sedol	3	3	16	9	NULL	NULL	NULL	3	1	0.1875
+korean player	Lee Chang-ho	3	3	16	9	NULL	NULL	NULL	4	2	0.140625
+korean player	Samsung	2	2	16	9	NULL	NULL	NULL	5309	1487	0.00004708984742889433
+korean player	Jang Moon Jae Ho	1	1	16	9	NULL	NULL	NULL	1	1	0.0625
+korean player	LG	1	1	16	9	NULL	NULL	NULL	2334	691	0.000026778063410454157
+korean player	Hyundai	1	1	16	9	NULL	NULL	NULL	966	379	0.00006469979296066253
+korean player	Ticket Monster	1	1	16	9	NULL	NULL	NULL	1	1	0.0625
+korean player	Tae min Zacard Hwang	1	1	16	9	NULL	NULL	NULL	1	1	0.0625
+Korean policymakers	Park Hyo-ouk	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean pop artist	4minute	1	1	3	3	0.500000000000	NULL	NULL	19	8	0.017543859649122806
+korean pop artist	Beast	1	1	3	3	0.500000000000	NULL	NULL	161	92	0.0020703933747412005
+korean pop artist	4 Minute	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+korean pop band	BEAST	1	1	5	5	0.400000000000	NULL	NULL	161	92	0.0012422360248447205
+korean pop band	Girls Generation	1	1	5	5	0.400000000000	NULL	NULL	71	34	0.0028169014084507044
+korean pop band	T-ara	1	1	5	5	0.400000000000	NULL	NULL	22	16	0.009090909090909092
+korean pop band	Super Junior	1	1	5	5	0.400000000000	NULL	NULL	124	53	0.0016129032258064516
+korean pop band	Shinee	1	1	5	5	0.400000000000	NULL	NULL	15	10	0.013333333333333334
+korean pop group	2NE1	1	1	4	4	0.333333333333	NULL	NULL	48	24	0.005208333333333333
+korean pop group	Girls Generation	1	1	4	4	0.333333333333	NULL	NULL	71	34	0.0035211267605633804
+korean pop group	Super Junior	1	1	4	4	0.333333333333	NULL	NULL	124	53	0.0020161290322580645
+korean pop group	SHI Nee	1	1	4	4	0.333333333333	NULL	NULL	1	1	0.25
+korean popular culture industry	movie	1	1	1	1	NULL	NULL	NULL	4206	1513	0.00023775558725630053
+korean portal	No.1-ranked Naver.com	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean potter	Yi Sukkwang	2	2	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+korean potter	Yi Kyeong	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+Korean pre-meal fixins	kimchi	1	1	3	3	NULL	NULL	NULL	249	92	0.0013386880856760374
+Korean pre-meal fixins	bean sprout	1	1	3	3	NULL	NULL	NULL	252	92	0.0013227513227513227
+Korean pre-meal fixins	marinated cucumber	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+korean press	Donga Ilbo	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+korean producer	year korean producer	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+korean product	Samsung	3	3	14	10	0.100000000000	NULL	NULL	5309	1487	0.00012108817910287113
+korean product	cosmetic	2	2	14	10	0.100000000000	NULL	NULL	3165	1375	0.00009027307605506658
+korean product	clothes	2	2	14	10	0.100000000000	NULL	NULL	3774	1059	0.00007570595805889923
+korean product	K-pop	1	1	14	10	0.100000000000	NULL	NULL	5	5	0.014285714285714285
+korean product	cellular phone	1	1	14	10	0.100000000000	NULL	NULL	2660	748	0.00002685284640171858
+korean product	cell phone	1	1	14	10	0.100000000000	NULL	NULL	8165	2060	0.000008748141020033243
+korean product	display	1	1	14	10	0.100000000000	NULL	NULL	1313	584	0.0000544010445000544
+korean product	LG	1	1	14	10	0.100000000000	NULL	NULL	2334	691	0.000030603501040519036
+korean product	semiconductor	1	1	14	10	0.100000000000	NULL	NULL	981	357	0.000072811999417504
+korean product	vehicle	1	1	14	10	0.100000000000	NULL	NULL	2848	998	0.000025080256821829855
+korean product brand	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean production	Jumong	1	1	1	1	1.000000000000	NULL	NULL	13	7	0.07692307692307693
+korean publisher	Netcomics	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean purchaser	KEPCO	1	1	1	1	1.000000000000	NULL	NULL	14	11	0.07142857142857142
+korean R&T place	Midas	1	1	1	1	1.000000000000	NULL	NULL	70	55	0.014285714285714285
+korean refiner	GS Caltex	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+korean refiner	GS Holdings	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+korean refiner	SK Corp	1	1	3	3	NULL	NULL	NULL	4	4	0.08333333333333333
+korean region	Queensland's Memorandum of Understanding with Gyeongnam Province	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean resource processing company	Korea National Oil Corporation	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+korean restaurant	Shilla in Glasgow	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+korean restaurant	Ko Si Rae	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+korean restaurant	Little Korea	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+korean restaurant	Rice Restaurant & Lounge	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+korean restaurant	Seoul	1	1	5	5	NULL	NULL	NULL	342	91	0.0005847953216374269
+korean revolutionary	Kim Gyong Chun	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean ritual	courtship ritual	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+korean rival	LG Philips LCD Inc	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean rival	Samsung Electronics Co	1	1	2	2	1.000000000000	NULL	NULL	8	7	0.0625
+Korean rock	Rumble Fish	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+korean scholar	Sin Tongwon	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean sculptor	Kang Dae Chul	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean sculptor	Moon Shin	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean sculptor	Chun Gook Kwang	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Korean seasoning	ginger	1	1	2	2	NULL	NULL	NULL	3867	984	0.00012929919834497026
+Korean seasoning	red pepper	1	1	2	2	NULL	NULL	NULL	399	164	0.0012531328320802004
+korean ship builder	Daewoo	1	1	2	2	NULL	NULL	NULL	169	101	0.0029585798816568047
+korean ship builder	Hyundai	1	1	2	2	NULL	NULL	NULL	966	379	0.0005175983436853002
+korean shipbuilder	Hyundai Heavy Industries Co.	2	2	7	6	0.750000000000	NULL	NULL	5	4	0.11428571428571428
+korean shipbuilder	HHI	1	1	7	6	0.750000000000	NULL	NULL	14	11	0.01020408163265306
+korean shipbuilder	STX	1	1	7	6	0.750000000000	NULL	NULL	15	12	0.009523809523809523
+korean shipbuilder	south korean shipbuilder	1	1	7	6	0.750000000000	NULL	NULL	2	2	0.07142857142857142
+korean shipbuilder	Samsung	1	1	7	6	0.750000000000	NULL	NULL	5309	1487	0.000026908484245082473
+korean shipbuilder	Doosan	1	1	7	6	0.750000000000	NULL	NULL	28	22	0.00510204081632653
+korean shipbuilding company	Daewoo	1	1	3	3	NULL	NULL	NULL	169	101	0.0019723865877712033
+korean shipbuilding company	Samsung	1	1	3	3	NULL	NULL	NULL	5309	1487	0.00006278646323852578
+korean shipbuilding company	Hyundai	1	1	3	3	NULL	NULL	NULL	966	379	0.0003450655624568668
+korean shipbuilding enterprise	Samsung Heavy Industries	1	1	2	2	1.000000000000	NULL	NULL	15	10	0.03333333333333333
+korean shipbuilding enterprise	Daewoo Shipbuilding	1	1	2	2	1.000000000000	NULL	NULL	6	3	0.08333333333333333
+korean shipyard	Halla	1	1	5	5	0.250000000000	NULL	NULL	4	4	0.05
+korean shipyard	Hyundai	1	1	5	5	0.250000000000	NULL	NULL	966	379	0.00020703933747412008
+korean shipyard	south korean shipyard	1	1	5	5	0.250000000000	NULL	NULL	2	2	0.1
+korean shipyard	Daewoo	1	1	5	5	0.250000000000	NULL	NULL	169	101	0.001183431952662722
+korean shipyard	Samsung	1	1	5	5	0.250000000000	NULL	NULL	5309	1487	0.000037671877943115464
+korean shop	art work shop	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+korean shop	clothe shop	1	1	2	3	NULL	NULL	NULL	1	1	0.5
+korean show	Princess Hours	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+korean side dish	kim chee	1	1	2	2	0.500000000000	NULL	NULL	21	12	0.023809523809523808
+korean side dish	traditional korean side dish	1	1	2	2	0.500000000000	NULL	NULL	3	3	0.16666666666666666
+Korean side-dishes	kimchi	1	1	1	1	NULL	NULL	NULL	249	92	0.004016064257028112
+korean singer	BoA	3	3	24	17	0.200000000000	NULL	NULL	238	83	0.0015756302521008404
+korean singer	Jang Na Ra	2	2	24	17	0.200000000000	NULL	NULL	2	1	0.08333333333333333
+korean singer	2PM	2	2	24	17	0.200000000000	NULL	NULL	58	24	0.0028735632183908046
+korean singer	Tohoshinki	2	2	24	17	0.200000000000	NULL	NULL	5	4	0.03333333333333333
+korean singer	T-ara	2	2	24	17	0.200000000000	NULL	NULL	22	16	0.007575757575757575
+korean singer	Rain	2	2	24	17	0.200000000000	NULL	NULL	2930	823	0.00005688282138794084
+korean singer	Super Junior-Happy	1	1	24	17	0.200000000000	NULL	NULL	1	1	0.041666666666666664
+korean singer	star korean singer	1	1	24	17	0.200000000000	NULL	NULL	2	2	0.020833333333333332
+korean singer	Super Junior	1	1	24	17	0.200000000000	NULL	NULL	124	53	0.00033602150537634406
+korean singer	TVXQ	1	1	24	17	0.200000000000	NULL	NULL	84	35	0.000496031746031746
+korean singer	Girls Generation	1	1	24	17	0.200000000000	NULL	NULL	71	34	0.0005868544600938967
+korean singer	Younha	1	1	24	17	0.200000000000	NULL	NULL	2	2	0.020833333333333332
+korean singer	Kim Yeon Ja	1	1	24	17	0.200000000000	NULL	NULL	1	1	0.041666666666666664
+korean singer	Cho Yong Phil	1	1	24	17	0.200000000000	NULL	NULL	3	3	0.013888888888888888
+korean singer	Baby Vox Rev.	1	1	24	17	0.200000000000	NULL	NULL	1	1	0.041666666666666664
+korean singer	Big Bang	1	1	24	17	0.200000000000	NULL	NULL	223	82	0.00018684603886397606
+korean singer	Kim Bum Soo	1	1	24	17	0.200000000000	NULL	NULL	7	5	0.005952380952380952
+korean site	Daum	1	1	2	2	1.000000000000	NULL	NULL	27	21	0.018518518518518517
+korean site	Naver	1	1	2	2	1.000000000000	NULL	NULL	23	19	0.021739130434782608
+korean skin care product	Skin Food	1	1	1	1	1.000000000000	NULL	NULL	13	12	0.07692307692307693
+korean skincare brand	Face Shop	1	1	2	2	1.000000000000	NULL	NULL	23	14	0.021739130434782608
+korean skincare brand	Tony Moly	1	1	2	2	1.000000000000	NULL	NULL	7	7	0.07142857142857142
+korean skincare product	Skinfood	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+korean skincare product	Laneige	1	1	3	3	1.000000000000	NULL	NULL	11	5	0.0303030303030303
+korean skincare product	Etude House	1	1	3	3	1.000000000000	NULL	NULL	13	9	0.02564102564102564
+korean small-sized businesses end product	clothing	1	1	1	1	NULL	NULL	NULL	9665	2540	0.00010346611484738747
+korean smartphone maker	Samsung	1	1	1	1	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+Korean SMEs	SJM	2	1	2	1	1.000000000000	NULL	NULL	7	6	0.2857142857142857
+korean snack	sweet potato pancake	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+korean soap opera	Winter Sonata	3	3	3	1	1.000000000000	NULL	NULL	15	11	0.2
+korean soloist	soprano Jo Su-mi	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean soloist	mezzo-soprano Lee Ah-kyung	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean soloist	tenor Park Ji-min	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean soup	galbitang	2	2	5	3	NULL	NULL	NULL	4	3	0.2
+korean soup	seolleongtang	2	2	5	3	NULL	NULL	NULL	4	3	0.2
+korean soup	dueng jang chige	1	1	5	3	NULL	NULL	NULL	1	1	0.2
+korean special	marinated vegetable	1	1	2	2	0.750000000000	NULL	NULL	5	5	0.1
+korean special	fried egg	1	1	2	2	0.750000000000	NULL	NULL	83	57	0.006024096385542169
+korean specialty	traditional korean specialty	1	1	10	10	0.250000000000	NULL	NULL	2	2	0.05
+korean specialty	soup	1	1	10	10	0.250000000000	NULL	NULL	3408	1059	0.00002934272300469484
+korean specialty	soju	1	1	10	10	0.250000000000	NULL	NULL	14	12	0.0071428571428571435
+korean specialty	makkolli	1	1	10	10	0.250000000000	NULL	NULL	2	2	0.05
+korean specialty	bibimbop	1	1	10	10	0.250000000000	NULL	NULL	4	4	0.025
+korean specialty	prepared korean specialty	1	1	10	10	0.250000000000	NULL	NULL	2	2	0.05
+korean specialty	chicken	1	1	10	10	0.250000000000	NULL	NULL	8933	2087	0.00001119444755401321
+korean specialty	Eight Treasures	1	1	10	10	0.250000000000	NULL	NULL	3	3	0.03333333333333333
+korean specialty	seafood jhun	1	1	10	10	0.250000000000	NULL	NULL	1	1	0.1
+korean specialty	seafood	1	1	10	10	0.250000000000	NULL	NULL	1585	555	0.00006309148264984228
+korean specialty dish	delicious original platter	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean specialty dish	Korean rice cake dish	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean specialty product	chilli sauce	1	1	3	3	0.500000000000	NULL	NULL	33	23	0.0101010101010101
+korean specialty product	ginseng	1	1	3	3	0.500000000000	NULL	NULL	1623	447	0.00020538098172109262
+korean specialty product	chilli pepper	1	1	3	3	0.500000000000	NULL	NULL	66	37	0.00505050505050505
+korean spice	chilli powder	1	1	3	3	1.000000000000	NULL	NULL	43	24	0.007751937984496124
+korean spice	chilli sauce	1	1	3	3	1.000000000000	NULL	NULL	33	23	0.0101010101010101
+korean spice	ingredients for making kimchee	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean staple	bulgogi	1	1	1	1	1.000000000000	NULL	NULL	104	37	0.009615384615384616
+korean star	Son Dam-bi	3	3	35	28	0.500000000000	NULL	NULL	7	3	0.03673469387755102
+korean star	Kim Ha Neul	2	2	35	28	0.500000000000	NULL	NULL	5	3	0.022857142857142857
+korean star	Lee Byung Hun	2	2	35	28	0.500000000000	NULL	NULL	13	10	0.008791208791208791
+korean star	SNSD	2	2	35	28	0.500000000000	NULL	NULL	111	47	0.0010296010296010295
+korean star	Kim Min Hee	2	2	35	28	0.500000000000	NULL	NULL	2	1	0.05714285714285714
+korean star	Rain	2	2	35	28	0.500000000000	NULL	NULL	2930	823	0.000039005363237445144
+korean star	Kim Ha-neul	1	1	35	28	0.500000000000	NULL	NULL	2	2	0.014285714285714285
+korean star	Kim Hee-sun	1	1	35	28	0.500000000000	NULL	NULL	3	3	0.009523809523809523
+korean star	Kim Hyun-joong	1	1	35	28	0.500000000000	NULL	NULL	9	4	0.0031746031746031746
+korean star	Leeteuk	1	1	35	28	0.500000000000	NULL	NULL	3	3	0.009523809523809523
+korean star	Lee Hyori	1	1	35	28	0.500000000000	NULL	NULL	12	10	0.0023809523809523807
+korean star	hugely popular korean star	1	1	35	28	0.500000000000	NULL	NULL	2	2	0.014285714285714285
+korean star	Ahn Jae-wook	1	1	35	28	0.500000000000	NULL	NULL	1	1	0.02857142857142857
+korean star	top korean star	1	1	35	28	0.500000000000	NULL	NULL	2	2	0.014285714285714285
+korean star	Jang Dong Gun	1	1	35	28	0.500000000000	NULL	NULL	5	5	0.005714285714285714
+korean star	Hyori Lee	1	1	35	28	0.500000000000	NULL	NULL	3	3	0.009523809523809523
+korean star	Girls Generation	1	1	35	28	0.500000000000	NULL	NULL	71	34	0.00040241448692152917
+korean star	Choi Ji Woo in different way	1	1	35	28	0.500000000000	NULL	NULL	1	1	0.02857142857142857
+korean star	Bae Yong-joon	1	1	35	28	0.500000000000	NULL	NULL	6	4	0.0047619047619047615
+korean star	Super Junior	1	1	35	28	0.500000000000	NULL	NULL	124	53	0.0002304147465437788
+korean star	Eunhyuk	1	1	35	28	0.500000000000	NULL	NULL	1	1	0.02857142857142857
+korean star	Choi Ji-woo	1	1	35	28	0.500000000000	NULL	NULL	14	5	0.002040816326530612
+korean star	Jaejoong	1	1	35	28	0.500000000000	NULL	NULL	3	3	0.009523809523809523
+korean star	Park Yong Ha	1	1	35	28	0.500000000000	NULL	NULL	3	3	0.009523809523809523
+korean star	Choi Ji Woo	1	1	35	28	0.500000000000	NULL	NULL	6	5	0.0047619047619047615
+korean star	Bae Yong Joon	1	1	35	28	0.500000000000	NULL	NULL	6	6	0.0047619047619047615
+korean star	Song Seung Hun	1	1	35	28	0.500000000000	NULL	NULL	4	3	0.007142857142857143
+korean star	Ryu Si Won	1	1	35	28	0.500000000000	NULL	NULL	1	1	0.02857142857142857
+korean stars style earring	CNBlue	1	1	1	1	0.200000000000	NULL	NULL	1	1	1
+korean steel producer	Union Steel Manufacturing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean steel producer	KIS Wire	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Korean steelmakers	Hyundai Steel	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean stock	selected korean stock	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean study program cosponsor activites	Korean Culture Night	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean stuff	dress	3	2	5	2	0.500000000000	NULL	NULL	1218	546	0.0014778325123152708
+korean stuff	bibimbap	2	1	5	2	0.500000000000	NULL	NULL	80	21	0.01
+korean style	Hapkido	1	1	4	4	0.500000000000	NULL	NULL	79	26	0.0031645569620253164
+korean style	taekwondo	1	1	4	4	0.500000000000	NULL	NULL	239	90	0.0010460251046025104
+korean style	Tae Kwon Do	1	1	4	4	0.500000000000	NULL	NULL	192	70	0.0013020833333333333
+korean style	Tang Soo Do	1	1	4	4	0.500000000000	NULL	NULL	18	9	0.013888888888888888
+Korean style food	bibimbab	1	1	1	1	1.000000000000	NULL	NULL	10	7	0.1
+korean style spa treatment	oil massage	1	1	2	2	0.500000000000	NULL	NULL	23	16	0.021739130434782608
+korean style spa treatment	exfoliation	1	1	2	2	0.500000000000	NULL	NULL	43	30	0.011627906976744186
+korean supermarket	DoReMi Market	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean supermarket	Greenland Market	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean superstar	Kangta	1	1	3	3	0.250000000000	NULL	NULL	15	11	0.02222222222222222
+korean superstar	TVXQ	1	1	3	3	0.250000000000	NULL	NULL	84	35	0.003968253968253968
+korean superstar	Super Junior	1	1	3	3	0.250000000000	NULL	NULL	124	53	0.0026881720430107525
+korean supertall project	Lotte Super Tower	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean surplus vehicle	Kia	1	1	1	1	NULL	NULL	NULL	301	131	0.0033222591362126247
+korean sword art	Haidong Gumdo	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+korean symbol	anthem	1	1	3	3	0.500000000000	NULL	NULL	135	78	0.0024691358024691358
+korean symbol	national flag	1	1	3	3	0.500000000000	NULL	NULL	52	39	0.00641025641025641
+korean symbol	national flower	1	1	3	3	0.500000000000	NULL	NULL	6	5	0.05555555555555555
+korean taco truck	Kogi	2	2	4	2	1.000000000000	NULL	NULL	17	9	0.058823529411764705
+korean taco truck	Krave	2	2	4	2	1.000000000000	NULL	NULL	4	3	0.25
+korean talent	Son Hyeon-joo	1	1	1	1	NULL	NULL	NULL	1	1	1
+Korean taste	little side dishes of pickle	2	1	4	2	NULL	NULL	NULL	2	1	0.5
+Korean taste	jalapeno	2	1	4	2	NULL	NULL	NULL	309	106	0.003236245954692557
+korean technology manufacturing company	LG	1	1	1	1	NULL	NULL	NULL	2334	691	0.0004284490145672665
+Korean Telenovelas	Endless Love	1	1	1	1	NULL	NULL	NULL	7	4	0.14285714285714285
+korean thinker	Yi Taegye	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean tire	Kumho	2	2	4	2	1.000000000000	NULL	NULL	51	22	0.0196078431372549
+korean tire	Hankook	2	2	4	2	1.000000000000	NULL	NULL	53	22	0.018867924528301886
+korean top star	Lee Byung Hun	1	1	1	1	1.000000000000	NULL	NULL	13	10	0.07692307692307693
+korean trade association	Federation of Korean Industries	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+korean trade association	Korea International Trade Association	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean trade barrier	high import duty	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+korean tradition	showing respect	1	1	4	4	0.500000000000	NULL	NULL	7	7	0.03571428571428571
+korean tradition	wedding	1	1	4	4	0.500000000000	NULL	NULL	9942	1590	0.000025145845906256287
+korean tradition	birthday	1	1	4	4	0.500000000000	NULL	NULL	5325	828	0.00004694835680751174
+korean tradition	japanese and korean tradition	1	1	4	4	0.500000000000	NULL	NULL	2	2	0.125
+korean traditional & cultural activity	Tteokbokki & Gimbap Tasting	2	2	4	2	NULL	NULL	NULL	3	2	0.3333333333333333
+korean traditional & cultural activity	Korean Kimchi Making	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+korean traditional & culture activity	Kimchi Making & wearing Traditional Hanbok Costume for photo taking	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean traditional antique	furniture	1	1	1	1	NULL	NULL	NULL	8749	2264	0.00011429877700308607
+korean traditional beverage	Sujunggwa	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean traditional crop	apple	1	1	4	4	0.250000000000	NULL	NULL	15894	3432	0.00001572920598968164
+korean traditional crop	sticky rice	1	1	4	4	0.250000000000	NULL	NULL	60	41	0.004166666666666667
+korean traditional crop	pear	1	1	4	4	0.250000000000	NULL	NULL	3815	883	0.0000655307994757536
+korean traditional crop	cabbage	1	1	4	4	0.250000000000	NULL	NULL	6090	1120	0.00004105090311986864
+korean traditional custom	respecting elder	1	1	1	1	1.000000000000	NULL	NULL	13	11	0.07692307692307693
+korean traditional drink	cinnamon drink	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean traditional drink	sweetened rice drink	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean traditional drink	citrus tea aiming at the world market	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean traditional ethnic performance form	dance	1	1	2	2	NULL	NULL	NULL	5030	1458	0.00009940357852882704
+korean traditional ethnic performance form	music	1	1	2	2	NULL	NULL	NULL	14153	3857	0.00003532819896841659
+korean traditional event	unique performance	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean traditional event	court music	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean traditional folk art	poongmul	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+korean traditional folk art	elements of traditional dance	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+korean traditional folk art	samulnori	1	1	7	7	1.000000000000	NULL	NULL	7	7	0.02040816326530612
+korean traditional folk art	Minyo	1	1	7	7	1.000000000000	NULL	NULL	4	3	0.03571428571428571
+korean traditional folk art	Pungmul	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+korean traditional folk art	Talchum	1	1	7	7	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+korean traditional folk art	Pansori	1	1	7	7	1.000000000000	NULL	NULL	4	3	0.03571428571428571
+korean traditional folk game	swinging	1	1	2	2	NULL	NULL	NULL	103	59	0.0048543689320388345
+korean traditional folk game	wrestling	1	1	2	2	NULL	NULL	NULL	1829	411	0.0002733734281027884
+korean traditional food	dumpling soup	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+korean traditional food	barbecued beef	1	1	3	3	1.000000000000	NULL	NULL	11	9	0.0303030303030303
+korean traditional food	rice cake soup	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+korean traditional game	hwatoo	1	1	6	6	0.666666666666	NULL	NULL	1	1	0.16666666666666666
+korean traditional game	seesaw	1	1	6	6	0.666666666666	NULL	NULL	21	19	0.007936507936507936
+korean traditional game	shuttlecock	1	1	6	6	0.666666666666	NULL	NULL	8	7	0.020833333333333332
+korean traditional game	swing	1	1	6	6	0.666666666666	NULL	NULL	961	415	0.0001734304543877905
+korean traditional game	top spinning game	1	1	6	6	0.666666666666	NULL	NULL	2	2	0.08333333333333333
+korean traditional game	yut	1	1	6	6	0.666666666666	NULL	NULL	6	4	0.027777777777777776
+korean traditional house	thatched house	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+korean traditional liquor	Cheongju	2	2	4	3	1.000000000000	NULL	NULL	4	3	0.25
+korean traditional liquor	Soju	1	1	4	3	1.000000000000	NULL	NULL	14	12	0.017857142857142856
+korean traditional liquor	Yakju	1	1	4	3	1.000000000000	NULL	NULL	1	1	0.25
+korean traditional martial art	Taekwondo	1	1	2	2	0.500000000000	NULL	NULL	239	90	0.0020920502092050207
+korean traditional martial art	Hapkido	1	1	2	2	0.500000000000	NULL	NULL	79	26	0.006329113924050633
+korean traditional motif	base pillar	1	1	2	2	0.500000000000	NULL	NULL	9	9	0.05555555555555555
+korean traditional motif	column	1	1	2	2	0.500000000000	NULL	NULL	1574	735	0.0003176620076238882
+korean traditional play	Neolttwigi	1	1	1	1	NULL	NULL	NULL	5	4	0.2
+korean traditional sport	Taekwondo	1	1	2	2	NULL	NULL	NULL	239	90	0.0020920502092050207
+korean traditional sport	Archery	1	1	2	2	NULL	NULL	NULL	1568	415	0.00031887755102040814
+korean traditional tea	citron tea	1	1	3	3	1.000000000000	NULL	NULL	6	4	0.05555555555555555
+korean traditional tea	plum tea	1	1	3	3	1.000000000000	NULL	NULL	3	3	0.1111111111111111
+korean traditional tea	red ginseng	1	1	3	3	1.000000000000	NULL	NULL	20	10	0.016666666666666666
+korean traditional treatment	cupping moxa cautery from herb doctor	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean traditional treatment	acupuncture	1	1	2	2	NULL	NULL	NULL	5321	1225	0.00009396729937981582
+korean transnational corporation	Samsung	2	2	4	2	NULL	NULL	NULL	5309	1487	0.00018835938971557733
+korean transnational corporation	Sam Phoong	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+korean transport equipment manufacturer	automaker	1	1	1	1	NULL	NULL	NULL	69	40	0.014492753623188406
+Korean trot	Park Hyun Bin's Gondre Mandre''	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean TV drama	Delightful Girl Choon-Hyang	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+Korean TV series	Sweet Spy	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean TV show	Star Golden Bell	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean TV show	XMan	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+korean TV show	Happy Sunday	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean tv soap	Full House	1	1	1	1	1.000000000000	NULL	NULL	67	42	0.014925373134328358
+korean university	Pusan University of Foreign Studies	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+korean university	POSTECH	1	1	9	9	NULL	NULL	NULL	3	3	0.037037037037037035
+korean university	Ewha Women's University	1	1	9	9	NULL	NULL	NULL	2	2	0.05555555555555555
+korean university	Hankuk	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+korean university	Handong University	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+korean university	Hongik University	1	1	9	9	NULL	NULL	NULL	2	2	0.05555555555555555
+korean university	north korean university	1	1	9	9	NULL	NULL	NULL	2	2	0.05555555555555555
+korean university	south korean university	1	1	9	9	NULL	NULL	NULL	2	2	0.05555555555555555
+korean university	Seoul University of Foreign Studies	1	1	9	9	NULL	NULL	NULL	1	1	0.1111111111111111
+korean usual, side dish	kimchi	1	1	4	4	NULL	NULL	NULL	249	92	0.001004016064257028
+korean usual, side dish	bean sprout	1	1	4	4	NULL	NULL	NULL	252	92	0.000992063492063492
+korean usual, side dish	tempura	1	1	4	4	NULL	NULL	NULL	228	118	0.0010964912280701754
+korean usual, side dish	tofu	1	1	4	4	NULL	NULL	NULL	2457	541	0.00010175010175010175
+korean variable	Kepco ssharepriceasan indicator for Korea selectricity demand	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean variable	stock market returns KOSPI	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean variety show	Golden Bell	1	1	3	3	NULL	NULL	NULL	4	5	0.08333333333333333
+korean variety show	Star King	1	1	3	3	NULL	NULL	NULL	6	4	0.05555555555555555
+korean variety show	1N2D	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+korean vendor	Samsung	1	1	4	4	NULL	NULL	NULL	5309	1487	0.00004708984742889433
+korean vendor	SIM supplier	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean vendor	LG Electronics	1	1	4	4	NULL	NULL	NULL	261	142	0.0009578544061302681
+korean vendor	Samsung Electronics	1	1	4	4	NULL	NULL	NULL	263	138	0.0009505703422053232
+korean vernacular newspaper	Tonga ilbo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean vernacular newspaper	Donga Ilbo	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+korean victim	Carol In	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korean victim	Ted Yoon	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korean victim	Park Hee-Sook	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korean victim	Chul Soo Kim	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korean victim	Chung Koo-Hak	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korean victim	Chun Choon-Ja	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+korean victim	Ji Chang	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+Korean War aircraft	F-86 Sabre	2	2	10	5	1.000000000000	NULL	NULL	6	5	0.06666666666666667
+Korean War aircraft	Yak-9	2	2	10	5	1.000000000000	NULL	NULL	2	1	0.2
+Korean War aircraft	F4U Corsair	2	2	10	5	1.000000000000	NULL	NULL	61	15	0.006557377049180328
+Korean War aircraft	F9F Panther	2	2	10	5	1.000000000000	NULL	NULL	3	2	0.13333333333333333
+Korean War aircraft	MiG-15	2	2	10	5	1.000000000000	NULL	NULL	10	7	0.04
+korean war country	France	1	1	1	1	NULL	NULL	NULL	18997	2318	0.00005263989050902774
+korean war veteran	Oly	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean war veteran	Ken Buckley	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean wave music group	Big Bang	1	1	2	2	0.500000000000	NULL	NULL	223	82	0.002242152466367713
+korean wave music group	Dong Bang Shin Ki	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+korean web portal site	Naver.com	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+korean wellknown food	Kimchi	1	1	4	4	NULL	NULL	NULL	249	92	0.001004016064257028
+korean wellknown food	pepper flavor	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean wellknown food	pea flavor noodle	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korean wellknown food	ready-made food	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+korean woman artists work	Taraneh Hemami	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean women's group	Korean Women's Association United	1	0	1	1	NULL	NULL	NULL	1	1	1
+korean women's trade union issue	gender differentials in pay	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean women's trade union issue	patriarchal oppression of women worker	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+korean word	number	2	1	4	3	0.500000000000	NULL	NULL	1704	590	0.0005868544600938967
+korean word	hanbok	1	1	4	3	0.500000000000	NULL	NULL	8	6	0.03125
+korean word	kimbap	1	1	4	3	0.500000000000	NULL	NULL	4	4	0.0625
+Korean wordnets	U-WIN	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Korean wordnets	KorLex	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+Korean wordnets	CoreNet	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+Korean wrap	grilled chicken	1	1	1	1	NULL	NULL	NULL	229	116	0.004366812227074236
+korean yard	Daewoo	1	1	4	4	NULL	NULL	NULL	169	101	0.0014792899408284023
+korean yard	Hyundai	1	1	4	4	NULL	NULL	NULL	966	379	0.0002587991718426501
+korean yard	Hyundai Heavy Industries Co.	1	1	4	4	NULL	NULL	NULL	5	4	0.05
+korean yard	DSME	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+korean's best-flavoured fermented source	Doenjang	1	1	1	1	1.000000000000	NULL	NULL	8	7	0.125
+korean's neighbor	China	1	1	2	2	NULL	NULL	NULL	30422	3640	0.0000164354743277891
+korean's neighbor	Japan	1	1	2	2	NULL	NULL	NULL	17472	2459	0.000028617216117216117
+korean, japanese and indochinese specialty	barbecued rib	1	1	2	2	0.500000000000	NULL	NULL	28	22	0.017857142857142856
+korean, japanese and indochinese specialty	sushi	1	1	2	2	0.500000000000	NULL	NULL	672	286	0.000744047619047619
+korean-american golfer	Wie	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+Korean-Americans	Michelle Wie	1	1	1	1	1.000000000000	NULL	NULL	45	30	0.022222222222222223
+korean-based company	LG	1	1	2	2	NULL	NULL	NULL	2334	691	0.00021422450728363326
+korean-based company	Samsung	1	1	2	2	NULL	NULL	NULL	5309	1487	0.00009417969485778867
+korean-based engineering company	Daelim Industrials	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean-based engineering company	Hyundai E&C	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+korean-canadian professional	accountant	1	1	3	3	NULL	NULL	NULL	3451	845	0.00009659036028204384
+korean-canadian professional	lawyer	1	1	3	3	NULL	NULL	NULL	4156	1038	0.00008020532563362207
+korean-canadian professional	herbalist	1	1	3	3	NULL	NULL	NULL	83	50	0.004016064257028112
+korean-chinese dish	Ja Jang Myun	1	1	1	1	NULL	NULL	NULL	1	1	1
+korean-fusion item	shrimp dumpling	1	1	3	3	1.000000000000	NULL	NULL	30	27	0.01111111111111111
+korean-fusion item	bbq wrap with bulgogi	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean-fusion item	kimchee coleslaw	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+korean-inspired drink	Yuza Tea	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean-inspired drink	Sweet Potato Hollyccino	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean-made car	Kia	1	1	2	2	NULL	NULL	NULL	301	131	0.0016611295681063123
+korean-made car	Hyundai	1	1	2	2	NULL	NULL	NULL	966	379	0.0005175983436853002
+korean-owned bakery	Paris Baguette	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+korean-owned bakery	Tour Les Jours	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+korean-specific topic	Koreans lung capacity	1	1	1	1	NULL	NULL	NULL	1	1	1
+Koreans	taeyang	1	1	12	12	0.500000000000	NULL	NULL	6	6	0.013888888888888888
+Koreans	Lee Dong-jae	1	1	12	12	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+koreans	young ethnic koreans	1	1	12	12	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+Koreans	Ford Festiva	1	1	12	12	0.500000000000	NULL	NULL	7	5	0.011904761904761904
+Koreans	jaebum	1	1	12	12	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+Koreans	Hyundai Excel	1	1	12	12	0.500000000000	NULL	NULL	5	3	0.016666666666666666
+Koreans	UN Secretary-General Ban Ki-moon	1	1	12	12	0.500000000000	NULL	NULL	4	4	0.020833333333333332
+Koreans	KPOP singer BoA	1	1	12	12	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+Koreans	Daewoo Cielo	1	1	12	12	0.500000000000	NULL	NULL	2	2	0.041666666666666664
+Koreans	baduk	1	1	12	12	0.500000000000	NULL	NULL	4	4	0.020833333333333332
+Koreans	Okinawans	1	1	12	12	0.500000000000	NULL	NULL	11	11	0.007575757575757575
+Koreans	Proton Satria	1	1	12	12	0.500000000000	NULL	NULL	1	1	0.08333333333333333
+koreans favorite proteinaceous food	soy milk	1	1	4	4	NULL	NULL	NULL	869	231	0.00028768699654775604
+koreans favorite proteinaceous food	legume	1	1	4	4	NULL	NULL	NULL	2179	558	0.00011473152822395595
+koreans favorite proteinaceous food	mushroom	1	1	4	4	NULL	NULL	NULL	2656	800	0.00009412650602409639
+koreans favorite proteinaceous food	soy-bean curd	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+korfball skill	team work	1	1	2	2	NULL	NULL	NULL	492	187	0.0010162601626016261
+korfball skill	shooting	1	1	2	2	NULL	NULL	NULL	999	345	0.0005005005005005005
+KORG hardware	KORG Electribe MX-1	2	1	2	1	NULL	NULL	NULL	2	1	1
+korg player	Calvin Harris	1	1	2	2	1.000000000000	NULL	NULL	41	23	0.012195121951219513
+korg player	Chew Lips	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+korg product	Electribe series	1	1	2	3	0.400000000000	NULL	NULL	1	1	0.5
+korg product	Mapex	1	1	2	3	0.400000000000	NULL	NULL	13	8	0.038461538461538464
+korg's feature	setlist	1	1	1	1	NULL	NULL	NULL	1	1	1
+korner's bulk item	candy	1	1	2	2	NULL	NULL	NULL	4475	1246	0.000111731843575419
+korner's bulk item	spice	1	1	2	2	NULL	NULL	NULL	2055	721	0.00024330900243309004
+korngold film soundtrack	Sea Hawk	1	1	2	2	1.000000000000	NULL	NULL	14	11	0.03571428571428571
+korngold film soundtrack	Captain Blood	1	1	2	2	1.000000000000	NULL	NULL	11	9	0.045454545454545456
+Kornheiser's regular cast of characters''	producer Marc Nigel Sterne	1	1	1	1	NULL	NULL	NULL	1	1	1
+KORO installation support office	Housing	2	1	2	1	NULL	NULL	NULL	6378	1909	0.00031357792411414236
+korporations	Junkers Korp	1	1	1	1	NULL	NULL	NULL	1	1	1
+KORVUE channel partner	KORVUE Resellers	1	1	1	1	NULL	NULL	NULL	1	1	1
+koryu	Yagyu Shin Kage Ryu	1	1	1	1	NULL	NULL	NULL	1	1	1
+koryu founder	Tsukahara Bokuden	1	1	1	1	NULL	NULL	NULL	10	3	0.1
+koryu school	Tenshin Shoden Katori Shinto Ryu	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+KOS	thesauri	2	2	3	2	0.800000000000	NULL	NULL	134	73	0.009950248756218905
+KOS	approach kos	1	1	3	2	0.800000000000	NULL	NULL	1	1	0.3333333333333333
+KOS project	Setup Time Reduction Project	1	1	1	1	NULL	NULL	NULL	1	1	1
+KOS registry	service registry	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+KOS registry	terminology registry	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kos's many castle	Castle of the Knights	1	1	1	1	NULL	NULL	NULL	1	1	1
+kose's skin care line	Sekkisei	1	1	1	1	NULL	NULL	NULL	1	1	1
+Koshal	Boudh	1	1	5	5	1.000000000000	NULL	NULL	6	4	0.03333333333333333
+Koshal	Kalahandi	1	1	5	5	1.000000000000	NULL	NULL	10	7	0.02
+Koshal	Sundegarh	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+Koshal	Nuapada	1	1	5	5	1.000000000000	NULL	NULL	3	3	0.06666666666666667
+Koshal	Padampur	1	1	5	5	1.000000000000	NULL	NULL	1	1	0.2
+koshali district	Malkangiri	1	1	2	2	NULL	NULL	NULL	8	5	0.0625
+koshali district	Boudh	1	1	2	2	NULL	NULL	NULL	6	4	0.08333333333333333
+kosher	Senior Citizen High Rise	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher & vegetarian meal	substituting a bean	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher accommodation	oil substitutes in place of butters while cooking with meat	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher animal	buffalo	2	2	9	6	NULL	NULL	NULL	1481	483	0.00030009753169780176
+kosher animal	deer	2	2	9	6	NULL	NULL	NULL	4037	801	0.00011009275314452426
+kosher animal	sheep	2	2	9	6	NULL	NULL	NULL	3396	698	0.00013087292239235702
+kosher animal	cattle	1	1	9	6	NULL	NULL	NULL	2592	568	0.00004286694101508916
+kosher animal	goat	1	1	9	6	NULL	NULL	NULL	2872	602	0.000038687712782420303
+kosher animal	cow	1	1	9	6	NULL	NULL	NULL	2651	523	0.0000419129049834444
+kosher baked good	delicious cranberry loaf	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher baked good online	Mandel bread	1	1	1	1	0.500000000000	NULL	NULL	1	1	1
+kosher bread	challah	1	1	3	3	0.333333333333	NULL	NULL	60	37	0.005555555555555555
+kosher bread	bagel	1	1	3	3	0.333333333333	NULL	NULL	906	364	0.0003679175864606328
+kosher bread	rye	1	1	3	3	0.333333333333	NULL	NULL	1762	458	0.0001891789632992811
+kosher certification agency	Star-K	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+kosher chinese place	Shanghai Express in LA	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher contradiction	tightening of surveillance	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher dairy product	cheese	1	1	2	2	NULL	NULL	NULL	9373	2034	0.0000533447135388883
+kosher dairy product	milk	1	1	2	2	NULL	NULL	NULL	11681	2213	0.00004280455440458865
+kosher deli	2nd Ave Deli	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher dish	chicken creole	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher dish	Ashkenazi casserole	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher favorite	beet borscht	1	1	5	6	0.666666666666	NULL	NULL	1	1	0.2
+kosher favorite	matzo ball soup	1	1	5	6	0.666666666666	NULL	NULL	20	20	0.01
+kosher favorite	smoked salmon	1	1	5	6	0.666666666666	NULL	NULL	287	160	0.0006968641114982578
+kosher favorite	potato latkes	1	1	5	6	0.666666666666	NULL	NULL	19	15	0.010526315789473684
+kosher favorite	Old Fashioned Peanut Brittle	1	1	5	6	0.666666666666	NULL	NULL	1	1	0.2
+kosher fish	Wild Catch	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kosher fish	Natural Value	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kosher fish	Crown Prince	1	1	3	3	1.000000000000	NULL	NULL	8	7	0.041666666666666664
+kosher food	meat	4	4	16	12	0.222222222222	NULL	NULL	9410	1886	0.00010626992561105207
+kosher food	kosher dog	2	2	16	12	0.222222222222	NULL	NULL	2	1	0.125
+kosher food	dairy	1	1	16	12	0.222222222222	NULL	NULL	2153	676	0.000029029261495587553
+kosher food	dessert	1	1	16	12	0.222222222222	NULL	NULL	765	298	0.00008169934640522875
+kosher food	cookie	1	1	16	12	0.222222222222	NULL	NULL	5329	1507	0.000011728279226871834
+kosher food	tinned kosher food	1	1	16	12	0.222222222222	NULL	NULL	2	2	0.03125
+kosher food	Kosher Salt	1	1	16	12	0.222222222222	NULL	NULL	40	30	0.0015625
+kosher food	bread	1	1	16	12	0.222222222222	NULL	NULL	8969	1867	0.000006968446872561044
+kosher food	oil	1	1	16	12	0.222222222222	NULL	NULL	15331	4205	0.000004076707325027721
+kosher food	poultry	1	1	16	12	0.222222222222	NULL	NULL	3542	817	0.000017645398080180688
+kosher food	latkes	1	1	16	12	0.222222222222	NULL	NULL	62	29	0.0010080645161290322
+kosher food	jelly-filled doughnuts called sufganiyots	1	1	16	12	0.222222222222	NULL	NULL	1	1	0.0625
+kosher food product	vegetable oil	1	1	1	1	NULL	NULL	NULL	1179	458	0.0008481764206955047
+kosher froyo food trend	Orange Leaf in St. Robert	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher frozen food	frozen pizza's	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher frozen food	blintzes knish	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher gift	freshly baked ruggalach	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher gift	assorted crumb cake	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher good	kosher cheese	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosher good	kosher wine	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kosher good	kosher chocolate	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosher goodie	Green's Babka	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kosher goodie	Erica's Rugelach	1	1	2	2	NULL	NULL	NULL	3	2	0.16666666666666666
+kosher grocery store	Brach's	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+kosher holiday	Rosh Hashana	1	1	2	2	1.000000000000	NULL	NULL	14	10	0.03571428571428571
+kosher holiday	Jewish new year	1	1	2	2	1.000000000000	NULL	NULL	6	4	0.08333333333333333
+kosher hotdog	Hebrew National	1	1	1	1	1.000000000000	NULL	NULL	15	14	0.06666666666666667
+kosher ingredient	cane sugar	1	1	9	9	0.200000000000	NULL	NULL	143	68	0.000777000777000777
+kosher ingredient	intrinsically kosher ingredient	1	1	9	9	0.200000000000	NULL	NULL	2	2	0.05555555555555555
+kosher ingredient	cake meal	1	1	9	9	0.200000000000	NULL	NULL	1	1	0.1111111111111111
+kosher ingredient	corn meal	1	1	9	9	0.200000000000	NULL	NULL	155	86	0.0007168458781362007
+kosher ingredient	73	1	1	9	9	0.200000000000	NULL	NULL	8	8	0.013888888888888888
+kosher ingredient	agar flake	1	1	9	9	0.200000000000	NULL	NULL	2	2	0.05555555555555555
+kosher ingredient	vanillin	1	1	9	9	0.200000000000	NULL	NULL	101	66	0.0011001100110011
+kosher ingredient	blanched almond flour	1	1	9	9	0.200000000000	NULL	NULL	2	2	0.05555555555555555
+kosher ingredient	butter	1	1	9	9	0.200000000000	NULL	NULL	4240	965	0.00002620545073375262
+kosher israeli wine	Barkan Classic Chardonnay	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher item	cheese	2	2	2	1	NULL	NULL	NULL	9373	2034	0.0002133788541555532
+kosher law	slaughter ritual	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher market	Kosher Marketplace on the Upper West Side	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosher market	Pomegranate in Brooklyn	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosher market	Park East Kosher on the Upper East Side	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosher meat	beef	1	1	2	2	NULL	NULL	NULL	3913	1020	0.0001277791975466394
+kosher meat	lamb	1	1	2	2	NULL	NULL	NULL	1631	591	0.00030656039239730225
+kosher pigment material	charcoal powder	1	1	3	3	1.000000000000	NULL	NULL	11	8	0.0303030303030303
+kosher pigment material	black iron oxide	1	1	3	3	1.000000000000	NULL	NULL	29	7	0.011494252873563218
+kosher pigment material	black copper sulfide	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+Kosher poultry	chicken	2	2	2	1	NULL	NULL	NULL	8933	2087	0.00022388895108026418
+kosher product	Tiptree jam	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+kosher product	dairy-based smoothie	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+kosher product	canned soup	1	1	4	4	0.500000000000	NULL	NULL	318	89	0.0007861635220125787
+kosher product	Toblerone chocolate	1	1	4	4	0.500000000000	NULL	NULL	1	1	0.25
+kosher restaurant	T ierra Sur Restaurant in Oxnard	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosher snack	potato chip	3	3	6	2	NULL	NULL	NULL	1256	407	0.0011942675159235668
+kosher snack	pretzel	3	3	6	2	NULL	NULL	NULL	1160	401	0.001293103448275862
+Kosher species	chicken	1	1	3	3	NULL	NULL	NULL	8933	2087	0.00003731482518004403
+Kosher species	turkey	1	1	3	3	NULL	NULL	NULL	7587	1715	0.00004393480075567857
+Kosher species	duck	1	1	3	3	NULL	NULL	NULL	2517	714	0.00013243279035889284
+kosher style frank	Nathan's	1	1	3	3	1.000000000000	NULL	NULL	11	11	0.0303030303030303
+kosher style frank	Sabrett	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kosher style frank	Best in N.J.	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+kosher style hotdog restaurant	Max's Famous Hotdogs	2	2	2	1	NULL	NULL	NULL	2	1	1
+kosher wine	Mogen David	1	1	7	7	NULL	NULL	NULL	3	3	0.047619047619047616
+kosher wine	Kedem wine	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kosher wine	Baron Herzog Merlot	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kosher wine	Goose Bay Viognier 07	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kosher wine	elderberry	1	1	7	7	NULL	NULL	NULL	251	117	0.0005691519635742744
+kosher wine	Concord blackberry	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+kosher wine	quality kosher wine	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+kosher.com's new feature	kids nutritional corner	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosli poem	achhia	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kosli poem	Mahasati Urmila	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+kosmar activity	beach party	1	1	1	1	1.000000000000	NULL	NULL	87	49	0.011494252873563218
+kosmotropic anion	fluoride	2	2	7	4	0.250000000000	NULL	NULL	830	319	0.0006884681583476764
+kosmotropic anion	iodate	2	2	7	4	0.250000000000	NULL	NULL	24	14	0.023809523809523808
+kosmotropic anion	sulfate	2	2	7	4	0.250000000000	NULL	NULL	1194	460	0.0004785833931562575
+kosmotropic anion	carbonate	1	1	7	4	0.250000000000	NULL	NULL	709	330	0.0002014910336490026
+kosmotropic co-solvents	glycerol	2	1	2	1	NULL	NULL	NULL	1222	458	0.0016366612111292963
+kosmotropic salt	NaCl	1	1	1	1	NULL	NULL	NULL	506	181	0.001976284584980237
+kosmotropic solute	sucrose	1	1	1	1	NULL	NULL	NULL	1726	398	0.0005793742757821553
+kosmotropic solution	ammonium acetate	1	1	2	2	NULL	NULL	NULL	113	76	0.004424778761061947
+kosmotropic solution	ammonium sulfate	1	1	2	2	NULL	NULL	NULL	374	155	0.001336898395721925
+Kosmotropiccosolvents	betaine	1	1	1	1	NULL	NULL	NULL	143	68	0.006993006993006993
+kosovar intellectual	Adem Demaqiand Professor Rexhap Qosja	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosovar intellectual	Adem Demaqi	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kosovar intellectual	Professor Rexhap Qosja	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosovar or serb insigne	flag	1	1	1	1	NULL	NULL	NULL	833	393	0.0012004801920768306
+kosovo albanian politician	President Ibrahim Rugova	1	1	1	1	NULL	NULL	NULL	1	1	1
+kosovo case concerned issue	right to self-determination	1	1	1	1	1.000000000000	NULL	NULL	21	14	0.047619047619047616
+kosovo leader	Agim Ceku	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+kosovo leader	Ali Shukrija	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+kosovo leader	Hashim Thaci	1	1	3	3	NULL	NULL	NULL	3	3	0.1111111111111111
+kosovo partner	IRC	1	1	2	2	0.500000000000	NULL	NULL	181	95	0.0027624309392265192
+kosovo partner	Mercy Corps International	1	1	2	2	0.500000000000	NULL	NULL	7	7	0.07142857142857142
+kosovo serb leader	Rada Trajkovic	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+kosovo serb leader	Oliver Ivanovic	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+kosovo's democratic institution	parliament	1	1	1	1	NULL	NULL	NULL	440	189	0.0022727272727272726
+kosovo's proximal neighbor	Macedonia	1	1	2	2	NULL	NULL	NULL	256	82	0.001953125
+kosovo's proximal neighbor	Bulgaria	1	1	2	2	NULL	NULL	NULL	1831	329	0.00027307482250136535
+Kosovo-Serbians	Rikalo Nenad	1	0	1	1	NULL	NULL	NULL	1	1	1
+kosovo-wide program	youth camp	2	2	2	1	1.000000000000	NULL	NULL	48	32	0.041666666666666664
+kosrae's leader	Speaker	1	1	2	2	NULL	NULL	NULL	1706	596	0.00029308323563892143
+kosrae's leader	Governor	1	1	2	2	NULL	NULL	NULL	364	201	0.0013736263736263737
+Kossacks	Wil Wheaton	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+Kosta Browne bottlings	Rosella's Vineyard	2	1	2	1	NULL	NULL	NULL	2	1	1
+kota brown limestone	commercial Kota Brown Limestones	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kota brown limestone	residential Kota Brown Limestone	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Kota Ezawa's work	Lennon Sontag Beuys	1	1	1	1	NULL	NULL	NULL	1	1	1
+kota kinabalu hotel room amenity	satellite TV	1	1	1	1	NULL	NULL	NULL	581	178	0.0017211703958691911
+kotahstone processing unit	cutters gangsaw	1	1	1	1	NULL	NULL	NULL	1	1	1
+kotekan pattern	kotekan empat pattern illustrated in the figure	1	1	1	1	NULL	NULL	NULL	1	1	1
+kotin's early appointment	scientific director Dr. Hans Falk	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+kotin's early appointment	Scientific Director Hans Falk	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
+koto instrument	80-string koto	1	1	1	1	NULL	NULL	NULL	1	1	1
+koto kit	Armored Core	1	1	2	2	1.000000000000	NULL	NULL	8	6	0.0625
+koto kit	Super Robot Taisen	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+kotra's lnternet homepage	Digtal KOTRA	1	1	1	1	NULL	NULL	NULL	1	1	1
+kotter's previous book	Heart of Change	1	1	1	1	NULL	NULL	NULL	1	1	1
+KotU fat t	tallow	1	1	1	1	NULL	NULL	NULL	271	108	0.0036900369003690036
+koulizos tip inner-west suburb	Enmore	1	1	3	3	0.500000000000	NULL	NULL	6	6	0.05555555555555555
+koulizos tip inner-west suburb	Alexandria	1	1	3	3	0.500000000000	NULL	NULL	277	126	0.0012033694344163657
+koulizos tip inner-west suburb	Erskineville	1	1	3	3	0.500000000000	NULL	NULL	4	4	0.08333333333333333
+koumori specialist	tailor	1	1	1	1	0.500000000000	NULL	NULL	237	100	0.004219409282700422
+kounded granite pebble	arc found in the beds of river	1	1	1	1	NULL	NULL	NULL	1	1	1
+kount's real-time technology	Multi-Order Linking	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kount's real-time technology	Predictive Modeling	1	1	2	2	1.000000000000	NULL	NULL	58	40	0.008620689655172414
+Koura pattern	Red Francis	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+koutiala life threatening disease	malaria	1	1	2	2	NULL	NULL	NULL	4105	774	0.0001218026796589525
+koutiala life threatening disease	diarrhea	1	1	2	2	NULL	NULL	NULL	5108	1053	0.00009788566953797964
+kouwer quality	tranquility	1	1	1	1	1.000000000000	NULL	NULL	37	23	0.02702702702702703
+kova & T fan	Mary-Kate	1	1	1	1	1.000000000000	NULL	NULL	10	9	0.1
+kova's product	stone-like paint	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+kova's product	metallic paint	1	1	2	2	1.000000000000	NULL	NULL	30	23	0.016666666666666666
+kovacs-skilled designer	Karim Rashid	1	1	2	2	1.000000000000	NULL	NULL	42	24	0.011904761904761904
+kovacs-skilled designer	Rachel Simon	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+kovacs-trained designer	Rachel Simon	2	2	4	2	1.000000000000	NULL	NULL	3	2	0.3333333333333333
+kovacs-trained designer	Karim Rashid	2	2	4	2	1.000000000000	NULL	NULL	42	24	0.023809523809523808
+Kovi work	Guns & Rough Sex	1	1	1	1	NULL	NULL	NULL	1	1	1
+Kowadlo's later work	photo essays on the young state of Israel	1	1	1	1	NULL	NULL	NULL	1	1	1
+kowalenko's neighbor	Bertha McLaughlin	1	1	1	1	NULL	NULL	NULL	1	1	1
+kowalewski prey shell factor	thickness	1	1	1	1	NULL	NULL	NULL	1016	420	0.000984251968503937
+kown character	Henry Knox	1	1	3	3	1.000000000000	NULL	NULL	7	6	0.047619047619047616
+kown character	Joseph Reed	1	1	3	3	1.000000000000	NULL	NULL	3	2	0.1111111111111111
+kown character	Nathaniel Greene	1	1	3	3	1.000000000000	NULL	NULL	4	3	0.08333333333333333
+kown process	firing	1	1	1	1	NULL	NULL	NULL	167	106	0.005988023952095809
+koyo tree	Momiji	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+kozhikode-based institution	Government Medical College	1	1	1	2	NULL	NULL	NULL	1	1	1
+kozik character	Hate Dunny	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kozik character	Dr. Bomb	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+kozka's image	Pre-Dinner Drinks	1	1	1	1	NULL	NULL	NULL	1	1	1

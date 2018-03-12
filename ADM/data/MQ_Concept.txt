@@ -1,0 +1,25 @@
+MQ API call	Queue Opens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MQ API call	Connection Opens	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MQ header	RFH	1	1	1	1	NULL	NULL	NULL	5	5	0.2
+MQ specific datum item	field within the MQMD structure	1	1	1	1	NULL	NULL	NULL	1	1	1
+MQC feature	CB marking	1	1	1	1	NULL	NULL	NULL	1	1	1
+MQC test	puncture	5	1	10	3	0.333333333333	NULL	NULL	99	53	0.025252525252525252
+MQC test	tensile strength	3	1	10	3	0.333333333333	NULL	NULL	997	228	0.0009027081243731192
+MQC test	strength	2	1	10	3	0.333333333333	NULL	NULL	2884	881	0.00013869625520110957
+MQL parameter	droplet size	1	1	1	1	1.000000000000	NULL	NULL	45	23	0.022222222222222223
+MQM minister	Shoab Bukhari	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MQM minister	Farooq Sattar	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mqos metric datum	recording	1	1	1	1	NULL	NULL	NULL	574	268	0.0017421602787456446
+MQS application	measuring thin coating	1	1	1	1	NULL	NULL	NULL	1	1	1
+mqseries family member	MQSeries Integrator	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mqseries family member	MQSeries Workflow	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mqseries object	queue	4	4	5	3	1.000000000000	NULL	NULL	302	151	0.010596026490066225
+mqseries object	storage class	1	1	5	3	1.000000000000	NULL	NULL	6	6	0.03333333333333333
+MQSeriesobjects	queue	2	2	3	2	NULL	NULL	NULL	302	151	0.004415011037527594
+MQSeriesobjects	channel	1	1	3	2	NULL	NULL	NULL	914	482	0.00036469730123997083
+mqshavedifferent application	monitoring	1	1	3	3	0.333333333333	NULL	NULL	1507	705	0.0002211900022119
+mqshavedifferent application	object tracking	1	1	3	3	0.333333333333	NULL	NULL	68	42	0.004901960784313725
+mqshavedifferent application	environmental awareness	1	1	3	3	0.333333333333	NULL	NULL	101	54	0.0033003300330033
+MQT overasystem-protected file	across-reference file	1	1	1	1	NULL	NULL	NULL	1	1	1
+MQW parameter	thickness	1	1	2	2	NULL	NULL	NULL	1016	420	0.0004921259842519685
+MQW parameter	growth rate	1	1	2	2	NULL	NULL	NULL	534	257	0.0009363295880149813

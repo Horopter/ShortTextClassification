@@ -1,0 +1,39 @@
+JL audio car audiostereo product	car subwoofers car amplifier kits bass packages speaker	1	1	1	1	NULL	NULL	NULL	1	1	1
+Jl country	Chile	1	0	1	1	NULL	NULL	NULL	3557	513	0.000281135788585887
+JL series	JL250	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JL series	JL390	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JL series	JL360	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JL series	JL190	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JL series	JL320	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+JL Stealthboxes	ones for the ZJ	1	1	1	1	NULL	NULL	NULL	1	1	1
+JLA big name	Superman	1	1	4	4	NULL	NULL	NULL	853	352	0.00029308323563892143
+JLA big name	Batman	1	1	4	4	NULL	NULL	NULL	1019	404	0.0002453385672227674
+JLA big name	Flash	1	1	4	4	NULL	NULL	NULL	2364	906	0.00010575296108291032
+JLA big name	Wonder Woman	1	1	4	4	NULL	NULL	NULL	172	94	0.0014534883720930232
+JLA's B-list Scots	Lord Robertson	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+JLA's B-list Scots	Kirsty Young	1	1	2	2	NULL	NULL	NULL	5	5	0.1
+JLARC report summary nutrient	nitrogen	1	1	1	1	NULL	NULL	NULL	6796	1291	0.00014714537963507945
+jlg's own town-wide fundraising effort	Touch a Truck	1	1	1	1	1.000000000000	NULL	NULL	5	3	0.2
+JLI mainstay	Guy	1	1	1	1	NULL	NULL	NULL	46	32	0.021739130434782608
+JLL member	Mrs. Hugh Collins	1	0	1	1	NULL	NULL	NULL	1	1	1
+JLMC administrative information	procedure	1	1	3	3	NULL	NULL	NULL	1039	479	0.0003208213025344883
+JLMC administrative information	logo	1	1	3	3	NULL	NULL	NULL	2180	879	0.0001529051987767584
+JLMC administrative information	policy	1	1	3	3	NULL	NULL	NULL	1472	661	0.00022644927536231882
+jln2 dgn senior n friend	kak azilah	1	1	1	1	NULL	NULL	NULL	1	1	1
+JLNO money-raising activity	Kitchen Tour	1	1	4	4	1.000000000000	NULL	NULL	3	3	0.08333333333333333
+JLNO money-raising activity	sales of the JLNO's award-winning cookbook	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+JLNO money-raising activity	Shopping Card	1	1	4	4	1.000000000000	NULL	NULL	10	7	0.025
+JLNO money-raising activity	Bloomin DEALs Thrift Shop	1	1	4	4	1.000000000000	NULL	NULL	1	1	0.25
+JLP	Kenneth Baugh	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+JLP	Mike Henry	1	1	7	7	NULL	NULL	NULL	3	3	0.047619047619047616
+JLP	Christopher Tufton	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+JLP	Daryl Vaz	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+JLP	Robert Montague	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+JLP	Clive Mullings	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+JLP	Ruddy Spencer	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+JLP leader	Daryl Vaz	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+JLP supporter	Tappa Zukie	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+JLP supporter	Ranking Dread	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+JLR product	upgraded Land Rover	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+JLR product	Range Rover Sports	2	2	4	2	NULL	NULL	NULL	2	2	0.5
+JLS capability	intelligence	1	1	1	1	NULL	NULL	NULL	1729	598	0.000578368999421631

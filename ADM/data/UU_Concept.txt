@@ -1,0 +1,29 @@
+UU congregation	UCE	1	1	1	1	NULL	NULL	NULL	1	1	1
+UU Dragon-types	Shelgon	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+UU minister	Reverend David Miller	3	3	5	2	NULL	NULL	NULL	3	1	0.6
+UU minister	Reverend James Ishmael Ford	2	2	5	2	NULL	NULL	NULL	2	1	0.4
+UU national agenda	widening participation	1	1	2	2	0.500000000000	NULL	NULL	26	24	0.019230769230769232
+UU national agenda	lifelong learning	1	1	2	2	0.500000000000	NULL	NULL	118	73	0.00423728813559322
+UU Pokemon	Masquerain	1	1	1	1	NULL	NULL	NULL	1	1	1
+UU principle	rational questioning of societal norm	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UU principle	compassion in human relation	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UU Rapid Spinning brethren	Cloyster	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+UU Rapid Spinning brethren	Torkoal	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+uua-sponsored event	Medium-Sized Church Conference	1	1	1	1	NULL	NULL	NULL	1	1	1
+UUCF member	Tom Wintle	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UUCF member	Judy Hoehler	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+UUCP package	System V Release 4	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+uucy's founding member	Rus Holmes	1	1	1	1	NULL	NULL	NULL	1	1	1
+UUFNN committee	Green Sanctuary Committee	1	1	1	1	NULL	NULL	NULL	1	1	1
+UUM journal	Finance	1	1	6	6	0.500000000000	NULL	NULL	7520	2058	0.000022163120567375885
+UUM journal	Utara Management Jurnal	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+UUM journal	Jelapang	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+UUM journal	Jurnal Analisis UUM	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+UUM journal	Jurnal Pembangunan Sosial	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+UUM journal	Malaysia Management Journal	1	1	6	6	0.500000000000	NULL	NULL	1	1	0.16666666666666666
+UUP defector	Arlene Foster	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+UUP defector	Jeffrey Donaldson	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+UUSC gift	pewter chalice jewelry	1	1	1	2	NULL	NULL	NULL	1	1	1
+UUT parametric requirement	power	1	1	2	2	NULL	NULL	NULL	4617	1701	0.00010829542993285683
+UUT parametric requirement	measurement	1	1	2	2	NULL	NULL	NULL	791	332	0.0006321112515802782
+UUVs	USS Manta	1	1	1	1	NULL	NULL	NULL	1	1	1

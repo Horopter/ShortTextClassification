@@ -1,0 +1,17 @@
+ij's factual finding	credibility determination	2	2	2	1	NULL	NULL	NULL	4	2	0.5
+IJ.S. restriction	export control	1	1	1	1	1.000000000000	NULL	NULL	48	39	0.020833333333333332
+IJA demolition device	clock	1	1	1	1	NULL	NULL	NULL	1980	872	0.000505050505050505
+ija's act	Bataan Death March	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+ijarah based bond	Global Sukuks issued by Malaysian	1	1	1	1	NULL	NULL	NULL	1	1	1
+ijarge item	broiler pan	1	1	1	1	1.000000000000	NULL	NULL	26	9	0.038461538461538464
+ijaw leader	late Harold Dappa Biriye	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ijaw leader	former Governor Melford Okilo	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+IJC engineered wood product	LVL	1	1	1	1	1.000000000000	NULL	NULL	27	20	0.037037037037037035
+IJF competition	Olympics	1	1	1	2	NULL	NULL	NULL	836	238	0.0011961722488038277
+ijistitutions	Hebrew Ladies Sewing Society	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+ijlh century collection	Caesarius of Heisterbach	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+Ijma	Ijma al-mujtahidin	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Ijma	Ijma al-ummah	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+ijo leader	Ernest Ikoli	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+iJoy therapeutic massage chair	ijoy 130 massage chair	1	1	1	1	NULL	NULL	NULL	1	1	1
+ijselmeer town	Volendam	1	1	1	1	1.000000000000	NULL	NULL	24	14	0.041666666666666664

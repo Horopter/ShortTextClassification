@@ -1,0 +1,645 @@
+mr technique	novel mr technique	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+mr technique	advanced quantitative mr technique	1	1	4	4	NULL	NULL	NULL	3	3	0.08333333333333333
+mr technique	complicated mr technique	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+mr technique	quantitative mr technique	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+mr-based method	nuclear MR	1	1	3	3	0.500000000000	NULL	NULL	1	1	0.3333333333333333
+mr-based method	electron paramagnetic resonance	1	1	3	3	0.500000000000	NULL	NULL	26	16	0.01282051282051282
+mr-based method	DTI	1	1	3	3	0.500000000000	NULL	NULL	60	33	0.005555555555555555
+mr-based technique	dynamic susceptibility weighted MRI	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr-compatible component	microscope	1	1	3	3	0.333333333333	NULL	NULL	634	257	0.0005257623554153522
+mr-compatible component	anesthesia machine	1	1	3	3	0.333333333333	NULL	NULL	29	22	0.011494252873563218
+mr-compatible component	monitor	1	1	3	3	0.333333333333	NULL	NULL	1940	652	0.00017182130584192438
+mr-friendly datum export	triple S	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+mr-guided intervention	tumor ablation with ethanol	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr-guided percutaneous intervention	biopsy	1	1	2	2	NULL	NULL	NULL	594	227	0.0008417508417508417
+mr-guided percutaneous intervention	drainage	1	1	2	2	NULL	NULL	NULL	1374	546	0.000363901018922853
+MR-methods	placental perfusion	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr-related approach	magnetization transfer	1	1	1	1	1.000000000000	NULL	NULL	25	19	0.04
+MR-sequences	3D CISS	1	1	1	1	NULL	NULL	NULL	1	1	1
+MR-visible material	precious metal	1	1	2	2	NULL	NULL	NULL	472	202	0.001059322033898305
+MR-visible material	heavy metal	1	1	2	2	NULL	NULL	NULL	1911	524	0.00026164311878597594
+mr. a's lab result	serial coagulation prof iles	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mr. a's lab result	serial coagulation profile	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mr. acker bilk mp3 song	Stranger on The Shore	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mr. ahmed country	Ghana	1	1	7	7	NULL	NULL	NULL	2163	290	0.00006604583581005217
+mr. ahmed country	DRC	1	1	7	7	NULL	NULL	NULL	252	73	0.0005668934240362812
+mr. ahmed country	Nigeria	1	1	7	7	NULL	NULL	NULL	3333	572	0.00004286142900004286
+mr. ahmed country	Zambia	1	1	7	7	NULL	NULL	NULL	1332	162	0.00010725010725010724
+mr. ahmed country	Kenya	1	1	7	7	NULL	NULL	NULL	3203	448	0.000044601043664421744
+mr. ahmed country	Tanzania	1	1	7	7	NULL	NULL	NULL	1735	238	0.00008233841086867023
+mr. ahmed country	Morocco	1	1	7	7	NULL	NULL	NULL	1798	302	0.0000794533608771651
+mr. allen's newer film	Scoop	1	1	1	1	NULL	NULL	NULL	57	40	0.017543859649122806
+mr. america winner	Dave Draper	2	1	14	7	1.000000000000	NULL	NULL	10	8	0.02857142857142857
+mr. america winner	Don Howorth	2	1	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+mr. america winner	Casey Viator	2	1	14	7	1.000000000000	NULL	NULL	11	10	0.025974025974025972
+mr. america winner	Harry Johnson	2	1	14	7	1.000000000000	NULL	NULL	5	4	0.05714285714285714
+mr. america winner	Red Lerille	2	1	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+mr. america winner	Bob Gajda	2	1	14	7	1.000000000000	NULL	NULL	2	1	0.14285714285714285
+mr. america winner	Boyer Coe	2	1	14	7	1.000000000000	NULL	NULL	4	3	0.07142857142857142
+Mr. Ben information	credits for graduation	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. bien's fascinating project	Japanese Museum	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mr. bolger's project	leased computer	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. bolton's bigger goal	fundamental reform of the world body	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. brunner issue	Graduation Ceremony	1	1	1	1	0.500000000000	NULL	NULL	103	56	0.009708737864077669
+mr. bruso fashion useful pottery	plate	2	2	2	1	NULL	NULL	NULL	2349	1069	0.0008514261387824606
+mr. bush's column state	Arkansas	1	1	1	1	NULL	NULL	NULL	1118	147	0.0008944543828264759
+mr. bush's own protectionist measure	imposing steel tariff	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. bush's own protectionist measure	agriculture subsidy	1	1	2	2	NULL	NULL	NULL	6	5	0.08333333333333333
+mr. c's top-bracket amenity	spa treatment	1	1	2	2	NULL	NULL	NULL	204	103	0.0024509803921568627
+mr. c's top-bracket amenity	housekeeping	1	1	2	2	NULL	NULL	NULL	1057	380	0.0004730368968779565
+mr. cain's rival	former House of Representatives Speaker Newt Gingrich	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mr. caltagirone's critic	Damian	1	1	1	1	1.000000000000	NULL	NULL	12	11	0.08333333333333333
+mr. carr's idea	data center consolidation	1	1	1	1	1.000000000000	NULL	NULL	35	17	0.02857142857142857
+mr. clean's newest scent	Meadows & Rain	1	1	1	1	NULL	NULL	NULL	1	1	1
+MR. Content information	character appearance	1	1	4	4	0.333333333333	NULL	NULL	14	5	0.017857142857142856
+MR. Content information	artist	1	1	4	4	0.333333333333	NULL	NULL	1020	402	0.00024509803921568627
+MR. Content information	writer	1	1	4	4	0.333333333333	NULL	NULL	602	266	0.0004152823920265781
+MR. Content information	story synopsis	1	1	4	4	0.333333333333	NULL	NULL	11	2	0.022727272727272728
+Mr. Criminal's personal information	relative	1	1	1	1	NULL	NULL	NULL	545	252	0.001834862385321101
+mr. davis close friend	firefighter Milton Williams	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. dylan's public pronouncement	tail-swallowing sentences heard in Martin Scorsese's documentary No Direction Home''	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+mr. feature seminal folk artist	Kingston Trio	1	1	2	2	1.000000000000	NULL	NULL	26	21	0.019230769230769232
+mr. feature seminal folk artist	Glenn Yarbrough	1	1	2	2	1.000000000000	NULL	NULL	3	2	0.16666666666666666
+Mr. Fernandes	Tune Group Sdn Bhd	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Mr. Fernandes	Team Lotus Ventures Limited	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. galliano's daring design	black motorcycle jacket	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. guenanen's touch	minimal cooking of fish	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. guggenheim interview education reformer	Geoffrey Canada	1	1	1	1	1.000000000000	NULL	NULL	9	8	0.1111111111111111
+mr. hatfieldcited technology	electronic map	1	1	2	2	1.000000000000	NULL	NULL	6	6	0.08333333333333333
+mr. hatfieldcited technology	synthetic vision	1	1	2	2	1.000000000000	NULL	NULL	11	10	0.045454545454545456
+mr. hazen's non-yachting customer	Navy	1	1	1	1	NULL	NULL	NULL	1107	368	0.0009033423667570009
+mr. henry's old golf buddy	64-year-old Bruce Brandt	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. hughes's risk	heavy expenditures on launching supplement	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. hussein's elite force	Special Republican Guard	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+MR. ian meadow eating disorder	anorexia	1	1	1	1	NULL	NULL	NULL	2213	430	0.00045187528242205153
+mr. icke's conclusion	negative allusions to Alice A. Bailey	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+mr. icke's conclusion	Jesus having never existed	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+mr. icke's conclusion	St. Germain	1	1	3	3	1.000000000000	NULL	NULL	14	14	0.023809523809523808
+mr. jackson's possession	key	1	1	3	3	NULL	NULL	NULL	1508	483	0.00022104332449160034
+mr. jackson's possession	watch	1	1	3	3	NULL	NULL	NULL	3163	899	0.00010538518284329223
+mr. jackson's possession	money	1	1	3	3	NULL	NULL	NULL	3799	1082	0.00008774238834781082
+mr. jayakumar's illustrious predecessor	J. Sivashamugam Pillai	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+mr. jayakumar's illustrious predecessor	U. Krishna Rao	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+Mr. Jones	Wall Street exec	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+Mr. Jones s	Wall Street exec	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+mr. kiar's charge	travel	1	1	2	2	NULL	NULL	NULL	4528	1282	0.00011042402826855124
+mr. kiar's charge	seminar	1	1	2	2	NULL	NULL	NULL	2782	981	0.00017972681524083394
+mr. koch's favorite antagonist	Hugh Carey	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+mr. krason's intolerant view	criticizing the decriminalization of homosexuality	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. laatsch many state	Minnesota	1	1	1	1	NULL	NULL	NULL	2442	265	0.0004095004095004095
+mr. mandula's fringe benefit	insurance	1	1	2	2	NULL	NULL	NULL	8820	2250	0.00005668934240362812
+mr. mandula's fringe benefit	monthly payment for an automobile	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. marx program	National Health	1	1	1	1	1.000000000000	NULL	NULL	59	46	0.01694915254237288
+mr. mehul chairman non-corporate action	rights issue	1	1	1	1	NULL	NULL	NULL	54	31	0.018518518518518517
+mr. mizrahi's look	gingham dress with a big crinoline slip attached	2	2	5	3	NULL	NULL	NULL	3	2	0.26666666666666666
+mr. mizrahi's look	confused Carol Orsborn	2	2	5	3	NULL	NULL	NULL	3	2	0.26666666666666666
+mr. mizrahi's look	62-year-old author	1	1	5	3	NULL	NULL	NULL	2	2	0.1
+mr. moorcock's crazier invention	huge shallow-water ship	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. morales's student	Manny Zavaleta	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. morales's student	Otto Peterson	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Mr. Obama ics	jailed dissident	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. ohata's film	MD Geist	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+mr. olympia champion	Dexter Jackson	1	1	3	3	0.666666666666	NULL	NULL	14	12	0.023809523809523808
+mr. olympia champion	Ronnie Coleman	1	1	3	3	0.666666666666	NULL	NULL	24	20	0.013888888888888888
+mr. olympia champion	Arnold Schwarzenegger	1	1	3	3	0.666666666666	NULL	NULL	251	122	0.0013280212483399733
+Mr. Olympians	Ronnie Coleman	1	1	2	2	0.666666666666	NULL	NULL	24	20	0.020833333333333332
+Mr. Olympians	Dorian Yates	1	1	2	2	0.666666666666	NULL	NULL	14	12	0.03571428571428571
+mr. ordinary painkiller	aspirin	1	1	1	1	NULL	NULL	NULL	10123	1496	0.00009878494517435543
+mr. perot's top aide	Democrat Hamilton Jordan	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. perot's top aide	Republican Edward J. Rollins	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. pimentel's assumption	relative efficiency of ethanol production process	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. potato head set	Taters of the Lost Ark.	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mr. potato head set	Optimash Prime	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mr. potato head set	Darth Tater	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mr. president policy	high taxation	1	1	1	1	1.000000000000	NULL	NULL	5	4	0.2
+mr. rife's dynamic instruction technique	teaching immune system concepts through dramatic role-play	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. roesch's theory	reincarnation	1	1	2	2	NULL	NULL	NULL	215	99	0.002325581395348837
+mr. roesch's theory	religion	1	1	2	2	NULL	NULL	NULL	6231	1572	0.00008024394158241052
+mr. rolland's client	Quintessa in Napa Valley	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. scanga's find	furniture	1	1	1	1	0.500000000000	NULL	NULL	8749	2264	0.00011429877700308607
+mr. simcoe's story	bubblegum story	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. smith's idea	Infinite Inventory	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. smith's public building	St. Thomas Anglican Church on Huron Street	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr. smith's public building	Group of Seven studios on Aylmer Avenue	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+Mr. Spenser's education	pioneer schools furnished	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. treipnotedsome key issue	beneficial impact of transparency on market efficiency	1	1	1	1	NULL	NULL	NULL	1	1	1
+Mr. West's rhetoric	calling the U.S. government tyrannical	1	1	1	1	NULL	NULL	NULL	1	1	1
+mr. wrong profile	Mooch	2	2	4	2	NULL	NULL	NULL	5	4	0.2
+mr. wrong profile	Mystery Man	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+mr.g thoughtful gift	premium cigar	1	1	1	1	NULL	NULL	NULL	2	5	0.5
+mr.goodliving's proven popular mobile classic	Playman Sports	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mr.goodliving's proven popular mobile classic	Trivial Pursuit	1	1	2	2	NULL	NULL	NULL	116	47	0.004310344827586207
+MR0175 cover nonmetallic material	plastic	2	2	6	4	NULL	NULL	NULL	10906	2659	0.00006112843083318051
+MR0175 cover nonmetallic material	ceramic	2	2	6	4	NULL	NULL	NULL	4473	1434	0.0001490424025635293
+MR0175 cover nonmetallic material	elast omers	1	1	6	4	NULL	NULL	NULL	1	1	0.16666666666666666
+MR0175 cover nonmetallic material	elastomers	1	1	6	4	NULL	NULL	NULL	207	79	0.0008051529790660225
+MR16 style bulb	Little Giant Underwater Light Kit	1	1	1	1	NULL	NULL	NULL	1	1	1
+MR2 specific engine issue	MR2's fuel tank	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MR2 specific engine issue	MR2's cooling system	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MR2 specific engine issue	MR2 engine removal	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MR3 document	metering record	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MRA method	time-of-flight	1	1	1	1	1.000000000000	NULL	NULL	27	19	0.037037037037037035
+MRADL task	toileting	1	1	2	2	NULL	NULL	NULL	264	124	0.001893939393939394
+MRADL task	feeding	1	1	2	2	NULL	NULL	NULL	1225	504	0.00040816326530612246
+MRADLs	toileting	3	3	3	1	NULL	NULL	NULL	264	124	0.011363636363636364
+MRAM manufacturer	Motorola	1	1	2	2	NULL	NULL	NULL	4547	1131	0.00010996261271167803
+MRAM manufacturer	IBM	1	1	2	2	NULL	NULL	NULL	11151	2595	0.00004483902788987535
+MRAM structure	recessed pinned	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRAM technology	anisotropic MRAM	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRAP model	RG-33	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRAP producer	Navistar	1	1	1	1	1.000000000000	NULL	NULL	51	24	0.0196078431372549
+MRAs	US-EU MRA	2	1	2	1	NULL	NULL	NULL	2	1	1
+mrasnika's template system feature	block	1	1	1	1	NULL	NULL	NULL	1922	703	0.0005202913631633715
+MRBs	Capri Oasis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRBs	Bali Oasis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRBs	Maui Oasis	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRC member	Chinese ally Cambodia	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRC membrane protein	G-protein-coupled receptor	1	1	1	1	1.000000000000	NULL	NULL	16	12	0.0625
+MRC program	Water Utilization Program	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRC program	Water Resources Programme	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRC program	Water Utilization Programme focus on hydrological issue	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRC program	Working Group on Transboundary Issues	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRC technology platform	Buddy Media	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+MRC unit	Strategic National Stockpile Points of Distribution	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRC unit	Medical Surge Staffing	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRC well smart technology	downhole flow control systems expandable liner	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MRCCs	Milford Haven	1	1	1	1	1.000000000000	NULL	NULL	11	7	0.09090909090909091
+MRCredits	Recycled Content	1	1	1	1	1.000000000000	NULL	NULL	41	32	0.024390243902439025
+MRCs	MIC in Slovakia	2	2	6	5	NULL	NULL	NULL	2	1	0.3333333333333333
+MRCs	Congolese MCDEM	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+MRCs	Slovak MIC	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+MRCs	Colombian AESCO Centres	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+MRCs	Lebanese Caritas Lebanon Migrant Centre	1	1	6	5	NULL	NULL	NULL	1	1	0.16666666666666666
+MRD	Deltapoint	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRD	Doctor Optic	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRD	Triji RedDot	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRD	Trijicon RMR	1	1	5	5	NULL	NULL	NULL	2	2	0.1
+MRD	Pride Fowler	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRD province	Giang	1	1	1	1	1.000000000000	NULL	NULL	10	5	0.1
+mrdaleaaaa iconographic monument	Stonehenge	1	1	2	3	NULL	NULL	NULL	354	159	0.0014124293785310734
+mrdaleaaaa iconographic monument	Gobleki Tepi	1	1	2	3	NULL	NULL	NULL	2	2	0.25
+MRDM algorithm	ATRE	1	1	1	1	NULL	NULL	NULL	1	1	1
+mre	metrx	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MRE activity	concert	1	1	2	2	NULL	NULL	NULL	3379	894	0.0001479727730097662
+MRE activity	competition	1	1	2	2	NULL	NULL	NULL	2200	797	0.00022727272727272727
+mre advanced statistical method	regression	1	1	1	1	NULL	NULL	NULL	505	239	0.0019801980198019802
+MRE bakery item	cake	1	1	3	3	NULL	NULL	NULL	4260	1150	0.00007824726134585289
+MRE bakery item	cookie	1	1	3	3	NULL	NULL	NULL	5329	1507	0.00006255082254331645
+MRE bakery item	bread	1	1	3	3	NULL	NULL	NULL	8969	1867	0.00003716504998699223
+MRE component	beverage	1	1	3	3	NULL	NULL	NULL	1252	466	0.0002662406815761448
+MRE component	snack bread	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRE component	dessert	1	1	3	3	NULL	NULL	NULL	765	298	0.00043572984749455336
+MRE entree	Chicken with Noodles	2	2	6	3	1.000000000000	NULL	NULL	2	1	0.3333333333333333
+MRE entree	Turkey Breast	2	2	6	3	1.000000000000	NULL	NULL	130	63	0.005128205128205128
+MRE entree	Beef Steak	2	2	6	3	1.000000000000	NULL	NULL	30	24	0.02222222222222222
+MRE material	poster	1	1	1	1	NULL	NULL	NULL	4712	1695	0.00021222410865874363
+MRE promotional material	work glove	1	1	2	2	NULL	NULL	NULL	100	54	0.005
+MRE promotional material	harvest bag	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MREE-enriched phase	clinozoisite	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+mREIT	Novastar	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mREIT	American Capital Agency Corp.	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MREs	Information Builders FOCUS Report Server	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRF component	base oil	1	1	3	3	1.000000000000	NULL	NULL	27	19	0.012345679012345678
+MRF component	alkanolamines	1	1	3	3	1.000000000000	NULL	NULL	5	2	0.06666666666666667
+MRF component	chlorinated paraffin	1	1	3	3	1.000000000000	NULL	NULL	35	24	0.009523809523809523
+MRF parameter estimation technique	least square error method	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRF parameter estimation technique	coding method	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MRF parameter estimation technique	maximum pseudo likelihood estimator method	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRF recyclable	plastic	1	1	1	1	NULL	NULL	NULL	10906	2659	0.00009169264624977077
+MRF sort recyclable material	paper	1	1	2	2	NULL	NULL	NULL	10357	2799	0.000048276527952109686
+MRF sort recyclable material	aluminium	1	1	2	2	NULL	NULL	NULL	2542	745	0.0001966955153422502
+MRFE damper modeling linearized characteristic	complex modulus	1	1	2	2	1.000000000000	NULL	NULL	5	5	0.1
+MRFE damper modeling linearized characteristic	equivalent damping	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MRFs	Myf5	3	2	9	5	1.000000000000	NULL	NULL	9	5	0.1111111111111111
+MRFs	MRF4	3	3	9	5	1.000000000000	NULL	NULL	4	2	0.25
+MRFs	Greenstar	1	1	9	5	1.000000000000	NULL	NULL	4	4	0.027777777777777776
+MRFs	MyoDand Myf5	1	1	9	5	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+MRFs	myogenic factor-5	1	1	9	5	1.000000000000	NULL	NULL	1	1	0.1111111111111111
+Mrgpr agonist	MrgprX1 agonist	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI advance	open bore geometry faster imaging sequence	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI agent	Gd-DTPA	1	1	1	1	1.000000000000	NULL	NULL	21	16	0.047619047619047616
+MRI application	breast	1	1	7	7	NULL	NULL	NULL	1672	511	0.00008544087491455912
+MRI application	magnetization-prepared imaging with centric view-ordering	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+mri application	surface coil mri application	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+MRI application	spectroscopy	1	1	7	7	NULL	NULL	NULL	261	120	0.0005473453749315818
+MRI application	kidney imaging	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+mri application	emerging mri application	1	1	7	7	NULL	NULL	NULL	2	2	0.07142857142857142
+MRI application	arterial spin labeling perfusion imaging	1	1	7	7	NULL	NULL	NULL	1	1	0.14285714285714285
+MRI application field	examination of the lung	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI application whichutilizedynamic first-pass technique	CNS perfusion imaging	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI approach	diffusion MRI	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+MRI array	phased coil array	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI artifact	intensity non-uniformity	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MRI bolus tracking technique	saturation recovery Turbo-FLASH	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI change	annular tear	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+MRI change	asymmetric subcortical changes in white matter	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRI change	Schmorl's node	1	1	6	6	NULL	NULL	NULL	3	2	0.05555555555555555
+MRI change	edema	1	1	6	6	NULL	NULL	NULL	568	283	0.00029342723004694836
+MRI change	disc herniation	1	1	6	6	NULL	NULL	NULL	73	39	0.00228310502283105
+MRI change	marrow signal change	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRI characteristic	venular enhancement	2	1	13	9	0.666666666666	NULL	NULL	2	1	0.15384615384615385
+MRI characteristic	position	2	2	13	9	0.666666666666	NULL	NULL	1508	681	0.00020403999183840033
+MRI characteristic	peripheral restriction on diffusion-weighted imaging	2	1	13	9	0.666666666666	NULL	NULL	2	1	0.15384615384615385
+MRI characteristic	open-ring enhancement	2	1	13	9	0.666666666666	NULL	NULL	2	1	0.15384615384615385
+MRI characteristic	avascular necrosis	1	1	13	9	0.666666666666	NULL	NULL	47	23	0.0016366612111292963
+MRI characteristic	signal intensity	1	1	13	9	0.666666666666	NULL	NULL	11	10	0.006993006993006993
+MRI characteristic	scar tissue	1	1	13	9	0.666666666666	NULL	NULL	63	38	0.001221001221001221
+MRI characteristic	morphology of disc	1	1	13	9	0.666666666666	NULL	NULL	1	1	0.07692307692307693
+MRI characteristic	degenerative change	1	1	13	9	0.666666666666	NULL	NULL	18	14	0.004273504273504274
+MRI compatible material	timing belt	1	1	6	6	0.400000000000	NULL	NULL	146	92	0.001141552511415525
+MRI compatible material	brass screw	1	1	6	6	0.400000000000	NULL	NULL	11	10	0.01515151515151515
+MRI compatible material	piezoelectric motor	1	1	6	6	0.400000000000	NULL	NULL	10	8	0.016666666666666666
+MRI compatible material	plastic sheet	1	1	6	6	0.400000000000	NULL	NULL	137	81	0.0012165450121654502
+MRI compatible material	titanium	1	1	6	6	0.400000000000	NULL	NULL	3772	993	0.00004418522446094026
+MRI compatible material	plastic pulley	1	1	6	6	0.400000000000	NULL	NULL	2	2	0.08333333333333333
+MRI compatible metal	titanium alloy	1	1	1	1	NULL	NULL	NULL	131	68	0.007633587786259542
+MRI contrast agent	gadolinium	3	3	14	12	0.666666666666	NULL	NULL	209	77	0.003075871496924128
+MRI contrast agent	paramagnetic ion	1	1	14	12	0.666666666666	NULL	NULL	6	4	0.011904761904761904
+MRI contrast agent	gadolinium-dtpa	1	1	14	12	0.666666666666	NULL	NULL	4	3	0.017857142857142856
+MRI contrast agent	USPIO	1	1	14	12	0.666666666666	NULL	NULL	6	5	0.011904761904761904
+MRI contrast agent	DOTA	1	1	14	12	0.666666666666	NULL	NULL	61	26	0.00117096018735363
+MRI contrast agent	gadolinium-based agent	1	1	14	12	0.666666666666	NULL	NULL	3	3	0.023809523809523808
+MRI contrast agent	superparamagnetic iron oxide	1	1	14	12	0.666666666666	NULL	NULL	6	6	0.011904761904761904
+mri contrast agent	extracellular mri contrast agent	1	1	14	12	0.666666666666	NULL	NULL	3	3	0.023809523809523808
+MRI contrast agent	iron-oxide nanoparticles	1	1	14	12	0.666666666666	NULL	NULL	2	2	0.03571428571428571
+MRI contrast agent	Omniscan	1	1	14	12	0.666666666666	NULL	NULL	6	6	0.011904761904761904
+MRI contrast agent	radionucleotides	1	1	14	12	0.666666666666	NULL	NULL	3	3	0.023809523809523808
+MRI contrast agent	perfluorocarbons	1	1	14	12	0.666666666666	NULL	NULL	88	41	0.0008116883116883116
+MRI contrast modalities	diffusion weighted imaging	2	2	4	2	1.000000000000	NULL	NULL	24	13	0.041666666666666664
+MRI contrast modalities	perfusion weighted imaging	2	2	4	2	1.000000000000	NULL	NULL	6	4	0.16666666666666666
+MRI contrastagents	gadolinium-based agent	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+MRI criterion	Modic type I change of the endplates	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI diagnostic application	Alzheimer's	1	1	3	3	NULL	NULL	NULL	1786	358	0.0001866368047779022
+MRI diagnostic application	cardiac disease	1	1	3	3	NULL	NULL	NULL	167	90	0.001996007984031936
+MRI diagnostic application	breast disease	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MRI feature	contrast enhancement	2	2	10	8	1.000000000000	NULL	NULL	85	50	0.004705882352941177
+MRI feature	presence of cyst	2	2	10	8	1.000000000000	NULL	NULL	4	3	0.1
+MRI feature	enhancement pattern	1	1	10	8	1.000000000000	NULL	NULL	1	1	0.1
+MRI feature	tumor thickness	1	1	10	8	1.000000000000	NULL	NULL	12	8	0.008333333333333333
+MRI feature	susceptibility effect	1	1	10	8	1.000000000000	NULL	NULL	1	1	0.1
+MRI feature	tumor appearance	1	1	10	8	1.000000000000	NULL	NULL	1	1	0.1
+MRI feature	presence of calcifi cation	1	1	10	8	1.000000000000	NULL	NULL	1	1	0.1
+MRI feature	presence of calcification	1	1	10	8	1.000000000000	NULL	NULL	9	8	0.011111111111111112
+MRI finding	defects of the glenoid labrum	3	1	7	5	1.000000000000	NULL	NULL	3	1	0.42857142857142855
+MRI finding	histological components specific for the origin of the tumor	1	1	7	5	1.000000000000	NULL	NULL	1	1	0.14285714285714285
+MRI finding	bowel wall thickening	1	1	7	5	1.000000000000	NULL	NULL	8	7	0.017857142857142856
+mri finding	abnormal mri finding	1	1	7	5	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+mri finding	preoperative mri finding	1	1	7	5	1.000000000000	NULL	NULL	2	2	0.07142857142857142
+MRI identifiablemarker	collagen plug	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+MRI image	PD	1	1	1	1	NULL	NULL	NULL	147	85	0.006802721088435374
+MRI image muscle tumor	sarcoma	1	1	1	1	NULL	NULL	NULL	165	82	0.006060606060606061
+MRI imaging method	proton resonance frequency switching method	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI imaging technique	diffusion tensor imaging	1	1	1	1	NULL	NULL	NULL	166	85	0.006024096385542169
+MRI information	T2-based postablation edema map	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI information	vessel occlusion	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI isausefultoolin difficult case	intrabiliary rupture	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI machine parameter	strength of the RF pulse	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI machine parameter	timing of repetitive RF pulse	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI major research program	National Nutrition Survey	1	1	1	1	NULL	NULL	NULL	3	2	0.3333333333333333
+MRI maker	Siemens	1	1	2	2	NULL	NULL	NULL	2293	783	0.00021805494984736154
+MRI maker	Philips	1	1	2	2	NULL	NULL	NULL	1532	517	0.00032637075718015666
+MRI measure	T2 lesion volume	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRI measure	T2 lesion load	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRI measure	abnormalities of cerebral white matter	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRI measure	magnetization transfer ratio imaging	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRI method	diffusion-weighted imaging	3	1	11	8	1.000000000000	NULL	NULL	78	38	0.010489510489510488
+MRI method	fluid-attenuated inversion recovery	2	1	11	8	1.000000000000	NULL	NULL	8	4	0.045454545454545456
+MRI method	resting state	1	1	11	8	1.000000000000	NULL	NULL	3	2	0.030303030303030304
+MRI method	contrast enhancedMR renography for exploring renal cortical perfusion	1	1	11	8	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+MRI method	diffusion imaging	1	1	11	8	1.000000000000	NULL	NULL	30	16	0.0030303030303030303
+MRI method	dynamic MRI	1	1	11	8	1.000000000000	NULL	NULL	9	8	0.010101010101010102
+MRI method	measurement of regional bone erosion	1	1	11	8	1.000000000000	NULL	NULL	1	1	0.09090909090909091
+mri method	well-established mri method	1	1	11	8	1.000000000000	NULL	NULL	2	2	0.045454545454545456
+MRI methodology	use of orbital coil	3	3	4	2	NULL	NULL	NULL	3	1	0.75
+MRI methodology	Gd-DTPA image enhancement in the eye	1	1	4	2	NULL	NULL	NULL	1	1	0.25
+MRI modalities	chemical shift imaging	1	1	1	1	1.000000000000	NULL	NULL	5	5	0.2
+MRI parameter	cyst wall appearance	3	1	17	11	1.000000000000	NULL	NULL	3	1	0.17647058823529413
+MRI parameter	location of residual pituitary gland	3	1	17	11	1.000000000000	NULL	NULL	3	1	0.17647058823529413
+MRI parameter	enhancement pattern of cyst wall	3	1	17	11	1.000000000000	NULL	NULL	3	1	0.17647058823529413
+MRI parameter	relaxation time of proton density	1	1	17	11	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+MRI parameter	apparent diffusion coefficient	1	1	17	11	1.000000000000	NULL	NULL	4	4	0.014705882352941176
+MRI parameter	flip angle	1	1	17	11	1.000000000000	NULL	NULL	12	7	0.004901960784313725
+MRI parameter	spatial resolution	1	1	17	11	1.000000000000	NULL	NULL	77	60	0.0007639419404125286
+MRI parameter	fractional anisotropy	1	1	17	11	1.000000000000	NULL	NULL	34	21	0.0017301038062283738
+mri parameter	quantitative mri parameter	1	1	17	11	1.000000000000	NULL	NULL	2	2	0.029411764705882353
+MRI parameter	microstructural changes measured by diffusion tensor Imaging	1	0	17	11	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+MRI parameter	native T1 relaxation time	1	1	17	11	1.000000000000	NULL	NULL	1	1	0.058823529411764705
+MRI procedure	abdomen	1	0	6	6	0.400000000000	NULL	NULL	359	101	0.0004642525533890436
+MRI procedure	diffusion weighted imaging	1	1	6	6	0.400000000000	NULL	NULL	24	13	0.006944444444444444
+mri procedure	interventional mri procedure	1	1	6	6	0.400000000000	NULL	NULL	2	2	0.08333333333333333
+MRI procedure	spine	1	0	6	6	0.400000000000	NULL	NULL	392	189	0.00042517006802721087
+MRI procedure	vascular cardiac	1	0	6	6	0.400000000000	NULL	NULL	1	1	0.16666666666666666
+MRI procedure	brain	1	0	6	6	0.400000000000	NULL	NULL	1902	527	0.00008762705923589204
+MRI processing	head modeling	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI processing	segmentation	1	1	2	2	NULL	NULL	NULL	387	219	0.0012919896640826874
+MRI product	NO2 Platinum	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI property	anisotropy of breast tissue density	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI property	presence of specific findings associated with increased risk of breast cancer	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRI result	total volume of enhancing lesion	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI reticuloendothelial agent	USPIO	1	1	1	1	NULL	NULL	NULL	6	5	0.16666666666666666
+MRI safety product	tape	1	1	4	4	NULL	NULL	NULL	2353	959	0.00010624734381640459
+MRI safety product	ribbon	1	1	4	4	NULL	NULL	NULL	2039	602	0.00012260912211868564
+MRI safety product	floor safety	1	1	4	4	NULL	NULL	NULL	7	4	0.03571428571428571
+MRI safety product	MRI sign	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRI scanner	Sir Peter Mansfield	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI scanner	pioneered by Paul Lauterbur	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI scanner	Raymond Damadian	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI scanner magnet	open magnet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI scanner magnet	long bore magnet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI scanner magnet	vertical magnet	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI sequence	FLAIR	2	2	15	13	0.625000000000	NULL	NULL	10	8	0.026666666666666665
+MRI sequence	diffusion-weighted imaging	2	2	15	13	0.625000000000	NULL	NULL	78	38	0.003418803418803419
+MRI sequence	turbo spin-echo	1	1	15	13	0.625000000000	NULL	NULL	1	1	0.06666666666666667
+MRI sequence	T2-weighted GRE	1	1	15	13	0.625000000000	NULL	NULL	1	1	0.06666666666666667
+MRI sequence	steady-state free precession	1	1	15	13	0.625000000000	NULL	NULL	9	6	0.007407407407407408
+mri sequence	fast mri sequence	1	1	15	13	0.625000000000	NULL	NULL	2	2	0.03333333333333333
+MRI sequence	T2	1	1	15	13	0.625000000000	NULL	NULL	35	31	0.0019047619047619048
+MRI sequence	HR T2	1	1	15	13	0.625000000000	NULL	NULL	1	1	0.06666666666666667
+MRI sequence	T1	1	1	15	13	0.625000000000	NULL	NULL	228	159	0.00029239766081871346
+MRI sequence	3D FLAIR	1	1	15	13	0.625000000000	NULL	NULL	1	1	0.06666666666666667
+MRI sequence	fluid-attenuated inversion recovery	1	1	15	13	0.625000000000	NULL	NULL	8	4	0.008333333333333333
+MRI sequence	inversion-recovery TFE	1	1	15	13	0.625000000000	NULL	NULL	1	1	0.06666666666666667
+mri sequence	high-resolution mri sequence	1	1	15	13	0.625000000000	NULL	NULL	2	2	0.03333333333333333
+MRI signal characteristic	lack of intralesional mineralization	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI signal characteristic	heterogeneity of the matrix	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI signal characteristic	increased signal intensity on T2-weighted image	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+MRI Spontaneous EEG activity	alpha wave	1	1	1	1	1.000000000000	NULL	NULL	7	6	0.14285714285714285
+mri study	dynamic mri study	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+MRI system	Toshiba OPART.TM	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRI T2-WI finding	endplate abnormality	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+MRI T2-WI finding	high-Intensity zone	1	1	2	2	1.000000000000	NULL	NULL	2	2	0.25
+MRI technique	diffusion-weighted imaging	11	10	116	71	0.620689655172	NULL	NULL	78	38	0.013373121131741822
+MRI technique	diffusion tensor imaging	5	5	116	71	0.620689655172	NULL	NULL	166	85	0.0012982966348151226
+MRI technique	magnetization transfer	4	3	116	71	0.620689655172	NULL	NULL	25	19	0.005517241379310344
+MRI technique	magnetization transfer imaging	4	3	116	71	0.620689655172	NULL	NULL	52	27	0.002652519893899204
+MRI technique	spectroscopy	4	3	116	71	0.620689655172	NULL	NULL	261	120	0.0005284713964856652
+MRI technique	magnetic resonance spectroscopy	4	3	116	71	0.620689655172	NULL	NULL	123	64	0.00112139052425007
+MRI technique	dynamic contrast-enhanced MRI	3	3	116	71	0.620689655172	NULL	NULL	27	12	0.0028735632183908046
+MRI technique	diffusion weighted imaging	3	2	116	71	0.620689655172	NULL	NULL	24	13	0.003232758620689655
+MRI technique	T2 mapping	3	3	116	71	0.620689655172	NULL	NULL	7	4	0.011083743842364532
+MRI technique	DWI	3	3	116	71	0.620689655172	NULL	NULL	191	73	0.00040621050731178915
+MRI technique	analysis of magnetization transfer	3	3	116	71	0.620689655172	NULL	NULL	3	1	0.02586206896551724
+MRI technique	Diffusion-weighted MRI	2	2	116	71	0.620689655172	NULL	NULL	23	15	0.0014992503748125937
+MRI technique	diffusion imaging	2	2	116	71	0.620689655172	NULL	NULL	30	16	0.0011494252873563218
+MRI technique	quantitative imaging	2	2	116	71	0.620689655172	NULL	NULL	5	3	0.006896551724137931
+MRI technique	MR spectroscopy	2	2	116	71	0.620689655172	NULL	NULL	98	49	0.0003518648838845883
+MRI technique	first-pass perfusion	2	2	116	71	0.620689655172	NULL	NULL	2	1	0.017241379310344827
+MRI technique	proton magnetic resonance spectroscopy	2	2	116	71	0.620689655172	NULL	NULL	20	13	0.0017241379310344827
+MRI technique	magnetisation transfer	2	2	116	71	0.620689655172	NULL	NULL	2	1	0.017241379310344827
+MRI technique	high-resolution	2	2	116	71	0.620689655172	NULL	NULL	13	9	0.002652519893899204
+MRI technique	Blood Oxygen Level Dependent MRI	2	2	116	71	0.620689655172	NULL	NULL	2	1	0.017241379310344827
+mri technique	introduction advanced mri technique	1	1	116	71	0.620689655172	NULL	NULL	3	3	0.0028735632183908046
+mri technique	advanced mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	dynamic gadolinium-enhanced MRI	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	dual inversion recovery	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	three-dimensional surface rendering	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	susceptibility-weighted imaging	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	sensitivity encoding echo-planer	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+mri technique	novel mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	proton spectroscopy	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	DTI	1	1	116	71	0.620689655172	NULL	NULL	60	33	0.00014367816091954023
+MRI technique	double inversion recovery	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	CT	1	1	116	71	0.620689655172	NULL	NULL	2212	752	0.000003897237637962212
+MRI technique	spectroscopy for study of the human brain	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	use of paramagnetic contrast agent	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	control-volume method	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	magnetization transfer ratio	1	1	116	71	0.620689655172	NULL	NULL	5	4	0.0017241379310344827
+MRI technique	blood oxygenation level-dependent imaging	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	putative marker of cellular infiltration	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	Parallel MRI	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+mri technique	non-routine structural mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	multiple-fiber diffusion tractography	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	MRI volumetry	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	diffusion weighted imaging enabling visualization of tract	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	T2 relaxometry	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	T1 black hole	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	time-resolved contrast MRA	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	ultra-small iron oxide particle enhancement	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	hippocampal volumetry	1	1	116	71	0.620689655172	NULL	NULL	4	4	0.0021551724137931034
+MRI technique	imaging of endogenous protein	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	functional imaging	1	1	116	71	0.620689655172	NULL	NULL	32	26	0.00026939655172413793
+MRI technique	functional	1	1	116	71	0.620689655172	NULL	NULL	146	93	0.000059045819555975433
+MRI technique	functional MRI	1	1	116	71	0.620689655172	NULL	NULL	178	95	0.000048430840759395585
+MRI technique	measurement of late enhancement following administration of gadolinium	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	MR perfusion imaging	1	1	116	71	0.620689655172	NULL	NULL	5	3	0.0017241379310344827
+MRI technique	MR lymphangiography	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	perfusion	1	1	116	71	0.620689655172	NULL	NULL	74	49	0.00011649580615097856
+MRI technique	perfusion-weighted imaging	1	1	116	71	0.620689655172	NULL	NULL	11	8	0.0007836990595611285
+MRI technique	perfusion MRI	1	1	116	71	0.620689655172	NULL	NULL	15	13	0.0005747126436781609
+MRI technique	magnetic resonance elastography	1	1	116	71	0.620689655172	NULL	NULL	6	4	0.0014367816091954023
+MRI technique	magnetic resonance angiography	1	1	116	71	0.620689655172	NULL	NULL	104	67	0.00008289124668435013
+mri technique	improved mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	angiography	1	1	116	71	0.620689655172	NULL	NULL	363	154	0.00002374845635033723
+MRI technique	T2	1	1	116	71	0.620689655172	NULL	NULL	35	31	0.0002463054187192118
+MRI technique	real-time color-flow MRI	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+mri technique	quantitative mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	voxel-based morphometry	1	1	116	71	0.620689655172	NULL	NULL	13	10	0.000663129973474801
+mri technique	non-conventional mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technique	moving-slice velocity mapping	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+MRI technique	MR angiography	1	1	116	71	0.620689655172	NULL	NULL	64	40	0.00013469827586206896
+MRI technique	MR spectroscopy Functional MRI	1	1	116	71	0.620689655172	NULL	NULL	1	1	0.008620689655172414
+mri technique	modern mri technique	1	1	116	71	0.620689655172	NULL	NULL	2	2	0.004310344827586207
+MRI technology	Diffusion Tensor Imaging	2	2	4	3	0.500000000000	NULL	NULL	166	85	0.006024096385542169
+MRI technology	MRI spectroscopy	1	1	4	3	0.500000000000	NULL	NULL	7	5	0.03571428571428571
+MRI technology	Total imaging matrix	1	1	4	3	0.500000000000	NULL	NULL	1	1	0.25
+MRI tool	diffusion tensor imaging	2	2	2	1	NULL	NULL	NULL	166	85	0.012048192771084338
+MRI tracer	gadodiamide	1	1	1	1	1.000000000000	NULL	NULL	6	6	0.16666666666666666
+MRI uncovered brain anatomic change	central atrophy in old patient	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+MRI unit	open-bore MRIs	1	1	1	1	NULL	NULL	NULL	1	1	1
+mri-based measure	atrophy	1	1	4	4	0.250000000000	NULL	NULL	112	76	0.002232142857142857
+mri-based measure	black hole	1	1	4	4	0.250000000000	NULL	NULL	292	152	0.0008561643835616438
+mri-based measure	magnetization transfer ratio	1	1	4	4	0.250000000000	NULL	NULL	5	4	0.05
+mri-based measure	volumes of lesion	1	1	4	4	0.250000000000	NULL	NULL	1	1	0.25
+mri-based method	cardiac tagging	1	1	1	1	NULL	NULL	NULL	1	1	1
+mri-based structural measure	myelination density	1	1	1	1	NULL	NULL	NULL	1	1	1
+mri-based technique	proton magnetic reson ance spectroscopy	1	1	1	1	NULL	NULL	NULL	1	1	1
+mri-unsafe object	ferroma netic scissors	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mri-unsafe object	needle driver	1	1	2	2	1.000000000000	NULL	NULL	6	5	0.08333333333333333
+MRIAs	Midomi	1	1	1	1	NULL	NULL	NULL	4	3	0.25
+mrican american critic	Taylor	1	1	1	1	NULL	NULL	NULL	299	146	0.0033444816053511705
+MRIF guideline	Evaluation Guideline	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+MRIF guideline	Audit	1	1	2	2	0.500000000000	NULL	NULL	901	454	0.0005549389567147614
+MRIL processing technique	Time Domain Analysis	1	1	1	1	NULL	NULL	NULL	5	3	0.2
+mrj's major component	fuselage	1	1	3	3	0.333333333333	NULL	NULL	92	51	0.003623188405797101
+mrj's major component	empennage	1	1	3	3	0.333333333333	NULL	NULL	13	10	0.02564102564102564
+mrj's major component	wing	1	1	3	3	0.333333333333	NULL	NULL	835	425	0.0003992015968063872
+MRL's	CL ANG	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MRLs	BM-24	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRLs	CL ANG	1	1	6	6	NULL	NULL	NULL	2	2	0.08333333333333333
+MRLs	BM-14	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRLs	BM-27 Uragan	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRLs	BM-30 Smerch	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRLs	BM-21 Grad	1	1	6	6	NULL	NULL	NULL	1	1	0.16666666666666666
+MRM approach	selective viewing	2	2	2	1	NULL	NULL	NULL	7	3	0.2857142857142857
+MRM company	Unica	1	1	1	1	1.000000000000	NULL	NULL	13	9	0.07692307692307693
+MRM product	TREK	1	1	1	1	1.000000000000	NULL	NULL	37	22	0.02702702702702703
+MRM vendor	Aprimo	2	1	2	1	1.000000000000	NULL	NULL	13	11	0.15384615384615385
+mRN Alevelmethods	RT-PCR	1	1	2	2	NULL	NULL	NULL	202	110	0.0024752475247524753
+mRN Alevelmethods	SAGE generating gene expression datum	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mRNA	DFTR gene from pulmonary cell	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrna degradation signal	poly ATTTA	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrna processing component	non-sense mediated decay factors Upf1	2	2	2	1	NULL	NULL	NULL	2	1	1
+mRNA s	actin mrna	1	1	1	1	NULL	NULL	NULL	1	1	1
+mRNA species	protamine mrnas	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrna targeting strategy	RNA interference	1	1	1	1	NULL	NULL	NULL	124	69	0.008064516129032258
+mrna-binding protein	cap-binding protein	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mrna-binding protein	fragile-X mental retardation protein	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mrna-binding protein	destabilizing mrna-binding protein	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+mRNAexpres-sionofproinflammatory cytokines	TNF-a	1	1	1	1	1.000000000000	NULL	NULL	106	44	0.009433962264150943
+mrnaexpressionoflxr target gene	ABCG5	1	1	2	2	1.000000000000	NULL	NULL	7	6	0.07142857142857142
+mrnaexpressionoflxr target gene	Insig-2	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+mrnalevelsof myogenic regulatory factor marker	MyoD	1	1	2	2	0.500000000000	NULL	NULL	57	31	0.008771929824561403
+mrnalevelsof myogenic regulatory factor marker	myogenin	1	1	2	2	0.500000000000	NULL	NULL	24	19	0.020833333333333332
+mrnas	cellular and viral mrnas	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mrnas	th2 cytokine mrnas	1	1	12	12	0.800000000000	NULL	NULL	2	2	0.041666666666666664
+mRNAs	c-mos mRNA of Xenopus	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mRNAs	PEX3	1	1	12	12	0.800000000000	NULL	NULL	3	3	0.027777777777777776
+mRNAs	ATF4 mrna	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mRNAs	histone deacetylase mrna	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mRNAs	VEGF mrna	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mRNAs	PDGF mrna	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mrnas	hub mrnp-bound mrnas	1	1	12	12	0.800000000000	NULL	NULL	1	1	0.08333333333333333
+mRNAs	HDAC3	1	1	12	12	0.800000000000	NULL	NULL	2	2	0.041666666666666664
+mRNAs	CLB2	1	1	12	12	0.800000000000	NULL	NULL	2	2	0.041666666666666664
+mRNAs	c-myc	1	1	12	12	0.800000000000	NULL	NULL	83	38	0.001004016064257028
+mrnasencode protein	kinases	1	1	1	1	NULL	NULL	NULL	99	53	0.010101010101010102
+mrnasencoding certain protein	cytoskeletal protein	1	1	3	3	1.000000000000	NULL	NULL	14	9	0.023809523809523808
+mrnasencoding certain protein	cellular-stress-related protein	1	1	3	3	1.000000000000	NULL	NULL	1	1	0.3333333333333333
+mrnasencoding certain protein	ribosomal protein	1	1	3	3	1.000000000000	NULL	NULL	32	20	0.010416666666666666
+mrnasencoding granule protein	lactotransferrin	1	1	1	1	NULL	NULL	NULL	7	4	0.14285714285714285
+mrnasencoding protein	actin	1	1	2	2	NULL	NULL	NULL	276	107	0.0018115942028985507
+mrnasencoding protein	tubulin	1	1	2	2	NULL	NULL	NULL	98	37	0.00510204081632653
+mrnp biogenesis mutant	THO null mutant	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRO company	AAR Corp.	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRO item	bearing	2	2	13	12	NULL	NULL	NULL	1447	550	0.00021264153952474618
+MRO item	fastener	1	1	13	12	NULL	NULL	NULL	714	383	0.00010773540185304892
+MRO item	electrical	1	1	13	12	NULL	NULL	NULL	2498	865	0.000030793865861920304
+MRO item	power transmission equipment	1	1	13	12	NULL	NULL	NULL	2	2	0.038461538461538464
+MRO item	construction	1	1	13	12	NULL	NULL	NULL	6231	1679	0.000012345221781909313
+MRO item	belt	1	1	13	12	NULL	NULL	NULL	3587	1043	0.0000214449615062941
+MRO item	plumbing COmpo nCllts	1	1	13	12	NULL	NULL	NULL	1	1	0.07692307692307693
+MRO item	maintenance	1	1	13	12	NULL	NULL	NULL	4873	1506	0.000015785568832972898
+MRO item	copy paper	1	1	13	12	NULL	NULL	NULL	117	56	0.0006574621959237344
+MRO item	fl uid power	1	1	13	12	NULL	NULL	NULL	1	1	0.07692307692307693
+MRO item	Health & Safety	1	1	13	12	NULL	NULL	NULL	135	71	0.0005698005698005699
+MRO item	light bulb	1	1	13	12	NULL	NULL	NULL	815	338	0.00009438414346389807
+MRO provider	Abbotsford's Cascade Aeros pace Inc.	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRO service	CAIRS	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRO service	fleet technical management	1	1	4	4	NULL	NULL	NULL	2	2	0.125
+MRO service	letter check	1	1	4	4	NULL	NULL	NULL	1	1	0.25
+MRO service	engineering service	1	1	4	4	NULL	NULL	NULL	92	42	0.002717391304347826
+MRO service provider	Qantas Engineering	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRO service provider	John Holland Aviation Services	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRO technique	desirability function method by Derringer	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRO tool crib attendant	Deb Hayes	1	1	1	1	NULL	NULL	NULL	1	1	1
+mroe efficient method	stunnel	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+mroe populist figuers	easly musical theater composir Leslie Stuart	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mroe populist figuers	born iin Southport	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MROP product	power tool	3	3	15	7	NULL	NULL	NULL	511	215	0.0011741682974559689
+MROP product	scale	3	3	15	7	NULL	NULL	NULL	1777	757	0.00033764772087788413
+MROP product	hand tool	2	2	15	7	NULL	NULL	NULL	356	143	0.000749063670411985
+MROP product	drill bit	2	2	15	7	NULL	NULL	NULL	227	103	0.0011747430249632893
+MROP product	machine tool insert	2	2	15	7	NULL	NULL	NULL	2	1	0.13333333333333333
+MROP product	abrasive	2	2	15	7	NULL	NULL	NULL	216	86	0.0012345679012345679
+MROP product	hoist	1	1	15	7	NULL	NULL	NULL	289	117	0.0002306805074971165
+MROs	Turkish Technic	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MROs	Abu Dhabi Aircraft Technologies	1	1	2	2	NULL	NULL	NULL	3	3	0.16666666666666666
+MRP	Met-Rx	1	1	1	1	1.000000000000	NULL	NULL	12	10	0.08333333333333333
+MRP approach	weighted MRP	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRP function	long term capacity planning	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRP inhibitor	probenecid	2	2	3	2	NULL	NULL	NULL	166	30	0.008032128514056224
+MRP inhibitor	indomethacin	1	1	3	2	NULL	NULL	NULL	734	192	0.00045413260672116256
+MRP parameter	supplier	1	1	3	3	NULL	NULL	NULL	1031	354	0.0003233107015842224
+MRP parameter	lead time	1	1	3	3	NULL	NULL	NULL	190	101	0.0017543859649122805
+MRP parameter	lot size	1	1	3	3	NULL	NULL	NULL	252	98	0.0013227513227513227
+MRP runconsiderations	Firmed Planned Orders	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRP runconsiderations	Blanket Sales Orders	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRP system datum	shop routings	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+MRP system datum	shop floor status	2	2	4	2	NULL	NULL	NULL	2	1	0.5
+MRP's	Champion Nutrition's Ultramet	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRP-1 substrate	methotrexate	1	1	2	2	0.333333333333	NULL	NULL	1334	340	0.0003748125937031484
+MRP-1 substrate	vinca alkaloid	1	1	2	2	0.333333333333	NULL	NULL	159	82	0.0031446540880503146
+MRP1 homologs	ABCC2	1	1	3	3	NULL	NULL	NULL	5	3	0.06666666666666667
+MRP1 homologs	ABCC3	1	1	3	3	NULL	NULL	NULL	3	2	0.1111111111111111
+MRP1 homologs	ABCC5	1	1	3	3	NULL	NULL	NULL	2	2	0.16666666666666666
+MRP1 inhibiting bioflavonoids	kaempferol	1	1	3	3	0.500000000000	NULL	NULL	83	27	0.004016064257028112
+MRP1 inhibiting bioflavonoids	genistein	1	1	3	3	0.500000000000	NULL	NULL	372	126	0.0008960573476702509
+MRP1 inhibiting bioflavonoids	quercetin	1	1	3	3	0.500000000000	NULL	NULL	772	189	0.0004317789291882556
+MRP1 inhibitor	probenecid	4	4	4	1	1.000000000000	NULL	NULL	166	30	0.024096385542168676
+mrp2-deficient rat	transport-deficient rat	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mrp2-deficient rat	Eisai hyperbilirubinemic rat	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+mrpedantic certainly modal combination	he can eat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mrpedantic certainly modal combination	he should eat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mrpedantic certainly modal combination	he may eat	1	1	3	3	NULL	NULL	NULL	1	1	0.3333333333333333
+mrpuffer.com record statistical information	hit count	1	1	3	3	1.000000000000	NULL	NULL	12	7	0.027777777777777776
+mrpuffer.com record statistical information	page referrer	1	1	3	3	1.000000000000	NULL	NULL	2	2	0.16666666666666666
+mrpuffer.com record statistical information	user agent	1	1	3	3	1.000000000000	NULL	NULL	12	11	0.027777777777777776
+mrrd's program	National Solidarity Programme	2	2	2	1	1.000000000000	NULL	NULL	10	8	0.2
+mrs. brennan's symptom	loss of appetite	1	1	6	6	0.166666666666	NULL	NULL	1085	273	0.00015360983102918587
+mrs. brennan's symptom	insomnia	1	1	6	6	0.166666666666	NULL	NULL	3582	774	0.00004652894100130281
+mrs. brennan's symptom	double vision	1	1	6	6	0.166666666666	NULL	NULL	187	65	0.00089126559714795
+mrs. brennan's symptom	fatigue	1	1	6	6	0.166666666666	NULL	NULL	7827	1619	0.0000212938120182275
+mrs. brennan's symptom	headache	1	1	6	6	0.166666666666	NULL	NULL	11164	1934	0.000014928938253911381
+mrs. brennan's symptom	excessive sleeping	1	1	6	6	0.166666666666	NULL	NULL	15	11	0.01111111111111111
+mrs. brown more asset	summer cottage	1	1	2	2	0.500000000000	NULL	NULL	15	7	0.03333333333333333
+mrs. brown more asset	security	1	1	2	2	0.500000000000	NULL	NULL	8153	2525	0.00006132711885195633
+Mrs. Crowley & exHT faculty	Sr Ann Bernard& Mrs Beemer	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrs. field cookie recipe	White Chunk Macadamia	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+mrs. field original cookie recipe	White Chunk Macadamia	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+mrs. gonzalez economic option	buying small bags of frozen vegetable	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrs. kalb's friend	incoming Mayor Diane Ewing Whalen	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrs. lowell's AP physic student	Amanda Sweat	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrs. organization	Salvation Army	1	1	2	2	NULL	NULL	NULL	1920	494	0.00026041666666666666
+mrs. organization	Rotary Club	1	1	2	2	NULL	NULL	NULL	500	138	0.001
+Mrs. Peels	Linda Thorson	1	1	1	1	1.000000000000	NULL	NULL	2	2	0.5
+mrs. robinson's costume	leopard print jacket	1	1	1	1	NULL	NULL	NULL	1	1	1
+mrs. white's doctrine	Investigative Judgment	1	1	1	1	1.000000000000	NULL	NULL	9	6	0.1111111111111111
+mrs. white's later defender	F. M. Wilcox	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRSA characteristic	pigmentation	1	1	2	2	0.500000000000	NULL	NULL	137	82	0.0036496350364963502
+MRSA characteristic	antibiotic susceptibility	1	1	2	2	0.500000000000	NULL	NULL	8	7	0.0625
+MRSA clone	SCCmecII-agrII-t 570	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRSA infection	boil	2	1	4	2	NULL	NULL	NULL	295	111	0.003389830508474576
+MRSA infection	pimple	2	1	4	2	NULL	NULL	NULL	246	114	0.0040650406504065045
+MRSA risk factor	receipt of dialysis	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRSA risk factor	residence in a long term care facility	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRSA risk factor	surgery	1	1	5	5	NULL	NULL	NULL	3491	1070	0.00005729017473503294
+MRSA risk factor	presence of invasive medical device	1	1	5	5	NULL	NULL	NULL	1	1	0.2
+MRSA risk factor	recent hospitalization	1	1	5	5	NULL	NULL	NULL	4	4	0.05
+MRSA skin infection	boil	1	1	2	2	NULL	NULL	NULL	295	111	0.001694915254237288
+MRSA skin infection	abscess	1	1	2	2	NULL	NULL	NULL	581	256	0.0008605851979345956
+MRSA strain	USA300	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+MRSA strain-specific characteristic	polymorphism at the accessory gene regulator locus	1	1	2	2	1.000000000000	NULL	NULL	1	1	0.5
+MRSA strain-specific characteristic	bactericidal activity	1	1	2	2	1.000000000000	NULL	NULL	9	7	0.05555555555555555
+mrsa-battling technique	screening	1	1	1	1	NULL	NULL	NULL	671	357	0.0014903129657228018
+mrsa-endemic country	Spain	1	1	2	2	NULL	NULL	NULL	9967	1404	0.00005016554630279924
+mrsa-endemic country	Ireland	1	1	2	2	NULL	NULL	NULL	4902	647	0.00010199918400652795
+mrsa-endemic setting	UK	1	1	1	1	NULL	NULL	NULL	9200	1275	0.00010869565217391305
+mrsa-sensitive agent	linezolid	1	1	1	1	NULL	NULL	NULL	117	36	0.008547008547008548
+MRSC focus economic trend	global competition	1	1	2	2	0.500000000000	NULL	NULL	98	46	0.00510204081632653
+MRSC focus economic trend	corporate consolidation	1	1	2	2	0.500000000000	NULL	NULL	6	6	0.08333333333333333
+mrsfields code	mrs fields cookie coupon	1	1	1	1	NULL	NULL	NULL	1	1	1
+MRSI postprocessing procedure	partial volume correction	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRSI postprocessing procedure	image segmentation	1	1	2	2	NULL	NULL	NULL	86	43	0.005813953488372093
+MRT beneficiary	YTL Land	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+MRT line	Downtown Line	2	2	4	3	1.000000000000	NULL	NULL	7	4	0.14285714285714285
+MRT line	Circle Line	1	1	4	3	1.000000000000	NULL	NULL	13	9	0.019230769230769232
+MRT line	Thomson Line	1	1	4	3	1.000000000000	NULL	NULL	2	2	0.125
+MRT station	Tampines	1	1	5	5	0.833333333333	NULL	NULL	24	14	0.008333333333333333
+MRT station	Changi Airport	1	1	5	5	0.833333333333	NULL	NULL	9	5	0.022222222222222223
+MRT station	Buona Vista	1	1	5	5	0.833333333333	NULL	NULL	4	4	0.05
+MRT station	Raffles Place	1	1	5	5	0.833333333333	NULL	NULL	13	7	0.015384615384615385
+MRT station	Dover	1	1	5	5	0.833333333333	NULL	NULL	167	67	0.0011976047904191617
+MRTDs	epassport	1	1	1	1	NULL	NULL	NULL	4	4	0.25
+MRTE safety check	type check	1	1	2	2	1.000000000000	NULL	NULL	3	3	0.16666666666666666
+MRTE safety check	array bound	1	1	2	2	1.000000000000	NULL	NULL	4	4	0.125
+MRTFBs	AEDC	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MRTFBs	AFFTC	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRTS station	Kasturba Nagar	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MRTS station	Kotturpuram	1	1	2	2	NULL	NULL	NULL	2	2	0.25
+MRTU related cost	O&M	3	1	6	2	NULL	NULL	NULL	7	4	0.21428571428571427
+MRTU related cost	Reliability	3	1	6	2	NULL	NULL	NULL	3181	964	0.00047154982709839675
+MRU file	temporary file	1	1	1	1	NULL	NULL	NULL	65	35	0.015384615384615385
+mrxak award	mrxak Star of Moderate Superiority	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+mrxak award	mrxak Star of Excellence	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+MRZ sensitive datum	iris	1	1	2	2	NULL	NULL	NULL	646	338	0.0007739938080495357
+MRZ sensitive datum	fingerprint	1	1	2	2	NULL	NULL	NULL	1187	412	0.00042122999157540015

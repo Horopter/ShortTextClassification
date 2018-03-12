@@ -1,0 +1,10 @@
+YCAP project	Operation Stay Safe	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+ycbcr sampling format	4	1	1	1	1	NULL	NULL	NULL	357	236	0.0028011204481792717
+YCEI educational program	undergraduate energy certificate	1	1	1	1	NULL	NULL	NULL	1	1	1
+ycf-funded legacy initiative	Educational Attainment West	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+ychological factor emotional functioning	anxiety	1	1	2	2	NULL	NULL	NULL	10807	2261	0.00004626630887387804
+ychological factor emotional functioning	depression	1	1	2	2	NULL	NULL	NULL	15330	3151	0.000032615786040443576
+ychological trait	projection bias	1	1	2	2	NULL	NULL	NULL	4	3	0.125
+ychological trait	overconfidence	1	1	2	2	NULL	NULL	NULL	85	46	0.0058823529411764705
+ychromosomegene region	RBM	1	1	1	1	1.000000000000	NULL	NULL	9	7	0.1111111111111111
+Ycialchurch correspondence	synodal letter	1	1	1	1	NULL	NULL	NULL	1	1	1

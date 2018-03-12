@@ -1,0 +1,16 @@
+xr6's vital sign	boost pressure	1	1	1	1	1.000000000000	NULL	NULL	19	14	0.05263157894736842
+xrays	barium enema xrays	1	1	1	1	NULL	NULL	NULL	1	1	1
+XRD information	width	1	1	2	2	NULL	NULL	NULL	1384	568	0.000361271676300578
+XRD information	peak location	1	1	2	2	NULL	NULL	NULL	4	4	0.125
+xrdcom-binedwithother technique	HRTEM	1	1	1	1	1.000000000000	NULL	NULL	14	10	0.07142857142857142
+xref command	detach	1	1	1	1	NULL	NULL	NULL	6	4	0.16666666666666666
+xref identity	layer name	1	1	1	1	1.000000000000	NULL	NULL	16	15	0.0625
+xref related topic	layering	1	1	1	1	NULL	NULL	NULL	195	89	0.005128205128205128
+xrepresents individual characteristic	age	1	1	2	2	NULL	NULL	NULL	32703	4368	0.000015289117206372505
+xrepresents individual characteristic	sex	1	1	2	2	NULL	NULL	NULL	8187	1861	0.00006107243190423842
+XRF spectrometer	Axios	1	1	1	1	NULL	NULL	NULL	3	3	0.3333333333333333
+XRF technique	synchrotron radiation	1	1	1	1	1.000000000000	NULL	NULL	23	18	0.043478260869565216
+xrpsndable supply	writing mteriai	1	1	1	1	NULL	NULL	NULL	1	1	1
+XRR application	testing of thin film layers on patterned semiconductor wafer	3	2	3	1	NULL	NULL	NULL	3	1	1
+XRs	Pachysolen tannophilus XR	1	1	2	2	NULL	NULL	NULL	1	1	0.5
+XRs	C. tropicalis XR	1	1	2	2	NULL	NULL	NULL	1	1	0.5

@@ -1,0 +1,37 @@
+DK character	Candy	1	1	3	3	0.333333333333	NULL	NULL	4475	1246	0.00007448789571694599
+DK character	Funky	1	1	3	3	0.333333333333	NULL	NULL	26	18	0.01282051282051282
+DK character	Diddy	1	1	3	3	0.333333333333	NULL	NULL	154	53	0.0021645021645021645
+DK e. energy resource	gas	1	1	3	3	NULL	NULL	NULL	7329	2137	0.00004548142083958703
+DK e. energy resource	coal	1	1	3	3	NULL	NULL	NULL	6839	1602	0.000048740069210898274
+DK e. energy resource	oil	1	1	3	3	NULL	NULL	NULL	15331	4205	0.000021742439066814515
+DK middlewares	Boinc	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+DK trichlorobenzenes	1-2-3 isomer	1	1	1	1	NULL	NULL	NULL	1	1	1
+DK weight wool yarn	Cleckheaton Country 8-ply	1	1	1	1	NULL	NULL	NULL	1	1	1
+DK weight yarn	King Cole Merino DK	3	1	9	6	NULL	NULL	NULL	3	1	0.3333333333333333
+DK weight yarn	Sublime's luxurious cashmere merino silk DK	2	1	9	6	NULL	NULL	NULL	2	1	0.2222222222222222
+DK weight yarn	Sirdar's Eco Wool	1	1	9	6	NULL	NULL	NULL	1	1	0.1111111111111111
+DK weight yarn	Snuggly DK	1	1	9	6	NULL	NULL	NULL	1	1	0.1111111111111111
+DK weight yarn	Louet Opal	1	1	9	6	NULL	NULL	NULL	1	1	0.1111111111111111
+DK weight yarn	Lily Chin Gramercy	1	1	9	6	NULL	NULL	NULL	1	1	0.1111111111111111
+dk yarn	Wendy Sorrento Dk	3	1	8	5	NULL	NULL	NULL	3	1	0.375
+dk yarn	Sirdar's Baby Bamboo	2	1	8	5	NULL	NULL	NULL	2	1	0.25
+dk yarn	Sirdars Summer Stripes	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+dk yarn	Sirdars Summer Stripes for a wee bit of fun	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+dk yarn	Debbie Bliss Rialto Dk	1	1	8	5	NULL	NULL	NULL	1	1	0.125
+dk-type fragment	Sibyllenbuch partial leaf at the Gutenberg Museum	1	1	1	1	1.000000000000	NULL	NULL	1	1	1
+dk-weight knitting & crochet project	baby blanket	1	1	6	6	NULL	NULL	NULL	142	81	0.0011737089201877935
+dk-weight knitting & crochet project	scarf	1	1	6	6	NULL	NULL	NULL	2821	751	0.000059080704241994565
+dk-weight knitting & crochet project	cardigan	1	1	6	6	NULL	NULL	NULL	136	85	0.0012254901960784314
+dk-weight knitting & crochet project	top	1	1	6	6	NULL	NULL	NULL	686	298	0.00024295432458697764
+dk-weight knitting & crochet project	hat	1	1	6	6	NULL	NULL	NULL	4593	1302	0.000036287103563393565
+dk-weight knitting & crochet project	sweater	1	1	6	6	NULL	NULL	NULL	914	340	0.00018234865061998541
+DKI member company	Superior Restoration	2	2	2	1	NULL	NULL	NULL	3	2	0.6666666666666666
+dkit's excellent indoor facility	multi-purpose center	1	1	1	1	NULL	NULL	NULL	2	2	0.5
+DKNY bag diverse need	instrument cable	1	1	3	3	0.333333333333	NULL	NULL	12	11	0.027777777777777776
+DKNY bag diverse need	guitar string	1	1	3	3	0.333333333333	NULL	NULL	54	37	0.006172839506172839
+DKNY bag diverse need	game	1	1	3	3	0.333333333333	NULL	NULL	6673	2313	0.000049952545082171936
+DKNY great prize	wrist watch	1	1	1	1	NULL	NULL	NULL	94	68	0.010638297872340425
+dkos diary	Process Changes	1	1	1	1	NULL	NULL	NULL	1	1	1
+DKPs	cyclo	1	1	1	1	1.000000000000	NULL	NULL	7	7	0.14285714285714285
+Dks	Paton Diploma Gold	2	1	3	2	NULL	NULL	NULL	2	1	0.6666666666666666
+Dks	Sirdar Click Dk	1	1	3	2	NULL	NULL	NULL	1	1	0.3333333333333333
