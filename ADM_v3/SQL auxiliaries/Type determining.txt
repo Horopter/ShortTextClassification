@@ -1,0 +1,6 @@
+ a = select sum(Relations) from Probase_Large where Instance like '%company%';
+ b = select sum(Relations) from Probase_Large where Concept like '%company%';
+ r = a/b
+
+if(r >= 1) -> concept
+else -> instance

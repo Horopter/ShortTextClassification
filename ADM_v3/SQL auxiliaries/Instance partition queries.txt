@@ -1,0 +1,27 @@
+Create table probase.A_Instance as ( Select * from probase.Probase_Large where Instance Like 'A%' );
+Create table probase.B_Instance as ( Select * from probase.Probase_Large where Instance Like 'B%' );
+Create table probase.C_Instance as ( Select * from probase.Probase_Large where Instance Like 'C%' );
+Create table probase.D_Instance as ( Select * from probase.Probase_Large where Instance Like 'D%' );
+Create table probase.E_Instance as ( Select * from probase.Probase_Large where Instance Like 'E%' );
+Create table probase.F_Instance as ( Select * from probase.Probase_Large where Instance Like 'F%' );
+Create table probase.G_Instance as ( Select * from probase.Probase_Large where Instance Like 'G%' );
+Create table probase.H_Instance as ( Select * from probase.Probase_Large where Instance Like 'H%' );
+Create table probase.I_Instance as ( Select * from probase.Probase_Large where Instance Like 'I%' );
+Create table probase.J_Instance as ( Select * from probase.Probase_Large where Instance Like 'J%' );
+Create table probase.K_Instance as ( Select * from probase.Probase_Large where Instance Like 'K%' );
+Create table probase.L_Instance as ( Select * from probase.Probase_Large where Instance Like 'L%' );
+Create table probase.M_Instance as ( Select * from probase.Probase_Large where Instance Like 'M%' );
+Create table probase.N_Instance as ( Select * from probase.Probase_Large where Instance Like 'N%' );
+Create table probase.O_Instance as ( Select * from probase.Probase_Large where Instance Like 'O%' );
+Create table probase.P_Instance as ( Select * from probase.Probase_Large where Instance Like 'P%' );
+Create table probase.Q_Instance as ( Select * from probase.Probase_Large where Instance Like 'Q%' );
+Create table probase.R_Instance as ( Select * from probase.Probase_Large where Instance Like 'R%' );
+Create table probase.S_Instance as ( Select * from probase.Probase_Large where Instance Like 'S%' );
+Create table probase.T_Instance as ( Select * from probase.Probase_Large where Instance Like 'T%' );
+Create table probase.U_Instance as ( Select * from probase.Probase_Large where Instance Like 'U%' );
+Create table probase.V_Instance as ( Select * from probase.Probase_Large where Instance Like 'V%' );
+Create table probase.W_Instance as ( Select * from probase.Probase_Large where Instance Like 'W%' );
+Create table probase.X_Instance as ( Select * from probase.Probase_Large where Instance Like 'X%' );
+Create table probase.Y_Instance as ( Select * from probase.Probase_Large where Instance Like 'Y%' );
+Create table probase.Z_Instance as ( Select * from probase.Probase_Large where Instance Like 'Z%' );
+
