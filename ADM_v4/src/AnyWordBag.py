@@ -47,8 +47,8 @@ class BagOfWords():
 			if ( (time.time()-startTime) > timeToProcess):
 				print("BagofWords Time Exceeded:\nProcessed: ",d_i," Documents")
 				break
-	
-			candidate=re.sub("[^\w]", " ",  d.line).split()#get document is one line
+
+			candidate=re.sub("[^\w]", " ",  d.line).split()#get document line by line
 			ent=[]
 			con=[]
 			candidate = [word for word in candidate if word not in stopwords.words('english')]

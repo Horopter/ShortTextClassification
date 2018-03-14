@@ -10,6 +10,26 @@ import os.path
 import string 
 from collections import Counter
 import multiprocessing
+import itertools
+import operator
+
+def common(L,function):
+  # get an iterable of (item, iterable) pairs
+  SL = sorted((x, i) for i, x in enumerate(L))
+  # print 'SL:', SL
+  groups = itertools.groupby(SL, key=operator.itemgetter(0))
+  # auxiliary function to get "quality" for an item
+  def _auxfun(g):
+    item, iterable = g
+    count = 0
+    min_index = len(L)
+    for _, where in iterable:
+      count += 1
+      min_index = min(min_index, where)
+    # print 'item %r, count %r, minind %r' % (item, count, min_index)
+    return count, -min_index
+  # pick the highest-count/earliest item
+  return function(groups, key=_auxfun)[0]
 
 def getChunkCluster(F,start):
 	B = getBagOfWords(F,start)
@@ -43,9 +63,6 @@ def shortTextToChunkClusterMatch(coc,st):
 	ind = -1
 	for j,docClu in coc.items():
 		cost=0
-		if j==0:
-			pass
-			#print("DocClu Schema :",docClu,"\n\n\n\n\n")
 		for i,doc in enumerate(docClu):
 			sem = 1-(SemDistShortText(doc,st))
 			#print(sem)
@@ -113,16 +130,11 @@ def TrainEnsembleSeq(arguments):
 
 
 def ClassifyChunk(F,Flist,ChunkClusters,TP,start):
-
-	# for i,clust in enumerate(ChunkClusters):
-	# 	print("Printing Cluster ",i,"\n\n")
-	# 	for i_k,i_v in clust.items():
-	# 		print("Items:\n",i_k," : ",len(i_v),"\n\n")
-
 	B = getAnyBagOfWords(F,start,TP)
 	ChunkArr = AnyRepresentChunk(B,start,4*TP/5)
 	stl,wl = getSense(ChunkArr,start)
 	ann=[]
+	costsList=[]
 	for st in stl:
 		annotation=[]
 		costs= []
@@ -137,26 +149,27 @@ def ClassifyChunk(F,Flist,ChunkClusters,TP,start):
 			else:
 				print(min(costs)," ",costs.index(min(costs))," ")
 				annotation.append(Flist[costs.index(min(costs))])
+		print(annotation)
 		annotation = list(filter(("unclassifiable").__ne__, annotation))
 		if len(annotation) == 0 : annotation.append("unclassifiable")
-		ann.append(max(annotation))
-	print(ann,max(ann))
+		ann.append(common(annotation,max))
+		costsList.append(costs)
+	print(ann)
+	print(common(ann,max))
 
 
 	#print(max(groupby(sorted(annotation)), key=lambda (v):len(list(v),-annotation.index(x)))[0])
 
 
 def getTrainedEnsemble():
-	#filenames = ['engineering-sample.chunk','culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk', 'computers-sample.chunk', 'sports-sample.chunk', 'health-sample.chunk','business-sample.chunk']
-	
-	filenames = ['health-sample.chunk','culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk','computers-sample.chunk']
+	filenames = ['engineering-sample.chunk','culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk', 'computers-sample.chunk', 'sports-sample.chunk', 'health-sample.chunk','business-sample.chunk']
+	#filenames = ['health-sample.chunk', 'politics-society-sample.chunk','computers-sample.chunk']
 	#SInce this pickle has only 5 clusters
 	start = time.time()
 	nb_cpus = 4
 	pool = multiprocessing.Pool(processes=nb_cpus)
 	pool.map(TrainChunk, [(a, start) for a in filenames])
 	TE = TrainEnsembleSeq((filenames,start))
-
 	#timeToProcess=random.randint(200,400)
 	timeToProcess=100
 	print("GIVEN TIME TO PROCESS: ",timeToProcess," secs")
