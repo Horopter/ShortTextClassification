@@ -5,7 +5,7 @@ from scipy.cluster.hierarchy import dendrogram, linkage
 from sklearn import metrics
 import numpy as np
 import time
-from WordBag import *
+from WordBag import tfidf
 
 #Chunk representation per the paper
 #We won't be using this for computations. It's just there as a prelude.
@@ -99,4 +99,4 @@ def RepresentChunk(B,start):
 
 
 if __name__=="__main__":
-	RepresentChunk("singletest.txt")
+	RepresentChunk("singletest.txt",time.time())

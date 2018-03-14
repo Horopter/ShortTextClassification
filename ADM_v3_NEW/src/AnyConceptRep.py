@@ -1,3 +1,4 @@
+from WordBag import *
 import pymysql.cursors
 from math import log
 from decimal import *
@@ -5,7 +6,7 @@ from scipy.cluster.hierarchy import dendrogram, linkage
 from sklearn import metrics
 import numpy as np
 import time
-from WordBag import *
+from random import shuffle
 
 #Chunk representation per the paper
 #We won't be using this for computations. It's just there as a prelude.
@@ -26,7 +27,8 @@ def representChunk(C):
 		ChunkFV.append((DocFV,tupleMatrix))
 	return ChunkFV
 
-def getTupleMatrix(B):
+def getTupleMatrix(B,TP):
+	startTime=time.time()
 	MatrixList=[]
 	for i,blob in enumerate(B.E_bloblist):#for each document
 		sortedWordList = sorted([word for word in blob.words])
@@ -40,6 +42,8 @@ def getTupleMatrix(B):
 				if val == float('inf') : val = 1000000
 				Matrix[j][i] = val
 		MatrixList.append((sortedWordList,sortedConceptList,Matrix))
+		if((time.time()-startTime)>(TP-1)):
+			break
 	return MatrixList
 
 
@@ -74,10 +78,10 @@ def pce(concept,word):
 	if entity_occurrence == None: entity_occurrence = 1
 	return Decimal(entity_occurrence/concept_count).log10()
 
-def RepresentChunk(B,start):
+def AnyRepresentChunk(B,start,TP):
 	print("Starting Chunk representation at %s seconds"%(time.time()-start))
 	print("Starting TupleMatrix computation at %s seconds"%(time.time()-start))
-	TM=getTupleMatrix(B)
+	TM=getTupleMatrix(B,TP)
 	print("Ended TupleMatrix computation at %s seconds"%(time.time()-start))
 	ChunkRep = []
 	for tm in TM:

@@ -1,14 +1,15 @@
 from ClusterHelper import *
 from ConceptCluster import *
-from AnyConceptRep import *
 from ConceptRep import *
+from AnyConceptRep import *
+from AnyWordBag import getAnyBagOfWords
+from WordBag import *
 import time
 import _pickle as cPickle
 import os.path
 import string 
 from collections import Counter
-from AnyWordBag import getAnyBagOfWords
-from WordBag import *
+import multiprocessing
 
 def getChunkCluster(F,start):
 	B = getBagOfWords(F,start)
@@ -22,8 +23,8 @@ def getChunkCluster(F,start):
 		V,el = getConceptVecEntityList(i)
 		expvec = getExpandedVector(V,el,wl)
 		expvecl.append([v for k,v in expvec])
-	print("\t\tExpanded the vector space.\n\t\tRunning 100000 iterations to find optimal cluster centers.")
-	km = K_Means(expvecl,wlen,5)
+	print("\t\tExpanded the vector space.\n\t\tRunning 100 iterations to find optimal cluster centers.")
+	km = K_Means(expvecl,wlen,3,100)
 	print("\t\t Cluster centers were found through PeiPei Li K_Means algorithm.")
 	#print("indices\n\n",km)
 	clusterofChunk = {}
@@ -42,6 +43,9 @@ def shortTextToChunkClusterMatch(coc,st):
 	ind = -1
 	for j,docClu in coc.items():
 		cost=0
+		if j==0:
+			pass
+			#print("DocClu Schema :",docClu,"\n\n\n\n\n")
 		for i,doc in enumerate(docClu):
 			sem = 1-(SemDistShortText(doc,st))
 			#print(sem)
@@ -109,34 +113,54 @@ def TrainEnsembleSeq(arguments):
 
 
 def ClassifyChunk(F,Flist,ChunkClusters,TP,start):
+
+	# for i,clust in enumerate(ChunkClusters):
+	# 	print("Printing Cluster ",i,"\n\n")
+	# 	for i_k,i_v in clust.items():
+	# 		print("Items:\n",i_k," : ",len(i_v),"\n\n")
+
 	B = getAnyBagOfWords(F,start,TP)
-	ChunkArr = AnyRepresentChunk(B,start,4*TP/5)#1/5 time taken by Bag of words 
+	ChunkArr = AnyRepresentChunk(B,start,4*TP/5)
 	stl,wl = getSense(ChunkArr,start)
-	annotation = []
+	ann=[]
 	for st in stl:
+		annotation=[]
 		costs= []
 		for x in ChunkClusters:
-			costs.append(shortTextToChunkClusterMatch(x,st))
-		annotation.append(Flist[costs.index(min(costs))].replace(".chunk",""))
-	most_common,num_most_common = Counter(annotation).most_common(1)[0]
-	print("The context of the chunk seems to be %s "%most_common)
+			cost = round(shortTextToChunkClusterMatch(x,st),6)
+			costs.append(cost)
+		#annotation.append(Flist[costs.index(min(costs))].replace("training_","").replace(".txt",""))
+		print(costs)
+		for en,c in enumerate(costs):
+			if c <= 1100000000 and c >= 900000000.0:
+				annotation.append("unclassifiable")
+			else:
+				print(min(costs)," ",costs.index(min(costs))," ")
+				annotation.append(Flist[costs.index(min(costs))])
+		annotation = list(filter(("unclassifiable").__ne__, annotation))
+		if len(annotation) == 0 : annotation.append("unclassifiable")
+		ann.append(max(annotation))
+	print(ann,max(ann))
+
+
 	#print(max(groupby(sorted(annotation)), key=lambda (v):len(list(v),-annotation.index(x)))[0])
 
 
 def getTrainedEnsemble():
-	filenames = ['engineering-sample.chunk','culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk', 'computers-sample.chunk', 'sports-sample.chunk', 'health-sample.chunk','business-sample.chunk']
+	#filenames = ['engineering-sample.chunk','culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk', 'computers-sample.chunk', 'sports-sample.chunk', 'health-sample.chunk','business-sample.chunk']
+	
+	filenames = ['health-sample.chunk','culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk','computers-sample.chunk']
+	#SInce this pickle has only 5 clusters
 	start = time.time()
 	nb_cpus = 4
 	pool = multiprocessing.Pool(processes=nb_cpus)
 	pool.map(TrainChunk, [(a, start) for a in filenames])
 	TE = TrainEnsembleSeq((filenames,start))
+
 	#timeToProcess=random.randint(200,400)
-	timeToProcess=190
+	timeToProcess=100
 	print("GIVEN TIME TO PROCESS: ",timeToProcess," secs")
 	ClassifyChunk("test.txt",filenames,TE,timeToProcess,start)
-	# ChunkClusters = 
-	# st,wl = getSense("singletest.txt")
-	# for x in ChunkClusters:
 	# 	costs.append(shortTextToChunkClusterMatch(x,st[0]))
 	# print("The distance index is as follows: ",costs)
 	# print("The context of the document seems to be %s "%(filenames[costs.index(min(costs))].replace("training_","").replace(".txt","")))

@@ -45,10 +45,10 @@ def shortTextToChunkClusterMatch(coc,st):
 			pass
 			#print("DocClu Schema :",docClu,"\n\n\n\n\n")
 		for i,doc in enumerate(docClu):
-			sem = (SemDistShortText(doc,st))
+			sem = 1-(SemDistShortText(doc,st))
 			#print(sem)
 			cost+= sem
-		cost = cost / (len(docClu)+epsilon)
+		cost = cost / (len(docClu)+1)
 		#print("cost: ",cost," len(docClu) ",len(docClu),"\n\n\n")
 		if cost < tcost and cost != 0:
 			tcost = cost

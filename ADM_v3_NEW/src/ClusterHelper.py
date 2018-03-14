@@ -33,26 +33,29 @@ from collections import OrderedDict
 import math
 import random
 import copy
+from WordBag import *
+from ConceptRep import *
+from ConceptCluster import *
 
-def getConceptVecEntityList(st):
+def getConceptVecEntityList(shortText):
 	ConceptVec = []
 	klen=0
-	for tuplet in st:
+	for tuplet in shortText:
 		arr = {}
-		#print("tuplet: ",tuplet)
-		k,v=tuplet
-		klen=len(v)
-		for t in v:
-			n,d = t
-			keys = d.keys()
-			for c in keys:
-				if c in arr:
-					arr.update({c:arr[c]+d[c]})
+		conceptClusterIndex,conceptCluster=tuplet
+		klen=len(conceptCluster)
+		for conceptTuple in conceptCluster:
+			conceptName,entityDict = conceptTuple
+			keys = entityDict.keys()
+			for entity in keys:
+				if entity in arr:
+					arr.update({entity:arr[entity]+entityDict[entity]})
 				else:
-					arr.update({c:d[c]})
-		for g,h in arr.items():
-			arr.update({g:h/klen})
+					arr.update({entity:entityDict[entity]})
+		for ent,val in arr.items():
+			arr.update({ent:val/klen})
 		ConceptVec.append(arr)
+	ConceptVec = [x for x in ConceptVec if x] # remove empty clusters
 	entityList = ConceptVec[0].keys()
 	#print(ConceptVec)
 	return (ConceptVec,entityList)
@@ -121,7 +124,6 @@ def DistShortText(st1, st2):
 	cv2,el2 = getConceptVecEntityList(st2)
 	#print("\nEntity list 2: ",el2)
 	el = list(sorted(set(el1).intersection(set(el2))))
-	print(el)
 	#print("\nEntity list intersection: ",el)
 	if len(el) == 0:
 		return 1000000000 # 1 - cos(u,v)
@@ -181,7 +183,8 @@ def addAll(indexList,vector):
 		selectedVector.append(vector[x])
 	return list(map(sum, zip(*selectedVector)))
 
-def K_Means(expvecl,wlen,l=4):
+def K_Means(expvecl,wlen,l=4,T=100):
+	print("K_Means Called\n\n\n")
 	cost =0
 	oldCost =0
 	dcost = 0
@@ -190,9 +193,9 @@ def K_Means(expvecl,wlen,l=4):
 	sigma = 0.001
 	tau = 0.0001
 	Matrix=[]
-	T = 10000
 	for t in range(T):
 		#generate L centers
+		print("\t\t\tIteration t : %d"%(t))
 		centers=[]
 		for i in range(l):
 			vec = []
@@ -224,5 +227,15 @@ def K_Means(expvecl,wlen,l=4):
 			return Matrix
 	return Matrix
 
+
+if __name__ == "__main__":
+	a = time.time()
+	B = getBagOfWords("singletest.txt",a)
+	ChunkArr = RepresentChunk(B,a)
+	sense,wl,centroids = getSense(ChunkArr,a)
+	print(wl,centroids)
+	print(getConceptVecEntityList(sense[0]))
+	b = time.time()
+	print("It took %s seconds."%(b-a))
 
 

@@ -192,6 +192,7 @@ def K_Means(expvecl,wlen,l=4):
 	T = 10000
 	for t in range(T):
 		#generate L centers
+		print("\t\t\tIteration t : %d"%(t))
 		centers=[]
 		for i in range(l):
 			vec = []

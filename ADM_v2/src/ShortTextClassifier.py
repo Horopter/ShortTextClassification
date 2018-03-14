@@ -38,10 +38,10 @@ def shortTextToChunkClusterMatch(coc,st):
 			pass
 			#print("DocClu Schema :",docClu,"\n\n\n\n\n")
 		for i,doc in enumerate(docClu):
-			sem = (SemDistShortText(doc,st))
+			sem = 1-(SemDistShortText(doc,st))
 			#print(sem)
 			cost+= sem
-		cost = cost / (len(docClu)+epsilon)
+		cost = cost / (len(docClu)+1)
 		#print("cost: ",cost," len(docClu) ",len(docClu),"\n\n\n")
 		if cost < tcost and cost != 0:
 			tcost = cost
@@ -75,14 +75,29 @@ def ClassifyChunk(F,Flist,ChunkClusters):
 	B = getBagOfWords(F,start)
 	ChunkArr = RepresentChunk(B,start)
 	stl,wl = getSense(ChunkArr,start)
-	annotation = []
+	ann=[]
 	for st in stl:
+		annotation=[]
 		costs= []
 		for x in ChunkClusters:
-			costs.append(shortTextToChunkClusterMatch(x,st))
-		annotation.append(Flist[costs.index(min(costs))].replace("training_","").replace(".txt",""))
-	most_common,num_most_common = Counter(annotation).most_common(1)[0]
-	print("The context of the chunk seems to be %s "%most_common)
+			cost = round(shortTextToChunkClusterMatch(x,st),6)
+			costs.append(cost)
+		#annotation.append(Flist[costs.index(min(costs))].replace("training_","").replace(".txt",""))
+		print(costs)
+		for en,c in enumerate(costs):
+			if c <= 1100000000 and c >= 900000000.0:
+				annotation.append("unclassifiable")
+			else:
+				print(min(costs)," ",costs.index(min(costs))," ")
+				annotation.append(Flist[costs.index(min(costs))])
+		annotation = list(filter(("unclassifiable").__ne__, annotation))
+		if len(annotation) == 0 : annotation.append("unclassifiable")
+		ann.append(max(annotation))
+	print(ann,max(ann))
+
+	#most_common,num_most_common = Counter(annotation).most_common(1)[0]
+	#print("The context of the chunk seems to be %s "%most_common)
+	#print(annotation)
 	#print(max(groupby(sorted(annotation)), key=lambda (v):len(list(v),-annotation.index(x)))[0])
 
 

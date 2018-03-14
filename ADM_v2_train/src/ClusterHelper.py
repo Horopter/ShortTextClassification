@@ -122,6 +122,7 @@ def DistShortText(st1, st2):
 	#print("\nEntity list 2: ",el2)
 	el = list(sorted(set(el1).intersection(set(el2))))
 	#print("\nEntity list intersection: ",el)
+	print(el)
 	if len(el) == 0:
 		return 1000000000 # 1 - cos(u,v)
 	else:
@@ -150,8 +151,6 @@ def DistShortText(st1, st2):
 			for v2 in rvec2:
 				total += DotProduct(v1,v2)
 		return total
-
-
 
 def getExpandedVector(V,el,wl):
 	d = {}
