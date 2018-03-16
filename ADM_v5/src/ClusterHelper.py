@@ -109,31 +109,9 @@ def getDocumentClusterCenter(docList):
 	return centroid
 
 def intersection(lst1, lst2):
-	lst3=[]
-	if (not lst1) or (not lst2) or len(lst1)==0 or len(lst2)==0:
-		return lst3
-	temp = set(lst2)
-	lst3 = [value for value in lst1 if value in temp]
-	return lst3
-
-
-def getConceptsChunk(chunk):
-	concepts = []
-	for arr in chunk:
-		for tuplet in arr:
-			clusterNumber,cluster = tuplet
-			for tuplett in cluster:
-				a,b = tuplett
-				concepts.append(a)
-	return a
-	
-def getConceptsShortText(st):
-	concepts = []
-	for tuplet in st:
-		senseNum,sense = tuplet
-		for tuplett in sense:
-			a,b = tuplett
-			concepts.append(a)
+    temp = set(lst2)
+    lst3 = [value for value in lst1 if value in temp]
+    return lst3
 
 
 def getExpandedVector(V,el,wl):
@@ -156,23 +134,6 @@ def getExpandedVector(V,el,wl):
 			expvec.update({e:0})
 	return sorted(expvec.items(), key=lambda x: x[0])
 
-def ShortTextChunkSemDistance2(chunk,st):
-	ev1 = getConceptsChunk(chunk)  #getDocumentClusterCenter(chunk)
-	#ev1 = sorted(ev1.items(), key=lambda x: x[0])
-	#print("ev1\t\t:",ev1)
-	ev2 = getConceptsShortText(st) #getDocumentClusterCenter([st])
-	#ev2 = sorted(ev2.items(), key=lambda x: x[0])
-	#print("ev2:\t\t",ev2)
-	#items = ev2.keys()
-	#entities = ev1.keys()
-	items = ev2
-	entities = ev1
-	l = intersection(items,entities)
-	if len(l)==0:
-		return 0
-	else:
-		return len(l)
-
 def ShortTextChunkSemDistance(chunk,st):
 	ev1 = getDocumentClusterCenter(chunk)
 	#ev1 = sorted(ev1.items(), key=lambda x: x[0])
@@ -182,8 +143,6 @@ def ShortTextChunkSemDistance(chunk,st):
 	#print("ev2:\t\t",ev2)
 	items = ev2.keys()
 	entities = ev1.keys()
-	#items = ev2
-	#entities = ev1
 	l = intersection(items,entities)
 	if len(l)==0:
 		return 0
@@ -245,7 +204,7 @@ def K_Means(expvecl,wlen,l=4,T=100):
 if __name__ == "__main__":
 	a = time.time()
 	B = getBagOfWords("singletest.txt",a)
-	ChunkArr = RepresentChunk(B,a)
+	ChunkArr = RepresentChunk(B,a,"singletest.txt")
 	sense,wl,centroids = getSense(ChunkArr,a)
 	print(wl,centroids)
 	print(getConceptVecEntityList(sense[0]))
