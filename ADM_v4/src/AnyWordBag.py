@@ -42,7 +42,7 @@ class BagOfWords():
 		s=requests.session()
 		startTime=time.time()
 		timeToProcess=tm/5 #Bag of words takes 1/5th of the total time for classification (Experimentally seen)
-		random.shuffle(dc.DocList) #Kind of random sampling in case time expires
+		#random.shuffle(dc.DocList) #Kind of random sampling in case time expires
 		for d_i,d in enumerate(dc.DocList):#break each doc into its entiites ,remove stopwords
 			if ( (time.time()-startTime) > timeToProcess):
 				print("BagofWords Time Exceeded:\nProcessed: ",d_i," Documents")

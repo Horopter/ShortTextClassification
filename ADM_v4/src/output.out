@@ -1,0 +1,395 @@
+[H[2J(['engineering-sample.chunk', 'health-sample.chunk', 'culture-arts-entertainment-sample.chunk', 'education-science-sample.chunk', 'politics-society-sample.chunk', 'computers-sample.chunk', 'sports-sample.chunk', 'business-sample.chunk'], 1521149181.5489118)
+Commencing Ensemble training...
+Training for engineering-sample.chunk
+Training for engineering-sample.chunk complete.
+Training for health-sample.chunk
+Training for health-sample.chunk complete.
+Training for culture-arts-entertainment-sample.chunk
+Training for culture-arts-entertainment-sample.chunk complete.
+Training for education-science-sample.chunk
+Training for education-science-sample.chunk complete.
+Training for politics-society-sample.chunk
+Training for politics-society-sample.chunk complete.
+Training for computers-sample.chunk
+Training for computers-sample.chunk complete.
+Training for sports-sample.chunk
+Training for sports-sample.chunk complete.
+Training for business-sample.chunk
+Training for business-sample.chunk complete.
+Time taken to Train Ensemble: 0.0418546199798584 seconds
+Found trained ensemble...
+Loaded the trained ensemble...
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_20_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12723112106323242 seconds
+Starting Chunk representation at 0.12724900245666504 seconds
+Starting TupleMatrix computation at 0.12725305557250977 seconds
+Ended TupleMatrix computation at 0.12726044654846191 seconds
+Chunk Representation Complete at 0.12726259231567383 seconds
+Starting Sense computation at 0.12727046012878418 seconds
+Sense Representation Complete at 0.1272728443145752 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_25_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12747979164123535 seconds
+Starting Chunk representation at 0.1274852752685547 seconds
+Starting TupleMatrix computation at 0.1274871826171875 seconds
+Ended TupleMatrix computation at 0.12749028205871582 seconds
+Chunk Representation Complete at 0.12749195098876953 seconds
+Starting Sense computation at 0.12749457359313965 seconds
+Sense Representation Complete at 0.12749624252319336 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_6_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1276710033416748 seconds
+Starting Chunk representation at 0.12767601013183594 seconds
+Starting TupleMatrix computation at 0.12767815589904785 seconds
+Ended TupleMatrix computation at 0.12768125534057617 seconds
+Chunk Representation Complete at 0.12768292427062988 seconds
+Starting Sense computation at 0.1276850700378418 seconds
+Sense Representation Complete at 0.1276867389678955 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_2_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12784242630004883 seconds
+Starting Chunk representation at 0.12784695625305176 seconds
+Starting TupleMatrix computation at 0.12784862518310547 seconds
+Ended TupleMatrix computation at 0.12785124778747559 seconds
+Chunk Representation Complete at 0.1278529167175293 seconds
+Starting Sense computation at 0.12785840034484863 seconds
+Sense Representation Complete at 0.12786102294921875 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_9_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12800931930541992 seconds
+Starting Chunk representation at 0.12801599502563477 seconds
+Starting TupleMatrix computation at 0.12801837921142578 seconds
+Ended TupleMatrix computation at 0.1280207633972168 seconds
+Chunk Representation Complete at 0.1280221939086914 seconds
+Starting Sense computation at 0.12802410125732422 seconds
+Sense Representation Complete at 0.12802529335021973 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_29_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1281590461730957 seconds
+Starting Chunk representation at 0.12816333770751953 seconds
+Starting TupleMatrix computation at 0.12816476821899414 seconds
+Ended TupleMatrix computation at 0.12816715240478516 seconds
+Chunk Representation Complete at 0.12816858291625977 seconds
+Starting Sense computation at 0.12817049026489258 seconds
+Sense Representation Complete at 0.1281719207763672 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_10_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12830114364624023 seconds
+Starting Chunk representation at 0.12830519676208496 seconds
+Starting TupleMatrix computation at 0.12830662727355957 seconds
+Ended TupleMatrix computation at 0.12830901145935059 seconds
+Chunk Representation Complete at 0.1283104419708252 seconds
+Starting Sense computation at 0.128312349319458 seconds
+Sense Representation Complete at 0.12831377983093262 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_13_politics-society.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1284465789794922 seconds
+Starting Chunk representation at 0.12845301628112793 seconds
+Starting TupleMatrix computation at 0.12845516204833984 seconds
+Ended TupleMatrix computation at 0.12845778465270996 seconds
+Chunk Representation Complete at 0.12845897674560547 seconds
+Starting Sense computation at 0.12846088409423828 seconds
+Sense Representation Complete at 0.1284620761871338 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_28_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1285855770111084 seconds
+Starting Chunk representation at 0.12858963012695312 seconds
+Starting TupleMatrix computation at 0.12859129905700684 seconds
+Ended TupleMatrix computation at 0.12859344482421875 seconds
+Chunk Representation Complete at 0.12859511375427246 seconds
+Starting Sense computation at 0.12859702110290527 seconds
+Sense Representation Complete at 0.1286022663116455 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_26_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12872743606567383 seconds
+Starting Chunk representation at 0.12873148918151855 seconds
+Starting TupleMatrix computation at 0.12873291969299316 seconds
+Ended TupleMatrix computation at 0.12873482704162598 seconds
+Chunk Representation Complete at 0.12873625755310059 seconds
+Starting Sense computation at 0.1287381649017334 seconds
+Sense Representation Complete at 0.1287393569946289 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_8_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12886834144592285 seconds
+Starting Chunk representation at 0.1289052963256836 seconds
+Starting TupleMatrix computation at 0.1289081573486328 seconds
+Ended TupleMatrix computation at 0.12891101837158203 seconds
+Chunk Representation Complete at 0.12891244888305664 seconds
+Starting Sense computation at 0.12891459465026855 seconds
+Sense Representation Complete at 0.12891578674316406 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_11_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12907075881958008 seconds
+Starting Chunk representation at 0.12907624244689941 seconds
+Starting TupleMatrix computation at 0.12907767295837402 seconds
+Ended TupleMatrix computation at 0.12908005714416504 seconds
+Chunk Representation Complete at 0.12908172607421875 seconds
+Starting Sense computation at 0.12908363342285156 seconds
+Sense Representation Complete at 0.12908530235290527 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_14_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12921714782714844 seconds
+Starting Chunk representation at 0.12922167778015137 seconds
+Starting TupleMatrix computation at 0.12922310829162598 seconds
+Ended TupleMatrix computation at 0.129225492477417 seconds
+Chunk Representation Complete at 0.1292269229888916 seconds
+Starting Sense computation at 0.12922906875610352 seconds
+Sense Representation Complete at 0.12923049926757812 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_27_health.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12935400009155273 seconds
+Starting Chunk representation at 0.12935805320739746 seconds
+Starting TupleMatrix computation at 0.12935972213745117 seconds
+Ended TupleMatrix computation at 0.12936186790466309 seconds
+Chunk Representation Complete at 0.1293632984161377 seconds
+Starting Sense computation at 0.1293654441833496 seconds
+Sense Representation Complete at 0.12936663627624512 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_18_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1294875144958496 seconds
+Starting Chunk representation at 0.12949132919311523 seconds
+Starting TupleMatrix computation at 0.12949299812316895 seconds
+Ended TupleMatrix computation at 0.12949800491333008 seconds
+Chunk Representation Complete at 0.129500150680542 seconds
+Starting Sense computation at 0.1295022964477539 seconds
+Sense Representation Complete at 0.12950372695922852 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_5_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12962698936462402 seconds
+Starting Chunk representation at 0.12963080406188965 seconds
+Starting TupleMatrix computation at 0.12963247299194336 seconds
+Ended TupleMatrix computation at 0.12963461875915527 seconds
+Chunk Representation Complete at 0.12963604927062988 seconds
+Starting Sense computation at 0.1296379566192627 seconds
+Sense Representation Complete at 0.1296393871307373 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_7_politics-society.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.12976479530334473 seconds
+Starting Chunk representation at 0.12976861000061035 seconds
+Starting TupleMatrix computation at 0.12977027893066406 seconds
+Ended TupleMatrix computation at 0.12977242469787598 seconds
+Chunk Representation Complete at 0.1297740936279297 seconds
+Starting Sense computation at 0.1297757625579834 seconds
+Sense Representation Complete at 0.129777193069458 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_23_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1299283504486084 seconds
+Starting Chunk representation at 0.12993240356445312 seconds
+Starting TupleMatrix computation at 0.12993407249450684 seconds
+Ended TupleMatrix computation at 0.12993621826171875 seconds
+Chunk Representation Complete at 0.12993788719177246 seconds
+Starting Sense computation at 0.12993955612182617 seconds
+Sense Representation Complete at 0.12994098663330078 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_12_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13006138801574707 seconds
+Starting Chunk representation at 0.1300654411315918 seconds
+Starting TupleMatrix computation at 0.1300671100616455 seconds
+Ended TupleMatrix computation at 0.13007020950317383 seconds
+Chunk Representation Complete at 0.13007164001464844 seconds
+Starting Sense computation at 0.13007354736328125 seconds
+Sense Representation Complete at 0.13007497787475586 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_3_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13019704818725586 seconds
+Starting Chunk representation at 0.1302013397216797 seconds
+Starting TupleMatrix computation at 0.1302027702331543 seconds
+Ended TupleMatrix computation at 0.1302051544189453 seconds
+Chunk Representation Complete at 0.13020658493041992 seconds
+Starting Sense computation at 0.13020825386047363 seconds
+Sense Representation Complete at 0.13020968437194824 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_19_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13032913208007812 seconds
+Starting Chunk representation at 0.13033318519592285 seconds
+Starting TupleMatrix computation at 0.13033461570739746 seconds
+Ended TupleMatrix computation at 0.13033699989318848 seconds
+Chunk Representation Complete at 0.13033843040466309 seconds
+Starting Sense computation at 0.1303400993347168 seconds
+Sense Representation Complete at 0.1303415298461914 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_16_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13045835494995117 seconds
+Starting Chunk representation at 0.1304624080657959 seconds
+Starting TupleMatrix computation at 0.1304638385772705 seconds
+Ended TupleMatrix computation at 0.13046598434448242 seconds
+Chunk Representation Complete at 0.13046741485595703 seconds
+Starting Sense computation at 0.13046932220458984 seconds
+Sense Representation Complete at 0.13047242164611816 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_21_sports.chunk
+GIVEN TIME TO PROCESS:  100[H[2J  secs
+Bag Representation Complete at 0.1306300163269043 seconds
+Starting Chunk representation at 0.13063430786132812 seconds
+Starting TupleMatrix computation at 0.13063597679138184 seconds
+Ended TupleMatrix computation at 0.13063907623291016 seconds
+Chunk Representation Complete at 0.13064050674438477 seconds
+Starting Sense computation at 0.13064241409301758 seconds
+Sense Representation Complete at 0.1306438446044922 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_1_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13077640533447266 seconds
+Starting Chunk representation at 0.13078045845031738 seconds
+Starting TupleMatrix computation at 0.1307821273803711 seconds
+Ended TupleMatrix computation at 0.130784273147583 seconds
+Chunk Representation Complete at 0.13078594207763672 seconds
+Starting Sense computation at 0.13078784942626953 seconds
+Sense Representation Complete at 0.13078927993774414 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_17_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13090991973876953 seconds
+Starting Chunk representation at 0.13091397285461426 seconds
+Starting TupleMatrix computation at 0.13091564178466797 seconds
+Ended TupleMatrix computation at 0.13091778755187988 seconds
+Chunk Representation Complete at 0.1309192180633545 seconds
+Starting Sense computation at 0.1309208869934082 seconds
+Sense Representation Complete at 0.1309223175048828 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_4_politics-society.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13104510307312012 seconds
+Starting Chunk representation at 0.13104915618896484 seconds
+Starting TupleMatrix computation at 0.13105082511901855 seconds
+Ended TupleMatrix computation at 0.13105297088623047 seconds
+Chunk Representation Complete at 0.13105440139770508 seconds
+Starting Sense computation at 0.1310563087463379 seconds
+Sense Representation Complete at 0.1310577392578125 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_24_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13117718696594238 seconds
+Starting Chunk representation at 0.13118338584899902 seconds
+Starting TupleMatrix computation at 0.13118577003479004 seconds
+Ended TupleMatrix computation at 0.13118791580200195 seconds
+Chunk Representation Complete at 0.13118958473205566 seconds
+Starting Sense computation at 0.13119149208068848 seconds
+Sense Representation Complete at 0.13119268417358398 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_15_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.13131022453308105 seconds
+Starting Chunk representation at 0.13131403923034668 seconds
+Starting TupleMatrix computation at 0.1313157081604004 seconds
+Ended TupleMatrix computation at 0.1313178539276123 seconds
+Chunk Representation Complete at 0.13131928443908691 seconds
+Starting Sense computation at 0.13132095336914062 seconds
+Sense Representation Complete at 0.13132238388061523 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+Cur dir : /home/spark/ShortTextClassification/ADM_v4/src
+Path is :  /home/spark/ShortTextClassification/ADM_v4/src/Data/Test/Rep_test_22_sports.chunk
+GIVEN TIME TO PROCESS:  100  secs
+Bag Representation Complete at 0.1314373016357422 seconds
+Starting Chunk representation at 0.13144135475158691 seconds
+Starting TupleMatrix computation at 0.13144278526306152 seconds
+Ended TupleMatrix computation at 0.13144493103027344 seconds
+Chunk Representation Complete at 0.13144636154174805 seconds
+Starting Sense computation at 0.13144826889038086 seconds
+Sense Representation Complete at 0.13144969940185547 seconds
+Document wise classification : []
+Classification for the chunk :  unclassifiable
+[('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('politics-society', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('health', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('politics-society', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('politics-society', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable'), ('sports', 'unclassifiable')]
+('health-sample.chunk', 1521149181.5489118)
+Commencing Chunk training...
+Training for health-sample.chunk
+Training for health-sample.chunk complete.
+Time taken to Train Chunk: 3.266334533691406e-05 seconds
+('computers-sample.chunk', 1521149181.5489118)
+Commencing Chunk training...
+Training for computers-sample.chunk
+Training for computers-sample.chunk complete.
+Time taken to Train Chunk: 8.58306884765625e-06 seconds
+('education-science-sample.chunk', 1521149181.5489118)
+Commencing Chunk training...
+Training for education-science-sample.chunk
+Training for education-science-sample.chunk complete.
+Time taken to Train Chunk: 2.7418136596679688e-05 seconds
+('culture-arts-entertainment-sample.chunk', 1521149181.5489118)
+Commencing Chunk training...
+Training for culture-arts-entertainment-sample.chunk
+Training for culture-arts-entertainment-sample.chunk complete.
+Time taken to Train Chunk: 3.170967102050781e-05 seconds
+('business-sample.chunk', 1521149181.5489118)
+Commencing Chunk training...
+Training for business-sample.chunk
+Training for business-sample.chunk complete.
+Time taken to Train Chunk: 8.106231689453125e-06 seconds

@@ -87,7 +87,7 @@ def KMPP(wl,cl,matrix,k):
 
 	#print("done in %0.3fs" % (time.time() - t0))
 	order_centroids = km.cluster_centers_.argsort()[:, ::-1]
-	print ("Cluster Centres: ",km.cluster_centers_)
+	#print ("Cluster Centres: ",km.cluster_centers_)
 	#print(cl)#concept list
 	#print("Cluster Results: ",km.labels_)
 	C={}
@@ -95,8 +95,7 @@ def KMPP(wl,cl,matrix,k):
 		C[i]=[]
 	for i,c in enumerate(cl):
 		C[km.labels_[i]].append(i)
-
-	print (C)
+	# print (C)
 	return C
 
 

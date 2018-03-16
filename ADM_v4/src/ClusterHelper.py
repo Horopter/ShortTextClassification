@@ -33,11 +33,12 @@ from collections import OrderedDict
 import math
 import random
 import copy
+import scipy
 from WordBag import *
 from ConceptRep import *
 from ConceptCluster import *
 
-def getConceptVecEntityList(shortText):
+def getConceptVecEntityList(shortText):#shortText is one document
 	ConceptVec = []
 	klen=0
 	for tuplet in shortText:
@@ -55,8 +56,10 @@ def getConceptVecEntityList(shortText):
 		for ent,val in arr.items():
 			arr.update({ent:val/klen})
 		ConceptVec.append(arr)
+	entityList = []
 	ConceptVec = [x for x in ConceptVec if x] # remove empty clusters
-	entityList = ConceptVec[0].keys()
+	if len(ConceptVec) > 0:
+		entityList = ConceptVec[0].keys()
 	#print(ConceptVec)
 	return (ConceptVec,entityList)
 
@@ -81,79 +84,34 @@ def magnitude2(rvec):
 			total += v1*v2
 	return math.sqrt(total)
 
+def getDocumentClusterCenter(docList):
+	ConceptVecEntityListArr = []
+	for shortText in docList:
+		ConceptVecEntityListArr.append(getConceptVecEntityList(shortText))
+	wl = [x[1] for x in ConceptVecEntityListArr]
+	wl = [item for sublist in wl for item in sublist]
+	ExpVecL = []
+	for y in ConceptVecEntityListArr:
+		cv,el = y
+		ExpVecL.append(getExpandedVector(cv,el,wl))
+	listdict = []
+	for x in ExpVecL:
+		listdict.append(dict(x))
+	centroid = {}
+	for entity in wl:
+		for d in listdict:
+			if entity in centroid.keys():
+				centroid[entity] += d[entity]
+			else:
+				centroid.update({entity : 0})
+	for key,val in centroid.items():
+		centroid[key]= val/max(len(ConceptVecEntityListArr),1)
+	return centroid
 
-def SemDistShortText(st1, st2):
-	cv1,el1 = getConceptVecEntityList(st1)
-	cv2,el2 = getConceptVecEntityList(st2)
-	el = list(sorted(set(el1).intersection(el2)))
-	if len(el) == 0:
-		return 1 # 1 - cos(u,v)
-	else:
-		refcv1 = []
-		refcv2 = []
-		for a in cv1:
-			refvec = {}
-			for key in el:
-				refvec.update({key:a[key]})
-			refcv1.append(refvec)
-		for a in cv2:
-			refvec = {}
-			for key in el:
-				refvec.update({key:a[key]})
-			refcv2.append(refvec)
-		rvec1 = []
-		for t1 in refcv1:
-			ovec1 = [v for k,v in t1.items()]
-			rvec1.append(ovec1)
-		rvec2 = []
-		for t2 in refcv2:
-			ovec2 = [v for k,v in t2.items()]
-			rvec2.append(ovec2)
-		total = 0
-		for v1 in rvec1:
-			for v2 in rvec2:
-				total += DotProduct(v1,v2)
-		m1 = magnitude(rvec1)
-		m2 = magnitude(rvec2)
-		return round(1 - float(total)/(m1*m2),4)
-
-
-def DistShortText(st1, st2):
-	cv1,el1 = getConceptVecEntityList(st1)
-	#print("Entity list 1: ",el1)
-	cv2,el2 = getConceptVecEntityList(st2)
-	#print("\nEntity list 2: ",el2)
-	el = list(sorted(set(el1).intersection(set(el2))))
-	#print("\nEntity list intersection: ",el)
-	if len(el) == 0:
-		return 1000000000 # 1 - cos(u,v)
-	else:
-		refcv1 = []
-		refcv2 = []
-		for a in cv1:
-			refvec = {}
-			for key in el:
-				refvec.update({key:a[key]})
-			refcv1.append(refvec)
-		for a in cv2:
-			refvec = {}
-			for key in el:
-				refvec.update({key:a[key]})
-			refcv2.append(refvec)
-		rvec1 = []
-		for t1 in refcv1:
-			ovec1 = [v for k,v in t1.items()]
-			rvec1.append(ovec1)
-		rvec2 = []
-		for t2 in refcv2:
-			ovec2 = [v for k,v in t2.items()]
-			rvec2.append(ovec2)
-		total = 0
-		for v1 in rvec1:
-			for v2 in rvec2:
-				total += DotProduct(v1,v2)
-		return total
-
+def intersection(lst1, lst2):
+    temp = set(lst2)
+    lst3 = [value for value in lst1 if value in temp]
+    return lst3
 
 
 def getExpandedVector(V,el,wl):
@@ -175,6 +133,21 @@ def getExpandedVector(V,el,wl):
 		else:
 			expvec.update({e:0})
 	return sorted(expvec.items(), key=lambda x: x[0])
+
+def ShortTextChunkSemDistance(chunk,st):
+	ev1 = getDocumentClusterCenter(chunk)
+	#ev1 = sorted(ev1.items(), key=lambda x: x[0])
+	#print("ev1\t\t:",ev1)
+	ev2 = getDocumentClusterCenter([st])
+	#ev2 = sorted(ev2.items(), key=lambda x: x[0])
+	#print("ev2:\t\t",ev2)
+	items = ev2.keys()
+	entities = ev1.keys()
+	l = intersection(items,entities)
+	if len(l)==0:
+		return 0
+	else:
+		return len(l)
 
 
 def addAll(indexList,vector):
@@ -208,7 +181,7 @@ def K_Means(expvecl,wlen,l=4,T=100):
 			disto = 1000000000
 			ind = 0
 			for x in range(l):
-				dst = DotProduct(centers[x],ev)/(magnitude2(centers[x])*magnitude2(ev)+epsilon)
+				dst = DotProduct(centers[x],ev)/(magnitude2(centers[x])*magnitude2(ev)+(epsilon/100000))
 				if dst < disto:
 					disto = dst
 					ind = x
@@ -220,7 +193,7 @@ def K_Means(expvecl,wlen,l=4,T=100):
 		dmean = 0
 		for oc in centers:
 			for nc in fcenters:
-				dmean += (DotProduct(oc,nc)/(magnitude2(oc)*magnitude2(nc)+epsilon))
+				dmean += (DotProduct(oc,nc)/(magnitude2(oc)*magnitude2(nc)+(epsilon/100000)))
 		dcost = math.fabs(cost-oldCost)/(oldCost+epsilon)
 		oldCost = cost
 		if dcost <= sigma or dmean <= tau:
