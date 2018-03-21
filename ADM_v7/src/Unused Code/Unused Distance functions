@@ -1,0 +1,137 @@
+def ShortTextDistance(st1,st2):
+	ev1 = getDocumentClusterCenter([st1])
+	ev1 = [v for k,v in ev1]
+	ev2 = getDocumentClusterCenter([st2])
+	ev2 = [v for k,v in ev2]
+	return scipy.spatial.distance.euclidean(ev1,ev2)
+
+
+
+#This is the one being used
+def ShortTextChunkDistance(chunk,st):
+	ev1 = getDocumentClusterCenter(chunk)
+	#ev1 = sorted(ev1.items(), key=lambda x: x[0])
+	#print("ev1\t\t:",ev1)
+	ev2 = getDocumentClusterCenter([st])
+	#ev2 = sorted(ev2.items(), key=lambda x: x[0])
+	#print("ev2:\t\t",ev2)
+	items = ev2.keys()
+	entities = ev1.keys()
+	if len(intersection(items,entities))==0:
+		return 1000000000
+	sqitems = 0
+	a=0
+	b=0
+	for i in items:
+		if i in ev1.keys():
+			sqitems += (math.fabs(ev1[i]-ev2[i])*math.fabs(ev1[i]-ev2[i]))
+			a+=ev1[i]*ev1[i]
+			b+=ev2[i]*ev2[i]
+	dist = math.sqrt(sqitems)
+	#print("dist : ",dist)
+	return dist
+	#return scipy.spatial.distance.euclidean(ev1,ev2)
+
+#This is the one being used
+def ShortTextChunkSemDistance(chunk,st):
+	ev1 = getDocumentClusterCenter(chunk)
+	#ev1 = sorted(ev1.items(), key=lambda x: x[0])
+	#print("ev1\t\t:",ev1)
+	ev2 = getDocumentClusterCenter([st])
+	#ev2 = sorted(ev2.items(), key=lambda x: x[0])
+	#print("ev2:\t\t",ev2)
+	items = ev2.keys()
+	entities = ev1.keys()
+	l = intersection(items,entities)
+	if len(l)==0:
+		return 1000000000
+	else:
+		return 900000000-len(l)
+
+	sqitems = 0
+	a=0
+	b=0
+	for i in items:
+		if i in ev1.keys():
+			sqitems += (math.fabs(ev1[i]-ev2[i])*math.fabs(ev1[i]-ev2[i]))
+			a+=ev1[i]*ev1[i]
+			b+=ev2[i]*ev2[i]
+	dist = math.sqrt(sqitems)
+	#print("dist : ",dist)
+	return dist
+	#return scipy.spatial.distance.euclidean(ev1,ev2)
+
+
+
+
+def SemDistShortText(st1, st2):
+	cv1,el1 = getConceptVecEntityList(st1)
+	cv2,el2 = getConceptVecEntityList(st2)
+	el = list(sorted(set(el1).intersection(el2)))
+	if len(el) == 0:
+		return 1 # 1 - cos(u,v)
+	else:
+		refcv1 = []
+		refcv2 = []
+		for a in cv1:
+			refvec = {}
+			for key in el:
+				refvec.update({key:a[key]})
+			refcv1.append(refvec)
+		for a in cv2:
+			refvec = {}
+			for key in el:
+				refvec.update({key:a[key]})
+			refcv2.append(refvec)
+		rvec1 = []
+		for t1 in refcv1:
+			ovec1 = [v for k,v in t1.items()]
+			rvec1.append(ovec1)
+		rvec2 = []
+		for t2 in refcv2:
+			ovec2 = [v for k,v in t2.items()]
+			rvec2.append(ovec2)
+		total = 0
+		for v1 in rvec1:
+			for v2 in rvec2:
+				total += DotProduct(v1,v2)
+		m1 = magnitude(rvec1)
+		m2 = magnitude(rvec2)
+		return round(1 - float(total)/(m1*m2),4)
+
+
+def DistShortText(st1, st2):
+	cv1,el1 = getConceptVecEntityList(st1)
+	#print("Entity list 1: ",el1)
+	cv2,el2 = getConceptVecEntityList(st2)
+	#print("\nEntity list 2: ",el2)
+	el = list(sorted(set(el1).intersection(set(el2))))
+	#print("\nEntity list intersection: ",el)
+	if len(el) == 0:
+		return 1000000000 # 1 - cos(u,v)
+	else:
+		refcv1 = []
+		refcv2 = []
+		for a in cv1:
+			refvec = {}
+			for key in el:
+				refvec.update({key:a[key]})
+			refcv1.append(refvec)
+		for a in cv2:
+			refvec = {}
+			for key in el:
+				refvec.update({key:a[key]})
+			refcv2.append(refvec)
+		rvec1 = []
+		for t1 in refcv1:
+			ovec1 = [v for k,v in t1.items()]
+			rvec1.append(ovec1)
+		rvec2 = []
+		for t2 in refcv2:
+			ovec2 = [v for k,v in t2.items()]
+			rvec2.append(ovec2)
+		total = 0
+		for v1 in rvec1:
+			for v2 in rvec2:
+				total += DotProduct(v1,v2)
+		return total

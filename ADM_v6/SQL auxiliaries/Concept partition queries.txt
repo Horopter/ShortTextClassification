@@ -1,0 +1,27 @@
+Create table probase.A_Concept as ( Select * from probase.Probase_Large where Concept Like 'A%' );
+Create table probase.B_Concept as ( Select * from probase.Probase_Large where Concept Like 'B%' );
+Create table probase.C_Concept as ( Select * from probase.Probase_Large where Concept Like 'C%' );
+Create table probase.D_Concept as ( Select * from probase.Probase_Large where Concept Like 'D%' );
+Create table probase.E_Concept as ( Select * from probase.Probase_Large where Concept Like 'E%' );
+Create table probase.F_Concept as ( Select * from probase.Probase_Large where Concept Like 'F%' );
+Create table probase.G_Concept as ( Select * from probase.Probase_Large where Concept Like 'G%' );
+Create table probase.H_Concept as ( Select * from probase.Probase_Large where Concept Like 'H%' );
+Create table probase.I_Concept as ( Select * from probase.Probase_Large where Concept Like 'I%' );
+Create table probase.J_Concept as ( Select * from probase.Probase_Large where Concept Like 'J%' );
+Create table probase.K_Concept as ( Select * from probase.Probase_Large where Concept Like 'K%' );
+Create table probase.L_Concept as ( Select * from probase.Probase_Large where Concept Like 'L%' );
+Create table probase.M_Concept as ( Select * from probase.Probase_Large where Concept Like 'M%' );
+Create table probase.N_Concept as ( Select * from probase.Probase_Large where Concept Like 'N%' );
+Create table probase.O_Concept as ( Select * from probase.Probase_Large where Concept Like 'O%' );
+Create table probase.P_Concept as ( Select * from probase.Probase_Large where Concept Like 'P%' );
+Create table probase.Q_Concept as ( Select * from probase.Probase_Large where Concept Like 'Q%' );
+Create table probase.R_Concept as ( Select * from probase.Probase_Large where Concept Like 'R%' );
+Create table probase.S_Concept as ( Select * from probase.Probase_Large where Concept Like 'S%' );
+Create table probase.T_Concept as ( Select * from probase.Probase_Large where Concept Like 'T%' );
+Create table probase.U_Concept as ( Select * from probase.Probase_Large where Concept Like 'U%' );
+Create table probase.V_Concept as ( Select * from probase.Probase_Large where Concept Like 'V%' );
+Create table probase.W_Concept as ( Select * from probase.Probase_Large where Concept Like 'W%' );
+Create table probase.X_Concept as ( Select * from probase.Probase_Large where Concept Like 'X%' );
+Create table probase.Y_Concept as ( Select * from probase.Probase_Large where Concept Like 'Y%' );
+Create table probase.Z_Concept as ( Select * from probase.Probase_Large where Concept Like 'Z%' );
+
