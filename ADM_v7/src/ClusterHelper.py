@@ -37,6 +37,7 @@ import scipy
 from WordBag import *
 from ConceptRep import *
 from ConceptCluster import *
+import numpy
 
 def getConceptVecEntityList(shortText):#shortText is one document
 	ConceptVec = []
@@ -79,9 +80,7 @@ def magnitude(rvec):
 
 def magnitude2(rvec):
 	total = 0
-	for v1 in rvec:
-		for v2 in rvec:
-			total += v1*v2
+	total = np.dot(rvec,rvec).ravel().sum()
 	return math.sqrt(total)
 
 def getDocumentClusterCenter(docList):
@@ -156,6 +155,10 @@ def addAll(indexList,vector):
 		selectedVector.append(vector[x])
 	return list(map(sum, zip(*selectedVector)))
 
+def vecF(oc,nc):
+	epsilon = 0.00001
+	return np.multiply.outer(oc,nc).ravel().sum()/(magnitude2(oc)*magnitude2(nc)+(epsilon/100000))
+
 def K_Means(expvecl,wlen,l=4,T=100):
 	print("K_Means Called\n\n\n")
 	cost =0
@@ -177,23 +180,27 @@ def K_Means(expvecl,wlen,l=4,T=100):
 			centers.append(vec)
 		fcenters = copy.deepcopy(centers)
 		Matrix = [[] for n in range(l)]
+		print("\t\t\tTotal :",len(expvecl))
 		for p,ev in enumerate(expvecl):
+			print(p)
 			disto = 1000000000
 			ind = 0
 			for x in range(l):
-				dst = DotProduct(centers[x],ev)/(magnitude2(centers[x])*magnitude2(ev)+(epsilon/100000))
+				dst = np.multiply.outer(centers[x],ev).ravel().sum()/(magnitude2(centers[x])*magnitude2(ev)+(epsilon/100000))
 				if dst < disto:
 					disto = dst
 					ind = x
 			Matrix[ind].append(p)
 			cost += disto
 			# Update the centers
+		print("Updating the clusters")
 		for x in range(l):
 			fcenters[x] = addAll(Matrix[x],expvecl)
 		dmean = 0
 		for oc in centers:
 			for nc in fcenters:
-				dmean += (DotProduct(oc,nc)/(magnitude2(oc)*magnitude2(nc)+(epsilon/100000)))
+				dmean += vecF(oc,nc)
+		#dmean = np.sum(F(np.transpose([np.tile(centers,len(fcenters)),np.repeat(fcenters,len(centers))])))
 		dcost = math.fabs(cost-oldCost)/(oldCost+epsilon)
 		oldCost = cost
 		if dcost <= sigma or dmean <= tau:
