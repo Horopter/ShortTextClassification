@@ -89,6 +89,7 @@ class BagOfWords():
 		
 def isConcept(word):
 	letter = word[0:2]
+	letter = re.sub("[^A-Za-z]+","",letter)
 	if len(letter) != 2:
 		return False
 	concept_count = 0
@@ -123,7 +124,7 @@ def isAConcept(word):
 
 def getConcepts(word):
 	letter = word[0:2]
-	re.sub("[^A-Za-z]+","",letter)
+	letter = re.sub("[^A-Za-z]+","",letter)
 	if len(letter) != 2:
 		return False
 	connection = pymysql.connect(host="localhost",user="root",password="conceptcluster",db="probase")

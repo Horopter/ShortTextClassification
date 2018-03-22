@@ -103,7 +103,7 @@ def ClassifyChunk(F,Flist,ChunkClusters,TP,start):
 def driver(start):
 	if os.path.isfile("ChunkClusters.pkl"):
 		os.remove("ChunkClusters.pkl")
-	train = ['engineering.chunk.pkl', 'computers.chunk.pkl', 'culture-arts-entertainment.chunk.pkl', 'education-science.chunk.pkl', 'sports.chunk.pkl', 'health.chunk.pkl', 'politics-society.chunk.pkl', 'business.chunk.pkl']
+	train = ['engineering.chunk', 'computers.chunk', 'culture-arts-entertainment.chunk', 'education-science.chunk', 'sports.chunk', 'health.chunk', 'politics-society.chunk', 'business.chunk']
 	test = os.listdir("Data/Test")
 	random.shuffle(test)
 	matrix = []
