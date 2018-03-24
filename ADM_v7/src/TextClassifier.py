@@ -18,7 +18,7 @@ from ShortTextTrainer import StartTraining
 def getFilePath(filename):
 	this_dir=os.path.dirname(os.path.realpath(__file__))
 	print("Cur dir :",this_dir)
-	filePath = this_dir+"/Data/Test/"+filename
+	filePath = this_dir+"/Data/Test-large/"+filename
 	return filePath
 
 def second_highest(numbers):
@@ -100,18 +100,19 @@ def ClassifyChunk(F,Flist,ChunkClusters,TP,start):
 		chunkClassification = common(ann,max)
 	return (chunkClassification.replace(".chunk",""),secChoice)
 
-def driver(start):
+def driver(start,a):
 	if os.path.isfile("ChunkClusters.pkl"):
 		os.remove("ChunkClusters.pkl")
 	train = ['engineering.chunk', 'computers.chunk', 'culture-arts-entertainment.chunk', 'education-science.chunk', 'sports.chunk', 'health.chunk', 'politics-society.chunk', 'business.chunk']
-	test = os.listdir("Data/Test")
+	test = sorted(os.listdir("Data/Test-large"))
 	random.shuffle(test)
 	matrix = []
 	if not (os.path.isfile("ChunkClusters.pkl")):
 		TE = StartTraining(train,start)
 	os.system('tput clear')
 	TestLen = len(test)
-	x = random.choice(test)
+	print(a,len(test))
+	x = test[a]
 	path = getFilePath(x)
 	print("Path of test file is : ",path)
 	timeToProcess=100
@@ -119,7 +120,7 @@ def driver(start):
 	number,expectedResult = x.replace("Rep_test_","").replace(".chunk","").split("_")
 	result = ClassifyChunk(path,train,TE,timeToProcess,start)
 	print("Classification for the chunk : ",result,expectedResult)
-	print("Final Result is expected = %s and given is %s."%(expectedResult,result))
+	print("%s : Final Result is expected = %s and given is %s."%(x,expectedResult,result))
 
 if __name__=="__main__":
-	driver(time.time())
+	driver(time.time(),int(sys.argv[1]))

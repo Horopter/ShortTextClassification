@@ -39,7 +39,7 @@ class BagOfWords():
 	C_bloblist=[]
 
 	def __init__(self, dc,tm):
-		s=requests.session()
+		#s=requests.session()
 		startTime=time.time()
 		timeToProcess=tm/5 #Bag of words takes 1/5th of the total time for classification (Experimentally seen)
 		#random.shuffle(dc.DocList) #Kind of random sampling in case time expires
@@ -48,25 +48,24 @@ class BagOfWords():
 				print("BagofWords Time Exceeded:\nProcessed: ",d_i," Documents")
 				break
 
-			candidate=re.sub("[^\w]", " ",  d.line).split()#get document line by line
+			candidate=re.sub("[^\w]", " ",  d.line).split()#get document is one line
 			ent=[]
 			con=[]
 			candidate = [word for word in candidate if word not in stopwords.words('english')]
 			candidate=[nltk.stem.WordNetLemmatizer().lemmatize(word,'v') for word in candidate]
-
 			for c in candidate:
 				
 				if isConcept(c):
 					con.append(c)
 				else:
 					ent.append(c)
-									
+
 			ent=list(set(ent))#repetitions are not significant in short text
 			uselessEnt=[]
 			EtoConPerDoc=[]
 			for e in ent:
-				enTocon=getConcepts(e,s)
-				enTocon = list(enTocon.keys())
+				enTocon=getConcepts(e)
+				# enTocon = list(enTocon.keys())
 				if not enTocon:
 					uselessEnt.append(e)
 				else:
@@ -85,10 +84,12 @@ class BagOfWords():
 			self.E_bloblist.append(tb(' '.join(ent)))
 			self.C_bloblist.append(tb(' '.join(con)))
 			self.AllConcepts.append(EntoCon)#extend would raise the cost of co,putation about 10 fold.
-
 		
 def isConcept(word):
 	letter = word[0:2]
+	letter = re.sub("[^A-Za-z]+","",letter)
+	if len(letter) != 2:
+		return False
 	concept_count = 0
 	entity_count = 0
 	connection = pymysql.connect(host="localhost",user="root",password="conceptcluster",db="probase")
@@ -115,15 +116,22 @@ def isAConcept(word):
 	p = Probase()
 	return p.isAConcept(word)
 
-def getConcepts(word,s):# Return the top 5 concepts
-	r=s.get("https://concept.research.microsoft.com/api/Concept/ScoreByProb?instance="+word+"&topK=5")
-	data=r.json()
-	d = {}
-	for k,v in data.items():
-		l = []
-		l.append(v)
-		d[k] = l
-	return dict(data)
+def getConcepts(word):
+	letter = word[0:2]
+	letter = re.sub("[^A-Za-z]+","",letter)
+	if len(letter) != 2:
+		return False
+	connection = pymysql.connect(host="localhost",user="root",password="conceptcluster",db="probase")
+	try:
+	    with connection.cursor() as cursor:
+	        # Read a single record
+	        sql = "SELECT Concept FROM `"+letter.upper()+"_Instance` where entity = \""+word+"\" order by popularity desc limit 10;"
+	        print(sql)
+	        cursor.execute(sql)
+	        result = [item[0] for item in cursor.fetchall()]
+	        return result
+	finally:
+	    connection.close()
 
 def getAnyBagOfWords(F,start,TP):
 	#Set random time limit to process the document chunk
