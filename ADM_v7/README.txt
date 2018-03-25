@@ -1,6 +1,7 @@
-The testing could not be done due to large amount taken for training.
-Report will be mailed shortly and will be uploaded to out project link https://github.com/Horopter/ShortTextClassification
+Refer to the README.html inside the src folder
+Project link  : https://github.com/Horopter/ShortTextClassification
+
+Important note :  Topic drift could not be made anytime, so it has not been implemented from he paper
 
 Sincerely,
-	Madhuresh Bhattacharya
-	Santosh Desai
+	Santosh Desai (2017H1030130P)
